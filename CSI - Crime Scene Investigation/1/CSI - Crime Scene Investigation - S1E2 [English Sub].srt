@@ -1,0 +1,2891 @@
+
+00:00:00,768 --> 00:00:01,868
+<i>Previously on</i> C.S.I.:
+
+00:00:01,868 --> 00:00:04,378
+Welcome to Forensics.
+Gil Grissom.
+
+00:00:04,378 --> 00:00:05,712
+I’m your supervisor
+on graveyard.
+
+00:00:05,712 --> 00:00:07,213
+Holly Gribbs.
+
+00:00:07,213 --> 00:00:09,956
+You’re the fifth person
+I’ve been forced to hire.
+
+00:00:09,956 --> 00:00:11,558
+Well, that’s not fair.
+
+00:00:11,558 --> 00:00:12,925
+You think putting a juiced-in
+lieutenant’s daughter
+
+00:00:12,925 --> 00:00:14,260
+on the shift is fair?
+
+00:00:14,260 --> 00:00:16,667
+I’m fulfilling her dreams,
+not mine.
+
+00:00:16,667 --> 00:00:18,869
+I can sit here,
+and I can baby you
+
+00:00:18,869 --> 00:00:21,238
+and I can tell you to quit,
+but I’m not going to do that
+
+00:00:21,238 --> 00:00:22,672
+at least until
+you’ve solved
+
+00:00:22,672 --> 00:00:24,140
+your first, and if, after that,
+you don’t feel
+
+00:00:24,140 --> 00:00:26,175
+like King Kong on cocaine...
+
+00:00:26,175 --> 00:00:27,910
+then you can quit.
+
+00:00:27,910 --> 00:00:30,045
+Grissom, have Warrick shadow
+Gribbs for the next three weeks
+
+00:00:30,045 --> 00:00:32,646
+or until Nicky makes his
+100th, whatever comes first.
+
+00:00:32,646 --> 00:00:34,381
+People walk every
+day because of you.
+Every day!
+
+00:00:34,381 --> 00:00:36,149
+That’s enough. That’s enough.
+Warrick, let’s go!
+
+00:00:36,149 --> 00:00:38,051
+You had him,
+and the minute you
+started thinking
+
+00:00:38,051 --> 00:00:40,152
+about yourself
+instead of the
+case, you lost him.
+
+00:00:40,152 --> 00:00:41,153
+You’ll be okay
+on your own?
+
+00:00:41,153 --> 00:00:42,221
+Are you kidding?
+
+00:00:42,221 --> 00:00:43,488
+I’m fired up,
+ready to go.
+
+00:00:43,488 --> 00:00:45,156
+Besides, there’s
+an officer here.
+
+00:00:45,156 --> 00:00:46,790
+I’m sorry, Judge.
+
+00:00:46,790 --> 00:00:48,491
+Captain Brass wouldn’t call
+you for a search warrant.
+
+00:00:48,491 --> 00:00:50,427
+I got a whopper on the line
+with a 100-pound test.
+
+00:00:50,427 --> 00:00:52,061
+You got a winner for me?
+
+00:00:52,061 --> 00:00:53,229
+Favre.
+
+00:00:53,229 --> 00:00:55,497
+You put $5,000 down
+on the Pack for me
+
+00:00:55,497 --> 00:00:57,598
+I’ll give you a blank warrant.
+
+00:00:57,598 --> 00:00:59,033
+Congratulations, Nicky, my boy.
+
+00:00:59,033 --> 00:01:00,768
+You are now a C.S.I.
+Level Three.
+
+00:01:00,768 --> 00:01:01,901
+Whoo!
+
+00:01:01,901 --> 00:01:03,903
+Whoo-hoo! Yeah!
+
+00:01:03,903 --> 00:01:05,504
+I’ll be right there.
+
+00:01:05,504 --> 00:01:07,339
+Uh, give me ’Niners
+for five dimes.
+
+00:01:08,640 --> 00:01:10,908
+Weren’t you supposed
+to be shadowing Holly?
+
+00:01:10,908 --> 00:01:12,109
+Oh. She’s cool.
+
+00:01:12,109 --> 00:01:13,710
+She’s doing prints
+on that 4-0-7.
+
+00:01:13,710 --> 00:01:14,945
+There’s an officer there.
+
+00:01:14,945 --> 00:01:15,946
+Excuse me, miss.
+
+00:01:15,946 --> 00:01:16,746
+( <i>gasps</i> )
+
+00:01:16,746 --> 00:01:18,548
+Holly Gribbs has been shot.
+
+00:01:18,548 --> 00:01:21,950
+They don’t think
+she’s going to make it.
+
+00:02:01,746 --> 00:02:03,414
+Oh!
+
+00:02:06,517 --> 00:02:10,187
+( <i>bells dinging</i> )
+
+00:02:10,187 --> 00:02:12,454
+( <i>handle cranks</i> )
+
+00:02:15,256 --> 00:02:16,992
+Hey, look.
+
+00:02:23,029 --> 00:02:25,898
+Oh, $40 million.
+
+00:02:25,898 --> 00:02:27,833
+Could you imagine?
+
+00:02:27,833 --> 00:02:29,134
+Never happen.
+
+00:02:29,134 --> 00:02:31,102
+You got a better chance
+of going to the moon.
+
+00:02:31,102 --> 00:02:34,505
+Woman:
+Oh, give me a $20. Hurry!
+
+00:02:34,505 --> 00:02:35,672
+I just got a premonition.
+
+00:02:35,672 --> 00:02:37,507
+You got your own
+money. Go play.
+
+00:02:37,507 --> 00:02:39,441
+Woman:
+But I left my purse in the room.
+
+00:02:39,441 --> 00:02:42,076
+I’ll play.
+Wait here.
+
+00:02:44,312 --> 00:02:45,713
+( <i>sighs</i> )
+
+00:02:48,581 --> 00:02:49,782
+Is this your slot card?
+
+00:02:49,782 --> 00:02:51,951
+No.
+
+00:02:51,951 --> 00:02:54,353
+( <i>handle cranks</i> )
+
+00:02:58,656 --> 00:03:01,358
+Your little <i>premonition</i>
+just cost me $20.
+
+00:03:01,358 --> 00:03:02,926
+Happy now?
+
+00:03:02,926 --> 00:03:04,894
+Here.
+
+00:03:06,094 --> 00:03:08,096
+Watch out.
+
+00:03:08,096 --> 00:03:09,431
+Here come the millions.
+
+00:03:09,431 --> 00:03:10,432
+( <i>bells ding</i> )
+
+00:03:10,432 --> 00:03:11,432
+Oh, my God!
+
+00:03:11,432 --> 00:03:12,499
+( <i>siren bells blaring</i> )
+
+00:03:12,499 --> 00:03:14,601
+( <i>screaming</i> )
+
+00:03:16,869 --> 00:03:20,805
+( <i>screaming and laughing</i> )
+
+00:03:27,444 --> 00:03:28,711
+Man:
+<i>$40 million.</i>
+
+00:03:28,711 --> 00:03:32,248
+You’ll be having
+lobster tonight.
+
+00:03:32,248 --> 00:03:34,516
+They gave us
+the Presidential Suite.
+
+00:03:34,516 --> 00:03:36,384
+Can you believe it?
+
+00:03:36,384 --> 00:03:39,620
+Here, Richard Gere,
+why don’t you let me
+help you with that?
+
+00:03:39,620 --> 00:03:40,988
+( <i>chuckles</i> )
+
+00:03:40,988 --> 00:03:43,089
+( <i>beeps</i> )
+
+00:03:44,457 --> 00:03:45,858
+Thank you.
+
+00:03:47,492 --> 00:03:49,761
+Oh! Look at our view!
+
+00:03:52,096 --> 00:03:53,797
+Wow!
+
+00:03:56,232 --> 00:03:59,068
+Take a hike.
+
+00:03:59,068 --> 00:04:00,970
+Get lost.
+
+00:04:00,970 --> 00:04:02,504
+Excuse me?
+
+00:04:02,504 --> 00:04:03,604
+Come on, Jamie.
+
+00:04:03,604 --> 00:04:05,106
+I’m a millionaire now.
+
+00:04:05,106 --> 00:04:07,841
+Now, why would I want
+to waste any more time
+
+00:04:07,841 --> 00:04:08,908
+with you?
+
+00:04:08,908 --> 00:04:09,909
+( <i>knocking</i> )
+
+00:04:09,909 --> 00:04:11,043
+Room service.
+
+00:04:12,911 --> 00:04:14,713
+Grissom:
+<i>All right, the minute</i>
+
+00:04:14,713 --> 00:04:17,148
+you hear <i>anything</i>
+on Holly Gribbs’s condition
+
+00:04:17,148 --> 00:04:18,316
+I want you to page me.
+
+00:04:18,316 --> 00:04:20,517
+All right? Bye.
+
+00:04:20,517 --> 00:04:23,787
+Dispatcher:
+...call back
+at 4-7-7 Desert Inn Road.
+
+00:04:23,787 --> 00:04:25,554
+So he pulled a Louganis, huh?
+
+00:04:25,554 --> 00:04:26,922
+Yeah, 150 feet.
+
+00:04:26,922 --> 00:04:28,723
+The Gigamillions curse
+strikes again.
+
+00:04:28,723 --> 00:04:31,125
+Past four winners
+ended up dead or missing.
+
+00:04:31,125 --> 00:04:32,126
+What do you think,
+Grissom?
+
+00:04:32,126 --> 00:04:33,127
+It’s a conspiracy.
+
+00:04:33,127 --> 00:04:34,127
+Coincidence.
+
+00:04:34,127 --> 00:04:35,628
+I worked those
+four cases.
+
+00:04:35,628 --> 00:04:37,330
+There was never
+any evidence of
+foul play.
+
+00:04:37,330 --> 00:04:39,064
+Was he in town with anybody?
+
+00:04:39,064 --> 00:04:40,432
+His girlfriend.
+
+00:04:40,432 --> 00:04:41,800
+She’s upstairs
+in police custody.
+
+00:04:41,800 --> 00:04:43,001
+Do you want to talk
+to her?
+
+00:04:43,001 --> 00:04:44,102
+Not yet.
+
+00:04:44,102 --> 00:04:45,669
+Right now, I want
+to talk to him.
+
+00:04:45,669 --> 00:04:48,271
+How do you talk
+to a dead body?
+
+00:04:48,271 --> 00:04:49,439
+I let him talk
+
+00:04:49,439 --> 00:04:51,173
+to me, actually.
+
+00:04:51,173 --> 00:04:53,875
+In fact, he just spoke.
+
+00:04:53,875 --> 00:04:55,543
+Didn’t you hear him?
+
+00:04:55,543 --> 00:04:59,714
+He just told me
+that he didn’t
+commit suicide.
+
+00:04:59,714 --> 00:05:01,215
+No. You-you lost me.
+
+00:05:01,215 --> 00:05:03,883
+This guy fell to his death
+wearing prescription eyeglasses.
+
+00:05:03,883 --> 00:05:06,452
+Jumpers take their glasses off.
+
+00:05:06,452 --> 00:05:08,020
+( <i>siren blares</i> )
+
+00:05:08,020 --> 00:05:10,788
+Suicide is the ultimate form
+of selfishness, detective.
+
+00:05:10,788 --> 00:05:12,156
+It’s unlikely that
+
+00:05:12,156 --> 00:05:14,925
+anyone cowardly enough
+to take his own life
+
+00:05:14,925 --> 00:05:17,960
+would be brave enough
+to watch his own death.
+
+00:05:17,960 --> 00:05:20,095
+You can tell all that
+just by looking
+
+00:05:20,095 --> 00:05:21,363
+at a pair of eyeglasses?
+
+00:05:21,363 --> 00:05:23,765
+You have no idea.
+
+00:05:30,603 --> 00:05:33,472
+♪ Who... are you? ♪
+
+00:05:33,472 --> 00:05:35,706
+♪ Who, who, who, who? ♪
+
+00:05:36,641 --> 00:05:39,777
+♪ Who... are you? ♪
+
+00:05:39,777 --> 00:05:41,611
+♪ Who, who, who, who? ♪
+
+00:05:41,611 --> 00:05:42,746
+♪ I really wanna know ♪
+
+00:05:42,746 --> 00:05:45,881
+♪ Who... are you? ♪
+
+00:05:45,881 --> 00:05:47,750
+♪ Oh-oh-oh ♪
+♪ Who... ♪
+
+00:05:47,750 --> 00:05:51,285
+♪ Come on, tell me who are you,
+you, you ♪
+
+00:05:51,285 --> 00:05:54,187
+♪ Oh, you! ♪
+
+00:05:59,024 --> 00:06:00,025
+Messages?
+
+00:06:00,025 --> 00:06:01,693
+Mm-hmm.
+
+00:06:11,600 --> 00:06:13,001
+( <i>phone ringing</i> )
+
+00:06:16,004 --> 00:06:18,706
+( <i>indistinct conversation</i> )
+
+00:06:29,314 --> 00:06:32,816
+( <i>sighs</i> )
+
+00:06:32,816 --> 00:06:34,885
+I just got off the phone
+with the Sheriff.
+
+00:06:34,885 --> 00:06:37,019
+He says he wants me
+to run the unit.
+
+00:06:37,019 --> 00:06:39,554
+You’re the boss.
+
+00:06:41,823 --> 00:06:43,892
+I mean, I can’t say
+I didn’t do it to myself.
+
+00:06:43,892 --> 00:06:45,826
+Where are they going
+to place you?
+
+00:06:45,826 --> 00:06:47,327
+Homicide. Believe that?
+
+00:06:47,327 --> 00:06:48,628
+( <i>chuckles</i> )
+
+00:06:48,628 --> 00:06:50,029
+Instead of moving up,
+I’m moving back
+
+00:06:50,029 --> 00:06:52,598
+in a time capsule,
+like it’s 1979 again.
+
+00:06:55,100 --> 00:06:57,302
+So, I guess, this might put
+you and me at odds.
+
+00:06:57,302 --> 00:06:59,036
+Cop versus scientist.
+
+00:06:59,036 --> 00:07:01,205
+Interesting, huh?
+
+00:07:04,173 --> 00:07:05,608
+Yeah.
+
+00:07:07,642 --> 00:07:09,877
+You got any advice for me?
+
+00:07:09,877 --> 00:07:12,379
+Yeah, cover you ass...
+
+00:07:12,379 --> 00:07:13,714
+and hide.
+
+00:07:15,715 --> 00:07:17,817
+They’re all
+yours, pal.
+
+00:07:19,451 --> 00:07:21,220
+Tragedy struck early
+this morning
+
+00:07:21,220 --> 00:07:23,654
+when an on-duty
+Las Vegas criminalist
+
+00:07:23,654 --> 00:07:25,155
+was brutally gunned down.
+
+00:07:25,155 --> 00:07:27,257
+It was her first night
+on the job.
+
+00:07:27,257 --> 00:07:30,627
+Victim Holly Gribbs
+was investigating
+
+00:07:30,627 --> 00:07:32,594
+a robbery/homicide
+in an apartment
+
+00:07:32,594 --> 00:07:34,996
+on the corner of M.L.K.
+and Warm Springs.
+
+00:07:34,996 --> 00:07:37,332
+The crime lab now faces
+the daunting task
+
+00:07:37,332 --> 00:07:40,300
+of investigating the shooting
+of one of their own.
+
+00:07:40,300 --> 00:07:43,937
+The wounded C.S.I.
+has been taken to Desert Palm
+
+00:07:43,937 --> 00:07:45,738
+where she is listed
+in critical condition.
+
+00:07:45,738 --> 00:07:48,206
+The suspect is still at large.
+
+00:07:48,206 --> 00:07:49,674
+Newsman:
+In other news...
+
+00:07:49,674 --> 00:07:51,542
+Weren’t you supposed to be
+shadowing Holly?
+
+00:07:51,542 --> 00:07:52,909
+Warrick, man,
+what happened?
+
+00:07:52,909 --> 00:07:55,378
+I left her to hook up
+with Grissom
+
+00:07:55,378 --> 00:07:57,313
+on that toenail case...
+
+00:07:57,313 --> 00:07:59,348
+and then, I came back here.
+
+00:07:59,348 --> 00:08:00,415
+You left Holly solo?
+
+00:08:00,415 --> 00:08:02,416
+It was just supposed
+to be
+
+00:08:02,416 --> 00:08:04,418
+an easy print job.
+
+00:08:04,418 --> 00:08:07,687
+Look, I feel bad enough, okay?
+
+00:08:16,527 --> 00:08:18,262
+Here’s what we know.
+
+00:08:20,830 --> 00:08:23,832
+Brass assigned Warrick
+to shadow Holly on a robbery.
+
+00:08:23,832 --> 00:08:26,635
+He left her at the scene.
+
+00:08:26,635 --> 00:08:28,770
+The suspect returned
+
+00:08:28,770 --> 00:08:31,772
+and Holly was shot.
+
+00:08:31,772 --> 00:08:34,174
+The sheriff phoned me
+earlier this morning.
+
+00:08:34,174 --> 00:08:37,042
+Brass has been moved back
+to homicide.
+
+00:08:37,042 --> 00:08:39,311
+Who’s going to run the unit?
+
+00:08:39,311 --> 00:08:40,545
+For now?
+
+00:08:40,545 --> 00:08:41,880
+Me.
+
+00:08:41,880 --> 00:08:43,647
+I know.
+
+00:08:43,647 --> 00:08:47,584
+We’ll just play it by ear, okay?
+
+00:08:47,584 --> 00:08:49,185
+All right.
+
+00:08:49,185 --> 00:08:51,153
+Last night, a jackpot winner
+took a swan dive
+
+00:08:51,153 --> 00:08:53,989
+off the Hotel Monaco
+about the time Holly was shot.
+
+00:08:53,989 --> 00:08:55,556
+I’m going to work the leaper.
+
+00:08:55,556 --> 00:08:56,691
+Nick?
+
+00:08:56,691 --> 00:08:57,858
+Yes, sir.
+
+00:08:57,858 --> 00:08:59,293
+You work the Holly case.
+
+00:08:59,293 --> 00:09:00,394
+Wait a minute.
+
+00:09:00,394 --> 00:09:02,929
+Uh, you-you can’t give him
+the Holly case.
+
+00:09:02,929 --> 00:09:04,197
+I mean, all due
+respect, Nick.
+
+00:09:04,197 --> 00:09:05,931
+I want this one.
+Nicky is the only one
+
+00:09:05,931 --> 00:09:08,033
+that didn’t have
+any personal contact with Holly.
+
+00:09:08,033 --> 00:09:09,567
+I don’t want you on this,
+Catherine.
+
+00:09:09,567 --> 00:09:11,302
+Why?
+Because you’re
+
+00:09:11,302 --> 00:09:12,103
+emotionally involved.
+
+00:09:12,103 --> 00:09:13,437
+Yeah. She was going to walk.
+
+00:09:13,437 --> 00:09:15,205
+I convinced her to stay.
+
+00:09:15,205 --> 00:09:18,340
+If anyone’s to blame here,
+it’s me, and I want this case.
+
+00:09:18,340 --> 00:09:19,674
+Fire me.
+
+00:09:19,674 --> 00:09:21,209
+I’m not firing anybody.
+
+00:09:21,209 --> 00:09:22,777
+Look. I know we’re pulling
+a double.
+
+00:09:22,777 --> 00:09:23,844
+We’re on edge
+’cause of Holly.
+
+00:09:23,844 --> 00:09:25,379
+I just want everyone
+to stay calm
+
+00:09:25,379 --> 00:09:28,215
+and to do their jobs
+for the next ten hours.
+
+00:09:30,149 --> 00:09:31,583
+And as of now
+
+00:09:31,583 --> 00:09:33,218
+we’re short of help.
+
+00:09:33,218 --> 00:09:36,321
+So I’m bringing in
+Sara Sidle to give us a hand.
+
+00:09:36,321 --> 00:09:38,022
+Sara Sidle?
+
+00:09:38,022 --> 00:09:40,023
+Who’s that?
+She’s a C.S.I. out
+of San Francisco.
+
+00:09:40,023 --> 00:09:42,959
+She’s a friend of mine,
+someone I trust.
+
+00:09:42,959 --> 00:09:45,293
+She’s going to handle
+our internal investigation
+
+00:09:45,293 --> 00:09:47,462
+and I want to keep this
+in-house.
+
+00:09:47,462 --> 00:09:49,363
+I don’t want I.A. involved.
+
+00:09:49,363 --> 00:09:53,834
+Great, that’s just what we need,
+somebody sniffing around.
+
+00:09:57,503 --> 00:10:00,439
+Nicky, you can back me up
+on the D.B. at the Monaco.
+
+00:10:00,439 --> 00:10:01,740
+You got it.
+
+00:10:01,740 --> 00:10:03,074
+That’s it.
+
+00:10:06,343 --> 00:10:07,977
+That’s it?
+
+00:10:10,612 --> 00:10:12,881
+What about me?
+
+00:10:12,881 --> 00:10:13,915
+You’re on leave.
+
+00:10:13,915 --> 00:10:15,116
+You get some personal time.
+
+00:10:15,116 --> 00:10:16,651
+I don’t want any personal time.
+
+00:10:16,651 --> 00:10:17,652
+I want to help.
+
+00:10:17,652 --> 00:10:19,719
+You’re the boss now.
+
+00:10:19,719 --> 00:10:22,588
+You can reinstate me.
+
+00:10:22,588 --> 00:10:24,390
+Go home, Warrick.
+
+00:10:24,390 --> 00:10:27,159
+Get your story straight
+before Sara gets here.
+
+00:10:40,068 --> 00:10:42,003
+A little late
+for the brigade.
+
+00:10:44,872 --> 00:10:46,907
+What do you think
+happened here?
+
+00:10:49,408 --> 00:10:51,143
+First blush?
+
+00:10:54,645 --> 00:10:55,880
+Don’t move.
+
+00:10:55,880 --> 00:10:58,916
+Hey, it’s okay.
+I’m not a cop.
+
+00:10:58,916 --> 00:11:00,984
+I just...
+I just analyze the scene.
+
+00:11:00,984 --> 00:11:04,887
+( <i>gunshots firing</i> )
+
+00:11:06,388 --> 00:11:08,089
+( <i>sighs deeply</i> )
+
+00:11:11,358 --> 00:11:13,293
+This is Holly’s gun.
+
+00:11:18,430 --> 00:11:21,299
+She shot back.
+
+00:11:21,299 --> 00:11:22,433
+( <i>pager beeps</i> )
+
+00:11:26,136 --> 00:11:27,937
+( <i>beeping continues</i> )
+
+00:11:39,513 --> 00:11:40,580
+He’s all rigored up.
+
+00:11:40,580 --> 00:11:43,549
+Now pull it like
+a slot machine.
+
+00:11:43,549 --> 00:11:45,483
+It’s been three weeks
+since my last jumper.
+
+00:11:45,483 --> 00:11:47,919
+At least this one
+died a millionaire.
+
+00:11:47,919 --> 00:11:52,389
+( <i>groans</i> )
+
+00:11:52,389 --> 00:11:56,125
+Jeez, these look like
+defensive wounds, maybe.
+
+00:11:56,125 --> 00:11:59,094
+Somebody came after this guy
+with something pretty sharp.
+
+00:12:00,229 --> 00:12:02,396
+You have any idea
+what it might be?
+
+00:12:02,396 --> 00:12:03,997
+Glass, maybe.
+
+00:12:03,997 --> 00:12:06,766
+We found tiny shards
+in the incised wound.
+
+00:12:06,766 --> 00:12:10,836
+Take a look.
+
+00:12:10,836 --> 00:12:13,238
+Grissom:
+Not just glass--
+
+00:12:13,238 --> 00:12:16,206
+black glass.
+
+00:12:22,278 --> 00:12:24,980
+Broken glass.
+
+00:12:24,980 --> 00:12:28,550
+Blood drops,
+leading to...
+
+00:12:28,550 --> 00:12:29,617
+bloody towels.
+
+00:12:29,617 --> 00:12:32,152
+No effort to hide.
+
+00:12:32,152 --> 00:12:33,620
+Hey!
+
+00:12:33,620 --> 00:12:35,255
+Defensive wounds.
+
+00:12:35,255 --> 00:12:36,756
+Champagne bottle.
+Black glass.
+
+00:12:36,756 --> 00:12:38,490
+I missed that.
+
+00:12:43,794 --> 00:12:45,696
+What do you think, boss?
+
+00:12:45,696 --> 00:12:46,896
+You’re C.S.I. Three, now.
+
+00:12:46,896 --> 00:12:48,398
+You call it.
+
+00:12:48,398 --> 00:12:50,299
+What? You want me
+to play it blind?
+
+00:12:50,299 --> 00:12:51,900
+You’ve read the
+woman’s statement.
+
+00:12:51,900 --> 00:12:54,802
+The room is full of
+evidentiary clues.
+
+00:12:54,802 --> 00:12:56,604
+Talk it out.
+
+00:12:56,604 --> 00:12:58,338
+What does the room say?
+
+00:13:00,206 --> 00:13:01,407
+Okay.
+
+00:13:03,542 --> 00:13:05,711
+Well, according
+to the girlfriend’s statement
+
+00:13:05,711 --> 00:13:08,746
+they were on the balcony
+when they had a lovers’ quarrel.
+
+00:13:08,746 --> 00:13:10,681
+Come on, Jamie.
+
+00:13:10,681 --> 00:13:13,083
+I’m a millionaire now.
+
+00:13:13,083 --> 00:13:14,750
+Now, why would I want to waste
+
+00:13:14,750 --> 00:13:16,486
+any more time
+with you?
+
+00:13:16,486 --> 00:13:18,587
+( <i>knocking at door</i> )
+
+00:13:18,587 --> 00:13:20,322
+Room Service.
+
+00:13:22,656 --> 00:13:23,657
+Thank you.
+
+00:13:23,657 --> 00:13:25,025
+You’re welcome.
+
+00:13:26,159 --> 00:13:27,927
+So what was I
+this whole time, huh?
+
+00:13:27,927 --> 00:13:29,395
+Just someone to bang?
+
+00:13:29,395 --> 00:13:30,762
+Yeah.
+
+00:13:30,762 --> 00:13:31,763
+( <i>grunts/glass breaks</i> )
+
+00:13:31,763 --> 00:13:32,964
+Why?!
+
+00:13:32,964 --> 00:13:36,300
+( <i>grunting</i> )
+
+00:13:37,501 --> 00:13:38,502
+( <i>glass falling</i> )
+
+00:13:38,502 --> 00:13:40,069
+Crazy broad!
+
+00:13:42,638 --> 00:13:44,340
+And then what happened?
+
+00:13:44,340 --> 00:13:46,808
+He took off.
+
+00:13:46,808 --> 00:13:48,309
+I cut him up pretty good.
+
+00:13:48,309 --> 00:13:50,844
+He probably went to the lobby
+to fetch some first aid.
+
+00:13:50,844 --> 00:13:53,814
+And he never came back
+to the room?
+
+00:13:53,814 --> 00:13:55,815
+No.
+
+00:13:55,815 --> 00:13:57,316
+You sure?
+
+00:13:57,316 --> 00:13:59,618
+The Presidential Suite
+at the Hotel Monaco
+
+00:13:59,618 --> 00:14:00,752
+is a secured room.
+
+00:14:00,752 --> 00:14:02,353
+They keep a log.
+
+00:14:02,353 --> 00:14:04,287
+Every time someone enters
+with a card key...
+
+00:14:04,287 --> 00:14:06,523
+Well, if they
+keep a <i>record</i>
+
+00:14:06,523 --> 00:14:08,190
+check it for
+yourself.
+
+00:14:08,190 --> 00:14:10,192
+Why are you bothering me?
+
+00:14:10,192 --> 00:14:13,862
+Nicky, what does the log say?
+
+00:14:13,862 --> 00:14:15,263
+Nicky:
+Well, she’s right.
+
+00:14:15,263 --> 00:14:17,965
+The only entry I see here
+is when hotel security
+
+00:14:17,965 --> 00:14:18,965
+checked them in.
+
+00:14:18,965 --> 00:14:21,334
+Can I go now?
+
+00:14:21,334 --> 00:14:23,202
+Yes, Ma’am.
+
+00:14:30,574 --> 00:14:31,575
+Her story checks out.
+
+00:14:31,575 --> 00:14:32,876
+( <i>door shuts</i> )
+
+00:14:32,876 --> 00:14:34,110
+She doesn’t have
+any financial motive.
+
+00:14:34,110 --> 00:14:35,578
+She was his girlfriend,
+not his wife.
+
+00:14:35,578 --> 00:14:38,647
+Any money won by the deceased
+goes directly
+
+00:14:38,647 --> 00:14:39,981
+to the family estate.
+
+00:14:39,981 --> 00:14:41,983
+Well, if he didn’t fall
+from his own balcony
+
+00:14:41,983 --> 00:14:43,817
+where else could
+it have happened?
+
+00:14:43,817 --> 00:14:46,919
+The roof.
+
+00:14:50,122 --> 00:14:52,424
+Yeah, uh, emergency room,
+please.
+
+00:14:54,125 --> 00:14:55,826
+Patient’s name is Holly Gribbs.
+
+00:14:55,826 --> 00:14:57,762
+( <i>TV playing at low volume</i> )
+
+00:14:57,762 --> 00:15:01,030
+Thanks.
+
+00:15:01,030 --> 00:15:03,632
+( <i>beeping</i> )
+
+00:15:03,632 --> 00:15:05,033
+Warrick here.
+
+00:15:05,033 --> 00:15:07,435
+Warrick, Judge Cohen.
+
+00:15:07,435 --> 00:15:09,470
+You bet the wrong team,
+you idiot.
+
+00:15:09,470 --> 00:15:10,604
+I said Packers.
+
+00:15:10,604 --> 00:15:13,139
+I got the 49ers for five grand.
+
+00:15:13,139 --> 00:15:14,540
+The spot in 15 minutes.
+
+00:15:14,540 --> 00:15:15,875
+( <i>clicks</i> )
+
+00:15:25,748 --> 00:15:28,518
+Okay, I think we’re ready
+for Operation Norman.
+
+00:15:30,819 --> 00:15:32,788
+You’ll never
+get that off.
+
+00:15:32,788 --> 00:15:34,255
+It’s Meyer’s
+roof dust.
+
+00:15:34,255 --> 00:15:36,123
+All the hotels
+use it now.
+
+00:15:36,123 --> 00:15:38,025
+It diverts
+the sun’s rays.
+
+00:15:38,025 --> 00:15:39,759
+Keeps the utility bills
+down in the summer.
+
+00:15:39,759 --> 00:15:41,961
+Yeah?
+
+00:15:41,961 --> 00:15:43,996
+How do you know
+all this crap?
+
+00:15:43,996 --> 00:15:46,731
+It’s our job
+to know stuff.
+
+00:15:46,731 --> 00:15:49,901
+All right, Nick, standing by
+for Operation Norman.
+
+00:15:49,901 --> 00:15:52,135
+Let him fly.
+
+00:15:55,405 --> 00:15:57,139
+Man:
+Oh!
+( <i>thump</i> )
+
+00:16:03,777 --> 00:16:05,678
+( <i>thump</i> )
+
+00:16:09,481 --> 00:16:10,682
+( <i>thump</i> )
+
+00:16:12,851 --> 00:16:14,919
+Yes, yes.
+
+00:16:16,053 --> 00:16:17,821
+Norman pushed.
+
+00:16:17,821 --> 00:16:19,689
+( <i>shutter clicking</i> )
+
+00:16:19,689 --> 00:16:21,925
+Norman jumped.
+
+00:16:21,925 --> 00:16:23,392
+Norman fell.
+
+00:16:23,392 --> 00:16:25,360
+Wouldn’t you if you were
+married to Mrs. Roper?
+
+00:16:25,360 --> 00:16:27,595
+I don’t even have
+to turn around.
+
+00:16:27,595 --> 00:16:29,163
+Sara Sidle.
+
+00:16:29,163 --> 00:16:30,497
+That’s me.
+
+00:16:30,497 --> 00:16:32,566
+Still tossing
+simulation dummies?
+
+00:16:32,566 --> 00:16:35,601
+There are other ways
+to tell, you know.
+
+00:16:35,601 --> 00:16:36,936
+How? Computer simulation?
+
+00:16:36,936 --> 00:16:38,637
+No, thank you.
+I’m a scientist.
+
+00:16:38,637 --> 00:16:39,671
+I like to see it.
+
+00:16:39,671 --> 00:16:42,140
+Newton dropped the apple,
+I drop dummies.
+
+00:16:42,140 --> 00:16:43,374
+You’re old school.
+
+00:16:43,374 --> 00:16:44,174
+Exactly.
+
+00:16:44,174 --> 00:16:46,176
+And this guy
+was pushed.
+
+00:16:46,176 --> 00:16:48,444
+How’s the girl?
+
+00:16:48,444 --> 00:16:49,745
+She’s still
+in surgery.
+
+00:16:49,745 --> 00:16:51,079
+She’s not doing
+very well.
+
+00:16:51,079 --> 00:16:53,314
+That’s too bad.
+
+00:16:53,314 --> 00:16:55,983
+God, Sara, I have so
+many unanswered whys.
+
+00:16:55,983 --> 00:16:57,184
+There’s only one why
+that matters now.
+
+00:16:57,184 --> 00:17:01,154
+Why did Warrick Brown
+leave that scene?
+
+00:17:09,526 --> 00:17:11,762
+Cohen:
+What are you,
+dyslexic?
+
+00:17:11,762 --> 00:17:13,997
+You owe me
+ten grand, buddy.
+
+00:17:13,997 --> 00:17:16,431
+All I got is four.
+
+00:17:16,431 --> 00:17:18,133
+So what are you
+breathing here for?
+
+00:17:18,133 --> 00:17:19,734
+Get out there
+and get my money.
+
+00:17:19,734 --> 00:17:21,369
+Hey, look, a girl was shot
+on my watch
+
+00:17:21,369 --> 00:17:22,936
+’cause I was doing you a favor.
+
+00:17:22,936 --> 00:17:24,471
+Hey, you came to me.
+
+00:17:26,573 --> 00:17:28,207
+All right, Judge,
+I’ll get your money
+
+00:17:28,207 --> 00:17:29,208
+but I need more time.
+
+00:17:29,208 --> 00:17:30,209
+You got to give me a day.
+
+00:17:30,209 --> 00:17:31,543
+You got an hour.
+
+00:17:34,445 --> 00:17:37,314
+Do you know where I can find
+Catherine Willows?
+
+00:17:37,314 --> 00:17:39,483
+She’s out in the field.
+
+00:17:42,818 --> 00:17:44,753
+Let me guess...
+
+00:17:44,753 --> 00:17:46,521
+Sara Sidle?
+
+00:17:46,521 --> 00:17:47,589
+I know who <i>I</i> am.
+
+00:17:47,589 --> 00:17:49,356
+I think you’re
+a little confused.
+
+00:17:49,356 --> 00:17:54,427
+If you think you’re taking
+my case... forget it.
+
+00:17:59,598 --> 00:18:03,334
+Look, we can stand here
+and argue... or...
+
+00:18:03,334 --> 00:18:05,035
+we can get out there
+and find out
+
+00:18:05,035 --> 00:18:06,469
+who did this
+to Holly Gribbs.
+
+00:18:06,469 --> 00:18:10,106
+Two sharp women
+are better than one.
+
+00:18:13,074 --> 00:18:14,375
+Pager.
+
+00:18:14,375 --> 00:18:18,012
+Found at the
+crime scene.
+
+00:18:18,012 --> 00:18:20,847
+Where’d you get
+the pager nest?
+
+00:18:20,847 --> 00:18:21,880
+Grissom.
+
+00:18:21,880 --> 00:18:23,416
+He won it
+on E-Bay.
+
+00:18:23,416 --> 00:18:24,683
+They’re great for tracing
+
+00:18:24,683 --> 00:18:27,352
+if you can rely on
+the suspect’s honesty.
+
+00:18:28,786 --> 00:18:31,087
+Uh...
+
+00:18:31,087 --> 00:18:32,555
+Desmond Tutu.
+
+00:18:32,555 --> 00:18:34,024
+See what I mean?
+
+00:18:34,024 --> 00:18:35,057
+Don’t feel bad.
+
+00:18:35,057 --> 00:18:36,091
+My last four traces
+
+00:18:36,091 --> 00:18:39,060
+came back Eminem, so...
+
+00:18:40,461 --> 00:18:43,364
+Look, you seem to have
+everything under control here.
+
+00:18:43,364 --> 00:18:46,233
+Where can I find Warrick Brown?
+
+00:18:46,233 --> 00:18:47,834
+Try one of
+the casinos
+
+00:18:47,834 --> 00:18:49,668
+on Blue Diamond Road.
+
+00:18:54,172 --> 00:18:55,840
+Oh, I’ll
+page you
+
+00:18:55,840 --> 00:18:57,207
+with any information.
+
+00:19:10,951 --> 00:19:12,118
+There’s our jumper.
+
+00:19:12,118 --> 00:19:14,019
+So, you want
+to see everything
+
+00:19:14,019 --> 00:19:16,021
+one minute before
+and one minute after
+
+00:19:16,021 --> 00:19:17,522
+he won the
+jackpot, right?
+
+00:19:17,522 --> 00:19:18,657
+Please.
+
+00:19:20,158 --> 00:19:22,560
+Wait a minute.
+
+00:19:22,560 --> 00:19:24,294
+Go back.
+
+00:19:25,828 --> 00:19:28,264
+There! It looks like
+
+00:19:28,264 --> 00:19:30,299
+she’s offering him his
+slot redemption card back.
+
+00:19:30,299 --> 00:19:33,868
+Could I see the person
+that was sitting at this machine
+
+00:19:33,868 --> 00:19:35,603
+right before the victim?
+
+00:19:35,603 --> 00:19:36,771
+Sure.
+
+00:19:39,973 --> 00:19:41,474
+Is there any way
+of telling how long
+
+00:19:41,474 --> 00:19:43,576
+he was sitting there?
+
+00:19:50,914 --> 00:19:53,183
+Man:
+11 hours,
+13 minutes...
+
+00:19:53,183 --> 00:19:55,050
+15 seconds.
+
+00:19:55,050 --> 00:19:56,518
+At three bucks a tug
+
+00:19:56,518 --> 00:20:00,454
+hell, he could have gone
+through ten, 20 thou.
+
+00:20:03,323 --> 00:20:06,159
+Grissom:
+Nick, call the slot host.
+
+00:20:06,159 --> 00:20:08,160
+Get this guy’s name
+from the slot card.
+
+00:20:08,160 --> 00:20:09,861
+I want to talk
+to this man.
+
+00:20:09,861 --> 00:20:11,763
+All right.
+
+00:20:11,763 --> 00:20:12,798
+Here you go.
+
+00:20:12,798 --> 00:20:14,632
+Holly’s weapon’s
+already loaded.
+
+00:20:14,632 --> 00:20:16,666
+So just point at the
+gun entry hole there
+to do your test fire.
+
+00:20:16,666 --> 00:20:18,368
+Okay, thanks, Bobby.
+
+00:20:30,311 --> 00:20:35,014
+Okay, now, in order
+to eliminate Holly’s gun
+as the possible weapon
+
+00:20:35,014 --> 00:20:37,382
+we start by looking
+for imperfections
+
+00:20:37,382 --> 00:20:39,083
+in the bullet’s stria...
+
+00:20:39,083 --> 00:20:42,686
+Now, that’s odd.
+
+00:20:42,686 --> 00:20:44,121
+What’s wrong?
+
+00:20:44,121 --> 00:20:45,288
+We don’t have
+an elimination.
+
+00:20:45,288 --> 00:20:46,723
+We got a match.
+
+00:20:55,930 --> 00:20:58,164
+( <i>sighs</i> )
+
+00:20:58,164 --> 00:21:00,967
+Shot her with her own gun.
+
+00:21:00,967 --> 00:21:02,335
+It’s okay, I’m not a cop.
+
+00:21:02,335 --> 00:21:04,269
+I just...
+I just analyze the scene.
+
+00:21:04,269 --> 00:21:05,403
+Throw the gun down!
+
+00:21:05,403 --> 00:21:07,038
+All right now,
+yank the phone
+
+00:21:07,038 --> 00:21:08,539
+out of the wall.
+
+00:21:08,539 --> 00:21:10,507
+I’m taking my
+prints with me.
+
+00:21:10,507 --> 00:21:11,742
+( <i>pager beeping</i> )
+
+00:21:11,742 --> 00:21:12,742
+( <i>grunts</i> )
+
+00:21:12,742 --> 00:21:13,743
+( <i>groans</i> )
+
+00:21:13,743 --> 00:21:14,877
+( <i>screams</i> )
+
+00:21:16,745 --> 00:21:17,912
+( <i>groaning</i> )
+
+00:21:21,349 --> 00:21:24,251
+( <i>door slams</i> )
+
+00:21:28,955 --> 00:21:31,456
+I pulled the slot card
+for you.
+
+00:21:31,456 --> 00:21:32,991
+That’s the gentleman,
+right over there.
+
+00:21:32,991 --> 00:21:33,991
+Thank you.
+
+00:21:33,991 --> 00:21:35,025
+Mm-hmm.
+
+00:21:35,025 --> 00:21:36,493
+Hold this.
+
+00:21:36,493 --> 00:21:38,362
+I think I’ll play
+a little.
+
+00:21:40,096 --> 00:21:43,131
+( <i>indistinct chatting</i> )
+
+00:21:43,131 --> 00:21:45,367
+( <i>bells ringing</i> )
+
+00:21:45,367 --> 00:21:47,168
+Double down,
+now baby.
+
+00:21:47,168 --> 00:21:48,835
+Oh, yes, a winner.
+
+00:21:48,835 --> 00:21:50,237
+The winner.
+
+00:21:52,105 --> 00:21:54,540
+Double nine.
+Jacks or better.
+
+00:21:58,142 --> 00:21:59,277
+You’re under arrest.
+
+00:21:59,277 --> 00:22:01,245
+Oh yeah?
+
+00:22:01,245 --> 00:22:02,480
+What for?
+
+00:22:02,480 --> 00:22:03,814
+First-degree murder.
+
+00:22:03,814 --> 00:22:05,648
+Oh.
+
+00:22:05,648 --> 00:22:07,984
+On what grounds?
+
+00:22:07,984 --> 00:22:10,419
+Roof dust.
+
+00:22:11,820 --> 00:22:14,422
+Sir, would you please
+come with us?
+
+00:22:16,856 --> 00:22:18,024
+( <i>bells dinging</i> )
+
+00:22:18,024 --> 00:22:19,258
+( <i>coins falling</i> )
+
+00:22:19,258 --> 00:22:21,660
+Nicky, my boy,
+collect my winnings.
+
+00:22:21,660 --> 00:22:24,196
+It’s a C.S.I. Three
+initiation.
+
+00:22:41,009 --> 00:22:42,075
+You’re up 11 Gs.
+
+00:22:42,075 --> 00:22:44,277
+Hit or stay?
+
+00:22:44,277 --> 00:22:45,412
+Stay.
+
+00:22:45,412 --> 00:22:47,479
+I want to talk to you.
+
+00:22:51,650 --> 00:22:53,984
+You were playing $100
+on every spot.
+
+00:22:53,984 --> 00:22:56,520
+You have a system?
+
+00:22:56,520 --> 00:22:58,355
+I’m counting cards.
+
+00:22:58,355 --> 00:22:59,555
+Isn’t that illegal?
+
+00:22:59,555 --> 00:23:02,358
+Not if you do the
+math in your head.
+
+00:23:02,358 --> 00:23:04,926
+You play anything else?
+
+00:23:06,694 --> 00:23:09,830
+I bet sports from time to time.
+
+00:23:09,830 --> 00:23:12,032
+So...
+
+00:23:12,032 --> 00:23:13,799
+let me get this straight.
+
+00:23:13,799 --> 00:23:16,601
+You were assigned by Brass
+to shadow a trainee.
+
+00:23:16,601 --> 00:23:19,704
+A robbery comes up on M.L.K,
+and you go for coffee.
+
+00:23:19,704 --> 00:23:21,072
+An officer
+was there.
+
+00:23:21,072 --> 00:23:22,606
+So you felt safe
+to leave.
+
+00:23:22,606 --> 00:23:25,475
+Do you know the policies
+and procedures
+
+00:23:25,475 --> 00:23:26,676
+for clearing a scene?
+
+00:23:26,676 --> 00:23:27,476
+Yes.
+
+00:23:27,476 --> 00:23:29,211
+Then, why’d you leave?
+
+00:23:29,211 --> 00:23:30,446
+I mean,
+what was so important
+
+00:23:30,446 --> 00:23:31,847
+that you had
+to rush out of there?
+
+00:23:31,847 --> 00:23:33,581
+I told you.
+
+00:23:33,581 --> 00:23:34,949
+I went for coffee.
+
+00:23:34,949 --> 00:23:37,784
+Was that before
+or after you made your bets?
+
+00:23:37,784 --> 00:23:40,186
+Sunday...
+
+00:23:40,186 --> 00:23:41,487
+Vegas...
+
+00:23:41,487 --> 00:23:43,121
+NFL football...
+
+00:23:43,121 --> 00:23:44,256
+guy like you...
+
+00:23:44,256 --> 00:23:45,623
+Come on,
+you trying to tell me
+
+00:23:45,623 --> 00:23:47,358
+that you didn’t make
+a little pit stop?
+
+00:23:49,460 --> 00:23:51,361
+Look at me.
+
+00:23:51,361 --> 00:23:54,163
+Did you log on...
+
+00:23:54,163 --> 00:23:56,131
+tell dispatch where
+you were going?
+
+00:23:56,131 --> 00:23:57,499
+Do you know how many times
+
+00:23:57,499 --> 00:23:59,200
+I’ve been left alone
+at a crime scene
+
+00:23:59,200 --> 00:24:00,334
+when I was a rookie?
+
+00:24:00,334 --> 00:24:03,503
+Yeah, well,
+this time is different.
+
+00:24:03,503 --> 00:24:05,638
+Yeah, why’s that?
+
+00:24:05,638 --> 00:24:07,473
+Holly Gribbs died
+on the operating table
+
+00:24:07,473 --> 00:24:09,975
+20 minutes ago.
+
+00:24:20,949 --> 00:24:23,886
+( <i>sighs</i> )
+
+00:25:05,183 --> 00:25:07,484
+Mind if I get a soda?
+
+00:25:08,885 --> 00:25:11,321
+Oh, yeah. Sorry.
+
+00:25:11,321 --> 00:25:13,723
+You want one?
+
+00:25:13,723 --> 00:25:16,125
+Is there anything
+in there with alcohol?
+
+00:25:16,125 --> 00:25:17,759
+Root beer.
+
+00:25:17,759 --> 00:25:20,128
+No.
+
+00:25:20,128 --> 00:25:23,831
+( <i>pager beeping</i> )
+
+00:25:23,831 --> 00:25:24,664
+Uh-uh.
+
+00:25:24,664 --> 00:25:27,799
+( <i>beeping continues</i> )
+
+00:25:27,799 --> 00:25:30,502
+Oh... God.
+
+00:25:33,238 --> 00:25:34,805
+What are you going to say?
+
+00:25:34,805 --> 00:25:36,573
+"Hi, I’m a criminalist.
+I was in the neighborhood..."
+
+00:25:36,573 --> 00:25:38,441
+Shh. It’s ringing.
+
+00:25:38,441 --> 00:25:40,376
+Hello.
+
+00:25:40,376 --> 00:25:42,377
+Uh, hey.
+
+00:25:42,377 --> 00:25:43,611
+Hey, who’s this?
+
+00:25:43,611 --> 00:25:44,779
+I just dialed
+my own damn beeper.
+
+00:25:44,779 --> 00:25:46,814
+Uh-uh. It’s my beeper now.
+
+00:25:46,814 --> 00:25:47,915
+I found it.
+
+00:25:47,915 --> 00:25:50,216
+It ain’t your beeper, girl.
+
+00:25:50,216 --> 00:25:51,484
+It’s mine.
+
+00:25:51,484 --> 00:25:53,486
+I do a lot of business
+on that beeper.
+
+00:25:53,486 --> 00:25:54,887
+What kind of business?
+
+00:25:54,887 --> 00:25:55,988
+You know--
+
+00:25:55,988 --> 00:25:58,389
+Slinging a little
+something-something.
+
+00:25:58,389 --> 00:26:00,858
+Oh, a little
+something-something.
+
+00:26:00,858 --> 00:26:03,593
+Or maybe a little bling-bling?
+
+00:26:03,593 --> 00:26:07,529
+So what you know
+about some bling-bling?
+
+00:26:07,529 --> 00:26:09,398
+Well, invite me over
+to your crib, baby
+
+00:26:09,398 --> 00:26:11,232
+and you might find out.
+
+00:26:11,232 --> 00:26:12,233
+It’s on.
+
+00:26:12,233 --> 00:26:15,169
+Three Aces Motel, room 202.
+
+00:26:15,169 --> 00:26:18,071
+Three Aces Motel, room 202.
+
+00:26:18,071 --> 00:26:20,006
+( <i>sighs expectantly</i> )
+
+00:26:20,006 --> 00:26:21,274
+See you soon.
+
+00:26:21,274 --> 00:26:22,975
+( <i>phone beeps off</i> )
+
+00:26:25,977 --> 00:26:27,211
+Did I just do that?
+
+00:26:27,211 --> 00:26:28,979
+What’s a bling-bling?
+
+00:26:28,979 --> 00:26:32,115
+Got me.
+
+00:26:32,115 --> 00:26:34,383
+Yeah, I was up on that roof.
+
+00:26:34,383 --> 00:26:37,252
+I didn’t push him off.
+
+00:26:37,252 --> 00:26:38,987
+I did talk to him, though.
+
+00:26:38,987 --> 00:26:40,254
+We know.
+
+00:26:40,254 --> 00:26:41,855
+Hey, what did you drink?
+
+00:26:41,855 --> 00:26:44,324
+Gin and tonic or amaretto sours?
+
+00:26:44,324 --> 00:26:46,325
+Amaretto sours.
+How’d you know that?
+
+00:26:46,325 --> 00:26:49,395
+We got a record
+of the victim’s
+room charges.
+
+00:26:49,395 --> 00:26:50,395
+Chief.
+
+00:26:50,395 --> 00:26:51,930
+At 1:27 a.m.
+
+00:26:51,930 --> 00:26:55,065
+our victim, Ted Salinger, made
+a couple of purchases
+
+00:26:55,065 --> 00:26:56,533
+in the gift shop--
+
+00:26:56,533 --> 00:26:59,435
+<i>Band-Aids and antiseptic.</i>
+
+00:26:59,435 --> 00:27:00,836
+<i>At 1:40 a.m.</i>
+
+00:27:00,836 --> 00:27:04,072
+we tracked a purchase
+at the La Promenade--
+
+00:27:06,507 --> 00:27:10,811
+<i>A $30,000 designer watch.</i>
+
+00:27:10,811 --> 00:27:14,546
+At 1:45 a.m., you both started
+knocking them back
+
+00:27:14,546 --> 00:27:16,215
+in the hotel bar.
+
+00:27:16,215 --> 00:27:17,916
+Sweet.
+
+00:27:17,916 --> 00:27:18,917
+Hey.
+
+00:27:18,917 --> 00:27:20,051
+You won my money.
+
+00:27:20,051 --> 00:27:21,051
+What?
+
+00:27:21,051 --> 00:27:22,385
+That was my machine.
+
+00:27:22,385 --> 00:27:24,821
+I put everything I had
+in that machine.
+
+00:27:24,821 --> 00:27:26,355
+So you’re a degenerate.
+
+00:27:26,355 --> 00:27:27,990
+What do you want from me?
+
+00:27:31,826 --> 00:27:33,694
+Hey, old timer,
+come on, sit down.
+
+00:27:33,694 --> 00:27:35,729
+I’ll buy you a drink
+for second place.
+
+00:27:35,729 --> 00:27:37,564
+What are you having?
+It’s on me.
+
+00:27:37,564 --> 00:27:39,432
+It’s on you? All right.
+
+00:27:39,432 --> 00:27:41,934
+In that case,
+I’ll have a, uh...
+
+00:27:41,934 --> 00:27:43,101
+amaretto sour.
+
+00:27:43,101 --> 00:27:45,803
+The first hour, you both drank
+tit for tat
+
+00:27:45,803 --> 00:27:48,772
+but by hour two,
+Ted started ordering doubles...
+
+00:27:48,772 --> 00:27:50,707
+And you quit drinking.
+
+00:27:50,707 --> 00:27:53,509
+Drank decaf coffee instead.
+
+00:27:53,509 --> 00:27:55,044
+My guess is
+that you were
+
+00:27:55,044 --> 00:27:58,112
+getting him lathered up
+for your little elevator ride.
+
+00:27:58,112 --> 00:28:00,481
+Have a nice life, huh?
+
+00:28:00,481 --> 00:28:01,982
+I know I will.
+
+00:28:01,982 --> 00:28:02,983
+( <i>laughing</i> )
+
+00:28:02,983 --> 00:28:06,452
+And from there,
+you went to the roof.
+
+00:28:31,671 --> 00:28:33,338
+( <i>crying</i> )
+
+00:28:33,338 --> 00:28:36,208
+I couldn’t go through with it.
+
+00:28:36,208 --> 00:28:38,042
+I’m a born failure.
+
+00:28:38,042 --> 00:28:40,778
+I failed at my marriage;
+I failed at my work.
+
+00:28:40,778 --> 00:28:44,514
+Then I couldn’t even
+commit suicide right.
+
+00:28:48,817 --> 00:28:52,487
+One pull away...
+the story of my life.
+
+00:28:56,923 --> 00:28:59,058
+Mr. Carlton,
+we’re not detectives.
+
+00:28:59,058 --> 00:29:00,893
+We’re crime scene analysts.
+
+00:29:00,893 --> 00:29:03,528
+We’re trained to ignore
+verbal accounts
+
+00:29:03,528 --> 00:29:05,663
+and rely instead
+on the evidence
+
+00:29:05,663 --> 00:29:07,631
+a scene sets before us.
+
+00:29:07,631 --> 00:29:11,201
+But I have to be honest
+with you, Red...
+
+00:29:11,201 --> 00:29:13,002
+I believe you.
+
+00:29:13,002 --> 00:29:14,837
+I do.
+
+00:29:17,506 --> 00:29:18,706
+So...
+
+00:29:18,706 --> 00:29:21,341
+here’s what we’re going to do:
+
+00:29:21,341 --> 00:29:24,076
+you’re going to stay here
+until we get back.
+
+00:29:24,076 --> 00:29:26,212
+If you pushed this guy
+off the roof
+
+00:29:26,212 --> 00:29:29,180
+he will, without a doubt,
+have roof dust on his shoes.
+
+00:29:29,180 --> 00:29:31,182
+If he does
+
+00:29:31,182 --> 00:29:34,184
+we’ll have you arrested
+for murder.
+
+00:29:34,184 --> 00:29:38,587
+But if dust is not present,
+then you’ll be free to go.
+
+00:29:46,260 --> 00:29:48,662
+I like this guy.
+
+00:29:57,702 --> 00:29:59,603
+( <i>cocks gun</i> )
+
+00:29:59,603 --> 00:30:01,304
+What are you doing here?
+
+00:30:01,304 --> 00:30:02,906
+Guilt therapy.
+
+00:30:07,609 --> 00:30:09,444
+Police officers! Open up!
+
+00:30:09,444 --> 00:30:12,980
+( <i>yelling</i> )
+
+00:30:15,382 --> 00:30:16,416
+Get down.
+
+00:30:16,416 --> 00:30:18,017
+Hold him down
+on the ground!
+
+00:30:18,017 --> 00:30:20,219
+Put your hands
+behind your back!
+
+00:30:20,219 --> 00:30:21,620
+Get him down!
+
+00:30:21,620 --> 00:30:23,388
+( <i>grunts</i> )
+
+00:30:23,388 --> 00:30:24,822
+Now that’s
+a bling-bling.
+
+00:30:24,822 --> 00:30:26,924
+That was you on the phone?
+
+00:30:26,924 --> 00:30:28,292
+Yep.
+
+00:30:28,292 --> 00:30:29,860
+( <i>groans</i> )
+
+00:30:32,828 --> 00:30:34,263
+Where’d you get that scratch?
+
+00:30:37,966 --> 00:30:41,468
+For a conviction,
+we’re going to need
+a DNA sample.
+
+00:30:41,468 --> 00:30:43,336
+Okay, let’s sit him down.
+
+00:30:43,336 --> 00:30:46,338
+Let’s get
+a saliva sample.
+
+00:30:46,338 --> 00:30:47,939
+Hey, guys, it’s Catherine.
+
+00:30:47,939 --> 00:30:49,608
+For whoever is listening
+
+00:30:49,608 --> 00:30:51,142
+we got him.
+
+00:30:51,142 --> 00:30:55,312
+Repeat. Holly Gribbs’ suspect
+is in custody.
+
+00:30:59,582 --> 00:31:00,816
+10,000.
+
+00:31:00,816 --> 00:31:02,517
+See you around, Judge.
+
+00:31:02,517 --> 00:31:03,518
+You don’t leave
+
+00:31:03,518 --> 00:31:05,587
+until I tell you to leave.
+
+00:31:05,587 --> 00:31:07,188
+What?
+
+00:31:07,188 --> 00:31:09,222
+What are you going to do,
+hold me in contempt?
+
+00:31:09,222 --> 00:31:11,824
+You’re already in contempt
+with me.
+
+00:31:11,824 --> 00:31:13,659
+We’re in bed, pal.
+
+00:31:13,659 --> 00:31:15,160
+I own you.
+
+00:31:15,160 --> 00:31:16,395
+Nobody owns me.
+
+00:31:16,395 --> 00:31:17,929
+Yeah?
+
+00:31:17,929 --> 00:31:19,430
+Let me tell you something.
+
+00:31:19,430 --> 00:31:22,399
+You ever heard of a wolf
+in sheep’s clothing?
+
+00:31:22,399 --> 00:31:23,633
+You and me
+
+00:31:23,633 --> 00:31:25,267
+we’re going to do
+business together
+
+00:31:25,267 --> 00:31:27,636
+whether you like it or not.
+
+00:31:28,770 --> 00:31:30,805
+Keep your cell
+phone charged.
+
+00:31:44,048 --> 00:31:45,883
+You didn’t have to come.
+
+00:31:45,883 --> 00:31:49,552
+I know. I wanted to.
+
+00:31:49,552 --> 00:31:51,121
+In case you need me.
+
+00:31:51,121 --> 00:31:53,756
+I probably do.
+
+00:31:53,756 --> 00:31:56,925
+But this is something
+I’d rather do alone.
+
+00:31:59,793 --> 00:32:02,129
+15 seconds, you’re in,
+you’re out
+
+00:32:02,129 --> 00:32:05,097
+we make a DNA match
+and it’s over, okay?
+
+00:32:05,097 --> 00:32:08,300
+Okay.
+
+00:33:02,874 --> 00:33:05,009
+I’m sorry.
+
+00:33:13,415 --> 00:33:16,350
+Will the real
+Red Skelton please...
+
+00:33:16,350 --> 00:33:17,551
+stand up?
+
+00:33:17,551 --> 00:33:20,688
+You’re too young to remember
+who Red Skelton was.
+
+00:33:20,688 --> 00:33:22,155
+Hey, Nick at Nite.
+
+00:33:22,155 --> 00:33:24,156
+You should
+check it out.
+
+00:33:33,097 --> 00:33:34,631
+No dust.
+
+00:33:34,631 --> 00:33:35,899
+Great.
+
+00:33:35,899 --> 00:33:37,166
+I thought so.
+
+00:33:37,166 --> 00:33:40,302
+Turns out he’s red herring.
+
+00:33:42,170 --> 00:33:45,439
+There’s got to be
+something else.
+
+00:34:01,518 --> 00:34:03,353
+Nice watch.
+
+00:34:06,788 --> 00:34:08,857
+Look at this.
+
+00:34:09,991 --> 00:34:12,793
+These look like fibers.
+
+00:34:12,793 --> 00:34:14,694
+Yeah. You think he was dragged?
+
+00:34:14,694 --> 00:34:17,130
+Maybe.
+
+00:34:17,130 --> 00:34:19,365
+Well, I’ll go back
+to the presidential suite...
+
+00:34:19,365 --> 00:34:22,134
+take a swatch of the carpet,
+see if we can match the fibers.
+
+00:34:22,134 --> 00:34:24,569
+Get ahold of the girl
+while you’re at it.
+
+00:34:24,569 --> 00:34:25,702
+Why, is she a suspect?
+
+00:34:25,702 --> 00:34:27,838
+She is now.
+
+00:34:27,838 --> 00:34:29,840
+All right.
+
+00:34:32,842 --> 00:34:34,209
+What do you have?
+
+00:34:34,209 --> 00:34:37,345
+Hey. I thought you
+might like to see this.
+
+00:34:41,248 --> 00:34:43,583
+What the
+hell is that?
+
+00:34:43,583 --> 00:34:45,051
+I found it
+after I shaved his head.
+
+00:34:45,051 --> 00:34:46,485
+Something hard
+with a diamond
+
+00:34:46,485 --> 00:34:48,253
+insignia
+on the back.
+
+00:34:48,253 --> 00:34:52,456
+You find that,
+I bet you find your killer.
+
+00:34:52,456 --> 00:34:53,858
+Was this first blow?
+
+00:34:53,858 --> 00:34:55,459
+First and fatal.
+
+00:34:55,459 --> 00:34:56,425
+Crushed his skull.
+
+00:34:56,425 --> 00:34:58,394
+So he was killed,
+then he was pushed.
+
+00:34:58,394 --> 00:35:00,896
+Without a doubt.
+
+00:35:05,867 --> 00:35:07,100
+Nicorette?
+
+00:35:07,100 --> 00:35:10,703
+No, thanks.
+Got my own.
+
+00:35:10,703 --> 00:35:14,839
+Willows... your DNA
+results are back.
+
+00:35:22,712 --> 00:35:25,647
+Well, according
+to my DNA data
+
+00:35:25,647 --> 00:35:29,985
+the types are 814
+quadrillion to one
+
+00:35:29,985 --> 00:35:32,452
+that your suspect
+is our killer.
+
+00:35:32,452 --> 00:35:33,787
+Pretty good stats! Whoo!
+
+00:35:33,787 --> 00:35:35,389
+Yeah, considering
+there’s only
+
+00:35:35,389 --> 00:35:37,856
+about six billion
+people in the world...
+
+00:35:37,856 --> 00:35:39,191
+Ah, thanks.
+
+00:35:39,191 --> 00:35:41,126
+Mm-hmm.
+
+00:35:42,460 --> 00:35:44,596
+Holly...
+
+00:35:44,596 --> 00:35:45,997
+( <i>sighs</i> )
+
+00:35:45,997 --> 00:35:48,732
+She gave me just enough...
+
+00:35:48,732 --> 00:35:52,367
+just enough to catch him.
+
+00:35:52,367 --> 00:35:53,668
+Don’t move!
+
+00:35:53,668 --> 00:35:54,803
+Hey, hey, it’s okay.
+
+00:35:54,803 --> 00:35:55,937
+I’m not a cop.
+
+00:35:55,937 --> 00:35:58,606
+I just...
+I just analyze the scene.
+
+00:35:58,606 --> 00:35:59,907
+This is my first day.
+
+00:35:59,907 --> 00:36:01,975
+Believe me, I’m-I’m no threat.
+
+00:36:01,975 --> 00:36:03,710
+Um, look...
+
+00:36:03,710 --> 00:36:05,677
+phone with your prints on it?
+
+00:36:05,677 --> 00:36:07,413
+Here, take it.
+
+00:36:07,413 --> 00:36:09,480
+Okay? Here.
+
+00:36:09,480 --> 00:36:10,815
+( <i>pager beeps</i> )
+
+00:36:17,786 --> 00:36:21,323
+<i>But she held on long enough</i>
+<i>to give us a clue.</i>
+
+00:36:21,323 --> 00:36:22,557
+( <i>yells</i> )
+
+00:36:23,858 --> 00:36:24,859
+( <i>gunshots</i> )
+
+00:36:24,859 --> 00:36:27,093
+( <i>groaning</i> )
+
+00:36:47,576 --> 00:36:49,978
+Nice work, Catherine.
+
+00:37:10,693 --> 00:37:12,695
+Nice swatch, Nick.
+
+00:37:12,695 --> 00:37:15,096
+Pizza-box-sized.
+
+00:38:20,879 --> 00:38:24,048
+( <i>phone rings</i> )
+
+00:38:25,682 --> 00:38:26,950
+Grissom.
+
+00:38:26,950 --> 00:38:28,384
+It’s Nick.
+
+00:38:28,384 --> 00:38:30,686
+I just finished the carpet
+swatch comparisons.
+
+00:38:30,686 --> 00:38:32,321
+Got a match.
+
+00:38:32,321 --> 00:38:34,656
+I’m starting to get
+that feeling, Nicky, my boy.
+
+00:38:34,656 --> 00:38:36,457
+Yeah, so am I.
+
+00:38:36,457 --> 00:38:38,459
+Listen, I’ll meet you
+at the interrogation.
+
+00:38:38,459 --> 00:38:39,860
+I still got one more thing
+I want to check.
+
+00:38:39,860 --> 00:38:42,262
+Okay. Bye.
+
+00:38:42,262 --> 00:38:45,031
+Okay, I’m ready
+to try this now.
+
+00:38:45,031 --> 00:38:48,166
+Stand by, house.
+
+00:38:53,037 --> 00:38:54,904
+Did your security log
+record that?
+
+00:38:54,904 --> 00:38:56,772
+You guys get that?
+
+00:38:56,772 --> 00:38:59,041
+No.
+
+00:38:59,041 --> 00:39:01,643
+Well, I’ll be damned.
+
+00:39:01,643 --> 00:39:03,511
+The curse.
+
+00:39:03,511 --> 00:39:05,179
+Hell, I ain’t playing
+those machines no more.
+
+00:39:05,179 --> 00:39:07,514
+It’s true.
+
+00:39:07,514 --> 00:39:10,049
+You win, you die.
+
+00:39:11,383 --> 00:39:12,918
+Gotcha.
+
+00:39:12,918 --> 00:39:14,186
+Got me with what?
+
+00:39:14,186 --> 00:39:15,186
+Capital murder.
+
+00:39:15,186 --> 00:39:16,320
+Oh, are you
+kidding me?
+
+00:39:16,320 --> 00:39:19,657
+I never kid about murder.
+
+00:39:19,657 --> 00:39:21,291
+What do you think, Nick?
+
+00:39:21,291 --> 00:39:23,359
+My turn to
+play it blind?
+
+00:39:27,128 --> 00:39:29,530
+Hey, Red,
+have a nice life, huh?
+
+00:39:29,530 --> 00:39:30,798
+( <i>laughing</i> )
+
+00:39:30,798 --> 00:39:32,933
+I know I will.
+
+00:39:32,933 --> 00:39:34,634
+( <i>whispers</i> ):
+Loser.
+
+00:39:36,069 --> 00:39:37,570
+What the...?
+
+00:39:42,207 --> 00:39:44,075
+What the hell’s with this thing?
+
+00:39:47,844 --> 00:39:49,345
+Grissom:
+<i>Now, the funny thing is</i>
+
+00:39:49,345 --> 00:39:51,380
+<i>if Ted didn’t come back</i>
+<i>to the room</i>
+
+00:39:51,380 --> 00:39:53,482
+<i>then why were presidential</i>
+<i>carpet fibers</i>
+
+00:39:53,482 --> 00:39:55,516
+<i>found in the band</i>
+<i>of his brand-new watch?</i>
+
+00:39:55,516 --> 00:39:57,418
+<i>’Cause he did come back.</i>
+
+00:39:57,418 --> 00:40:00,020
+<i>And you do the smart thing:</i>
+<i>after you</i>
+
+00:40:00,020 --> 00:40:01,088
+<i>throw him over the balcony</i>
+
+00:40:01,088 --> 00:40:02,555
+<i>you cleaned up the crime scene.</i>
+
+00:40:02,555 --> 00:40:04,623
+<i>You left blood-soaked towels</i>
+<i>in plain sight.</i>
+
+00:40:04,623 --> 00:40:06,558
+<i>Your alibi?</i>
+
+00:40:06,558 --> 00:40:09,027
+The blood came
+from Ted’s forearms.
+
+00:40:09,027 --> 00:40:11,328
+How am I doing
+so far, Nicky?
+
+00:40:11,328 --> 00:40:12,762
+Yeah, I’m into it.
+
+00:40:12,762 --> 00:40:15,865
+According to your statement,
+you felt slighted
+
+00:40:15,865 --> 00:40:18,634
+’cause Ted had just won
+$40 million and dumped you
+
+00:40:18,634 --> 00:40:20,068
+within half an hour
+
+00:40:20,068 --> 00:40:22,637
+giving you motive enough
+to kill him
+
+00:40:22,637 --> 00:40:25,372
+and you exercised
+that motive.
+
+00:40:32,744 --> 00:40:34,879
+Can I ask you a question?
+
+00:40:34,879 --> 00:40:35,880
+Sure.
+
+00:40:35,880 --> 00:40:36,981
+How are you so cool?
+
+00:40:36,981 --> 00:40:39,617
+You took someone’s life.
+
+00:40:39,617 --> 00:40:41,551
+Don’t you care?
+
+00:40:43,285 --> 00:40:45,121
+No.
+
+00:40:47,522 --> 00:40:49,057
+Deputy, we’re going
+to have her
+
+00:40:49,057 --> 00:40:51,458
+arrested.
+
+00:40:51,458 --> 00:40:54,328
+So, could I ask <i>you</i>
+a question?
+
+00:40:54,328 --> 00:40:55,228
+Maybe.
+
+00:40:55,228 --> 00:40:57,330
+All that stuff
+you rattled off.
+
+00:40:57,330 --> 00:40:59,364
+How’d you know
+about all that?
+
+00:40:59,364 --> 00:41:02,099
+Your boyfriend told me.
+
+00:41:04,101 --> 00:41:05,769
+( <i>door closes</i> )
+
+00:41:10,506 --> 00:41:13,108
+I’ll see you outside, okay?
+
+00:41:22,148 --> 00:41:25,284
+They say I have
+to let you go.
+
+00:41:25,284 --> 00:41:27,385
+You violated the
+policies and procedures
+
+00:41:27,385 --> 00:41:29,787
+for clearing a scene.
+
+00:41:31,388 --> 00:41:33,723
+I read Sara’s report.
+
+00:41:33,723 --> 00:41:36,125
+I know.
+
+00:41:37,860 --> 00:41:40,728
+I messed up.
+
+00:41:40,728 --> 00:41:42,730
+And Holly’s dead.
+
+00:41:53,205 --> 00:41:55,306
+I’m sorry, Gil.
+
+00:41:55,306 --> 00:41:58,942
+I’m sorry, too.
+
+00:41:58,942 --> 00:42:01,744
+I don’t want
+to do this.
+
+00:42:01,744 --> 00:42:03,813
+You got to.
+
+00:42:03,813 --> 00:42:07,749
+You know where I was?
+
+00:42:07,749 --> 00:42:10,351
+I think I have a
+pretty good idea.
+
+00:42:10,351 --> 00:42:12,619
+I went to lay a bet.
+
+00:42:14,488 --> 00:42:17,690
+I didn’t even think
+I was doing anything wrong.
+
+00:42:17,690 --> 00:42:19,852
+Never occurred to me.
+
+00:42:21,719 --> 00:42:24,886
+It never occurred
+to me, either.
+
+00:42:27,186 --> 00:42:29,319
+You know what?
+
+00:42:29,319 --> 00:42:31,452
+If I let you go
+
+00:42:31,452 --> 00:42:34,852
+I got to let me go, too.
+
+00:42:34,852 --> 00:42:37,452
+And Catherine and Brass,
+we’re all culpable in this.
+
+00:42:37,452 --> 00:42:40,186
+I don’t care
+what the book says.
+
+00:42:40,186 --> 00:42:41,486
+I lost one good person today.
+
+00:42:41,486 --> 00:42:43,452
+I don’t want
+to lose another--here.
+
+00:42:55,286 --> 00:42:58,652
+I won’t let
+you down again.
+
+00:43:37,152 --> 00:43:39,819
+Let’s go home.
+

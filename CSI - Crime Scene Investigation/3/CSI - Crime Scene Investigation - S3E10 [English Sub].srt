@@ -1,0 +1,3226 @@
+
+00:00:01,291 --> 00:00:03,760
+♪ Woke up this morning
+with a head full of snow ♪
+
+00:00:03,826 --> 00:00:04,961
+♪ Was it a dream? ♪
+
+00:00:08,291 --> 00:00:09,250
+♪ Picked up me body ♪
+
+00:00:09,250 --> 00:00:11,750
+♪ For the ride of a lifetime
+is what it seemed... ♪
+
+00:00:11,750 --> 00:00:12,375
+<i>Oh!</i>
+
+00:00:12,375 --> 00:00:13,500
+All the way across.
+
+00:00:13,500 --> 00:00:14,834
+Did you see that? Oh!
+
+00:00:14,901 --> 00:00:16,903
+That's it, let's see it,
+come on, bust it, bro.
+
+00:00:16,970 --> 00:00:18,471
+Relax, man,
+I'm going!
+
+00:00:18,538 --> 00:00:20,073
+You've got it.
+Don't puss out on me!
+
+00:00:20,140 --> 00:00:22,142
+Oh!
+
+00:00:24,010 --> 00:00:25,111
+Oh!
+Oh!
+
+00:00:25,178 --> 00:00:26,513
+Sick! Yeah.
+
+00:00:26,579 --> 00:00:27,580
+Yeah, I thought for sure
+
+00:00:27,647 --> 00:00:29,048
+you were going
+to eat it, though.
+
+00:00:29,115 --> 00:00:30,216
+No way, man.
+
+00:00:30,283 --> 00:00:31,417
+I had that thing hooked up.
+
+00:00:31,625 --> 00:00:32,726
+Oh, hooked up?
+
+00:00:32,793 --> 00:00:33,761
+You got lucky, man.
+
+00:00:33,827 --> 00:00:34,762
+( <i>distant thud</i> )
+
+00:00:34,828 --> 00:00:36,463
+( <i>wind whipping</i> )
+
+00:00:36,530 --> 00:00:38,933
+( <i>thud</i> )
+
+00:00:38,999 --> 00:00:41,335
+Ugh!
+
+00:00:44,291 --> 00:00:46,573
+Oh, my God!
+
+00:00:49,917 --> 00:00:52,086
+( <i>garbled radio transmission</i> )
+
+00:00:56,917 --> 00:00:58,083
+We beat
+Grissom here?
+
+00:00:58,083 --> 00:00:59,251
+That's a first.
+
+00:00:59,317 --> 00:01:01,019
+Yeah? Maybe for you.
+
+00:01:01,086 --> 00:01:03,055
+Hey, how you doing?
+
+00:01:04,122 --> 00:01:05,657
+The jumper's
+a John Doe.
+
+00:01:05,724 --> 00:01:06,925
+No wallet
+
+00:01:06,992 --> 00:01:08,660
+no keys, no ID.
+
+00:01:08,727 --> 00:01:10,662
+Yeah, that's the least
+of this guy's problem.
+
+00:01:10,729 --> 00:01:13,098
+BRASS:
+The building's got
+to be what, uh...
+
+00:01:13,165 --> 00:01:15,033
+six stories high?
+
+00:01:15,100 --> 00:01:16,435
+BROWN:
+Six stories, 60 stories.
+
+00:01:16,501 --> 00:01:18,136
+It's not how you fall,
+it's how you land.
+
+00:01:18,203 --> 00:01:19,371
+STOKES:
+You know,
+if you landed
+
+00:01:19,438 --> 00:01:21,340
+head first,
+there should be more blood.
+
+00:01:21,406 --> 00:01:22,841
+Yeah, and more brain matter.
+
+00:01:22,908 --> 00:01:24,876
+GRISSOM:
+He didn't jump.
+
+00:01:24,943 --> 00:01:26,678
+( <i>beep</i> )
+
+00:01:26,745 --> 00:01:28,013
+Up here.
+
+00:01:34,353 --> 00:01:37,556
+It's never the fall
+that kills you.
+
+00:01:44,000 --> 00:01:46,035
+♪ Who... are you? ♪
+
+
+00:01:46,102 --> 00:01:48,871
+♪ Who, who, who, who? ♪
+
+
+00:01:48,938 --> 00:01:52,809
+♪ Who... are you? ♪
+
+
+00:01:52,875 --> 00:01:54,010
+♪ Who, who, who, who? ♪
+
+
+00:01:54,077 --> 00:01:55,378
+♪ I really wanna know ♪
+
+
+00:01:55,445 --> 00:01:58,748
+♪ Who... are you? ♪
+
+
+00:01:58,815 --> 00:02:00,216
+♪ Oh-oh-oh ♪
+♪ Who... ♪
+
+
+00:02:00,283 --> 00:02:04,153
+♪ Come on, tell me who are you,
+you, you ♪
+
+
+00:02:04,220 --> 00:02:07,223
+♪ Oh, you! ♪
+
+
+00:02:18,375 --> 00:02:19,083
+Rain or not
+
+
+00:02:19,083 --> 00:02:21,318
+I'm not finding
+any shoe prints.
+
+
+00:02:22,333 --> 00:02:25,375
+High velocity spatter usually
+implies a gunshot.
+
+
+00:02:25,667 --> 00:02:27,603
+No casings or
+bullets, either.
+
+
+00:02:27,669 --> 00:02:29,171
+Severe head trauma.
+
+
+00:02:29,238 --> 00:02:31,607
+It happened before the fall.
+
+
+00:02:32,941 --> 00:02:35,210
+Hand to hand combat?
+
+
+00:02:35,277 --> 00:02:37,546
+Kill and dump.
+
+
+00:02:37,613 --> 00:02:40,082
+( <i>grunting</i> )
+
+
+00:02:42,417 --> 00:02:44,820
+( <i>thudding</i> )
+
+
+00:02:44,887 --> 00:02:46,989
+Uh-huh.
+
+
+00:03:11,113 --> 00:03:12,447
+Hey.
+
+
+00:03:12,514 --> 00:03:13,782
+Hey.
+
+
+00:03:13,849 --> 00:03:16,051
+I think the prints are out.
+
+
+00:03:16,118 --> 00:03:18,287
+Bones burst right
+through the skin.
+
+
+00:03:18,353 --> 00:03:20,589
+Compound fracture
+of the long bones
+
+
+00:03:20,656 --> 00:03:22,524
+including the phalanges.
+
+
+00:03:22,591 --> 00:03:25,194
+Extensive laceration.
+
+
+00:03:25,260 --> 00:03:26,628
+What about dental?
+
+
+00:03:28,163 --> 00:03:29,998
+Yeah.
+
+
+00:03:30,065 --> 00:03:31,500
+There might be
+enough to work with.
+
+
+00:03:31,567 --> 00:03:32,668
+Okay.
+
+
+00:03:32,734 --> 00:03:33,869
+Hey, wait a minute. Look.
+
+
+00:03:33,936 --> 00:03:35,404
+You might have another option.
+
+
+00:03:35,470 --> 00:03:36,605
+Check out that artwork.
+
+
+00:03:36,672 --> 00:03:38,473
+Tattoo.
+
+
+00:03:38,540 --> 00:03:39,942
+You think
+you can stretch that out?
+
+
+00:03:40,008 --> 00:03:42,144
+Yeah, no problem.
+
+
+00:03:46,381 --> 00:03:47,616
+( <i>sighs</i> )
+
+
+00:03:47,683 --> 00:03:49,484
+Wallet was
+with the vic.
+
+
+00:03:49,551 --> 00:03:50,986
+Money, cards, I.D.'s.
+
+
+00:03:51,053 --> 00:03:52,721
+Name's Roger Edmonds.
+
+
+00:03:52,788 --> 00:03:55,357
+Car's his, too.
+
+
+00:03:59,895 --> 00:04:02,631
+WILLOWS:
+Single gunshot
+wound to the chest
+
+
+00:04:02,698 --> 00:04:04,666
+through and through.
+
+
+00:04:04,733 --> 00:04:06,735
+Entry wound is massive.
+
+
+00:04:09,872 --> 00:04:12,307
+Unburned gunpowder.
+
+
+00:04:12,374 --> 00:04:14,176
+He was shot at close range.
+
+
+00:04:17,112 --> 00:04:20,649
+Car door... is closed...
+
+
+00:04:20,716 --> 00:04:22,818
+but not latched.
+
+
+00:04:22,885 --> 00:04:24,219
+Vic was in a hurry?
+
+
+00:04:24,286 --> 00:04:26,555
+To get in
+or get out?
+
+
+00:04:26,622 --> 00:04:28,790
+Good question.
+
+
+00:04:28,857 --> 00:04:31,326
+I don't see any bullet holes.
+
+
+00:04:33,228 --> 00:04:35,864
+( <i>sniffles</i> )
+
+
+00:04:35,931 --> 00:04:37,866
+What's this?
+
+
+00:04:37,933 --> 00:04:40,469
+Ah, blood and hair.
+
+
+00:04:40,536 --> 00:04:43,672
+Maybe the vic got a piece
+of the perp.
+
+
+00:04:43,739 --> 00:04:45,507
+Waitress phoned it in.
+
+00:04:46,975 --> 00:04:48,477
+Look, I got
+to get out of here, okay?
+
+00:04:48,544 --> 00:04:49,478
+My kid's with a sitter
+
+00:04:49,545 --> 00:04:51,246
+and it's not
+like this gig covers daycare.
+
+00:04:51,313 --> 00:04:53,015
+Yeah, I know what that's like.
+
+00:04:53,081 --> 00:04:54,650
+I got a kid at home myself.
+
+00:04:54,716 --> 00:04:56,151
+So what,
+now we're, like, related?
+
+00:04:56,218 --> 00:04:57,319
+Ah
+
+00:04:57,386 --> 00:04:59,388
+you know what,
+get it off your chest.
+
+00:04:59,454 --> 00:05:00,589
+It sucks.
+
+00:05:00,656 --> 00:05:02,491
+You're living
+for everybody but yourself.
+
+00:05:02,558 --> 00:05:03,692
+But you know what?
+
+00:05:03,759 --> 00:05:05,093
+You're still breathing.
+
+00:05:06,962 --> 00:05:08,397
+So?
+
+00:05:08,463 --> 00:05:11,767
+So, I'm out here busing tables,
+and I hear voices.
+
+00:05:14,136 --> 00:05:16,438
+<i>Pretty routine</i>
+<i>for this part of town.</i>
+
+00:05:17,834 --> 00:05:19,341
+( <i>gunshot</i> )
+
+00:05:19,408 --> 00:05:21,176
+And it's like a bomb goes off.
+
+00:05:21,243 --> 00:05:23,912
+I mean... I thought I was deaf.
+
+00:05:23,979 --> 00:05:24,947
+Then what?
+
+00:05:25,013 --> 00:05:26,882
+And then one guy's
+on the ground
+
+00:05:26,949 --> 00:05:28,250
+and the other guy's taking off.
+
+00:05:28,317 --> 00:05:29,618
+And no, I didn't see his face.
+
+00:05:29,685 --> 00:05:31,587
+Did you see a license plate?
+
+00:05:31,653 --> 00:05:33,121
+No.
+
+00:05:33,188 --> 00:05:34,456
+Can you describe the vehicle?
+
+00:05:34,523 --> 00:05:37,092
+It was a pickup.
+
+00:05:39,862 --> 00:05:41,129
+With one of those cover things
+
+00:05:41,196 --> 00:05:42,698
+on the back,
+you know, a...
+Camper top.
+
+00:05:42,764 --> 00:05:44,233
+I know what it's called.
+
+00:05:44,299 --> 00:05:45,601
+Look, Roger was
+a regular, okay?
+
+00:05:45,667 --> 00:05:46,668
+Draft beer.
+
+00:05:46,735 --> 00:05:48,070
+Tonight, he's
+drinking J.D.
+
+00:05:48,136 --> 00:05:49,538
+straight up, six in an hour.
+
+00:05:49,605 --> 00:05:51,807
+If you ask me,
+he was looking for trouble.
+
+00:06:02,918 --> 00:06:05,120
+I've been searching high and low
+for a blunt object.
+
+00:06:05,187 --> 00:06:07,322
+Crow bar, two-by-four, brick,
+something like that.
+
+00:06:07,389 --> 00:06:09,324
+Nothing.
+
+00:06:09,391 --> 00:06:11,593
+But I did find this crack pipe.
+
+00:06:11,660 --> 00:06:12,728
+I'll get it back to the lab
+
+00:06:12,794 --> 00:06:15,731
+see if I can get some prints
+off of it.
+
+00:06:15,797 --> 00:06:18,100
+This roof's not that accessible,
+you know?
+
+00:06:18,167 --> 00:06:20,402
+Besides, coming all the way
+up here to get high and low.
+
+00:06:20,469 --> 00:06:22,237
+But still, little extreme
+for this part of town
+
+00:06:22,304 --> 00:06:23,639
+don't you think?
+
+00:06:23,705 --> 00:06:25,107
+Swab it, print it, bag it.
+
+00:06:25,174 --> 00:06:27,276
+See if you can find out
+who smoked it.
+
+00:06:30,078 --> 00:06:32,181
+Okay.
+
+00:06:50,065 --> 00:06:51,567
+Wow.
+
+00:06:51,633 --> 00:06:53,202
+50 caliber.
+
+00:06:53,268 --> 00:06:54,670
+Yeah, you need a cannon
+
+00:06:54,736 --> 00:06:57,005
+to fire a hunk of lead that big.
+
+00:06:57,072 --> 00:06:58,740
+Feel like hunting for a bullet?
+
+00:06:58,807 --> 00:07:01,710
+Anything that might have hit it
+would have ripped right through.
+
+00:07:01,777 --> 00:07:04,046
+Thing's probably still moving.
+
+00:07:10,208 --> 00:07:11,553
+Leah.
+
+00:07:13,288 --> 00:07:14,756
+Good to have you back on nights.
+
+00:07:14,823 --> 00:07:15,924
+I know.
+
+00:07:15,991 --> 00:07:17,659
+I hate days.
+
+00:07:17,726 --> 00:07:20,062
+I came to see you
+for your expert opinion.
+
+00:07:20,128 --> 00:07:21,930
+Shoot.
+
+00:07:21,997 --> 00:07:23,665
+See what you can make of this.
+
+00:07:25,000 --> 00:07:27,703
+Hmm.
+
+00:07:27,769 --> 00:07:30,138
+Use of only black and gray ink
+
+00:07:30,205 --> 00:07:32,207
+is known as fine-line.
+
+00:07:32,274 --> 00:07:33,575
+Not a "scratcher" job.
+
+00:07:33,642 --> 00:07:35,010
+You recognize this?
+
+00:07:35,077 --> 00:07:36,845
+Signed by the artist himself.
+
+00:07:36,912 --> 00:07:38,847
+Take a look.
+
+00:07:39,667 --> 00:07:40,868
+WARRICK:
+I-I?
+
+00:07:40,934 --> 00:07:41,902
+In Roman numerals, two.
+
+00:07:41,969 --> 00:07:43,037
+As in "tat-too."
+
+00:07:43,103 --> 00:07:45,873
+Premier skin artist in Vegas.
+
+00:07:45,940 --> 00:07:47,074
+Also a Ph.D. in Psychology.
+
+00:07:47,141 --> 00:07:48,175
+He's a shrink?
+
+00:07:48,242 --> 00:07:49,810
+Mm-hmm.
+
+00:07:49,877 --> 00:07:53,047
+So he gets in your head
+<i>and</i> under your skin, huh?
+
+00:07:53,113 --> 00:07:53,500
+You're a gem.
+
+00:07:53,500 --> 00:07:54,125
+Thank you.
+
+00:07:56,458 --> 00:07:57,492
+I got a new one.
+
+00:07:57,559 --> 00:07:58,994
+Really?
+
+00:07:59,060 --> 00:08:01,896
+Check it out.
+
+00:08:01,963 --> 00:08:04,366
+Nice.
+
+00:08:04,432 --> 00:08:07,268
+The rose is still
+my favorite, though.
+
+00:08:13,308 --> 00:08:16,311
+( <i>whirring sounds</i> )
+
+00:08:23,792 --> 00:08:24,542
+Is the doctor in?
+
+00:08:24,542 --> 00:08:26,688
+Yes, I am.
+
+00:08:33,458 --> 00:08:34,963
+Hmm.
+
+00:08:35,030 --> 00:08:38,266
+Skin and ink, ink and skin--
+
+00:08:38,333 --> 00:08:40,402
+one makes the other one live.
+
+00:08:40,468 --> 00:08:42,437
+You see, that's
+
+00:08:42,504 --> 00:08:43,772
+strength
+
+00:08:43,838 --> 00:08:45,373
+and that's superiority
+
+00:08:45,440 --> 00:08:47,442
+and that's ambition
+without limit.
+
+00:08:47,509 --> 00:08:50,245
+See, it's the chosen one.
+
+00:08:50,312 --> 00:08:52,147
+Hmm.
+
+00:08:58,053 --> 00:09:00,789
+It's my book.
+
+00:09:00,855 --> 00:09:02,624
+All my victims.
+
+00:09:03,825 --> 00:09:06,227
+His name was Jimmy Maurer.
+
+00:09:10,265 --> 00:09:11,466
+STOKES:
+Was?
+
+00:09:11,533 --> 00:09:13,768
+What do you mean,
+that's not his name anymore?
+
+00:09:13,835 --> 00:09:15,236
+He died, didn't he?
+
+00:09:15,303 --> 00:09:16,905
+Well, his fate was inevitable.
+
+00:09:16,972 --> 00:09:18,606
+I simply gave it form.
+
+00:09:18,673 --> 00:09:24,546
+Strength, superiority,
+and ambition, huh?
+
+00:09:24,613 --> 00:09:27,449
+Not exactly the characteristics
+of an angel.
+
+00:09:27,515 --> 00:09:29,451
+No, it's not an angel.
+
+00:09:29,517 --> 00:09:30,518
+It's Greek Mythology.
+
+00:09:30,585 --> 00:09:31,920
+Icarus.
+
+00:09:31,987 --> 00:09:34,990
+He flew too close to the sun
+on wings of feathers and wax.
+
+00:09:35,056 --> 00:09:37,993
+And when the wax melted,
+he plunged to his death.
+
+00:09:38,059 --> 00:09:39,160
+Hubris.
+
+00:09:39,227 --> 00:09:41,730
+Is that what brought Jimmy down,
+as well?
+
+00:09:41,796 --> 00:09:43,665
+Hey, man, you tell us.
+
+00:09:43,732 --> 00:09:45,533
+How should I know?
+
+00:09:48,770 --> 00:09:52,041
+Hey, Greggy, any
+luck on those blood
+and hair samples?
+
+00:09:52,041 --> 00:09:52,707
+Don't insult me.
+
+00:09:52,774 --> 00:09:54,542
+Luck is for those
+without skill.
+
+00:09:54,609 --> 00:09:57,045
+Hmm, spoken like a man
+who's never hit a jackpot.
+
+00:09:57,112 --> 00:09:59,114
+Hmm, sad but true.
+
+00:09:59,180 --> 00:10:00,815
+Slot plot on the
+blood and hair...
+
+00:10:00,882 --> 00:10:01,983
+came back negative.
+
+00:10:02,050 --> 00:10:03,985
+Not human.
+They're animal.
+
+00:10:04,052 --> 00:10:06,421
+Hmm.
+
+00:10:06,488 --> 00:10:08,556
+You can take that
+with you if you want.
+
+00:10:08,623 --> 00:10:10,558
+Thanks, I will.
+
+00:10:10,625 --> 00:10:11,893
+And I spoke
+with Brass.
+
+00:10:11,960 --> 00:10:13,895
+That squirrelly
+tattoo artist
+had a record.
+
+00:10:13,962 --> 00:10:15,063
+For what?
+
+00:10:15,130 --> 00:10:16,865
+Drug conviction:
+crack cocaine.
+
+00:10:16,931 --> 00:10:18,266
+You got a print
+off of that pipe?
+
+00:10:18,333 --> 00:10:19,734
+Lab's working on it.
+
+00:10:20,375 --> 00:10:20,902
+Hey, Doc.
+
+00:10:20,969 --> 00:10:22,070
+Hi, fellows.
+
+00:10:22,137 --> 00:10:24,506
+Cause of death--
+any takers?
+
+00:10:25,125 --> 00:10:26,808
+Blunt force trauma.
+
+00:10:26,875 --> 00:10:27,976
+You know if he's asking
+
+00:10:28,043 --> 00:10:29,644
+we're not going
+to figure it out.
+
+00:10:29,711 --> 00:10:30,645
+Nicely played.
+
+00:10:30,712 --> 00:10:31,780
+It's suffocation.
+
+00:10:31,846 --> 00:10:34,482
+After I cleaned him up,
+I noticed bluish
+
+00:10:34,549 --> 00:10:36,051
+discolorations on his lips
+
+00:10:36,117 --> 00:10:38,153
+and on what's left
+of his nail beds.
+
+00:10:40,288 --> 00:10:42,023
+Cyanosis?
+
+00:10:42,090 --> 00:10:43,758
+Body was starved
+for oxygen.
+
+00:10:43,825 --> 00:10:46,227
+Strangled, and then thrown
+off of the roof?
+
+00:10:46,294 --> 00:10:47,996
+Found no ligature
+marks on his neck
+
+00:10:48,063 --> 00:10:49,664
+no petechial hemorrhaging.
+
+00:10:49,731 --> 00:10:51,866
+Hence, no forcible suffocation.
+
+00:10:51,933 --> 00:10:52,934
+Okay, not beaten
+to death
+
+00:10:53,001 --> 00:10:54,069
+not strangled
+to death.
+
+00:10:54,135 --> 00:10:55,770
+But something
+bad went down
+on that roof.
+
+00:10:55,837 --> 00:10:57,305
+He left half his
+head up there, man.
+
+00:10:57,372 --> 00:10:58,873
+Uh, more like... uh...
+
+00:10:58,940 --> 00:11:00,041
+25%.
+
+00:11:00,108 --> 00:11:02,310
+BROWN:
+Suffocation means
+he died with his brain
+
+00:11:02,377 --> 00:11:03,812
+still in his head.
+
+00:11:03,878 --> 00:11:05,213
+Yeah, but there's
+no evidence
+
+00:11:05,280 --> 00:11:06,748
+of anyone else
+at the scene.
+
+00:11:06,815 --> 00:11:08,817
+How do you suffocate
+alone on a rooftop?
+
+00:11:08,883 --> 00:11:10,051
+You don't.
+
+00:11:10,118 --> 00:11:11,386
+All right.
+
+00:11:11,453 --> 00:11:13,622
+High impact
+from a high altitude.
+
+00:11:13,688 --> 00:11:18,226
+ROBBINS:
+Well, above 15,000 feet,
+hypoxia can occur in minutes.
+
+00:11:18,293 --> 00:11:19,661
+He died in the sky.
+
+00:11:19,728 --> 00:11:22,430
+Yeah... and the
+rest is gravity.
+
+00:11:29,083 --> 00:11:30,785
+You know, your vic
+was an interesting guy.
+
+00:11:30,852 --> 00:11:31,786
+He had no home address.
+
+00:11:31,853 --> 00:11:33,667
+Just post office boxes
+
+00:11:33,667 --> 00:11:35,836
+in California, Utah, Vegas.
+
+00:11:36,500 --> 00:11:37,170
+Drive a car?
+
+00:11:37,237 --> 00:11:39,406
+Nissan XTerra.
+
+00:11:39,473 --> 00:11:41,475
+Cali tags and license,
+but he was all squared away.
+
+00:11:41,541 --> 00:11:42,542
+None of this
+explains
+
+00:11:42,609 --> 00:11:44,711
+how he dropped
+out of the sky.
+
+00:11:44,778 --> 00:11:47,481
+Well, the, uh,
+possibilities
+are limited.
+
+00:11:47,547 --> 00:11:49,683
+Either he was pushed out
+of a plane
+
+00:11:49,750 --> 00:11:52,285
+or he stowed away in
+the landing gear, or, um...
+
+00:11:52,352 --> 00:11:55,655
+skydiving gone bad.
+
+00:11:55,722 --> 00:11:56,690
+Oh, none of that works.
+
+00:11:56,757 --> 00:11:58,091
+I talked to Air Traffic Control
+
+00:11:58,158 --> 00:12:00,193
+and they had no aircraft
+operating in that area
+
+00:12:00,260 --> 00:12:02,195
+at that time.
+
+00:12:06,400 --> 00:12:07,801
+<i>La Lluvia de Peces.</i>
+
+00:12:07,868 --> 00:12:10,303
+What?
+
+00:12:10,370 --> 00:12:11,838
+The raining of fish.
+
+00:12:11,905 --> 00:12:14,775
+Occasionally, usually
+in the early spring
+
+00:12:14,841 --> 00:12:18,445
+in Yoro, Honduras,
+it rains, um...
+
+00:12:18,512 --> 00:12:20,647
+sardines.
+
+00:12:20,714 --> 00:12:22,716
+Sardines?
+That's funny.
+
+00:12:22,783 --> 00:12:23,717
+Really.
+
+00:12:23,784 --> 00:12:24,851
+I've seen it.
+
+00:12:24,918 --> 00:12:27,521
+I mean, the scientific
+explanation is--
+
+00:12:27,587 --> 00:12:29,356
+this sounds
+like a Grissom thing--
+
+00:12:29,423 --> 00:12:31,591
+is that they get sucked
+out of the ocean
+
+00:12:31,658 --> 00:12:34,061
+by these waterspouts
+that are like, you know
+
+00:12:34,127 --> 00:12:35,829
+you know, tornadoes,
+and, uh, then...
+
+00:12:35,896 --> 00:12:38,965
+Look, the point is, Warrick
+
+00:12:39,032 --> 00:12:42,703
+they got to come from somewhere.
+
+00:12:49,176 --> 00:12:51,678
+What the hell
+were you doing in Honduras?
+
+00:12:54,648 --> 00:12:55,582
+Bobby.
+
+00:12:55,649 --> 00:12:57,317
+Not a lot of guns
+chambered
+
+00:12:57,384 --> 00:12:58,585
+for 50 AE.
+
+00:12:58,652 --> 00:13:00,020
+It kind of narrows the field.
+
+00:13:00,087 --> 00:13:01,388
+Got AMT
+
+00:13:01,455 --> 00:13:03,924
+Auto Mag Five,
+LAR Grizzly...
+
+00:13:03,990 --> 00:13:05,325
+Desert Eagle?
+
+00:13:05,392 --> 00:13:06,827
+Yeah, how'd you know?
+
+00:13:06,893 --> 00:13:07,928
+I had O'Riley
+run the vic
+
+00:13:07,994 --> 00:13:09,363
+for registered firearms.
+
+00:13:09,429 --> 00:13:11,331
+It turns out that
+Roger Mitchel purchased
+
+00:13:11,398 --> 00:13:12,833
+a Magnum Research Desert Eagle
+
+00:13:12,899 --> 00:13:14,468
+Mark-Seven
+three weeks ago.
+
+00:13:14,534 --> 00:13:15,669
+I know the gun.
+
+00:13:15,736 --> 00:13:18,238
+Idiot-big and shiny.
+
+00:13:18,305 --> 00:13:19,439
+Right, well, you know
+
+00:13:19,506 --> 00:13:22,109
+some men feel the need
+to compensate.
+
+00:13:22,175 --> 00:13:25,412
+Actually, a gun like that
+intimidates, makes a statement.
+
+00:13:25,479 --> 00:13:26,780
+Yes, it does.
+
+00:13:26,847 --> 00:13:28,949
+Beer drinker
+switches to bourbon.
+
+00:13:29,016 --> 00:13:30,717
+He's got himself
+a brand-new gun.
+
+00:13:30,784 --> 00:13:32,252
+He's just looking for a fight.
+
+00:13:32,319 --> 00:13:34,087
+Statement is, "Bring it on."
+
+00:13:34,154 --> 00:13:38,692
+<i>So, full of liquid courage,</i>
+<i>he hauls out the big iron.</i>
+
+00:13:40,127 --> 00:13:42,729
+But a drunk
+is not hard to disarm.
+
+00:13:42,796 --> 00:13:44,965
+( <i>grunting</i> )
+
+00:13:45,032 --> 00:13:46,400
+( <i>gunshot</i> )
+
+00:13:46,466 --> 00:13:49,436
+Vic gets shot
+with his own weapon.
+
+00:13:49,503 --> 00:13:52,439
+And the perp walks away
+with the murder weapon.
+
+00:13:52,506 --> 00:13:54,107
+STOKES:
+According to Trace,
+the yellow dust
+
+00:13:54,174 --> 00:13:57,911
+on Jimmy Maurer's leg
+was Pinion Pine pollen.
+
+00:13:57,978 --> 00:13:59,780
+Say that three times fast.
+
+00:13:59,846 --> 00:14:02,749
+Pinion's a desert tree
+found in higher elevations
+
+00:14:02,816 --> 00:14:05,485
+4,500 feet and up.
+
+00:14:05,552 --> 00:14:08,021
+BROWN:
+4,500 feet...
+
+00:14:08,088 --> 00:14:09,756
+Mount Potosi.
+
+00:14:09,823 --> 00:14:11,658
+STOKES:
+Yeah, it fits
+the bill to a tee.
+
+00:14:11,725 --> 00:14:13,360
+Think our vic was there
+before he died.
+
+00:14:13,427 --> 00:14:14,594
+That's on the ground.
+
+00:14:14,661 --> 00:14:16,763
+Let's get on the Net and figure
+out how he got into the air.
+
+00:14:16,830 --> 00:14:18,598
+Yeah, look under what?
+Hot air balloons?
+
+00:14:18,665 --> 00:14:20,000
+There was nothing in the air.
+
+00:14:20,067 --> 00:14:21,401
+I mean, we can...
+
+00:14:21,468 --> 00:14:22,436
+( <i>typing</i> )
+
+00:14:22,502 --> 00:14:23,704
+Flying?
+
+00:14:23,770 --> 00:14:25,339
+You're a genius.
+
+00:14:25,405 --> 00:14:27,007
+Of course.
+
+00:14:27,074 --> 00:14:28,642
+Pinion Pine Pollen,
+Pinion Pine Pollen
+
+00:14:28,709 --> 00:14:31,378
+Pinion Pine Pollen.
+
+00:14:31,445 --> 00:14:33,947
+O'RILEY:
+<i>That camper-top pickup</i>
+<i>was reported stolen.</i>
+
+00:14:34,014 --> 00:14:37,250
+The R.O. is a Ned Bookman.
+
+00:14:37,317 --> 00:14:38,752
+Lives in Henderson.
+
+00:14:38,819 --> 00:14:40,253
+Well, that's three
+miles from here.
+
+00:14:40,320 --> 00:14:41,355
+That's walking distance.
+
+00:14:41,421 --> 00:14:42,823
+Gets better.
+
+00:14:42,889 --> 00:14:45,826
+Ned Bookman and our vic
+live on the same street.
+
+00:14:45,892 --> 00:14:48,228
+Ooh, neighbors.
+
+00:14:59,806 --> 00:15:01,842
+Ignition block's intact.
+
+00:15:03,110 --> 00:15:04,378
+No sign of forced entry.
+
+00:15:06,913 --> 00:15:09,416
+Hey, do you smell something?
+
+00:15:09,483 --> 00:15:10,917
+Like what?
+
+00:15:10,984 --> 00:15:12,319
+Something...
+
+00:15:12,386 --> 00:15:14,187
+fruity.
+
+00:15:14,254 --> 00:15:16,656
+I thought it was
+your perfume.
+
+00:15:16,723 --> 00:15:17,891
+No.
+
+00:15:17,958 --> 00:15:19,593
+I never wear perfume at work.
+
+00:15:19,659 --> 00:15:21,395
+It dulls the sense of smell.
+
+00:15:28,001 --> 00:15:29,936
+A-ha.
+
+00:15:37,811 --> 00:15:39,479
+Mulberries.
+
+00:15:42,749 --> 00:15:47,875
+( <i>tones sounding</i> )
+
+00:15:50,834 --> 00:15:53,136
+( <i>tone sounding</i> )
+
+00:15:54,041 --> 00:15:55,665
+( <i>weak tone sounding</i> )
+
+00:16:14,918 --> 00:16:17,587
+( <i>camera clicking</i> )
+
+00:16:17,654 --> 00:16:19,589
+STOKES:
+It's amazing
+how simple it is.
+
+00:16:19,656 --> 00:16:22,058
+Air fills the canopy
+and you're off.
+
+00:16:22,125 --> 00:16:24,160
+BROWN:
+Yeah, sounds like you
+want to go for a spin.
+
+00:16:24,227 --> 00:16:27,564
+Well, it looks like
+it might be a rush.
+
+00:16:30,633 --> 00:16:33,069
+Paragliding's
+a two-piece system--
+
+00:16:33,136 --> 00:16:34,537
+harness and canopy.
+
+00:16:34,604 --> 00:16:37,240
+Now, the canopies are fitted
+to you according to body weight
+
+00:16:37,307 --> 00:16:39,509
+so if anyone has dropped
+a few for vanity
+
+00:16:39,576 --> 00:16:41,778
+speak up now, please.
+
+00:16:41,845 --> 00:16:43,947
+No?
+
+00:16:44,013 --> 00:16:45,348
+All right.
+
+00:16:45,415 --> 00:16:48,084
+You're going
+to want to look around.
+
+00:16:48,151 --> 00:16:49,652
+Take in the sights.
+
+00:16:49,719 --> 00:16:52,021
+Do it.
+
+00:16:52,088 --> 00:16:53,256
+Enjoy it.
+
+00:16:53,323 --> 00:16:54,591
+The best view
+in the world.
+
+00:16:54,657 --> 00:16:57,694
+But don't forget,
+we weren't born with wings.
+
+00:16:57,760 --> 00:16:58,995
+We had to make them.
+
+00:16:59,062 --> 00:17:02,298
+So respect
+the equipment, okay?
+
+00:17:02,365 --> 00:17:05,235
+All right, then.
+It's time to fly.
+
+00:17:05,301 --> 00:17:06,636
+Any last questions?
+
+00:17:06,703 --> 00:17:08,538
+Yeah.
+
+00:17:08,605 --> 00:17:09,739
+Yeah, I know Jimmy.
+
+00:17:09,806 --> 00:17:12,442
+The guy's got
+an attitude. Cocky.
+
+00:17:12,509 --> 00:17:15,011
+Might be able to handle
+his own in the air
+
+00:17:15,078 --> 00:17:16,980
+but I don't care for his style.
+
+00:17:17,046 --> 00:17:18,248
+What's his style?
+
+00:17:18,314 --> 00:17:19,983
+Well, he likes
+to grandstand.
+
+00:17:20,049 --> 00:17:21,718
+You know, this sport's
+about soaring.
+
+00:17:21,785 --> 00:17:24,754
+He's about showing off.
+
+00:17:24,821 --> 00:17:27,457
+Looks like it should be
+about having fun.
+
+00:17:27,524 --> 00:17:29,692
+Yeah, it's
+about having fun.
+
+00:17:29,759 --> 00:17:31,795
+But also,
+there's etiquette.
+
+00:17:31,861 --> 00:17:33,696
+I mean, a guy
+breezes in from nowhere
+
+00:17:33,763 --> 00:17:35,098
+does things his own way...
+
+00:17:35,165 --> 00:17:36,566
+Ah, maybe the...
+
+00:17:36,633 --> 00:17:38,401
+walk back'll
+humble him a little.
+
+00:17:38,468 --> 00:17:39,435
+The walk back?
+
+00:17:39,502 --> 00:17:40,470
+When you fly
+
+00:17:40,537 --> 00:17:41,504
+you need thermals
+
+00:17:41,571 --> 00:17:43,072
+or upshots of air used for lift.
+
+00:17:43,139 --> 00:17:45,942
+I mean, on a good day, you
+can stay airborne for hours.
+
+00:17:46,009 --> 00:17:47,577
+How high do these
+thermals get?
+
+00:17:47,644 --> 00:17:50,413
+Well, you can take them
+as far as they take you.
+
+00:17:50,480 --> 00:17:53,383
+One time I was above
+18,000 feet, when I came down
+
+00:17:53,450 --> 00:17:56,019
+I was about 35 miles
+from where I launched.
+
+00:17:56,085 --> 00:17:57,420
+Whoa.
+
+00:17:57,487 --> 00:17:58,822
+Yeah, the walk back.
+
+00:17:58,888 --> 00:18:01,124
+That's Jimmy's truck,
+it's been there
+
+00:18:01,191 --> 00:18:02,392
+since yesterday.
+
+00:18:02,459 --> 00:18:05,428
+What kind of trouble
+is he in, anyway?
+
+00:18:05,495 --> 00:18:07,197
+The worst kind.
+
+00:18:07,263 --> 00:18:08,364
+Thanks, Rick.
+
+00:18:12,502 --> 00:18:14,504
+Ah, crap!
+
+00:18:14,571 --> 00:18:17,107
+Like we said,
+your truck's not here.
+
+00:18:17,173 --> 00:18:19,342
+Why did you report it stolen?
+
+00:18:19,409 --> 00:18:21,411
+Look, I got another car.
+
+00:18:21,478 --> 00:18:23,513
+I hardly ever use the pickup.
+
+00:18:23,580 --> 00:18:25,849
+I work nights.
+
+00:18:25,915 --> 00:18:28,017
+Anybody could've
+stolen it.
+
+00:18:28,084 --> 00:18:29,119
+You know,
+I mean...
+
+00:18:29,185 --> 00:18:30,887
+it could happen.
+
+00:18:37,360 --> 00:18:38,495
+Hmm.
+
+00:18:38,561 --> 00:18:40,396
+Hide-a-key.
+
+00:18:42,398 --> 00:18:43,500
+Empty.
+
+00:18:43,566 --> 00:18:45,301
+Anybody else
+
+00:18:45,368 --> 00:18:46,469
+know about this?
+
+00:18:46,536 --> 00:18:47,804
+Apparently.
+
+00:18:47,871 --> 00:18:49,806
+Now how well
+did you know the victim?
+
+00:18:49,873 --> 00:18:52,342
+Roger lived
+across the street.
+
+00:18:52,408 --> 00:18:55,779
+Didn't make us pals,
+just neighbors.
+
+00:18:55,845 --> 00:18:59,482
+WILLOWS:
+Looks like Roger's
+got a mulberry tree.
+
+00:18:59,549 --> 00:19:03,052
+So, Ned, we found
+
+00:19:03,119 --> 00:19:05,321
+mulberry branches
+in your pickup
+
+00:19:05,388 --> 00:19:07,524
+and there's
+a mulberry tree
+
+00:19:07,590 --> 00:19:10,426
+in your dead neighbor's yard.
+
+00:19:10,493 --> 00:19:12,962
+I'm starting to like <i>you,</i> Ned
+
+00:19:13,029 --> 00:19:14,864
+and not in a good way.
+
+00:19:14,931 --> 00:19:17,300
+Uh, F-F-Frank Craft
+stole my truck.
+
+00:19:17,367 --> 00:19:19,335
+Uh...
+
+00:19:19,402 --> 00:19:21,671
+I mean, I mean
+he-he borrowed it.
+
+00:19:21,738 --> 00:19:23,239
+He-he...
+
+00:19:23,306 --> 00:19:25,108
+he borrows my stuff.
+
+00:19:26,609 --> 00:19:28,311
+I don't mind.
+
+00:19:28,378 --> 00:19:31,681
+Let me guess, um,
+Frank Craft lives in
+
+00:19:31,748 --> 00:19:34,150
+the blue house on
+the other side of the fence.
+
+00:19:34,217 --> 00:19:35,985
+He and Roger, uh...
+
+00:19:36,052 --> 00:19:37,687
+had problems.
+
+00:19:37,754 --> 00:19:39,422
+But you didn't
+hear it from me.
+
+00:19:44,160 --> 00:19:45,662
+Please don't say anything.
+
+00:19:53,870 --> 00:19:56,840
+Guy's got a surfboard
+for California
+
+00:19:56,906 --> 00:19:59,109
+and a snowboard
+for Utah.
+
+00:20:00,643 --> 00:20:02,979
+And a paragliding canopy
+for Nevada.
+
+00:20:04,347 --> 00:20:07,217
+Ripped to shreds.
+
+00:20:09,500 --> 00:20:11,488
+It's mine now.
+
+00:20:11,554 --> 00:20:12,856
+I'll swab it for epithelials.
+
+00:20:12,922 --> 00:20:14,524
+If his canopy
+was ripped to shreds
+
+00:20:14,591 --> 00:20:16,292
+what the hell
+was he flying with?
+
+00:20:22,932 --> 00:20:25,268
+What's that?
+
+00:20:25,335 --> 00:20:27,237
+"Guess you <i>can</i> fly
+with anything.
+
+00:20:27,303 --> 00:20:29,105
+Find me
+when you get back-- T."
+
+00:20:29,172 --> 00:20:30,740
+What?
+
+00:20:34,177 --> 00:20:36,412
+I'll check it out.
+
+00:20:39,182 --> 00:20:41,818
+Jimmy once told me,
+"Only a paraglider knows
+
+00:20:41,885 --> 00:20:43,119
+why the birds sing."
+
+00:20:43,186 --> 00:20:44,287
+( <i>chuckling</i> )
+
+00:20:44,354 --> 00:20:46,389
+That sounds
+like a line.
+
+00:20:46,456 --> 00:20:48,825
+It is.
+They all use it.
+
+00:20:48,892 --> 00:20:51,427
+Skydivers, hang gliders, pilots.
+
+00:20:51,494 --> 00:20:54,063
+On some girls it even works.
+
+00:20:54,130 --> 00:20:57,233
+Did it work on you?
+
+00:20:57,300 --> 00:21:00,670
+My art is an attempt to express
+what it feels like to fly
+
+00:21:00,737 --> 00:21:02,772
+and Jimmy
+was helping me do that.
+
+00:21:04,908 --> 00:21:06,943
+Jimmy's leg loops are unbuckled.
+How come?
+
+00:21:07,010 --> 00:21:08,678
+He never
+buckled them.
+
+00:21:08,745 --> 00:21:10,814
+Jimmy enjoyed showing people up.
+
+00:21:10,880 --> 00:21:12,882
+It wasn't enough for him
+to be a great flyer.
+
+00:21:12,949 --> 00:21:16,319
+He needed everyone to see
+that he was fearless.
+
+00:21:16,386 --> 00:21:18,988
+Well, I bet that
+didn't settle real well
+
+00:21:19,055 --> 00:21:20,323
+with Rick Weston.
+
+00:21:22,292 --> 00:21:23,393
+When did you take this one?
+
+00:21:23,460 --> 00:21:24,561
+Yesterday.
+
+00:21:24,627 --> 00:21:27,197
+And is that the canopy
+Jimmy normally flew with?
+
+00:21:27,263 --> 00:21:28,198
+Mm-mm.
+
+00:21:28,264 --> 00:21:29,299
+Where'd he get it?
+
+00:21:29,365 --> 00:21:31,000
+I don't know.
+
+00:21:31,067 --> 00:21:33,069
+He told me somebody
+messed with his rig
+
+00:21:33,136 --> 00:21:35,705
+but that wasn't going
+to keep him out of the air.
+
+00:21:35,772 --> 00:21:38,208
+And who's he butting
+heads with here?
+
+00:21:38,274 --> 00:21:39,242
+Fred Dacks.
+
+00:21:39,309 --> 00:21:40,510
+Who's that?
+
+00:21:40,577 --> 00:21:42,011
+He's a good flyer.
+He's very competitive.
+
+00:21:42,078 --> 00:21:43,413
+And by the looks
+of things
+
+00:21:43,480 --> 00:21:45,482
+he was pretty
+competitive with Jimmy.
+
+00:21:45,548 --> 00:21:47,150
+Always.
+
+00:21:47,217 --> 00:21:49,719
+You think that's going
+to give you the edge?
+
+00:21:49,786 --> 00:21:51,554
+I could fly with anything.
+
+00:21:51,621 --> 00:21:53,123
+Then show me some air, punk.
+
+00:21:56,259 --> 00:21:58,895
+( <i>clicking</i> )
+
+00:21:58,962 --> 00:22:00,430
+Is that Fred there
+
+00:22:00,497 --> 00:22:01,731
+in the yellow and white canopy?
+
+00:22:01,798 --> 00:22:03,199
+Jimmy followed his line.
+
+00:22:03,266 --> 00:22:04,367
+He went after him hard.
+
+00:22:04,434 --> 00:22:06,236
+Had to win
+at all costs.
+
+00:22:06,302 --> 00:22:08,625
+Expensive price to pay.
+
+00:22:12,041 --> 00:22:15,511
+This guy Kraft's had a dozen
+complaints filed against him
+
+00:22:15,578 --> 00:22:17,179
+by residents on the block.
+
+00:22:17,246 --> 00:22:21,542
+Property line disputes,
+petty thefts, one assault.
+
+00:22:21,834 --> 00:22:23,166
+A regular Mister Rogers.
+
+00:22:23,166 --> 00:22:24,178
+Yeah.
+
+00:22:25,000 --> 00:22:26,000
+Check this out.
+
+00:22:26,000 --> 00:22:27,334
+Creative parking?
+
+00:22:27,401 --> 00:22:28,602
+Something.
+
+00:22:43,625 --> 00:22:46,795
+( <i>knocking</i> )
+
+00:22:50,131 --> 00:22:50,792
+What do you want?
+
+00:22:50,792 --> 00:22:51,708
+Frank Kraft?
+
+00:22:52,634 --> 00:22:53,568
+So what?
+
+00:22:53,635 --> 00:22:54,542
+Detective O'Riley.
+
+00:22:54,542 --> 00:22:56,004
+Vegas P.D.
+
+00:22:56,071 --> 00:22:58,083
+This is Catherine Willows
+from the Crime Lab.
+
+00:22:58,083 --> 00:22:59,250
+We'd like to have a
+few words with you.
+
+00:22:59,250 --> 00:23:01,676
+Show me the badge.
+
+00:23:03,612 --> 00:23:05,083
+WILLOWS:
+That's a hell of a
+bruise you've got
+
+00:23:05,083 --> 00:23:06,000
+on your chin, Mr. Kraft.
+
+00:23:06,000 --> 00:23:06,934
+How did you get that?
+
+00:23:07,001 --> 00:23:08,435
+I sent away for it.
+
+00:23:08,502 --> 00:23:10,437
+You want one of your own?
+
+00:23:10,504 --> 00:23:13,107
+( <i>chuckles lightly</i> )
+
+00:23:14,441 --> 00:23:17,011
+Recoil's a bitch, isn't it?
+
+00:23:17,077 --> 00:23:18,612
+( <i>gunshot, grunting</i> )
+
+00:23:20,648 --> 00:23:22,182
+Do you have a dog?
+
+00:23:22,249 --> 00:23:24,084
+Do you have a warrant?
+
+00:23:24,151 --> 00:23:25,719
+No, we're just talking here.
+
+00:23:28,289 --> 00:23:30,291
+Nice fellow.
+
+00:23:30,357 --> 00:23:31,992
+BROWN:
+According to the manager
+
+00:23:32,059 --> 00:23:34,762
+Fred Dacks has been working here
+for three years.
+
+00:23:34,828 --> 00:23:36,497
+Model employee,
+knows his gear.
+
+00:23:36,564 --> 00:23:37,665
+Hi.
+Hi.
+
+00:23:37,731 --> 00:23:39,133
+I'm looking
+for Fred Dacks.
+
+00:23:39,199 --> 00:23:40,401
+He's right over there.
+
+00:23:40,467 --> 00:23:41,669
+Thanks.
+You're welcome.
+
+00:23:41,735 --> 00:23:45,005
+But guess who just got
+hired here a month ago?
+
+00:23:45,072 --> 00:23:46,340
+Uh, Jimmy Maurer?
+
+00:23:46,407 --> 00:23:48,676
+Yeah. Small world, huh?
+
+00:23:48,742 --> 00:23:50,177
+Yeah, I'll say.
+
+00:23:50,244 --> 00:23:51,178
+Fred Dacks?
+
+00:23:51,245 --> 00:23:52,846
+Yeah, what can
+I do for you?
+
+00:23:52,913 --> 00:23:55,216
+I'm Warrick Brown,
+this is Nick Stokes.
+
+00:23:55,282 --> 00:23:57,051
+We're from the Las Vegas
+Crime Lab.
+
+00:23:57,117 --> 00:23:59,620
+We need to ask you a few
+questions about Jimmy Maurer.
+
+00:23:59,687 --> 00:24:00,621
+Jimmy.
+
+00:24:00,688 --> 00:24:02,756
+The guy was a punk.
+
+00:24:02,823 --> 00:24:04,592
+Other than paragliding
+and working here
+
+00:24:04,658 --> 00:24:06,527
+we had nothing in common.
+
+00:24:06,594 --> 00:24:08,429
+Except maybe that tattoo
+right there.
+
+00:24:11,265 --> 00:24:13,167
+Yeah, only 'cause that fool
+bit it off me.
+
+00:24:13,234 --> 00:24:14,335
+This was a one-of-a-kind
+
+00:24:14,401 --> 00:24:15,803
+around here until he rolled in
+
+00:24:15,869 --> 00:24:17,471
+with his little birdman
+or whatever.
+
+00:24:17,538 --> 00:24:19,006
+You mean Icarus, right?
+
+00:24:19,073 --> 00:24:20,407
+Whatever, it doesn't
+change a thing.
+
+00:24:20,474 --> 00:24:22,042
+The guy was a mouth.
+
+00:24:22,109 --> 00:24:23,644
+He threw shade
+all over the place.
+
+00:24:23,711 --> 00:24:24,645
+Really?
+
+00:24:24,712 --> 00:24:25,646
+Yeah.
+
+00:24:25,713 --> 00:24:27,815
+Funny, that's what
+we heard about you.
+
+00:24:27,882 --> 00:24:29,083
+Oh, is that right?
+
+00:24:29,149 --> 00:24:31,000
+From who?
+That artsy chick?
+
+00:24:31,000 --> 00:24:32,708
+He was sticking it to her.
+
+00:24:32,708 --> 00:24:33,959
+What did you think
+she was going to say?
+
+00:24:33,959 --> 00:24:35,022
+Plus, she was still
+pissed at me
+
+00:24:35,089 --> 00:24:36,156
+that I didn't take part
+
+00:24:36,223 --> 00:24:37,558
+in her little
+"masterpiece."
+
+00:24:37,625 --> 00:24:39,727
+That really doesn't
+concern me, Mr. Dacks.
+
+00:24:39,793 --> 00:24:41,095
+What I want to know is
+
+00:24:41,161 --> 00:24:43,497
+did you fly with Jimmy
+the day he died?
+
+00:24:43,564 --> 00:24:44,498
+Hell no.
+
+00:24:44,565 --> 00:24:46,000
+I wouldn't fly with him.
+
+00:24:46,066 --> 00:24:47,301
+Dude can't match my skills.
+
+00:24:47,368 --> 00:24:48,802
+Nothing but a menace.
+
+00:24:48,869 --> 00:24:50,004
+BROWN:
+Try again.
+
+00:24:50,070 --> 00:24:51,538
+Yellow canopy.
+
+00:24:54,942 --> 00:24:56,510
+We know that's you, Fred.
+
+00:24:56,577 --> 00:24:57,778
+Oh, yeah. See?
+
+00:24:57,845 --> 00:24:58,913
+Tight line, leading edge
+
+00:24:58,979 --> 00:25:00,848
+to the wind.
+Carving it up.
+
+00:25:00,915 --> 00:25:02,349
+Must be me.
+
+00:25:22,870 --> 00:25:24,371
+Yeah, yeah, I remember
+now, all right?
+
+00:25:24,438 --> 00:25:25,873
+Last time I saw Jimmy,
+he was still
+
+00:25:25,940 --> 00:25:27,308
+on the ground tugging
+on his junk.
+
+00:25:27,374 --> 00:25:29,977
+It wasn't his junk,
+it was someone else's.
+
+00:25:30,044 --> 00:25:32,313
+Well, then, why are you
+talking to me, man?
+
+00:25:32,379 --> 00:25:34,315
+'Cause the only rig
+I got is my own.
+
+00:25:34,381 --> 00:25:35,749
+We done?
+
+00:25:35,816 --> 00:25:37,218
+Yeah, for now.
+
+00:25:37,284 --> 00:25:38,385
+Uh-huh.
+
+00:25:42,723 --> 00:25:43,924
+Uh, you know what?
+
+00:25:43,991 --> 00:25:45,392
+I'll take this one.
+
+00:25:48,062 --> 00:25:49,230
+WILLOWS:
+Let me guess.
+
+00:25:49,296 --> 00:25:51,632
+Citizen Ned doesn't want
+to get involved?
+
+00:25:51,699 --> 00:25:53,767
+Kraft scares the
+crap out of the guy.
+
+00:25:53,834 --> 00:25:57,004
+Well, I guess he doesn't want
+to be seen talking to us.
+
+00:25:57,071 --> 00:26:00,274
+Boiled down,
+basically he said
+Kraft and the vic
+
+00:26:00,341 --> 00:26:02,009
+had a pretty
+bad history.
+
+00:26:02,076 --> 00:26:04,445
+Yeah, that's becoming
+really clear.
+
+00:26:04,511 --> 00:26:05,913
+Check this out.
+
+00:26:05,980 --> 00:26:07,448
+Kraft was stealing
+cable from Edmonds.
+
+00:26:07,514 --> 00:26:08,682
+Edmonds cuts the line.
+
+00:26:08,749 --> 00:26:10,885
+Hate thy neighbor.
+
+00:26:10,951 --> 00:26:13,153
+Did Ned mention anything
+about Kraft's dog?
+
+00:26:13,220 --> 00:26:16,023
+Only that it was always
+chained up in the yard.
+
+00:26:16,090 --> 00:26:17,291
+And always barking.
+
+00:26:20,728 --> 00:26:21,629
+( <i>barking</i> )
+
+00:26:21,695 --> 00:26:22,630
+( <i>tires screeching</i> )
+
+00:26:22,696 --> 00:26:23,631
+<i>I'm starting to think</i>
+
+00:26:23,697 --> 00:26:26,333
+the victim may have
+taken care of that.
+
+00:26:26,400 --> 00:26:29,136
+What about
+the tire marks?
+
+00:26:29,203 --> 00:26:31,138
+Not enough detail--
+we'd never get a match.
+
+00:26:31,205 --> 00:26:33,841
+We can't check
+Kraft's property out
+
+00:26:33,908 --> 00:26:35,309
+without a warrant.
+
+00:26:35,376 --> 00:26:37,111
+But...
+
+00:26:39,213 --> 00:26:41,682
+Oh, that won't get you
+a warrant, either.
+
+00:26:42,716 --> 00:26:45,152
+You like jigsaw puzzles?
+
+00:26:51,292 --> 00:26:52,393
+( <i>grunts</i> )
+
+00:27:14,181 --> 00:27:15,749
+Epithelials on
+the slashed canopy
+
+00:27:15,816 --> 00:27:18,118
+match the ones on the
+sleeping bag drawstring.
+
+00:27:18,185 --> 00:27:20,387
+Fred Dacks,
+both places.
+
+00:27:20,454 --> 00:27:22,289
+Thank you and good night.
+
+00:27:22,356 --> 00:27:24,124
+( <i>exhales</i> )
+
+00:27:24,191 --> 00:27:25,626
+So Fred does a number
+
+00:27:25,693 --> 00:27:27,995
+on Jimmy's canopy to
+keep him from flying.
+
+00:27:28,062 --> 00:27:29,530
+He's threatened
+by the guy.
+
+00:27:29,597 --> 00:27:32,099
+It's to keep from getting
+shown up, you know.
+
+00:27:32,166 --> 00:27:34,168
+He needs to be
+the top dog, huh?
+Hmm.
+
+00:27:34,235 --> 00:27:35,369
+Yeah, that sounds like you.
+
+00:27:35,436 --> 00:27:37,171
+Who?
+You.
+
+00:27:37,238 --> 00:27:38,208
+SANDERS:
+That sounds
+like both of you.
+
+00:27:38,208 --> 00:27:39,333
+Now please,
+can you take this
+
+00:27:39,333 --> 00:27:40,125
+somewhere else?
+
+00:27:40,625 --> 00:27:43,000
+So... Jimmy gets a new canopy.
+
+00:27:43,000 --> 00:27:45,250
+Flies, dies.
+
+00:27:45,250 --> 00:27:46,792
+Comes down
+unattached.
+
+00:27:46,792 --> 00:27:48,583
+We got no canopy,
+we got no harness.
+
+00:27:48,583 --> 00:27:50,085
+If we want to find out
+what happened
+
+00:27:50,152 --> 00:27:51,253
+we need to find that rig.
+
+00:27:51,319 --> 00:27:53,388
+Well, you're not going
+to find it here.
+
+00:27:53,455 --> 00:27:54,589
+Hey, hey, hey,
+hey, hey.
+
+00:27:54,656 --> 00:27:56,525
+Have you taken
+your medication today?
+
+00:27:56,591 --> 00:27:57,792
+See ya.
+
+00:27:59,828 --> 00:28:01,029
+125 hertz?
+
+00:28:01,096 --> 00:28:02,531
+Minus 30 decibels.
+
+00:28:02,597 --> 00:28:06,468
+It's a significant decline
+from your last visit.
+
+00:28:06,535 --> 00:28:09,371
+Yes, but most human speech
+is above 300 hertz.
+
+00:28:09,437 --> 00:28:11,139
+My midrange is still clear.
+
+00:28:11,206 --> 00:28:13,775
+If it were clear all the time,
+you wouldn't be here.
+
+00:28:13,842 --> 00:28:15,911
+I think it's time
+to consider
+
+00:28:15,977 --> 00:28:19,414
+something like... surgery.
+
+00:28:19,481 --> 00:28:22,117
+Think about it.
+
+00:28:22,184 --> 00:28:23,451
+Let me know.
+
+00:28:32,792 --> 00:28:34,917
+BROWN:
+He took off here
+
+00:28:34,917 --> 00:28:36,375
+and he came down here,
+right?
+
+00:28:36,375 --> 00:28:37,543
+Yeah.
+
+00:28:37,610 --> 00:28:40,580
+Now, the canopy's designed
+to soar.
+
+00:28:40,646 --> 00:28:42,014
+Has to fall downwind
+of the body.
+
+00:28:42,081 --> 00:28:45,851
+And at 15,000 feet,
+wind was northeast
+
+00:28:45,918 --> 00:28:49,222
+at 22 miles per hour.
+
+00:28:49,288 --> 00:28:51,324
+Well, we get a little
+classical dynamics going on
+
+00:28:51,390 --> 00:28:52,758
+we can find this rig.
+
+00:28:58,464 --> 00:29:00,433
+A-ha.
+
+00:29:00,499 --> 00:29:03,603
+Search area
+is northeast Summerlin.
+
+00:29:03,669 --> 00:29:05,571
+Yeah, let's put out a broadcast.
+
+00:29:05,638 --> 00:29:10,443
+STOKES:
+Patrol unit spotted it
+on a routine traffic stop.
+
+00:29:10,509 --> 00:29:13,546
+BROWN:
+Yeah, we lucked out.
+
+00:29:15,915 --> 00:29:17,617
+What have we got?
+
+00:29:17,683 --> 00:29:19,151
+Well...
+
+00:29:22,455 --> 00:29:24,123
+Bingo.
+
+00:29:27,927 --> 00:29:29,829
+These leg loops,
+they're unbuckled.
+
+00:29:29,896 --> 00:29:31,297
+I guess there's no surprise
+there.
+
+00:29:32,331 --> 00:29:34,300
+15,000 feet up,
+no helmet
+
+00:29:34,367 --> 00:29:36,702
+the only thing
+holding you in
+
+00:29:36,769 --> 00:29:40,473
+are two shoulder harnesses
+and a chest strap.
+
+00:29:40,539 --> 00:29:42,642
+Not the kind of rush
+you're looking for?
+
+00:29:42,708 --> 00:29:44,644
+Uh-uh.
+
+00:29:50,950 --> 00:29:53,252
+( <i>rustling</i> )
+
+00:29:53,319 --> 00:29:55,588
+( <i>rustling</i> )
+
+00:29:57,290 --> 00:29:59,191
+Check this out.
+
+00:30:00,960 --> 00:30:03,262
+"Property of Potosi
+Glide Center."
+
+00:30:03,329 --> 00:30:04,430
+That makes two liars.
+
+00:30:04,497 --> 00:30:05,631
+Weston didn't tell us
+
+00:30:05,698 --> 00:30:08,000
+he gave Jimmy
+his replacement rig.
+
+00:30:08,067 --> 00:30:11,070
+'Cause he knew how it would
+end up.
+
+00:30:14,040 --> 00:30:15,741
+Jimmy never had a chance, man.
+
+00:30:15,808 --> 00:30:18,678
+No way. I wanted to see him
+get his ass kicked, not killed.
+
+00:30:18,744 --> 00:30:22,181
+Yeah, problem is
+he did get killed.
+
+00:30:22,248 --> 00:30:24,150
+Flying your canopy.
+
+00:30:24,216 --> 00:30:26,152
+I don't know how that happened.
+
+00:30:26,218 --> 00:30:28,588
+BROWN:
+Well, it seems
+the lines leading
+
+00:30:28,654 --> 00:30:30,890
+to the A-riser were cut.
+
+00:30:40,266 --> 00:30:43,836
+Your rig,
+your responsibility.
+
+00:30:46,372 --> 00:30:48,407
+This is your chance.
+
+00:30:48,474 --> 00:30:49,742
+I'd take it.
+
+00:30:52,111 --> 00:30:55,815
+Fred said that, uh...
+
+00:30:55,881 --> 00:30:59,385
+he just wanted to teach Jimmy
+a lesson.
+
+00:30:59,452 --> 00:31:00,486
+Rick.
+
+00:31:00,553 --> 00:31:01,988
+Yeah?
+
+00:31:02,054 --> 00:31:03,723
+Jimmy's going to hit
+you up for a canopy.
+
+00:31:03,789 --> 00:31:05,725
+Why don't you give him
+something big and slow?
+
+00:31:05,791 --> 00:31:07,326
+Oh, I got that
+blue-green trainer.
+
+00:31:07,393 --> 00:31:08,661
+That ought to be fun.
+
+00:31:08,728 --> 00:31:10,997
+( <i>chuckles</i> ):
+Perfect.
+
+00:31:11,063 --> 00:31:12,498
+Ten minutes later
+
+00:31:12,565 --> 00:31:15,167
+Jimmy shows up all hot.
+
+00:31:15,234 --> 00:31:17,536
+He asked, I gave, he took.
+
+00:31:17,603 --> 00:31:19,705
+Couldn't let Fred get the better
+of him.
+
+00:31:19,772 --> 00:31:23,509
+Look, Jimmy lacked discipline.
+
+00:31:23,576 --> 00:31:27,079
+He needed to be brought down
+a peg or two.
+
+00:31:27,146 --> 00:31:29,315
+You brought him
+all the way down.
+
+00:31:34,375 --> 00:31:35,443
+Don't tell me.
+
+00:31:35,509 --> 00:31:37,244
+Rick pleaded ignorance.
+
+00:31:37,311 --> 00:31:38,913
+Right before
+he lawyered it up.
+Really?
+
+00:31:38,979 --> 00:31:41,291
+Well, that guy's
+wasting his money.
+
+00:31:41,291 --> 00:31:42,683
+Take a look.
+
+00:31:49,824 --> 00:31:51,559
+It's frayed.
+
+00:31:51,625 --> 00:31:55,663
+You're saying if he had cut it
+with a tool, it'd be clean.
+
+00:31:55,729 --> 00:31:57,598
+These lines are spun polymer.
+
+00:31:57,665 --> 00:31:59,867
+They're lightweight,
+but strong as hell
+
+00:31:59,934 --> 00:32:02,369
+covered in a plastic shell;
+now, over time
+
+00:32:02,436 --> 00:32:04,071
+that plastic coating
+wears down.
+
+00:32:04,138 --> 00:32:06,307
+Unprotected lines
+rub against one another
+
+00:32:06,373 --> 00:32:08,876
+<i>weakening, fraying, until...</i>
+
+00:32:08,943 --> 00:32:09,910
+...snap!
+
+00:32:09,977 --> 00:32:12,313
+It's normal wear
+and tear, man.
+
+00:32:12,379 --> 00:32:15,149
+But Weston knew that
+that canopy was in bad shape.
+
+00:32:15,216 --> 00:32:18,752
+And we don't have any evidence
+to suggest that he sabotaged it.
+
+00:32:18,819 --> 00:32:21,522
+Do you remember a case
+about a year ago?
+
+00:32:21,589 --> 00:32:23,090
+Diablo Canyon?
+
+00:32:23,157 --> 00:32:26,494
+Oh, the victim of sudden weather
+that you thought was murdered.
+
+00:32:26,560 --> 00:32:27,495
+Yeah.
+
+00:32:27,561 --> 00:32:29,864
+You fool me once, shame on you.
+
+00:32:29,930 --> 00:32:32,433
+You fool me twice...
+shame on me.
+
+00:32:34,668 --> 00:32:35,836
+( <i>clears throat</i> )
+
+00:32:35,903 --> 00:32:37,271
+Can you help me out?
+
+00:32:37,338 --> 00:32:38,305
+Uh... depends.
+
+00:32:38,372 --> 00:32:40,107
+I can't get out
+into the field
+
+00:32:40,174 --> 00:32:43,244
+because I'm maxed out
+on overtime for the month.
+
+00:32:43,310 --> 00:32:46,347
+Ah, and you're confined
+to the lab, huh?
+
+00:32:46,413 --> 00:32:49,283
+Well, hey, look,
+it's regular hours.
+
+00:32:49,350 --> 00:32:52,052
+I mean, go have dinner
+with the boyfriend...
+
+00:32:52,119 --> 00:32:53,053
+Hank, right?
+
+00:32:53,120 --> 00:32:55,589
+And, and...
+go, go to a spa.
+
+00:32:55,656 --> 00:32:57,992
+Hank is not my boyfriend.
+
+00:32:58,058 --> 00:33:00,594
+And you know, those places
+are filled with bacteria.
+
+00:33:03,764 --> 00:33:04,865
+Sara, I don't make
+the rules around here.
+
+00:33:04,932 --> 00:33:06,867
+You've got to talk to
+Grissom about that.
+
+00:33:06,934 --> 00:33:10,805
+Yeah...he's, um, not really
+in a talking mood.
+
+00:33:10,871 --> 00:33:13,474
+What makes you think
+he's going to talk to me?
+
+00:33:15,609 --> 00:33:16,877
+Get some rest.
+
+00:33:16,944 --> 00:33:18,879
+I'm not tired.
+
+00:33:18,946 --> 00:33:19,880
+Really.
+
+00:33:19,947 --> 00:33:21,982
+I'm not tired.
+
+00:34:12,299 --> 00:34:14,568
+( <i>leaves rustling</i> )
+
+00:34:37,291 --> 00:34:38,759
+( <i>leaves rustling</i> )
+
+00:34:43,041 --> 00:34:46,750
+That's the cumulus
+cloud formed by
+warm air rising?
+
+00:34:46,750 --> 00:34:47,685
+The thermals?
+
+00:34:47,751 --> 00:34:49,420
+Yeah, the bigger the cloud
+
+00:34:49,486 --> 00:34:51,555
+the more air
+that gets sucked in
+
+00:34:51,622 --> 00:34:54,024
+the stronger
+the thermal.
+
+00:34:54,091 --> 00:34:55,726
+And check out our boys.
+
+00:34:55,793 --> 00:34:57,628
+Heading straight
+for it.
+
+00:34:57,695 --> 00:35:00,531
+Yep. He's probably getting
+the ride of his <i>life.</i>
+
+00:35:10,941 --> 00:35:13,510
+( <i>wind gusting</i> )
+
+00:35:19,216 --> 00:35:20,851
+WARRICK:
+<i>He's rising fast.</i>
+
+00:35:20,918 --> 00:35:22,553
+Air is getting thinner.
+
+00:35:22,620 --> 00:35:25,155
+15,000 feet
+
+00:35:25,222 --> 00:35:27,358
+he passes out and suffocates.
+
+00:35:27,424 --> 00:35:30,060
+( <i>wind gusting</i> )
+
+00:35:30,127 --> 00:35:34,031
+( <i>gasping</i> )
+
+00:35:34,098 --> 00:35:35,499
+You catch a good thermal
+
+00:35:35,566 --> 00:35:37,835
+and you take it
+as far as it takes you--
+
+00:35:37,902 --> 00:35:39,370
+dead or alive.
+
+00:35:39,436 --> 00:35:41,305
+( <i>wind gusting</i> )
+
+00:35:49,179 --> 00:35:52,549
+And to show Fred up,
+Jimmy had to fly higher.
+
+00:35:52,616 --> 00:35:55,552
+But he had an oxygen tank...
+on his harness.
+
+00:35:55,619 --> 00:35:57,021
+Why didn't he use it?
+
+00:35:57,087 --> 00:35:59,723
+Good question.
+
+00:36:12,136 --> 00:36:16,974
+The key word here:
+retaliation.
+
+00:36:17,041 --> 00:36:19,743
+Roger Edmonds cuts the cable
+
+00:36:19,810 --> 00:36:20,744
+that you stole.
+
+00:36:20,811 --> 00:36:22,613
+He was stealing it himself.
+
+00:36:22,680 --> 00:36:24,848
+Of course, he was.
+
+00:36:24,915 --> 00:36:29,687
+( <i>sighs</i> ):
+So, then you...
+chop up his tree...
+
+00:36:35,626 --> 00:36:37,394
+borrow Ned's truck
+to dump the branches...
+
+00:36:37,461 --> 00:36:39,597
+I borrow Ned's stuff
+all the time; he doesn't mind.
+
+00:36:39,663 --> 00:36:41,599
+It's not important to him;
+it's no big deal...
+
+00:36:41,665 --> 00:36:42,967
+Shut up.
+
+00:36:43,033 --> 00:36:44,468
+This isn't about Ned.
+
+00:36:44,535 --> 00:36:46,337
+It's about Roger.
+
+00:36:46,403 --> 00:36:48,172
+So...
+
+00:36:48,239 --> 00:36:51,175
+while you're out dumping
+the branches
+
+00:36:51,242 --> 00:36:52,509
+Roger comes home
+
+00:36:52,576 --> 00:36:54,979
+and sees what
+you've done to his tree.
+
+00:36:55,045 --> 00:36:58,115
+He ups the ante.
+
+00:36:58,182 --> 00:36:59,483
+( <i>dog barking</i> )
+
+00:36:59,550 --> 00:37:01,318
+( <i>tires squeal</i> )
+
+00:37:01,385 --> 00:37:02,186
+( <i>barks</i> )
+
+00:37:02,253 --> 00:37:05,923
+You return home...
+
+00:37:05,990 --> 00:37:07,892
+find your dog...
+
+00:37:07,958 --> 00:37:09,994
+start looking for Roger.
+
+00:37:25,809 --> 00:37:28,312
+Your dog look as
+bad as my tree?
+
+00:37:28,379 --> 00:37:31,582
+( <i>both grunting and muttering)</i>
+
+00:37:31,649 --> 00:37:33,851
+...my dog!
+
+00:37:33,918 --> 00:37:35,953
+Huh, you want some
+of this, pal, huh?!
+
+00:37:36,020 --> 00:37:37,121
+Come on, come on!
+
+00:37:37,187 --> 00:37:38,489
+( <i>gunshot</i> )
+( <i>screams</i> )
+
+00:37:38,555 --> 00:37:39,556
+( <i>gasping</i> )
+
+00:37:43,928 --> 00:37:46,163
+Detective.
+
+00:37:56,040 --> 00:37:58,042
+Desert Eagle.
+
+00:38:00,444 --> 00:38:02,813
+Something else you...
+borrowed?
+
+00:38:02,880 --> 00:38:06,350
+He killed my dog.
+
+00:38:14,658 --> 00:38:16,560
+Well, the gauge reads full.
+
+00:38:16,627 --> 00:38:18,996
+Yeah, I don't think
+it works, bro.
+
+00:38:19,063 --> 00:38:21,432
+There's only one way
+to find out.
+
+00:38:24,034 --> 00:38:25,502
+Flowing fine.
+
+00:38:25,569 --> 00:38:26,904
+( <i>sighs</i> )
+
+00:38:26,971 --> 00:38:29,039
+An experienced flyer,
+
+00:38:29,106 --> 00:38:31,008
+prepared for
+the altitude.
+
+00:38:31,075 --> 00:38:34,445
+There's no reason not
+to use his oxygen.
+
+00:38:34,511 --> 00:38:35,946
+( <i>scoffs</i> )
+
+00:38:36,013 --> 00:38:38,382
+Unless he didn't think
+he needed it.
+
+00:38:41,485 --> 00:38:43,487
+( <i>machinery whirring</i> )
+
+00:38:45,990 --> 00:38:47,992
+( <i>sighs</i> )
+
+00:38:51,061 --> 00:38:53,697
+Okay.
+
+00:38:53,764 --> 00:38:56,567
+STOKES:
+Las Vegas is 2,030 feet
+above sea level.
+
+00:38:56,634 --> 00:38:58,369
+You got that thing
+plugged in yet?
+
+00:39:00,404 --> 00:39:02,106
+There it is.
+
+00:39:02,172 --> 00:39:03,908
+Let's see what we've got.
+
+00:39:03,974 --> 00:39:05,409
+( <i>computer beeps</i> )
+
+00:39:05,476 --> 00:39:07,111
+30 feet.
+
+00:39:07,177 --> 00:39:08,112
+( <i>chuckles</i> )
+
+00:39:08,178 --> 00:39:11,215
+I, uh, I think we're off
+by a couple of G's.
+
+00:39:12,483 --> 00:39:15,085
+I'll dust it.
+
+00:39:15,152 --> 00:39:18,122
+Jimmy's altimeter,
+your fingerprints...
+
+00:39:18,188 --> 00:39:19,723
+on the inside.
+
+00:39:19,790 --> 00:39:20,758
+That's cute.
+
+00:39:20,824 --> 00:39:23,093
+You should put it in a frame.
+
+00:39:23,160 --> 00:39:26,230
+So I fix gear for other flyers
+sometimes, big deal.
+
+00:39:26,297 --> 00:39:27,898
+WARRICK:
+Oh, you fixed it,
+all right.
+
+00:39:27,965 --> 00:39:29,500
+You decalibrated it.
+
+00:39:29,567 --> 00:39:31,602
+It was off by 2,000 feet.
+
+00:39:41,178 --> 00:39:43,047
+In the air,
+you lose perspective.
+
+00:39:43,113 --> 00:39:45,282
+You have to trust
+your instruments.
+
+00:39:45,349 --> 00:39:47,918
+Jimmy didn't know
+how high he actually was.
+
+00:39:49,787 --> 00:39:51,689
+( <i>canopy rustling</i> )
+
+00:40:07,738 --> 00:40:09,807
+( <i>wind gusting</i> )
+
+00:40:11,141 --> 00:40:13,944
+Hey, I already told you, man,
+this dude was soft in the air.
+
+00:40:14,011 --> 00:40:15,512
+He could've turned back anytime.
+
+00:40:15,579 --> 00:40:17,314
+BRASS:
+But you knew he wouldn't.
+
+00:40:17,381 --> 00:40:18,949
+You set him up.
+
+00:40:19,016 --> 00:40:21,252
+WARRICK:
+Yeah, you had perfect sky
+
+00:40:21,318 --> 00:40:24,588
+massive canopy,
+bitchen thermals, dude
+
+00:40:24,655 --> 00:40:27,324
+and a challenge
+he'd never refuse.
+
+00:40:27,391 --> 00:40:29,326
+You played him against himself.
+
+00:40:29,393 --> 00:40:30,628
+( <i>wind gusting</i> )
+
+00:40:30,694 --> 00:40:32,563
+( <i>canopy rustling</i> )
+
+00:40:38,836 --> 00:40:42,339
+You couldn't stand the fact
+that he was better than you.
+
+00:40:42,406 --> 00:40:44,541
+Hey, I called him out,
+he took me on.
+
+00:40:44,608 --> 00:40:46,377
+Bigger air, higher altitudes
+
+00:40:46,443 --> 00:40:49,146
+push the limit, dude--
+that's why we fly.
+
+00:40:49,213 --> 00:40:50,981
+No, it's not why <i>you</i> fly.
+
+00:40:51,048 --> 00:40:53,350
+The truth is on your arm.
+
+00:40:53,417 --> 00:40:54,818
+Alecto...
+
+00:40:54,885 --> 00:40:58,155
+Magaera, Tisiphone;
+The Three Furies.
+
+00:40:58,222 --> 00:41:01,625
+Unceasing anger
+
+00:41:01,692 --> 00:41:04,128
+vengeance and jealousy.
+
+00:41:04,194 --> 00:41:07,831
+That's what
+you're about.
+
+00:41:07,898 --> 00:41:09,934
+Sorry, dude.
+
+00:41:13,604 --> 00:41:15,839
+Hey, Catherine.
+
+00:41:15,906 --> 00:41:18,576
+Hey... I heard you know
+your Greek Mythology.
+
+00:41:18,642 --> 00:41:20,945
+I'm impressed--
+never would've guessed.
+
+00:41:21,011 --> 00:41:23,080
+Yeah, I'm a mystery.
+
+00:41:23,147 --> 00:41:24,081
+Yes, you are.
+
+00:41:24,148 --> 00:41:25,482
+( <i>chuckles</i> )
+
+00:41:25,549 --> 00:41:27,418
+So, where's Nick?
+
+00:41:27,484 --> 00:41:29,119
+He bugged out early.
+
+00:41:29,186 --> 00:41:31,488
+Well, good work, you guys--
+both of you.
+
+00:41:32,957 --> 00:41:34,525
+Would you let him know?
+
+00:41:34,592 --> 00:41:36,560
+Thanks. Yeah, I will.
+
+00:41:36,627 --> 00:41:37,928
+I'll see you around.
+
+00:41:37,995 --> 00:41:39,763
+All right. Have a good morning.
+
+00:41:39,830 --> 00:41:42,600
+You, too.
+
+00:41:46,270 --> 00:41:47,204
+( <i>knocks</i> )
+
+00:41:47,271 --> 00:41:49,840
+Closed that murder
+I was working.
+
+00:41:49,907 --> 00:41:53,410
+A man's life for a dog's life
+for a mulberry tree.
+
+00:41:53,477 --> 00:41:55,546
+( <i>sighs</i> ):
+Sometimes I wonder
+if people are meant
+
+00:41:55,613 --> 00:41:56,547
+to live together.
+
+00:41:56,614 --> 00:41:57,681
+Well, you know
+what they say--
+
+00:41:57,748 --> 00:41:59,250
+"Good fences make
+good neighbors."
+
+00:41:59,316 --> 00:42:02,586
+Then you'd make
+a <i>great</i> neighbor.
+
+00:42:02,653 --> 00:42:03,587
+Hmm.
+
+00:42:03,654 --> 00:42:04,588
+( <i>chuckles</i> )
+
+00:42:06,123 --> 00:42:07,658
+New case?
+
+00:42:07,725 --> 00:42:09,627
+Ongoing.
+
+00:42:12,997 --> 00:42:14,265
+Oh...
+
+00:42:14,331 --> 00:42:15,432
+...bugs.
+
+00:42:15,499 --> 00:42:16,934
+Mm.
+
+00:42:17,750 --> 00:42:18,792
+Enjoy.
+

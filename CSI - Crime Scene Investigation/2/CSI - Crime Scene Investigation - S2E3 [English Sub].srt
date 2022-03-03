@@ -1,0 +1,2147 @@
+
+00:00:11,917 --> 00:00:13,293
+♪ It's time to laugh ♪
+
+00:00:13,419 --> 00:00:14,996
+♪ It's time to cry ♪
+
+00:00:15,129 --> 00:00:17,584
+♪ It's time to be what you need to be ♪
+
+00:00:17,715 --> 00:00:20,288
+♪ It won't be long till they are gone ♪
+
+00:00:20,426 --> 00:00:22,833
+♪ And we can be what we want to be ♪
+
+00:00:22,970 --> 00:00:25,675
+♪ I'm gonna run from everything ♪
+
+00:00:25,806 --> 00:00:28,095
+♪ Everything that holds me down ♪
+
+00:00:28,225 --> 00:00:30,542
+♪ Nothing to win, nothing to lose... ♪
+
+00:00:30,679 --> 00:00:33,680
+- You're late.
+- Thursday night. Traffic on the Strip.
+
+00:00:33,807 --> 00:00:35,883
+Like every night. We're on a deadline. Go.
+
+00:00:41,023 --> 00:00:43,016
+(Siren)
+
+00:00:45,986 --> 00:00:47,778
+Man versus gravity.
+
+00:00:48,989 --> 00:00:50,697
+Man lost.
+
+00:00:50,824 --> 00:00:53,066
+I think that was his point.
+
+00:00:53,202 --> 00:00:54,993
+- Hello, Bob.
+- Hey, Brian.
+
+00:00:55,120 --> 00:00:56,698
+Grissom, what are you doing here?
+
+00:00:56,830 --> 00:01:00,531
+- What do you think?
+- I didn't alert Homicide.
+
+00:01:00,668 --> 00:01:02,993
+Dispatch called. The body's on county property.
+
+00:01:03,128 --> 00:01:05,370
+Well, we're not looking at a crime here.
+
+00:01:05,506 --> 00:01:07,913
+Bob explained it to me on the phone.
+
+00:01:08,050 --> 00:01:10,089
+His guy was alone up there
+
+00:01:10,219 --> 00:01:12,544
+He jumped. This is suicide.
+
+00:01:12,680 --> 00:01:15,253
+- Then why are you here, Sheriff?
+- Look er...
+
+00:01:15,391 --> 00:01:17,763
+Roger Valenti was an unhappy guy.
+
+00:01:17,893 --> 00:01:19,886
+Money problems, family problems...
+
+00:01:20,020 --> 00:01:21,562
+He took the easy way out.
+
+00:01:21,689 --> 00:01:25,223
+It's a tragedy, but it is not a crime.
+
+00:01:26,443 --> 00:01:28,021
+Suicide, huh?
+
+00:01:28,153 --> 00:01:29,731
+I don't know Brian
+
+00:01:29,863 --> 00:01:32,651
+On the day you decide to end your life,
+
+00:01:32,783 --> 00:01:34,692
+why would you go to work?
+
+00:02:11,280 --> 00:02:16,986
+1,400 new beds means 1,400 criminals
+off the street. That old jail's maxed.
+
+00:02:17,119 --> 00:02:20,203
+The prison population's increased by 10%
+in one year.
+
+00:02:20,331 --> 00:02:22,703
+If this place isn't built soon, you do the math.
+
+00:02:23,876 --> 00:02:27,042
+You look like the Sheriff,
+but you talk like the Mayor.
+
+00:02:27,171 --> 00:02:30,125
+Mr Harris, do you get an extra bonus
+for early completion?
+
+00:02:30,257 --> 00:02:32,333
+20 grand a day. I'm 10 days ahead.
+
+00:02:32,468 --> 00:02:36,133
+Wow. $200,000.
+You must work your guys pretty hard, huh?
+
+00:02:46,482 --> 00:02:50,562
+- Where was Valenti's work station?
+- He had the whole floor to himself.
+
+00:02:50,694 --> 00:02:52,651
+Valenti was usually my first guy up.
+
+00:02:52,780 --> 00:02:55,187
+He would drill the holes for the safety cables.
+
+00:02:56,408 --> 00:03:00,358
+No-one walks a new slab until
+the cables are looped around the perimeter.
+
+00:03:00,496 --> 00:03:02,120
+(Car horns and sirens)
+
+00:03:08,379 --> 00:03:11,545
+Terminal velocity
+is 9.8 metres per second squared.
+
+00:03:11,674 --> 00:03:14,959
+He would have hit the ground
+in under five seconds.
+
+00:03:55,009 --> 00:03:59,006
+- Did this belong to Mr Valenti?
+- Well, like I said, he was the only one up here.
+
+00:04:02,558 --> 00:04:05,227
+This drill has shorted out.
+
+00:04:05,352 --> 00:04:09,053
+Do you think he jumped before or after
+he got the shock of his life?
+
+00:04:09,189 --> 00:04:11,182
+GFCI would have prevented shock.
+
+00:04:11,317 --> 00:04:12,515
+What is GFCI?
+
+00:04:12,651 --> 00:04:14,691
+The Ground-Fault Circuit Interrupter.
+
+00:04:14,820 --> 00:04:17,607
+Big words meaning he won't get electrocuted.
+
+00:04:18,824 --> 00:04:21,529
+You see, if there's an electrical imbalance,
+
+00:04:21,660 --> 00:04:25,528
+then the GFCI trips the circuit
+and the tool's supposed to shut itself off.
+
+00:04:29,627 --> 00:04:34,419
+But if the third prong of the plug is compromised,
+the interrupter won't work.
+
+00:04:34,548 --> 00:04:35,711
+Will it, Bob?
+
+00:04:35,841 --> 00:04:37,584
+The third prong grounds the drill.
+
+00:04:37,718 --> 00:04:39,711
+Without it, the interrupter's useless.
+
+00:04:39,845 --> 00:04:43,344
+These prongs don't usually snap off
+by themselves.
+
+00:05:00,991 --> 00:05:04,360
+Are all your workers
+this careless with their tools?
+
+00:05:07,831 --> 00:05:10,501
+Do you mind telling me what you're doing?
+
+00:05:10,584 --> 00:05:14,333
+These cutters may have been used
+to tamper with the grounding prong.
+
+00:05:14,463 --> 00:05:16,954
+What happened to good old dusting for prints?
+
+00:05:17,091 --> 00:05:19,379
+When your crime scene is 12 storeys up...
+
+00:05:20,970 --> 00:05:22,962
+...I don't wanna take any chances.
+
+00:05:25,432 --> 00:05:27,010
+I'm gonna lock in these prints.
+
+00:05:39,655 --> 00:05:41,813
+Hey, O'Riley. We got the 419.
+
+00:05:42,950 --> 00:05:45,820
+Dylan Buckley. 14 years old.
+
+00:05:50,708 --> 00:05:52,166
+The paramedics pronounced
+
+00:05:52,293 --> 00:05:53,953
+The coroner's on his way
+
+00:05:56,255 --> 00:05:57,963
+Was he home alone?
+
+00:05:59,091 --> 00:06:01,167
+Not alone. Not his home.
+
+00:06:04,763 --> 00:06:07,468
+Catherine Willows, Nick Stokes. Crime Lab.
+
+00:06:08,600 --> 00:06:09,763
+Dr Leigh Sapien.
+
+00:06:09,893 --> 00:06:11,174
+This is her residence
+
+00:06:11,312 --> 00:06:12,936
+On good
+
+00:06:13,063 --> 00:06:14,095
+Then you can fill us in.
+
+00:06:14,231 --> 00:06:16,900
+- We were in the middle of a session.
+- You're a therapist?
+
+00:06:17,026 --> 00:06:20,893
+- Psychiatrist.
+- And why were you seeing Dylan?
+
+00:06:21,030 --> 00:06:22,440
+Doctor-patient privilege.
+
+00:06:22,573 --> 00:06:24,696
+Privilege doesn't extend post mortem.
+
+00:06:24,825 --> 00:06:26,568
+We can get a warrant for your records.
+
+00:06:26,702 --> 00:06:30,201
+No need. Dylan suffered from
+reactive-attachment disorder.
+
+00:06:30,331 --> 00:06:33,746
+Issues with his mother.
+I'd been treating him for 16 months.
+
+00:06:33,876 --> 00:06:35,370
+It's ten o'clock at night.
+
+00:06:35,502 --> 00:06:36,961
+Is this your home?
+
+00:06:37,087 --> 00:06:38,914
+I see my patients whenever they need me.
+
+00:06:39,048 --> 00:06:41,835
+On weekends, at night, at the office or here.
+
+00:06:41,967 --> 00:06:44,126
+Why don't you... just tell us what happened?
+
+00:06:44,261 --> 00:06:47,511
+Dylan had an argument with his mother.
+He needed to unload.
+
+00:06:47,640 --> 00:06:50,131
+He was complaining about his curfew
+
+00:06:50,267 --> 00:06:52,509
+blaming his mother for problems at school
+
+00:06:52,645 --> 00:06:54,637
+Suddenly he began to convulse
+
+00:06:57,399 --> 00:07:01,064
+I tried to stabilise his head,
+but it was a grand mal seizure.
+
+00:07:03,530 --> 00:07:05,190
+Dylan was an epileptic.
+
+00:07:05,324 --> 00:07:07,067
+He hit his head.
+
+00:07:07,201 --> 00:07:09,692
+And when the convulsions stopped,
+he was dead.
+
+00:07:09,828 --> 00:07:11,371
+Did you try to revive him?
+
+00:07:11,497 --> 00:07:13,240
+Of course Standard CPR
+
+00:07:13,374 --> 00:07:16,078
+Cleared his airway, worked his chest.
+
+00:07:19,296 --> 00:07:22,796
+I... take it this wasn't his first convulsion?
+
+00:07:22,925 --> 00:07:25,594
+He was diagnosed with epilepsy at age three.
+
+00:07:26,679 --> 00:07:28,802
+W-What are you doing?
+
+00:07:28,931 --> 00:07:31,469
+Catherine, we need to get
+a tape lift here, please.
+
+00:07:37,856 --> 00:07:39,683
+Look, I dialled 911.
+
+00:07:40,818 --> 00:07:41,980
+I'm not hiding anything.
+
+00:07:42,111 --> 00:07:43,902
+Well...
+
+00:07:44,029 --> 00:07:45,938
+I can see that.
+
+00:07:55,082 --> 00:07:58,747
+Quick. Name three human bones
+that can withstand a 12-storey drop.
+
+00:07:58,877 --> 00:08:02,460
+The bones of the inner ear -
+malleus, incus, stapes.
+
+00:08:02,589 --> 00:08:06,255
+High cellular density,
+completely protected by the skull. Why?
+
+00:08:06,385 --> 00:08:09,635
+They appear to be the only bones
+not fractured or broken.
+
+00:08:09,763 --> 00:08:11,886
+I wanna see the entry and exit wounds.
+
+00:08:12,016 --> 00:08:15,550
+He wasn't shot. This guy fell off
+the new jailhouse. Are we on the same case?
+
+00:08:15,686 --> 00:08:19,386
+- He fell after he was electrocuted.
+- News to me.
+
+00:08:19,523 --> 00:08:22,228
+I didn't find any physical evidence
+of electrocution.
+
+00:08:22,359 --> 00:08:24,019
+Faulty drill.
+
+00:08:24,153 --> 00:08:26,359
+There should be burn marks
+on one of his palms.
+
+00:08:29,366 --> 00:08:31,193
+Negative on the burn marks
+
+00:08:31,327 --> 00:08:34,742
+In most electrocution cases, capillaries rupture,
+
+00:08:34,872 --> 00:08:37,992
+haemoglobin leaks into the perivascular tissue.
+
+00:08:38,125 --> 00:08:41,576
+Right. Creating a fern-like pattern on the chest.
+
+00:08:47,593 --> 00:08:49,751
+His body contradicts your crime scene.
+
+00:08:49,887 --> 00:08:52,674
+I don't care what his body says.
+This guy was electrocuted.
+
+00:08:52,806 --> 00:08:54,051
+It was not an accident.
+
+00:09:07,947 --> 00:09:08,895
+What?
+
+00:09:09,031 --> 00:09:10,655
+I don't know what I'm looking for.
+
+00:09:10,783 --> 00:09:13,902
+Signs of charring or melting.
+You've done this before.
+
+00:09:14,036 --> 00:09:15,827
+Yean but
+
+00:09:15,955 --> 00:09:17,532
+we always go back to the body.
+
+00:09:17,665 --> 00:09:19,207
+The body tells the story.
+
+00:09:19,333 --> 00:09:23,200
+And, in this case, the body says
+there was no crime and you're not listening.
+
+00:09:24,338 --> 00:09:25,287
+Why?
+
+00:09:25,422 --> 00:09:27,415
+Now and then we have to break the rules.
+
+00:09:27,549 --> 00:09:30,254
+Start with the conclusion
+and work our way backwards.
+
+00:09:30,386 --> 00:09:32,924
+Like when we don't agree with
+the coroner's report?
+
+00:09:33,055 --> 00:09:34,430
+Like, for instance,
+
+00:09:34,556 --> 00:09:37,842
+in the 1800s...
+when surgery was Russian roulette
+
+00:09:37,977 --> 00:09:39,886
+and patients were dying on the tables.
+
+00:09:40,020 --> 00:09:42,594
+- Germs?
+- Until Louis Pasteur theorised
+
+00:09:42,731 --> 00:09:45,768
+that something we could not see
+was attacking the patients.
+
+00:09:45,901 --> 00:09:48,060
+- Relevance?
+- Bodies tell us stories
+
+00:09:48,195 --> 00:09:51,231
+because we interpret them
+how our predecessors taught us to.
+
+00:09:51,365 --> 00:09:54,236
+Not seeing something
+doesn't mean that it's not there.
+
+00:10:07,172 --> 00:10:08,631
+Wires are crossed.
+
+00:10:10,426 --> 00:10:12,050
+Polarity's been reversed.
+
+00:10:14,930 --> 00:10:18,382
+This confirms that
+someone tampered with Valenti's drill.
+
+00:10:21,061 --> 00:10:25,770
+The rubber soles of his boots
+should have protected him from electrical shock.
+
+00:10:25,899 --> 00:10:30,941
+That's why you're safe in a car during a lightning
+storm - you're insulated by the rubber tyres.
+
+00:10:34,783 --> 00:10:38,318
+Rubber's an insulator, but metal's a conductor.
+
+00:10:38,454 --> 00:10:40,411
+What form of metal hides in plain view
+
+00:10:40,539 --> 00:10:42,081
+at a construction site?
+
+00:10:47,296 --> 00:10:49,335
+A nail
+
+00:10:58,057 --> 00:10:59,005
+Hey
+
+00:10:59,141 --> 00:11:02,177
+How's that palm print
+Grissom got off those cutters?
+
+00:11:02,311 --> 00:11:04,802
+Good. I'm running it through AFIS right now.
+
+00:11:04,938 --> 00:11:06,896
+Good thing is, the jailhouse is a union gig,
+
+00:11:07,024 --> 00:11:09,479
+and all the union guys
+are already in the database.
+
+00:11:09,610 --> 00:11:11,484
+What I did for the print was I lined up
+
+00:11:11,612 --> 00:11:16,274
+the ridge detail from the partial
+that I found on each handle.
+
+00:11:16,408 --> 00:11:17,986
+Nice.
+
+00:11:19,119 --> 00:11:20,863
+(Sighs) So...
+
+00:11:20,996 --> 00:11:22,989
+you think that guy fried before he fell?
+
+00:11:23,123 --> 00:11:25,496
+I don't know. We found a nail in his boot.
+
+00:11:25,626 --> 00:11:27,951
+It could have pierced the protective rubber.
+
+00:11:28,087 --> 00:11:31,669
+It might have allowed electricity
+to course through his body.
+
+00:11:31,799 --> 00:11:33,875
+Bobby Dawson's taking odds.
+
+00:11:34,009 --> 00:11:36,002
+2 to 1, Grissom's wrong.
+
+00:11:36,136 --> 00:11:39,801
+5 to 1, he gets suspended
+for shutting down that jailhouse.
+
+00:11:40,933 --> 00:11:43,258
+- 10 to 1...
+- Fired.
+
+00:11:44,937 --> 00:11:46,016
+(Beeping)
+
+00:11:48,482 --> 00:11:50,273
+Sounds like you got a match
+
+00:11:52,278 --> 00:11:53,985
+Hey Gris
+
+00:11:54,113 --> 00:11:55,773
+How long have you been there?
+
+00:11:55,906 --> 00:11:57,021
+Yeah. Yeah, we do.
+
+00:11:58,075 --> 00:12:00,281
+The um... It's a former union guy,
+
+00:12:00,411 --> 00:12:03,447
+turned night-shift project manager.
+
+00:12:03,580 --> 00:12:04,861
+Robert Harris.
+
+00:12:04,999 --> 00:12:06,409
+Does that name mean anything?
+
+00:12:06,542 --> 00:12:07,621
+Yeah.
+
+00:12:07,751 --> 00:12:09,376
+Especially if you bet against me.
+
+00:12:17,469 --> 00:12:21,799
+My prints are on the cutters because they're on
+everything at the site. I'm the project manager.
+
+00:12:21,932 --> 00:12:23,426
+There's no mystery here.
+
+00:12:23,559 --> 00:12:26,643
+You are, but you don't actually use
+all the tools, right?
+
+00:12:26,770 --> 00:12:28,562
+I'm vigilant about safety.
+
+00:12:28,689 --> 00:12:31,606
+I'm always inspecting the equipment, tools...
+
+00:12:31,734 --> 00:12:34,141
+Look, this is what's going to happen here.
+
+00:12:34,278 --> 00:12:38,489
+The construction site is going to reopen
+and the investigation goes away.
+
+00:12:38,616 --> 00:12:41,533
+Sure. After the lab processes all the evidence.
+
+00:12:42,661 --> 00:12:44,239
+Excuse me.
+
+00:12:47,124 --> 00:12:49,911
+For the record,
+I don't like being put in the middle.
+
+00:12:50,044 --> 00:12:51,242
+Who does?
+
+00:12:51,378 --> 00:12:55,079
+I did a little homework on the guy
+who took a nose dive after he was electrocuted.
+
+00:12:55,215 --> 00:12:57,208
+Three days ago he was voted union rep.
+
+00:12:57,343 --> 00:13:00,094
+Demanded more overtime pay.
+Pressed for a walkout.
+
+00:13:00,220 --> 00:13:02,890
+- Motive?
+- Right.
+
+00:13:04,016 --> 00:13:05,640
+Oh, in case you're interested,
+
+00:13:05,768 --> 00:13:08,175
+Bob Harris was the Sheriff's best man.
+
+00:13:14,652 --> 00:13:18,234
+- What was that about?
+- Oh... We're in a bowling league together.
+
+00:13:18,364 --> 00:13:20,570
+- Can we wrap this up?
+- Sure.
+
+00:13:20,699 --> 00:13:23,155
+Someone tampered with Roger Valenti's drill.
+
+00:13:24,286 --> 00:13:25,697
+And I have only one suspect.
+
+00:13:25,829 --> 00:13:27,822
+I read the coroner's prelim.
+
+00:13:27,957 --> 00:13:30,792
+There is nothing in it about electrocution.
+
+00:13:30,918 --> 00:13:32,246
+That's why it's a "prelim".
+
+00:13:33,462 --> 00:13:36,167
+Mr Harris, were you against
+Valenti's union activities?
+
+00:13:36,298 --> 00:13:39,085
+Of course not. I'm a union man myself.
+
+00:13:39,218 --> 00:13:41,507
+You're fishing, Gil. We're done here.
+
+00:13:41,637 --> 00:13:43,012
+Moving on.
+
+00:14:36,150 --> 00:14:39,316
+Mrs Buckley, do you have someone
+to drive you home?
+
+00:14:40,529 --> 00:14:42,320
+- Mrs Buckley?
+- Yes?
+
+00:14:42,448 --> 00:14:44,773
+Do you have someone to drive you home?
+
+00:14:44,908 --> 00:14:47,578
+Oh, er... Thank you, I'll be all right.
+
+00:14:52,249 --> 00:14:54,574
+- Mrs Buckley?
+- Yeah.
+
+00:14:54,710 --> 00:14:57,996
+I'm Nick Stokes, Crime Lab.
+I've been assigned your son's case.
+
+00:14:58,130 --> 00:15:01,131
+- Crime Lab?
+- It's... protocol.
+
+00:15:03,010 --> 00:15:05,252
+We were... just having pizza together.
+
+00:15:05,387 --> 00:15:06,846
+He seemed fine and...
+
+00:15:06,972 --> 00:15:09,724
+I dropped him off at Dr Sapien's and...
+
+00:15:13,979 --> 00:15:17,763
+My husband passed away three years ago
+and now my...
+
+00:15:29,453 --> 00:15:31,280
+...my baby's gone.
+
+00:15:33,332 --> 00:15:34,791
+I understand.
+
+00:15:36,502 --> 00:15:39,171
+If you'll excuse me,
+I need to go and make arrangements.
+
+00:15:39,254 --> 00:15:40,286
+Sure.
+
+00:15:42,967 --> 00:15:44,959
+I'm sorry for your loss.
+
+00:15:46,804 --> 00:15:48,381
+Thank you.
+
+00:16:01,819 --> 00:16:03,811
+My youngest just turned 14.
+
+00:16:03,946 --> 00:16:05,654
+Tough age.
+
+00:16:08,284 --> 00:16:09,991
+Cause of death?
+
+00:16:10,119 --> 00:16:14,068
+Cranial cerebral injuries.
+Comminuted fractures of the occipital bone.
+
+00:16:20,379 --> 00:16:22,917
+Injuries consistent with a grand mal seizure?
+
+00:16:23,048 --> 00:16:25,005
+First blush, yes.
+
+00:16:25,134 --> 00:16:27,340
+Waiting on toxicology. In the meantime,
+
+00:16:27,469 --> 00:16:29,343
+check out his torso.
+
+00:16:29,471 --> 00:16:31,879
+He's covered in bruises
+
+00:16:32,016 --> 00:16:34,554
+Possibly from being thrashed
+during the seizure?
+
+00:16:34,685 --> 00:16:35,716
+Possibly.
+
+00:16:37,187 --> 00:16:39,394
+I found tan fibres on his boxers.
+
+00:16:39,523 --> 00:16:42,228
+You, too, huh? His body's covered in them.
+
+00:16:42,359 --> 00:16:46,689
+Fibres on his body, his underwear,
+but not on his shirt and pants. Why?
+
+00:16:46,822 --> 00:16:50,072
+Maybe it's as simple as
+he wasn't wearing his shirt and pants.
+
+00:16:50,200 --> 00:16:53,404
+Then, at some point, he was with his shrink...
+in his underwear.
+
+00:16:53,537 --> 00:16:56,075
+Exactly what kind of therapy was this?
+
+00:17:24,276 --> 00:17:26,483
+- Gil Grissom?
+- Yes.
+
+00:17:26,612 --> 00:17:30,028
+I have information... about Roger Valenti.
+
+00:17:30,157 --> 00:17:31,900
+Call Jim Brass at Homicide.
+
+00:17:34,536 --> 00:17:38,451
+I was the union rep before Roger.
+The walkout was my idea.
+
+00:17:38,582 --> 00:17:40,076
+Bob Harris...
+
+00:17:40,209 --> 00:17:42,201
+threatened me and my family.
+
+00:17:43,420 --> 00:17:47,085
+I wouldn't betray the union,
+so I gave up my position at the local.
+
+00:17:47,216 --> 00:17:49,422
+Roger... picked up where I left off.
+
+00:17:49,551 --> 00:17:50,927
+Why are you telling me this?
+
+00:17:51,053 --> 00:17:52,547
+Because it could have been me.
+
+00:17:54,723 --> 00:17:56,515
+Cheese...
+
+00:17:56,642 --> 00:17:58,184
+milk...
+
+00:17:59,311 --> 00:18:00,342
+...sweaters.
+
+00:18:00,479 --> 00:18:03,231
+What do these things have in common?
+
+00:18:03,357 --> 00:18:05,729
+Goat cheese. Goat milk.
+
+00:18:05,859 --> 00:18:08,232
+- Goat... sweaters?
+- Angora.
+
+00:18:08,362 --> 00:18:11,612
+Ding, ding, ding!
+Fibres from the lady shrink, fibres from the boy.
+
+00:18:11,740 --> 00:18:13,484
+Both are angora
+
+00:18:13,617 --> 00:18:15,325
+Angora is processed goat hair?
+
+00:18:15,452 --> 00:18:16,650
+Mm-hm.
+
+00:18:16,787 --> 00:18:20,073
+Sheared, washed, spun and dyed.
+Angora is 100% goat.
+
+00:18:21,208 --> 00:18:22,619
+You didn't know that, Nick?
+
+00:18:24,670 --> 00:18:26,663
+- Must be a chick thing.
+- (Laughs)
+
+00:18:28,132 --> 00:18:29,709
+(Yawns)
+
+00:18:30,843 --> 00:18:32,503
+I need to see the body again.
+
+00:18:32,636 --> 00:18:35,554
+- No can do. Released six hours ago.
+- Final report?
+
+00:18:35,681 --> 00:18:39,761
+Another 24, but there's nothing
+to support Valenti was electrocuted.
+
+00:18:39,893 --> 00:18:43,227
+- Doc, please.
+- You want to look at my notes.
+
+00:18:46,025 --> 00:18:47,982
+So, what have you got?
+
+00:18:48,110 --> 00:18:50,518
+I mean, anything unusual, even the mundane.
+
+00:18:50,654 --> 00:18:54,106
+His troponin enzymes are elevated.
+
+00:18:54,241 --> 00:18:57,112
+They become elevated
+after ventricular fibrillation,
+
+00:18:57,244 --> 00:18:59,153
+which could be caused by electrocution.
+
+00:18:59,288 --> 00:19:02,408
+Sure, but troponin is found
+in all victims of cardiac arrest.
+
+00:19:02,541 --> 00:19:04,534
+Most of whom have not been zapped.
+
+00:19:04,668 --> 00:19:05,747
+Work with me, will you?
+
+00:19:05,878 --> 00:19:09,626
+Er... Vic also had an elevated concentration
+of iron in his blood.
+
+00:19:09,757 --> 00:19:11,334
+Six, seven times normal.
+
+00:19:11,467 --> 00:19:13,340
+- Life-threatening?
+- No.
+
+00:19:13,469 --> 00:19:14,749
+What else?
+
+00:19:14,887 --> 00:19:18,172
+Well, it fits the bill of "mundane".
+His skin looked jaundiced.
+
+00:19:18,307 --> 00:19:20,264
+Postmortem deoxygenation?
+
+00:19:20,392 --> 00:19:23,678
+Dead or alive, your vic's epidermis is yellow.
+
+00:19:26,815 --> 00:19:28,855
+- Tell me about his testicles.
+- What?
+
+00:19:31,570 --> 00:19:34,061
+OK, I'm working with you. Er...
+
+00:19:34,198 --> 00:19:35,906
+I... I don't remember.
+
+00:19:36,033 --> 00:19:39,153
+I mean... genetics can be fascinating
+
+00:19:39,286 --> 00:19:41,078
+and there are things I take note of.
+
+00:19:42,206 --> 00:19:43,914
+But I didn't focus on his genitals.
+
+00:19:45,542 --> 00:19:47,535
+Thanks, doc.
+
+00:19:48,921 --> 00:19:50,748
+You're welcome.
+
+00:19:50,881 --> 00:19:53,372
+<i>Let's cool off with a blast from the past</i>
+
+00:19:53,509 --> 00:19:57,173
+<i>Here's Chubby Checker and Limbo Rock</i>
+
+00:19:57,304 --> 00:19:58,585
+What are you guys doing?
+
+00:19:58,722 --> 00:20:00,881
+Waiting for an assignment.
+
+00:20:01,016 --> 00:20:03,305
+- You got a new case for us?
+- A new case?
+
+00:20:03,435 --> 00:20:06,436
+We heard the Sheriff put the brakes
+on the investigation.
+
+00:20:06,563 --> 00:20:07,726
+I didn't say that, did I?
+
+00:20:09,608 --> 00:20:13,440
+Well, I think I er...
+smell something burning in the DNA Lab.
+
+00:20:13,570 --> 00:20:16,655
+- Love to stay and chat, but...
+- Greg?
+
+00:20:18,534 --> 00:20:20,610
+I hope that's not the crossword puzzle.
+
+00:20:20,744 --> 00:20:24,196
+<i>Hey let's do the limbo rock!
+Woo-hoo-hoo-hoo-hoo-ha!</i>
+
+00:20:24,331 --> 00:20:26,787
+<i>Don't move that limbo bar!</i>
+
+00:20:26,917 --> 00:20:30,084
+<i>You'll be a limbo star</i>
+
+00:20:30,212 --> 00:20:32,454
+<i>How low can you go?</i>
+
+00:20:32,589 --> 00:20:35,081
+What about the nail
+we pulled out of Valenti's boot?
+
+00:20:35,217 --> 00:20:37,008
+- Dusted?
+- No, cos...
+
+00:20:37,136 --> 00:20:39,591
+Process the nail, please. If you get a print...
+
+00:20:39,722 --> 00:20:42,177
+I'll compare it to Bob Harris's ten card.
+
+00:20:42,308 --> 00:20:44,015
+Anything else?
+
+00:20:44,143 --> 00:20:45,720
+Yes. Metal cutters.
+
+00:20:45,853 --> 00:20:49,767
+I need you to prove or disprove whether
+they were used to sever the grounding prong.
+
+00:20:49,898 --> 00:20:50,978
+OK.
+
+00:20:53,193 --> 00:20:54,142
+And you're with me.
+
+00:21:13,839 --> 00:21:15,832
+(Music builds)
+
+00:21:28,604 --> 00:21:29,683
+Mr Gesek!
+
+00:21:32,608 --> 00:21:33,983
+You're conducting.
+
+00:21:36,153 --> 00:21:39,024
+- I didn't hear you come in.
+- Vivaldi. Four Seasons.
+
+00:21:39,156 --> 00:21:41,196
+Vivaldi, Valenti.
+
+00:21:42,326 --> 00:21:44,864
+Both Italians. It's like... being in Venice.
+
+00:21:47,665 --> 00:21:50,037
+Why are you here? Do I need a lawyer?
+
+00:21:50,167 --> 00:21:51,994
+Have you prepped him yet?
+
+00:21:52,127 --> 00:21:54,915
+I was about to commence draining
+when I got distracted.
+
+00:21:55,047 --> 00:21:57,503
+Yeah, I know - Venice.
+I need to see his testicles.
+
+00:21:57,633 --> 00:21:59,672
+I knew there was something weird about you.
+
+00:21:59,802 --> 00:22:01,212
+Excuse me!
+
+00:22:01,345 --> 00:22:04,097
+You can't just come in here
+and look at my guy's goods.
+
+00:22:04,223 --> 00:22:07,177
+If I let you see him,
+I have to let everybody see him.
+
+00:22:08,310 --> 00:22:13,056
+- But... perhaps we can work something out.
+- What? Do you want us to pay to see him?
+
+00:22:13,190 --> 00:22:15,396
+That's a good idea, but no.
+
+00:22:15,526 --> 00:22:19,025
+I'm starting a business:
+Crime Scene Cleanup. I'll want some referrals.
+
+00:22:20,239 --> 00:22:22,231
+I'll put you on a list.
+
+00:22:26,245 --> 00:22:27,704
+Testicular atrophy.
+
+00:22:27,830 --> 00:22:29,288
+They're the size of peas.
+
+00:22:29,415 --> 00:22:30,992
+Poor guy.
+
+00:22:31,125 --> 00:22:34,375
+Yeah, that's rough.
+And the significance of this evidence?
+
+00:22:34,503 --> 00:22:36,792
+Haemochromatosis.
+
+00:22:36,922 --> 00:22:39,923
+Valenti had elevated levels of iron in his blood.
+
+00:22:40,050 --> 00:22:42,292
+Yellow pallor. Shrunken testicles.
+
+00:22:42,428 --> 00:22:45,797
+He's been ingesting trace amounts of iron
+over a long period of time.
+
+00:22:45,931 --> 00:22:47,390
+Why'd he eat iron?
+
+00:22:47,516 --> 00:22:50,885
+Trace amounts are odourless, tasteless.
+He probably didn't know.
+
+00:22:51,020 --> 00:22:52,893
+- You're saying he was poisoned?
+- No.
+
+00:22:53,022 --> 00:22:55,595
+Iron molecules take a long time to build up.
+
+00:22:55,733 --> 00:22:59,813
+Could have been his diet, repeated blood
+transfusions, excessive smoking.
+
+00:22:59,945 --> 00:23:01,737
+Possibly hereditary abnormalities.
+
+00:23:01,864 --> 00:23:03,275
+So, where does this get us?
+
+00:23:03,407 --> 00:23:05,613
+One step closer. Mr Gesek...
+
+00:23:05,743 --> 00:23:08,613
+Stick a syringe in his carotid,
+all the way to his clavicle.
+
+00:23:08,746 --> 00:23:10,454
+You want his blood?
+
+00:23:10,581 --> 00:23:12,289
+One pint. To go.
+
+00:23:18,839 --> 00:23:19,788
+- Warrick.
+- Hey.
+
+00:23:19,923 --> 00:23:22,000
+- I got a thumbprint off that nail.
+- Cool.
+
+00:23:22,134 --> 00:23:24,625
+Only a partial. Print Lab's running a comparison.
+
+00:23:24,762 --> 00:23:27,050
+Whatever happened with those metal cutters?
+
+00:23:27,181 --> 00:23:30,799
+Serrations didn't match up.
+They weren't used on the grounding prong.
+
+00:23:30,934 --> 00:23:33,888
+- What's in the envelope?
+- Roger Valenti's blood.
+
+00:23:34,021 --> 00:23:36,393
+Grissom wants it packaged in plastic.
+
+00:23:36,523 --> 00:23:37,721
+I don't know. Don't ask.
+
+00:23:38,859 --> 00:23:40,484
+You want lunch?
+
+00:23:40,611 --> 00:23:42,188
+Later.
+
+00:23:45,032 --> 00:23:46,312
+- Hey, Catherine?
+- Yeah.
+
+00:23:46,450 --> 00:23:47,695
+You ever been in therapy?
+
+00:23:47,826 --> 00:23:49,534
+Who hasn't?
+
+00:23:49,662 --> 00:23:51,322
+Didn't save my marriage.
+
+00:23:51,455 --> 00:23:54,575
+You were OK sharing your problems
+with a complete stranger?
+
+00:23:54,708 --> 00:23:56,167
+You rather I tell them to you?
+
+00:23:57,294 --> 00:23:58,753
+Somebody order a warrant?
+
+00:23:58,879 --> 00:24:01,584
+- Yeah.
+- Mustard and relish. Hold the onions.
+
+00:24:01,715 --> 00:24:02,830
+I hope it's a general.
+
+00:24:02,967 --> 00:24:05,967
+Epilepsy. Eyewitness physician dials 911.
+
+00:24:06,095 --> 00:24:08,586
+Coroner's quiet. You're lucky to get a limited.
+
+00:24:08,722 --> 00:24:12,850
+What do you mean? We've got fibres
+on a 14-year-old and the shrink's clothing.
+
+00:24:12,977 --> 00:24:14,601
+Which would have got you nothing.
+
+00:24:14,728 --> 00:24:18,144
+But I did a check on the doctor.
+She once had her licence suspended.
+
+00:24:18,273 --> 00:24:23,019
+Sex with a patient.
+Teen's parents filed a complaint with the APA.
+
+00:24:23,153 --> 00:24:27,281
+Sex with a minor? Suspension's a joke.
+She should have lost her licence, minimum.
+
+00:24:27,408 --> 00:24:29,199
+Yeah, well, this time maybe she will.
+
+00:24:52,933 --> 00:24:54,511
+OK, Gris.
+
+00:24:56,687 --> 00:24:58,098
+Valenti's blood.
+
+00:24:58,230 --> 00:24:59,605
+Packaged. Ready to go.
+
+00:24:59,732 --> 00:25:01,012
+Thank you.
+
+00:25:04,945 --> 00:25:06,737
+You wanna fill me in here? I mean...
+
+00:25:06,864 --> 00:25:09,569
+This wasn't covered in any science class I took.
+
+00:25:09,700 --> 00:25:11,942
+Well, iron is a conductive mineral.
+
+00:25:13,120 --> 00:25:18,993
+I wanna know if there was enough iron
+in Valenti's blood... to conduct electricity.
+
+00:25:19,126 --> 00:25:21,699
+- That's far out
+- Yeah, well...
+
+00:25:21,837 --> 00:25:23,415
+We'll see.
+
+00:25:23,547 --> 00:25:25,338
+Plug in the blood.
+
+00:25:43,400 --> 00:25:46,567
+Angora fibres?
+What does that have to do with anything?
+
+00:25:50,991 --> 00:25:54,158
+Excuse me, I don't appreciate
+being treated like a suspect.
+
+00:25:54,286 --> 00:25:56,243
+Then maybe you should wait outside.
+
+00:25:56,372 --> 00:25:59,788
+Do you consider me a suspect?
+Because that's how I'm feeling.
+
+00:26:03,545 --> 00:26:04,744
+Fine
+
+00:26:04,880 --> 00:26:06,956
+Don't answer me. It's your choice.
+
+00:26:07,091 --> 00:26:09,000
+Funny thing about choices.
+
+00:26:09,134 --> 00:26:11,886
+Once you make 'em, you have to live with 'em.
+
+00:26:14,056 --> 00:26:16,049
+Dylan Buckley was just a boy.
+
+00:26:18,811 --> 00:26:20,388
+He trusted you.
+
+00:26:20,521 --> 00:26:22,928
+And you abused that trust.
+
+00:26:24,650 --> 00:26:26,892
+Linen closet. Top shelf.
+
+00:26:27,027 --> 00:26:28,936
+Was that blanket here?
+
+00:26:29,071 --> 00:26:31,111
+On the floor, with you and Dylan under it?
+
+00:26:41,959 --> 00:26:43,951
+It's gonna be OK.
+
+00:26:44,086 --> 00:26:46,577
+That's it. That's it.
+
+00:26:46,714 --> 00:26:48,706
+That's it. That's it.
+
+00:26:50,426 --> 00:26:52,833
+He was a 14-year-old kid
+
+00:26:54,221 --> 00:26:55,715
+What's the matter with you?
+
+00:26:55,848 --> 00:26:59,181
+He resisted. You persisted. Then what?
+
+00:26:59,310 --> 00:27:03,259
+I don't know the basis of your allegations,
+but I have never crossed the line.
+
+00:27:03,397 --> 00:27:05,140
+That's not what your rap sheet says.
+
+00:27:05,274 --> 00:27:06,554
+Rap sheet?
+
+00:27:06,692 --> 00:27:08,519
+Sex with an underage patient.
+
+00:27:08,652 --> 00:27:12,104
+I was a resident. He was 17. We were in...
+
+00:27:12,239 --> 00:27:16,652
+Look, no criminal charges were filed.
+It should have been expunged from my record.
+
+00:27:16,785 --> 00:27:18,577
+It doesn't make you any less guilty.
+
+00:27:18,704 --> 00:27:20,282
+Lady, I'm not a saint,
+
+00:27:20,414 --> 00:27:23,534
+but I am not a killer or a child molester.
+
+00:27:24,710 --> 00:27:26,868
+Dylan Buckley was an epileptic.
+
+00:27:27,004 --> 00:27:29,412
+He had a seizure. He hit his head.
+
+00:27:29,548 --> 00:27:31,541
+That's the truth.
+
+00:27:31,675 --> 00:27:33,751
+You don't like it? You can leave.
+
+00:27:36,055 --> 00:27:37,715
+We got what we came here for.
+
+00:27:41,894 --> 00:27:44,385
+- What's going on with you?
+- I'm on a case.
+
+00:27:44,521 --> 00:27:46,313
+We're on a case.
+
+00:27:46,440 --> 00:27:48,018
+Right.
+
+00:28:05,125 --> 00:28:06,620
+Hey, is that from the deli?
+
+00:28:06,752 --> 00:28:08,543
+Egg salad sandwich. You want half?
+
+00:28:08,671 --> 00:28:10,829
+- No. Can I have your pickle?
+- Yeah.
+
+00:28:13,717 --> 00:28:15,425
+You can have it.
+
+00:28:16,637 --> 00:28:18,428
+Oh, that's a nice one.
+
+00:28:37,032 --> 00:28:39,025
+You've turned my pickle into a light bulb.
+
+00:28:39,159 --> 00:28:41,485
+- I'm electrocuting it.
+- You sure are.
+
+00:28:41,620 --> 00:28:43,114
+That would explain that smell.
+
+00:28:43,247 --> 00:28:45,156
+This is how I cooked hot dogs in college.
+
+00:28:51,714 --> 00:28:53,706
+Check out the burn marks.
+
+00:28:54,925 --> 00:28:56,503
+There are none.
+
+00:28:56,635 --> 00:28:59,969
+Just like Valenti's body.
+No evidence of electrocution.
+
+00:29:00,097 --> 00:29:02,968
+Pickles are high in sodium content.
+
+00:29:03,100 --> 00:29:05,342
+Sodium is conductive, just like iron.
+
+00:29:05,477 --> 00:29:08,644
+The flow of electricity through a body
+generates heat.
+
+00:29:16,363 --> 00:29:19,898
+Burn marks are the physical evidence
+of that. But...
+
+00:29:20,034 --> 00:29:23,782
+if the body offers no resistance
+to the flow of electricity -
+
+00:29:23,912 --> 00:29:25,905
+no heat, no burn marks.
+
+00:29:26,040 --> 00:29:30,666
+Roger Valenti's body offered up no resistance
+because of the excess iron in his blood.
+
+00:29:30,794 --> 00:29:32,372
+It conducted electricity
+
+00:29:32,504 --> 00:29:36,288
+Making his body one big wire. Path to ground.
+
+00:29:36,425 --> 00:29:40,043
+In through his hand from the drill,
+out through the nail in the boot.
+
+00:29:40,179 --> 00:29:43,299
+No burn marks... but he was still electrocuted.
+
+00:30:01,659 --> 00:30:03,402
+So you've just proved murder.
+
+00:30:04,787 --> 00:30:07,278
+I wouldn't break out that champagne just yet.
+
+00:30:07,414 --> 00:30:10,914
+Don't go shooting the messenger.
+Thumbprint from the nail.
+
+00:30:13,963 --> 00:30:16,798
+Bob Harris's prints were not
+on the murder weapon?
+
+00:30:16,924 --> 00:30:18,252
+They were not on the nail.
+
+00:30:18,384 --> 00:30:22,677
+I think someone stuck a nail in the victim's boot
+and it wasn't Bob Harris.
+
+00:30:22,805 --> 00:30:25,130
+So you made a suspect out of an innocent man.
+
+00:30:25,265 --> 00:30:27,139
+Obviously that wasn't my intent.
+
+00:30:27,267 --> 00:30:31,016
+Oh, good. Maybe you'll wanna bring that up
+in the newspaper article.
+
+00:30:31,146 --> 00:30:33,637
+What are you talking about? What article?
+
+00:30:33,774 --> 00:30:36,894
+The one I'm arranging for your public apology.
+
+00:30:37,027 --> 00:30:39,565
+- I'm not making an apology.
+- Oh, yes, you are.
+
+00:30:39,697 --> 00:30:45,237
+You don't go after a friend of mine,
+sully his reputation and then walk away.
+
+00:30:45,369 --> 00:30:47,825
+Actions have consequences, Gil. Even yours.
+
+00:31:06,265 --> 00:31:08,423
+I heard the Sheriff chewed you a new one.
+
+00:31:08,559 --> 00:31:11,762
+- You get my message?
+- You want me to check out your Deep Throat.
+
+00:31:11,895 --> 00:31:13,176
+(Printer beeps)
+
+00:31:14,398 --> 00:31:16,391
+Well, that was fast.
+
+00:31:16,525 --> 00:31:19,526
+Ian Wolf. Union of Electrical Workers, Local 37.
+
+00:31:19,653 --> 00:31:24,399
+He wanted to make sure that I stayed on Harris
+for the murder of Roger Valenti.
+
+00:31:24,533 --> 00:31:27,867
+- Doesn't that tell you something?
+- I told him to talk to you.
+
+00:31:27,995 --> 00:31:29,786
+I'll check out the guy.
+
+00:31:30,539 --> 00:31:32,117
+(Sighs)
+
+00:31:32,249 --> 00:31:34,242
+Gil, why do you do this to yourself?
+
+00:31:34,376 --> 00:31:36,203
+- What?
+- The guy's dead
+
+00:31:36,337 --> 00:31:38,828
+Could have been suicide. Accident.
+
+00:31:38,964 --> 00:31:40,624
+You always gotta push it.
+
+00:31:40,758 --> 00:31:42,631
+It's just like any other case.
+
+00:31:42,760 --> 00:31:44,218
+You know what I think?
+
+00:31:44,345 --> 00:31:45,590
+Adrenaline.
+
+00:31:45,721 --> 00:31:48,177
+You need the rush
+
+00:31:48,307 --> 00:31:50,549
+But that's just me.
+
+00:32:47,241 --> 00:32:49,233
+OK. Thank you, David.
+
+00:32:49,368 --> 00:32:50,827
+No sweat.
+
+00:32:50,953 --> 00:32:53,870
+Hey, he asked for it.
+
+00:32:53,998 --> 00:32:57,117
+How many swabs does it take
+to process a blanket?
+
+00:32:57,251 --> 00:32:58,247
+I'm thorough.
+
+00:32:58,377 --> 00:33:01,544
+The lab tested Dylan Buckley's blood
+for creatine kinase
+
+00:33:01,672 --> 00:33:03,665
+which would be elevated post-seizure.
+
+00:33:03,799 --> 00:33:05,875
+But Dylan Buckley's levels were normal.
+
+00:33:06,010 --> 00:33:08,086
+I just got my own copy of the report.
+
+00:33:09,221 --> 00:33:10,466
+Dr Sapien lied.
+
+00:33:11,598 --> 00:33:14,718
+You're racing me, Nick.
+We're driving the same car.
+
+00:33:14,852 --> 00:33:16,761
+Nick!
+
+00:33:17,896 --> 00:33:20,648
+Nick, I'll have you removed from the case.
+
+00:33:25,738 --> 00:33:29,237
+You're confronting suspects
+before the evidence is processed.
+
+00:33:29,366 --> 00:33:31,359
+You're flying solo, cutting me out.
+
+00:33:32,911 --> 00:33:34,192
+What's going on?
+
+00:33:35,998 --> 00:33:37,576
+OK.
+
+00:33:39,335 --> 00:33:43,083
+There are some people
+you're supposed to be able to trust, you know.
+
+00:33:46,550 --> 00:33:50,215
+I was nine
+and she was a last-minute baby-sitter.
+
+00:33:53,098 --> 00:33:57,476
+All I can remember doing afterwards
+is sitting in my room in the dark,
+
+00:33:57,603 --> 00:34:01,102
+staring at the door,
+waiting for my... mom to get home.
+
+00:34:05,861 --> 00:34:07,854
+I've never told anyone before.
+
+00:34:14,495 --> 00:34:16,072
+I'm sorry.
+
+00:34:17,289 --> 00:34:19,198
+It's what makes a person, I guess.
+
+00:34:22,169 --> 00:34:23,912
+I'm sorry, Catherine.
+
+00:34:29,259 --> 00:34:33,471
+Check me out. So what? The worst thing
+I've done is get a speeding ticket.
+
+00:34:33,597 --> 00:34:36,468
+And take a pipe to Valenti's head
+four days before he died.
+
+00:34:36,600 --> 00:34:40,218
+It wasn't on the foreman's report.
+Valenti's widow told me.
+
+00:34:40,354 --> 00:34:42,145
+Guys get in beefs all the time
+
+00:34:42,272 --> 00:34:44,942
+But he died
+Harris had nothing to do with it
+
+00:34:45,067 --> 00:34:47,523
+Despite your efforts to make it seem that way.
+
+00:34:47,653 --> 00:34:51,401
+Look, I'm not saying another word
+till I talk to a union lawyer.
+
+00:34:51,532 --> 00:34:54,367
+I pay my dues and these guys play hardball.
+
+00:35:02,209 --> 00:35:03,324
+He's guilty.
+
+00:35:03,460 --> 00:35:05,951
+Let's not make the same mistake twice.
+
+00:35:07,214 --> 00:35:11,128
+30 swabs in six hours?
+Not realistic, all right? Even for me.
+
+00:35:11,260 --> 00:35:14,629
+I thought you'd like the challenge.
+What are we looking at here?
+
+00:35:14,763 --> 00:35:18,263
+Lots of epithelials.
+There were skin cells shed all over the blanket.
+
+00:35:18,392 --> 00:35:20,385
+Dylan Buckley's. Dr Sapien's.
+
+00:35:20,519 --> 00:35:22,144
+You're two-thirds of the way there.
+
+00:35:22,271 --> 00:35:26,185
+I also isolated a set of cells
+from another individual. Identity unknown.
+
+00:35:28,736 --> 00:35:31,405
+But, when it's important to Nick here,
+I push further.
+
+00:35:31,488 --> 00:35:33,777
+7 of the 13 markers match your dead kid.
+
+00:35:35,367 --> 00:35:36,612
+Familial DNA?
+
+00:35:36,744 --> 00:35:38,653
+Father's dead. Means we're looking at mom.
+
+00:35:38,787 --> 00:35:42,737
+A naked kid under a blanket at a shrink's
+late at night... and his mother's there.
+
+00:35:42,875 --> 00:35:45,876
+Your case just entered
+a whole new dimension of weird.
+
+00:35:55,387 --> 00:35:58,057
+- Where's Mandy?
+- Cross-eyed from running our partial.
+
+00:35:58,140 --> 00:36:00,678
+I didn't wanna lose any time so I took over.
+
+00:36:00,809 --> 00:36:03,098
+The database is 70,000.
+
+00:36:03,228 --> 00:36:05,470
+- It could take a while
+- If I narrow the scope?
+
+00:36:05,606 --> 00:36:07,314
+- To one.
+- We got a suspect?
+
+00:36:07,441 --> 00:36:10,857
+Ian Wolf. Like the animal, not the authors.
+
+00:36:22,206 --> 00:36:26,334
+Partial overlay - perfect match.
+Now we just gotta place him at the crime scene.
+
+00:36:26,460 --> 00:36:30,125
+Warrick's on it. I got a warrant for his tool belt.
+Metal cutters included.
+
+00:36:35,052 --> 00:36:36,843
+(Door opens)
+
+00:36:38,305 --> 00:36:42,255
+Doc? The kid in his underwear -
+tell us about the Y-incision.
+
+00:36:42,393 --> 00:36:44,184
+Leftovers from my anniversary dinner.
+
+00:36:44,311 --> 00:36:45,889
+- Congratulations.
+- Thanks.
+
+00:36:46,021 --> 00:36:49,639
+The same tan fibres I found on the outside
+I found on the inside.
+
+00:36:49,775 --> 00:36:53,061
+Mouth, nasal passages, both lungs.
+
+00:36:53,195 --> 00:36:55,947
+- He was wrapped in that blanket.
+- Mm-hm. Head to toe.
+
+00:37:02,288 --> 00:37:05,657
+Mrs Buckley, we know that your son
+didn't have a seizure.
+
+00:37:05,791 --> 00:37:08,709
+We also know that you were
+at Dr Sapien's house with Dylan
+
+00:37:08,836 --> 00:37:10,460
+the night that he died
+
+00:37:10,587 --> 00:37:13,672
+He was in his underwear,
+wrapped in a blanket,
+
+00:37:13,799 --> 00:37:15,792
+fighting for every breath.
+
+00:37:15,926 --> 00:37:17,504
+I loved my son.
+
+00:37:18,721 --> 00:37:20,547
+That's what every parent says.
+
+00:37:21,765 --> 00:37:23,473
+This...
+
+00:37:23,600 --> 00:37:26,720
+This was therapy. I had tried everything else.
+
+00:37:26,854 --> 00:37:30,721
+Taken him to so many specialists,
+but I couldn't reach him.
+
+00:37:30,858 --> 00:37:32,352
+So we...
+
+00:37:32,484 --> 00:37:33,943
+We tried the...
+
+00:37:34,069 --> 00:37:36,145
+(Sighs) We
+
+00:37:40,326 --> 00:37:42,449
+I have to tell them.
+
+00:37:45,748 --> 00:37:47,787
+It's called rebirthing.
+
+00:37:48,959 --> 00:37:50,418
+Rebirthing?
+
+00:37:50,544 --> 00:37:54,209
+It's a technique used to treat
+extreme behavioural disorders.
+
+00:37:54,340 --> 00:37:57,459
+The idea is to turn back the clock,
+wipe the slate clean.
+
+00:37:57,593 --> 00:37:59,799
+Allow the child to re-bond with his mother.
+
+00:37:59,928 --> 00:38:01,423
+What is the blanket for?
+
+00:38:01,555 --> 00:38:02,966
+It represents the birth canal.
+
+00:38:05,809 --> 00:38:07,636
+So you wrapped Dylan up...
+
+00:38:09,480 --> 00:38:11,519
+beat the hell out of him and...
+
+00:38:11,649 --> 00:38:14,899
+hocus-pocus, he's supposed to love you again?
+
+00:38:15,027 --> 00:38:20,187
+Rebirthing may not be a recognised
+therapeutic procedure, but it's not illegal.
+
+00:38:20,324 --> 00:38:22,233
+Last time I checked, murder is.
+
+00:38:22,368 --> 00:38:24,076
+I begged her to do it.
+
+00:38:24,203 --> 00:38:26,112
+All other methods of therapy had failed.
+
+00:38:26,246 --> 00:38:29,450
+Dylan was becoming more belligerent,
+withdrawn. Even dangerous.
+
+00:38:29,583 --> 00:38:33,118
+I just wanted my son to love me. That's all.
+
+00:38:33,253 --> 00:38:35,542
+- Dylan was a willing participant.
+- He was 14.
+
+00:38:36,674 --> 00:38:40,089
+I instructed Dylan to lie down
+on the floor
+
+00:38:40,219 --> 00:38:41,796
+in the foetal position
+
+00:38:41,929 --> 00:38:43,589
+As part of the process,
+
+00:38:43,722 --> 00:38:47,423
+I asked him if he wanted to be reborn
+to his mother. He said yes.
+
+00:38:47,559 --> 00:38:49,885
+Now we're going to close the womb.
+
+00:38:52,356 --> 00:38:54,645
+Twist.
+
+00:38:54,775 --> 00:38:56,898
+So, then what happened?
+
+00:38:58,028 --> 00:39:00,068
+Things got out of hand? He changed his mind?
+
+00:39:00,197 --> 00:39:03,233
+Somewhere in the middle
+of an angora birth canal?
+
+00:39:03,367 --> 00:39:05,075
+It is time to be reborn.
+
+00:39:06,328 --> 00:39:08,998
+That's it. Push harder. Push harder!
+
+00:39:09,081 --> 00:39:10,908
+- Try to get out.
+- (Fights for breath)
+
+00:39:11,041 --> 00:39:13,497
+A little harder. Come on, Dylan.
+
+00:39:13,627 --> 00:39:15,620
+I can't breathe. I'm gonna die!
+
+00:39:15,754 --> 00:39:19,170
+Do you wanna be reborn
+or do you wanna stay in there and die?
+
+00:39:19,300 --> 00:39:22,466
+Let me outta here, please.
+Mom, please! I want this to stop!
+
+00:39:22,594 --> 00:39:25,631
+- Maybe we should.
+- No. This is what happens. We can't stop now.
+
+00:39:25,764 --> 00:39:28,255
+Trust me. This is a normal response.
+
+00:39:29,476 --> 00:39:32,643
+- I thought it was part of the process.
+- It is.
+
+00:39:32,771 --> 00:39:35,097
+She said that that's what
+he was supposed to say.
+
+00:39:35,232 --> 00:39:39,811
+That babies don't want to come out.
+That's why it's such an ordeal for the woman.
+
+00:39:44,700 --> 00:39:47,369
+So, you pushed on him,
+like a mother in labour?
+
+00:39:47,453 --> 00:39:50,454
+Come on! Push harder!
+
+00:39:50,581 --> 00:39:52,241
+Stop it! I can't breathe!
+
+00:39:53,292 --> 00:39:54,952
+Push harder!
+
+00:39:55,085 --> 00:39:56,580
+That's it!
+
+00:40:00,966 --> 00:40:02,544
+(Panting) OK.
+
+00:40:06,639 --> 00:40:08,430
+Honey?
+
+00:40:08,557 --> 00:40:10,799
+Dylan? Honey?
+
+00:40:14,980 --> 00:40:18,183
+When we opened the blanket,
+his eyes were closed.
+
+00:40:19,318 --> 00:40:21,357
+I thought he was pretending to be asleep.
+
+00:40:27,701 --> 00:40:30,192
+So much for your... therapy.
+
+00:40:35,125 --> 00:40:36,703
+Excuse me.
+
+00:40:44,677 --> 00:40:48,805
+And that's why we tried to hide it.
+We knew you wouldn't understand.
+
+00:41:05,114 --> 00:41:07,237
+The twin moons of Venus
+
+00:41:07,366 --> 00:41:08,825
+Overlap to one.
+
+00:41:11,370 --> 00:41:13,244
+The striations match
+
+00:41:13,372 --> 00:41:15,495
+Wolf stuck a nail in Valenti's boot
+
+00:41:15,624 --> 00:41:19,207
+compromised the drill, and cut
+the grounding prong with his own cutters.
+
+00:41:19,336 --> 00:41:22,539
+- That seems like a lot of work to kill a guy.
+- Not for an electrician.
+
+00:41:22,673 --> 00:41:23,918
+I'm gonna find Brass.
+
+00:41:24,049 --> 00:41:25,212
+Hey, Gris...
+
+00:41:25,342 --> 00:41:28,842
+I think I can speak for both of us
+when I say I'm sorry that we let you down.
+
+00:41:28,971 --> 00:41:32,719
+- We quit before we should have.
+- Yeah. You did.
+
+00:41:37,813 --> 00:41:39,889
+(Workmen shout)
+
+00:41:45,404 --> 00:41:46,982
+Mr Wolf!
+
+00:41:48,157 --> 00:41:49,699
+We got you for murder
+
+00:41:49,825 --> 00:41:51,734
+Premeditated.
+
+00:41:51,869 --> 00:41:53,328
+You know this from my cutters?
+
+00:41:53,454 --> 00:41:55,411
+They're just part of the story.
+
+00:41:58,834 --> 00:42:02,962
+You spiked Roger's boot with a nail
+compromised the insulation
+
+00:42:03,088 --> 00:42:05,923
+You reversed the polarity in his drill.
+
+00:42:06,050 --> 00:42:08,541
+You cut the grounding prong
+
+00:42:08,677 --> 00:42:10,337
+planted evidence
+
+00:42:10,471 --> 00:42:12,179
+And killed a man.
+
+00:42:26,111 --> 00:42:27,938
+You're under arrest.
+
+00:42:36,622 --> 00:42:38,413
+Grissom!
+
+00:42:40,918 --> 00:42:42,542
+It's all you, man.
+
+00:42:44,546 --> 00:42:46,206
+Thank you.
+
+00:42:47,424 --> 00:42:48,919
+Sheriff.
+
+00:42:49,051 --> 00:42:51,174
+Well, you got the bad apple.
+
+00:42:51,303 --> 00:42:52,797
+Yeah. How about that?
+
+00:42:52,930 --> 00:42:55,717
+Just in time for my big public apology.
+
+00:42:55,849 --> 00:42:58,519
+I may be changing the tenor
+of that piece somewhat.
+
+00:42:58,644 --> 00:43:02,309
+You won't be the goat,
+but you won't be the hero, either.
+
+00:43:03,041 --> 00:43:04,998
+Good. I'll leave that to you.
+
+00:43:05,126 --> 00:43:07,617
+That's why we will continue
+to work well together.
+
+00:43:11,500 --> 00:43:13,493
+Grissom.
+

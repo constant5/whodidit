@@ -1,0 +1,2393 @@
+
+00:00:00,749 --> 00:00:03,660
+<i>Previously on</i> CSI:
+BROWN:
+I don't remem
+
+00:00:03,660 --> 00:00:05,195
+GRISSOM:
+<i>You were framed.</i>
+
+00:00:05,195 --> 00:00:07,030
+<i>Gedda has a mole</i>
+<i>in the department.</i>
+
+00:00:07,030 --> 00:00:08,965
+BROWN:
+<i>A cop.</i>
+GRISSOM:
+<i>Daniel Pritchard.</i>
+
+00:00:08,965 --> 00:00:10,133
+BROWN:
+<i>There's got to be somebody</i>
+<i>higher up than that.</i>
+
+00:00:10,133 --> 00:00:11,175
+I just need to know that
+
+00:00:11,175 --> 00:00:12,533
+<i>you're through</i>
+<i>running the streets</i>
+
+00:00:12,533 --> 00:00:13,967
+<i>on your own looking</i>
+<i>for bad guys.</i>
+
+00:00:13,967 --> 00:00:15,668
+BROWN:
+<i>There's one son of a bitch</i>
+<i>still out there.</i>
+
+00:00:15,668 --> 00:00:17,403
+And I promise you
+we're gonna get him.
+
+00:00:18,714 --> 00:00:21,651
+That's what makes you
+a great CSI.
+
+00:00:21,651 --> 00:00:24,520
+WOMAN (over radio):
+Central Dispatch. Go ahead.
+
+00:00:24,520 --> 00:00:26,389
+McKEEN:
+Control, this is One-David-Two.
+I have a 444.
+
+00:00:26,389 --> 00:00:27,623
+Officer down in the alley
+
+00:00:27,623 --> 00:00:29,425
+north of the 800 block
+of Rayson Street.
+
+00:00:29,660 --> 00:00:31,929
+Requesting three backup units
+and paramedics.
+
+00:00:31,929 --> 00:00:33,697
+I am in pursuit of the suspect.
+
+00:00:33,697 --> 00:00:36,300
+Suspect is a white male,
+possibly armed,
+
+00:00:36,300 --> 00:00:37,935
+wearing dark clothing,
+
+00:00:37,935 --> 00:00:40,437
+traveling southbound
+toward Malpassat Road.
+
+00:00:40,437 --> 00:00:43,407
+WOMAN (over radio):
+Officer down. Repeat.
+Officer down.
+
+00:00:43,407 --> 00:00:45,910
+Alley north of 800 block
+of Rayson Street.
+
+00:00:45,910 --> 00:00:48,412
+Units four-five-one,
+four-five-six
+
+00:00:48,412 --> 00:00:51,081
+and four-five-seven,
+respond code three.
+
+00:00:51,081 --> 00:00:53,851
+Officer down in the alley
+north of Rayson Street.
+
+00:00:53,851 --> 00:00:56,420
+All officers respond.
+
+00:01:28,652 --> 00:01:30,955
+Warrick...
+
+00:01:32,323 --> 00:01:34,191
+Oh, God!
+
+00:01:36,260 --> 00:01:38,395
+Stay with me! Warrick...
+
+00:01:38,395 --> 00:01:39,597
+It's Grissom.
+
+00:01:42,233 --> 00:01:44,635
+I was first
+on the scene.
+
+00:01:44,635 --> 00:01:46,437
+Heard the shots.
+I was in pursuit...
+
+00:01:47,838 --> 00:01:49,974
+...of the suspect.
+
+00:01:49,974 --> 00:01:51,108
+(gasps)
+
+00:01:51,108 --> 00:01:52,309
+What?
+
+00:01:53,978 --> 00:01:55,646
+No, Warrick, come on.
+
+00:01:55,646 --> 00:01:58,249
+(gurgling)
+Come on, Warrick!
+
+00:01:58,249 --> 00:02:00,851
+Where are the paramedics?!
+
+00:02:00,851 --> 00:02:03,621
+(gurgling)
+Please.
+
+00:02:03,621 --> 00:02:05,589
+Please.
+
+00:02:05,589 --> 00:02:07,291
+Come on,
+Warrick.
+
+00:02:07,291 --> 00:02:09,093
+You got to fight.
+I need you to fight now.
+
+00:02:09,093 --> 00:02:11,862
+Fight for me, okay?
+
+00:02:11,862 --> 00:02:12,930
+Give me an ETA
+on the paramedics.
+
+00:02:12,930 --> 00:02:13,931
+We need them here now.
+
+00:02:13,931 --> 00:02:16,267
+(distant siren wailing)
+
+00:02:16,267 --> 00:02:19,536
+No... No, come on.
+
+00:02:19,536 --> 00:02:22,273
+(siren wailing)
+
+00:02:22,273 --> 00:02:24,308
+No.
+
+00:02:50,601 --> 00:02:53,737
+♪ Who... are you? ♪
+
+00:02:53,737 --> 00:02:56,574
+♪ Who, who, who, who? ♪
+
+00:02:56,574 --> 00:02:59,577
+♪ Who... are you? ♪
+
+00:02:59,577 --> 00:03:01,779
+♪ Who, who, who, who? ♪
+
+00:03:01,779 --> 00:03:03,447
+♪ I really wanna know ♪
+
+00:03:03,447 --> 00:03:06,083
+♪ Who... are you? ♪
+
+00:03:06,083 --> 00:03:07,952
+♪ Oh-oh-oh ♪
+♪ <i>Who... ♪</i>
+
+00:03:07,952 --> 00:03:11,188
+♪ Come on, tell me who are you,
+you, you ♪
+
+00:03:11,188 --> 00:03:14,425
+♪ Are you! ♪
+
+00:03:21,432 --> 00:03:25,169
+♪ ♪
+
+00:03:55,695 --> 00:03:57,997
+(sobbing)
+
+00:04:07,463 --> 00:04:09,899
+McKEEN:
+I was on my way to the diner.
+
+00:04:09,899 --> 00:04:14,070
+I was going to tell
+Warrick in person that
+he could keep his job.
+
+00:04:14,070 --> 00:04:15,938
+I parked my car
+over there
+
+00:04:15,938 --> 00:04:17,740
+just before 4:30.
+
+00:04:17,740 --> 00:04:22,678
+I started to walk west
+towards the diner.
+
+00:04:22,678 --> 00:04:26,315
+I was in this area here
+when I heard the shots.
+
+00:04:26,315 --> 00:04:27,917
+(gunshots)
+
+00:04:29,152 --> 00:04:30,753
+<i>I saw a white adult male</i>
+
+00:04:30,753 --> 00:04:34,023
+<i>running north down the alley</i>
+<i>away from the vehicle.</i>
+
+00:04:34,023 --> 00:04:35,558
+<i>I checked the vehicle--</i>
+
+00:04:35,558 --> 00:04:38,394
+<i>observed CSI Brown bleeding</i>
+<i>from a gunshot wound.</i>
+
+00:04:38,394 --> 00:04:40,530
+It appeared to me
+he was dead.
+
+00:04:40,530 --> 00:04:42,632
+So I went in pursuit
+of the suspect
+
+00:04:42,632 --> 00:04:44,367
+and called it in.
+
+00:04:46,069 --> 00:04:49,439
+(engine starting)
+
+00:04:49,439 --> 00:04:50,640
+(tires squealing)
+
+00:04:50,640 --> 00:04:52,742
+<i>He got into a dark</i>
+<i>four-door sedan.</i>
+
+00:04:52,742 --> 00:04:54,644
+<i>Late model.</i>
+
+00:04:54,644 --> 00:04:57,513
+Headed east on Malpassat Road.
+
+00:04:57,513 --> 00:04:59,949
+I got a partial on the plate,
+George-Robert-Victor.
+
+00:04:59,949 --> 00:05:01,884
+George-Robert-Victor...
+
+00:05:01,884 --> 00:05:04,954
+George-Robert-Victor-
+Zebra-9-0-3?
+
+00:05:04,954 --> 00:05:06,756
+That's Officer
+Pritchard's car.
+
+00:05:06,756 --> 00:05:08,925
+Was it a black
+Chrysler 300?
+Uh...
+
+00:05:08,925 --> 00:05:10,226
+Was it Pritchard
+you saw?
+
+00:05:10,226 --> 00:05:11,661
+I only saw him for a second.
+
+00:05:11,661 --> 00:05:13,396
+It was dark, but...
+
+00:05:13,396 --> 00:05:15,398
+but who else could it be?
+
+00:05:15,398 --> 00:05:17,300
+Okay.
+
+00:05:53,169 --> 00:05:55,271
+Have you photoed
+the body yet?
+
+00:05:55,271 --> 00:05:57,106
+I haven't done anything.
+
+00:06:07,517 --> 00:06:09,652
+Gil, how do you want
+to handle this?
+
+00:06:14,557 --> 00:06:17,060
+I want us to do this, Conrad.
+
+00:06:17,060 --> 00:06:20,229
+I want Nick and
+Catherine on the car.
+
+00:06:20,229 --> 00:06:21,364
+Okay.
+
+00:06:21,364 --> 00:06:25,635
+I feel sorry
+for whoever did this.
+
+00:06:30,673 --> 00:06:32,442
+(sighs)
+
+00:06:32,442 --> 00:06:34,610
+Greg's coming back
+from the airport.
+
+00:06:34,610 --> 00:06:36,913
+I told him to go
+straight to the lab.
+
+00:06:36,913 --> 00:06:39,415
+We're going to have to take
+your clothes to get processed.
+
+00:06:39,415 --> 00:06:42,385
+I'll drive you.
+
+00:06:42,385 --> 00:06:44,554
+I'm going to go
+with Warrick.
+
+00:07:02,772 --> 00:07:05,041
+Are you going to do the post?
+
+00:07:05,041 --> 00:07:08,311
+No. I've asked the day shift ME
+to handle this one.
+
+00:07:35,004 --> 00:07:36,539
+I, uh...
+
+00:07:36,539 --> 00:07:38,241
+need to do something.
+
+00:07:38,241 --> 00:07:41,244
+You could, uh...
+
+00:07:41,244 --> 00:07:42,879
+pick up Warrick's clothes
+from the coroner.
+
+00:07:44,547 --> 00:07:46,716
+Okay.
+
+00:08:16,079 --> 00:08:18,081
+♪ ♪
+
+00:08:27,256 --> 00:08:29,258
+(camera shutter clicks)
+
+00:08:31,461 --> 00:08:32,829
+(camera shutter clicks)
+
+00:08:32,829 --> 00:08:34,397
+I got a bullet.
+
+00:08:36,966 --> 00:08:39,669
+Looks like a .25.
+
+00:08:47,610 --> 00:08:48,845
+.25 auto pistol on the floor.
+
+00:08:50,513 --> 00:08:53,516
+And a .25 shell casing
+right next to it.
+
+00:08:53,516 --> 00:08:55,585
+Warrick's service weapon's
+still in evidence.
+
+00:08:55,585 --> 00:08:57,120
+He didn't carry a backup.
+
+00:08:57,120 --> 00:08:59,255
+It's got to be
+the murder weapon.
+
+00:08:59,255 --> 00:09:01,324
+Leave the gun,
+take the cannoli.
+
+00:09:01,324 --> 00:09:03,059
+This was a hit.
+
+00:09:03,059 --> 00:09:07,530
+Looks like Pritchard's been
+taking lessons from Gedda.
+
+00:09:07,530 --> 00:09:11,134
+There were at least
+two shots fired.
+
+00:09:11,134 --> 00:09:12,869
+One of which came
+from inside the car.
+
+00:09:19,442 --> 00:09:20,676
+Window was down.
+
+00:09:20,676 --> 00:09:22,912
+I don't think the killer
+was sitting there.
+
+00:09:22,912 --> 00:09:25,581
+I think he was
+standing out here.
+
+00:09:25,581 --> 00:09:28,418
+He stuck the gun
+
+00:09:28,418 --> 00:09:29,719
+through the open
+window and fired.
+
+00:09:33,022 --> 00:09:35,792
+If you're right, there should be
+GSR on that headliner.
+
+00:09:48,438 --> 00:09:49,906
+It's positive for lead.
+
+00:09:49,906 --> 00:09:52,075
+Why was the window down?
+
+00:09:52,075 --> 00:09:54,811
+I don't know.
+
+00:09:54,811 --> 00:09:56,279
+It was a warm night.
+
+00:09:56,279 --> 00:09:58,414
+If he wanted to get
+some air, why not...
+
+00:09:58,414 --> 00:10:00,516
+roll down his own window?
+
+00:10:02,919 --> 00:10:04,287
+It's all hands on deck.
+
+00:10:04,287 --> 00:10:05,488
+Right now, I'm pulling
+everybody off
+
+00:10:05,488 --> 00:10:06,789
+whatever it is they're doing.
+
+00:10:06,789 --> 00:10:11,327
+Warrick Brown
+is our only case, okay?
+
+00:10:11,327 --> 00:10:13,930
+Officer Daniel Pritchard
+is our suspect.
+
+00:10:13,930 --> 00:10:16,532
+The assignments are
+going to break down
+generally like this--
+
+00:10:16,532 --> 00:10:18,167
+some of you go to the
+airport with photos.
+
+00:10:18,167 --> 00:10:19,635
+If Pritchard tries
+to get on a plane,
+
+00:10:19,635 --> 00:10:21,137
+we grab him.
+
+00:10:21,137 --> 00:10:24,474
+Now, Vegas highway patrol is
+already setting up roadblocks
+
+00:10:24,474 --> 00:10:26,509
+on all the roads leading
+out of the city.
+
+00:10:26,509 --> 00:10:29,812
+Now, we have the addresses
+of his ex-wife, his family,
+
+00:10:29,812 --> 00:10:32,081
+his friends,
+all his known associates.
+
+00:10:32,081 --> 00:10:34,117
+Most of you will be
+following those leads.
+
+00:10:34,117 --> 00:10:36,252
+Now look under
+every rock.
+
+00:10:36,252 --> 00:10:38,054
+If he's within
+spitting distance,
+
+00:10:38,054 --> 00:10:40,556
+I want him in custody
+immediately.
+
+00:11:10,086 --> 00:11:12,055
+(sniffles)
+
+00:11:13,089 --> 00:11:15,625
+I caught the
+first flight out.
+
+00:11:22,265 --> 00:11:25,835
+He didn't want to go, Sara.
+
+00:11:29,038 --> 00:11:31,674
+Tell me.
+
+00:11:31,674 --> 00:11:34,177
+I was holding him.
+
+00:11:37,380 --> 00:11:41,217
+God, I could feel his life.
+
+00:11:42,218 --> 00:11:44,554
+I guess I felt
+if I could...
+
+00:11:44,554 --> 00:11:48,124
+hold him tight enough,
+
+00:11:48,124 --> 00:11:50,860
+he'd be okay.
+
+00:11:50,860 --> 00:11:52,895
+You know there is nowhere
+in the world
+
+00:11:52,895 --> 00:11:56,699
+that he would've rather been
+at the end.
+
+00:11:56,699 --> 00:11:58,735
+He loved you.
+
+00:12:00,670 --> 00:12:02,872
+Yeah. I loved him.
+
+00:12:04,941 --> 00:12:06,709
+Oh.
+
+00:12:09,379 --> 00:12:11,681
+I'm so sorry.
+
+00:12:11,681 --> 00:12:14,951
+It's so good we can all
+be together.
+
+00:12:17,520 --> 00:12:19,555
+I'm glad you're here.
+
+00:12:25,329 --> 00:12:27,223
+(Stokes sniffles,
+clears throat)
+
+00:12:29,058 --> 00:12:31,927
+Look, maybe I can pick
+up some of the slack.
+
+00:12:31,927 --> 00:12:34,463
+I-I know I can't work the case,
+but maybe I can make
+
+00:12:34,463 --> 00:12:36,966
+some of the, uh... arrangements?
+
+00:12:36,966 --> 00:12:38,701
+That'd be great.
+
+00:12:38,701 --> 00:12:40,269
+I'll help you.
+
+00:12:40,269 --> 00:12:42,471
+I'd appreciate that.
+
+00:12:42,471 --> 00:12:43,773
+Since his grandmother passed,
+
+00:12:43,773 --> 00:12:45,408
+we were
+the only family he had.
+
+00:12:45,408 --> 00:12:47,476
+He once told me he'd like
+to be buried next to her.
+
+00:12:47,476 --> 00:12:50,379
+I went to her funeral
+with Warrick.
+
+00:12:50,379 --> 00:12:53,716
+She's, uh, buried
+
+00:12:53,716 --> 00:12:56,052
+at the Baptist cemetery
+on Eastern.
+
+00:12:56,052 --> 00:12:59,588
+We're going to need a... a key,
+I guess, to his place.
+
+00:12:59,588 --> 00:13:01,057
+WILLOWS:
+I've got one.
+
+00:13:01,057 --> 00:13:03,859
+I went over to his place
+
+00:13:03,859 --> 00:13:07,196
+to get him some fresh clothes
+when he was in custody.
+
+00:13:07,196 --> 00:13:09,932
+STOKES:
+Warrick was right about Gedda.
+
+00:13:09,932 --> 00:13:12,668
+And he was right
+about the department.
+
+00:13:15,504 --> 00:13:18,040
+Let's finish this for him.
+
+00:13:24,246 --> 00:13:25,648
+Hey, Jim.
+
+00:13:25,648 --> 00:13:27,216
+Hey.
+
+00:13:27,216 --> 00:13:31,754
+Look, uh, there's something
+I need to get off my chest.
+
+00:13:31,754 --> 00:13:33,556
+Okay.
+
+00:13:33,556 --> 00:13:36,225
+I know that you and
+Warrick were close.
+
+00:13:38,260 --> 00:13:40,629
+And I don't want you to think
+that I had it in for the guy.
+
+00:13:42,598 --> 00:13:45,101
+Why would I think that, Jeff?
+
+00:13:45,101 --> 00:13:48,571
+(chuckling):
+I don't know.
+
+00:13:48,571 --> 00:13:50,773
+Maybe I'm feeling guilty.
+
+00:13:54,510 --> 00:13:56,812
+I thought Brown
+was a bad apple.
+
+00:13:56,812 --> 00:13:58,914
+I was certain that
+he killed Gedda.
+
+00:14:01,450 --> 00:14:03,586
+And I was wrong.
+
+00:14:05,488 --> 00:14:08,057
+I know it's a little late
+for apologies,
+
+00:14:08,057 --> 00:14:11,260
+but I-I... I just wanted
+to tell you.
+
+00:14:11,260 --> 00:14:13,729
+Hey, we all have regrets.
+
+00:14:15,498 --> 00:14:17,566
+I thought he killed Gedda, too.
+
+00:14:19,935 --> 00:14:22,805
+You know what the last thing
+I told him was?
+
+00:14:22,805 --> 00:14:24,373
+No.
+
+00:14:24,373 --> 00:14:27,543
+"I hope you remember
+how lucky you are."
+
+00:14:29,278 --> 00:14:31,647
+Some luck, huh?
+
+00:14:32,682 --> 00:14:35,518
+(softly):
+Yeah.
+
+00:14:37,253 --> 00:14:38,988
+Thanks.
+
+00:14:38,988 --> 00:14:41,490
+(sighs)
+
+00:14:59,709 --> 00:15:01,844
+(gunshot)
+
+00:15:06,982 --> 00:15:09,552
+(whirring)
+
+00:15:18,627 --> 00:15:20,596
+(hissing)
+
+00:15:36,579 --> 00:15:39,815
+♪ ♪
+
+00:16:05,741 --> 00:16:09,345
+(neo-soul song playing on radio)
+
+00:16:10,846 --> 00:16:13,416
+(door alarm dinging softly)
+
+00:16:41,944 --> 00:16:45,681
+♪ ♪
+
+00:16:50,453 --> 00:16:54,056
+Looks like he
+never settled in.
+
+00:16:54,056 --> 00:16:56,058
+Yeah.
+
+00:17:43,506 --> 00:17:45,875
+SIDLE:
+You know, after being
+in so many victims' houses,
+
+00:17:45,875 --> 00:17:48,177
+I never left my house
+without making the bed
+
+00:17:48,177 --> 00:17:50,646
+and taking out the trash, just
+in case I didn't come home.
+
+00:17:50,646 --> 00:17:54,150
+What about now?
+
+00:17:54,150 --> 00:17:58,187
+Since I left Vegas,
+I don't do that anymore.
+
+00:18:00,690 --> 00:18:02,358
+See if you
+can find a tie.
+
+00:18:02,358 --> 00:18:04,593
+Yeah, I'm on it.
+
+00:18:19,108 --> 00:18:20,976
+Sara?
+
+00:18:28,084 --> 00:18:30,052
+Warrick has a son.
+
+00:18:30,052 --> 00:18:32,221
+Did you know?
+
+00:18:32,221 --> 00:18:33,956
+He never mentioned it.
+
+00:18:33,956 --> 00:18:35,558
+At least not to me.
+
+00:18:36,992 --> 00:18:39,061
+This is from his attorney.
+
+00:18:39,061 --> 00:18:42,932
+"I have enclosed the DNA results
+which were filed with the court,
+
+00:18:42,932 --> 00:18:45,868
+"along with a copy
+of your psych evaluation
+
+00:18:45,868 --> 00:18:48,637
+"as ordered by the judge
+in connection with our battle
+
+00:18:48,637 --> 00:18:51,874
+to win custody of your son."
+
+00:18:55,778 --> 00:18:58,047
+WILLOW:
+<i>Gun's a dead end.</i>
+
+00:18:58,047 --> 00:18:59,849
+No prints,
+shooter wiped it down.
+
+00:18:59,849 --> 00:19:01,650
+No recoverable DNA.
+
+00:19:01,650 --> 00:19:03,853
+The serial number
+was filed down,
+
+00:19:03,853 --> 00:19:05,554
+but I got one on the grip.
+
+00:19:05,554 --> 00:19:07,256
+Traced it back
+to an armed robbery.
+
+00:19:07,256 --> 00:19:09,725
+Pritchard was
+the arresting officer.
+
+00:19:09,725 --> 00:19:12,261
+The case was adjudicated,
+and according to the log,
+
+00:19:12,261 --> 00:19:14,363
+the gun was destroyed
+last July.
+
+00:19:14,363 --> 00:19:15,798
+Or not.
+
+00:19:15,798 --> 00:19:17,900
+Pritchard stole it
+from Central Property.
+
+00:19:17,900 --> 00:19:20,536
+He had to have somebody on
+the inside to fudge the records.
+
+00:19:20,536 --> 00:19:22,371
+Maybe Gedda's got another
+cop on the take.
+
+00:19:22,371 --> 00:19:24,373
+But why would Pritchard
+kill Warrick with a gun
+
+00:19:24,373 --> 00:19:25,908
+that could be
+traced back to him?
+
+00:19:25,908 --> 00:19:27,076
+'Cause he didn't care.
+
+00:19:27,076 --> 00:19:29,311
+He's in the wind.
+
+00:19:29,311 --> 00:19:30,546
+I got something.
+
+00:19:31,647 --> 00:19:33,616
+When I rolled up the
+passenger side window,
+
+00:19:33,616 --> 00:19:37,586
+I found a cluster of
+impressions on the glass.
+
+00:19:37,586 --> 00:19:40,823
+No ridge structure, so
+they're not fingerprints.
+
+00:19:40,823 --> 00:19:42,458
+They're... knuckle prints.
+
+00:19:44,827 --> 00:19:47,463
+The stereo was turned down low.
+
+00:19:47,463 --> 00:19:50,666
+The only fingerprints on the
+volume knob are Warrick's.
+
+00:19:50,666 --> 00:19:53,736
+And... if you've ever ridden
+with him, you know he'd...
+
+00:19:53,736 --> 00:19:55,705
+he'd make your eardrums bleed.
+
+00:19:55,705 --> 00:19:57,640
+So...
+
+00:19:57,640 --> 00:20:02,545
+volume turned down,
+knuckle prints on the glass.
+
+00:20:02,545 --> 00:20:05,915
+I think the killer
+knocked on his window.
+
+00:20:10,586 --> 00:20:12,655
+Well, Warrick would have never
+
+00:20:12,655 --> 00:20:14,490
+rolled down his window
+for Pritchard.
+
+00:20:14,490 --> 00:20:17,093
+No. No, not after he'd just
+killed Gedda
+
+00:20:17,093 --> 00:20:20,129
+and he was trying
+to frame Warrick for the murder.
+
+00:20:20,129 --> 00:20:23,532
+Are we saying
+it's not Pritchard?
+
+00:20:23,532 --> 00:20:25,267
+I think we are.
+
+00:20:27,036 --> 00:20:28,471
+McKeen.
+
+00:20:28,471 --> 00:20:30,473
+He's the only eyewitness.
+
+00:20:30,473 --> 00:20:33,542
+He's the one that placed
+somebody that looked like
+Pritchard in the alley.
+
+00:20:33,542 --> 00:20:36,712
+He's the one that said the
+suspect got into a vehicle
+
+00:20:36,712 --> 00:20:40,049
+with a partial plate
+that was a match to Pritchard's.
+
+00:20:44,387 --> 00:20:46,322
+There's something
+you need to see.
+
+00:20:46,322 --> 00:20:48,424
+Has to wait.
+We're going back to the alley.
+
+00:20:48,424 --> 00:20:49,892
+It can't wait.
+
+00:20:49,892 --> 00:20:53,029
+WOMAN:
+So what makes you think
+you'd be a good father?
+
+00:20:53,029 --> 00:20:55,264
+You were raised
+by your grandmother.
+
+00:20:55,264 --> 00:20:56,899
+You never even knew
+your biological father.
+
+00:20:56,899 --> 00:20:59,668
+Which is exactly
+why Eli needs to know his.
+
+00:21:01,504 --> 00:21:03,706
+Look, the most important thing
+you need to know
+
+00:21:03,706 --> 00:21:07,076
+to raise a child
+is how to give a child love.
+
+00:21:07,076 --> 00:21:09,045
+And I've been loved.
+
+00:21:11,213 --> 00:21:13,549
+Listen, I've always tried
+to be a good man.
+
+00:21:13,549 --> 00:21:15,251
+I've screwed up.
+
+00:21:15,251 --> 00:21:18,187
+And when I have, there's always
+been one man in my life
+
+00:21:18,187 --> 00:21:19,755
+that set me straight.
+
+00:21:19,755 --> 00:21:23,893
+I've learned a lot from him.
+
+00:21:23,893 --> 00:21:25,528
+How to be fair.
+
+00:21:25,528 --> 00:21:28,397
+How to forgive.
+
+00:21:28,397 --> 00:21:30,433
+How to be inspired.
+
+00:21:30,433 --> 00:21:34,470
+How to inspire others.
+
+00:21:34,470 --> 00:21:36,272
+WOMAN:
+That sounds
+like a special person.
+
+00:21:36,272 --> 00:21:38,007
+He is.
+
+00:21:40,042 --> 00:21:44,080
+If I could've picked
+my own father,
+
+00:21:44,080 --> 00:21:46,248
+I'd have picked him.
+
+00:21:54,350 --> 00:21:55,885
+We're ready
+on this end.
+
+00:21:55,885 --> 00:21:57,387
+GRISSOM:
+McKeen said he was
+
+00:21:57,387 --> 00:22:00,824
+about 20 feet west of the alley
+when he heard the shots.
+
+00:22:00,824 --> 00:22:02,058
+I'm there.
+
+00:22:03,092 --> 00:22:04,727
+Let's do this.
+
+00:22:04,727 --> 00:22:06,496
+Firing two.
+
+00:22:08,097 --> 00:22:09,666
+(gunshot in distance)
+
+00:22:14,871 --> 00:22:16,206
+(techno-pop plays)
+
+00:22:16,206 --> 00:22:18,208
+(music stops)
+
+00:22:19,576 --> 00:22:22,512
+(techno-pop plays)
+
+00:22:22,512 --> 00:22:24,347
+(music stops)
+
+00:22:24,347 --> 00:22:26,015
+Gil, what is it?
+
+00:22:26,015 --> 00:22:28,284
+I just realized something--
+there was music,
+
+00:22:28,284 --> 00:22:30,854
+loud music coming from here.
+
+00:22:30,854 --> 00:22:33,256
+We need to do this again.
+
+00:22:33,256 --> 00:22:34,591
+Okay.
+
+00:22:34,591 --> 00:22:36,392
+Come on back.
+
+00:22:36,392 --> 00:22:39,429
+(loud techno-pop playing)
+This is the volume level
+from around
+
+00:22:39,429 --> 00:22:41,030
+4:00 a.m. last night.
+
+00:22:41,030 --> 00:22:43,867
+(loud music continues)
+
+00:22:45,568 --> 00:22:47,871
+(shouts):
+Go ahead, Nicky!
+
+00:22:47,871 --> 00:22:50,874
+(music continues)
+
+00:22:50,874 --> 00:22:52,442
+(gunshot)
+
+00:22:52,442 --> 00:22:54,444
+(gunshot)
+
+00:22:56,246 --> 00:22:58,381
+(loud music continues)
+
+00:22:58,381 --> 00:23:00,283
+Where are you?
+
+00:23:00,283 --> 00:23:03,453
+I didn't hear any shots.
+
+00:23:06,222 --> 00:23:08,792
+GRISSOM:
+There's no way that McKeen
+heard those shots.
+
+00:23:08,792 --> 00:23:11,127
+So why did he say he did?
+
+00:23:11,127 --> 00:23:12,929
+He also implied
+
+00:23:12,929 --> 00:23:15,732
+that he saw Pritchard running
+away from Warrick's car.
+
+00:23:15,732 --> 00:23:17,801
+But he never said
+it <i>was</i> Pritchard.
+
+00:23:17,801 --> 00:23:20,603
+He led us to believe
+that though.
+(sighs)
+
+00:23:20,603 --> 00:23:23,907
+You know, when I first came
+to Vegas, over 20 years ago--
+
+00:23:23,907 --> 00:23:26,609
+I haven't thought
+about this in a while--
+
+00:23:26,609 --> 00:23:29,145
+Jeff McKeen was
+a detective then,
+
+00:23:29,145 --> 00:23:32,115
+he invited us all up
+to Mount Charleston to
+his cabin, you know,
+
+00:23:32,115 --> 00:23:33,283
+all the new guys.
+
+00:23:33,283 --> 00:23:34,717
+Have a barbecue,
+we'll cook some steaks,
+
+00:23:34,717 --> 00:23:37,120
+have a few drinks, get
+to know each other, you know?
+
+00:23:37,120 --> 00:23:38,488
+And it was a nice place,
+
+00:23:38,488 --> 00:23:41,224
+you know, but not <i>too</i>
+nice for detective pay.
+
+00:23:41,224 --> 00:23:43,026
+I mean, my radar's
+already out
+
+00:23:43,026 --> 00:23:44,861
+because I came from
+Jersey, you know?
+
+00:23:44,861 --> 00:23:46,196
+Guys...
+
+00:23:46,196 --> 00:23:47,697
+took more than they gave.
+
+00:23:47,697 --> 00:23:50,767
+And they made an art form,
+how not to push it,
+
+00:23:50,767 --> 00:23:52,702
+how not to make it showy,
+you know.
+
+00:23:52,702 --> 00:23:55,705
+Anyway, Jeff is sizing me
+up, he's sniffing around,
+
+00:23:55,705 --> 00:23:57,440
+he's telling me
+great Vegas is,
+
+00:23:57,440 --> 00:23:59,476
+how great it'd be
+for my career.
+
+00:23:59,476 --> 00:24:03,079
+But I let him know,
+without busting his balls,
+
+00:24:03,079 --> 00:24:06,583
+that I wasn't in the game,
+I wasn't for sale.
+
+00:24:06,583 --> 00:24:09,285
+And it's a good thing
+I took a look around
+
+00:24:09,285 --> 00:24:10,553
+up there at Mount Charleston,
+
+00:24:10,553 --> 00:24:12,188
+because I never
+got invited again.
+
+00:24:12,188 --> 00:24:14,624
+No more
+barbecues for me.
+
+00:24:14,624 --> 00:24:16,359
+Hmm.
+
+00:24:16,359 --> 00:24:19,996
+First witness at the scene
+is the first suspect, right?
+
+00:24:19,996 --> 00:24:21,998
+Right.
+
+00:24:21,998 --> 00:24:25,201
+When I told Warrick
+that Pritchard had framed him,
+
+00:24:25,201 --> 00:24:26,736
+he said that Gedda's mole
+
+00:24:26,736 --> 00:24:29,205
+had to be higher up
+on the food chain.
+
+00:24:29,205 --> 00:24:32,208
+If I were McKeen,
+
+00:24:32,208 --> 00:24:35,645
+I would worry that Warrick
+would <i>never</i> let it go.
+
+00:24:35,645 --> 00:24:38,681
+It'd take more
+than a beat cop to...
+
+00:24:38,681 --> 00:24:40,817
+get over on that fat bastard.
+
+00:24:40,817 --> 00:24:45,622
+I'd think it's got to be
+somebody much higher up.
+
+00:24:45,622 --> 00:24:49,225
+Let's say that McKeen saw
+the interview video.
+
+00:24:49,225 --> 00:24:51,227
+From the time that
+Warrick left the PD
+
+00:24:51,227 --> 00:24:52,962
+to the time that
+Warrick got killed
+
+00:24:52,962 --> 00:24:55,198
+was, like, an hour,
+an hour and a half.
+
+00:24:55,198 --> 00:24:57,033
+Is that enough time
+to frame Pritchard?
+
+00:24:57,033 --> 00:24:59,936
+For all we know,
+Pritchard's not
+even in Vegas.
+
+00:24:59,936 --> 00:25:03,173
+Yeah, but if Pritchard
+gets picked up somewhere else,
+
+00:25:03,173 --> 00:25:05,208
+that gives him an alibi,
+
+00:25:05,208 --> 00:25:07,076
+and McKeen is screwed.
+
+00:25:07,076 --> 00:25:11,114
+Unless he knows
+exactly where Pritchard is.
+
+00:25:19,055 --> 00:25:20,590
+(lock beeps)
+
+00:25:20,590 --> 00:25:24,594
+(baseball game
+playing quietly on TV)
+
+00:25:31,167 --> 00:25:32,602
+SPORTS ANNOUNCER:
+But right now,
+
+00:25:32,602 --> 00:25:35,305
+Los Angeles doesn't appear
+to be in a helping mood.
+
+00:25:35,305 --> 00:25:36,506
+Two-one count.
+
+00:25:36,506 --> 00:25:38,741
+Jason delivers.
+
+00:25:38,741 --> 00:25:40,777
+And there's a flare
+to right field!
+
+00:25:40,777 --> 00:25:43,046
+I can't believe Bobby Cox
+is still managing.
+
+00:25:43,046 --> 00:25:44,581
+What took you
+so long?
+
+00:25:44,581 --> 00:25:46,316
+I'm starving here.
+
+00:25:46,316 --> 00:25:48,785
+I thought
+I was clear with you.
+
+00:25:48,785 --> 00:25:49,953
+About what?
+
+00:25:49,953 --> 00:25:51,254
+Where's my food?
+
+00:25:51,254 --> 00:25:53,423
+I told you
+not to leave the room.
+
+00:25:53,423 --> 00:25:55,925
+I didn't.
+
+00:25:55,925 --> 00:25:58,027
+Scout's honor.
+
+00:25:59,429 --> 00:26:01,431
+Why would I
+leave the room?
+
+00:26:01,431 --> 00:26:03,600
+I'm trying to leave the country.
+
+00:26:03,600 --> 00:26:05,769
+You killed Brown
+on the way out.
+
+00:26:05,769 --> 00:26:07,070
+I get it.
+
+00:26:07,070 --> 00:26:09,706
+But now you made a mess,
+
+00:26:09,706 --> 00:26:11,875
+and I got to clean it up.
+
+00:26:11,875 --> 00:26:13,877
+You think I killed Brown?
+
+00:26:13,877 --> 00:26:15,145
+Come on, who else?
+
+00:26:15,145 --> 00:26:16,479
+I just framed the guy--
+
+00:26:16,479 --> 00:26:18,681
+why would I want him dead;
+I wanted him in jail.
+
+00:26:18,681 --> 00:26:20,850
+If I wanted him dead,
+I would've shot him in Pigalle
+
+00:26:20,850 --> 00:26:22,452
+instead of going through
+all this freakin' crap.
+
+00:26:22,452 --> 00:26:26,055
+The murder weapon was traced
+back to one of your cases.
+
+00:26:26,055 --> 00:26:28,124
+What case?
+What are you talking about?
+
+00:26:28,124 --> 00:26:31,060
+An armed robbery, I believe.
+
+00:26:31,060 --> 00:26:32,896
+A .25.
+
+00:26:32,896 --> 00:26:35,064
+Judge ordered it destroyed.
+
+00:26:35,064 --> 00:26:37,567
+Oh.
+
+00:26:37,567 --> 00:26:39,235
+That gun.
+
+00:26:40,270 --> 00:26:41,771
+Look,
+
+00:26:41,771 --> 00:26:45,675
+you can blame everything on me
+when I'm in Mexico,
+
+00:26:45,675 --> 00:26:47,911
+but I'm not in Mexico yet.
+
+00:26:47,911 --> 00:26:50,747
+Killing you might
+just be easier.
+
+00:26:50,747 --> 00:26:52,816
+Then do it.
+
+00:26:52,816 --> 00:26:55,218
+You shoot me here...
+
+00:26:55,218 --> 00:26:58,321
+you're gonna have
+a lot of explaining to do.
+
+00:27:00,723 --> 00:27:04,794
+We going to Mexico, or what?
+
+00:27:07,497 --> 00:27:10,099
+Gil, you take this
+to the wrong judge,
+
+00:27:10,099 --> 00:27:12,435
+and McKeen finds out
+he's being investigated,
+
+00:27:12,435 --> 00:27:15,572
+he'll stick a fork
+in all of us.
+
+00:27:15,572 --> 00:27:18,374
+I think that's a risk
+we're all willing to take.
+
+00:27:18,374 --> 00:27:21,678
+Well, all I'm saying is,
+let's be smart about it.
+
+00:27:21,678 --> 00:27:23,680
+Get more evidence.
+
+00:27:23,680 --> 00:27:25,315
+We got what we got.
+
+00:27:25,315 --> 00:27:26,950
+Knuckle prints on glass.
+
+00:27:26,950 --> 00:27:29,452
+SANDERS:
+Yeah, but knuckle prints
+can't be individualized.
+
+00:27:29,452 --> 00:27:30,854
+Even if we had exemplars,
+
+00:27:30,854 --> 00:27:33,089
+we couldn't exclude Pritchard
+or include McKeen.
+
+00:27:33,089 --> 00:27:34,958
+All right, wh-what
+about the murder weapon?
+
+00:27:34,958 --> 00:27:37,560
+We printed it,
+swabbed it for DNA.
+
+00:27:37,560 --> 00:27:39,229
+It was wiped clean.
+
+00:27:39,229 --> 00:27:40,597
+SIDLE:
+The gun was evidence
+
+00:27:40,597 --> 00:27:42,132
+in an armed robbery
+case, right?
+
+00:27:42,132 --> 00:27:43,700
+Was there any
+ammo with it?
+
+00:27:43,700 --> 00:27:45,068
+No.
+
+00:27:45,068 --> 00:27:47,337
+So if McKeen lifted
+the gun from Evidence,
+
+00:27:47,337 --> 00:27:49,105
+he still had to load it.
+
+00:27:49,105 --> 00:27:51,307
+WILLOWS:
+No prints on the magazine.
+
+00:27:51,307 --> 00:27:52,675
+What about the bullets?
+
+00:27:52,675 --> 00:27:54,110
+ECKLIE:
+A .25?
+
+00:27:54,110 --> 00:27:57,180
+We've never gotten prints
+off a cartridge that small.
+
+00:27:59,082 --> 00:28:02,218
+♪ ♪
+
+00:28:37,654 --> 00:28:39,656
+(sighs)
+
+00:28:39,656 --> 00:28:42,158
+That is one tiny partial.
+
+00:28:42,158 --> 00:28:44,794
+This may be f-four millimeters.
+
+00:28:45,929 --> 00:28:48,298
+So we got one shot.
+Yeah.
+
+00:28:48,298 --> 00:28:51,067
+So don't screw it up, right?
+
+00:29:10,120 --> 00:29:13,123
+Just enough for a comparison.
+
+00:29:13,123 --> 00:29:16,359
+Here, compare it to
+Pritchard's ten card.
+
+00:29:26,669 --> 00:29:28,772
+It's not Pritchard's print.
+
+00:29:31,207 --> 00:29:33,042
+Thank you, Mandy.
+
+00:29:33,042 --> 00:29:36,045
+I need you to step out.
+
+00:29:37,147 --> 00:29:39,048
+You're kidding, right?
+
+00:29:39,048 --> 00:29:41,384
+No, I'm not.
+
+00:30:09,279 --> 00:30:12,015
+(beeping)
+
+00:30:30,099 --> 00:30:31,734
+BRASS:
+<i>No, Your Honor,</i>
+
+00:30:31,734 --> 00:30:33,603
+we all understand
+the gravity of this situation.
+
+00:30:33,603 --> 00:30:35,238
+But we're under
+a lot of pressure,
+
+00:30:35,238 --> 00:30:37,240
+and we have to move fast.
+
+00:30:37,240 --> 00:30:40,944
+No, I didn't call the mayor--
+I wanted to call you first.
+
+00:30:40,944 --> 00:30:43,379
+He's not at home,
+he's not at work,
+
+00:30:43,379 --> 00:30:46,349
+and if we tip him off,
+he'll run.
+
+00:30:46,349 --> 00:30:48,918
+Judge... Judge...
+
+00:30:48,918 --> 00:30:52,222
+I wouldn't call you
+for a warrant if I wasn't sure.
+
+00:30:52,222 --> 00:30:55,391
+STOKES:
+<i>I need you to pull</i>
+<i>McKeen's phone records.</i>
+
+00:30:55,391 --> 00:30:57,060
+The undersheriff?
+
+00:30:57,060 --> 00:30:59,896
+The last 24 hours,
+all incoming calls.
+
+00:31:03,433 --> 00:31:06,803
+(keyboard clacking)
+
+00:31:06,803 --> 00:31:09,272
+STOKES:
+Eliminate any
+
+00:31:09,272 --> 00:31:13,042
+that are work-related,
+from a PD number.
+
+00:31:16,312 --> 00:31:18,248
+Three calls
+from the same number.
+
+00:31:18,248 --> 00:31:20,583
+Do a reverse look-up.
+
+00:31:26,456 --> 00:31:28,691
+Whiskey Bend.
+
+00:31:28,691 --> 00:31:32,162
+That's a place you
+go to get lost.
+
+00:31:33,663 --> 00:31:35,165
+He recognized McKeen.
+
+00:31:35,165 --> 00:31:36,533
+Said he paid cash.
+
+00:31:36,533 --> 00:31:39,035
+Wasn't staying here--
+it was for his buddy.
+
+00:31:39,035 --> 00:31:41,504
+"Do not disturb,"
+give me a break.
+
+00:31:41,504 --> 00:31:43,173
+Okay, go ahead.
+
+00:31:52,615 --> 00:31:54,617
+Okay, come on.
+
+00:31:56,219 --> 00:31:58,221
+It's clear, Captain.
+
+00:32:04,494 --> 00:32:06,429
+Ice in the glass.
+
+00:32:06,429 --> 00:32:08,064
+Wet towel.
+
+00:32:08,064 --> 00:32:09,632
+We just missed him.
+
+00:32:15,405 --> 00:32:17,474
+(country music plays
+as radio stations change)
+
+00:32:17,474 --> 00:32:19,642
+Pick a station and go with it.
+
+00:32:19,642 --> 00:32:21,811
+You're driving me crazy.
+It's all country.
+
+00:32:21,811 --> 00:32:24,147
+I don't like country.
+
+00:32:24,147 --> 00:32:26,649
+Yeah, well, at least
+they're all in English.
+
+00:32:26,649 --> 00:32:28,051
+(turns radio off)
+
+00:32:28,051 --> 00:32:30,086
+<i>Bienvenidos a Mexico,</i>
+
+00:32:30,086 --> 00:32:31,955
+my friend.
+
+00:32:41,766 --> 00:32:43,735
+(long beep)
+
+00:32:51,376 --> 00:32:52,844
+ID's confirmed.
+
+00:32:52,844 --> 00:32:54,279
+Pritchard was in the room.
+
+00:32:54,279 --> 00:32:57,616
+McKeen's had this room
+for four days.
+
+00:32:57,616 --> 00:32:59,117
+Pritchard's probably been
+holed up here
+
+00:32:59,117 --> 00:33:00,452
+ever since he killed Gedda.
+
+00:33:00,452 --> 00:33:02,754
+Pritchard's his problem solver.
+
+00:33:02,754 --> 00:33:04,055
+McKeen is protecting him.
+
+00:33:04,055 --> 00:33:05,290
+STOKES:
+Not anymore.
+
+00:33:05,290 --> 00:33:08,526
+He killed Warrick.
+Now he needs a fall guy.
+
+00:33:08,526 --> 00:33:10,595
+Which makes Pritchard
+a dead man.
+
+00:33:10,595 --> 00:33:12,564
+Hey, Jeff, it's Jim Brass.
+
+00:33:12,564 --> 00:33:15,200
+Well, looks like
+Pritchard is our guy.
+(phone rings)
+
+00:33:15,200 --> 00:33:18,937
+All the evidence points
+that way.
+
+00:33:18,937 --> 00:33:20,205
+No, we're still looking.
+
+00:33:20,205 --> 00:33:22,574
+I'll put an APB out on him
+right away.
+
+00:33:22,574 --> 00:33:24,309
+Keep you posted.
+
+00:33:24,309 --> 00:33:26,244
+Yeah, Brass is talking
+to him now.
+
+00:33:26,244 --> 00:33:29,614
+Archie's working on
+triangulating his cell.
+
+00:33:31,816 --> 00:33:34,786
+BRASS:
+Jeff, you're breaking up.
+Are you in your car?
+
+00:33:34,786 --> 00:33:37,622
+Yeah, sure, get some rest.
+
+00:33:37,622 --> 00:33:39,624
+The press is gonna want
+a statement from you
+
+00:33:39,624 --> 00:33:41,459
+when we bring Pritchard
+into custody.
+
+00:33:41,459 --> 00:33:44,162
+STOKES:
+McKeen's with Pritchard.
+You have his 20?
+
+00:33:44,162 --> 00:33:45,230
+Not yet.
+
+00:33:45,230 --> 00:33:46,831
+(computer trills)
+
+00:33:46,831 --> 00:33:49,734
+Got him.
+
+00:33:49,734 --> 00:33:51,503
+He just moved from tower
+eight to tower nine.
+
+00:33:51,503 --> 00:33:54,406
+He's heading east
+on Boulder Highway
+
+00:33:54,406 --> 00:33:57,842
+about a mile west
+of Highway 166.
+
+00:34:00,011 --> 00:34:02,814
+Let me know
+when you got him, Jim.
+
+00:34:02,814 --> 00:34:05,083
+Got who?
+
+00:34:05,083 --> 00:34:06,985
+Relax.
+
+00:34:06,985 --> 00:34:10,188
+What happens when we get
+to the state line?
+
+00:34:10,188 --> 00:34:12,490
+Every cop in Nevada's
+got a picture of my mug.
+
+00:34:12,490 --> 00:34:14,459
+Don't worry about it.
+
+00:34:14,459 --> 00:34:16,962
+I got a radio on.
+
+00:34:16,962 --> 00:34:18,863
+Anything happens,
+I'll hear about it.
+
+00:34:18,863 --> 00:34:20,665
+I'm the undersheriff,
+remember?
+
+00:34:20,665 --> 00:34:22,300
+Nobody's gonna search my car.
+
+00:34:22,300 --> 00:34:24,236
+In 12 hours,
+you'll be sitting
+
+00:34:24,236 --> 00:34:27,739
+on a beach in Mexico
+sipping margaritas.
+
+00:34:31,776 --> 00:34:33,678
+What's so freakin' funny?
+
+00:34:33,678 --> 00:34:36,514
+What, are you gonna shoot me
+going 80 miles an hour?
+
+00:34:36,514 --> 00:34:41,319
+<i>You think I'd let you get in</i>
+<i>this car with a loaded gun?</i>
+
+00:34:41,319 --> 00:34:43,321
+(laughs)
+
+00:34:43,321 --> 00:34:45,991
+Just sit back
+and enjoy the ride.
+
+00:34:53,565 --> 00:34:55,300
+<i>Air One, this is Captain Brass.</i>
+
+00:34:55,300 --> 00:34:56,301
+Air One here.
+
+00:34:56,301 --> 00:34:57,969
+Do you have a visual?
+
+00:34:57,969 --> 00:35:01,373
+Affirmative. We're about
+three miles behind him.
+
+00:35:01,373 --> 00:35:03,909
+Stay on radio frequency
+tac three.
+
+00:35:03,909 --> 00:35:06,478
+In case he has his radio on,
+we don't want to tip him off.
+
+00:35:06,478 --> 00:35:08,146
+Copy that.
+
+00:35:12,050 --> 00:35:13,184
+The green is Nick?
+
+00:35:13,184 --> 00:35:15,654
+Yeah. He and Brass
+are on his tail.
+
+00:35:24,996 --> 00:35:26,665
+Air One at your six.
+
+00:35:26,665 --> 00:35:29,167
+All ground units be advised
+your next is in 90.
+
+00:35:29,167 --> 00:35:31,069
+Hairpin right. Easy speed.
+
+00:35:34,072 --> 00:35:35,240
+What's happening?
+
+00:35:35,240 --> 00:35:38,510
+Nick, McKeen's vehicle
+has stopped.
+
+00:35:38,510 --> 00:35:39,878
+Where is he?
+
+00:35:39,878 --> 00:35:41,513
+You should be right
+on top of him.
+
+00:35:41,513 --> 00:35:42,847
+Either McKeen threw
+his phone out
+
+00:35:42,847 --> 00:35:44,816
+or he pulled over.
+He's just ahead of us.
+
+00:35:49,020 --> 00:35:50,222
+Whoa, whoa, whoa.
+
+00:35:54,292 --> 00:35:55,627
+(tires screech)
+
+00:35:58,530 --> 00:36:00,966
+(indistinct radio transmission)
+
+00:36:09,441 --> 00:36:11,810
+Nick... cover him.
+
+00:36:11,810 --> 00:36:13,745
+Control, this is Brass.
+
+00:36:13,745 --> 00:36:17,916
+One-David-Two's vehicle
+has broke through a guardrail
+
+00:36:17,916 --> 00:36:21,119
+and gone into a gully
+near mile marker 114.
+
+00:36:21,119 --> 00:36:24,422
+Send additional backup
+and paramedics.
+
+00:36:24,422 --> 00:36:26,625
+Copy that. We'll notify backup
+and EMS.
+
+00:36:36,001 --> 00:36:38,303
+Got a .357 magnum.
+
+00:36:38,303 --> 00:36:40,405
+McKeen carries a nine.
+
+00:36:40,405 --> 00:36:42,574
+Looks like Pritchard's
+got a broken neck.
+
+00:36:42,574 --> 00:36:44,476
+No holes in him.
+
+00:36:44,476 --> 00:36:46,111
+(helicopter blades whirring)
+
+00:36:48,346 --> 00:36:50,949
+(grunting)
+
+00:36:50,949 --> 00:36:52,784
+Control, this is Brass.
+
+00:36:52,784 --> 00:36:55,287
+Pritchard is dead
+and David-Two is on the run,
+
+00:36:55,287 --> 00:36:57,923
+armed and dangerous,
+possibly injured.
+
+00:36:57,923 --> 00:36:59,024
+We're in pursuit.
+
+00:36:59,024 --> 00:37:00,425
+Copy that, Captain Brass.
+Will advise.
+
+00:37:02,494 --> 00:37:05,564
+D2 is on the run.
+D2 is on the run.
+
+00:37:22,147 --> 00:37:24,249
+Nick. Nick, this is Brass.
+Come in.
+
+00:37:24,249 --> 00:37:25,283
+Go to channel three.
+
+00:37:25,283 --> 00:37:27,953
+Nick?
+
+00:37:27,953 --> 00:37:29,955
+(lowers volume):
+We're on channel three.
+You copy?
+
+00:37:29,955 --> 00:37:31,957
+(turns off radio)
+
+00:37:43,201 --> 00:37:46,071
+(coughing)
+
+00:37:46,071 --> 00:37:48,373
+(inhales sharply)
+
+00:37:58,750 --> 00:38:00,652
+(coughing)
+
+00:38:00,652 --> 00:38:03,655
+Stokes, thank God you're here.
+
+00:38:10,528 --> 00:38:12,197
+I was trying
+to bring Pritchard in.
+
+00:38:12,197 --> 00:38:13,265
+Shut up.
+
+00:38:13,265 --> 00:38:15,166
+He got
+the drop on me.
+
+00:38:15,166 --> 00:38:18,103
+He grabbed my gun.
+I lost control.
+
+00:38:18,103 --> 00:38:20,572
+I said shut up!
+
+00:38:22,173 --> 00:38:24,309
+Air One, Air One, come in.
+This is Brass.
+
+00:38:24,309 --> 00:38:26,244
+Air One, Air One, do you copy?
+
+00:38:26,244 --> 00:38:27,412
+Air one here.
+
+00:38:27,412 --> 00:38:28,847
+There are four of us.
+We spread out.
+
+00:38:28,847 --> 00:38:31,349
+We're all heading due west.
+CSI Stokes is in the lead.
+
+00:38:31,349 --> 00:38:33,318
+We're looking for a visual
+on McKeen.
+
+00:38:33,318 --> 00:38:34,352
+Can you verify?
+
+00:38:34,352 --> 00:38:36,922
+Stand by.
+
+00:38:39,057 --> 00:38:41,860
+Air One confirm visual.
+
+00:38:41,860 --> 00:38:44,362
+CSI Stokes has located
+the suspect
+
+00:38:44,362 --> 00:38:46,765
+and has him at gunpoint 300
+yards due west of your position.
+
+00:38:46,765 --> 00:38:48,099
+Copy that.
+
+00:38:51,069 --> 00:38:53,371
+Okay, you want to know
+why I did it?
+
+00:38:53,371 --> 00:38:55,607
+Warrick had a big mouth,
+
+00:38:55,607 --> 00:38:58,476
+and I had to shut it.
+
+00:38:58,476 --> 00:39:00,579
+I tried to warn him,
+
+00:39:00,579 --> 00:39:04,049
+but he was just too stupid
+to listen.
+
+00:39:04,049 --> 00:39:06,751
+(coughing)
+
+00:39:06,751 --> 00:39:11,122
+You know, when I shot him,
+he had a big...
+
+00:39:11,122 --> 00:39:14,092
+smile on his face.
+
+00:39:14,092 --> 00:39:17,862
+I told him
+he could keep his job.
+
+00:39:17,862 --> 00:39:20,232
+I didn't have
+the heart to fire him.
+
+00:39:20,232 --> 00:39:21,600
+Shut up.
+
+00:39:21,600 --> 00:39:22,968
+(cries out in pain)
+
+00:39:25,770 --> 00:39:28,440
+He was your friend.
+
+00:39:28,440 --> 00:39:31,409
+What kind of friend are you?!
+
+00:39:31,409 --> 00:39:34,412
+Shoot me, you son of a bitch!
+
+00:39:36,081 --> 00:39:38,083
+(gunshot)
+
+00:39:41,453 --> 00:39:43,321
+(helicopter blades whirring)
+
+00:39:46,925 --> 00:39:48,560
+Nick?
+
+00:39:57,302 --> 00:40:00,539
+McKeen has a gunshot wound
+to the stomach.
+(coughs)
+
+00:40:00,539 --> 00:40:02,607
+He's lost a lot of blood.
+We should get the medevac
+
+00:40:02,607 --> 00:40:04,676
+chopper here ASAP.
+
+00:40:04,676 --> 00:40:06,811
+What was that shot?
+
+00:40:08,880 --> 00:40:10,448
+A miss.
+
+00:40:22,227 --> 00:40:23,995
+Jeffrey McKeen,
+
+00:40:23,995 --> 00:40:27,799
+you're under arrest
+for the murder of Warrick Brown.
+
+00:40:30,569 --> 00:40:34,506
+Yea, though I walk through the
+valley of the shadow of death,
+
+00:40:34,506 --> 00:40:37,842
+I will fear no evil
+for thou art with me.
+
+00:40:37,842 --> 00:40:41,780
+Thy rod and thy staff,
+they comfort me.
+
+00:40:41,780 --> 00:40:43,381
+Thou preparest a table
+before me
+
+00:40:43,381 --> 00:40:46,117
+in the presence of mine enemies.
+
+00:40:46,117 --> 00:40:48,687
+Thou anointest my head with oil.
+
+00:40:48,687 --> 00:40:51,323
+My cup runneth over.
+
+00:40:51,323 --> 00:40:54,025
+Surely goodness and mercy
+shall follow me
+
+00:40:54,025 --> 00:40:56,528
+all the days of my life,
+
+00:40:56,528 --> 00:41:00,165
+and I will dwell in the house
+of the Lord forever.
+
+00:41:00,165 --> 00:41:02,100
+Amen.
+
+00:41:02,100 --> 00:41:03,368
+ALL:
+Amen.
+
+00:41:17,115 --> 00:41:19,985
+As crime scene investigators,
+
+00:41:19,985 --> 00:41:23,588
+we meet people on the worst day
+of their lives.
+
+00:41:23,588 --> 00:41:27,726
+They've just lost
+a family member,
+
+00:41:27,726 --> 00:41:32,631
+somebody they loved,
+often in a horrible way.
+
+00:41:32,631 --> 00:41:39,004
+A piece of their heart is gone
+and will never be replaced.
+
+00:41:39,004 --> 00:41:43,909
+The phrase we're trained
+to offer them,
+
+00:41:43,909 --> 00:41:47,279
+"I'm sorry for your loss,"
+
+00:41:47,279 --> 00:41:51,182
+as we know now,
+
+00:41:51,182 --> 00:41:53,618
+doesn't offer much.
+
+00:41:55,787 --> 00:42:01,960
+Warrick Brown was a young boy
+when his parents passed away.
+
+00:42:01,960 --> 00:42:04,362
+Much too young to learn
+
+00:42:04,362 --> 00:42:06,531
+that life can be
+so tragically short.
+
+00:42:08,199 --> 00:42:13,104
+But I think that it taught him
+how precious life is,
+
+00:42:13,104 --> 00:42:18,810
+and so he lived his life
+to the fullest each day
+
+00:42:18,810 --> 00:42:21,947
+as if it was his last day.
+
+00:42:21,947 --> 00:42:26,985
+I was with Warrick
+on his last day.
+
+00:42:26,985 --> 00:42:31,289
+All the qualities that defined
+him-- his tenaciousness,
+
+00:42:31,289 --> 00:42:34,292
+his deep sense of loyalty,
+
+00:42:34,292 --> 00:42:38,163
+his courage...
+
+00:42:38,163 --> 00:42:42,667
+to risk his life
+for what he knew was right--
+
+00:42:42,667 --> 00:42:47,305
+all those traits were with him
+on that last day.
+
+00:42:47,305 --> 00:42:51,009
+Just before he died...
+
+00:42:51,009 --> 00:42:53,979
+we were all having breakfast
+together--
+
+00:42:53,979 --> 00:42:56,514
+our team...
+
+00:42:58,783 --> 00:43:00,886
+...his friends...
+
+00:43:03,922 --> 00:43:05,190
+...his family.
+
+00:43:09,594 --> 00:43:14,099
+And Warrick was...
+
+00:43:14,099 --> 00:43:16,935
+he was...
+
+00:43:26,578 --> 00:43:29,214
+I'm gonna miss him so much.
+

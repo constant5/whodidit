@@ -1,0 +1,1946 @@
+
+00:00:12,753 --> 00:00:14,388
+Lab's only got
+one case tonight.
+
+00:00:14,454 --> 00:00:16,356
+Why'd you bag that?
+I didn't.
+
+00:00:16,423 --> 00:00:17,524
+That's not Nick's evidence.
+
+00:00:17,591 --> 00:00:19,026
+Maybe it's a message.
+
+00:00:19,092 --> 00:00:20,160
+Nick could be anywhere
+from Green Valley
+
+00:00:20,227 --> 00:00:21,662
+<i>to Seven Hills to Arizona.</i>
+
+00:00:21,728 --> 00:00:23,163
+<i>Guy comes in here with</i>
+
+00:00:23,230 --> 00:00:23,997
+<i>a package with</i>
+<i>no return address.</i>
+
+00:00:24,064 --> 00:00:25,265
+It's about Nick.
+
+00:00:25,332 --> 00:00:26,333
+MAN ( <i>on recorder</i> ):
+Hi, CSI guy.
+
+00:00:26,400 --> 00:00:28,035
+You wondering why you're here?
+
+00:00:28,101 --> 00:00:30,537
+Because you followed
+the evidence.
+
+00:00:30,604 --> 00:00:33,273
+( <i>screaming</i> )
+
+00:00:33,340 --> 00:00:34,675
+WILLOWS:
+I don't think he knows
+we can see him.
+
+00:00:34,741 --> 00:00:37,110
+If they're going to keep him
+alive for 12 hours,
+
+00:00:37,177 --> 00:00:39,246
+<i>it must mean that he's going</i>
+<i>to have additional air supply.</i>
+
+00:00:39,313 --> 00:00:41,014
+GRISSOM:
+<i>The feed stays active</i>
+<i>for two minutes</i>
+
+00:00:41,081 --> 00:00:42,149
+<i>every time you press</i>
+<i>the "Watch" button.</i>
+
+00:00:42,216 --> 00:00:43,483
+BROWN:
+I say we keep the light on.
+
+00:00:43,550 --> 00:00:45,419
+I got called out
+to a pickup on Viking Circle.
+
+00:00:45,485 --> 00:00:48,255
+<i>I just found</i>
+<i>an abandoned package</i>
+<i>with some cash taped to it.</i>
+
+00:00:48,322 --> 00:00:49,122
+Yeah, the address
+was a waste of time.
+
+00:00:49,189 --> 00:00:50,490
+The guy probably
+picked the house
+
+00:00:50,557 --> 00:00:52,125
+at random 'cause he knew
+we'd chase it.
+
+00:00:52,192 --> 00:00:53,594
+Has Nick's family been informed?
+
+00:00:53,660 --> 00:00:54,795
+That would be my job.
+
+00:00:54,861 --> 00:00:55,929
+GRISSOM:
+We're not sure
+
+00:00:55,996 --> 00:00:56,930
+who has your son.
+
+00:00:56,997 --> 00:00:58,198
+What the hell do you know?
+
+00:00:58,265 --> 00:00:59,433
+Aw, Poncho.
+
+00:00:59,499 --> 00:01:01,668
+What the hell
+you got yourself into?
+
+00:01:01,735 --> 00:01:04,538
+The City of Las Vegas is not
+going to finance a ransom.
+
+00:01:04,605 --> 00:01:06,740
+I need a million dollars
+and I need it now.
+
+00:01:06,807 --> 00:01:08,609
+If you're coming to me
+like a cop
+
+00:01:08,675 --> 00:01:11,178
+with a tin cup in your hand,
+the answer is no.
+
+00:01:11,245 --> 00:01:12,746
+<i>If the press</i>
+<i>finds out about this,</i>
+
+00:01:12,813 --> 00:01:15,315
+it'll look like Sam Braun
+bribed the lab.
+
+00:01:15,382 --> 00:01:16,717
+You got a better plan,
+I'm all ears!
+
+00:01:16,783 --> 00:01:18,719
+MAN:
+<i>What does Nick Stokes</i>
+<i>mean to you?</i>
+
+00:01:18,785 --> 00:01:21,822
+Does your soul die
+every time you push that button?
+
+00:01:21,889 --> 00:01:23,657
+Welcome to my world.
+
+00:01:35,068 --> 00:01:38,906
+( <i>indistinct police radio</i>
+<i>transmissions</i> )
+
+00:01:42,309 --> 00:01:43,577
+Pupils are even.
+
+00:01:43,644 --> 00:01:45,779
+He blew himself up and
+left us with nothing.
+
+00:01:45,846 --> 00:01:48,015
+Sir, are you experiencing
+any ringing in your ears?
+
+00:01:49,349 --> 00:01:50,851
+We got the kidnapper's truck.
+
+00:01:50,918 --> 00:01:52,886
+Nevada tags:
+374-Robert-Charlie-David.
+
+00:01:52,953 --> 00:01:54,121
+Run the plate.
+
+00:01:54,187 --> 00:01:55,956
+That's the wrong box, Greg.
+
+00:01:56,023 --> 00:01:57,324
+Well, pick one.
+There's three.
+
+00:01:57,391 --> 00:01:59,359
+That one right there.
+
+00:01:59,426 --> 00:02:00,527
+Give me a break.
+
+00:02:00,594 --> 00:02:01,695
+I haven't done
+this before.
+
+00:02:01,762 --> 00:02:03,363
+All right, let's go over it
+again.
+
+00:02:03,430 --> 00:02:05,966
+The diagnostic unit
+gets attached to that black box,
+
+00:02:06,033 --> 00:02:08,201
+which gives us the mileage
+of his last trip.
+
+00:02:08,268 --> 00:02:09,636
+Like an airplane.
+
+00:02:09,703 --> 00:02:11,605
+That gives us the radius
+for the search area.
+
+00:02:11,672 --> 00:02:13,507
+Right.
+Got it.
+
+00:02:13,574 --> 00:02:15,175
+23 miles...
+
+00:02:15,242 --> 00:02:18,145
+and we know he was heading east
+on the 215.
+
+00:02:18,212 --> 00:02:20,247
+I'll get a map.
+
+00:02:26,320 --> 00:02:28,789
+Somebody bag this
+money, please?
+
+00:02:28,855 --> 00:02:30,857
+Don't get any funny
+ideas, either.
+
+00:02:32,092 --> 00:02:33,293
+( <i>sighs</i> )
+
+00:02:33,360 --> 00:02:35,495
+What I had to do
+to get this money and for what.
+
+00:02:36,964 --> 00:02:39,466
+There's no I.D. on him.
+
+00:02:42,436 --> 00:02:44,738
+( <i>indistinct radio transmission)</i>
+
+00:03:03,824 --> 00:03:06,026
+I got a thumb.
+
+00:03:12,875 --> 00:03:15,903
+♪ Who... are you? ♪
+
+00:03:15,969 --> 00:03:18,538
+♪ Who, who, who, who? ♪
+
+00:03:18,605 --> 00:03:21,542
+♪ Who... are you? ♪
+
+00:03:21,608 --> 00:03:23,744
+♪ Who, who, who, who? ♪
+
+00:03:23,810 --> 00:03:25,546
+♪ I really wanna know ♪
+
+00:03:25,612 --> 00:03:27,781
+♪ Who... are you? ♪
+
+00:03:27,848 --> 00:03:29,883
+♪ Oh-oh-oh ♪
+♪ Who... ♪
+
+00:03:29,950 --> 00:03:33,554
+♪ Come on, tell me who are you,
+you, you ♪
+
+00:03:33,620 --> 00:03:36,623
+♪ Oh, you! ♪
+
+00:03:41,583 --> 00:03:43,085
+How's he doing?
+
+00:03:45,320 --> 00:03:46,755
+Hard to say.
+
+00:03:46,822 --> 00:03:49,224
+About the same, I guess.
+
+00:03:49,291 --> 00:03:51,660
+I'm gonna get
+some coffee.
+
+00:03:51,727 --> 00:03:53,762
+Yeah.
+
+00:04:05,073 --> 00:04:08,810
+( <i>air fan goes on</i> )
+
+00:04:09,778 --> 00:04:10,879
+( <i>beep</i> )
+
+00:04:10,946 --> 00:04:12,181
+( <i>sighs</i> )
+
+00:04:12,247 --> 00:04:14,016
+Enough with the...
+
+00:04:14,082 --> 00:04:16,618
+Enough with the damn light!
+
+00:04:16,685 --> 00:04:19,488
+( <i>panting</i> )
+
+00:04:21,023 --> 00:04:23,325
+( <i>sighs</i> )
+
+00:04:32,668 --> 00:04:35,404
+( <i>low whirring</i> )
+
+00:04:39,975 --> 00:04:41,977
+( <i>sighs</i> )
+
+00:04:46,048 --> 00:04:47,149
+( <i>low humming</i> )
+
+00:04:47,216 --> 00:04:48,917
+No.
+
+00:04:52,821 --> 00:04:54,323
+The fan's connected...
+
+00:04:54,389 --> 00:04:57,392
+The fan's connected
+to the light.
+
+00:04:57,459 --> 00:04:58,994
+( <i>sighs</i> )
+
+00:05:27,656 --> 00:05:29,725
+♪ ♪
+
+00:05:35,330 --> 00:05:37,432
+♪ ♪
+
+00:06:11,233 --> 00:06:13,802
+( <i>sighs</i> )
+
+00:06:21,109 --> 00:06:22,477
+( <i>air fan stops</i> )
+
+00:06:22,544 --> 00:06:24,546
+No.
+
+00:06:26,148 --> 00:06:28,684
+( <i>panting</i> )
+
+00:06:39,228 --> 00:06:41,430
+( <i>groans softly</i> )
+
+00:06:52,207 --> 00:06:54,443
+( <i>panting</i> )
+
+00:07:03,886 --> 00:07:05,087
+( <i>groans</i> )
+
+00:07:05,153 --> 00:07:07,723
+( <i>panting</i> )
+
+00:07:32,114 --> 00:07:34,316
+What are you doing, Nicky?
+
+00:07:35,817 --> 00:07:38,420
+( <i>groans</i> )
+
+00:07:46,461 --> 00:07:49,198
+What are you doing, Nicky?
+
+00:07:54,336 --> 00:07:56,371
+Don't do it, Nicky!
+
+00:08:09,184 --> 00:08:09,985
+( <i>gunshots, groan</i> )
+
+00:08:12,087 --> 00:08:14,957
+You son of a bitch!
+
+00:08:17,192 --> 00:08:18,760
+( <i>Nick laughing</i> )
+
+00:08:18,827 --> 00:08:20,229
+( <i>panting</i> )
+
+00:08:20,295 --> 00:08:21,864
+( <i>laughing</i> )
+
+00:08:22,664 --> 00:08:26,735
+( <i>sighs, panting</i> )
+
+00:08:30,472 --> 00:08:32,774
+( <i>laughing</i> )
+
+00:08:34,643 --> 00:08:35,844
+Oh.
+
+00:08:37,446 --> 00:08:40,249
+You're still alive.
+
+00:09:05,875 --> 00:09:07,333
+JOHNSON:
+The light and the fan
+must have been running
+
+00:09:07,333 --> 00:09:08,434
+off the same battery.
+
+00:09:09,041 --> 00:09:10,809
+Well, at least
+Nicky's keeping it together.
+
+00:09:10,876 --> 00:09:12,211
+That's good.
+
+00:09:12,277 --> 00:09:14,046
+What about the Web cam trace?
+
+00:09:14,112 --> 00:09:16,215
+Signal's running
+through an anonymizer.
+
+00:09:16,281 --> 00:09:18,784
+Different ISP each time
+we click the button.
+
+00:09:18,851 --> 00:09:21,487
+I think I've got a handle
+on the pattern. Getting closer.
+
+00:09:23,589 --> 00:09:25,591
+( <i>water splashing</i> )
+
+00:09:27,993 --> 00:09:29,361
+Sara?
+
+00:09:29,428 --> 00:09:31,530
+I got something off your thumb.
+
+00:09:36,034 --> 00:09:37,369
+So when you struck out
+on prints,
+
+00:09:37,436 --> 00:09:38,804
+I ran DNA through CODIS,
+
+00:09:38,871 --> 00:09:40,806
+hoping maybe the guy
+was in the system
+
+00:09:40,873 --> 00:09:42,708
+off an open case
+or a prior felony.
+
+00:09:42,774 --> 00:09:44,143
+I got no straight-up
+match, but...
+
+00:09:44,209 --> 00:09:45,511
+But you got a moderate
+
+00:09:45,577 --> 00:09:47,079
+stringency match
+for a Kelly Gordon.
+
+00:09:47,146 --> 00:09:49,047
+Yeah, seven alleles in common,
+
+00:09:49,114 --> 00:09:50,449
+and based on the age,
+
+00:09:50,516 --> 00:09:51,683
+I'd say it was his daughter.
+
+00:09:51,750 --> 00:09:53,552
+Good work, Mia.
+
+00:09:53,619 --> 00:09:56,188
+SIDLE:
+Kelly Gordon
+
+00:09:56,255 --> 00:09:58,891
+is currently in state
+prison serving year three
+
+00:09:58,957 --> 00:10:01,960
+of a five-year sentence
+for accessory to murder.
+
+00:10:10,235 --> 00:10:13,205
+The address of her crime scene
+is 625 Viking Circle.
+
+00:10:13,272 --> 00:10:14,773
+That's the same place
+where the messenger
+
+00:10:14,840 --> 00:10:16,508
+picked up the package.
+
+00:10:16,575 --> 00:10:18,577
+It wasn't random.
+
+00:10:29,054 --> 00:10:31,957
+Hey, baby, let's go.
+
+00:10:40,065 --> 00:10:41,867
+Hi. How ya doin'?
+
+00:10:44,709 --> 00:10:47,479
+( <i>two gunshots</i> )
+
+00:10:47,545 --> 00:10:50,682
+Neither was the Styrofoam cup.
+
+00:10:50,749 --> 00:10:52,041
+So at trial, you testified
+
+00:10:52,041 --> 00:10:54,143
+that you went
+with your boyfriend
+
+00:10:54,209 --> 00:10:55,778
+to visit a buddy of his.
+
+00:10:55,844 --> 00:10:57,880
+And when you went in the house,
+
+00:10:57,947 --> 00:11:00,049
+your boyfriend blew
+the guy away.
+
+00:11:00,115 --> 00:11:01,650
+He wasn't my boyfriend.
+
+00:11:01,717 --> 00:11:04,553
+I knew the guy two weeks.
+
+00:11:04,620 --> 00:11:06,188
+Why am I here?
+
+00:11:06,255 --> 00:11:07,656
+SIDLE:
+A Styrofoam cup
+
+00:11:07,723 --> 00:11:11,093
+with your DNA on it
+was found in that house.
+
+00:11:11,160 --> 00:11:14,229
+You claimed you dropped it
+running for your life.
+
+00:11:20,402 --> 00:11:23,105
+My word against a cup,
+
+00:11:23,172 --> 00:11:24,773
+and the next five years,
+
+00:11:24,840 --> 00:11:28,177
+I'm being traded for cigarettes
+by my cell mate.
+
+00:11:30,145 --> 00:11:33,449
+You're not reopening my case.
+
+00:11:35,150 --> 00:11:37,086
+What do you want?
+
+00:11:37,152 --> 00:11:38,854
+Your father took
+it pretty hard.
+
+00:11:38,921 --> 00:11:41,724
+He was an aerospace
+engineer, right?
+
+00:11:41,790 --> 00:11:44,326
+Good with explosives?
+
+00:11:44,393 --> 00:11:47,496
+So, this is about my dad?
+
+00:11:47,563 --> 00:11:48,864
+( <i>sighs</i> )
+
+00:11:48,931 --> 00:11:50,933
+You know, we got
+your visitors log.
+
+00:11:52,868 --> 00:11:54,603
+Your father stopped
+coming to see you
+
+00:11:54,670 --> 00:11:56,705
+six weeks into your sentence.
+
+00:11:56,772 --> 00:11:59,942
+Seeing your daughter turned
+into some...
+
+00:12:01,343 --> 00:12:04,813
+...hood rat's lesbian sex slave
+can be rather emotional.
+
+00:12:06,415 --> 00:12:08,617
+Why did he come see you
+last week?
+
+00:12:09,652 --> 00:12:11,920
+Did you know
+what he was planning to do?
+
+00:12:11,987 --> 00:12:13,122
+I don't know.
+
+00:12:13,188 --> 00:12:14,356
+What did he do?
+
+00:12:14,423 --> 00:12:16,792
+He kidnapped a
+friend of mine.
+
+00:12:16,859 --> 00:12:18,294
+A CSI.
+
+00:12:18,360 --> 00:12:20,396
+And then he blew himself up.
+
+00:12:20,462 --> 00:12:22,598
+Tried to take some
+cops with him.
+
+00:12:29,705 --> 00:12:31,974
+How many did he get?
+
+00:12:32,041 --> 00:12:33,208
+Hey, we're all still here.
+
+00:12:33,275 --> 00:12:34,410
+Nick is still
+missing.
+
+00:12:34,476 --> 00:12:35,411
+Who's Nick?
+
+00:12:35,477 --> 00:12:36,412
+The CSI is still
+
+00:12:36,478 --> 00:12:38,180
+missing.
+
+00:12:38,247 --> 00:12:40,249
+Do you know where he is?
+
+00:12:42,051 --> 00:12:43,218
+That's pretty funny--
+
+00:12:43,285 --> 00:12:45,287
+you guys not being able
+to find something.
+
+00:12:45,354 --> 00:12:46,889
+BRASS:
+Yeah, look,
+
+00:12:46,956 --> 00:12:48,591
+if you cooperate,
+
+00:12:48,657 --> 00:12:50,759
+we can get
+your sentence reduced.
+
+00:12:53,128 --> 00:12:55,130
+You know what I used to do
+before this?
+
+00:12:56,298 --> 00:12:59,401
+Back when I was alive?
+
+00:12:59,468 --> 00:13:02,004
+I used to grow things.
+
+00:13:02,071 --> 00:13:04,373
+Outside.
+
+00:13:05,441 --> 00:13:07,743
+I was studying horticulture.
+
+00:13:07,810 --> 00:13:10,946
+Flowers.
+
+00:13:11,013 --> 00:13:12,948
+My cell mate, Trish,
+
+00:13:13,015 --> 00:13:15,985
+gave me one for Valentine's day.
+
+00:13:18,454 --> 00:13:19,822
+Want to smell it?
+
+00:13:22,024 --> 00:13:25,327
+I hope your friend dies.
+
+00:13:31,542 --> 00:13:34,458
+♪ It was Christmas
+in Las Vegas ♪
+
+00:13:34,458 --> 00:13:37,761
+♪ When the locals
+take the town ♪
+
+00:13:37,828 --> 00:13:40,464
+♪ Teresa hit a streak ♪
+
+00:13:40,530 --> 00:13:44,801
+♪ And laid
+her waitress apron down ♪
+
+00:13:44,868 --> 00:13:48,104
+♪ She was playing penny poker ♪
+
+00:13:48,171 --> 00:13:51,741
+♪ Over at the old Gold Spike ♪
+
+00:13:51,808 --> 00:13:54,544
+♪ She tired of Texas Hold 'Em ♪
+
+00:13:54,611 --> 00:13:57,914
+♪ So she switched
+to Let It Ride... ♪
+
+00:14:07,457 --> 00:14:10,560
+( <i>indistinct police radio</i>
+<i>transmissions</i> )
+
+00:14:51,234 --> 00:14:54,004
+Hey, I found a trigger wire.
+
+00:14:54,070 --> 00:14:55,338
+Maybe...
+once we reassemble
+
+00:14:55,405 --> 00:14:57,174
+all the components,
+we'll be able to tell
+
+00:14:57,240 --> 00:14:58,742
+where the bomb came from.
+Maybe...
+
+00:14:58,809 --> 00:15:00,610
+Yeah, maybe, maybe, maybe.
+
+00:15:00,677 --> 00:15:01,912
+Maybe if
+we count up
+
+00:15:01,978 --> 00:15:04,281
+all the damn "maybes,"
+maybe Nick will be alive!
+
+00:15:04,347 --> 00:15:07,751
+You know what
+I'm saying?!
+
+00:15:07,818 --> 00:15:08,819
+Was that necessary?
+
+00:15:08,885 --> 00:15:09,920
+Never mind my clothes.
+
+00:15:09,986 --> 00:15:11,054
+Look at the evidence.
+
+00:15:11,121 --> 00:15:12,889
+Damn it.
+
+00:15:14,157 --> 00:15:17,761
+Sorry, Greg.
+I'll go talk to him.
+
+00:15:19,496 --> 00:15:23,166
+Hey, Warrick, hey.
+
+00:15:23,233 --> 00:15:25,235
+Hey, how you holding up?
+
+00:15:25,302 --> 00:15:27,504
+I'm not.
+
+00:15:27,571 --> 00:15:29,506
+I know.
+
+00:15:29,573 --> 00:15:30,974
+I just can't help but thinking
+
+00:15:31,041 --> 00:15:33,577
+that could have been me
+in that box, you know?
+
+00:15:33,643 --> 00:15:35,679
+We flipped a coin
+for that trash run.
+
+00:15:35,745 --> 00:15:38,815
+Hey, Nick is not inside a box
+because of the flip of a coin.
+
+00:15:38,882 --> 00:15:41,184
+If that was me,
+I would have...
+
+00:15:41,251 --> 00:15:42,719
+Hey, you know what?
+
+00:15:42,786 --> 00:15:43,987
+I know you.
+
+00:15:44,054 --> 00:15:45,822
+I don't believe that.
+
+00:15:45,889 --> 00:15:47,424
+Okay?
+
+00:15:47,491 --> 00:15:49,326
+No. You're wrong.
+
+00:15:49,392 --> 00:15:52,863
+I wouldn't have
+lasted this far.
+
+00:15:52,929 --> 00:15:54,598
+Catherine, if something
+happens to Nick,
+
+00:15:54,664 --> 00:15:56,466
+if we don't bring him
+back in one piece...
+
+00:15:56,533 --> 00:15:59,102
+SANDERS:
+Hey, guys, come here.
+
+00:15:59,169 --> 00:16:01,037
+I found something.
+
+00:16:04,241 --> 00:16:05,909
+Look at this.
+
+00:16:13,116 --> 00:16:15,719
+There's something
+underneath there.
+
+00:16:23,760 --> 00:16:24,828
+Oh, it's got an edge
+right here.
+
+00:16:24,895 --> 00:16:26,129
+All right.
+
+00:16:26,196 --> 00:16:27,330
+Another one over here.
+
+00:16:27,397 --> 00:16:29,199
+WILLOWS:
+Greg, get
+some crowbars.
+
+00:16:33,603 --> 00:16:36,106
+SANDERS:
+Do you think Nick
+could be under here?
+
+00:16:36,173 --> 00:16:37,274
+I don't know, man.
+
+00:16:37,340 --> 00:16:40,544
+It would have to be
+at least six feet long.
+
+00:16:40,610 --> 00:16:43,980
+( <i>grunting</i> )
+
+00:16:48,118 --> 00:16:50,454
+Yeah, but if he buried
+him lengthwise--
+
+00:16:50,520 --> 00:16:52,322
+and who's to
+say he didn't--
+
+00:16:52,389 --> 00:16:54,558
+he could be.
+
+00:17:07,471 --> 00:17:09,473
+( <i>scraping, gravel falling</i> )
+
+00:17:25,088 --> 00:17:26,523
+Hey!
+
+00:17:31,261 --> 00:17:32,829
+I'm in here!
+
+00:17:32,896 --> 00:17:34,498
+( <i>creaking</i> )
+
+00:17:34,564 --> 00:17:35,866
+Hey!
+
+00:17:35,932 --> 00:17:39,302
+♪ It was Christmas
+in Las Vegas ♪
+
+00:17:39,369 --> 00:17:40,704
+♪ When the locals
+take the town... ♪
+
+00:17:40,770 --> 00:17:41,772
+( <i>gravel falling</i> )
+
+00:17:41,838 --> 00:17:43,673
+♪ Teresa hit a streak ♪
+
+00:17:43,740 --> 00:17:46,943
+♪ And laid
+her waitress apron down... ♪
+
+00:17:49,579 --> 00:17:50,847
+I hit something.
+
+00:17:50,914 --> 00:17:52,549
+( <i>thumping with shovel</i> )
+
+00:17:54,251 --> 00:17:57,420
+♪ She was playing penny poker ♪
+
+00:17:57,487 --> 00:18:00,257
+♪ Over at
+the old Gold Spike... ♪
+
+00:18:09,266 --> 00:18:11,067
+I'm here.
+
+00:18:11,134 --> 00:18:13,537
+It's Plexiglas.
+
+00:18:13,603 --> 00:18:15,472
+Nick!
+Nick?
+
+00:18:15,539 --> 00:18:17,340
+Hey, I'm right here!
+
+00:18:17,407 --> 00:18:19,409
+WARRICK:
+Nick, hold on there, buddy!
+
+00:18:20,811 --> 00:18:23,013
+Nick?
+
+00:18:30,086 --> 00:18:31,988
+WILLOWS:
+It's a dog.
+
+00:18:34,291 --> 00:18:36,793
+It's a dog.
+
+00:18:40,997 --> 00:18:43,967
+( <i>panting</i> )
+
+00:18:44,034 --> 00:18:46,536
+( <i>Plexiglas cracking</i> )
+
+00:18:46,603 --> 00:18:50,740
+( <i>cracking continues</i> )
+
+00:18:50,807 --> 00:18:53,577
+( <i>panting</i> )
+
+00:18:53,643 --> 00:18:55,579
+( <i>softly</i> ):
+Stop, stop...
+
+00:18:55,645 --> 00:18:58,048
+( <i>cracking continues</i> )
+
+00:18:58,115 --> 00:18:59,983
+( <i>quietly</i> ):
+Oh, my God.
+
+00:19:00,050 --> 00:19:03,920
+( <i>owl hooting</i> )
+
+00:19:31,982 --> 00:19:34,885
+♪ ♪
+
+00:20:20,397 --> 00:20:23,800
+( <i>cracking,</i>
+<i>dirt slowly pouring</i> )
+
+00:20:36,146 --> 00:20:40,350
+( <i>clicks recorder button</i> )
+
+00:20:41,041 --> 00:20:44,811
+My name is Nick Stokes.
+
+00:20:44,878 --> 00:20:47,314
+If anyone... finds this tape,
+
+00:20:47,380 --> 00:20:50,984
+turn it in
+to the Las Vegas... PD.
+
+00:20:51,051 --> 00:20:53,553
+There should be a reward.
+
+00:21:03,530 --> 00:21:05,165
+Mom,
+
+00:21:05,232 --> 00:21:08,235
+( <i>voice cracking</i> ):
+Sisko...
+
+00:21:10,570 --> 00:21:12,672
+...well, this is a lousy way
+to say good-bye,
+
+00:21:12,739 --> 00:21:14,908
+but it's all I got.
+
+00:21:19,546 --> 00:21:21,348
+I love you.
+
+00:21:21,415 --> 00:21:25,185
+You raised me right...
+
+00:21:25,252 --> 00:21:29,923
+and I'm going to miss you.
+
+00:21:33,260 --> 00:21:36,129
+As for the rest of you guys,
+
+00:21:36,196 --> 00:21:39,466
+I know you did
+the best you could to find me.
+
+00:21:47,707 --> 00:21:50,577
+Grissom...
+
+00:21:59,786 --> 00:22:03,323
+No, you never did, Nick.
+
+00:22:18,305 --> 00:22:20,340
+He's going into convulsions.
+
+00:22:20,407 --> 00:22:22,642
+He's losing it.
+
+00:22:26,847 --> 00:22:28,849
+What's going on?
+
+00:22:28,915 --> 00:22:30,617
+Wha...?
+
+00:22:33,520 --> 00:22:36,456
+Wait a minute.
+
+00:22:43,697 --> 00:22:45,499
+Ants.
+
+00:22:47,501 --> 00:22:49,803
+My God, he's being eaten alive.
+
+00:22:49,870 --> 00:22:53,807
+( <i>agonized screaming</i> )
+
+00:22:58,745 --> 00:23:01,381
+( <i>ants chittering</i> )
+
+00:23:08,188 --> 00:23:10,190
+( <i>groaning</i> )
+
+00:23:15,595 --> 00:23:17,264
+( <i>groaning</i> )
+
+00:23:31,044 --> 00:23:33,046
+( <i>cloth tearing</i> )
+
+00:23:50,417 --> 00:23:53,287
+That's it, Nicky.
+
+00:23:53,353 --> 00:23:55,834
+Stay still.
+
+00:23:55,834 --> 00:23:58,337
+They won't bite.
+
+00:23:58,403 --> 00:24:00,772
+As much.
+
+00:24:00,839 --> 00:24:02,908
+This has got
+to be a prototype.
+
+00:24:02,975 --> 00:24:05,744
+It was probably built to test
+
+00:24:05,811 --> 00:24:08,613
+how long he could keep
+somebody alive inside.
+
+00:24:18,623 --> 00:24:20,292
+Now, what are those?
+
+00:24:20,359 --> 00:24:22,828
+I don't know.
+
+00:24:27,265 --> 00:24:29,067
+All right,
+
+00:24:29,134 --> 00:24:30,636
+based on this battery
+
+00:24:30,702 --> 00:24:32,404
+and what's running off of it,
+
+00:24:32,471 --> 00:24:34,840
+and the fact that
+we kept the damn light on
+
+00:24:34,906 --> 00:24:36,775
+for as long as we did,
+
+00:24:36,842 --> 00:24:40,245
+I figure Nick's got another
+90 minutes left in there.
+
+00:24:45,017 --> 00:24:46,351
+( <i>beeps</i> )
+
+00:24:46,418 --> 00:24:48,787
+GRISSOM:
+Oh, come on, pal.
+
+00:24:48,854 --> 00:24:49,888
+Yeah.
+
+00:24:49,955 --> 00:24:52,924
+That's it.
+
+00:24:52,991 --> 00:24:54,626
+Come on.
+
+00:24:58,997 --> 00:25:01,466
+Little more.
+
+00:25:03,535 --> 00:25:05,570
+Keep coming.
+
+00:25:07,939 --> 00:25:10,575
+Show me what you're made of.
+
+00:25:10,642 --> 00:25:13,612
+Come on, buddy.
+
+00:25:14,780 --> 00:25:15,881
+Gotcha.
+
+00:25:41,273 --> 00:25:44,676
+<i>Solenopsis invicta.</i>
+
+00:25:44,743 --> 00:25:46,511
+They're fire ants,
+very rare in Nevada.
+
+00:25:46,578 --> 00:25:47,713
+They don't like our soil.
+
+00:25:47,779 --> 00:25:49,614
+The only places
+you find them around Vegas
+
+00:25:49,681 --> 00:25:51,283
+are in plant
+and tree nurseries.
+
+00:25:51,350 --> 00:25:53,885
+There's 11 nurseries in
+the greater Las Vegas area.
+
+00:25:53,952 --> 00:25:57,189
+Okay, I've got the Web cam trace
+down to here.
+
+00:25:57,255 --> 00:25:59,091
+And the data
+from the black box
+
+00:25:59,157 --> 00:26:00,392
+in Walter Gordon's truck
+
+00:26:00,459 --> 00:26:03,095
+gave us a 23-mile
+travel radius.
+
+00:26:03,161 --> 00:26:07,532
+Okay, I've got two nurseries
+within the overlap area.
+
+00:26:07,599 --> 00:26:10,202
+Here and here.
+
+00:26:10,268 --> 00:26:11,803
+SIDLE:
+Wait, wait.
+wait, wait.
+
+00:26:11,870 --> 00:26:15,040
+Kelly Gordon, the daughter,
+worked with plants.
+
+00:26:15,107 --> 00:26:17,142
+Hold on. Hold on.
+
+00:26:37,195 --> 00:26:40,799
+You guys,
+Nick is here.
+
+00:26:46,905 --> 00:26:50,142
+( <i>sirens blaring</i> )
+
+00:27:37,255 --> 00:27:40,359
+You said on the phone
+you had a fire ant mound.
+
+00:27:40,425 --> 00:27:41,360
+Where is it?
+
+00:27:41,426 --> 00:27:42,561
+People usually
+prefer
+
+00:27:42,628 --> 00:27:44,229
+to stay away from it.
+
+00:27:52,771 --> 00:27:54,072
+All right, look.
+Fan out.
+
+00:27:54,139 --> 00:27:55,340
+Look for loose soil.
+
+00:27:55,407 --> 00:27:57,609
+Anything that might've
+been dug up recently.
+
+00:27:57,676 --> 00:27:59,077
+That's the whole place.
+
+00:27:59,144 --> 00:28:01,446
+( <i>indistinct shouting</i> )
+
+00:28:07,319 --> 00:28:11,223
+( <i>electronic humming</i> )
+
+00:28:13,725 --> 00:28:16,528
+( <i>all talking</i> )
+
+00:28:24,736 --> 00:28:26,138
+( <i>loud, squeaky static</i> )
+
+00:28:26,204 --> 00:28:27,739
+Hey!
+
+00:28:27,806 --> 00:28:31,510
+I'm picking up
+the Web cam transmitter.
+
+00:28:31,576 --> 00:28:34,546
+MAN:
+She's got something!
+Move! Move!
+
+00:28:37,749 --> 00:28:39,951
+( <i>beeping</i> )
+
+00:28:52,764 --> 00:28:54,099
+( <i>thump</i> )
+
+00:29:01,740 --> 00:29:05,544
+( <i>rapid beeping</i> )
+
+00:29:14,386 --> 00:29:17,055
+This is it! I found it!
+
+00:29:17,122 --> 00:29:19,725
+It's here.
+
+00:29:19,791 --> 00:29:22,327
+I found it!
+This is it!
+
+00:29:24,963 --> 00:29:26,765
+Nick!
+
+00:29:26,832 --> 00:29:28,734
+Nick, we're here. Hang on!
+
+00:29:28,800 --> 00:29:31,670
+( <i>echoing</i> ):
+Nicky!
+
+00:29:31,737 --> 00:29:33,238
+( <i>groaning</i> )
+
+00:29:42,881 --> 00:29:45,517
+( <i>heart beating</i> )
+
+00:29:52,750 --> 00:29:54,952
+It's a damn shame they
+didn't get to him sooner.
+
+00:29:55,019 --> 00:29:57,588
+PHILLIPS:
+I sure will
+miss him.
+
+00:29:57,655 --> 00:30:01,325
+You know, David,
+I've seen fire ant bites
+
+00:30:01,392 --> 00:30:03,794
+in my time, but never
+anything like this.
+
+00:30:03,861 --> 00:30:07,131
+Do you think
+
+00:30:07,198 --> 00:30:08,332
+he suffered?
+
+00:30:08,399 --> 00:30:11,135
+Do I think
+he suffered?
+
+00:30:11,202 --> 00:30:13,637
+Yes.
+Definitely.
+
+00:30:13,704 --> 00:30:17,808
+( <i>laughing</i> )
+
+00:30:17,875 --> 00:30:20,811
+All right.
+( <i>clears throat</i> )
+On three.
+
+00:30:20,878 --> 00:30:21,812
+<i>Uno...</i>
+
+00:30:21,879 --> 00:30:22,813
+<i>Dos...</i>
+
+00:30:22,880 --> 00:30:24,515
+<i>Tres!</i>
+<i>Tres!</i>
+
+00:30:24,582 --> 00:30:27,351
+♪ It was Christmas
+in Las Vegas... ♪
+
+00:30:27,418 --> 00:30:31,489
+All right. Would you care
+to do the "Y" incision?
+
+00:30:31,555 --> 00:30:34,091
+Well, "Y"
+
+00:30:34,158 --> 00:30:35,459
+not?
+
+00:30:35,526 --> 00:30:38,095
+♪ ...And laid her
+waitress apron down ♪
+
+00:30:38,162 --> 00:30:44,235
+♪ She was playing penny poker
+over at the old Gold Spike... ♪
+
+00:30:44,301 --> 00:30:46,537
+ROBBINS:
+Mind your
+hands and feet.
+
+00:30:46,604 --> 00:30:49,540
+( <i>saw whirring</i> )
+
+00:30:55,579 --> 00:31:00,684
+♪ ...She rode it up the strip
+to where the flashy hotels are ♪
+
+00:31:00,751 --> 00:31:02,319
+Yes...
+
+00:31:02,386 --> 00:31:05,689
+♪ At first she hit a royal,
+not a dirty one this time... ♪
+
+00:31:05,756 --> 00:31:06,790
+( <i>grunts</i> )
+
+00:31:09,260 --> 00:31:12,363
+He won't be needing
+this anymore.
+
+00:31:12,429 --> 00:31:14,598
+( <i>song continues</i> )
+
+00:31:14,665 --> 00:31:15,699
+Nice.
+
+00:31:15,766 --> 00:31:17,468
+A lung.
+
+00:31:17,535 --> 00:31:18,802
+JUDGE STOKES:
+So, Doc.
+
+00:31:18,869 --> 00:31:20,905
+How did my son die?
+
+00:31:20,971 --> 00:31:22,339
+Anaphylactic shock?
+
+00:31:22,406 --> 00:31:24,909
+No, no, he didn't live
+long enough for that.
+
+00:31:24,975 --> 00:31:27,111
+COD was
+asphyxiation.
+Oh.
+
+00:31:27,178 --> 00:31:28,412
+When the blood oxygen
+
+00:31:28,479 --> 00:31:31,749
+drops to less than 16%
+and the CO2 builds up,
+
+00:31:31,816 --> 00:31:33,751
+there's a rapid loss
+of consciousness.
+
+00:31:33,818 --> 00:31:35,319
+Death within minutes.
+
+00:31:35,386 --> 00:31:37,855
+With no disfiguring
+physical findings.
+
+00:31:37,922 --> 00:31:40,724
+He'll look great
+at the funeral.
+Oh, yes.
+
+00:31:40,791 --> 00:31:43,761
+His mother will
+appreciate that.
+Good.
+
+00:31:47,031 --> 00:31:48,599
+( <i>heart beating</i> )
+
+00:31:48,666 --> 00:31:51,101
+Your son had
+a good heart.
+
+00:32:20,965 --> 00:32:23,100
+( <i>beeping</i> )
+
+00:32:27,071 --> 00:32:29,273
+( <i>grunts</i> )
+
+00:32:29,340 --> 00:32:31,509
+( <i>sobbing</i> )
+
+00:32:37,014 --> 00:32:41,418
+( <i>screams weakly</i> )
+
+00:32:48,159 --> 00:32:50,227
+( <i>grunting</i> )
+
+00:32:52,062 --> 00:32:54,098
+I hit something.
+
+00:32:55,132 --> 00:32:56,367
+WILLOWS:
+We got you, Nicky.
+
+00:32:56,433 --> 00:32:58,435
+( <i>grunts</i> )
+
+00:33:00,905 --> 00:33:03,641
+( <i>screams weakly</i> )
+
+00:33:05,342 --> 00:33:07,878
+( <i>whimpering</i> )
+
+00:33:18,556 --> 00:33:20,524
+BROWN:
+Hey!
+
+00:33:20,591 --> 00:33:21,759
+Hey!
+
+00:33:21,826 --> 00:33:23,394
+We got you, man.
+
+00:33:23,460 --> 00:33:24,562
+Hey, Nicky!
+
+00:33:24,628 --> 00:33:26,697
+Nicky! Yeah. Hey, hold on there.
+
+00:33:26,764 --> 00:33:28,098
+Hey, put that down.
+
+00:33:28,165 --> 00:33:29,333
+Put that down.
+
+00:33:29,400 --> 00:33:30,668
+Put that down.
+We got you.
+
+00:33:30,734 --> 00:33:32,369
+We're gonna get
+you out of here.
+
+00:33:32,436 --> 00:33:33,704
+Hang in there.
+
+00:33:35,873 --> 00:33:36,974
+Oh, my God.
+
+00:33:37,041 --> 00:33:38,943
+We need that fire extinguisher!
+
+00:33:39,009 --> 00:33:40,978
+Give me that fire extinguisher.
+
+00:33:41,045 --> 00:33:42,980
+These ants are getting
+at him, man.
+
+00:33:43,047 --> 00:33:46,317
+( <i>indistinct voices</i> )
+
+00:33:53,290 --> 00:33:54,291
+Oh.
+
+00:33:54,358 --> 00:33:55,926
+GRISSOM:
+Short bursts, Greg.
+
+00:33:55,993 --> 00:33:57,761
+Don't suffocate him!
+
+00:34:03,567 --> 00:34:06,103
+Hang on, buddy.
+
+00:34:06,170 --> 00:34:08,072
+Hang on. Almost out of there.
+
+00:34:08,138 --> 00:34:10,140
+Get the paramedics!
+
+00:34:11,575 --> 00:34:13,511
+BROWN:
+Hang on. Hang on.
+
+00:34:13,577 --> 00:34:15,012
+We're gonna
+kill those ants.
+
+00:34:15,079 --> 00:34:16,947
+Okay?
+( <i>mumbles indistinctly</i> )
+
+00:34:18,782 --> 00:34:20,684
+Yeah.
+( <i>phone rings</i> )
+
+00:34:20,751 --> 00:34:22,686
+Willows.
+
+00:34:22,753 --> 00:34:24,155
+Yeah. Hey, boss...
+We found him.
+
+00:34:24,221 --> 00:34:25,356
+We're getting him out now.
+
+00:34:25,422 --> 00:34:26,657
+That's great. Wai-Wait.
+
+00:34:26,724 --> 00:34:28,225
+Don't-Don't hang up.
+Just-just listen.
+
+00:34:28,292 --> 00:34:29,260
+What? What?
+
+00:34:29,326 --> 00:34:30,375
+Those dimples on the bottom
+
+00:34:30,375 --> 00:34:31,166
+of the prototype;
+
+00:34:31,166 --> 00:34:34,750
+GCMS found traces
+of SEMTEX on each one.
+
+00:34:34,750 --> 00:34:35,751
+You got to be kidding me.
+
+00:34:35,818 --> 00:34:36,819
+BROWN:
+One, two,
+
+00:34:36,886 --> 00:34:37,887
+three.
+
+00:34:37,954 --> 00:34:39,222
+WILLOWS:
+Everyone out
+of the hole.
+
+00:34:39,288 --> 00:34:41,324
+That box is ready to explode!
+
+00:34:41,390 --> 00:34:42,558
+Are you kidding?
+
+00:34:42,625 --> 00:34:43,993
+WILLOWS:
+Get out of
+there now!
+
+00:34:44,060 --> 00:34:45,394
+I'm not leaving without Nick.
+
+00:34:45,461 --> 00:34:47,997
+WILLOWS:
+There are charges
+under the box!
+
+00:34:48,064 --> 00:34:50,533
+BROWN:
+I'm not leaving here
+without him.
+
+00:34:50,600 --> 00:34:52,502
+GRISSOM:
+Warrick,
+Catherine's right.
+
+00:34:52,568 --> 00:34:53,870
+Get out of
+the hole now.
+
+00:34:53,936 --> 00:34:55,037
+I know what
+we're gonna do.
+
+00:34:55,104 --> 00:34:56,239
+Just trust me.
+
+00:35:00,076 --> 00:35:01,177
+( <i>screaming</i> )
+
+00:35:01,244 --> 00:35:02,578
+Help!
+
+00:35:02,645 --> 00:35:04,647
+We need 200 pounds of dirt
+over here right now,
+
+00:35:04,714 --> 00:35:06,616
+and we're gonna use
+that backhoe to get it.
+
+00:35:08,117 --> 00:35:10,920
+( <i>muffled screaming</i> )
+
+00:35:12,221 --> 00:35:13,289
+( <i>muffled screaming</i> )
+
+00:35:13,356 --> 00:35:14,423
+Nick!
+
+00:35:14,490 --> 00:35:16,492
+Can you hear me?
+
+00:35:16,559 --> 00:35:18,761
+It's gonna take us a minute
+
+00:35:18,828 --> 00:35:21,697
+to get you out of there, okay?
+
+00:35:21,764 --> 00:35:23,933
+Nick!
+
+00:35:24,000 --> 00:35:26,436
+Poncho!
+
+00:35:26,502 --> 00:35:28,871
+Listen to me.
+
+00:35:30,273 --> 00:35:32,775
+Put your hand on my hand.
+
+00:35:35,711 --> 00:35:37,513
+Good.
+
+00:35:37,580 --> 00:35:39,248
+Now listen.
+
+00:35:39,315 --> 00:35:42,218
+There may be explosives
+under the box.
+
+00:35:42,285 --> 00:35:46,222
+They're probably set
+on pressure switches.
+
+00:35:51,194 --> 00:35:53,763
+We need to equalize
+your body weight
+
+00:35:53,830 --> 00:35:56,232
+before we can pull you out,
+okay?
+
+00:35:56,299 --> 00:36:01,104
+Poncho, nod your head
+if you understand me.
+
+00:36:05,775 --> 00:36:08,311
+Okay, we're gonna use
+the dirt from the backhoe
+
+00:36:08,377 --> 00:36:09,645
+to equalize his weight.
+
+00:36:09,712 --> 00:36:10,913
+I need a rope
+
+00:36:10,980 --> 00:36:12,181
+and a caribiner.
+
+00:36:12,248 --> 00:36:13,316
+MAN:
+You got it.
+
+00:36:13,382 --> 00:36:14,484
+All right, Poncho,
+
+00:36:14,550 --> 00:36:16,953
+we're gonna open the lid
+and get you out,
+
+00:36:17,019 --> 00:36:19,889
+but I need you
+to stay lying down.
+
+00:36:19,956 --> 00:36:21,090
+Okay?
+
+00:36:21,157 --> 00:36:22,959
+Or else you'll blow us all up.
+
+00:36:23,025 --> 00:36:24,494
+Do you understand that?
+
+00:36:24,560 --> 00:36:26,596
+STOKES:
+Yeah, yeah.
+
+00:36:26,662 --> 00:36:28,297
+Do you promise?
+
+00:36:31,167 --> 00:36:34,303
+Poncho, say, "I promise."
+
+00:36:34,370 --> 00:36:35,905
+I promise.
+
+00:36:35,972 --> 00:36:37,106
+Bring it over.
+
+00:36:37,173 --> 00:36:39,142
+This way.
+
+00:36:39,208 --> 00:36:40,543
+Don't move.
+
+00:36:44,147 --> 00:36:47,583
+( <i>sobbing</i> )
+
+00:36:47,650 --> 00:36:51,420
+I got you, I got you,
+
+00:36:51,487 --> 00:36:54,390
+I got you...
+I got you...
+
+00:36:54,457 --> 00:36:56,058
+Stay still.
+
+00:36:56,125 --> 00:36:59,695
+Stay still.
+
+00:36:59,762 --> 00:37:02,665
+( <i>panting</i> ):
+Okay, okay, okay.
+
+00:37:02,732 --> 00:37:05,301
+All right, bring that over.
+
+00:37:16,913 --> 00:37:18,314
+Okay, Poncho,
+
+00:37:18,381 --> 00:37:20,049
+I want you
+
+00:37:20,116 --> 00:37:22,385
+to close your eyes
+and hold your breath.
+
+00:37:22,452 --> 00:37:24,787
+Now!
+
+00:37:26,189 --> 00:37:28,057
+Ready?
+
+00:37:28,124 --> 00:37:28,825
+Go!
+
+00:37:30,026 --> 00:37:32,962
+( <i>explosion</i> )
+
+00:38:08,898 --> 00:38:11,701
+♪ ♪
+
+00:38:26,315 --> 00:38:29,185
+( <i>indistinct voices</i> )
+<i>over dispatch</i> )
+
+00:38:32,522 --> 00:38:34,557
+( <i>sighs</i> )
+
+00:38:36,159 --> 00:38:38,261
+I want my guys back.
+
+00:38:54,977 --> 00:38:57,880
+♪ ♪
+
+00:39:29,479 --> 00:39:31,414
+You the one?
+
+00:39:31,481 --> 00:39:33,649
+Yeah.
+
+00:39:33,716 --> 00:39:34,951
+( <i>clears throat</i> )
+
+00:39:35,017 --> 00:39:37,220
+Yeah, back at you.
+
+00:39:38,788 --> 00:39:40,823
+What do you want me to say?
+
+00:39:40,890 --> 00:39:42,658
+I'm sorry?
+
+00:39:42,725 --> 00:39:45,128
+No, you didn't
+do anything to me.
+
+00:39:46,829 --> 00:39:49,365
+And what your dad did, I...
+
+00:39:49,432 --> 00:39:51,734
+I guess it's 'cause
+he loves you so much.
+
+00:39:51,801 --> 00:39:52,935
+Hey, Kelly.
+
+00:39:53,002 --> 00:39:55,204
+Kelly.
+
+00:39:57,874 --> 00:39:59,876
+Pick it up.
+
+00:40:06,482 --> 00:40:08,484
+In a few years...
+
+00:40:09,752 --> 00:40:11,988
+when you get out of here...
+
+00:40:13,856 --> 00:40:15,858
+don't take it with you.
+
+00:40:21,564 --> 00:40:23,833
+That's it?
+
+00:40:23,900 --> 00:40:25,301
+Yeah.
+
+00:40:25,368 --> 00:40:27,870
+Yeah, that's it.
+
+00:40:27,937 --> 00:40:30,039
+We're done.
+
+00:40:30,106 --> 00:40:32,108
+( <i>sighs</i> )
+
+00:40:34,110 --> 00:40:35,278
+( <i>chuckles softly</i> )
+

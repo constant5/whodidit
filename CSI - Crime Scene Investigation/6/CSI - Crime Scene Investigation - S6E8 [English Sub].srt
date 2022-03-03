@@ -1,0 +1,2709 @@
+
+00:00:07,625 --> 00:00:09,126
+REPORTER:
+<i>This is Channel 8 News</i>
+<i>reporting with an update</i>
+
+00:00:09,193 --> 00:00:11,795
+<i>to yesterday's wild police</i>
+<i>pursuit and shootout</i>
+
+00:00:11,862 --> 00:00:14,031
+<i>where three suspects</i>
+<i>and one police officer</i>
+
+00:00:14,098 --> 00:00:17,067
+<i>were killed by gunfire</i>
+<i>at Third and Jefferson.</i>
+
+00:00:17,134 --> 00:00:19,103
+<i>Shortly after being taken</i>
+<i>into custody,</i>
+
+00:00:19,169 --> 00:00:20,504
+<i>Jose Fausto, the last suspect</i>
+
+00:00:20,571 --> 00:00:23,540
+<i>was gunned down</i>
+<i>by an unknown...</i>
+
+00:00:23,607 --> 00:00:25,576
+( <i>gunshot</i> )
+( <i>prisoner screams</i> )
+
+00:00:25,643 --> 00:00:27,544
+Down! Everybody down! Down!
+
+00:00:28,746 --> 00:00:30,414
+CAVALIERE:
+Somebody shot this guy
+
+00:00:30,481 --> 00:00:32,750
+in front of all these cops?
+
+00:00:32,816 --> 00:00:35,786
+They did not want him
+talking to us.
+
+00:00:35,853 --> 00:00:38,789
+This was not some
+doped up drive-by.
+
+00:00:38,856 --> 00:00:39,857
+The shooter had skill.
+
+00:00:39,924 --> 00:00:42,126
+Just one shot went through
+the ten ring.
+
+00:00:42,192 --> 00:00:44,929
+How'd they know
+Fausto was here?
+
+00:00:44,995 --> 00:00:46,797
+I don't know.
+
+00:00:46,864 --> 00:00:48,565
+I bet you he tried to reach out
+for help, you know?
+
+00:00:48,632 --> 00:00:50,935
+Maybe money or a ticket
+out of here.
+
+00:00:51,001 --> 00:00:52,236
+I'll check the phone records
+
+00:00:52,303 --> 00:00:53,904
+and see if there was any calls
+in or out.
+
+00:00:53,971 --> 00:00:55,973
+Glad I'm not Vartann.
+
+00:00:56,040 --> 00:00:57,141
+He's got to tell
+the UnderSheriff.
+
+00:00:57,207 --> 00:00:59,476
+MCKEEN:
+<i>Are you seriously</i>
+
+00:00:59,543 --> 00:01:01,979
+telling me
+our only live suspect,
+
+00:01:02,046 --> 00:01:04,081
+a cop killer, was gunned
+down in your custody?
+
+00:01:04,148 --> 00:01:05,382
+I'm sorry
+to say yes, sir.
+
+00:01:05,449 --> 00:01:06,650
+And you didn't catch
+the shooter?
+
+00:01:06,717 --> 00:01:07,685
+That's also correct, sir.
+
+00:01:07,751 --> 00:01:08,819
+Stop calling me sir,
+
+00:01:08,886 --> 00:01:10,588
+you worthless...
+( <i>sighs)</i>
+
+00:01:10,654 --> 00:01:12,756
+Where's Grissom?
+
+00:01:12,823 --> 00:01:13,691
+ECKLIE:
+He's on his way.
+
+00:01:13,757 --> 00:01:14,792
+All right, let's start
+without him.
+
+00:01:14,858 --> 00:01:16,260
+ORTEGA:
+Sergeant Adams and Officer Bell
+
+00:01:16,327 --> 00:01:19,163
+were making a routine traffic
+stop on a Buick.
+
+00:01:19,229 --> 00:01:21,065
+Before they were able
+to effect the stop,
+
+00:01:21,131 --> 00:01:23,067
+a stolen Caprice intervened.
+
+00:01:23,133 --> 00:01:26,036
+<i>Adams said they just cut him</i>
+<i>off and started firing.</i>
+
+00:01:27,571 --> 00:01:30,608
+<i>They were followed in pursuit</i>
+<i>by officers Davis and Carroll</i>
+
+00:01:30,674 --> 00:01:31,976
+<i>and detectives Brass</i>
+<i>and Curtis.</i>
+
+00:01:32,042 --> 00:01:34,511
+The, uh, Caprice TC'd
+during the pursuit.
+
+00:01:39,249 --> 00:01:40,718
+<i>And they just kept firing.</i>
+
+00:01:42,019 --> 00:01:43,988
+We got three of them
+off of prints.
+
+00:01:44,054 --> 00:01:46,190
+Priors for narcotics
+and connections
+
+00:01:46,257 --> 00:01:47,458
+to the Mexican Mafia.
+
+00:01:47,524 --> 00:01:50,094
+And additional set of prints
+from the Caprice
+
+00:01:50,160 --> 00:01:51,996
+came back to Jose Fausto,
+
+00:01:52,062 --> 00:01:53,631
+the guy shot
+at the motel.
+
+00:01:53,697 --> 00:01:54,932
+I've heard enough about him.
+
+00:01:54,999 --> 00:01:57,568
+Why would these knuckleheads
+pull in front of a police car
+
+00:01:57,635 --> 00:01:59,970
+making a traffic stop
+and engage us in a gunfight?
+
+00:02:00,037 --> 00:02:01,505
+If the Buick was moving drugs,
+
+00:02:01,572 --> 00:02:03,841
+maybe the Caprice was providing
+security,
+
+00:02:03,907 --> 00:02:05,876
+keeping the cops
+and rival gang members away.
+
+00:02:05,943 --> 00:02:07,144
+We don't have the Buick,
+
+00:02:07,211 --> 00:02:08,712
+so there's no evidence
+to confirm that.
+
+00:02:08,779 --> 00:02:10,748
+Well, if these guys were a bunch
+of drug-dealing thugs,
+
+00:02:10,814 --> 00:02:12,182
+why on the news
+were they unarmed
+
+00:02:12,249 --> 00:02:13,684
+and we shot 'em
+in the back?
+
+00:02:13,751 --> 00:02:15,586
+'Cause that's what
+the eyewitnesses are saying.
+
+00:02:17,454 --> 00:02:19,223
+And that we shot
+an innocent high school kid
+
+00:02:19,290 --> 00:02:20,591
+riding his bike.
+
+00:02:22,693 --> 00:02:27,164
+Uh, Ricardo Estevez,
+male Hispanic, 22,
+
+00:02:27,231 --> 00:02:29,900
+shot in the alley east of Third.
+
+00:02:29,967 --> 00:02:33,470
+<i>Three entrance wounds to the</i>
+<i>front torso, none to the back.</i>
+
+00:02:33,537 --> 00:02:37,641
+Ballistics matched the bullets
+to Sergeant Carroll's gun.
+
+00:02:37,708 --> 00:02:40,411
+Recovered a .45 auto
+next to the body.
+
+00:02:40,477 --> 00:02:44,048
+ORTEGA:
+Captain Brass states the suspect
+had it pointed at the sergeant
+
+00:02:44,114 --> 00:02:45,516
+when he came around
+the corner.
+
+00:02:45,582 --> 00:02:46,850
+We have eyewitnesses
+
+00:02:46,917 --> 00:02:49,186
+who claim that they saw the
+suspect with his hands raised
+
+00:02:49,253 --> 00:02:50,421
+<i>just before he was shot.</i>
+
+00:02:51,889 --> 00:02:53,257
+Can we resolve this?
+
+00:02:53,324 --> 00:02:55,693
+Sergeant Carroll
+
+00:02:55,759 --> 00:02:58,629
+partially confirms
+eyewitness accounts.
+
+00:02:58,696 --> 00:03:01,031
+When Captain Brass approached,
+
+00:03:01,098 --> 00:03:03,400
+he momentarily took his eyes
+off the suspect.
+
+00:03:03,467 --> 00:03:05,936
+When he looked back,
+the suspect was holding a gun.
+
+00:03:06,003 --> 00:03:07,438
+Probably pulled it
+from his waistband.
+
+00:03:07,504 --> 00:03:08,606
+There's no evidence
+
+00:03:08,672 --> 00:03:10,774
+to place the gun in the
+suspect's hand at that point.
+
+00:03:10,841 --> 00:03:12,309
+What about the guy
+in the other alley?
+
+00:03:13,677 --> 00:03:19,984
+Salvador Rosario, 19,
+also shot in the front.
+
+00:03:23,120 --> 00:03:24,822
+Autopsy's pending.
+
+00:03:24,888 --> 00:03:29,560
+Chemical tests show
+that he held a gun.
+
+00:03:29,627 --> 00:03:31,895
+You're not going
+to believe this.
+
+00:03:31,962 --> 00:03:37,401
+A bullet from Officer Davis'
+gun hit the suspect's revolver,
+
+00:03:37,468 --> 00:03:38,569
+jamming the cylinder.
+
+00:03:38,636 --> 00:03:40,104
+That would mean the revolver
+
+00:03:40,170 --> 00:03:42,239
+had to be pointing
+at Officer Davis.
+
+00:03:42,306 --> 00:03:45,709
+There are several eyewitnesses
+who claim that they saw him
+
+00:03:45,776 --> 00:03:47,111
+plant the gun on the body.
+
+00:03:47,177 --> 00:03:48,779
+It wasn't planted.
+It was mishandled.
+
+00:03:48,846 --> 00:03:50,114
+Mishandled by who?
+
+00:03:50,180 --> 00:03:51,548
+Contrary to policy,
+
+00:03:51,615 --> 00:03:54,551
+Officer Davis prematurely
+picked up the gun.
+
+00:03:54,618 --> 00:03:56,186
+<i>Detective Curtis instructed him</i>
+
+00:03:56,253 --> 00:03:58,188
+<i>to set it back down,</i>
+ <i>which he did.</i>
+
+00:03:58,255 --> 00:03:59,390
+What are you doing?
+Put it down.
+
+00:03:59,456 --> 00:04:01,425
+Sorry, I was just trying
+to secure his gun.
+
+00:04:01,492 --> 00:04:03,160
+An eyewitness seeing that
+
+00:04:03,227 --> 00:04:05,763
+certainly could misinterpret it
+as planting a gun.
+
+00:04:08,565 --> 00:04:12,903
+MCKEEN:
+Please tell me you've got some
+good news.
+
+00:04:12,970 --> 00:04:17,341
+I have the autopsy findings
+on Leandro Chavez.
+
+00:04:17,408 --> 00:04:19,343
+He died of survivable wounds.
+
+00:04:19,410 --> 00:04:20,744
+Bled out
+
+00:04:20,811 --> 00:04:22,947
+at the crime scene
+waiting for transport.
+
+00:04:24,615 --> 00:04:26,750
+<i>Dame una ambulanica quey.</i>
+
+00:04:26,817 --> 00:04:27,985
+I don't speak Spanish.
+
+00:04:28,052 --> 00:04:29,453
+There's justification for this.
+
+00:04:29,520 --> 00:04:31,322
+I can't wait to hear
+what that is.
+
+00:04:31,388 --> 00:04:34,058
+Paramedics prioritized
+transport of the injured.
+
+00:04:34,124 --> 00:04:35,593
+Downed officer first,
+
+00:04:35,659 --> 00:04:36,660
+civilians next.
+
+00:04:36,727 --> 00:04:38,429
+By the time
+they got to the suspect,
+
+00:04:38,495 --> 00:04:40,264
+he'd passed on.
+
+00:04:40,331 --> 00:04:42,633
+Just a little retroactive
+birth control.
+
+00:04:42,700 --> 00:04:44,802
+See, this is the problem
+that the community
+
+00:04:44,868 --> 00:04:46,170
+has with us.
+
+00:04:46,236 --> 00:04:48,539
+You don't speak Spanish, so you
+think they don't speak English
+
+00:04:48,606 --> 00:04:49,873
+and then when you run
+your mouth...
+
+00:04:49,940 --> 00:04:51,208
+All right, keep on point here.
+
+00:04:52,242 --> 00:04:55,346
+Which one of these buttheads
+shot Officer Bell?
+
+00:04:55,412 --> 00:04:58,282
+We have reason to believe
+that Officer Bell
+
+00:04:58,349 --> 00:05:00,184
+was killed by friendly fire.
+
+00:05:00,250 --> 00:05:02,553
+( <i>gunshots</i> )
+
+00:05:03,587 --> 00:05:05,055
+It was a through-and-through,
+
+00:05:05,122 --> 00:05:06,991
+and we haven't recovered
+the bullet yet.
+
+00:05:07,057 --> 00:05:08,158
+It's a big crime scene.
+
+00:05:08,225 --> 00:05:09,660
+Unacceptable.
+
+00:05:09,727 --> 00:05:11,996
+Get back out there
+and find that bullet.
+
+00:05:12,062 --> 00:05:13,564
+I don't care
+if it takes everybody you got
+
+00:05:13,631 --> 00:05:14,832
+working around the clock.
+
+00:05:14,898 --> 00:05:17,434
+I said we haven't found it <i>yet.</i>
+
+00:05:17,501 --> 00:05:20,037
+I didn't say we weren't looking.
+
+00:05:27,211 --> 00:05:29,813
+♪ Who... are you?
+
+00:05:29,880 --> 00:05:32,583
+♪ Who, who, who, who? ♪
+
+00:05:32,650 --> 00:05:36,020
+♪ Who... are you? ♪
+
+00:05:36,086 --> 00:05:37,821
+♪ Who, who, who, who? ♪
+
+00:05:37,888 --> 00:05:39,223
+♪ I really want to know ♪
+
+00:05:39,290 --> 00:05:42,026
+♪ Who... are you? ♪
+
+00:05:42,092 --> 00:05:44,495
+♪ Oh-oh-oh ! ♪
+♪ <i>Who... ♪</i>
+
+00:05:44,561 --> 00:05:47,431
+♪ Come on, tell me who are you,
+you, you ♪
+
+00:05:47,498 --> 00:05:49,600
+♪ Oh, you! ♪
+
+00:05:52,959 --> 00:05:54,293
+I'm supposed to do
+whatever it takes
+
+00:05:54,360 --> 00:05:55,394
+to find that bullet.
+
+00:05:55,461 --> 00:05:56,996
+Don't worry
+about the overtime.
+
+00:05:57,063 --> 00:05:59,098
+As soon as day shift
+comes in,
+
+00:05:59,165 --> 00:06:00,299
+I'll send them
+out, too.
+
+00:06:00,366 --> 00:06:01,400
+Hey, Grissom.
+
+00:06:01,467 --> 00:06:03,336
+So Warrick recovered
+a nine-millimeter pistol
+
+00:06:03,402 --> 00:06:06,539
+from Fausto's motel room,
+and I matched it to the
+cartridge case
+
+00:06:06,606 --> 00:06:07,873
+from the kid
+in the hospital.
+
+00:06:07,940 --> 00:06:09,675
+I also found
+the kid's bike there.
+
+00:06:10,977 --> 00:06:15,147
+Shot him in the back
+for his bike. Great.
+
+00:06:15,214 --> 00:06:16,449
+Hey.
+
+00:06:17,650 --> 00:06:19,752
+I left you a couple of messages.
+
+00:06:19,819 --> 00:06:23,189
+Oh, yeah... I haven't
+gotten to them yet.
+
+00:06:23,256 --> 00:06:24,757
+Sorry.
+
+00:06:24,824 --> 00:06:26,425
+You're on administrative leave,
+though.
+
+00:06:26,492 --> 00:06:27,927
+You should be home
+getting some rest.
+
+00:06:27,994 --> 00:06:29,595
+Yeah, I tried.
+
+00:06:29,662 --> 00:06:32,932
+But I...
+
+00:06:32,999 --> 00:06:37,103
+can't stop thinking about
+this... this Bell shooting.
+
+00:06:37,169 --> 00:06:39,872
+It's understandable.
+
+00:06:39,939 --> 00:06:42,642
+Grissom, I think
+there may be a possibility
+
+00:06:42,708 --> 00:06:46,979
+that maybe... I shot him.
+
+00:06:47,046 --> 00:06:51,217
+Sofia... we can't discuss
+the investigation.
+
+00:06:51,284 --> 00:06:53,786
+It's, it's something I remember
+when I was giving my statement.
+
+00:06:53,853 --> 00:06:54,587
+Then it's already
+on the record.
+
+00:06:54,654 --> 00:06:55,655
+No, something
+I didn't mention.
+
+00:06:55,721 --> 00:06:56,322
+Sofia...
+
+00:06:56,389 --> 00:06:57,356
+Please listen to me.
+
+00:06:59,225 --> 00:07:03,496
+Bell was between me
+and the suspect.
+
+00:07:03,562 --> 00:07:07,333
+I was shooting over his cover,
+which is a violation of policy.
+
+00:07:10,970 --> 00:07:15,107
+I was, I was just trying
+to stay alive.
+
+00:07:16,375 --> 00:07:17,343
+But if I did it, I...
+
+00:07:17,410 --> 00:07:19,779
+Hey, Grissom,
+I have a question.
+
+00:07:21,147 --> 00:07:22,782
+Sofia?
+
+00:07:24,317 --> 00:07:26,752
+You're on administrative leave.
+
+00:07:26,819 --> 00:07:28,421
+I know.
+
+00:07:28,487 --> 00:07:29,589
+You should not be
+in this building.
+
+00:07:29,655 --> 00:07:31,324
+I was just talking to a friend.
+
+00:07:31,390 --> 00:07:32,391
+If I can't talk to a friend,
+
+00:07:32,458 --> 00:07:34,026
+who the hell am I supposed
+to talk to?
+
+00:07:34,093 --> 00:07:35,995
+Any friend outside
+the department.
+
+00:07:36,062 --> 00:07:38,764
+And how many friends outside
+of work do you have, Sarah?
+
+00:07:38,831 --> 00:07:40,800
+Maybe I should go
+talk to my mother.
+
+00:07:40,866 --> 00:07:42,168
+Oh, no, sorry. I forgot.
+She's a cop, too.
+
+00:07:42,234 --> 00:07:44,637
+I can recommend a departmental
+psychologist.
+
+00:07:52,878 --> 00:07:53,846
+All right, then.
+
+00:07:53,913 --> 00:07:56,882
+This was a really bad idea.
+I'm sorry.
+
+00:08:17,103 --> 00:08:18,638
+Hey, listen.
+
+00:08:18,704 --> 00:08:20,840
+One of the officers
+searching for the shooter
+
+00:08:20,907 --> 00:08:23,843
+found an expended cartridge
+up there on the seventh floor.
+
+00:08:28,915 --> 00:08:30,583
+That would put him
+in the right position.
+
+00:08:30,650 --> 00:08:31,817
+Freemont Street's not far.
+
+00:08:31,884 --> 00:08:33,386
+It makes
+for an easy escape.
+
+00:08:41,060 --> 00:08:42,194
+Good job.
+
+00:08:55,841 --> 00:08:57,677
+Nice.
+
+00:09:14,594 --> 00:09:17,530
+.223 Remington.
+
+00:09:17,597 --> 00:09:19,265
+Most likely from a semiauto.
+
+00:09:19,332 --> 00:09:20,633
+Didn't even bother
+to pick it up.
+
+00:09:20,700 --> 00:09:23,069
+Yeah. Wasn't afraid
+of getting caught.
+
+00:09:23,135 --> 00:09:27,039
+I'll give it to Bobby.
+Have him run it through IBIS.
+
+00:09:27,106 --> 00:09:29,408
+See if the gun was used before.
+
+00:09:29,475 --> 00:09:32,612
+( <i>over radio</i> ):
+Vartann, this is Cavaliere.
+
+00:09:32,678 --> 00:09:35,581
+We've recovered an expended
+.223 cartridge case
+
+00:09:35,648 --> 00:09:38,050
+from a building
+overlooking the motel.
+
+00:09:38,117 --> 00:09:40,319
+It's on its way
+to the lab now.
+
+00:09:40,386 --> 00:09:41,687
+Scene here is secure.
+
+00:09:41,754 --> 00:09:43,055
+Patrol just called.
+
+00:09:43,122 --> 00:09:47,360
+They found a 411-A behind
+5203 Maryland Parkway.
+
+00:09:47,426 --> 00:09:49,262
+Sounds like it might be
+the Buick Regal.
+
+00:09:49,328 --> 00:09:50,963
+I'm going
+to head over there now.
+
+00:09:55,401 --> 00:09:58,237
+CAVALIERE:
+Buick Regal, no plates.
+
+00:09:58,304 --> 00:10:00,306
+You run the VIN?
+
+00:10:00,373 --> 00:10:02,441
+Yeah. It came
+up stolen.
+
+00:10:02,508 --> 00:10:05,511
+Yeah. It's a good chance this
+is the car we're looking for.
+
+00:10:08,681 --> 00:10:10,283
+Yep.
+
+00:10:10,349 --> 00:10:12,151
+Torched it to destroy
+any evidence.
+
+00:10:12,218 --> 00:10:15,788
+Let's get this thing
+towed back to the lab, okay?
+
+00:10:15,855 --> 00:10:17,456
+You got it.
+
+00:10:17,523 --> 00:10:20,326
+ORTEGA:
+Sergeant Adams,
+this is your standard
+
+00:10:20,393 --> 00:10:22,528
+after-shooting walk through,
+okay?
+
+00:10:22,595 --> 00:10:24,196
+Now I want you to describe to us
+
+00:10:24,263 --> 00:10:26,165
+exactly what happened
+yesterday morning.
+
+00:10:26,232 --> 00:10:29,001
+We were southbound
+on Roosevelt.
+
+00:10:29,068 --> 00:10:31,737
+Bell observed a male
+and female Hispanic
+
+00:10:31,804 --> 00:10:34,340
+having a domestic
+dispute.
+
+00:10:34,407 --> 00:10:35,908
+Where were they?
+
+00:10:35,975 --> 00:10:37,209
+Over in that last spot.
+
+00:10:37,276 --> 00:10:40,379
+<i>They got out</i>
+<i>of a green Geo Metro.</i>
+
+00:10:40,446 --> 00:10:42,815
+<i>Walked this way.</i>
+<i>By the time we'd turned</i>
+<i>around,</i>
+
+00:10:42,882 --> 00:10:44,684
+<i>they'd gotten</i>
+<i>into the Buick Regal.</i>
+
+00:10:44,750 --> 00:10:46,752
+They were driving away.
+
+00:10:46,819 --> 00:10:49,088
+She was pregnant,
+about to pop,
+
+00:10:49,155 --> 00:10:50,156
+just like Bell's wife.
+
+00:10:50,222 --> 00:10:51,457
+He said we should
+pull 'em over.
+
+00:10:51,524 --> 00:10:52,892
+Which way'd they go?
+
+00:10:52,959 --> 00:10:55,461
+Southbound on Roosevelt.
+
+00:10:55,528 --> 00:10:58,097
+As soon as we turned
+on Desert Springs,
+
+00:10:58,164 --> 00:10:59,465
+the Caprice cut us off.
+
+00:10:59,532 --> 00:11:00,466
+Okay, thanks.
+
+00:11:00,533 --> 00:11:02,535
+Hey, hang around
+for about a minute
+or two, okay?
+
+00:11:02,602 --> 00:11:03,669
+I'll give you
+a ride home.
+
+00:11:05,438 --> 00:11:06,806
+Your thoughts?
+
+00:11:06,872 --> 00:11:08,341
+I wonder if that camera works.
+
+00:11:10,776 --> 00:11:12,078
+Well, it's worth checking out.
+
+00:11:12,144 --> 00:11:13,512
+Come on. I'll even let you
+buy me a donut.
+
+00:11:37,470 --> 00:11:40,172
+I got to the end
+of my road.
+
+00:11:40,239 --> 00:11:42,942
+And?
+Well, the suspect
+started shooting
+
+00:11:43,009 --> 00:11:45,144
+near the intersection
+of Jefferson and Desert Springs.
+
+00:11:45,211 --> 00:11:49,148
+That's nearly 20 blocks north
+of the crime scene.
+
+00:11:49,215 --> 00:11:50,850
+All ammo evidence was
+
+00:11:50,917 --> 00:11:52,919
+7.62-millimeter
+casings and bullets.
+
+00:11:52,985 --> 00:11:54,353
+Only AK ammo?
+
+00:11:54,420 --> 00:11:56,689
+No police cartridge cases
+or bullets?
+
+00:11:56,756 --> 00:11:58,858
+Not one out of 233 items.
+
+00:11:58,925 --> 00:12:00,760
+But cops don't get
+to shoot car-to-car,
+
+00:12:00,826 --> 00:12:02,395
+only bad guys do, right?
+
+00:12:05,598 --> 00:12:07,600
+Oh, hey, Greg.
+Been on vacation?
+
+00:12:08,935 --> 00:12:11,037
+Look, I know the undersheriff's
+on your back,
+
+00:12:11,103 --> 00:12:13,205
+so I figured I better
+get to you quick.
+
+00:12:13,272 --> 00:12:14,907
+Okay, you got to me.
+
+00:12:14,974 --> 00:12:18,044
+Found red clay chips and dust
+
+00:12:18,110 --> 00:12:21,314
+in the gouges
+on Ricardo Estevez's .45.
+
+00:12:21,380 --> 00:12:22,815
+He was the guy
+
+00:12:22,882 --> 00:12:24,750
+that was in the east alley
+with Brass.
+
+00:12:24,817 --> 00:12:26,285
+Red clay chips?
+
+00:12:26,352 --> 00:12:28,955
+Traces consistent with
+roof tiles and clay pots.
+
+00:12:29,021 --> 00:12:30,623
+Who keeps their gun
+in a clay pot?
+
+00:12:30,690 --> 00:12:32,825
+That would be no one.
+
+00:12:32,892 --> 00:12:34,827
+Trace evidence is fresh,
+
+00:12:34,894 --> 00:12:37,129
+so it definitely
+came from the alley.
+
+00:12:37,196 --> 00:12:40,499
+In a crisis, you can
+always count on me.
+
+00:12:43,869 --> 00:12:45,805
+Doesn't he bug you?
+
+00:12:45,871 --> 00:12:48,808
+No more so than anyone else
+around here.
+
+00:13:18,104 --> 00:13:21,841
+Sara, will you come with me
+to the east alley, please?
+
+00:13:21,908 --> 00:13:24,143
+I thought my top priority
+as per the undersheriff
+
+00:13:24,210 --> 00:13:26,012
+was finding the bullet
+that went through Bell.
+
+00:13:26,078 --> 00:13:27,179
+Well, this is per me.
+
+00:13:27,246 --> 00:13:29,181
+Come on.
+It'll be fun.
+
+00:13:29,248 --> 00:13:30,883
+Okay.
+
+00:13:44,864 --> 00:13:46,465
+Sara?
+Yeah?
+
+00:13:46,532 --> 00:13:48,234
+Call Hodges at the lab.
+
+00:13:48,301 --> 00:13:51,003
+Have him bring
+two exemplar .45s out here.
+
+00:13:51,070 --> 00:13:54,206
+I'll get Ortega to bring
+Brass and Sergeant Carroll.
+
+00:13:54,273 --> 00:13:57,176
+Are... you gonna tell me
+what's going on?
+
+00:13:57,243 --> 00:14:00,613
+What goes up... must come down.
+
+00:14:05,834 --> 00:14:08,303
+So, where exactly
+was Estevez standing
+
+00:14:08,370 --> 00:14:10,939
+when you guys saw him?
+Right there,
+
+00:14:11,005 --> 00:14:12,674
+facing this way.
+That's right.
+
+00:14:12,741 --> 00:14:15,176
+And he had a gun in his hand.
+He had a gun
+in his hand.
+
+00:14:15,243 --> 00:14:16,811
+And I shot a, uh,
+armed suspect
+
+00:14:16,878 --> 00:14:18,480
+who'd been shooting
+at the police, sir.
+
+00:14:18,546 --> 00:14:19,881
+I believe you.
+
+00:14:19,948 --> 00:14:22,450
+But the witnesses
+may also be right.
+
+00:14:22,517 --> 00:14:24,352
+Look, don't make this
+some intellectual exercise
+
+00:14:24,419 --> 00:14:25,987
+for your own
+personal amusement.
+
+00:14:26,054 --> 00:14:28,390
+Check it out.
+Hodges, stand over here.
+
+00:14:28,456 --> 00:14:29,524
+Yes, sir.
+
+00:14:29,591 --> 00:14:30,925
+Right here.
+
+00:14:30,992 --> 00:14:32,193
+See that roof?
+
+00:14:34,863 --> 00:14:35,797
+It's red clay.
+
+00:14:35,864 --> 00:14:38,299
+Toss one of the guns up there.
+
+00:14:38,366 --> 00:14:41,836
+Actually,
+they're Bobby Dawson's guns.
+
+00:14:41,903 --> 00:14:43,505
+He made me sign
+for them-- I'm sure
+
+00:14:43,571 --> 00:14:45,874
+he wouldn't appreciate
+if we brought them back damaged.
+
+00:14:45,940 --> 00:14:48,843
+Technically, they're <i>myguns--</i>
+so toss one up there.
+
+00:14:51,079 --> 00:14:54,649
+Just for the record, I've never
+really been good at sports.
+
+00:14:54,716 --> 00:14:55,550
+Sara?
+
+00:14:55,617 --> 00:14:57,018
+Yeah.
+
+00:15:09,264 --> 00:15:11,966
+How does that prove
+the guy tossed the gun up there?
+
+00:15:12,033 --> 00:15:13,535
+You recovered it
+from the ground.
+
+00:15:13,601 --> 00:15:15,537
+There's a cracked tile
+up on the roof.
+
+00:15:15,603 --> 00:15:17,372
+I found a series of scratches
+
+00:15:17,439 --> 00:15:20,041
+stretching from the
+cracked tile to the
+end of the roof.
+
+00:15:20,108 --> 00:15:21,910
+I found scratches
+and red clay dust
+
+00:15:21,976 --> 00:15:23,411
+in the suspect's .45.
+
+00:15:23,478 --> 00:15:25,580
+GRISSOM:
+It explains how
+the witnesses
+
+00:15:25,647 --> 00:15:29,084
+could see Estevez with his hands
+up, and Sergeant Carroll
+
+00:15:29,150 --> 00:15:31,252
+then saw him with a gun
+in his hand.
+
+00:15:32,287 --> 00:15:34,422
+The gun's still up there.
+
+00:15:36,291 --> 00:15:38,660
+Sara...
+
+00:15:38,727 --> 00:15:40,729
+try it again.
+
+00:15:46,101 --> 00:15:47,068
+Stop! Police!
+
+00:15:47,135 --> 00:15:48,436
+Get down!
+
+00:15:48,503 --> 00:15:49,771
+Don't move.
+
+00:16:06,388 --> 00:16:08,656
+There you have it.
+
+00:16:08,723 --> 00:16:11,760
+WILLOWS:
+There's the Geo Metro.
+
+00:16:11,826 --> 00:16:14,496
+There's the Buick Regal.
+
+00:16:14,562 --> 00:16:17,532
+Oh, she's pregnant,
+all right.
+
+00:16:17,599 --> 00:16:20,435
+Doesn't look like she
+wants to go with him.
+
+00:16:20,502 --> 00:16:24,072
+He's not giving her
+much choice.
+
+00:16:24,139 --> 00:16:28,743
+So, just how bad was the meeting
+with the undersheriff?
+
+00:16:28,810 --> 00:16:31,079
+Worse than the dentist.
+
+00:16:31,146 --> 00:16:33,248
+Better than the proctologist.
+
+00:16:33,314 --> 00:16:34,983
+Mm.
+
+00:16:35,050 --> 00:16:37,619
+ECKLIE:
+What's he doing?
+
+00:16:37,685 --> 00:16:39,821
+Looks like he's pulling out
+a hide-a-key.
+
+00:16:43,158 --> 00:16:45,427
+ECKLIE:
+Means the car
+was waiting for them.
+
+00:16:45,493 --> 00:16:47,429
+Whatever they were about to do,
+
+00:16:47,495 --> 00:16:50,465
+they weren't going to do it
+in the Metro.
+
+00:16:58,339 --> 00:17:00,008
+WILLOWS:
+Hey, Nick?
+Hey.
+
+00:17:00,075 --> 00:17:02,444
+Have you checked the
+inside of the wheel wells?
+
+00:17:02,510 --> 00:17:04,913
+No. I was having
+too much fun in here.
+
+00:17:04,979 --> 00:17:06,181
+Oh, yeah, I can see that.
+
+00:17:06,247 --> 00:17:09,551
+Um, well...
+since you're already dirty,
+
+00:17:09,617 --> 00:17:12,887
+would you mind checking out
+the left rear one for me?
+
+00:17:12,954 --> 00:17:14,923
+Yeah, sure.
+Thank you.
+
+00:17:16,758 --> 00:17:18,460
+What are you looking for?
+
+00:17:18,526 --> 00:17:22,297
+I am looking for something
+to hide a key in.
+
+00:17:22,364 --> 00:17:26,501
+Okay. Although, most hide-a-keys
+are held on with a magnet,
+
+00:17:26,568 --> 00:17:28,103
+which would've been demagnetized
+
+00:17:28,169 --> 00:17:30,638
+by the heat
+of the gasoline fire.
+
+00:17:30,705 --> 00:17:32,741
+Right.
+
+00:17:32,807 --> 00:17:35,477
+Nope.
+Well,
+
+00:17:35,543 --> 00:17:37,312
+it probably fell off
+at the location.
+
+00:17:37,379 --> 00:17:41,783
+Maybe. Auto transport
+usually sweeps up the debris.
+
+00:17:41,850 --> 00:17:44,219
+Good luck with that.
+
+00:18:51,019 --> 00:18:53,822
+( <i>heart beating steadily</i> )
+
+00:19:03,064 --> 00:19:05,467
+( <i>gunshots</i> )
+
+00:19:07,302 --> 00:19:09,437
+( <i>heartbeat continues</i> )
+
+00:19:16,644 --> 00:19:20,048
+MAN:
+<i>My son was riding his bike</i>
+<i>to school.</i>
+
+00:19:20,115 --> 00:19:22,784
+<i>Today he's in a coma.</i>
+
+00:19:22,851 --> 00:19:25,587
+<i>But when he wakes up,</i>
+
+00:19:25,653 --> 00:19:31,526
+when he... opens his eyes again
+and smiles at his mother,
+
+00:19:31,593 --> 00:19:35,797
+he will see all the... flowers
+
+00:19:35,864 --> 00:19:38,733
+and cards that he's been sent
+from total strangers
+
+00:19:38,800 --> 00:19:41,302
+wishing him well and...
+
+00:19:41,369 --> 00:19:44,139
+praying for his recovery.
+
+00:19:44,205 --> 00:19:48,143
+Sheriff Burdick h-hasn't called.
+
+00:19:48,209 --> 00:19:51,713
+I've left so many messages
+I've lost count.
+
+00:19:51,780 --> 00:19:54,482
+It's inconvenient, I know,
+
+00:19:54,549 --> 00:19:57,285
+but I have questions.
+
+00:19:57,352 --> 00:19:59,688
+Who did this to my son?
+
+00:19:59,754 --> 00:20:02,957
+Why did they do it?
+
+00:20:03,024 --> 00:20:05,527
+No one wants to answer me?
+
+00:20:05,593 --> 00:20:08,663
+If the cops didn't shoot him,
+why won't they talk to me?
+
+00:20:08,730 --> 00:20:11,232
+If I have to go to court
+to find out,
+
+00:20:11,299 --> 00:20:14,135
+if I have to sue
+each and every officer involved,
+
+00:20:14,202 --> 00:20:15,470
+I'll do it.
+
+00:20:15,537 --> 00:20:18,640
+I will put the sheriff
+in front of a jury
+
+00:20:18,707 --> 00:20:20,275
+and get my answers there.
+
+00:20:20,341 --> 00:20:22,043
+( <i>phone rings</i> )
+
+00:20:25,013 --> 00:20:26,614
+McKeen.
+
+00:20:26,681 --> 00:20:29,617
+Yes, sir. I saw the news.
+
+00:20:29,684 --> 00:20:32,821
+I still think we should wait
+to issue a statement,
+
+00:20:32,887 --> 00:20:35,256
+at least until the lab
+has something concrete.
+
+00:20:35,323 --> 00:20:38,693
+Hodges, it's not so
+much that these guns
+are my babies, okay?
+
+00:20:38,760 --> 00:20:40,729
+It's just that in order
+to replace them,
+
+00:20:40,795 --> 00:20:43,565
+I got to go to Property,
+got to locate another gun,
+
+00:20:43,631 --> 00:20:46,401
+fill out all that paperwork,
+so all I'm saying is,
+I would appreciate
+
+00:20:46,468 --> 00:20:48,236
+not being left out
+of the loop, okay?
+
+00:20:48,303 --> 00:20:49,771
+I'm only a soldier in this war.
+
+00:20:49,838 --> 00:20:51,773
+The general gave me an order,
+and I followed it.
+
+00:20:51,840 --> 00:20:54,109
+DAWSON:
+Whatever.
+
+00:20:54,175 --> 00:20:55,844
+I've finished checking
+this batch for trace.
+
+00:20:55,910 --> 00:20:57,579
+Bobby, police said they entered
+
+00:20:57,645 --> 00:20:59,614
+my cartridge case
+from the sniper into IBIS.
+
+00:20:59,681 --> 00:21:01,883
+It has become my priority,
+or so I was informed
+
+00:21:01,950 --> 00:21:03,952
+by Under Sheriff McKeen--
+give me about an hour?
+
+00:21:04,018 --> 00:21:05,653
+Okay.
+
+00:21:17,332 --> 00:21:18,933
+I got blood.
+
+00:21:19,000 --> 00:21:21,436
+Where's it from?
+
+00:21:21,503 --> 00:21:23,171
+Expended bullet, Torres house,
+
+00:21:23,238 --> 00:21:25,774
+candle in the living room.
+That's our
+through-and-through.
+
+00:21:25,840 --> 00:21:28,043
+DAWSON:
+Looks like a copper-jacketed
+
+00:21:28,109 --> 00:21:29,411
+nine-millimeter,
+
+00:21:29,477 --> 00:21:31,646
+<i>consistent with cop ammo.</i>
+
+00:21:31,713 --> 00:21:33,615
+( <i>grunting</i> )
+
+00:21:39,187 --> 00:21:40,588
+Brass, Sofia,
+
+00:21:40,655 --> 00:21:43,992
+Adams, Davis and Carroll
+were all shooting nines.
+
+00:21:44,059 --> 00:21:45,827
+Compare it with their
+firearms ASAP.
+
+00:21:45,894 --> 00:21:47,562
+I'm gonna go
+tell Grissom.
+
+00:21:54,803 --> 00:21:56,604
+Looking for something?
+
+00:21:57,772 --> 00:22:00,742
+At least this car still has
+a nice hubcap.
+
+00:22:00,809 --> 00:22:02,077
+Where'd you find that?
+
+00:22:02,143 --> 00:22:05,413
+On the pursuit route, Jefferson,
+about ten blocks north of Third.
+
+00:22:05,480 --> 00:22:09,417
+Well, I've been through
+this car twice.
+
+00:22:09,484 --> 00:22:11,419
+There's no evidence
+of cartridge casings, blood,
+
+00:22:11,486 --> 00:22:12,987
+drugs of any kind.
+
+00:22:13,054 --> 00:22:15,090
+So there was nothing
+here to begin with,
+
+00:22:15,156 --> 00:22:17,425
+They cleaned it out pretty good
+before they torched it.
+
+00:22:17,492 --> 00:22:19,127
+Hey, Nick, Grissom.
+
+00:22:19,194 --> 00:22:21,262
+We found the through-
+and-through bullet.
+
+00:22:21,329 --> 00:22:22,397
+Bobby's doing a comparison.
+
+00:22:22,464 --> 00:22:24,466
+I sent a sample of blood to DNA.
+
+00:22:31,706 --> 00:22:33,375
+BRASS:
+Hey.
+
+00:22:37,212 --> 00:22:38,146
+I'm glad you called.
+
+00:22:38,213 --> 00:22:39,247
+I've been thinking
+about you.
+
+00:22:39,314 --> 00:22:41,416
+Good. Yeah,
+I wasn't sure.
+
+00:22:43,351 --> 00:22:44,419
+How you doing?
+
+00:22:46,721 --> 00:22:48,256
+I've gone a little crazy.
+
+00:22:48,323 --> 00:22:50,225
+Yeah. It's the waiting.
+
+00:22:52,861 --> 00:22:55,730
+You know, I've been
+suspended or disciplined
+
+00:22:55,797 --> 00:22:57,165
+like six or seven times,
+
+00:22:57,232 --> 00:23:00,101
+and it's always the same,
+the waiting.
+
+00:23:00,168 --> 00:23:02,570
+What you never forget is that
+
+00:23:02,637 --> 00:23:05,173
+you know, a police officer
+lost his life.
+
+00:23:09,511 --> 00:23:10,645
+( <i>gunshot</i> )
+
+00:23:10,712 --> 00:23:12,380
+I have seen it so many times,
+
+00:23:12,447 --> 00:23:14,082
+I don't know
+if it's real or not.
+
+00:23:15,784 --> 00:23:17,585
+Jim, it's like
+he's looking at me--
+
+00:23:17,652 --> 00:23:21,389
+like as if he... as if he knew.
+
+00:23:21,456 --> 00:23:24,659
+Sofia, you got to get it
+out of your head; that's poison.
+
+00:23:24,726 --> 00:23:27,195
+You telling me
+you're not thinking about it?
+
+00:23:27,262 --> 00:23:29,397
+Oh, I'm thinking; I'm thinking
+about a lot of stuff.
+
+00:23:46,815 --> 00:23:47,782
+Let me tell you something.
+
+00:23:47,849 --> 00:23:49,417
+You know, when I was a young cop
+
+00:23:49,484 --> 00:23:50,985
+in Jersey,
+there was this kid--
+
+00:23:51,052 --> 00:23:53,221
+responded to an
+all shots fired.
+
+00:23:53,288 --> 00:23:55,523
+Never got a radio call,
+never knew what hit him.
+
+00:23:55,590 --> 00:23:57,392
+I was the first officer
+on the scene--
+
+00:23:57,459 --> 00:23:59,928
+a patrolman, too.
+
+00:23:59,994 --> 00:24:02,364
+You know, it tore up the
+department pretty good.
+
+00:24:02,430 --> 00:24:05,633
+Everybody was all twisted and...
+
+00:24:05,700 --> 00:24:09,637
+but we managed somehow to...
+
+00:24:09,704 --> 00:24:11,940
+I don't know,
+get through it, some way.
+
+00:24:15,510 --> 00:24:16,945
+Who shot him?
+
+00:24:18,513 --> 00:24:20,315
+It really doesn't matter.
+
+00:24:24,586 --> 00:24:26,821
+It <i>does</i> matter.
+
+00:24:28,256 --> 00:24:30,492
+I could see Bell's face
+when I was shooting him,
+
+00:24:30,558 --> 00:24:34,129
+which means I was...
+I was shooting near him.
+
+00:24:34,195 --> 00:24:35,130
+I made a mistake.
+
+00:24:35,196 --> 00:24:36,431
+I shouldn't have fired.
+
+00:24:36,498 --> 00:24:38,099
+No, come on. It was chaos.
+
+00:24:38,166 --> 00:24:39,701
+You were just responding
+to a situation.
+
+00:24:39,768 --> 00:24:41,603
+It was instinct,
+it was training.
+
+00:24:41,669 --> 00:24:43,104
+No.
+
+00:24:43,171 --> 00:24:44,739
+Don't, don't
+think that way.
+
+00:24:59,821 --> 00:25:03,024
+I'm always going to be
+the cop who shot a cop.
+
+00:25:07,362 --> 00:25:09,230
+There's the green
+Geo Metro.
+
+00:25:09,297 --> 00:25:11,332
+Okay, you
+come with me.
+
+00:25:11,399 --> 00:25:12,400
+You two cover the back.
+
+00:25:12,467 --> 00:25:13,768
+Stay with her.
+
+00:25:19,007 --> 00:25:20,442
+( <i>knocking</i> )
+
+00:25:20,508 --> 00:25:21,843
+Police! We have
+a search warrant! Open up!
+
+00:25:24,412 --> 00:25:25,246
+Hey!
+
+00:25:26,448 --> 00:25:28,283
+Suspect on the run!
+
+00:25:42,530 --> 00:25:45,133
+He's gonna meet you here.
+Come on. Let's go.
+
+00:25:45,200 --> 00:25:46,134
+We have her, Detective.
+
+00:25:46,201 --> 00:25:47,369
+Wow. You had the baby
+
+00:25:47,435 --> 00:25:49,204
+and got your figure back
+in one day.
+
+00:25:49,270 --> 00:25:50,205
+That's impossible.
+
+00:25:50,271 --> 00:25:51,206
+Believe me, I know.
+
+00:25:51,272 --> 00:25:52,307
+My wife's had
+five kids.
+
+00:25:56,811 --> 00:25:58,546
+Oh, Tina, baby-- no.
+
+00:25:58,613 --> 00:26:01,216
+Peanut butter
+without the jelly?
+
+00:26:01,282 --> 00:26:04,386
+She's trying to get me
+to cut down on sugar.
+
+00:26:04,452 --> 00:26:05,487
+but this is ridiculous.
+
+00:26:05,553 --> 00:26:07,155
+Here.
+
+00:26:07,222 --> 00:26:09,891
+Thanks.
+
+00:26:11,493 --> 00:26:12,494
+Do you ever want to be a cop?
+
+00:26:12,560 --> 00:26:14,729
+Every time I get
+a speeding ticket, yeah.
+
+00:26:14,796 --> 00:26:17,165
+No, I mean like guns
+and car chases
+
+00:26:17,232 --> 00:26:19,734
+and "Put your back against
+the wall," that kind of stuff.
+
+00:26:19,801 --> 00:26:23,238
+No, I prefer the scientific side
+of law enforcement.
+
+00:26:23,304 --> 00:26:24,205
+Me, too.
+
+00:26:24,272 --> 00:26:26,174
+( <i>phone ringing</i> )
+
+00:26:30,512 --> 00:26:31,679
+Brown.
+
+00:26:31,746 --> 00:26:33,081
+Hey, Catherine.
+
+00:26:33,148 --> 00:26:34,749
+We got the couple
+driving the Buick.
+
+00:26:34,816 --> 00:26:36,217
+Female wasn't pregnant.
+
+00:26:36,284 --> 00:26:37,619
+She was a mule.
+
+00:26:37,685 --> 00:26:38,653
+Really.
+
+00:26:38,720 --> 00:26:42,223
+Found her rig for transporting
+narco inside the house,
+
+00:26:42,290 --> 00:26:45,727
+and unless these guys were
+in the mail order business,
+
+00:26:45,794 --> 00:26:47,729
+I think they were
+being shipped drugs.
+
+00:26:47,796 --> 00:26:49,230
+BROWN:
+And delivering them
+
+00:26:49,297 --> 00:26:50,899
+to the guys up the food chain.
+
+00:26:50,965 --> 00:26:51,900
+Yeah.
+
+00:26:51,966 --> 00:26:54,235
+You think these are the same
+guys who whacked Fausto?
+
+00:26:54,302 --> 00:26:56,237
+It's the best lead we've got.
+
+00:26:58,001 --> 00:26:59,770
+You were a passenger
+in a stolen vehicle
+
+00:26:59,836 --> 00:27:01,338
+that failed to yield
+to the police.
+
+00:27:01,405 --> 00:27:03,006
+We've also connected
+you to a drug ring
+
+00:27:03,073 --> 00:27:04,474
+which was responsible
+
+00:27:04,541 --> 00:27:08,745
+for the death of
+a police officer.
+
+00:27:10,333 --> 00:27:11,802
+Miss Guerro?
+
+00:27:14,037 --> 00:27:17,908
+You're looking at prison time,
+so think about it.
+
+00:27:17,974 --> 00:27:19,609
+Whatever you could tell
+us about these guys
+
+00:27:19,676 --> 00:27:21,545
+will be in your best interest.
+
+00:27:25,215 --> 00:27:28,285
+Surveillance footage
+from Angie's Donut Shop
+
+00:27:28,351 --> 00:27:30,754
+shows you
+carrying drugs
+
+00:27:30,821 --> 00:27:32,956
+and getting into
+the delivery car.
+
+00:27:33,023 --> 00:27:35,058
+That alone gets you ten years.
+
+00:27:36,393 --> 00:27:38,995
+Okay, this is
+your last chance
+
+00:27:39,062 --> 00:27:40,731
+for your client to
+help herself out.
+
+00:27:49,473 --> 00:27:51,108
+You don't understand.
+We had no choice.
+
+00:27:51,174 --> 00:27:52,509
+They would have killed us.
+
+00:27:52,576 --> 00:27:53,844
+Who would've killed you?
+
+00:27:53,910 --> 00:27:55,912
+There is nothing that
+you can do to me
+
+00:27:55,979 --> 00:27:57,748
+that is worse
+than what they can do.
+
+00:28:01,084 --> 00:28:02,018
+I'm done.
+
+00:28:02,085 --> 00:28:03,420
+I'm not talking no more.
+
+00:28:03,487 --> 00:28:05,956
+Mr. Contranos has served time
+for narcotics possession.
+
+00:28:06,022 --> 00:28:07,758
+He's been deported
+three times
+
+00:28:07,824 --> 00:28:09,025
+for entering
+the country illegally.
+
+00:28:09,092 --> 00:28:11,194
+This time, we're going
+to throw away the key.
+
+00:28:11,261 --> 00:28:13,897
+MAN:
+Mr. Contranos has no interest
+in speaking to you.
+
+00:28:13,964 --> 00:28:15,632
+We're talking about
+the difference between
+
+00:28:15,699 --> 00:28:17,401
+life without parole
+and the needle, here.
+
+00:28:17,467 --> 00:28:20,103
+He's prepared to do his time.
+
+00:28:26,510 --> 00:28:27,978
+Grissom, I managed
+to get a hit
+
+00:28:28,045 --> 00:28:30,113
+off of that sniper
+cartridge case.
+
+00:28:30,180 --> 00:28:33,717
+Links up to a drug rip-off
+in L.A. last year-- unsolved.
+
+00:28:33,784 --> 00:28:35,152
+What about the phone records
+from the motel?
+
+00:28:35,218 --> 00:28:37,921
+Fausto made one call about
+an hour before he died.
+
+00:28:37,988 --> 00:28:40,791
+We ran it down to a
+disposable mobile phone.
+
+00:28:40,857 --> 00:28:43,226
+So is there anything I can tell
+the undersheriff?
+
+00:28:43,293 --> 00:28:46,129
+Yeah. Dead end on Fausto.
+
+00:28:46,196 --> 00:28:47,464
+You tell him.
+
+00:29:01,144 --> 00:29:03,280
+I got your results
+from the blood on the bullet.
+
+00:29:03,346 --> 00:29:05,649
+It definitely belongs
+to Officer Bell.
+
+00:29:08,652 --> 00:29:11,421
+This is my first
+deceased police officer.
+
+00:29:11,488 --> 00:29:13,056
+I heard that his
+wife is pregnant.
+
+00:29:13,123 --> 00:29:16,560
+Wendy, you understand
+that this is confidential.
+
+00:29:16,626 --> 00:29:19,896
+Yes, sir.
+And you can't discuss it,
+even with your coworkers.
+
+00:29:19,963 --> 00:29:22,132
+I understand what this means.
+
+00:29:31,041 --> 00:29:34,378
+Hey. Warrick tell you
+about the IBIS hit?
+
+00:29:34,444 --> 00:29:35,412
+Yeah.
+
+00:29:35,479 --> 00:29:38,115
+How are you doing
+with Bell's bullet?
+
+00:29:38,181 --> 00:29:39,449
+I was confirming my findings.
+
+00:29:39,516 --> 00:29:42,085
+Don't want to make any mistakes.
+
+00:29:42,152 --> 00:29:43,987
+Does that mean
+you have results?
+
+00:29:44,054 --> 00:29:47,057
+The bullet has the right GRC's
+for a Sig-Sauer.
+
+00:29:47,124 --> 00:29:49,126
+Sergeant Adams
+carries a Beretta.
+
+00:29:49,192 --> 00:29:50,327
+Carroll, too.
+
+00:29:50,394 --> 00:29:52,729
+Davis has a Glock, so
+that rules him out.
+
+00:29:52,796 --> 00:29:56,800
+However, both detectives
+Brass and Curtis carry Sigs.
+
+00:29:58,735 --> 00:30:00,837
+But take a look.
+
+00:30:04,174 --> 00:30:06,143
+There's hardly any jacket left.
+Means there's almost
+
+00:30:06,209 --> 00:30:09,179
+no chance of identifying that
+to a specific gun.
+
+00:30:09,246 --> 00:30:11,014
+What if you had more time?
+Could you do it?
+
+00:30:11,081 --> 00:30:13,517
+Sorry, boss.
+I mean, there's just no way
+
+00:30:13,583 --> 00:30:16,219
+I can tell you
+who shot Officer Bell.
+
+00:30:17,754 --> 00:30:18,989
+You know, based
+on the dates
+
+00:30:19,056 --> 00:30:21,291
+of these address labels,
+it appears that Carlos
+
+00:30:21,358 --> 00:30:22,759
+and Bianca
+were receiving
+
+00:30:22,826 --> 00:30:24,828
+two to three
+drug shipments a day.
+
+00:30:24,895 --> 00:30:27,330
+So the dogs hit on the boxes?
+
+00:30:27,397 --> 00:30:29,933
+Yes, and Narco found
+trace amounts of cocaine,
+
+00:30:30,000 --> 00:30:33,437
+for whatever that's worth.
+
+00:30:33,503 --> 00:30:36,173
+Well, the return
+addresses are
+all bogus,
+
+00:30:36,239 --> 00:30:37,374
+the couple is not talking,
+
+00:30:37,441 --> 00:30:38,475
+and all four suspects
+
+00:30:38,542 --> 00:30:40,477
+are dead.
+
+00:30:40,544 --> 00:30:42,345
+There's nothing more we can do.
+
+00:30:53,023 --> 00:30:55,192
+Okay, Nick, the cruiser's
+right front tire
+
+00:30:55,258 --> 00:30:56,893
+is 19 feet, 5 inches
+
+00:30:56,960 --> 00:30:58,195
+from the south curb.
+
+00:31:01,064 --> 00:31:03,500
+Sara, the detective unit's
+left front tire
+
+00:31:03,567 --> 00:31:05,535
+is five feet to inches
+from the south curb.
+
+00:31:10,073 --> 00:31:11,208
+All right.
+
+00:31:11,274 --> 00:31:13,143
+Nick, you be Brass.
+
+00:31:13,210 --> 00:31:14,878
+Sara, you be Sofia.
+
+00:31:14,945 --> 00:31:16,747
+Good.
+
+00:31:16,813 --> 00:31:18,348
+I'll be Bell.
+
+00:31:18,415 --> 00:31:22,219
+Officer Bell was crouched down
+behind his door.
+
+00:31:31,661 --> 00:31:34,865
+Gris! I can't see you from here.
+
+00:31:34,931 --> 00:31:37,401
+You're blocked by both cars.
+
+00:31:37,467 --> 00:31:38,602
+Yeah, me either.
+
+00:31:38,668 --> 00:31:40,437
+I'd have to shoot
+through both cars to get to you.
+
+00:31:40,504 --> 00:31:43,273
+I processed them both--
+no shots
+
+00:31:43,340 --> 00:31:44,574
+entered from the back.
+
+00:31:46,676 --> 00:31:48,345
+Can you see me here?
+
+00:31:50,847 --> 00:31:53,016
+Yeah, I can see you.
+Yeah, now.
+
+00:31:55,018 --> 00:31:57,954
+What would make Bell stand up
+in the middle of a gunfight?
+
+00:31:58,021 --> 00:32:00,791
+Maybe he had
+to change positions.
+
+00:32:00,857 --> 00:32:02,626
+We know that the suspects
+were starting
+
+00:32:02,692 --> 00:32:03,960
+to run, right?
+
+00:32:04,027 --> 00:32:06,596
+Okay, he popped up,
+took one in the vest.
+
+00:32:08,265 --> 00:32:10,467
+Let's assume that.
+
+00:32:10,534 --> 00:32:12,335
+We'll line up the exit
+trajectories
+
+00:32:12,402 --> 00:32:14,071
+with the apartment window,
+
+00:32:14,137 --> 00:32:16,306
+and we'll use lasers,
+but we may have to wait
+
+00:32:16,373 --> 00:32:17,874
+until it's dark.
+
+00:32:21,712 --> 00:32:23,647
+WILLOWS:
+We're turning on the lasers.
+
+00:32:23,714 --> 00:32:25,148
+Is the candle in position?
+
+00:32:25,215 --> 00:32:28,118
+Ready on this end.
+
+00:32:28,185 --> 00:32:30,487
+Let me know when the beam
+hits the candle.
+
+00:32:30,554 --> 00:32:31,555
+Good to go!
+
+00:32:38,729 --> 00:32:40,831
+Uh... good height.
+
+00:32:40,897 --> 00:32:42,833
+Move it six inches to the left.
+
+00:32:42,899 --> 00:32:44,735
+Six inches to the left.
+
+00:32:47,237 --> 00:32:49,673
+Oh, no, no. <i>My</i> left.
+
+00:32:49,740 --> 00:32:51,074
+He meant the other left.
+
+00:33:00,584 --> 00:33:01,685
+Right there.
+
+00:33:01,752 --> 00:33:02,786
+Perfect.
+
+00:33:02,853 --> 00:33:04,020
+I'll call you back.
+
+00:33:04,087 --> 00:33:06,022
+Okay, we got the exit.
+
+00:33:06,089 --> 00:33:08,024
+Now we need the entrance.
+
+00:33:08,091 --> 00:33:09,426
+Sara, turn your laser on.
+
+00:33:14,765 --> 00:33:16,533
+The path of my laser is off.
+
+00:33:16,600 --> 00:33:17,868
+Yeah, it's a bad angle.
+
+00:33:17,934 --> 00:33:19,603
+Move it to the left.
+
+00:33:21,538 --> 00:33:23,607
+Gris...
+Hmm?
+
+00:33:23,673 --> 00:33:25,342
+It's blocked
+by the car.
+
+00:33:25,409 --> 00:33:27,044
+It's not possible.
+
+00:33:27,110 --> 00:33:29,479
+Turn it off.
+
+00:33:29,546 --> 00:33:31,048
+Nick, turn yours on.
+
+00:33:31,114 --> 00:33:33,850
+Mine's been on the whole time.
+
+00:33:33,917 --> 00:33:35,786
+It's still blocked.
+
+00:33:40,223 --> 00:33:41,625
+Raise it up.
+
+00:34:03,513 --> 00:34:05,415
+He stood up.
+
+00:34:34,578 --> 00:34:36,583
+Well, your call was
+a little cryptic.
+
+00:34:36,667 --> 00:34:40,103
+Must've got the results
+from the ballistics test.
+
+00:34:40,170 --> 00:34:43,073
+We did, but it
+was inconclusive,
+
+00:34:43,140 --> 00:34:46,210
+so I went back to the
+intersection and ran
+a reconstruction.
+
+00:34:46,276 --> 00:34:48,745
+Well, I don't know how you
+reconstruct a war zone.
+
+00:34:48,812 --> 00:34:50,614
+You have no idea
+what it was like.
+
+00:34:50,681 --> 00:34:52,216
+I mean, it was a fire fight.
+
+00:34:54,451 --> 00:34:56,920
+Have you talked to Sofia?
+
+00:34:58,922 --> 00:35:01,258
+It wasn't Sofia.
+
+00:35:05,395 --> 00:35:07,397
+You must have stood up...
+
+00:35:07,464 --> 00:35:10,567
+fired at the suspects
+over the black and whites.
+
+00:35:10,634 --> 00:35:12,703
+Officer Bell stood
+up at the same time,
+
+00:35:12,769 --> 00:35:14,338
+right into your
+line of fire.
+
+00:35:14,404 --> 00:35:17,674
+Fausto shot him
+in the vest, which
+spun him a little.
+
+00:35:17,741 --> 00:35:20,511
+At the same time,
+you hit him in the neck.
+
+00:35:22,779 --> 00:35:27,584
+( <i>sighs</i> )
+Oh, I-I swear,
+I was behind the car, I...
+
+00:35:27,651 --> 00:35:29,920
+I-I stood up?
+
+00:35:34,691 --> 00:35:37,528
+Sheriff wants me to
+present our findings
+
+00:35:37,594 --> 00:35:39,730
+at a community
+meeting in an hour.
+
+00:35:39,797 --> 00:35:41,865
+( sighs )
+
+00:35:47,237 --> 00:35:49,273
+Don't keep 'em waiting.
+
+00:36:03,487 --> 00:36:05,155
+ORTEGA:
+I just received
+
+00:36:05,222 --> 00:36:08,625
+a report from the
+Shooting Review Board.
+
+00:36:10,694 --> 00:36:12,729
+You've been cleared.
+
+00:36:16,767 --> 00:36:19,570
+You can go back to work.
+
+00:36:22,906 --> 00:36:24,908
+Thank you.
+
+00:36:31,114 --> 00:36:33,951
+( <i>indistinct voices</i> )
+
+00:36:36,887 --> 00:36:39,723
+Hello. My name is
+Dr. Gil Grissom.
+
+00:36:39,790 --> 00:36:41,892
+I'm the night shift supervisor
+
+00:36:41,959 --> 00:36:45,028
+for the Las Vegas Police
+Department's Crime Lab.
+
+00:36:45,095 --> 00:36:48,098
+( <i>murmuring fades</i> )
+I'm not a police officer;
+I'm a scientist.
+
+00:36:48,165 --> 00:36:50,234
+You work for the cops.
+That makes you a cop.
+
+00:36:50,300 --> 00:36:51,502
+You're not on our side.
+
+00:36:51,568 --> 00:36:53,871
+( <i>loud clamoring voices</i> )
+
+00:36:58,242 --> 00:37:00,511
+Actually,
+I'm a forensics expert.
+
+00:37:00,577 --> 00:37:03,180
+( <i>murmuring fades</i> )
+My job is
+to identify,
+
+00:37:03,247 --> 00:37:06,517
+collect, and examine physical
+evidence from a crime scene,
+
+00:37:06,583 --> 00:37:10,420
+to determine who did what to
+whom and how did they do it.
+
+00:37:10,487 --> 00:37:12,656
+I've been asked to come here
+today by the mayor
+
+00:37:12,723 --> 00:37:17,127
+and Sheriff Burdick to present
+our analysis of the evidence
+
+00:37:17,194 --> 00:37:18,929
+in this case to your community.
+
+00:37:18,996 --> 00:37:21,498
+Why aren't they here?
+Why should we believe
+your evidence?
+
+00:37:21,565 --> 00:37:24,401
+( <i>loud murmuring</i> )
+
+00:37:24,468 --> 00:37:27,104
+Physical evidence
+cannot be wrong.
+
+00:37:27,171 --> 00:37:28,972
+It doesn't lie.
+
+00:37:29,039 --> 00:37:32,709
+It's not influenced by emotion
+or prejudice.
+( <i>murmuring fades</i> )
+
+00:37:32,776 --> 00:37:36,313
+It's... it's not confused by
+the excitement of the moment.
+
+00:37:36,380 --> 00:37:40,350
+I'm here, in God's house,
+
+00:37:40,417 --> 00:37:43,053
+to explain to you the truth
+
+00:37:43,120 --> 00:37:45,956
+about exactly what happened
+the other day.
+
+00:37:46,023 --> 00:37:50,828
+I'd like to start by showing you
+some photos.
+
+00:37:50,894 --> 00:37:52,729
+This is a bullet
+that was recovered
+
+00:37:52,796 --> 00:37:56,533
+from the Kevlar vest
+of Officer Daniel Bell,
+
+00:37:56,600 --> 00:37:57,734
+now deceased.
+
+00:37:57,801 --> 00:37:59,169
+What about my son?
+
+00:37:59,236 --> 00:38:03,073
+What-What does the evidence say
+about my son?
+
+00:38:05,909 --> 00:38:07,878
+Okay, if you like,
+we can start there.
+
+00:38:07,945 --> 00:38:09,413
+Please.
+
+00:38:11,648 --> 00:38:14,585
+This photo is a comparison of
+two cartridge cases.
+
+00:38:14,651 --> 00:38:17,654
+The one on the right was found
+next to your son.
+
+00:38:17,721 --> 00:38:19,556
+The one on the left
+
+00:38:19,623 --> 00:38:23,894
+was test-fired
+from Jose Fausto's pistol.
+
+00:38:23,961 --> 00:38:28,565
+As you can see, there are
+corresponding individual marks
+
+00:38:28,632 --> 00:38:30,801
+on both cartridges.
+
+00:38:30,868 --> 00:38:33,570
+These are unique,
+like fingerprints.
+
+00:38:33,637 --> 00:38:37,074
+It means that they were
+fired from the same gun.
+
+00:38:37,141 --> 00:38:41,612
+It proves that while attempting
+to escape from the police...
+
+00:38:41,678 --> 00:38:45,082
+Jose Fausto shot your son
+Geraldo in the back.
+
+00:38:45,149 --> 00:38:46,950
+Why would he do that?
+
+00:38:48,385 --> 00:38:52,589
+We recovered your son's bicycle
+from Jose Fausto's motel room.
+
+00:38:52,656 --> 00:38:55,292
+Your son was on his way
+to football practice.
+
+00:38:57,427 --> 00:38:58,695
+( <i>gunshot</i> )
+( <i>groans</i> )
+
+00:38:58,762 --> 00:39:02,866
+It appears that Jose Fausto
+shot your son
+
+00:39:02,933 --> 00:39:05,569
+so he could use his bike.
+
+00:39:34,364 --> 00:39:37,401
+( <i>indistinct voices</i> )
+
+00:39:53,250 --> 00:39:57,187
+Jim, I was just on
+my way out, but if you
+want me to stay...
+
+00:39:57,254 --> 00:39:59,857
+No, I-I think I
+can handle it.
+I think.
+
+00:39:59,923 --> 00:40:01,658
+Thanks.
+Okay.
+
+00:40:36,026 --> 00:40:39,296
+( <i>indistinct voices</i> )
+
+00:40:44,234 --> 00:40:46,370
+( <i>sighs</i> )
+
+00:40:48,939 --> 00:40:52,643
+The Shooting Review Board wants
+to talk to you.
+
+00:40:52,709 --> 00:40:55,913
+You're going to have to explain
+your tactical decision
+
+00:40:55,979 --> 00:40:59,917
+for shooting in the direction
+of a fellow officer.
+
+00:40:59,983 --> 00:41:03,053
+I'm ready
+when they are.
+
+00:41:03,120 --> 00:41:06,824
+As far as I'm concerned,
+there's no question...
+
+00:41:06,890 --> 00:41:09,860
+it was a bad shoot.
+
+00:41:13,664 --> 00:41:15,766
+I'll have to
+live with that.
+
+00:41:19,736 --> 00:41:21,238
+( <i>sighs</i> )
+
+00:41:37,488 --> 00:41:39,323
+( <i>chuckles</i> )
+Oh, whoa!
+
+00:41:40,424 --> 00:41:43,460
+Hey. What's your name?
+
+00:41:43,527 --> 00:41:45,629
+Jeannie.
+Well, that's a pretty name.
+
+00:41:48,031 --> 00:41:49,600
+Is that your mom over there?
+
+00:41:49,666 --> 00:41:52,469
+Huh? Okay,
+be careful, Jeannie...
+
+00:41:55,339 --> 00:41:58,142
+♪ ♪
+
+00:42:32,609 --> 00:42:35,646
+( <i>voice breaking</i> ):
+Mrs. Bell... I'm Jim Brass.
+
+00:42:35,712 --> 00:42:38,282
+I know.
+
+00:42:40,050 --> 00:42:43,153
+I want you to know...
+if there's, um...
+
+00:42:43,220 --> 00:42:45,556
+if there's any, um...
+
+00:42:51,161 --> 00:42:53,497
+( <i>gentle sobs</i> )
+
+00:42:57,601 --> 00:43:00,871
+( <i>whispers</i> ):
+I know it wasn't your fault.
+
+00:43:02,072 --> 00:43:04,575
+( <i>weeping</i> )
+
+00:43:04,641 --> 00:43:07,845
+I... I'm...
+
+00:43:07,911 --> 00:43:09,542
+I'm so sorry.
+
