@@ -1,0 +1,542 @@
+,start,end,text
+0,00:00:04,00:00:06,(dog barking)
+1,00:00:16,00:00:18,(barking continues outside)
+2,00:00:18,00:00:23,"Try ""extrapolate."" (barking continues)"
+3,00:00:26,00:00:27,(chuckles)
+4,00:00:27,00:00:29,You want to do me another favor?
+5,00:00:29,00:00:30,Uh-uh.
+6,00:00:30,00:00:32,Get Rocket to stop barking?
+7,00:00:32,00:00:34,It's your turn to bring him in.
+8,00:00:34,00:00:36,Hmm.
+9,00:00:36,00:00:38,(barking continues)
+10,00:00:48,00:00:52,I bet he's harassing that poor little possum again.
+11,00:00:52,00:00:54,(barking stops)
+12,00:00:57,00:00:58,(barking resumes)
+13,00:01:02,00:01:04,(window creaking)
+14,00:01:05,00:01:07,(dog barking)
+15,00:01:07,00:01:08,"(gunshot, dog whimpers)"
+16,00:01:08,00:01:10,(barking stops)
+17,00:01:11,00:01:12,(door opening)
+18,00:01:12,00:01:13,(glass breaking)
+19,00:01:13,00:01:14,(woman screaming)
+20,00:01:14,00:01:16,Lisa!
+21,00:01:16,00:01:18,(thudding)
+22,00:01:18,00:01:19,(Lisa screaming) Lisa!
+23,00:01:21,00:01:22,(gunshot)
+24,00:01:22,00:01:24,(gasping)
+25,00:01:24,00:01:26,(wind whistling)
+26,00:01:27,00:01:31,What the hell is wrong with you?
+27,00:01:31,00:01:36,Now you're really in trouble.
+28,00:01:36,00:01:38,MAN: Lisa!
+29,00:01:38,00:01:39,(gunshot)
+30,00:01:41,00:01:42,(camera shutter clicking)
+31,00:01:45,00:01:47,(distant siren wailing)
+32,00:01:58,00:02:01,"MAN: As soon as I saw their dog, I knew something was wrong."
+33,00:02:01,00:02:04,Then I saw the door open and Ms. Layman inside.
+34,00:02:04,00:02:05,You touch anything?
+35,00:02:05,00:02:07,"No, sir. I just called 911."
+36,00:02:09,00:02:11,No shell casings.
+37,00:02:11,00:02:13,None here either.
+38,00:02:13,00:02:15,Weapon was probably a revolver.
+39,00:02:15,00:02:19,"Wife hears the commotion, comes out..."
+40,00:02:19,00:02:21,She struggles with the killer.
+41,00:02:22,00:02:23,He drops her.
+42,00:02:23,00:02:25,"Lisa, honey, what's wrong?!"
+43,00:02:25,00:02:28,"(three gunshots, man groans)"
+44,00:02:31,00:02:33,(camera shutter clicking)
+45,00:02:41,00:02:45,SIDLE: Got a partial shoe impression.
+46,00:02:45,00:02:46,Generic worker boot.
+47,00:02:46,00:02:47,Roughly 10 to 13.
+48,00:02:50,00:02:53,WILLOWS: We'll put a broadcast out on the daughter.
+49,00:02:53,00:02:55,That's about all we can do for now.
+50,00:02:56,00:02:59,"Yeah, that's the one thing I hate most about this job."
+51,00:03:03,00:03:04,"(gunshot, man groans)"
+52,00:03:04,00:03:05,Daddy! Daddy!
+53,00:03:05,00:03:07,(screaming)
+54,00:03:08,00:03:10,(three gunshots)
+55,00:03:10,00:03:12,(gunman panting)
+56,00:03:14,00:03:16,(indistinct police radio chatter)
+57,00:03:26,00:03:37,"There's a wallet and a purse in the master bedroom, both filled with cash and cards, so this wasn't a home invasion robbery."
+58,00:03:37,00:03:39,And looks like they came for Gracie.
+59,00:03:39,00:03:41,Mm-hmm.
+60,00:03:41,00:03:45,Tom Layman was a pit boss at the Palermo.
+61,00:03:45,00:03:51,Lisa was working here at home as a freelance technical writer.
+62,00:03:51,00:03:58,"They were a regular middle-class family, not typical targets for kidnappers."
+63,00:04:01,00:04:03,I don't see any blood.
+64,00:04:13,00:04:14,There's a crawl trail here.
+65,00:04:14,00:04:17,See that? Green fluorescence-- urine.
+66,00:04:38,00:04:40,(screaming)
+67,00:04:40,00:04:42,"Gracie. Gracie, it's okay."
+68,00:04:42,00:04:44,My name's Nick. I'm with the police department.
+69,00:04:44,00:04:45,You're safe now.
+70,00:04:45,00:04:48,"Come here, honey."
+71,00:04:48,00:04:49,"Oh, baby, it's all right."
+72,00:04:49,00:04:51,Come here. It's okay.
+73,00:04:53,00:04:55,Aw.
+74,00:04:57,00:04:59,It's okay.
+75,00:04:59,00:05:00,Oh...
+76,00:05:00,00:05:01,(crying)
+77,00:05:03,00:05:05,"I got you, honey."
+78,00:05:05,00:05:09,(sobbing) It's okay.
+79,00:05:09,00:05:11,I got you.
+80,00:06:17,00:06:21,"(tapping) Hey, Sara, I found some fresh tool marks on the windowsill."
+81,00:06:22,00:06:23,Looks like somebody jimmied it.
+82,00:06:23,00:06:27,"Well, the shooter definitely came in through the back door."
+83,00:06:27,00:06:29,But maybe he did a little recon first.
+84,00:06:33,00:06:42,"In L.A., the Manson family used to do ""creepy crawls."" They would break into a house while the people were asleep and sneak around inside."
+85,00:06:42,00:06:47,Knowing they had the power to end people's lives like that must have been a real turn-on for them.
+86,00:06:50,00:06:51,Got a print.
+87,00:07:10,00:07:12,(grunting and panting)
+88,00:07:12,00:07:15,(gunman straining)
+89,00:07:21,00:07:23,(soft beep)
+90,00:07:33,00:07:34,(soft beep)
+91,00:07:49,00:07:53,SANDERS: Mandy got a hit off that print on the windowsill.
+92,00:07:53,00:07:55,STOKES: The gardener?
+93,00:07:55,00:07:58,He's just going to say he left it when he was working around the house.
+94,00:07:58,00:08:01,"Yeah, well, I'm more interested in what the little girl has to say."
+95,00:08:01,00:08:05,(sighs) Child witness-- that's not a lot to hang your hat on.
+96,00:08:05,00:08:07,We got anything else?
+97,00:08:07,00:08:10,Just some metallic trace in the killer's bootprint and on the wife's robe.
+98,00:08:10,00:08:11,All right.
+99,00:08:11,00:08:13,I'll let you know how it goes. Later.
+100,00:08:13,00:08:15,(phone beeps off and flips shut)
+101,00:08:15,00:08:17,(television playing softly)
+102,00:08:22,00:08:27,"Hey, Gracie."
+103,00:08:27,00:08:28,You remember me?
+104,00:08:28,00:08:29,Yeah?
+105,00:08:29,00:08:31,Can I sit here with you?
+106,00:08:34,00:08:37,I've got some good news for you.
+107,00:08:37,00:08:40,Your Aunt Maggie's flying in from Boston to see you.
+108,00:08:40,00:08:42,She's going to be here real soon.
+109,00:08:42,00:08:46,"But hey, listen, I'm stuck, and I need some help."
+110,00:08:46,00:08:49,It's very important. You want to help me?
+111,00:08:49,00:08:51,Hmm? Okay.
+112,00:08:51,00:08:52,(phone beeps on)
+113,00:08:52,00:08:54,You know who he is?
+114,00:08:56,00:08:57,He's our gardener.
+115,00:08:57,00:08:59,Is he the guy you saw last night?
+116,00:09:02,00:09:04,"(gunshot, man groans) Daddy!"
+117,00:09:04,00:09:06,(screaming)
+118,00:09:06,00:09:07,(three gunshots)
+119,00:09:07,00:09:09,(panting)
+120,00:09:09,00:09:11,(door creaking)
+121,00:09:13,00:09:15,(wind whistling)
+122,00:09:19,00:09:20,(gun cocking)
+123,00:09:22,00:09:24,(sobbing quietly)
+124,00:09:31,00:09:33,(screaming furiously)
+125,00:09:46,00:09:49,"It was really dark, and..."
+126,00:09:51,00:09:54,I really couldn't see anything.
+127,00:09:54,00:09:56,I'm sorry.
+128,00:09:56,00:09:59,"Hey, don't be scared, honey."
+129,00:09:59,00:10:01,You're safe now.
+130,00:10:01,00:10:03,Nobody's going to get you.
+131,00:10:03,00:10:07,You can tell me: Is this the guy who hurt your parents?
+132,00:10:12,00:10:16,"It was him, right?"
+133,00:10:21,00:10:24,I'm glad you're feeling better.
+134,00:10:24,00:10:28,So maybe I leaned against the window while trimming the bushes. So what?
+135,00:10:28,00:10:30,"So you're a convicted felon, that's what."
+136,00:10:30,00:10:32,"So you got a record, right?"
+137,00:10:32,00:10:34,"B&amp;E, assault, grand larceny."
+138,00:10:34,00:10:39,The gang unit tells me you were a member of the L.V. Marrones back in the day.
+139,00:10:39,00:10:42,"They also tell me three weeks ago, you were hanging at Jackson and K."
+140,00:10:42,00:10:44,That's where the Marrones deal heroin.
+141,00:10:44,00:10:45,"But you know that anyway, right?"
+142,00:10:45,00:10:46,I'm not on probation anymore. Yeah.
+143,00:10:47,00:10:50,"Every once in a while I go by the old neighborhood, say hi to the homies."
+144,00:10:50,00:10:51,"Sure, I understand."
+145,00:10:51,00:10:57,"You want to go by the clubhouse, kick it, chill, drink some 40s, smoke some herb, watch football..."
+146,00:10:57,00:10:59,and plan some robberies and murders.
+147,00:10:59,00:11:02,"I don't run with those guys, and I didn't touch the Laymans."
+148,00:11:02,00:11:08,"I got a wife and a kid, and I've been doing it straight for nine years."
+149,00:11:08,00:11:11,"You guys just don't lay off a guy's ass, just hoping he's gonna screw up."
+150,00:11:11,00:11:12,What's your shoe size?
+151,00:11:12,00:11:14,Why?
+152,00:11:14,00:11:15,Because I asked you. That's why.
+153,00:11:16,00:11:17,Eleven.
+154,00:11:17,00:11:18,Eleven.
+155,00:11:18,00:11:21,You said the magic word. Give me your shoes.
+156,00:11:23,00:11:28,Now you want to give them to me or you want me to get some professional in here to take them off you?
+157,00:11:33,00:11:36,"Look, I was never in that house."
+158,00:11:36,00:11:38,"Are you sure about that, homes?"
+159,00:11:38,00:11:42,Are you absolutely sure about that?
+160,00:11:42,00:11:49,Because if I toss your place and I find one eensy-bitsy piece of swag from the Laymans...
+161,00:11:49,00:11:54,"Okay, fine."
+162,00:11:54,00:11:56,I snuck in that window...
+163,00:11:56,00:11:58,"not last night, last week."
+164,00:11:59,00:12:03,"I looked inside, and I saw their kid playing with a brand-new video game box."
+165,00:12:03,00:12:07,The old one was just sitting there on the shelf.
+166,00:12:07,00:12:12,"So I waited till they went out, I went inside, And I took it."
+167,00:12:14,00:12:16,I make $60 a day pulling weeds and shoveling dog crap.
+168,00:12:16,00:12:18,How do you think it feels?
+169,00:12:18,00:12:20,I can't even afford to buy my kid one game.
+170,00:12:24,00:12:28,"I didn't kill anyone, I swear."
+171,00:12:41,00:12:48,"Gardener's boots had the same tread pattern as the crime scene impression, but there was no characteristic match."
+172,00:12:48,00:12:50,"And apparently, they're negative for blood."
+173,00:12:50,00:12:53,There was no metallic trace on them either.
+174,00:12:53,00:12:55,Any luck in Ballistics?
+175,00:12:55,00:12:59,"Well, the bullets we recovered were all .22s fired from the same gun."
+176,00:12:59,00:13:03,"Nothing in IBIS, so no real luck at all."
+177,00:13:03,00:13:07,Luck is where opportunity meets preparation.
+178,00:13:13,00:13:18,The metallic dust was a titanium alloy consisting of 4% vanadium and 6% aluminum.
+179,00:13:19,00:13:20,That's an odd material to find in a garden.
+180,00:13:21,00:13:25,Definitely. Titanium is widely used in aerospace and high-end tooling.
+181,00:13:25,00:13:32,"Based on the particle size and uniformity, my guess is, they came from a machine shop."
+182,00:13:32,00:13:35,Titanium dust on the killer's boots and hands?
+183,00:13:35,00:13:39,Maybe we're looking for an industrial worker?
+184,00:13:41,00:13:46,"You know, if there was dust on the inside of the house..."
+185,00:13:46,00:13:49,(wind whistling)
+186,00:14:24,00:14:27,(gate creaking)
+187,00:14:27,00:14:29,(wind whistling)
+188,00:14:36,00:14:38,OFFICER: Thought you guys checked this house.
+189,00:14:38,00:14:40,"STOKES: Twice. Both times, nobody home."
+190,00:14:45,00:14:47,SIDLE: I got a blood smear.
+191,00:14:49,00:14:52,(doorknob jiggles)
+192,00:14:52,00:14:54,STOKES: It's unlocked.
+193,00:14:54,00:14:57,Vegas Police!
+194,00:14:58,00:14:59,Call for backup.
+195,00:14:59,00:15:01,(static crackles) OFFICER: Control. Akers.
+196,00:15:01,00:15:03,Two additional units backup at my location.
+197,00:15:03,00:15:05,"DISPATCHER: Copy, Akers, 105. (static crackles)"
+198,00:15:35,00:15:38,(whispers): .22s.
+199,00:15:40,00:15:41,"(wind whistling, dull thud)"
+200,00:15:48,00:15:50,(water running)
+201,00:16:02,00:16:03,(water running)
+202,00:16:04,00:16:06,(door creaking)
+203,00:16:06,00:16:07,(radio playing music softly)
+204,00:16:46,00:16:49,"(soft, repetitive mechanical humming)"
+205,00:17:14,00:17:17,(repetitive mechanical humming grows louder)
+206,00:17:22,00:17:25,(mill humming)
+207,00:17:32,00:17:34,(electronic beep)
+208,00:17:35,00:17:37,(computer beeps)
+209,00:17:48,00:17:49,Nick!
+210,00:17:59,00:18:04,LVPD tell 8 News Now that they want to talk to retired machinist Jack Herson.
+211,00:18:04,00:18:13,"Herson, in his 50s, is a person of interest in the violent home invasion that shattered the calm in that normally quiet neighborhood."
+212,00:18:13,00:18:16,"Well, I'm pretty darn sure he hated that dog."
+213,00:18:16,00:18:23,"Furry bastard was always tearing up flower beds, chasing cats, barking at all hours."
+214,00:18:23,00:18:25,Enough to drive anybody to murder.
+215,00:18:25,00:18:27,(indistinct radio transmission)
+216,00:18:35,00:18:36,(camera shutter clicks)
+217,00:19:03,00:19:11,Jack Herson owns a 12-shot .22-caliber revolver with the same GRCs as the murder bullets.
+218,00:19:13,00:19:14,Any sign of the gun?
+219,00:19:14,00:19:16,Hasn't turned up.
+220,00:19:16,00:19:19,"After what he did, he'd probably be keeping that with him."
+221,00:19:20,00:19:21,We anywhere on his contacts?
+222,00:19:21,00:19:24,His Internet service provider gave us access to all of his accounts.
+223,00:19:24,00:19:26,"There are hundreds of e-mails, hundreds of phone numbers."
+224,00:19:26,00:19:31,"The few with the same last names are relatives, and we know they're are all back east."
+225,00:19:31,00:19:33,As for his friends...
+226,00:19:33,00:19:38,it's gonna take a while to round up even the local ones.
+227,00:19:40,00:19:41,LANGSTON: Hey.
+228,00:19:41,00:19:44,Hey. I just got off the phone with Brass.
+229,00:19:44,00:19:47,We're not gonna find Herson by trapping his plastic.
+230,00:19:47,00:19:50,"According to his credit card company, he's been maxed out for months."
+231,00:19:50,00:19:52,Great.
+232,00:19:52,00:19:59,"So, at this point, we seem to be dealing with a nice, retired machinist who suddenly goes on a killing spree because he's behind on his bills."
+233,00:19:59,00:20:04,"Well, one day, the wrong synapse fires, and a dam bursts."
+234,00:20:04,00:20:08,No one can truly know what goes on inside another man's mind.
+235,00:20:08,00:20:09,No.
+236,00:20:19,00:20:21,"Nick, come take a look at this."
+237,00:20:29,00:20:32,I'm assuming that's not just another machine part.
+238,00:20:32,00:20:33,It's a surgical tool.
+239,00:20:33,00:20:36,"According to the witness, it was a straight-up hit-and-run."
+240,00:20:36,00:20:37,Started as a fender-bender.
+241,00:20:37,00:20:40,One driver got out pissed; the pickup ran him over and split.
+242,00:20:40,00:20:43,"When the responding officer called in the tags, it came up as Herson."
+243,00:20:43,00:20:46,Injured driver's in stable condition at Desert Palm.
+244,00:20:46,00:20:48,"Ah, he was lucky."
+245,00:20:48,00:20:52,South Turkson at Blue Diamond three hours ago.
+246,00:20:52,00:20:53,Where was Herson going?
+247,00:20:56,00:21:01,These are pieces of a prototype stereotactic frame.
+248,00:21:01,00:21:08,It's what a machinist makes in order to ensure his design works before he mills a real one.
+249,00:21:08,00:21:10,"SIDLE: Out of titanium, I'm guessing."
+250,00:21:10,00:21:11,Yeah.
+251,00:21:11,00:21:12,What's it for?
+252,00:21:12,00:21:14,Neurosurgery.
+253,00:21:14,00:21:26,"The surgeon locks it onto the patient's skull, and then uses the calibration marks to precisely position instruments for operating on the brain."
+254,00:21:27,00:21:28,(squishing)
+255,00:21:28,00:21:31,You think Jack Herson is Dr. Jekyll.
+256,00:21:31,00:21:35,SIDLE: Why would a methodical killer like Jekyll suddenly go ballistic and kill his next-door neighbor?
+257,00:21:36,00:21:37,Maybe the Laymans saw something.
+258,00:21:37,00:21:39,Figured out what Herson was doing down here.
+259,00:21:39,00:21:42,Jekyll's killed a witness out of panic before.
+260,00:21:45,00:21:51,"To perform surgery, you... you need a operating table, don't you, Doctor?"
+261,00:22:16,00:22:18,That's a lot of blood.
+262,00:22:21,00:22:24,All right. I'll see what I can find out.
+263,00:22:24,00:22:26,Hey. Nick and Dr. Ray are finishing up at the Herson place.
+264,00:22:27,00:22:28,I figured I might be able to help out here.
+265,00:22:28,00:22:33,"Highway Patrol just found Herson's car overheated and abandoned off the 160, outside of Pahrump."
+266,00:22:33,00:22:35,Any idea who...
+267,00:22:43,00:22:45,(computer beeps) (typing)
+268,00:22:45,00:22:47,(sighs)
+269,00:22:47,00:22:49,I take it you're playing a hunch?
+270,00:22:49,00:22:50,Uh-huh.
+271,00:22:50,00:22:54,What is the mascot for Pahrump Nye County High School?
+272,00:22:54,00:22:56,"Uh, the bulldog."
+273,00:22:59,00:23:01,I thought so.
+274,00:23:02,00:23:04,Herson knows a woman in West Pahrump.
+275,00:23:04,00:23:07,The residence is number 28128...
+276,00:23:07,00:23:08,I can't see the street.
+277,00:23:08,00:23:12,"Well, there can't be too many houses in that district with that number."
+278,00:23:12,00:23:13,"No, there can't."
+279,00:23:21,00:23:26,"WOMAN (distorted): Those men outside, they're going to hurt you if you don't do what they say."
+280,00:23:26,00:23:28,"You-you've always been a good boy, Jackie, and I..."
+281,00:23:28,00:23:32,"I know that whatever you did, you-you must have had a reason."
+282,00:23:32,00:23:35,"Mr. Herson, we've got the place surrounded."
+283,00:23:35,00:23:37,You know there's no way you can escape.
+284,00:23:37,00:23:38,Why don't you pick up the phone and talk to us?
+285,00:23:38,00:23:42,Stupid dog. I understand.
+286,00:23:42,00:23:44,HERSON: Stupid dog!
+287,00:23:44,00:23:48,"Sir, the house belongs to Nell Porter, a retired schoolteacher and Herson's aunt."
+288,00:23:48,00:23:51,Yeah. There's something wrong with that guy.
+289,00:23:51,00:23:52,HERSON: Barking! Barking!
+290,00:23:52,00:23:53,"No kidding, sir. No, no."
+291,00:23:53,00:23:55,I mean his behavior. Look at that.
+292,00:23:55,00:23:57,He just kept barking and barking and barking.
+293,00:24:02,00:24:04,Hold on a second.
+294,00:24:04,00:24:06,What is it?
+295,00:24:09,00:24:11,The radiator plug's missing. So?
+296,00:24:11,00:24:14,"So, if you turned on the heat, you'd flood the whole place."
+297,00:24:16,00:24:19,Somewhat imprecise for a precision machinist.
+298,00:24:19,00:24:21,Hang on to that.
+299,00:24:24,00:24:25,Fresh tool marks.
+300,00:24:25,00:24:27,This has been wrenched off recently.
+301,00:24:30,00:24:31,Hang on a sec.
+302,00:24:31,00:24:37,"The last time Jekyll killed, he took a souvenir from the victim's house."
+303,00:24:37,00:24:39,And he left...
+304,00:24:39,00:24:41,"Oh, please put the gun down!"
+305,00:24:41,00:24:45,"(crying): Oh, please put the gun down, Jackie."
+306,00:24:45,00:24:47,HERSON: There's something wrong with my head.
+307,00:24:58,00:24:59,"OFFICER: Mr. Herson, please."
+308,00:24:59,00:25:01,Why don't you let your aunt come on out?
+309,00:25:01,00:25:04,(gunshot) (screams)
+310,00:25:04,00:25:05,"Go, go, go, go. OFFICER: We have a go."
+311,00:25:06,00:25:08,(static crackles) Move! Move it!
+312,00:25:09,00:25:10,(keypad beeping)
+313,00:25:10,00:25:13,Gita.
+314,00:25:13,00:25:15,11:32.
+315,00:25:18,00:25:19,Go! Let's go!
+316,00:25:19,00:25:22,It's a passage from theBhagavad Gita.
+317,00:25:22,00:25:25,"OFFICER: Let me see the hands. Get the hands up, sir!"
+318,00:25:25,00:25:31,The words that went through Robert Oppenheimer's mind after he witnessed the first atomic bomb test.
+319,00:25:31,00:25:33,Stop moving now!
+320,00:25:33,00:25:42,"""Now I am become Death, the Destroyer of Worlds."" Herson isn't Jekyll."
+321,00:25:42,00:25:44,No.
+322,00:25:44,00:25:47,He's another victim.
+323,00:26:10,00:26:23,STOKES: Dr. Jekyll performed his first operation on an already dead street performer by inserting a laparoscope into the corpse and tying his intestines into a bow around his spleen.
+324,00:26:23,00:26:31,"WILLOWS: However, his second victim was very much alive when Jekyll sewed a septic appendix to his ascending colon."
+325,00:26:31,00:26:35,"In both cases, Jekyll gave his victim something and then took a similar souvenir."
+326,00:26:37,00:26:45,"Joey Bigelow got a bow-tied intestine, and then Jekyll took his actual bow tie."
+327,00:26:45,00:26:53,STOKES: And Bernard Higgins received an extra appendix in exchange for a word from the appendix of his book.
+328,00:26:53,00:26:58,And now it appears that Dr. Jekyll has taken Jack Herson's radiator plug.
+329,00:26:58,00:27:01,Mm-hmm.
+330,00:27:01,00:27:03,But in exchange for what?
+331,00:27:07,00:27:09,What do you know?
+332,00:27:09,00:27:11,Oh...
+333,00:27:11,00:27:13,He's wearing a rug.
+334,00:27:13,00:27:14,Oh.
+335,00:27:14,00:27:20,Human hair hand-tied to a fine lace front to hide the hair line.
+336,00:27:20,00:27:22,Quality carpet.
+337,00:27:23,00:27:25,LANGSTON: He's got stitches.
+338,00:27:25,00:27:27,PHILLIPS: They look fresh.
+339,00:27:27,00:27:29,They are.
+340,00:27:32,00:27:34,What is that?
+341,00:27:34,00:27:37,It's super-bright.
+342,00:27:37,00:27:38,May be a bullet.
+343,00:27:38,00:27:40,Give me another view.
+344,00:27:43,00:27:44,I can't even see any edges.
+345,00:27:44,00:27:47,And the image isn't moving at all.
+346,00:27:51,00:27:53,Could it be radiating energy?
+347,00:27:57,00:28:00,Radiator.
+348,00:28:00,00:28:02,It's radioactive.
+349,00:28:04,00:28:06,(Geiger counter clicking rapidly)
+350,00:28:06,00:28:09,(saw buzzing)
+351,00:28:16,00:28:30,"ROBBINS: Looks like Dr. Jekyll drilled a hole in the top of Herson's skull, inserted a hollow needle between the brain hemispheres and into the septum pellucidum, and then shoved radioactive material in like peas through a straw."
+352,00:28:31,00:28:33,They're radiation seeds.
+353,00:28:33,00:28:37,Don't worry. It's a lead-infused acrylic.
+354,00:28:37,00:28:38,"STOKES: Yeah, I've heard of these."
+355,00:28:38,00:28:41,They're used to treat cancer.
+356,00:28:41,00:28:43,Herson didn't have cancer. No.
+357,00:28:43,00:28:49,"The radiation severely damaged the area of the brain that's involved with mood changes, sexual gratification and rage."
+358,00:28:49,00:28:53,"LANGSTON: In the 1950s, researchers induced similar lesions in rats."
+359,00:28:53,00:29:00,"It produced ""septal rage."" These creatures would attack each other savagely with the slightest provocation."
+360,00:29:00,00:29:03,Are we saying that Herson isn't responsible for his murders?
+361,00:29:03,00:29:05,No. But he might not have been aware of what he was doing.
+362,00:29:06,00:29:07,I'll bet he didn't even realize he'd been operated on.
+363,00:29:07,00:29:11,Jekyll's anesthetic of choice is ketamine.
+364,00:29:11,00:29:19,"Herson would've come to with his rug back in place, disoriented, and unable to remember what happened."
+365,00:29:35,00:29:39,"SIDLE: According to his medical records, he called his HMO, complaining of severe headaches."
+366,00:29:39,00:29:42,They said that they couldn't schedule an appointment until next week.
+367,00:29:42,00:29:43,He threw a tantrum.
+368,00:29:43,00:29:46,They said that he sounded drunk.
+369,00:29:46,00:29:48,(grunting angrily)
+370,00:29:48,00:29:50,(dog barking)
+371,00:29:50,00:29:52,(barking grows louder)
+372,00:29:57,00:30:00,LANGSTON: Maybe the dog barking was the final straw.
+373,00:30:01,00:30:03,(panting nervously)
+374,00:30:09,00:30:10,(gun cocking)
+375,00:30:14,00:30:16,I'm sorry.
+376,00:30:16,00:30:18,(agonized groans)
+377,00:30:18,00:30:22,STOKES: And not killing Gracie was the last shred of humanity he could muster.
+378,00:30:22,00:30:26,"WILLOWS: Three weeks ago, Jack Herson made a cash deposit of $5,000."
+379,00:30:26,00:30:34,"The very next day, he drew up plans for the stereotactic unit and placed an order for medical-grade titanium."
+380,00:30:34,00:30:40,"So, Jekyll gives Herson the money to build the device, and then, when it's finished, he turns around and uses it on its maker?"
+381,00:30:41,00:30:43,"I've seen my share of sickos, but this is severely twisted."
+382,00:30:43,00:30:46,Dr. Jekyll is a classic sadist.
+383,00:30:46,00:30:52,"He designs his operations so his victims suffer slow, agonizing deaths."
+384,00:30:52,00:30:55,"Well, we have Herson's contacts and emails."
+385,00:30:55,00:31:03,"I know it's brute force, but if we can figure out where or how Herson and Jekyll could have crossed paths, it could lead us to him."
+386,00:31:03,00:31:05,This is Jekyll's third time at bat.
+387,00:31:05,00:31:07,He doesn't seem to be getting any sloppier.
+388,00:31:09,00:31:12,"Well, he did leave these."
+389,00:31:15,00:31:19,(radioactive beads pulsing photons of gamma radiation)
+390,00:31:19,00:31:22,(Geiger counter clicking)
+391,00:31:28,00:31:30,(clicking continues)
+392,00:31:32,00:31:37,Why did I just receive 17 pages of federal forms to fill out with your name on it?
+393,00:31:37,00:31:42,Have you ever tried to locate a high-purity germanium gamma ray detector at 4:00 on a Friday in Las Vegas?
+394,00:31:42,00:31:43,WILLOWS: No.
+395,00:31:44,00:31:54,"I assumed you wanted the analysis as quickly as possible, and I'm happy to tell you that the implants showed gamma spikes characteristic of iridium 192."
+396,00:31:54,00:31:57,Iridium 192?
+397,00:31:57,00:31:59,That's used in high dose rate cancer therapy.
+398,00:31:59,00:32:08,"It also has half-life of 73.827 days, which means that a simple decay rate calculation can accurately determine when it was manufactured."
+399,00:32:08,00:32:10,I take it you've performed this calculation?
+400,00:32:10,00:32:11,Of course.
+401,00:32:11,00:32:12,But there's more...
+402,00:32:12,00:32:17,This gamma signature indicates that the pellet also contained gold.
+403,00:32:17,00:32:29,"The only commercially available iridium pellets with gold substrates are from Nosumi BioMed, which manufactured these seeds 13 days ago for delivery to Saint Sebastian's Hospital, in care of a Dr. William Burke."
+404,00:32:29,00:32:31,I'll tell you what he says.
+405,00:32:31,00:32:34,"Well done, David Hodges."
+406,00:32:36,00:32:42,"And, uh, you can tell Homeland Security that the quantity of radioactive material in this is infinitesimal and poses no threat."
+407,00:32:42,00:32:44,"Oh, you can tell them."
+408,00:32:44,00:32:46,Hang on a second. No.
+409,00:32:46,00:32:50,"If-if the radiation source is infinitesimal, why are you wearing three lead aprons?"
+410,00:32:50,00:32:53,"Despite my aversion to children, sperm count."
+411,00:33:01,00:33:05,"Gentlemen, it, uh... seems you're correct."
+412,00:33:05,00:33:08,We received 40 iridium seeds from the manufacturer last week.
+413,00:33:08,00:33:14,"My physicist just counted them in the storage room, and..."
+414,00:33:14,00:33:16,we are ten short.
+415,00:33:16,00:33:23,"Do you know what happened to them? Not yet, but I promise you we will. It's possible it's a clerical error. It's also possible someone stole them."
+416,00:33:24,00:33:25,What for?
+417,00:33:25,00:33:29,"You can't make a dirty bomb out of them, and they won't get you high."
+418,00:33:30,00:33:32,Have we met?
+419,00:33:32,00:33:35,"No, I don't believe we have."
+420,00:33:35,00:33:43,Why are a homicide detective and a CSI investigating a discrepancy in our inventory?
+421,00:33:43,00:33:45,Your iridium seeds were used by a killer.
+422,00:33:45,00:33:48,A person with sophisticated surgical skills.
+423,00:33:48,00:33:50,Sounds like a modern-day Jack the Ripper.
+424,00:33:50,00:33:52,The perpetrator's not a simple cutter.
+425,00:33:52,00:33:59,"Two days ago, he used a custom-built stereotactic device to insert your pellets into a man's septum."
+426,00:33:59,00:34:04,The ensuing brain damage caused the victim to kill three people before he died himself.
+427,00:34:04,00:34:05,You're kidding.
+428,00:34:05,00:34:06,"No, I'm not."
+429,00:34:06,00:34:12,"Dr. Burke, we're gonna need a detailed account of your whereabouts in the last several days."
+430,00:34:13,00:34:14,Mostly here.
+431,00:34:18,00:34:20,Am I a suspect?
+432,00:34:20,00:34:21,"We're just following our leads, Doc."
+433,00:34:21,00:34:23,"Actually, we're trying to rule you out."
+434,00:34:23,00:34:25,Right.
+435,00:34:25,00:34:28,My secretary can give you that information.
+436,00:34:28,00:34:31,"If you'll excuse me, I have a patient with prostate cancer."
+437,00:34:31,00:34:35,I have to tell him that his surgery has been delayed.
+438,00:34:39,00:34:41,I got it.
+439,00:34:41,00:34:46,Raymond Langston-- you wrote that book about the Angel of Death at Delaware General.
+440,00:34:46,00:34:47,"(chuckles): Oh, yeah!"
+441,00:34:47,00:34:49,You'd love it if I was the killer.
+442,00:34:50,00:34:57,"Then you could write a sequel about another psychopathic doctor murdering his patients, anduse it as an excuse to indict the entire medical establishment again."
+443,00:34:57,00:35:00,"Well, obviously, you didn't read very clearly or carefully."
+444,00:35:00,00:35:02,I was examining my own failures in the book.
+445,00:35:02,00:35:07,Interesting how your soul-searching managed to imply that everyone else was incompetent.
+446,00:35:07,00:35:11,You took one rogue surgeon and vilified an entire profession.
+447,00:35:11,00:35:13,"I saw their mistakes in the morgue, Doctor."
+448,00:35:13,00:35:15,I wrote what I saw.
+449,00:35:15,00:35:18,I don't suffer the illusion that all surgeons walk on water.
+450,00:35:18,00:35:21,"You know, Ray, I think were not needed here."
+451,00:35:21,00:35:23,I think we're all done.
+452,00:35:23,00:35:25,"Thanks for your time, Doctor. Mm-hmm."
+453,00:35:25,00:35:26,Let's go.
+454,00:35:26,00:35:27,"Uh, you sound a little envious."
+455,00:35:27,00:35:28,Why is that?
+456,00:35:28,00:35:34,"Because you didn't have what it takes to cut into a living, breathing human being and try and save their lives?"
+457,00:35:34,00:35:35,Being a pathologist is easier.
+458,00:35:35,00:35:36,Your patients are already dead.
+459,00:35:36,00:35:40,"It's kind of like being a CSI, I guess, right?"
+460,00:35:40,00:35:41,You're perfect for the job.
+461,00:35:42,00:35:43,(loud bang) Aah!
+462,00:35:43,00:35:45,"(groans in pain, pants)"
+463,00:35:45,00:35:47,Now you've got a problem.
+464,00:35:47,00:35:49,(groans)
+465,00:36:05,00:36:10,"So, the good doctor saw the light, and he's agreed not to press charges for assault."
+466,00:36:10,00:36:20,"I convinced him that a very public investigation into how he lost potentially dangerous radioactive material may impact negatively on his insurance liability, both for him and his hospital."
+467,00:36:20,00:36:22,So he calmed down and...
+468,00:36:22,00:36:25,actually became kind of reasonable.
+469,00:36:25,00:36:28,So I said we'll chalk it up to an accident.
+470,00:36:28,00:36:31,"It was an accident, right?"
+471,00:36:33,00:36:40,"Yeah. Look, Ray, I mean, I've known you long enough to know that you don't like to get any advice, but I'm gonna give you some anyway, okay?"
+472,00:36:40,00:36:47,"You know, if this song-and-dance here that you did was because you're frustrated about the Jekyll killer, I understand that. I get it."
+473,00:36:47,00:36:49,But if it has to do with something...
+474,00:36:49,00:36:55,"from the past, some old, unfinished business, something from way back when..."
+475,00:36:55,00:37:01,"I suggest you drop it, 'cause it's not working for you."
+476,00:37:02,00:37:05,That's all I'm gonna say.
+477,00:37:13,00:37:17,SECURITY DIRECTOR: All of the restricted areas in the hospital have keypad locks.
+478,00:37:17,00:37:21,"To gain access, I assume all your people have to enter their personal code. Exactly."
+479,00:37:21,00:37:24,Our system tracks every time and place one of those codes is used.
+480,00:37:24,00:37:28,"Now, these surveillance photos were taken at the door to the nuclear medicine storage room."
+481,00:37:28,00:37:30,That's where we keep those radioactive seeds.
+482,00:37:30,00:37:36,STOKES: Mm-hmm. And these are the people who entered during the time period the seeds went missing?
+483,00:37:36,00:37:38,SECURITY DIRECTOR: Mm-hmm.
+484,00:37:38,00:37:39,(typing)
+485,00:37:40,00:37:42,Hmm.
+486,00:37:42,00:37:43,"Huh, what is it?"
+487,00:37:43,00:37:50,"This man used Dr. Davis's I.D. code. Only one problem: Dr. Davis is a five-foot-two African-American woman, and she's in Hawaii."
+488,00:37:50,00:37:54,Has that code been used anywhere else in the hospital since then?
+489,00:37:54,00:37:55,"Uh, searching."
+490,00:37:55,00:37:56,(typing)
+491,00:37:56,00:37:58,(computer beeps)
+492,00:37:58,00:38:00,It was used four minutes ago.
+493,00:38:00,00:38:05,Where? A surgical supply locker on the fifth floor.
+494,00:38:05,00:38:06,"Get on the phone, lock down the building. Lock it down!"
+495,00:38:06,00:38:08,"Hey, what's going on?"
+496,00:38:08,00:38:09,Dr. Jekyll's here-- fifth floor.
+497,00:38:09,00:38:11,"Control, this is Charlie 03 Stokes."
+498,00:38:11,00:38:13,"I need four units containment, Saint Sebastian Hospital."
+499,00:38:13,00:38:14,You sure he's in the building?
+500,00:38:14,00:38:17,"Yeah, he was in a lab coat and a surgical mask."
+501,00:38:17,00:38:19,So are half of the people in here.
+502,00:38:23,00:38:24,(both panting)
+503,00:38:24,00:38:26,You go east; I'll go west.
+504,00:38:26,00:38:28,Yeah.
+505,00:38:51,00:38:52,STOKES: Excuse me.
+506,00:38:52,00:38:54,"Everyone, I'm a crime scene investigator with the Vegas PD."
+507,00:38:54,00:38:57,"I need everyone to remove their masks for me, please."
+508,00:38:57,00:38:59,Are you out of your mind? This is a sterile area!
+509,00:38:59,00:39:00,And I'm in pursuit of a murder suspect.
+510,00:39:00,00:39:02,Take it off.
+511,00:39:02,00:39:05,"Take if off! That goes for the rest of you, too. Get them off."
+512,00:39:05,00:39:06,Identify each other.
+513,00:39:06,00:39:08,WOMAN: We're all here.
+514,00:39:08,00:39:10,There's nobody that shouldn't be.
+515,00:39:13,00:39:15,(panting)
+516,00:39:41,00:39:43,What the hell is your problem?
+517,00:39:43,00:39:46,(startled chattering)
+518,00:39:50,00:39:51,"MAN: Hey, straight ahead."
+519,00:39:52,00:39:54,(shouting)
+520,00:39:54,00:39:55,"MAN: Marcie, call security!"
+521,00:39:56,00:39:58,Hold it right there!
+522,00:39:58,00:40:00,Hold it right there! I'm a CSI.
+523,00:40:06,00:40:08,(panting)
+524,00:40:08,00:40:10,(door closes behind Langston)
+525,00:40:28,00:40:29,(door opening)
+526,00:40:37,00:40:39,(heart monitor beeping)
+527,00:40:39,00:40:41,(door closes behind Langston)
+528,00:41:18,00:41:20,(indistinct chatter)
+529,00:41:21,00:41:24,Did you see a doctor come through here?
+530,00:41:24,00:41:26,Anyone?
+531,00:41:26,00:41:27,A doctor?
+532,00:41:27,00:41:29,A man dressed...
+533,00:41:29,00:41:31,as a doctor?
+534,00:41:32,00:41:36,A man in a white coat with a doctor's mask come through here?
+535,00:41:36,00:41:38,A man dressed like a doctor!
+536,00:41:38,00:41:40,Has he come through? Which way did he go?
+537,00:41:40,00:41:42,"Nick, Jekyll just went through the kitchen."
+538,00:41:42,00:41:44,I'm on my way.
+539,00:42:02,00:42:04,STOKES: Where's the kitchen?
+540,00:42:04,00:42:05,MAN: Back there.

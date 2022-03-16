@@ -1,0 +1,544 @@
+,start,end,text
+0,00:01:49,00:01:52,BRASS: Her name is Penny Garden.
+1,00:01:52,00:01:54,Age 65.
+2,00:01:54,00:01:56,Retired cocktail waitress.
+3,00:01:56,00:01:59,Been living here since the Rat Pack days.
+4,00:01:59,00:02:01,She may have served them drinks.
+5,00:02:01,00:02:05,"Well, they must have tipped well because 20 years ago, this was a nice neighborhood."
+6,00:02:05,00:02:07,"Anyway, a guy next door heard a racket, called 911."
+7,00:02:07,00:02:10,"Down the hallway, there's a spare bedroom."
+8,00:02:10,00:02:11,The bed's unmade.
+9,00:02:11,00:02:16,"So if the vic had a houseguest, they're nowhere to be found, so I'm going to dig around."
+10,00:02:19,00:02:23,"GRISSOM: Unfortunately, these windows aren't tempered."
+11,00:02:23,00:02:25,Very dangerous if broken.
+12,00:02:27,00:02:29,And she went through face first.
+13,00:02:29,00:02:33,SIDLE: The door's right here-- I doubt she missed it.
+14,00:02:33,00:02:36,Maybe she had some help.
+15,00:02:36,00:02:37,God.
+16,00:02:37,00:02:38,(screaming)
+17,00:02:38,00:02:44,Those coupons on the floor on top of the glass suggests they were scattered after the window broke.
+18,00:02:45,00:02:46,Maybe they went through the room after they killed her.
+19,00:02:47,00:02:50,There's nothing particularly valuable here.
+20,00:02:52,00:02:54,There used to be.
+21,00:03:28,00:03:33,"Control, Control, this is CSI Sanders. I need some help."
+22,00:03:33,00:03:34,"WOMAN: Control, go with the information."
+23,00:03:34,00:03:35,Assault in progress.
+24,00:03:35,00:03:37,How many suspects? Are they armed?
+25,00:03:37,00:03:39,"Ma'am, please, they gotta get here quicker than this."
+26,00:03:41,00:03:42,"Thank you, ladies and gentlemen."
+27,00:03:42,00:03:47,My name is Pete Athens. I am the coroner of Clark County; I want to thank you all for being here.
+28,00:03:47,00:03:52,Coroner inquests go back to medieval times during the reign of Richard I in England.
+29,00:03:52,00:04:00,"In fact, ""coroner"" comes from the word ""crown."" A public inquest was one of the crown's checks and balances on the powers of the sheriff."
+30,00:04:00,00:04:10,"And today, a thousand years later, it serves the same purpose in our county-- checks and balances on the sheriff and for those who work for him."
+31,00:04:11,00:04:13,The Honorable Clayton Trueblood will be our hearing master.
+32,00:04:13,00:04:17,"He's not a judge, but he's going to be more like a, um..."
+33,00:04:17,00:04:22,"a traffic cop, because an inquest isn't a trial."
+34,00:04:22,00:04:25,We're going to examine the death of Demetrius James.
+35,00:04:25,00:04:33,"The assistant district attorney Valerie Nichols will present the facts in the case, introduce the witnesses and ask them questions."
+36,00:04:33,00:04:38,"Any member of the jury may also ask questions, either orally or in writing."
+37,00:04:38,00:04:43,I understand that there are family members of the deceased present.
+38,00:04:53,00:05:01,"I'm very sorry for your loss, and I want you to know that as what the state calls ""interested parties,"" you may ask questions, too."
+39,00:05:01,00:05:12,"When all the facts have been presented, the jury will then rule the death in question as either justifiable, excusable or criminal."
+40,00:05:13,00:05:15,Cut's pretty deep.
+41,00:05:15,00:05:17,Let's try and keep her head on while we move her.
+42,00:05:17,00:05:21,"On three: One, two, three."
+43,00:05:34,00:05:35,Hi.
+44,00:05:35,00:05:38,Grissom said you could use some help.
+45,00:05:38,00:05:40,What haven't you done?
+46,00:05:40,00:05:42,The rest of the house.
+47,00:06:37,00:06:39,Hope I die before I get old.
+48,00:06:41,00:06:45,"Man, I was just lampin' in the crib with my boys when all of a sudden, psssh."
+49,00:06:45,00:06:47,I thought someone was breaking in next door.
+50,00:06:47,00:06:50,"Took a look over the fence, old Penny was breaking out."
+51,00:06:50,00:06:53,"Did you hear anything? Any voices, yelling, screaming?"
+52,00:06:53,00:06:57,Mm-mm. I don't even think Mrs. Penny could scream.
+53,00:06:57,00:06:59,"She had, like, a real low, raspy voice."
+54,00:06:59,00:07:02,"Yeah. Well, you think that's sexy?"
+55,00:07:02,00:07:04,Is that the way you roll?
+56,00:07:04,00:07:05,Huh?
+57,00:07:05,00:07:08,"All right, I'll take that for a ""no."" You see anybody leave the house?"
+58,00:07:08,00:07:10,"No, sir. Not last night."
+59,00:07:10,00:07:12,Who's she got staying with her?
+60,00:07:12,00:07:14,"Don't know his name, but I seen him always going in and out of there."
+61,00:07:14,00:07:16,Describe him.
+62,00:07:16,00:07:17,White dude. Skinny.
+63,00:07:17,00:07:20,Always wears jeans and white tees.
+64,00:07:20,00:07:24,Man.
+65,00:07:25,00:07:26,I liked that old lady.
+66,00:07:26,00:07:30,She made some good victuals and always had an extra stogie if I was out.
+67,00:07:30,00:07:31,This is my card.
+68,00:07:31,00:07:35,"If you see that white skinny guy, give me a call, will you? Yeah."
+69,00:07:35,00:07:36,All right? Yeah.
+70,00:07:41,00:07:45,You talk to that guy in that house?
+71,00:07:45,00:07:47,Been there twice. Still nobody home.
+72,00:07:47,00:07:50,Put someone on his doorstep until he shows.
+73,00:07:50,00:07:52,He's got security cameras. I want the video.
+74,00:07:52,00:08:00,"CURTIS: The first attack that night occurred just after midnight, in the employee parking structure at the Golden Sapphire Hotel."
+75,00:08:00,00:08:08,"A group of youths ranging from teens to early 20s attacked Vasco Ruiz, a hotel dishwasher on his way to his car."
+76,00:08:08,00:08:11,He was apparently selected at random.
+77,00:08:17,00:08:20,Mr. Ruiz was found dead at the scene.
+78,00:08:20,00:08:23,And what was the mob's next move?
+79,00:08:23,00:08:32,"Approximately 30 minutes after the first attack, not far away, at the Holiday Motel, they attacked their next victim, Jessica Hershbaum."
+80,00:08:32,00:08:34,(screaming): Stop it! Stop it!
+81,00:08:36,00:08:38,"Now, Miss Hershbaum survived."
+82,00:08:38,00:08:40,She's alive.
+83,00:08:40,00:08:48,But she has physical and emotional scars from the attack that she may never recover from.
+84,00:08:48,00:08:53,"So when Mr. Sanders was coming toyourcrime scene, would he have known about these first two swarming attacks?"
+85,00:08:53,00:08:54,Absolutely.
+86,00:08:54,00:09:04,"CSI was still processing those crime scenes, and then I heard on my radio about another attack-- the third that night-- and that a CSI was one of the victims."
+87,00:09:05,00:09:07,Is this the location of the third swarming attack?
+88,00:09:07,00:09:08,Yes.
+89,00:09:08,00:09:10,I drove over there immediately.
+90,00:09:10,00:09:11,And what did you find?
+91,00:09:12,00:09:14,"Three men, all seriously injured."
+92,00:09:14,00:09:20,"Stanley Tanner was unconscious, as was Demetrius James."
+93,00:09:20,00:09:25,The mob had pulled CSI Sanders from his vehicle and beaten him.
+94,00:09:27,00:09:29,But it was his intervention that saved Stanley Tanner's life.
+95,00:09:40,00:09:45,"While I appreciate your participation in the process here, I don't find this question relevant."
+96,00:09:45,00:09:47,"Excuse me, Your Honor."
+97,00:09:47,00:09:48,The question's quite relevant.
+98,00:09:48,00:09:54,"Are we just going through the motions here, so it looks like someone actually asked whether or not it's okay to run over black kids in the street?"
+99,00:09:55,00:09:56,"JUDGE: Do you have a question, sir?"
+100,00:09:56,00:09:57,Yeah.
+101,00:09:57,00:10:00,Are you also going to be censoring verbal questions?
+102,00:10:00,00:10:04,Relevance is at my discretion here.
+103,00:10:04,00:10:06,"Now, please, take your seat."
+104,00:10:17,00:10:27,"ROBBINS: Multiple lacerations on face, neck shoulders-- if it weren't for the couple dozen glass fragments I tweezed out, I'd say somebody went to town on her with a straight razor."
+105,00:10:27,00:10:36,"C.O.D. is exsanguination due to sharp force injury to the jugular-carotid complex, but she was already on her way out."
+106,00:10:36,00:10:39,Cannonballs of tumors on her lungs.
+107,00:10:40,00:10:42,Man... her cancer had cancer.
+108,00:10:42,00:10:44,"I guess she liked smoking more than living, huh?"
+109,00:10:44,00:10:47,Or else she wanted to die with a cigarette in her mouth.
+110,00:10:47,00:10:55,"You know, Catherine found antidepressants, laxatives, acid-reflux meds in her house, but I don't think she found anything for pain."
+111,00:10:55,00:10:57,"I guarantee you, this lady was in pain."
+112,00:10:57,00:10:59,She must have been taking something for it.
+113,00:10:59,00:11:02,Maybe the killer took it with him.
+114,00:11:02,00:11:05,"Well, there's a big market for that stuff now."
+115,00:11:05,00:11:07,I'll get her medical records.
+116,00:11:28,00:11:31,Did you find something?
+117,00:11:31,00:11:33,Bloody glass.
+118,00:11:35,00:11:37,The killer on his way out?
+119,00:12:23,00:12:25,MAN: You can't keep me out of there!
+120,00:12:25,00:12:26,"This is where I live, man!"
+121,00:12:26,00:12:27,"Sorry, son. This is a crime scene."
+122,00:12:28,00:12:29,You don't want to be in there.
+123,00:12:29,00:12:32,"Look, I just want to see my Auntie Penny. Where is she? Calm... calm down."
+124,00:12:32,00:12:33,I don't want to calm down!
+125,00:12:33,00:12:35,Do you live here?
+126,00:12:35,00:12:36,"Yeah, that's what I was just telling this guy."
+127,00:12:36,00:12:38,What's going on? What's your name?
+128,00:12:38,00:12:40,Henry. Henry Briney.
+129,00:12:40,00:12:44,"Henry, I'm going to need you to come down to the police station, give us a statement."
+130,00:12:44,00:12:45,For what?
+131,00:12:45,00:12:47,Um...
+132,00:12:47,00:12:50,"Sorry to tell you, but your aunt is dead."
+133,00:12:52,00:12:57,"NICHOLS: Mr. Tanner, can you tell us what injuries you sustained as a result of the attack?"
+134,00:12:57,00:13:01,"Cuts, some of them pretty bad, mostly on my face."
+135,00:13:01,00:13:09,"Broke left arm, crushed windpipe, one eye socket cracked, broke right ankle."
+136,00:13:09,00:13:13,And I got this headache they tell me might be permanent.
+137,00:13:13,00:13:18,"Would it be correct to say that while you were being attacked, you felt like your life was in danger?"
+138,00:13:18,00:13:20,"Hell, yeah."
+139,00:13:20,00:13:21,I have a question.
+140,00:13:21,00:13:22,Go ahead.
+141,00:13:22,00:13:27,Did you actually see Demetrius James attacking you?
+142,00:13:27,00:13:29,"Oh, I couldn't tell who was who."
+143,00:13:29,00:13:31,"I mean, hell, my hands were on my face."
+144,00:13:31,00:13:33,I was just trying to stay alive.
+145,00:13:33,00:13:39,"If Mr. Sanders hadn't shown up just then, I'd have been like that first guy-- dead."
+146,00:13:39,00:13:44,There was a large laceration where Demetrius James' head hit the ground when he fell.
+147,00:13:44,00:13:50,"Underlying that wound was a fracture of the occipital bone, which crosses at the base of the skull."
+148,00:13:50,00:14:00,"The motion of the impact caused the brain to collide with the bony protrusions inside the skull, resulting in what we call contra-coup contusions."
+149,00:14:00,00:14:06,There was also prominent cerebral edema-- or swelling-- as well as hemorrhages of the brain stem.
+150,00:14:07,00:14:10,So your official cause of death was...?
+151,00:14:10,00:14:14,Blunt force trauma to the head following a motor vehicle collision.
+152,00:14:14,00:14:16,So this was a death at the hands of another?
+153,00:14:16,00:14:18,Yes.
+154,00:14:18,00:14:20,And what do you call that kind of death?
+155,00:14:22,00:14:25,A homicide.
+156,00:14:30,00:14:33,So where did you go last night?
+157,00:14:33,00:14:35,Movies.
+158,00:14:35,00:14:37,"Oh, a ticket stub. That's good."
+159,00:14:37,00:14:39,Who'd you go with? You went by yourself?
+160,00:14:39,00:14:40,Who else would I go with?
+161,00:14:41,00:14:42,I don't know. A friend?
+162,00:14:42,00:14:44,No. I don't have friends.
+163,00:14:44,00:14:47,"Okay, so the movie ended."
+164,00:14:47,00:14:48,"You're all by yourself, then what?"
+165,00:14:49,00:14:52,"I sat in the keno lounge all night, hit the grocery store, and then came home to cops."
+166,00:14:53,00:14:55,Why are you staying at your Aunt Penny's?
+167,00:14:55,00:14:58,Because my parents threw me out.
+168,00:14:58,00:15:00,Why would they do that?
+169,00:15:00,00:15:03,Because they don't like me.
+170,00:15:03,00:15:05,Let me see your arms.
+171,00:15:08,00:15:11,"Are you booting that good ""doodgie""?"
+172,00:15:11,00:15:13,You ever use intravenous drugs?
+173,00:15:13,00:15:16,"Not anymore, but I did for a while."
+174,00:15:16,00:15:22,"You know, your Aunt Penny had some scrips for some pain medication-- oxycontin, fentanyl, methadone."
+175,00:15:22,00:15:24,"When we searched her house, we didn't find any."
+176,00:15:25,00:15:26,Did you take them?
+177,00:15:26,00:15:27,"No, I didn't take them."
+178,00:15:27,00:15:29,She must have taken them.
+179,00:15:29,00:15:30,I don't touch them.
+180,00:15:30,00:15:32,I just got out of rehab.
+181,00:15:32,00:15:37,"Haven't touched a pill, line or needle in six months."
+182,00:15:37,00:15:40,"My parents threw me out, and she took me in."
+183,00:15:40,00:15:43,I would not screw her over.
+184,00:15:43,00:15:47,We're going to need to take your clothes and your shoes.
+185,00:16:00,00:16:01,Any luck?
+186,00:16:01,00:16:02,No.
+187,00:16:02,00:16:04,No blood on the nephew's shoes or clothes.
+188,00:16:04,00:16:07,Drug panel on his urine came back negative.
+189,00:16:07,00:16:08,He's clean.
+190,00:16:08,00:16:10,What about Auntie Penny?
+191,00:16:10,00:16:12,No pain meds in her system either.
+192,00:16:12,00:16:16,We've got a lot of serious drugs that are unaccounted for.
+193,00:16:16,00:16:23,These glass fragments are from the mob breaking out the windows of CSI Sanders' Denali.
+194,00:16:23,00:16:26,That's how they dragged him out.
+195,00:16:27,00:16:34,"This is a clump of his hair, torn from his scalp."
+196,00:16:34,00:16:38,And that's the rock Demetrius James used as a weapon.
+197,00:16:38,00:16:41,According to who?
+198,00:16:41,00:16:44,This is the first we've even heard that Demetrius James had a weapon.
+199,00:16:44,00:16:48,"In his report, Mr. Sanders testified to that fact."
+200,00:16:48,00:16:49,The rock was found at the scene.
+201,00:16:49,00:16:51,How do we know the cops didn't plant it there?
+202,00:16:51,00:16:54,"Sir, I've warned you."
+203,00:16:54,00:16:55,I'd like to answer that question.
+204,00:16:55,00:17:03,"Usually, when someone plants a weapon, whoever did it puts it right beside the body-- in this case, the rock was found near the front tire of the Denali."
+205,00:17:03,00:17:05,Skid marks suggest it was dropped upon impact.
+206,00:17:05,00:17:08,A rock against two tons of steel.
+207,00:17:08,00:17:12,"No. More like one man against an extremely violent, out of control mob."
+208,00:17:12,00:17:16,What's department policy in a situation like that?
+209,00:17:16,00:17:22,It has always been department policy not to harm innocent civilians.
+210,00:17:22,00:17:27,"You call for backup, you try to be a good witness, and you stay out of the way."
+211,00:17:27,00:17:30,So what makes it okay to start running over people?
+212,00:17:30,00:17:34,"Well, when those people are wearing masks, running around beating people up."
+213,00:17:34,00:17:36,"Man, D.J. was going to a costume party."
+214,00:17:36,00:17:38,One victim was dead.
+215,00:17:38,00:17:40,Another was seriously injured.
+216,00:17:41,00:17:42,Another fatality imminent.
+217,00:17:42,00:17:48,"I'd say the use of deadly force in this case was consistent with department policy, absolutely."
+218,00:17:48,00:17:52,NICHOLS: Demetrius James was going to finish off the victim with the rock.
+219,00:17:52,00:17:55,You're a liar! My brother wasn't a killer!
+220,00:17:55,00:17:56,Excuse me.
+221,00:17:56,00:17:58,Demetrius was going to college Mrs. James.
+222,00:17:58,00:18:00,He had a 3.6 GPA.
+223,00:18:01,00:18:03,"We are all very sorry for your loss, but you are not a witness here."
+224,00:18:03,00:18:05,You didn't know him! (shouting)
+225,00:18:05,00:18:06,I do! We knew him!
+226,00:18:06,00:18:09,"Judge, can we have some order here?"
+227,00:18:09,00:18:12,"You didn't run over a mob, you ran over one boy!"
+228,00:18:12,00:18:14,My boy!
+229,00:18:17,00:18:19,(crying)
+230,00:18:19,00:18:21,Judge?
+231,00:18:21,00:18:25,Mrs. James' comments give context to the events of the night in question.
+232,00:18:25,00:18:28,I'd like to hear what she has to say.
+233,00:18:30,00:18:33,Why is Trueblood letting her do this?
+234,00:18:33,00:18:35,It's probably good for his campaign.
+235,00:18:35,00:18:37,He's running for Assembly.
+236,00:18:37,00:18:40,Now you tell me.
+237,00:18:40,00:18:42,Got your page.
+238,00:18:42,00:18:46,Surveillance footage from the neighborhood watch guy across the street.
+239,00:18:46,00:18:49,"Yeah, he was paranoid, but lazy."
+240,00:18:49,00:18:53,"Had four security cameras on his house, three of them were cardboard boxes."
+241,00:18:53,00:18:55,Homemade security is the worst.
+242,00:18:55,00:18:59,"Okay, so the nephew comes in and out of the house a couple times during the day."
+243,00:18:59,00:19:02,It's a whole different story next door.
+244,00:19:04,00:19:13,"Okay, this guy comes out of the house and meets with a different car at least three times and hour."
+245,00:19:13,00:19:15,He's slinging drugs.
+246,00:19:15,00:19:18,BRASS: The white one is carisoprodol.
+247,00:19:18,00:19:19,It's a muscle relaxant.
+248,00:19:19,00:19:22,"Yeah, I strained my pecs bench pressing."
+249,00:19:22,00:19:24,"Oh, yeah."
+250,00:19:24,00:19:25,And the blue one is Prevalis.
+251,00:19:26,00:19:28,You look a little young to need that.
+252,00:19:28,00:19:31,"Well, I've had my share of women."
+253,00:19:31,00:19:33,"Mr. Johnson's gotten bored over the years, so?"
+254,00:19:33,00:19:35,"Well, he's going to get really bored in prison."
+255,00:19:35,00:19:36,You hope.
+256,00:19:36,00:19:38,"What, you gonna bust me for selling Prevalis?"
+257,00:19:38,00:19:41,"Well, you think a guy in my job doesn't know what goes on in the clubs and in the street?"
+258,00:19:41,00:19:43,You ever hear of a Las Vegas Cocktail.
+259,00:19:43,00:19:45,I don't drink.
+260,00:19:45,00:19:51,"It's a combination of carisoprodol, Prevalis and very strong painkiller called fentanyl."
+261,00:19:51,00:19:52,"Problem is, fentanyl's hard to get."
+262,00:19:52,00:19:59,"I mean, doctors don't just give it away, you got to be in really serious pain to get it, like dying of cancer."
+263,00:19:59,00:20:02,"On the street it's called ""perc-a-pop""."
+264,00:20:02,00:20:04,"Now, Penny Garden was prescribed 40 a month."
+265,00:20:04,00:20:06,"Problem is, we couldn't find any in her house."
+266,00:20:06,00:20:08,"So what, you think I stole them?"
+267,00:20:08,00:20:09,"Yeah, I do."
+268,00:20:11,00:20:12,"Where are the pops, old lady?"
+269,00:20:12,00:20:14,Get out of my house.
+270,00:20:14,00:20:15,Where are they?
+271,00:20:16,00:20:17,I'll call the police.
+272,00:20:17,00:20:19,No you won't.
+273,00:20:21,00:20:22,Never.
+274,00:20:22,00:20:23,"Never, never, never."
+275,00:20:23,00:20:25,"Look, I told you, I liked the lady."
+276,00:20:25,00:20:27,"She made me dinner. She lent me smokes, man."
+277,00:20:27,00:20:29,You liked her 'cause she had what you needed.
+278,00:20:29,00:20:31,"No, man. No way."
+279,00:20:31,00:20:34,"Hey, I need a lawyer in here."
+280,00:20:34,00:20:38,"So we have a drug dealer and a former drug user, both of which would have motive to steal Penny's drugs."
+281,00:20:38,00:20:41,"Well, there wasn't any trace of fentanyl in the nephew's system."
+282,00:20:41,00:20:45,"He's broke, he's unemployed, maybe he's stealing them Penny so he can sell them to the neighbor."
+283,00:20:45,00:20:47,"If that's the case, it's motive for both."
+284,00:20:47,00:20:48,HENRY: Excuse me.
+285,00:20:48,00:20:50,"Hi, Henry."
+286,00:20:50,00:20:51,What are you doing here?
+287,00:20:52,00:20:57,Um... I just found this on my porch-- I opened it and thought I should bring it down to you guys.
+288,00:20:57,00:21:00,It's... pretty creepy.
+289,00:21:36,00:21:38,SIDLE: If one was horrifying...
+290,00:21:40,00:21:42,...what is two?
+291,00:21:42,00:21:45,Possible serial killer.
+292,00:21:45,00:21:49,I'd say that it takes the nephew and the neighbor off the hook.
+293,00:21:49,00:21:53,"I doubt either one of them could afford a mini-contractor, anyway."
+294,00:22:06,00:22:07,A bloody doll.
+295,00:22:07,00:22:11,Similar to the one in the other miniature.
+296,00:22:14,00:22:18,GRISSOM: Look at the blood on the doll's forehead.
+297,00:22:18,00:22:19,Same pattern on both.
+298,00:22:19,00:22:23,Could be two different views of the same subject.
+299,00:22:23,00:22:25,Maybe it's a signature.
+300,00:22:25,00:22:26,"Yeah, but we have no context."
+301,00:22:26,00:22:28,It could mean or represent just about anything.
+302,00:22:28,00:22:30,Okay...
+303,00:22:30,00:22:40,"again, the miniature suggests that the killer had an intimate familiarity with victim, home and habits."
+304,00:22:40,00:22:43,So what do they have in common?
+305,00:22:43,00:22:49,"Izzy Delancy, 50-year-old white male, washed-up rock star."
+306,00:22:49,00:22:53,"Penny Garden, cancer-stricken retiree."
+307,00:22:53,00:22:56,"Different friends, different family, different social circles."
+308,00:22:56,00:23:00,Why wasn't this one left at the crime scene like that one?
+309,00:23:05,00:23:06,(rattling)
+310,00:23:12,00:23:16,Marla and Aaron James are not sworn witnesses.
+311,00:23:16,00:23:25,"If they were, they couldn't be in the courtroom during testimony and that would effectively take away their rights as interested parties to question witnesses."
+312,00:23:26,00:23:29,So please try to remember that their remarks are not evidence.
+313,00:23:29,00:23:32,Go ahead.
+314,00:23:35,00:23:39,My sons didn't grow up with a father.
+315,00:23:39,00:23:41,Barely had a mother...
+316,00:23:41,00:23:44,on account of me working all the time.
+317,00:23:44,00:23:47,They got into trouble.
+318,00:23:47,00:23:49,Mostly 'cause of where we live.
+319,00:23:49,00:23:52,"Aaron here, he got into a whole lot of trouble."
+320,00:23:52,00:23:53,"And I did my time, too."
+321,00:23:53,00:23:57,"I did my time, but that wasn't D.J."
+322,00:23:57,00:23:59,He was helping me turn my life around.
+323,00:23:59,00:24:03,Coached me on my GED.
+324,00:24:03,00:24:07,"Made me feel like there was a chance for me, you know."
+325,00:24:09,00:24:12,"Man, you have no idea what you killed when you killed my brother."
+326,00:24:16,00:24:25,"Everyone was moved by the compelling testimony... Today, in the courthouse, ...of the victim's mother... it wasn't the judge, the jury or the lawyer, instead it was the mother, of Demitrius James that had the courtroom asking did her her son behave..."
+327,00:24:25,00:24:27,Hey.
+328,00:24:27,00:24:28,Nichols was right.
+329,00:24:28,00:24:30,"This isn't a trial, it's a circus."
+330,00:24:30,00:24:33,"Yeah, I heard. Starring the mother."
+331,00:24:38,00:24:41,I feel like I should say something.
+332,00:24:41,00:24:42,Like what?
+333,00:24:42,00:24:44,I don't know. Sorry?
+334,00:24:45,00:24:51,You going to apologize to the mother of a guy who beat one man to death and was trying to do the same to you?
+335,00:24:51,00:24:55,That's as good as saying you're guilty and setting yourself up for one hell of a civil suit besides.
+336,00:24:55,00:24:57,You did nothing wrong.
+337,00:24:57,00:25:00,I just want to be able to sleep again.
+338,00:25:00,00:25:06,"We put ourselves in harm's way every single day and sometimes, we pay one hell of a price for surviving it."
+339,00:25:06,00:25:09,Other people will never understand that.
+340,00:25:11,00:25:13,No way D.J. was a violent person.
+341,00:25:13,00:25:16,My son is not a killer.
+342,00:25:16,00:25:18,He was trying to stop that killing.
+343,00:26:32,00:26:35,Hey. Hey.
+344,00:26:35,00:26:37,How'd it go in there?
+345,00:26:37,00:26:39,I don't know.
+346,00:26:39,00:26:41,Really? Yeah.
+347,00:26:41,00:26:49,"You know, I know it was a hardcore situation that Greg ran up on, but you think it ever would have occurred to him to just put it in reverse and get the hell out of there?"
+348,00:26:49,00:26:52,"Well, that's not the question."
+349,00:26:52,00:26:58,What a jury wants to know is did Greg do what any reasonable person would have done under the circumstances.
+350,00:26:58,00:27:00,"I know Greg must have been scared as hell, man."
+351,00:27:01,00:27:03,What can we do to help him?
+352,00:27:03,00:27:06,We'll put the jury behind the wheel of the car.
+353,00:27:59,00:28:04,"BROWN: All right, the Denali's black box reports only five seconds before impact."
+354,00:28:04,00:28:09,"Now, Greg was idling with his foot on the brake."
+355,00:28:09,00:28:12,And then he accelerated for no more than two seconds.
+356,00:28:12,00:28:21,"Yeah, according to the acceleration skid marks, the front end went from there to there with D.J. coming at him."
+357,00:28:21,00:28:23,Want to give it a go?
+358,00:28:23,00:28:25,Take it for a spin? Yeah.
+359,00:28:36,00:28:37,(engine starting)
+360,00:28:37,00:28:39,You ready?
+361,00:28:39,00:28:40,Ready.
+362,00:28:40,00:28:41,Go.
+363,00:28:41,00:28:43,(engine revving)
+364,00:28:43,00:28:45,Stop.
+365,00:28:50,00:28:55,"With this kid running at him the whole time, there's no way Greg could have avoided hitting him."
+366,00:28:55,00:28:58,You think a jury will see it that way?
+367,00:29:02,00:29:03,(loud exhale)
+368,00:29:18,00:29:22,"How tough you feel when you're not in your big SUV, huh?"
+369,00:29:24,00:29:27,"I asked you a question, killer."
+370,00:29:36,00:29:38,Excuse me.
+371,00:29:50,00:29:57,"JUDGE: In the cause now pending before this court, do you swear to tell the truth, the whole truth and nothing but the truth?"
+372,00:29:57,00:29:58,I do.
+373,00:29:58,00:30:01,Be seated.
+374,00:30:01,00:30:04,"NICHOLS: All right, let's take a look at the official transcript of your call for backup."
+375,00:30:04,00:30:09,"01:54 and 21 seconds, Dispatch Control answers."
+376,00:30:09,00:30:12,Would you please read your response.
+377,00:30:12,00:30:15,"""Control, Control, this is CSI Sanders."
+378,00:30:15,00:30:19,"I need some help."" You took a couple of seconds to look at the street signs."
+379,00:30:19,00:30:28,"There's a few more exchanges and then dispatch tells you: ""Closest unit has a five minute ETA."" Five minutes."
+380,00:30:30,00:30:35,"Control continues-- ""Rolling Code 3. Are they armed?"" Please read your response."
+381,00:30:35,00:30:36,"I don't know, I don't know."
+382,00:30:36,00:30:39,"Ma'am, please, listen: They gotta get here quicker than this."
+383,00:30:39,00:30:40,Copy that.
+384,00:30:43,00:30:45,What'd you do?
+385,00:30:45,00:30:49,I thought I'd try to break up the mob.
+386,00:30:49,00:30:54,"I turned into the alley, hit the horn, yelled, anything."
+387,00:30:54,00:30:56,Did that stop the beating?
+388,00:30:56,00:30:57,Not entirely.
+389,00:30:57,00:30:59,One guy decided not to run away.
+390,00:30:59,00:31:03,"Instead, he turned around, picked up a rock..."
+391,00:31:03,00:31:07,and moved like he was going to finish off the victim.
+392,00:31:07,00:31:12,But he turned and started coming at me with it.
+393,00:31:12,00:31:13,"Oh, come on, that's just his word, man."
+394,00:31:14,00:31:16,His word against my brother's word! Mr. James.
+395,00:31:16,00:31:19,"You know, we can't get his side, now can we? All right. Your Honor?"
+396,00:31:19,00:31:22,"JUDGE: Ms. Nichols, the man has a right to speak."
+397,00:31:23,00:31:25,Sit down. Come on.
+398,00:31:29,00:31:32,"At this point, did you fear for your life?"
+399,00:31:32,00:31:33,Yes.
+400,00:31:33,00:31:35,"Did you have a weapon, a gun?"
+401,00:31:35,00:31:36,No.
+402,00:31:36,00:31:43,What were you thinking when D.J. left Stanley Tanner's unconscious body and ran at you with that rock?
+403,00:31:43,00:31:46,I thought that he could make me his next target.
+404,00:31:46,00:31:50,I thought he wanted to kill me.
+405,00:31:50,00:31:53,"No matter what, I knew that I had to incapacitate him."
+406,00:31:55,00:31:59,Now it's taken us several minutes to go through the events of that night.
+407,00:31:59,00:32:03,And I'm sure that you've all formed some kind of opinion about what happened.
+408,00:32:03,00:32:09,"But, right now, let's put ourselves in Mr. Sanders' position."
+409,00:32:09,00:32:14,Let's see how much time Greg had to save a man's life.
+410,00:32:29,00:32:30,Seconds.
+411,00:32:31,00:32:34,Mere seconds.
+412,00:32:34,00:32:36,What would you have done?
+413,00:32:36,00:32:38,(people murmuring)
+414,00:32:38,00:32:44,"Mr. Sanders, was it your intention to kill Demitrius James?"
+415,00:32:44,00:32:46,No.
+416,00:32:48,00:32:51,I wish he hadn't come at me.
+417,00:32:51,00:32:54,I wish that he had just run away.
+418,00:32:58,00:33:00,Mr. Sanders...
+419,00:33:00,00:33:02,aren't you leaving something out?
+420,00:33:02,00:33:04,I don't think so.
+421,00:33:04,00:33:09,"You testified at a criminal trial earlier that day, didn't you?"
+422,00:33:09,00:33:11,Yes.
+423,00:33:11,00:33:15,A.D.A. Ulrich must've been pleased with your testimony.
+424,00:33:15,00:33:19,She took you to dinner at the Tillerman.
+425,00:33:19,00:33:22,I'm looking at a copy of her credit card receipt.
+426,00:33:22,00:33:25,How was the sea bass?
+427,00:33:25,00:33:31,"And the bottle of Pinot Grigio Santa Margherita 2005, how was that?"
+428,00:33:31,00:33:32,NICHOLS: Your Honor...
+429,00:33:32,00:33:46,"I... wasn't on shift, and I only had... Mr. Sanders, I'm sure the jury's wondering, if you hadn't been drinking before going to work, would Demitrius James still be alive?"
+430,00:33:50,00:33:52,Alcohol wasn't...
+431,00:33:52,00:33:54,a factor.
+432,00:33:54,00:33:59,A.D.A. Ulrich insisted on ordering the wine.
+433,00:33:59,00:34:01,I drank half a glass.
+434,00:34:01,00:34:02,About six ounces.
+435,00:34:02,00:34:08,"At my weight, 150, that would give me a blood-alcohol content of .02%."
+436,00:34:08,00:34:16,"Even without food, the alcohol burn-off rate would be .015% per hour..."
+437,00:34:16,00:34:29,"meaning that there was no alcohol in my bloodstream after 90 minutes, well before I reported for my shift and about... seven hours before the incident."
+438,00:34:29,00:34:31,(people murmuring)
+439,00:34:35,00:34:41,"SIDLE: This is where we found your aunt's fentanyl, so we know that you didn't take it."
+440,00:34:41,00:34:44,Which means you've gone from a suspect...
+441,00:34:44,00:34:45,To a witness.
+442,00:34:45,00:34:49,Now it's up to you to help us find the real killer.
+443,00:34:49,00:34:55,"If you really cared about Penny, you'll tell us the truth about everything."
+444,00:34:55,00:34:58,So this is off the record? Yeah.
+445,00:34:58,00:35:01,(sighs): So I ain't going to jail?
+446,00:35:02,00:35:05,"Yeah, what do you want to know?"
+447,00:35:05,00:35:08,Who was Penny hiding her drugs from?
+448,00:35:08,00:35:09,I don't know.
+449,00:35:09,00:35:11,Maybe it was me.
+450,00:35:11,00:35:13,Although I never would've taken them.
+451,00:35:13,00:35:15,Or maybe you should ask the guy next-door.
+452,00:35:15,00:35:18,"No, man, I'd never take those things from her."
+453,00:35:18,00:35:20,"I buy 'em, 50 bucks a pop."
+454,00:35:25,00:35:27,(man coughs)
+455,00:35:27,00:35:30,Did you know your aunt was selling her drugs?
+456,00:35:30,00:35:32,"Yeah, I had an idea."
+457,00:35:32,00:35:34,I figured it was how she was supporting her habit.
+458,00:35:34,00:35:36,Which one?
+459,00:35:36,00:35:43,"I guess I should've said ""habits."" Um, she loved her liqueur, and she loved her cigarettes, but what she really loved was video poker."
+460,00:35:43,00:35:47,She liked the sound the coins made when she hit a jackpot.
+461,00:35:47,00:35:51,"She offered me a couple of bucks a week to keep the house clean, and..."
+462,00:35:51,00:35:53,(laughs): and she paid me in nickels and quarters.
+463,00:35:53,00:35:55,Can you think...
+464,00:35:55,00:36:00,of anyone else that might have known that those drugs were there?
+465,00:36:00,00:36:05,"No. I lived with her for a couple of months, and..."
+466,00:36:05,00:36:08,and she never had anyone over but me.
+467,00:36:45,00:36:47,I know that look.
+468,00:36:47,00:36:50,You just figured something out.
+469,00:36:51,00:36:55,This is much better than dead rock star kitchen.
+470,00:36:55,00:36:57,The whole al fresco thing?
+471,00:36:57,00:36:59,"Come on, share."
+472,00:36:59,00:37:01,Please?
+473,00:37:01,00:37:07,Look carefully at the back of the doll and at the pillow on the chair.
+474,00:37:07,00:37:11,There appears to be remnants of glue on both.
+475,00:37:11,00:37:17,HODGES: So the doll was originally glued to the back of the chair.
+476,00:37:18,00:37:24,I think the killer expected the victim to die in this chair.
+477,00:37:38,00:37:42,"Well, if that's the case, then how did the killer expect to..."
+478,00:37:42,00:37:44,kill her?
+479,00:38:04,00:38:08,JUDGE: I understand the jury has reached a verdict?
+480,00:38:08,00:38:10,"WOMAN: We have, Your Honor."
+481,00:38:11,00:38:16,"We, the jury in this inquest, find the death of Demitrius James excusable."
+482,00:38:16,00:38:19,(people murmuring)
+483,00:38:23,00:38:26,"Well, thank you, ladies and gentlemen, Judge Trueblood."
+484,00:38:26,00:38:28,This inquest is concluded.
+485,00:38:28,00:38:30,"""Excusa..."" No."
+486,00:38:30,00:38:35,"See, ""excusable"" is a lawful act with no intention to kill."
+487,00:38:35,00:38:39,"""Justifiable"" means that the action was the only alternative."
+488,00:38:39,00:38:41,That's what they should have found.
+489,00:38:41,00:38:43,It's okay.
+490,00:38:43,00:38:45,I think they may have it right.
+491,00:38:45,00:38:51,"Look, look, I got nothing against Mr. Sanders personally, but all these inquests ever really seem to do is protect the cops."
+492,00:38:51,00:38:54,I'm just trying to speak for someone who can't speak for himself.
+493,00:38:54,00:38:55,We should be in a criminal court...
+494,00:38:55,00:38:59,...about any death at the hands of law enforcement.
+495,00:38:59,00:39:00,The rights of the working people of...
+496,00:39:00,00:39:02,Things have a way of working themselves out.
+497,00:39:02,00:39:05,"Mr. Sanders, Mr. Sanders, do you think the verdict was fair?"
+498,00:39:05,00:39:07,Was your killing Demitrius James excusable?
+499,00:39:10,00:39:12,This kid saved my damn life.
+500,00:39:12,00:39:16,"He is a hero, a genuine hero."
+501,00:39:16,00:39:19,(birds chirping)
+502,00:39:38,00:39:40,(humming quietly)
+503,00:39:46,00:39:49,(continues humming)
+504,00:40:33,00:40:35,(chuckles) (finger strikes paper)
+505,00:40:37,00:40:39,Penny Garden was poisoned with nicotine.
+506,00:40:39,00:40:43,"Well, that's not exactly a surprise-- the woman smoked liked a chimney."
+507,00:40:43,00:40:45,She didn't smoke it.
+508,00:40:45,00:40:46,She drank it.
+509,00:40:46,00:40:48,Liquid nicotine.
+510,00:40:48,00:40:56,"Truman Capote used it as a murder weapon in his story, ""Hand-Carved Coffins,"" and our killer put it in Aunt Penny's liqueur bottle."
+511,00:41:02,00:41:06,GRISSOM: A cigarette introduces approximately one milligram of nicotine into the body.
+512,00:41:06,00:41:10,The liqueur contained over 60.
+513,00:41:10,00:41:15,A dose that massive can induce severe convulsions...
+514,00:41:15,00:41:16,(coughing)
+515,00:41:16,00:41:17,(clattering)
+516,00:41:18,00:41:22,"...and evidently, mess up a meticulously crafted murder."
+517,00:41:22,00:41:24,That's why the miniature wasn't at the crime scene.
+518,00:41:24,00:41:29,"The killer was compelled to fix it, so that it would match what actually happened."
+519,00:41:34,00:41:39,Liquid nicotine is in a lot of smoking cessation products.
+520,00:41:39,00:41:43,Yeah. Commonly available to just about anyone.
+521,00:41:43,00:41:45,Any luck with the vic's calls?
+522,00:41:45,00:41:50,Kind of. I data-mined the home phone numbers of Izzy Delancy and Penny Garden.
+523,00:41:50,00:41:52,They actually had ten numbers in common.
+524,00:41:52,00:41:57,"Information, couple of mail-order catalogs, power company, Moviefone."
+525,00:41:57,00:42:04,There's one other number which turned out to be an untraceable disposable cell phone-- suggests someone who doesn't want to be found.
+526,00:42:04,00:42:08,"SANDERS: Hey, boss, unless you need me for something, I'm gonna take off."
+527,00:42:08,00:42:11,"Yeah. Take off that suit, too."
+528,00:42:12,00:42:14,And Greg...
+529,00:42:14,00:42:15,you did a good job.
+530,00:42:16,00:42:19,I'm glad you think so.
+531,00:42:30,00:42:33,(engine starts)
+532,00:42:34,00:42:36,(engine revs)
+533,00:42:44,00:42:46,You've been served.
+534,00:42:55,00:42:57,(tires squealing)
+535,00:43:01,00:43:03,"What is it, Archie?"
+536,00:43:03,00:43:04,"Oh, hey, Gris."
+537,00:43:04,00:43:09,"I was just looking at footage from the next-door neighbor's, the night the package was delivered."
+538,00:43:09,00:43:11,(tapping keys)
+539,00:43:11,00:43:13,Never underestimate the Neighborhood Watch.
+540,00:43:16,00:43:19,I don't see a delivery truck.
+541,00:43:19,00:43:23,"Well, fortunately for us, this was apersonal delivery..."
+542,00:43:23,00:43:26,right to our front door.

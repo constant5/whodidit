@@ -1,0 +1,850 @@
+,start,end,text
+0,00:00:05,00:00:08,"(cheering, chatter)"
+1,00:00:11,00:00:12,(horn toots)
+2,00:00:12,00:00:13,"Boy, there's a lot of live ones tonight, huh?"
+3,00:00:13,00:00:15,I know. You're used to the dead ones.
+4,00:00:15,00:00:17,"Yeah, they're a lot easier to work with."
+5,00:00:17,00:00:20,"Thanks for coming out, helping us grunts in the Mobile Crime Unit."
+6,00:00:20,00:00:21,You're welcome.
+7,00:00:21,00:00:25,"All the problems in the department lately-- it's, uh, been hard making cases stick, you know? Uh-huh."
+8,00:00:25,00:00:26,"Well, that's why I'm here."
+9,00:00:26,00:00:29,"You deal with the whack-jobs, and I'll do the evidence collecting."
+10,00:00:29,00:00:33,"I'd like to think I'm going to miss all this, but I ain't."
+11,00:00:33,00:00:35,"What do you mean? You're not quitting, are you, Crawford?"
+12,00:00:35,00:00:37,"No, I'm, uh, looking at a promotion."
+13,00:00:37,00:00:38,Really?
+14,00:00:38,00:00:39,Yeah. Detective.
+15,00:00:39,00:00:43,"A lot of opportunities now, so I'm gonna trade in my uniform for a suit."
+16,00:00:43,00:00:45,"Well, congratulations, Detective."
+17,00:00:45,00:00:47,Thank you.
+18,00:00:47,00:00:50,"Yeah, it's, uh... it's got a nice ring to it."
+19,00:00:50,00:00:52,"Yeah, it does."
+20,00:00:56,00:00:59,"Excuse me, miss."
+21,00:00:59,00:01:02,"Can we talk to you, please? I ain't doing nothing wrong, Officer."
+22,00:01:02,00:01:03,"Well, you're not doing anything right, either."
+23,00:01:03,00:01:05,CRAWFORD: What's your name?
+24,00:01:05,00:01:07,Chastity.
+25,00:01:07,00:01:09,"Can I see some I.D., please?"
+26,00:01:09,00:01:12,Lost it.
+27,00:01:12,00:01:13,But you didn't lose your purse.
+28,00:01:13,00:01:15,Mind if I take a look inside?
+29,00:01:18,00:01:22,"You got some cash, a wallet and some condoms."
+30,00:01:22,00:01:23,"Well, safety first."
+31,00:01:23,00:01:26,No I.D. Debit card.
+32,00:01:26,00:01:27,Wait a minute. You don't look like Keith Dobson.
+33,00:01:27,00:01:29,"Yeah, it's not mine."
+34,00:01:29,00:01:32,Then what are you doing with it?
+35,00:01:32,00:01:33,Have you been arrested before?
+36,00:01:33,00:01:35,No. Never.
+37,00:01:35,00:01:37,Here's the deal.
+38,00:01:37,00:01:40,"You start telling me the truth, and maybe you get to go home."
+39,00:01:40,00:01:44,"But if you keep lying to me, you're going to jail."
+40,00:01:50,00:01:53,SIDLE: I've never had to patrol the streets like this.
+41,00:01:53,00:01:54,"I mean, not even when I was a CSI-1."
+42,00:01:54,00:01:57,It is a little crazy.
+43,00:01:57,00:01:58,Full moon tonight.
+44,00:01:58,00:02:04,"You know, not to discount the crazy, but no lunar effect on human behavior has ever been established."
+45,00:02:04,00:02:06,What about horses?
+46,00:02:06,00:02:07,(groaning)
+47,00:02:07,00:02:09,"Hey, Trigger."
+48,00:02:09,00:02:11,Wake up.
+49,00:02:11,00:02:13,Hello.
+50,00:02:13,00:02:15,(groans)
+51,00:02:15,00:02:18,"Well, this grass ain't hay."
+52,00:02:18,00:02:21,Trigger just bought himself a night in the barn.
+53,00:02:21,00:02:25,"Control, 3-0-5-Charlie. Sergeant Weiss requesting transport van to our location."
+54,00:02:25,00:02:26,(groaning)
+55,00:02:30,00:02:31,(indistinct chatter)
+56,00:02:31,00:02:33,"Hey, boys."
+57,00:02:35,00:02:37,(laughing): What?
+58,00:02:37,00:02:38,"Adrian. Hey, man."
+59,00:02:38,00:02:39,Hey. How are sales?
+60,00:02:39,00:02:41,"What did I say, last time, huh?"
+61,00:02:41,00:02:44,One more swing and miss-- that is strike three.
+62,00:02:44,00:02:45,That's life.
+63,00:02:46,00:02:48,"What's your name, kid?"
+64,00:02:49,00:02:51,"I know you're scared, all right?"
+65,00:02:51,00:02:54,"Okay, here's the deal-- you work with me, maybe you go home tonight."
+66,00:02:54,00:02:57,"Just going to need you to come downtown and make a statement, okay?"
+67,00:02:57,00:02:59,We got a deal?
+68,00:03:05,00:03:08,(siren wails)
+69,00:03:10,00:03:12,"MAN (over radio): All units, 415-C."
+70,00:03:12,00:03:14,Olympia Casino.
+71,00:03:14,00:03:16,Suspect possibly armed.
+72,00:03:16,00:03:18,What are you all afraid of?
+73,00:03:18,00:03:22,"Hey, hey, I want you all to meet my dad."
+74,00:03:22,00:03:24,We got in a little fight.
+75,00:03:24,00:03:26,"But, you know, it's all good now."
+76,00:03:26,00:03:27,What's going on?
+77,00:03:27,00:03:28,Casino security called it in.
+78,00:03:28,00:03:30,A guy just showed up swinging a head.
+79,00:03:30,00:03:33,"Right, Pops?"
+80,00:03:33,00:03:34,Doesn't look like he's armed.
+81,00:03:34,00:03:36,What are you looking at?
+82,00:03:36,00:03:38,"No, just dangerous. Officer, we need to move these people back."
+83,00:03:38,00:03:41,LVPD. I'm going to have to ask everyone to move back.
+84,00:03:41,00:03:43,"Hey, sir, calm down. Put the head on the ground."
+85,00:03:43,00:03:44,Step away.
+86,00:03:44,00:03:46,Keep your hands where I can see them.
+87,00:03:46,00:03:49,"The blood is on your hands, not mine!"
+88,00:03:49,00:03:50,I'm not doing anything wrong.
+89,00:03:50,00:03:54,"SIDLE: Hey, hey, sir! Hey, sir, there's another casino across the street. Hey, hey."
+90,00:03:54,00:03:56,"Dad, come back."
+91,00:03:56,00:03:57,"Call for paramedics. SIDLE: Whoa, whoa, whoa. Oh."
+92,00:03:57,00:03:59,"Hey, uh, guys, the head is fake."
+93,00:03:59,00:04:01,Please tell me you're getting this. This is awesome!
+94,00:04:01,00:04:02,Hey. It's a stunt.
+95,00:04:02,00:04:04,"Yeah, that girl in the blue hoodie!"
+96,00:04:04,00:04:06,"Grab her! Hey, get back here!"
+97,00:04:07,00:04:09,"You, stop!"
+98,00:04:09,00:04:11,Vegas PD. Get over here!
+99,00:04:11,00:04:14,"Running was bad, but, dude, that hurts."
+100,00:04:14,00:04:16,"Hurt's just beginning. Joke's over, kid."
+101,00:04:16,00:04:22,"I think you're going to jail, dude. Only adds to my fame when my video goes viral. I'm gonna have more hits than that chick singing... All right, you know what?"
+102,00:04:22,00:04:23,That's enough of that. Shut up.
+103,00:04:23,00:04:25,"Come on, man."
+104,00:04:25,00:04:26,It's not like anybody died.
+105,00:04:26,00:04:27,CRAWFORD: Get over here.
+106,00:04:29,00:04:32,CRAWFORD: You got something?
+107,00:04:33,00:04:35,Looks like someone else got punked tonight.
+108,00:04:39,00:04:41,But this is no joke.
+109,00:05:17,00:05:19,Everybody out.
+110,00:05:28,00:05:30,RUSSELL: You got an I.D.
+111,00:05:30,00:05:31,on our gunshot victim?
+112,00:05:31,00:05:33,"No. No, not yet. Wallet was missing."
+113,00:05:33,00:05:35,What about vehicle registration?
+114,00:05:35,00:05:40,"Well, it's a rental, but the guy won't give up the name till he clears it with corporate, so we're getting a warrant."
+115,00:05:40,00:05:42,Sara is processing the car right now.
+116,00:05:42,00:05:44,Evidence says the shooter was in the backseat.
+117,00:05:44,00:05:46,Sounds like a pop-and-rob.
+118,00:05:46,00:05:53,"Well, unfortunately, traffic cam footage was a bust, so in the meantime, I'll check in with the doc, see what he's got to say."
+119,00:05:53,00:05:54,Good Lord.
+120,00:05:54,00:05:58,"MAN: Dude, I need my head back. I rented it for the weekend."
+121,00:05:58,00:06:00,This guy does special effects for TV.
+122,00:06:00,00:06:03,"Very good, but very expensive."
+123,00:06:03,00:06:05,"Sir, I need to confirm-- is this your vehicle?"
+124,00:06:08,00:06:11,BRODY: Feel like I'm back at the Hollywood Division.
+125,00:06:11,00:06:13,Where exactly do you need me?
+126,00:06:13,00:06:15,Booking. Ask for Chastity.
+127,00:06:15,00:06:17,You'll know when you see her.
+128,00:06:17,00:06:18,I'm on it.
+129,00:06:18,00:06:21,(garbled radio transmission)
+130,00:06:21,00:06:24,"Hey, hey, hey, Crawford, when do I get my phone call?!"
+131,00:06:24,00:06:26,Hey! Here's my statement.
+132,00:06:26,00:06:29,About buying drugs off that dealer.
+133,00:06:29,00:06:30,"Can I go now, Officer?"
+134,00:06:30,00:06:31,You need to sign it.
+135,00:06:31,00:06:34,Ah.
+136,00:06:34,00:06:37,Here you go.
+137,00:06:37,00:06:40,Bobby Reed.
+138,00:06:40,00:06:42,Is your dad Dennis Reed?
+139,00:06:42,00:06:43,City attorney?
+140,00:06:43,00:06:46,Yeah. He's not going to be too happy.
+141,00:06:46,00:06:48,"Well, it could be worse."
+142,00:06:48,00:06:50,"Next time, I won't let you off so easy."
+143,00:06:50,00:06:52,You understand?
+144,00:06:52,00:06:55,"WEISS: Josh McClure, Florida license."
+145,00:06:55,00:06:58,It's Joslyn.
+146,00:06:58,00:07:00,Joslyn. You understand why you're here?
+147,00:07:00,00:07:02,No.
+148,00:07:02,00:07:03,"No, I... I do not."
+149,00:07:03,00:07:05,You took a swing at a cab driver.
+150,00:07:05,00:07:07,"He started it, and I wasn't just protecting myself."
+151,00:07:07,00:07:09,I was protecting the life of my unborn child.
+152,00:07:09,00:07:11,Have you been drinking tonight?
+153,00:07:11,00:07:13,Have you taken anything?
+154,00:07:13,00:07:16,I take offense. I'd never endanger the health of my baby.
+155,00:07:16,00:07:18,"How dare you! Oh, hey."
+156,00:07:18,00:07:19,(overlapping chatter)
+157,00:07:19,00:07:21,"Hey, I need some help here!"
+158,00:07:21,00:07:22,Somebody get the chair!
+159,00:07:22,00:07:24,Get your hands off of me!
+160,00:07:24,00:07:25,Calm down!
+161,00:07:25,00:07:27,MAN: Ma'am? Sir?
+162,00:07:27,00:07:28,Sit down!
+163,00:07:28,00:07:30,"Sit back. Joslyn, calm down."
+164,00:07:30,00:07:32,"What the hell is this thing?! WEISS: Joslyn, sit down."
+165,00:07:32,00:07:35,This is a violation! I've been violated!
+166,00:07:35,00:07:37,"If my water breaks, it'll be on your head!"
+167,00:07:37,00:07:38,"Oh, you hear me?!"
+168,00:07:38,00:07:42,"JOSLYN: Your head! Oh, no!"
+169,00:07:42,00:07:43,WEISS: Take it easy.
+170,00:07:43,00:07:44,"WEISS: Joslyn, take it easy."
+171,00:07:44,00:07:47,"$2,300 in cash, and a stolen debit card."
+172,00:07:47,00:07:48,"Pretty good night, huh?"
+173,00:07:48,00:07:54,I'm gonna need you to take off your clothes and all of your personal belongings.
+174,00:07:54,00:07:55,"Jewelry, everything."
+175,00:08:04,00:08:07,"I'm gonna need the ring, too."
+176,00:08:08,00:08:10,You'll get it back.
+177,00:08:15,00:08:18,(sighs)
+178,00:08:26,00:08:28,Mayans were right. World's coming to an end next month.
+179,00:08:28,00:08:30,BRASS: We should all be so lucky.
+180,00:08:30,00:08:31,Has Sheriff Liston talked to you?
+181,00:08:31,00:08:33,Hmm? No. Why?
+182,00:08:33,00:08:35,"Well, I wanted to give you a heads-up."
+183,00:08:35,00:08:37,"When I got shot, the department gave me a medal."
+184,00:08:37,00:08:40,Uh-oh. What does the sheriff want to give me?
+185,00:08:40,00:08:42,Her job.
+186,00:08:42,00:08:44,What? What are you talking about?
+187,00:08:44,00:08:47,"She's thinking of resigning, appointing you as her replacement."
+188,00:08:47,00:08:48,"Resigning? No, no, no."
+189,00:08:48,00:08:50,That's the worst thing she could do right now.
+190,00:08:50,00:08:53,And-and I'm the last person who should replace her.
+191,00:08:53,00:08:55,You should consider it. Seriously.
+192,00:08:55,00:08:56,For the sake of the department.
+193,00:08:56,00:09:01,"Look, Conrad, not everyone likes you, but everyone respects you."
+194,00:09:01,00:09:03,"And maybe more importantly, they trust you."
+195,00:09:03,00:09:09,"I'll admit, there was a time I would have jumped at the opportunity, but now..."
+196,00:09:09,00:09:12,"I don't even know if I want to be doing this job anymore, Jim."
+197,00:09:12,00:09:15,"BRODY: Captain, we need to talk."
+198,00:09:17,00:09:18,(camera shutter clicks and beeps)
+199,00:09:18,00:09:21,"How's your head, Mr. Pak?"
+200,00:09:21,00:09:22,It hurts.
+201,00:09:22,00:09:24,"Oh, but you should see the other guy."
+202,00:09:24,00:09:26,"Well, the other head."
+203,00:09:26,00:09:28,Nice to see you still have a sense of humor.
+204,00:09:28,00:09:29,Are you here on vacation?
+205,00:09:29,00:09:31,Electronics convention.
+206,00:09:31,00:09:33,Hospital wasn't on the itinerary.
+207,00:09:33,00:09:35,Those are some nasty-looking hives on your hands.
+208,00:09:35,00:09:37,"Oh, I'm sure it's nothing."
+209,00:09:37,00:09:41,"Shellfish, allergy to cigarette smoke, maybe."
+210,00:09:41,00:09:44,Surprised it's still legal to smoke in casinos.
+211,00:09:44,00:09:46,You can get away with a lot in this town.
+212,00:09:46,00:09:47,"Yeah, like assault with a fake bloody head."
+213,00:09:51,00:09:52,Head was fake.
+214,00:09:52,00:09:54,Blood's another story.
+215,00:09:54,00:09:55,The blood was... real?
+216,00:09:55,00:09:58,Could you give me a minute?
+217,00:09:58,00:10:01,(touch tones sounding)
+218,00:10:01,00:10:05,"Hey, Greg, are you still talking to our prankster?"
+219,00:10:05,00:10:07,"Yeah, I'm sitting right across from him. Why?"
+220,00:10:07,00:10:12,"Hematrace on the blood from his fake head says that it's real, nonhuman."
+221,00:10:12,00:10:14,I need to know what it is.
+222,00:10:14,00:10:18,Hold on. Blood from your prop head's positive for nonhuman.
+223,00:10:18,00:10:20,Nonhuman?
+224,00:10:20,00:10:22,You make it sound like I used alien blood.
+225,00:10:22,00:10:24,"It's pig's blood. Old-school horror movie, dude."
+226,00:10:24,00:10:26,Like any zombie movie.
+227,00:10:26,00:10:28,Tarantino here says it's pig's blood.
+228,00:10:28,00:10:30,Ugh. That's what I was afraid of.
+229,00:10:30,00:10:32,The guy he clocked is having a reaction.
+230,00:10:32,00:10:35,Could be viral. Maybe a blood-born pathogen.
+231,00:10:35,00:10:40,"Oh, great. FINLAY: Yeah, we need to know exactly where he went on the Strip and how many people he came in contact with."
+232,00:10:40,00:10:42,Got it.
+233,00:10:42,00:10:44,"Well, it looks like your wish might have come true."
+234,00:10:44,00:10:46,You went viral.
+235,00:10:46,00:10:48,Awesome!
+236,00:10:48,00:10:50,(whoops) As in outbreak.
+237,00:10:50,00:10:53,Your pig's blood may have been tainted.
+238,00:10:53,00:10:54,"What are you talking about, dude?"
+239,00:10:54,00:10:55,I'm feeling fine.
+240,00:10:55,00:10:58,"All right, dude, you are going to draw me a map."
+241,00:10:58,00:10:59,Everywhere you went.
+242,00:10:59,00:11:01,And you had better find your girlfriend with the camera.
+243,00:11:01,00:11:05,I'm gonna go find you another shirt so you don't contaminate anyone else.
+244,00:11:05,00:11:08,"You stay here, don't touch anything."
+245,00:11:10,00:11:13,SIDLE: Your gunshot victim's stippling indicates close range.
+246,00:11:13,00:11:15,"Dead center, back of the head."
+247,00:11:15,00:11:17,Victim never even turned around.
+248,00:11:17,00:11:20,"Tells me the shooter was quick and efficient, a professional."
+249,00:11:20,00:11:23,Or the shooter was someone that the victim knew.
+250,00:11:23,00:11:25,Or thought he knew.
+251,00:11:25,00:11:27,Doc pulled a .22-caliber slug out of his head.
+252,00:11:27,00:11:29,Come take a look at this.
+253,00:11:32,00:11:33,There's no rifling.
+254,00:11:33,00:11:35,"Hmm, weird, right?"
+255,00:11:35,00:11:40,"Yeah, usually see this when someone drills out the barrel of a gun to make it harder to identify."
+256,00:11:40,00:11:45,"Yeah, but that kind of modification would still leaves marks on the bullet as it rattled down the barrel."
+257,00:11:45,00:11:49,"Yeah, there's no sign of that on this bullet. No."
+258,00:11:49,00:11:54,So...I'm thinking the shooter used a sub-caliber device.
+259,00:11:54,00:12:02,"Adapting a larger caliber weapon to fire a smaller caliber bullet, like using a .44 to fire a .22."
+260,00:12:03,00:12:08,"I'll get it to Hodges, see if he can identify trace from a sub-caliber device."
+261,00:12:08,00:12:10,Maybe we'll be able to tie the bullet to the murder weapon.
+262,00:12:10,00:12:13,Got to find the gun first.
+263,00:12:13,00:12:15,"Stop pushing me, I said."
+264,00:12:15,00:12:18,Sit down.
+265,00:12:18,00:12:20,"I ran your prints, Chastity."
+266,00:12:20,00:12:21,"Your real name is Heather Tile, you're 19."
+267,00:12:21,00:12:24,"You're from Butler, Pennsylvania."
+268,00:12:24,00:12:28,You have prior arrests in Los Angeles and Nevada for prostitution and larceny.
+269,00:12:28,00:12:30,"Look, I can explain that debit card."
+270,00:12:30,00:12:31,I asked a friend... Forget about the debit card.
+271,00:12:31,00:12:32,We'll talk about that later.
+272,00:12:34,00:12:37,"Now, here's what I want to ask you."
+273,00:12:38,00:12:41,Where'd you get this ring?
+274,00:12:41,00:12:44,"What do you mean, where I got that ring?"
+275,00:12:44,00:12:45,That's mine.
+276,00:12:45,00:12:46,"No, it's not yours."
+277,00:12:46,00:12:48,"It is mine. No, it's not."
+278,00:12:48,00:12:50,You know how I know?
+279,00:12:50,00:12:52,The inscription.
+280,00:12:52,00:12:56,"See, I had that ring made for my ex-wife."
+281,00:12:56,00:12:57,That's her engagement ring.
+282,00:12:57,00:13:00,"So I'm going to ask you again, where'd you get the ring?"
+283,00:13:00,00:13:04,"I already told you, I bought it for, like, 200 bucks."
+284,00:13:04,00:13:06,From who?
+285,00:13:06,00:13:09,This girl-- we worked the streets together.
+286,00:13:09,00:13:10,What's her name? I don't know.
+287,00:13:10,00:13:12,We call her Jersey on the street.
+288,00:13:14,00:13:17,Let me show you something.
+289,00:13:17,00:13:18,Tell me...
+290,00:13:20,00:13:21,...does that look like her?
+291,00:13:21,00:13:24,"Mm-hmm, yeah."
+292,00:13:24,00:13:26,That's the girl.
+293,00:13:29,00:13:31,"Oh, man. That's my daughter."
+294,00:13:34,00:13:36,JOSLYN: It's coming.
+295,00:13:36,00:13:38,"It's coming, it's coming."
+296,00:13:38,00:13:39,My baby is coming.
+297,00:13:39,00:13:41,"Oh, my water broke."
+298,00:13:41,00:13:50,"Oh, I'm out of time. Joslyn, remember, we agreed, if I let you out of the chair, you were going to cooperate and be calm. Please, I'm bursting."
+299,00:13:50,00:13:52,"Joslyn, please, we are trying to help you."
+300,00:13:52,00:13:55,"The paramedics are here. They just want to take you to the hospital, make sure you're okay."
+301,00:13:55,00:13:58,"Yeah, to make sure your baby is okay."
+302,00:13:58,00:14:00,My baby is coming. I'm not going to any hospital.
+303,00:14:00,00:14:02,I'm having my baby here!
+304,00:14:02,00:14:05,"I'm having my baby now. Joslyn, just calm down."
+305,00:14:05,00:14:09,(screaming)
+306,00:14:12,00:14:14,Get her down. Get her down!
+307,00:14:14,00:14:15,Get her down!
+308,00:14:20,00:14:23,(shouting indistinctly)
+309,00:14:23,00:14:25,"Help me, help me with my baby."
+310,00:14:30,00:14:32,Looks like a war zone.
+311,00:14:32,00:14:34,"Yeah, war at home."
+312,00:14:34,00:14:35,One casualty.
+313,00:14:35,00:14:40,Hospital said our pregnant transvestite was DOA.
+314,00:14:40,00:14:43,Internal Affairs is going to be all over that.
+315,00:14:43,00:14:44,Sergeant Weiss follow procedure?
+316,00:14:44,00:14:46,As far as I know.
+317,00:14:46,00:14:48,Doesn't mean they won't be looking for a scapegoat.
+318,00:14:50,00:14:52,"Quite a busy night on the Strip, Marko."
+319,00:14:52,00:14:55,So where did you go after the Fashion Arcade?
+320,00:14:55,00:14:57,"Uh, I went to the Olympia."
+321,00:14:57,00:14:59,"Oh, hey, Lydia, it's me."
+322,00:14:59,00:15:01,"So, I'm here with the cops."
+323,00:15:01,00:15:06,"They think maybe our pig's blood spread some, like, Ebola or flu or something."
+324,00:15:06,00:15:09,"Anyway, I need the camera 'cause they want to see who we messed with, so call me back."
+325,00:15:09,00:15:12,"Like, right away."
+326,00:15:12,00:15:14,(phone rings)
+327,00:15:14,00:15:18,"Hey, Finn, if you're still at the hospital, I hope you're in quarantine because you do not want to be here."
+328,00:15:18,00:15:20,I'm actually not in quarantine.
+329,00:15:20,00:15:28,"The hospital tested the pig's blood, and there is no sign of any virus or pathogen, and Mr. Pak's responded well to treatment, so he's on his way home."
+330,00:15:28,00:15:29,So outbreak averted.
+331,00:15:29,00:15:30,Yes.
+332,00:15:30,00:15:32,I am headed back to the lab. Yeah.
+333,00:15:32,00:15:33,I'll see you soon.
+334,00:15:33,00:15:34,"All right, bye."
+335,00:15:34,00:15:36,Told you everything was cool.
+336,00:15:36,00:15:38,Everything is not cool.
+337,00:15:38,00:15:39,What is this?
+338,00:15:39,00:15:43,This is a map of our prankster's trip down the Strip.
+339,00:15:43,00:15:45,Passing right by our John Doe homicide.
+340,00:15:45,00:15:46,"Dude, I didn't see anything."
+341,00:15:46,00:15:48,What about your girlfriend with the camera?
+342,00:15:48,00:15:49,She was too busy shooting.
+343,00:15:49,00:15:51,Video.
+344,00:15:51,00:15:52,So maybe the camera is our witness.
+345,00:15:52,00:15:54,"Yeah, where is it?"
+346,00:15:54,00:15:55,Lydia has it. She's not calling me back.
+347,00:15:55,00:16:01,"Well, you'd better make up with her soon because that camera is evidence in a homicide investigation now."
+348,00:16:03,00:16:04,Hey.
+349,00:16:04,00:16:09,"So I ran the stolen debit card that we got off of Chastity, and guess what."
+350,00:16:09,00:16:13,It was used to rent the car that Nick found our gunshot victim in.
+351,00:16:13,00:16:15,Did you get the driver's license? Yep.
+352,00:16:15,00:16:16,Keith Dobson.
+353,00:16:16,00:16:20,"Name matches the one on the debit card, and the photo matches our dead guy."
+354,00:16:20,00:16:24,So Keith Dobson is our John Doe...
+355,00:16:24,00:16:26,and Chastity is upgraded from trick roll to murder.
+356,00:16:26,00:16:29,Sara says the prankster may have footage of the crime.
+357,00:16:29,00:16:34,"Now we may have a suspect, although I'm not so sure she did it all on her own."
+358,00:16:34,00:16:36,Maybe she had a partner.
+359,00:16:45,00:16:46,Hey. Hey.
+360,00:16:46,00:16:53,"Um, what you said before about not wanting to do this anymore-- did you mean that?"
+361,00:16:53,00:16:55,I'm sorry you overheard that.
+362,00:16:55,00:16:58,"I don't know what I'm thinking right now, and right now is not a good time to discuss it."
+363,00:16:58,00:16:59,Okay?
+364,00:16:59,00:17:04,"Okay, but, you know, whenever you're ready, you know where you can find me."
+365,00:17:04,00:17:07,Okay.
+366,00:17:07,00:17:13,"CHASTITY: I really did buy that ring, you know, and I'm willing to return it as long as you cut me a deal on that debit card."
+367,00:17:15,00:17:17,So you want to negotiate?
+368,00:17:17,00:17:19,"Okay, let's negotiate."
+369,00:17:19,00:17:22,"You know who this is, right?"
+370,00:17:22,00:17:24,That's good.
+371,00:17:24,00:17:31,"Now, I want you to take your time because the next answer you give is going to decide whether you spend 25 years to life in prison."
+372,00:17:34,00:17:36,"I don't know nothing about that, man."
+373,00:17:36,00:17:38,"Okay, what do you know?"
+374,00:17:38,00:17:41,I met him at the pool at the Tangiers.
+375,00:17:41,00:17:44,Him and his buddy-- they...they wanted company.
+376,00:17:44,00:17:46,And you--who did you go with?
+377,00:17:46,00:17:48,No one--it was just me.
+378,00:17:48,00:17:50,They didn't seem to mind.
+379,00:17:50,00:17:52,What? Don't give me that look.
+380,00:17:52,00:17:54,"I'm telling you the truth, all right?"
+381,00:17:54,00:17:55,We'll see.
+382,00:17:55,00:17:56,How'd you get that debit card?
+383,00:17:56,00:18:01,"I spent the day with them at their suite, showed them a good time, you know."
+384,00:18:01,00:18:05,The debit card guy was clueless.
+385,00:18:05,00:18:07,The other guy was more of a player.
+386,00:18:07,00:18:08,Seemed like a local.
+387,00:18:08,00:18:13,"Kind of like that cartoon, you know, like the Country Mouse, the City Mouse, I don't know."
+388,00:18:14,00:18:18,"Except, in this cartoon, the Country Mouse gets a bullet in the back of his head."
+389,00:18:19,00:18:23,"Look, I-I stole the card from the guy while he was in the shower."
+390,00:18:23,00:18:28,"Then he and his buddy-- they wanted to hit the Strip, so I left them at the valet stand."
+391,00:18:28,00:18:30,"I'm telling you the truth, I swear."
+392,00:18:30,00:18:33,The dead guy's friend-- what did he look like?
+393,00:18:33,00:18:38,Not much different-- just another college boy getting off on the Strip.
+394,00:18:42,00:18:47,"ROBBINS: Subject is a male Caucasian, 27."
+395,00:18:47,00:18:54,Cause of death is exsanguination due to multiple sharp force injuries severing the external iliac artery.
+396,00:18:55,00:18:57,"Greg, you okay?"
+397,00:18:57,00:19:00,"Yeah, I...I just thought he was high."
+398,00:19:00,00:19:02,I never imagined he would do anything like this.
+399,00:19:02,00:19:05,We all have our own demons.
+400,00:19:05,00:19:08,Drugs only weaken our ability to confront them.
+401,00:19:08,00:19:13,"Whatever delusions he was suffering from, clearly they got the best of him."
+402,00:19:13,00:19:16,He may not have been as delusional as you think.
+403,00:19:16,00:19:17,What do you mean?
+404,00:19:17,00:19:27,"According to the abdominal X-rays, Joslyn was pregnant-- not with a baby, but, uh, definitely with bundles of joy."
+405,00:19:33,00:19:36,SANDERS: He was smuggling drugs.
+406,00:19:36,00:19:40,"And like him, not all the product survived."
+407,00:19:40,00:19:42,No wonder he had a psychotic break.
+408,00:19:42,00:19:44,Wanted to cut the baby out.
+409,00:19:44,00:19:47,There must be at least 20 balloons left inside his stomach.
+410,00:19:47,00:19:48,SANDERS: I'll get them to Tox.
+411,00:19:48,00:19:52,"If we can identify this drug, maybe we can figure out who he was muling for."
+412,00:19:52,00:19:55,They did this to him.
+413,00:19:55,00:19:58,HODGES: I put our bullet under electron microscope magnification.
+414,00:19:58,00:20:02,"STOKES: Well, whatever it is, it looks like it's scorched right onto the bullet."
+415,00:20:02,00:20:07,"It is, and if you take a closer look, you can see the face of Jesus."
+416,00:20:07,00:20:08,"Come on, man, it's been a long night, dude."
+417,00:20:08,00:20:11,"Fine, be a secular humanist."
+418,00:20:11,00:20:16,What you're looking at is a composite material-- unpolymerized resin and calcium carbide.
+419,00:20:16,00:20:19,Trace left by a sub-caliber device?
+420,00:20:19,00:20:25,"Could be, except that sub-caliber devices are made of brass or steel, not polymer."
+421,00:20:25,00:20:27,"Well, maybe the killer is using plastics."
+422,00:20:27,00:20:29,Maybe even an entirely plastic gun.
+423,00:20:29,00:20:31,Think about it.
+424,00:20:31,00:20:35,"Virtually undetectable, perfect for a robber working the Strip."
+425,00:20:35,00:20:38,John Malkovich-- In the Line of Fire-- made a gun entirely out of polymer.
+426,00:20:38,00:20:41,"Good movie, bad science."
+427,00:20:41,00:20:44,A polymer gun can't stand up to the pressure of firing a bullet.
+428,00:20:44,00:20:45,It would break down.
+429,00:20:45,00:20:47,"Okay, what if you only needed to fire it once?"
+430,00:20:47,00:20:49,"One shot, one kill."
+431,00:20:49,00:20:50,Is that another movie?
+432,00:20:50,00:20:53,"It will be, starring my theory, coming to a lab near you."
+433,00:20:53,00:20:56,"Now, if you'll excuse me, I have some work to do."
+434,00:20:56,00:20:59,Who would play you?
+435,00:21:01,00:21:03,Hmm.
+436,00:21:04,00:21:09,"Hey, Greg, I ran those balloons Doc pulled off your pregnant transvestite."
+437,00:21:09,00:21:10,Yeah.
+438,00:21:10,00:21:13,"Drugs were a cocktail of oxycodone, fentanyl and meperidine."
+439,00:21:13,00:21:17,"That's prescription, not your typical drug-mule fare."
+440,00:21:17,00:21:19,"No, but already on the menu tonight."
+441,00:21:19,00:21:20,What do you mean?
+442,00:21:20,00:21:24,"A few hours ago, Nick and Officer Crawford busted a dealer on the Strip-- Adrian Dinan."
+443,00:21:24,00:21:26,They took a baggie of powder off him.
+444,00:21:26,00:21:31,The drugs the dealer was selling have a chemical composition identical to the drugs in your victim's stomach.
+445,00:21:31,00:21:32,Same drugs.
+446,00:21:32,00:21:38,Means Joslyn was smuggling for the same scumbag who has Dinan out there selling on the street.
+447,00:21:38,00:21:39,Looks like it.
+448,00:21:39,00:21:40,"Thanks, Henry."
+449,00:21:40,00:21:41,You found the connection I was looking for.
+450,00:21:44,00:21:47,ADRIAN (whistles): These are some nasty photos.
+451,00:21:47,00:21:50,"SANDERS: Nasty business, smuggling drugs for you and your boss."
+452,00:21:50,00:21:55,"We know who you work for, Adrian-- Rolan Zahl, Mad-10's set leader."
+453,00:21:55,00:21:58,He runs girls and drugs along the Strip.
+454,00:21:58,00:22:01,"Sorry, I'm an independent contractor."
+455,00:22:01,00:22:03,You want to stick to that story?
+456,00:22:03,00:22:07,'Cause the drugs you're selling tie you to this.
+457,00:22:07,00:22:09,Felony homicide.
+458,00:22:09,00:22:10,Forget about three strikes.
+459,00:22:10,00:22:14,"I mean, we go for ""special circs,"" you get the needle."
+460,00:22:14,00:22:19,"I know you like to ""make deals,"" Crawford, but it's my turn."
+461,00:22:19,00:22:21,What the hell are you talking about?
+462,00:22:21,00:22:24,Crawford here collared the wrong drug dealer.
+463,00:22:24,00:22:26,"That's BS. Adrian, I caught you selling."
+464,00:22:26,00:22:28,Not selling; sampling.
+465,00:22:28,00:22:31,The white boy that he let go...
+466,00:22:33,00:22:35,His name is Bobby Reed. He's a rich kid.
+467,00:22:35,00:22:38,His daddy's some big shot lawyer for the city.
+468,00:22:38,00:22:41,He's been moving drugs in clubs on the Strip.
+469,00:22:41,00:22:46,Good business plan because he and his friends don't look like drug dealers.
+470,00:22:46,00:22:49,But there's only...one problem.
+471,00:22:49,00:22:50,Zahl.
+472,00:22:50,00:22:52,And I imagine he doesn't like people...
+473,00:22:52,00:22:54,cutting into his profits.
+474,00:22:54,00:22:56,Which is where the sampling comes in.
+475,00:22:56,00:22:58,Bobby approached me with his product.
+476,00:22:58,00:23:02,Wanted to set up a meeting with Zahl.
+477,00:23:02,00:23:07,Thought that going into business together was preferable to the alternative.
+478,00:23:07,00:23:09,Let's say we believe you.
+479,00:23:09,00:23:11,Where do we find Bobby Reed?
+480,00:23:13,00:23:18,"You want me to help you with your case, you need to help me with mine."
+481,00:23:20,00:23:28,"Hey, babe. Finally. I've been leaving messages for you all night. I thought we agreed, when you freeze me out like this, it's not healthy for our relationship... Marko, Marko, that's not helpful. Right."
+482,00:23:28,00:23:30,"Listen, I need to put you on speaker."
+483,00:23:30,00:23:31,Do not put me on speaker.
+484,00:23:31,00:23:33,Too late.
+485,00:23:33,00:23:35,"Sorry. Listen, I'm here with Detective Siegel."
+486,00:23:35,00:23:37,"The cops really need the camera, okay?"
+487,00:23:37,00:23:39,"Marko, I'm going to hang up. BOTH: Don't hang up!"
+488,00:23:39,00:23:43,"Uh, Ms. Kasper... It's-it's Lydia, right?"
+489,00:23:44,00:23:45,Who's this?
+490,00:23:45,00:23:46,"Uh, I'm Sara Sidle."
+491,00:23:46,00:23:58,"Uh, I'm with the crime lab, and I'm sure that you don't want anything to do with this, but in all honesty, a man was murdered tonight, and your camera may be the key to finding out who did it."
+492,00:23:58,00:24:00,We really need your help.
+493,00:24:00,00:24:02,You're right. I don't want anything to do with this.
+494,00:24:02,00:24:03,"Okay, w-well, you don't have to."
+495,00:24:03,00:24:07,"Uh, all I need you to do is drop the camera someplace where I could find it."
+496,00:24:07,00:24:11,"Could you... do that for me, please?"
+497,00:24:11,00:24:19,"Where? Okay, uh, behind the Olympia Casino, there's an alley with a Dumpster for newspaper recycling."
+498,00:24:19,00:24:21,You can dump it in there.
+499,00:24:21,00:24:23,"Okay. Marko, you still there?"
+500,00:24:23,00:24:24,"Yeah, babe, I'm here."
+501,00:24:24,00:24:27,"I'm dumping you, too. (beep)"
+502,00:24:33,00:24:36,"MAN: All right, ladies, I'm going to ask you to step over here."
+503,00:24:36,00:24:38,Hey. You find anything yet?
+504,00:24:38,00:24:40,"No, nothing."
+505,00:24:40,00:24:42,"I swear, why do I trust people?"
+506,00:24:42,00:24:44,This job should've beat it out of us by now.
+507,00:24:47,00:24:49,Wait.
+508,00:24:49,00:24:54,Sometimes life does offer up a surprise.
+509,00:24:55,00:24:57,"""M.P."" Marko Palmisano."
+510,00:24:57,00:24:59,All right.
+511,00:25:05,00:25:07,Got blood drops.
+512,00:25:07,00:25:09,What? And some drag marks.
+513,00:25:12,00:25:14,Looks like a struggle.
+514,00:25:18,00:25:19,SIDLE: Blue hoodie.
+515,00:25:19,00:25:21,"Oh, my God, it's Lydia."
+516,00:25:25,00:25:27,"Killer must've been looking for this camera, too."
+517,00:25:28,00:25:30,"Instead of finding it, found her."
+518,00:25:36,00:25:38,This is my fault.
+519,00:25:38,00:25:41,Whoever did this to Lydia did this because of me.
+520,00:25:41,00:25:44,"Marko, this is not your fault. It's not."
+521,00:25:44,00:25:47,It's because of the camera.
+522,00:25:47,00:25:51,"I'm so sorry this happened, and I promise you that we'll find the person that did this."
+523,00:25:54,00:25:56,I'm sorry.
+524,00:26:01,00:26:03,(sighs)
+525,00:26:09,00:26:11,Got to feel for the guy.
+526,00:26:11,00:26:12,Hope he can forgive himself.
+527,00:26:13,00:26:15,I recovered this from your victim.
+528,00:26:15,00:26:16,(sighs)
+529,00:26:16,00:26:18,SIDLE: Looks like a .22.
+530,00:26:18,00:26:23,"Same caliber as the bullet that killed our gunshot vic in the car, Keith Dobson."
+531,00:26:23,00:26:27,Identical wound-- single round perfectly placed at the base of the skull.
+532,00:26:27,00:26:30,"Same caliber, same M.O., same killer."
+533,00:26:30,00:26:36,Hey! I want you all to meet my dad!
+534,00:26:36,00:26:37,"So, did you find anything on the video?"
+535,00:26:37,00:26:40,I did. I found our crime scene.
+536,00:26:40,00:26:43,"Keith Dobson's rental car, and he has company."
+537,00:26:43,00:26:45,"Yeah, hold it right there."
+538,00:26:46,00:26:47,Chastity.
+539,00:26:47,00:26:51,"It's a hooker we busted on the Strip, had Keith Dobson's debit card."
+540,00:26:51,00:26:57,"Well, she told Brass that she left Dobson and a buddy at the valet stand at the Tangiers."
+541,00:26:57,00:26:59,Hard to believe that a hooker would lie.
+542,00:26:59,00:27:02,"Yeah. So what about this ""buddy""?"
+543,00:27:02,00:27:03,Caught him on tape.
+544,00:27:03,00:27:07,"Ah, there he is-- in the backseat, right behind Keith Dobson."
+545,00:27:07,00:27:13,"Bobby Reed. That's the kid we let go--we thought he was buying drugs, dealer said he was selling."
+546,00:27:13,00:27:16,"Well, I think he may be guilty of more than that."
+547,00:27:16,00:27:18,"Sadly, we don't have the smoking gun on tape."
+548,00:27:18,00:27:21,Thanks to Mini-Me in the Mini.
+549,00:27:21,00:27:23,There's a bit of a jumble here.
+550,00:27:23,00:27:26,There... it is.
+551,00:27:26,00:27:29,Bobby Reed and Chastity high-tailing it away from the car.
+552,00:27:29,00:27:31,Leaving Keith at the wheel.
+553,00:27:31,00:27:32,"Yeah, not moving."
+554,00:27:32,00:27:34,Just like you found him.
+555,00:27:34,00:27:36,CHASTITY: It's not what it looks like.
+556,00:27:36,00:27:41,"BRASS: Well, what is it, then? You know, I'm trying to be a good guy, you know, but all I get from you is lies."
+557,00:27:41,00:27:47,"You're gonna tell me the truth, or I'm throwing you to the wolves, so you got about five seconds to tell me."
+558,00:27:47,00:27:48,"I am telling you the truth, okay?"
+559,00:27:48,00:27:50,I had nothing to do with that murder.
+560,00:27:50,00:27:54,"I met them for the first time at the Tangiers. Okay, we're done here."
+561,00:27:55,00:27:57,On orders from Rolan Zahl.
+562,00:27:59,00:28:01,Rolan Zahl?
+563,00:28:01,00:28:03,The Mad-10's set leader?
+564,00:28:03,00:28:04,Huh?
+565,00:28:04,00:28:07,Yeah. I work for him. You mean he's your pimp.
+566,00:28:07,00:28:11,"He asked me to pick up on Bobby Reed, so I did."
+567,00:28:11,00:28:13,His buddy just came along for the ride.
+568,00:28:13,00:28:15,He told me to...
+569,00:28:15,00:28:18,"hang out with Bobby and text him, let him know where we were."
+570,00:28:18,00:28:20,So Rolan Zahl had you keeping tabs on Bobby Reed?
+571,00:28:20,00:28:23,He said he just wanted to talk to the guy.
+572,00:28:23,00:28:27,"""Talk""? Yeah, talk, like, with a gun to his head. Look, what I don't understand is..."
+573,00:28:27,00:28:39,"So, Bobby Reed is in Rolan's sights, but Bobby's friend ends up dead, and you and Bobby Reed are seen walking away. No, no, it's not what it looks like. Look, Bobby said he saw some friend of his on the Strip and..."
+574,00:28:39,00:28:42,"he wanted to go say hi to him, so he just took off."
+575,00:28:42,00:28:50,"And me, I mean, I just wanted to get the hell out of there, you know? I couldn't tell any... When we walked away from that car, his friend was alive."
+576,00:28:50,00:28:52,And they looked a lot alike.
+577,00:28:52,00:28:54,Maybe if Rolan really wanted to...
+578,00:28:54,00:28:56,Come on. What are you saying?
+579,00:28:56,00:28:58,You're saying that Rolan popped the wrong guy?
+580,00:28:58,00:29:01,Forget it. I already said too much.
+581,00:29:01,00:29:06,Number one rule for survival: always know when to walk away.
+582,00:29:08,00:29:10,Jersey taught me that.
+583,00:29:11,00:29:13,You better not be lying to me.
+584,00:29:13,00:29:15,I'm not.
+585,00:29:15,00:29:17,"And I didn't lie about that ring, either."
+586,00:29:17,00:29:19,She really did sell it to me. Wait a minute.
+587,00:29:19,00:29:20,The two of you met in L.A.?
+588,00:29:20,00:29:23,"No, I didn't meet her in L.A. I met her in Vegas."
+589,00:29:24,00:29:26,Vegas?
+590,00:29:26,00:29:27,When?
+591,00:29:28,00:29:31,Couple months ago.
+592,00:29:35,00:29:38,"Didn't know she was here, huh?"
+593,00:29:41,00:29:50,"HODGES: The two bullets we pulled from our victims exhibited not just the same trace, but, as you will notice, identical residue patterns singed onto their surfaces."
+594,00:29:50,00:29:52,"So what? Fired from the same gun, right?"
+595,00:29:52,00:29:54,Yes and no.
+596,00:29:54,00:30:04,"Heraclitus said, ""You never step into the same river twice."" Well, truthfully, you never fire the same gun twice, because each time you fire a weapon, you ever so slightly alter its characteristics."
+597,00:30:04,00:30:06,"Heraclitus, huh? Mmm."
+598,00:30:06,00:30:08,Go on. All right.
+599,00:30:08,00:30:10,Polymer trace got me thinking.
+600,00:30:10,00:30:12,Maybe we're looking for a plastic gun.
+601,00:30:12,00:30:13,Identical markings got me thinking further.
+602,00:30:13,00:30:16,What if you were able to duplicate a gun?
+603,00:30:16,00:30:19,One you could use once and then simply dispose of.
+604,00:30:19,00:30:21,"John Malkovich, In the Line of Fire."
+605,00:30:21,00:30:24,"I love you. Uh, I mean...respect."
+606,00:30:24,00:30:26,"Go on. Okay, I want to show you something."
+607,00:30:29,00:30:31,(lilting music plays) 3-D printer?
+608,00:30:31,00:30:32,The future is here.
+609,00:30:32,00:30:44,"They have scanners now that can scan an object to generate a perfect 3-D computer model, which is then fed into a 3-D printer, which then prints the object in three dimensions using layers of polymer."
+610,00:30:44,00:30:45,"Now, that's cool. Mm-hmm."
+611,00:30:45,00:30:53,"Primarily, 3-D printers are used to manufacture parts for antique cars and design prototypes. And you think our killer..."
+612,00:30:53,00:30:57,"printed a gun. Multiple guns. Identical, disposable, untraceable."
+613,00:30:57,00:30:59,Fits the M.O. of a pro.
+614,00:30:59,00:31:01,How much do these cost?
+615,00:31:01,00:31:03,They're not cheap-- around 150 K.
+616,00:31:03,00:31:08,"Okay, so they're not completely untraceable. Get on the phone, call the manufacturer, let's get a list going. Okay."
+617,00:31:08,00:31:10,"BRASS: Mr. Reed, thank you for coming in."
+618,00:31:10,00:31:12,"I know, as city attorney, you're very busy and..."
+619,00:31:12,00:31:14,I can't believe this.
+620,00:31:14,00:31:17,Do you recognize any of these faces with your son?
+621,00:31:18,00:31:19,"This young man is, um, Keith."
+622,00:31:19,00:31:21,He's Bobby's college roommate.
+623,00:31:21,00:31:23,"This is Bobby's cousin, Josh, though I've..."
+624,00:31:23,00:31:26,never seen him dressed like that.
+625,00:31:26,00:31:28,You say they're both dead?
+626,00:31:28,00:31:30,"Yes. Along with a young woman, a witness."
+627,00:31:32,00:31:34,Bobby's mom and I split up when he was four.
+628,00:31:34,00:31:36,She took him to live back east.
+629,00:31:36,00:31:38,"After college, he came to live out here."
+630,00:31:38,00:31:40,He wanted to make it on his own.
+631,00:31:40,00:31:46,"""Hospitality management."" Mostly it just seemed like he went to clubs. I..."
+632,00:31:46,00:31:49,I figured he's young. So you...
+633,00:31:49,00:31:51,"you really didn't know, uh, what he was into?"
+634,00:31:53,00:31:54,Do you have kids?
+635,00:31:54,00:32:01,"This isn't really about me, Mr. Reed. You know, Bobby has been playing drug lord, and he's pissed off the real one."
+636,00:32:01,00:32:03,A vicious bastard named Rolan Zahl.
+637,00:32:03,00:32:06,"Now, we don't have enough evidence to bring Zahl in."
+638,00:32:06,00:32:10,"But with three people dead, and maybe Bobby next, we need your help."
+639,00:32:10,00:32:11,What can I do?
+640,00:32:11,00:32:13,Reach out to your son.
+641,00:32:13,00:32:15,Tell him to come in and talk to us.
+642,00:32:15,00:32:17,Help us bring a killer to justice.
+643,00:32:17,00:32:20,And if I can't talk him into it?
+644,00:32:20,00:32:22,Then he's looking at street justice.
+645,00:32:22,00:32:23,And very soon.
+646,00:32:23,00:32:25,I ran Chastity's phone records.
+647,00:32:25,00:32:30,She was definitely texting with someone about where she and Bobby Reed were all night.
+648,00:32:30,00:32:32,Texting Rolan Zahl?
+649,00:32:32,00:32:34,I don't know. It was a burner cell.
+650,00:32:34,00:32:50,"10:20 p.m., ""Leaving the hotel with Bobby."" FINLAY: Burner cell responds, ""Stay with him."" SIDLE: 10:32, ""In car, heading for the Strip."" FINLAY: ""Tell me where you end up."" 10:50, ""Pulled over, Price and Boulevard."" ""Keep him there, don't let him leave."" It sounds to me like someone was closing in for the kill."
+651,00:32:50,00:32:52,That's when Chastity got out of there.
+652,00:32:52,00:32:55,And Bobby sees a guy on the Strip he wants to talk to.
+653,00:32:55,00:32:57,"Our dealer, Adrian Dinan."
+654,00:32:57,00:33:00,"And Bobby and Chastity take off, leaving Bobby's friend Keith behind."
+655,00:33:00,00:33:05,"SIDLE: Shooter slips into the backseat, pops the wrong guy."
+656,00:33:05,00:33:08,"You know, Bobby and Keith do look a lot alike."
+657,00:33:08,00:33:09,SANDERS: That's a good theory.
+658,00:33:09,00:33:10,But how do we prove it?
+659,00:33:12,00:33:13,Anybody order a break in the case?
+660,00:33:13,00:33:15,I hate it when you do that.
+661,00:33:15,00:33:16,You're gonna like this.
+662,00:33:16,00:33:23,Trace from our bullets-- unpolymerized resin and calcium carbide-- turns out to be a match to a 3-D printer model.
+663,00:33:23,00:33:27,One that I believe printed our guns.
+664,00:33:27,00:33:28,Could I see that trace report?
+665,00:33:28,00:33:30,So you proved your plastic gun theory.
+666,00:33:31,00:33:33,Congratulations.
+667,00:33:33,00:33:35,How does that break our case?
+668,00:33:35,00:33:41,Purchase of said printer tracks to a car restoration shop on Madison Street in Northtown.
+669,00:33:41,00:33:44,The owner: one Rolan Zahl.
+670,00:33:44,00:33:46,"Oh, looks like we're closer to putting the murder weapon in Zahl's hand."
+671,00:33:46,00:33:48,Not exactly Zahl's hand.
+672,00:33:48,00:33:50,Unpolymerized resin and calcium carbide.
+673,00:33:50,00:33:52,That is not the first time I've seen this trace.
+674,00:33:52,00:33:54,What do you mean?
+675,00:33:54,00:33:58,Same results came back from Desert Palm last night.
+676,00:33:58,00:34:00,They were looking for biologicals.
+677,00:34:00,00:34:01,A blood-borne pathogen.
+678,00:34:01,00:34:06,The cause of an allergic reaction experienced by Mr. Anthony Pak.
+679,00:34:06,00:34:07,SIDLE: Wait a minute.
+680,00:34:07,00:34:11,Isn't that our tourist who was clocked by Mark Palmisano's latex head?
+681,00:34:11,00:34:15,"Yeah. FINLAY: Who also had an allergic reaction, apparently, to his own gun."
+682,00:34:15,00:34:17,Plastic guns aren't for everyone.
+683,00:34:17,00:34:21,"Context is everything, and everything is making a lot more sense right now."
+684,00:34:21,00:34:22,Check it out.
+685,00:34:22,00:34:25,Lydia's video footage.
+686,00:34:25,00:34:28,He must have thought she recorded the murder.
+687,00:34:28,00:34:29,It was no accident Pak was there.
+688,00:34:29,00:34:32,"No, man, he was going for the camera."
+689,00:34:32,00:34:33,Our tourist is our killer.
+690,00:34:48,00:34:52,So Dennis Reed convinced his son to turn himself in.
+691,00:34:52,00:34:54,"Well, the guy's the city attorney."
+692,00:34:54,00:34:55,His whole life is about negotiation.
+693,00:34:55,00:34:57,"You know, unions, developers."
+694,00:34:57,00:35:01,This was a negotiation I didn't think he could pull off.
+695,00:35:01,00:35:05,I guess you can't underestimate the bond between a father and a child.
+696,00:35:05,00:35:07,Hasn't been my experience.
+697,00:35:07,00:35:09,"Yeah, sorry."
+698,00:35:09,00:35:11,I heard about the ring.
+699,00:35:11,00:35:16,"Well, you know, that might have been one of the best days of my life."
+700,00:35:16,00:35:17,"I surprised Nancy, my ex-wife."
+701,00:35:17,00:35:20,"I gave her the ring, took her to dinner, the ballet."
+702,00:35:20,00:35:21,"Yeah, yeah, ballet."
+703,00:35:21,00:35:23,"I like ballet. No, I can see that."
+704,00:35:23,00:35:25,"Yeah, there was a lot of good memories in the early years."
+705,00:35:25,00:35:30,"But I guess that's what you hang onto, the good times."
+706,00:35:30,00:35:32,Even with my daughter Ellie.
+707,00:35:32,00:35:33,I'm sorry.
+708,00:35:33,00:35:34,That's got to be hard.
+709,00:35:34,00:35:37,"You know, when Nancy and I split up, she wanted to give the ring back."
+710,00:35:37,00:35:38,"I said, no, give it to Ellie."
+711,00:35:38,00:35:40,She should have it.
+712,00:35:40,00:35:42,And then she sells it to that girl for 200 bucks.
+713,00:35:42,00:35:48,"That only means that she's in trouble, and she's not reaching out to me."
+714,00:35:52,00:35:54,You know that guy?
+715,00:35:54,00:35:56,Never seen him before.
+716,00:35:56,00:35:57,"Well, he knows you."
+717,00:35:57,00:35:59,"Lucky for you, he doesn't know you that well."
+718,00:35:59,00:36:02,That's why he popped your buddy Keith instead of you.
+719,00:36:02,00:36:05,STOKES: You really pissed off Rolan Zahl.
+720,00:36:05,00:36:07,He hired a hit man to put you out of business.
+721,00:36:07,00:36:09,I know that.
+722,00:36:09,00:36:10,"That's why I'm here, right?"
+723,00:36:10,00:36:12,I don't get it.
+724,00:36:12,00:36:16,"You have everything: education, money, opportunity."
+725,00:36:16,00:36:18,Why the hell would you want to be a drug dealer?
+726,00:36:18,00:36:20,You sound like my dad.
+727,00:36:20,00:36:23,"These men are trying to help you, Bobby."
+728,00:36:23,00:36:24,You should listen to your father.
+729,00:36:24,00:36:26,I've listened plenty.
+730,00:36:26,00:36:29,I don't want to be a lawyer or a doctor or a banker.
+731,00:36:29,00:36:30,Might as well be dead.
+732,00:36:30,00:36:32,(chuckles)
+733,00:36:32,00:36:34,I don't expect you people to understand.
+734,00:36:34,00:36:37,What it's like to be a player.
+735,00:36:37,00:36:38,Prince of the city.
+736,00:36:38,00:36:41,"You do realize that three people are dead because of you, right?"
+737,00:36:41,00:36:43,That's not on me.
+738,00:36:43,00:36:45,Do you have any idea what you've done?
+739,00:36:45,00:36:46,What the hell is wrong with you?
+740,00:36:46,00:36:48,"I know exactly what I've done, Dad."
+741,00:36:48,00:36:50,And I know where I'm going.
+742,00:36:50,00:36:52,Just like old times.
+743,00:36:52,00:36:53,You get weekend visits.
+744,00:36:53,00:36:57,"And, hey, maybe if you show up more often this time, you'll figure me out."
+745,00:36:59,00:37:02,"Got something for me to sign, don't you?"
+746,00:37:02,00:37:04,We do.
+747,00:37:06,00:37:08,Okay.
+748,00:37:08,00:37:10,So the college boy's in; what about you?
+749,00:37:10,00:37:12,Do I really have a choice?
+750,00:37:12,00:37:15,"Right now, you're just looking at solicitation."
+751,00:37:15,00:37:21,I'd rather have your help trying to bring Rolan Zahl in than bumping up the charges to accessory to murder.
+752,00:37:23,00:37:28,When this is all over... then what?
+753,00:37:31,00:37:33,It's not like you guys are gonna protect me or anything.
+754,00:37:33,00:37:35,Hey.
+755,00:37:35,00:37:37,Heather.
+756,00:37:37,00:37:39,Listen to me.
+757,00:37:39,00:37:46,"When this is over... I'm gonna give you money and a bus ticket back to Butler, PA."
+758,00:37:46,00:37:51,"I want you to go back home, I want you to call your dad, I want you to try to build a life there."
+759,00:37:51,00:37:53,And don't come back to the Strip.
+760,00:37:57,00:38:00,SIDLE: Chastity's made contact with Pak.
+761,00:38:00,00:38:03,I hope she keeps him on the hook.
+762,00:38:03,00:38:06,Looks like it's going down at the Fashion Arcade.
+763,00:38:06,00:38:08,"Fashion Arcade. You got that, Nick?"
+764,00:38:08,00:38:09,"STOKES: Yeah, copy that."
+765,00:38:09,00:38:10,We got eyes on Bobby and Chastity.
+766,00:38:10,00:38:13,CRAWFORD: Backup's en route.
+767,00:38:13,00:38:15,Taking up positions.
+768,00:38:15,00:38:18,I'm pulling up CCTV cams on the Strip.
+769,00:38:19,00:38:23,I got Bobby Reed and Chastity.
+770,00:38:23,00:38:25,There's Nick and Crawford.
+771,00:38:25,00:38:27,Any sign of our shooter? Not yet.
+772,00:38:27,00:38:29,"Oh, wait a minute."
+773,00:38:29,00:38:31,Got him.
+774,00:38:31,00:38:32,"Hello, Mr. Pak."
+775,00:38:32,00:38:36,"Nick, we have a visual on Pak. Where?"
+776,00:38:36,00:38:38,To the right of you at 2:00.
+777,00:38:40,00:38:45,"Yeah, yeah, it... it looks like he's texting."
+778,00:38:47,00:38:50,"Yeah, he's telling them to go to the food court."
+779,00:38:50,00:38:52,"All units, converge on the food court."
+780,00:38:52,00:38:54,"All units, converge on the food court."
+781,00:38:54,00:38:55,Pak's on the move.
+782,00:38:55,00:38:57,"That's all right, we got him."
+783,00:39:01,00:39:04,He's taking a shortcut.
+784,00:39:04,00:39:05,Where the hell did he go?
+785,00:39:05,00:39:07,"Nick, we lost him."
+786,00:39:07,00:39:09,"Yeah, so did we."
+787,00:39:09,00:39:11,CRAWFORD: Where'd he go?
+788,00:39:11,00:39:12,I don't know. I can't find him anywhere.
+789,00:39:15,00:39:17,He knows where the cameras are.
+790,00:39:31,00:39:34,LVPD.
+791,00:39:34,00:39:35,Drop the gun.
+792,00:39:35,00:39:38,Drop it or we drop you.
+793,00:39:42,00:39:43,"CRAWFORD: Looking good, Weiss."
+794,00:39:50,00:39:52,Pak's not talking.
+795,00:39:52,00:39:54,Not even to ask for a lawyer?
+796,00:39:54,00:39:58,I'm sure Rolan Zahl has that all taken care of.
+797,00:39:58,00:40:01,"By the way, we searched Rolan Zahl's auto restoration shop."
+798,00:40:01,00:40:03,No sign of a 3-D printer.
+799,00:40:03,00:40:04,Got rid of it.
+800,00:40:04,00:40:06,"Okay, so what do we got?"
+801,00:40:06,00:40:09,"We got a gun and a phone with text messages, both in Pak's hands."
+802,00:40:09,00:40:13,And Rolan Zahl's hands stay clean.
+803,00:40:13,00:40:16,We do have Chastity's testimony.
+804,00:40:16,00:40:17,"Uh, the word of a prostitute?"
+805,00:40:17,00:40:18,Good luck.
+806,00:40:18,00:40:21,"Okay, so Zahl walks, everybody else goes to jail."
+807,00:40:23,00:40:25,And Chastity?
+808,00:40:25,00:40:27,"No, she's got a deal that stays in place."
+809,00:40:27,00:40:29,She's getting a second chance.
+810,00:40:29,00:40:31,She's a smart girl. I think she'll take it.
+811,00:40:31,00:40:35,"Little help from the right person, I'm sure she will."
+812,00:40:40,00:40:42,(indistinct chatter)
+813,00:40:52,00:40:53,Waitress was busy.
+814,00:40:53,00:40:55,Thought I'd give her a hand.
+815,00:40:55,00:40:56,"Man, you are a tough guy to find."
+816,00:40:56,00:40:59,I practically had to bribe your duty officer just to get your 20.
+817,00:40:59,00:41:04,I just needed a little peace and quiet to finish up these reports for I.A.
+818,00:41:04,00:41:09,Probably having a field day with the bloodbath in the PD and cops letting suspects walk.
+819,00:41:09,00:41:12,Anybody getting the ax?
+820,00:41:12,00:41:14,Not if I can help it.
+821,00:41:19,00:41:21,Chicken soup?
+822,00:41:21,00:41:22,You don't like that stuff.
+823,00:41:22,00:41:25,"Last time I saw you with a bowl of that, it was in the hospital."
+824,00:41:25,00:41:28,"Well, I'm developing a taste for it, I guess."
+825,00:41:28,00:41:30,"What's wrong, Dad?"
+826,00:41:32,00:41:34,Is this about the sheriff's offer?
+827,00:41:34,00:41:38,"I don't know, M. I-I guess I'm just not feeling myself lately."
+828,00:41:38,00:41:44,"These days, everywhere I look, everything in my life just seems so complicated."
+829,00:41:44,00:41:45,(chuckles)
+830,00:41:45,00:41:46,"Everything, huh?"
+831,00:41:46,00:41:48,Really?
+832,00:41:48,00:41:51,"No, no, I d--I don't mean everything, no."
+833,00:41:51,00:42:02,"Listen to me, I'm confused about a lot of things right now, but you and me, our relationship-- that is the only thing in my life that makes sense."
+834,00:42:08,00:42:09,"Well, my shift is over."
+835,00:42:09,00:42:11,Mind if I join you?
+836,00:42:11,00:42:14,I'd be happy to have your company--always.
+837,00:42:14,00:42:18,Would it drive you crazy if I ordered a bacon double chili cheeseburger?
+838,00:42:18,00:42:20,Not if we order two.
+839,00:42:22,00:42:24,BRASS: Hey.
+840,00:42:24,00:42:25,I just got back from holding.
+841,00:42:25,00:42:26,Where's Heather?
+842,00:42:26,00:42:28,Who? Heather Tile.
+843,00:42:29,00:42:32,Chastity the prostitute.
+844,00:42:32,00:42:35,"Oh, yeah, somebody made bail for her."
+845,00:42:35,00:42:36,Bail--who?
+846,00:42:36,00:42:37,I don't know.
+847,00:42:37,00:42:41,"You know, actually, she left something for you."
+848,00:42:41,00:42:43,Oh.

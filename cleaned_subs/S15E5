@@ -1,0 +1,727 @@
+,start,end,text
+0,00:00:10,00:00:11,(indistinct chatter)
+1,00:00:12,00:00:13,Ready?
+2,00:00:33,00:00:35,Quite the party.
+3,00:00:35,00:00:37,SIDLE: All I want to do...
+4,00:00:37,00:00:39,is relax.
+5,00:00:39,00:00:41,BRODY: Just wait for our poolside spa treatments.
+6,00:00:41,00:00:44,"FINLAY: All right, we have very big plans tonight."
+7,00:00:44,00:00:46,What you got?
+8,00:00:46,00:00:49,"Well, first of all, we are going to dinner at Marcienne's."
+9,00:00:49,00:00:51,Steakhouse. Awesome.
+10,00:00:51,00:00:53,I called ahead.
+11,00:00:53,00:00:56,The chef is going to prepare you your own special vegetarian dish.
+12,00:00:56,00:00:59,"Then we're going dancing at Tao, where I got us a VIP table."
+13,00:00:59,00:01:01,Ooh... fun.
+14,00:01:01,00:01:03,Maybe we'll run into Kim and Kanye.
+15,00:01:03,00:01:04,Yes.
+16,00:01:04,00:01:05,"Oh, waiter. Excuse me."
+17,00:01:05,00:01:09,Could we have a very nice bottle of champagne?
+18,00:01:09,00:01:12,"Finn, it's, like, barely 9:00 in the morning."
+19,00:01:12,00:01:14,"Uh, with orange juice."
+20,00:01:15,00:01:16,Mimosas sound so good.
+21,00:01:16,00:01:20,"You guys, we have a few hours before this conference starts."
+22,00:01:20,00:01:21,We have to make the most of it.
+23,00:01:21,00:01:23,Excellent.
+24,00:01:25,00:01:28,I wonder what the guys are up to at the lab.
+25,00:01:30,00:01:33,"RUSSELL: Ah, the smell of decomp in the morning."
+26,00:01:33,00:01:35,Heard we got a goopy one.
+27,00:01:35,00:01:37,Yep.
+28,00:01:37,00:01:39,"Think we, uh, drew the short straw this weekend, huh, Dave?"
+29,00:01:39,00:01:41,"Oh, come on, you guys."
+30,00:01:41,00:01:44,Can't afford to send everybody to the conference.
+31,00:01:44,00:01:45,"Anyway, they're all boring."
+32,00:01:45,00:01:46,Where'd you find the body?
+33,00:01:46,00:01:47,Abandoned construction site.
+34,00:01:47,00:01:51,Real estate agent took one look inside this drum and called the cops.
+35,00:01:51,00:01:54,Killer must have used something to dissolve the body.
+36,00:02:00,00:02:01,I'll get this to Hodges.
+37,00:02:03,00:02:05,Somebody didn't want this victim to be identified.
+38,00:02:05,00:02:09,"Well, the La Tijera gang has been known to dissolve the bodies of their victims."
+39,00:02:10,00:02:12,Okay. Let's dump it and see what we've got.
+40,00:02:29,00:02:31,Girls are gonna be real sorry they missed this one.
+41,00:02:31,00:02:33,"Man, I needed this."
+42,00:03:39,00:03:40,(indistinct chatter)
+43,00:03:50,00:03:53,"FINLAY: Wow, it's a really good turnout."
+44,00:03:53,00:03:56,"Yeah, way better than Boise last year."
+45,00:03:56,00:03:59,"I think, like, only three people showed up to my presentation."
+46,00:04:02,00:04:03,"Oh, Jane Snyder's here."
+47,00:04:05,00:04:07,"Hey, hey. You guys want to get something to eat?"
+48,00:04:07,00:04:08,I'm buying.
+49,00:04:08,00:04:09,"Oh, my gosh. Sara?"
+50,00:04:10,00:04:12,"Yoo-hoo, Sara?"
+51,00:04:13,00:04:17,"Sarah, it is so good to see you. How are you doing?"
+52,00:04:17,00:04:18,Great.
+53,00:04:18,00:04:20,How are you?
+54,00:04:20,00:04:26,"Oh, fantastic. I just signed a deal to host a new show on WNE, Crime Time in Primetime."
+55,00:04:26,00:04:28,That's very clever.
+56,00:04:28,00:04:29,"Uh, these are my colleagues."
+57,00:04:29,00:04:31,This is Julie Finlay and Morgan Brody.
+58,00:04:31,00:04:34,"Dr. Jane Snyder, but most people just call me Dr. Jane."
+59,00:04:34,00:04:35,You probably know that.
+60,00:04:35,00:04:36,I've read your book.
+61,00:04:36,00:04:39,"Oh, lucky you. So if you have a copy, I'm happy to autograph it."
+62,00:04:39,00:04:41,"Oh, no. Sorry, I forgot."
+63,00:04:41,00:04:50,"Well, I hope you're all coming to my presentation this afternoon, ""Defending Your Evidence: How to Avoid Getting Skewered on the Stand."" That is a great title."
+64,00:04:51,00:04:53,(laughing): I know it is.
+65,00:04:53,00:04:55,"You know, testifying is an art form."
+66,00:04:55,00:04:57,Not all criminalists are good at it.
+67,00:04:57,00:04:59,"But I don't have to tell youthat, do I, Sara?"
+68,00:04:59,00:05:01,MAN: Dr. Jane!
+69,00:05:01,00:05:02,"Hey, Travis!"
+70,00:05:02,00:05:03,"Well, I'll see you guys later."
+71,00:05:03,00:05:04,Bring the book.
+72,00:05:04,00:05:06,I'll sign it for all of you.
+73,00:05:08,00:05:10,"All right, what is the story with you two?"
+74,00:05:10,00:05:15,"We were criminalists together back in San Francisco, and then she switched sides."
+75,00:05:15,00:05:17,She became an expert witness for the defense.
+76,00:05:17,00:05:20,"Did she, uh, ""skewer"" you on the stand?"
+77,00:05:20,00:05:26,"No, no, no. Not me, but a trainee of mine. It was his first time on the stand, and he was nervous, and she made him seem completely incompetent."
+78,00:05:26,00:05:29,"She questioned his protocol, his ethics."
+79,00:05:29,00:05:31,BRODY: Guess that's why those defense attorneys pay her the big bucks.
+80,00:05:31,00:05:35,"SIDLE: Yeah, well, in exchange for a fat paycheck, she helped put a rapist back on the street, so..."
+81,00:05:35,00:05:38,That is quite a display you have there.
+82,00:05:39,00:05:41,Thank you.
+83,00:05:41,00:05:43,It's the latest in digital downloading software.
+84,00:05:43,00:05:45,How does it work?
+85,00:05:45,00:05:49,"Uh, let's say you witnessed a crime, captured part of it on your phone."
+86,00:05:49,00:05:54,This software allows law enforcement to download your most recent photos and videos right on the spot.
+87,00:05:54,00:05:56,No access to e-mails and texts.
+88,00:05:56,00:05:57,No need to give up your phone.
+89,00:05:57,00:05:59,Fascinating.
+90,00:05:59,00:06:01,I wouldn't mind a demonstration.
+91,00:06:01,00:06:04,SIDLE: I think Morgan and I are gonna go check out the new tape lifts.
+92,00:06:04,00:06:06,Yeah. I... that's...
+93,00:06:06,00:06:07,Bye.
+94,00:06:07,00:06:10,"Looking good, Finn."
+95,00:06:10,00:06:11,"Oh, thank you."
+96,00:06:11,00:06:12,I was hoping you'd be here.
+97,00:06:12,00:06:14,Getting off in a couple of hours.
+98,00:06:14,00:06:15,Buy you a drink?
+99,00:06:17,00:06:19,Absolutely.
+100,00:06:19,00:06:24,"Based on the narrow sciatic notch of the pelvic bone, I can tell you our victim is male."
+101,00:06:24,00:06:26,What about race? Or age?
+102,00:06:28,00:06:33,"The, uh, frontal suture in the skull is closed, telling me that he's older than 18, but beyond that, I can't say."
+103,00:06:33,00:06:40,"As for race, if you'll take a look at the maxillary bones, you can see they have a parabolic shape, indicating European descent."
+104,00:06:40,00:06:45,"So, adult white male, shot with a medium-caliber pistol."
+105,00:06:45,00:06:49,We found this bullet when we poured him through the sifter.
+106,00:06:49,00:06:52,Looks like he was shot execution style.
+107,00:06:52,00:06:56,"Doc, you gonna be able to extract DNA from his dental pulp?"
+108,00:06:56,00:06:59,"No, there's a risk of bacterial contamination."
+109,00:06:59,00:07:03,Our best chance for DNA is extracting marrow from the femur.
+110,00:07:03,00:07:05,"If we can get a profile, we'll run it through CODIS."
+111,00:07:05,00:07:09,Maybe somebody's missing our goop man here.
+112,00:07:16,00:07:19,I can't believe you signed us up for Snyder's presentation.
+113,00:07:19,00:07:22,"That was, like, two weeks ago."
+114,00:07:22,00:07:25,How was I supposed to know you had some kind of history with Dr. Jane?
+115,00:07:25,00:07:26,I think it'll be fun.
+116,00:07:26,00:07:28,"I went on YouTube, watched some of her videos."
+117,00:07:28,00:07:30,I think she's gonna be pretty entertaining.
+118,00:07:30,00:07:31,Looking for someone?
+119,00:07:32,00:07:35,"A certain vendor, perhaps?"
+120,00:07:35,00:07:37,"Yes, his name is Mark, and he is meeting me here for a drink."
+121,00:07:37,00:07:39,"Well, please be careful."
+122,00:07:39,00:07:42,Last time you picked up a guy...
+123,00:07:42,00:07:43,"No, no, no, no."
+124,00:07:43,00:07:46,"I have known him for a very, very long time."
+125,00:07:46,00:07:47,Really? Yeah.
+126,00:07:47,00:07:49,How do you know each other?
+127,00:07:49,00:07:51,"Well, I met him five years ago at a conference."
+128,00:07:51,00:07:56,"We spent some quality time together, and it's been an annual tradition ever since."
+129,00:07:56,00:07:58,"So, you only see him once a year?"
+130,00:07:58,00:08:00,"Well, he lives in Boston."
+131,00:08:00,00:08:03,"And the rest of the time, you just talk and text?"
+132,00:08:03,00:08:05,It's not really that kind of relationship.
+133,00:08:05,00:08:07,"It's, um..."
+134,00:08:07,00:08:08,We're just having a good time.
+135,00:08:08,00:08:10,That's what I wish I could do.
+136,00:08:10,00:08:11,"When a guy asks me out, I..."
+137,00:08:11,00:08:15,it's like I have to make a pro and con list before I say yes.
+138,00:08:15,00:08:17,That's all right. It sounds like you're looking for Mr. Right.
+139,00:08:17,00:08:18,There's nothing wrong with that.
+140,00:08:18,00:08:24,"Yeah, and I just think that relationships are really hard, and it's just easier sometimes to... keep it fun."
+141,00:08:25,00:08:27,Less of a chance of getting hurt.
+142,00:08:27,00:08:28,"Yeah, not so many disappointments."
+143,00:08:28,00:08:29,"SIDLE: Well, that's true."
+144,00:08:29,00:08:32,But then you never get to make a real connection with someone.
+145,00:08:32,00:08:38,"I mean, to be with somebody who really gets you, who loves you for who you are-- I don't know."
+146,00:08:38,00:08:40,I think it's worth the risk.
+147,00:08:42,00:08:43,Especially when he's as hot as that.
+148,00:08:47,00:08:48,"FINLAY: Bye, girls."
+149,00:08:50,00:08:52,We're not gonna see her for the rest of this...
+150,00:08:52,00:08:53,"The whole time-- she's gone, she's gone."
+151,00:09:09,00:09:11,Reduced to a jar of goop.
+152,00:09:11,00:09:13,Not how I'd want to end up.
+153,00:09:13,00:09:17,"Pretty sure our victim didn't want to end up that way, either."
+154,00:09:17,00:09:19,"No, I plan on being meticulously embalmed."
+155,00:09:19,00:09:27,"My chiseled features perfectly preserved for all of eternity, before being entombed alongside my mother in a marble mausoleum."
+156,00:09:27,00:09:30,"You've given this a lot of thought, haven't you?"
+157,00:09:30,00:09:31,Haven't you?
+158,00:09:31,00:09:33,"Oh, I don't know. You know, cremate me."
+159,00:09:33,00:09:35,Sprinkle me over a farm so I can be of use.
+160,00:09:35,00:09:39,Have you figured out how this guy got turned into goop?
+161,00:09:39,00:09:41,Muriatic acid.
+162,00:09:41,00:09:49,"Killer probably assumed that it would dissolve the entire body, but didn't count on the fact that the decomp process itself gradually weakens the acid."
+163,00:09:49,00:09:55,"Unfortunately, you can find this stuff in any home improvement store in the country, so it doesn't really help us I.D. the killer."
+164,00:09:55,00:09:56,DNA paid off.
+165,00:09:56,00:09:58,Got an I.D. on our vic.
+166,00:09:58,00:09:59,Paul Carson.
+167,00:09:59,00:10:01,Security guard from Henderson.
+168,00:10:01,00:10:03,His wife reported him missing.
+169,00:10:03,00:10:05,"Said he left for work three days ago, never came back."
+170,00:10:05,00:10:07,There's a BOLO out on his van.
+171,00:10:07,00:10:09,Do we know where he worked? The Mediterranean.
+172,00:10:09,00:10:11,Isn't that where the conference is?
+173,00:10:11,00:10:17,"Yeah, and get this-- according to the hotel manager, Carson's key card was used just a few hours ago."
+174,00:10:17,00:10:19,"So, his killer could be at the hotel right now."
+175,00:10:21,00:10:23,Come on.
+176,00:10:25,00:10:27,"Hey, Morgan. Is anyone sitting here?"
+177,00:10:27,00:10:29,It's all yours. Thanks.
+178,00:10:32,00:10:33,(audience murmurs excitedly)
+179,00:10:47,00:10:49,Strobe lights? Really?
+180,00:10:49,00:10:50,"I told you, she puts on a good show."
+181,00:10:52,00:10:54,I am Dr. Jane Snyder.
+182,00:10:54,00:10:55,(audience applauds)
+183,00:10:55,00:10:56,SNYDER: Thank you!
+184,00:10:56,00:11:02,I am so excited to be here to teach you how to defend your evidence.
+185,00:11:02,00:11:07,"First and foremost, the courtroom is a stage."
+186,00:11:07,00:11:10,And it is your job to perform!
+187,00:11:15,00:11:16,(women shrieking happily)
+188,00:11:16,00:11:18,Oh. My. God.
+189,00:11:29,00:11:30,(gasps)
+190,00:11:30,00:11:32,"(gunshots, screaming)"
+191,00:11:43,00:11:45,(people screaming)
+192,00:11:52,00:11:53,Vicki!
+193,00:11:58,00:12:00,(sounds muffled)
+194,00:12:04,00:12:05,SIDLE: It's all right.
+195,00:12:05,00:12:08,It's over.
+196,00:12:08,00:12:10,It's clear! It's clear.
+197,00:12:11,00:12:12,I'll go get some help.
+198,00:12:14,00:12:16,"(indistinct murmuring, sobbing)"
+199,00:12:16,00:12:18,(sobs)
+200,00:12:21,00:12:22,Vicki! Hey.
+201,00:12:22,00:12:24,"Just hang on, okay?"
+202,00:12:24,00:12:26,SIDLE: This is CSI Sidle.
+203,00:12:26,00:12:29,There's been a mass shooting at the Mediterranean Hotel forensic conference.
+204,00:12:29,00:12:31,Roll paramedics and PD. Code 3!
+205,00:12:33,00:12:35,(Brody sobs)
+206,00:12:35,00:12:37,Come on! Come on!
+207,00:12:37,00:12:39,Morgan...
+208,00:12:39,00:12:40,Come on. Come on.
+209,00:12:40,00:12:41,SIDLE: Morgan..
+210,00:12:41,00:12:43,"BRODY: Please, come on."
+211,00:12:43,00:12:44,SIDLE: She's gone.
+212,00:12:44,00:12:46,You're good.
+213,00:12:46,00:12:47,You're good. Morgan.
+214,00:12:47,00:12:48,Morgan...
+215,00:12:48,00:12:50,"Come on. Morgan, she's gone."
+216,00:12:50,00:12:52,She's gone.
+217,00:12:53,00:12:56,Morgan! Look at me!
+218,00:12:56,00:12:58,You okay?
+219,00:12:58,00:13:00,Are you hurt? No.
+220,00:13:02,00:13:04,(sobs)
+221,00:13:04,00:13:05,What the hell just happened?
+222,00:13:08,00:13:10,How many shooters were there?
+223,00:13:10,00:13:11,Just one.
+224,00:13:11,00:13:12,An assault rifle.
+225,00:13:12,00:13:14,It looked like an AR-15.
+226,00:13:14,00:13:16,So you saw him? He went out the back door.
+227,00:13:18,00:13:20,I'm gonna call Finn.
+228,00:13:20,00:13:23,"Admit it, Russell Wilson is no Tom Brady."
+229,00:13:23,00:13:25,You're just saying that because he's married to a supermodel.
+230,00:13:25,00:13:28,"No, I'm saying that because he has three Super Bowl rings."
+231,00:13:28,00:13:30,And he's married to a supermodel.
+232,00:13:31,00:13:32,"Yeah, well, at least my team doesn't cheat."
+233,00:13:32,00:13:33,Ouch.
+234,00:13:33,00:13:35,You really know how to hurt a guy.
+235,00:13:35,00:13:37,"Aw, poor baby."
+236,00:13:37,00:13:39,(phone buzzing)
+237,00:13:41,00:13:42,No? No.
+238,00:13:42,00:13:43,(giggles)
+239,00:13:43,00:13:45,(phone continues buzzing)
+240,00:13:47,00:13:48,(bell dings)
+241,00:13:52,00:13:54,No!
+242,00:13:56,00:13:58,(panting)
+243,00:14:04,00:14:06,"Are you... Yeah, I'm okay."
+244,00:14:06,00:14:08,That doesn't look good.
+245,00:14:08,00:14:12,(groaning)
+246,00:14:12,00:14:13,Hold this really tight.
+247,00:14:25,00:14:26,"FINLAY: Oh, no!"
+248,00:14:26,00:14:28,"Hey, Russell."
+249,00:14:28,00:14:30,"Have you heard from the girls? Yeah, they're okay."
+250,00:14:30,00:14:31,Police are on the scene. Five dead.
+251,00:14:31,00:14:33,More injured.
+252,00:14:33,00:14:34,Is the shooter still in there?
+253,00:14:34,00:14:36,We're still getting reports of gunfire in other parts of the hotel.
+254,00:14:36,00:14:38,We should get down there.
+255,00:14:38,00:14:40,I tried. Hotel's on lockdown.
+256,00:14:40,00:14:42,They're not letting anybody in.
+257,00:14:42,00:14:44,I'm gonna go meet Ecklie at PD.
+258,00:14:44,00:14:45,"All right, well, what can I do?"
+259,00:14:45,00:14:49,Uh... keep-keep working the Carson case.
+260,00:14:49,00:14:54,"I mean, one thing we know is that whoever killed him used his key card today at the hotel."
+261,00:14:54,00:14:57,"Yeah, so you think that his killer is the shooter."
+262,00:14:57,00:14:58,Get an I.D.
+263,00:14:58,00:14:59,Maybe we can stop this guy.
+264,00:15:01,00:15:03,(sirens wailing)
+265,00:15:04,00:15:06,Move. Move!
+266,00:15:07,00:15:09,"SWAT Two, up."
+267,00:15:14,00:15:16,We got two down.
+268,00:15:19,00:15:20,Dead.
+269,00:15:23,00:15:24,Dead. One.
+270,00:15:24,00:15:26,"All right, let's move."
+271,00:15:30,00:15:32,"(indistinct conversations, radio chatter)"
+272,00:15:34,00:15:36,PARAMEDIC: Let's go ahead and set her up.
+273,00:15:36,00:15:38,(indistinct chatter continues)
+274,00:15:38,00:15:40,(phone ringing)
+275,00:15:42,00:15:43,Hi.
+276,00:15:43,00:15:45,SWAT leader just called me and told me that you refused to evacuate.
+277,00:15:45,00:15:46,I told you to get out of there.
+278,00:15:46,00:15:48,Shooter came in through a side door.
+279,00:15:48,00:15:49,I'm hoping he left a print.
+280,00:15:49,00:15:50,I grabbed supplies from the vendors...
+281,00:15:50,00:15:53,"Sara, the shooter is still in the building."
+282,00:15:53,00:15:55,"Look, you survived once today. Please don't push your luck."
+283,00:15:55,00:15:57,SWAT has cleared the room. There's deputies posted.
+284,00:15:57,00:15:59,There's no way he's getting back in here.
+285,00:15:59,00:16:01,"I can help, Russell."
+286,00:16:01,00:16:02,"Please, I need to do something."
+287,00:16:02,00:16:06,"All right, all right, all right. Just... be careful and get out of there as soon as you can."
+288,00:16:06,00:16:07,I will.
+289,00:16:07,00:16:08,"Listen, I talked to Finn."
+290,00:16:08,00:16:09,Her friend's in bad shape.
+291,00:16:09,00:16:11,"I know that. I know, I know."
+292,00:16:11,00:16:12,Engineering is on standby.
+293,00:16:12,00:16:14,They'll get them out as soon as it's safe.
+294,00:16:14,00:16:15,Okay.
+295,00:16:17,00:16:19,Hey.
+296,00:16:19,00:16:21,Thank you for getting Morgan out of there.
+297,00:16:21,00:16:23,Yeah. She didn't want to leave.
+298,00:16:23,00:16:24,"Yeah, I'm sure."
+299,00:16:24,00:16:26,I told her I needed her back in the lab.
+300,00:16:26,00:16:33,"Look, she's using this new software she got from one of the vendors, where she can download footage from other people's cell phones."
+301,00:16:33,00:16:38,"Hopefully somebody caught an image of the gunman, 'cause hotel surveillance went down right before the shooting."
+302,00:16:38,00:16:39,You're kidding. No.
+303,00:16:41,00:16:44,A security guard from that hotel was murdered three days ago.
+304,00:16:44,00:16:46,His-his key card was taken.
+305,00:16:46,00:16:49,That's probably how the shooter gained access to the control room.
+306,00:16:49,00:16:51,"So he really planned this out. Oh, yeah."
+307,00:16:51,00:16:54,Most spree killers fantasize for years before they even pick up a gun.
+308,00:16:54,00:16:57,Couldn't be a coincidence the guy hit a forensics conference.
+309,00:16:57,00:16:59,"I mean, maybe he's got a beef with law enforcement."
+310,00:16:59,00:17:00,Yeah. What is that?
+311,00:17:00,00:17:00,It's SWAT.
+312,00:17:00,00:17:02,We're patched into their live feed.
+313,00:17:02,00:17:04,Clearing floor by floor.
+314,00:17:09,00:17:12,"WOMAN (over phone): I'm sorry, ma'am, there's a gunman in the building."
+315,00:17:12,00:17:13,FINLAY: I know there's a gunman.
+316,00:17:13,00:17:15,He just shot my friend!
+317,00:17:15,00:17:17,Okay? You need to get us out of the elevator now.
+318,00:17:17,00:17:19,We have to secure the area first. Stay with him.
+319,00:17:19,00:17:24,"I'm doing the best that I can, but if I do not get him to the hospital soon, he is going to bleed to death."
+320,00:17:24,00:17:25,"They can't get in there until it's clear, ma'am."
+321,00:17:25,00:17:26,I understand!
+322,00:17:26,00:17:27,Will you just hurry?!
+323,00:17:29,00:17:33,They said they can't fix the elevator until they get the gunman.
+324,00:17:33,00:17:35,Which I'm sure is gonna be really soon.
+325,00:17:37,00:17:38,Kind of romantic.
+326,00:17:38,00:17:40,Here with you.
+327,00:17:40,00:17:42,Dim lighting.
+328,00:17:42,00:17:46,"This whole bleeding from the stomach thing is kind of killing the mood, isn't it?"
+329,00:17:46,00:17:49,You're losing way too much blood.
+330,00:17:55,00:17:57,A tampon?
+331,00:17:57,00:18:01,"Believe it or not, these things were really used in the 19th century to plug bullet holes."
+332,00:18:05,00:18:07,Ooh.
+333,00:18:07,00:18:09,Ooh... I'm sorry.
+334,00:18:10,00:18:12,So...
+335,00:18:12,00:18:14,you know sports and history.
+336,00:18:14,00:18:15,Just basic first aid.
+337,00:18:15,00:18:17,You're doing great.
+338,00:18:17,00:18:19,Really wish that I had gone through with my...
+339,00:18:19,00:18:21,choice to go to med school right about now.
+340,00:18:21,00:18:24,"(groans) I wish you did, too."
+341,00:18:25,00:18:26,Why didn't you?
+342,00:18:27,00:18:32,"I took a lecture with this guy Alec Jeffreys on DNA fingerprinting, and that was it."
+343,00:18:32,00:18:34,I wanted to be a criminalist.
+344,00:18:34,00:18:37,I slept through a lot of lectures.
+345,00:18:37,00:18:39,"Had a lot of fun, though."
+346,00:18:39,00:18:42,Wish I knew you back then.
+347,00:18:42,00:18:43,"Oh, come on, I'm still fun."
+348,00:18:43,00:18:45,Just wait till I get out of here.
+349,00:18:45,00:18:48,I'll hold you to that.
+350,00:18:48,00:18:49,It's gonna be okay.
+351,00:19:01,00:19:03,"Let's go, let's go."
+352,00:19:08,00:19:10,Go!
+353,00:19:15,00:19:16,Hands!
+354,00:19:16,00:19:17,Show me your hands!
+355,00:19:17,00:19:18,Don't shoot. Get on the ground!
+356,00:19:18,00:19:19,Okay. On the ground now!
+357,00:19:19,00:19:21,He needs help! Now! On the ground!
+358,00:19:21,00:19:22,On the ground now! Okay!
+359,00:19:22,00:19:24,Now! He needs help. Don't shoot.
+360,00:19:24,00:19:25,"Now! Okay, okay, okay."
+361,00:19:25,00:19:27,He shot Perry.
+362,00:19:27,00:19:28,"I thought he was going to shoot me, too."
+363,00:19:28,00:19:30,Frame up on his face.
+364,00:19:32,00:19:33,ECKLIE: He's got dark hair.
+365,00:19:33,00:19:36,"According to Sara, our gunman had long blond hair."
+366,00:19:36,00:19:38,"Well, you gotta go with Sara."
+367,00:19:38,00:19:39,She's a trained observer.
+368,00:19:39,00:19:41,(sighs)
+369,00:19:42,00:19:44,ECKLIE: That's not our guy. Let him go.
+370,00:19:44,00:19:45,"Cut him loose, that's not our guy."
+371,00:19:45,00:19:48,"Let's go! Move, let's go, let's go!"
+372,00:19:48,00:19:51,"RUSSELL: The gunman could've shot that guy, but he didn't."
+373,00:19:51,00:19:53,Why not?
+374,00:19:53,00:19:55,His lucky day. Who knows?
+375,00:19:55,00:19:56,"Oh, it's gotta be more than that."
+376,00:19:56,00:19:57,It's gotta be something else.
+377,00:19:57,00:19:59,"Where... come here, look-it."
+378,00:19:59,00:20:02,"The shooting began in Conference Room A, right?"
+379,00:20:02,00:20:11,"Yeah. According to Sara, at 4:17 the shooter comes in through the side door here, shoots here, here and here, but never fires into this area."
+380,00:20:11,00:20:17,"Then he goes down the hallway here, past B and C, all the way to Conference Room D."
+381,00:20:17,00:20:18,And then he shoots the place up. Why?
+382,00:20:18,00:20:20,Why'd he skip those two rooms?
+383,00:20:20,00:20:21,Maybe nobody was in them.
+384,00:20:21,00:20:23,"No. No, no, I checked."
+385,00:20:23,00:20:25,"All four rooms, at the time of the shooting, were filled."
+386,00:20:25,00:20:32,"I mean, that's what a spree killer wants, right, is a high body count? So why not shoot up the casino, for God's sake?"
+387,00:20:32,00:20:34,Or at least the pool area?
+388,00:20:34,00:20:36,You're right.
+389,00:20:36,00:20:37,"He's upstairs, where the rooms are."
+390,00:20:37,00:20:38,Doors are locked. No crowds.
+391,00:20:38,00:20:40,And no way out.
+392,00:20:40,00:20:43,"No, no. No. This guy is targeting these areas."
+393,00:20:43,00:20:45,Right there.
+394,00:20:45,00:20:46,You're saying he's looking for specific people.
+395,00:20:46,00:20:48,This is not a random killing spree.
+396,00:20:50,00:20:52,Our gunman has a hit list.
+397,00:21:47,00:21:47,She was a mom.
+398,00:21:47,00:21:53,I noticed a C-section scar when I did my initial exam.
+399,00:21:57,00:21:59,That's Morgan's friend.
+400,00:21:59,00:22:01,The one she tried to save.
+401,00:22:01,00:22:03,Gave her CPR.
+402,00:22:04,00:22:07,Size of a .223.
+403,00:22:07,00:22:09,Consistent with an AR-15.
+404,00:22:09,00:22:12,America's favorite assault rifle.
+405,00:22:12,00:22:15,Capable of firing 700 rounds a minute.
+406,00:22:15,00:22:19,"That kind of firepower belongs in a war zone, not on our streets."
+407,00:22:19,00:22:22,Our killer wanted to make sure that he hit his targets.
+408,00:22:22,00:22:24,He didn't care who else he shot.
+409,00:22:24,00:22:26,I wasn't aware that he was going after specific people.
+410,00:22:26,00:22:31,"Some of these victims were most likely collateral, but the rest were on his hit list."
+411,00:22:31,00:22:37,I just need to figure out what they had in common so maybe we can figure out who he's going after next.
+412,00:23:54,00:23:57,Heard you found Paul Carson's van.
+413,00:23:57,00:24:00,"Yeah, abandoned in an alley behind a strip joint off of Fremont Street."
+414,00:24:00,00:24:03,"Yeah, that part of town, nobody's quick to call the cops."
+415,00:24:03,00:24:04,"Well, the killer's smart."
+416,00:24:04,00:24:06,Just like he thought he'd conceal Carson's I.D.
+417,00:24:06,00:24:07,by turning his body into goop.
+418,00:24:07,00:24:11,"Yeah, he didn't want anything to get in the way of his shooting up the hotel today."
+419,00:24:11,00:24:13,His wife reported him missing three days ago.
+420,00:24:13,00:24:15,We know that Carson went to work.
+421,00:24:15,00:24:21,"So I pulled hotel surveillance, and you can clearly see his van parked in his usual spot."
+422,00:24:21,00:24:23,But then I noticed something.
+423,00:24:23,00:24:24,Check out this guy in the hoodie.
+424,00:24:24,00:24:30,"You can't see his face, and it looks like he's walking past the van, yet he never exits frame."
+425,00:24:30,00:24:35,"So he broke into the back of the van, and then waited for Carson to get off work."
+426,00:24:39,00:24:41,Drive!
+427,00:24:42,00:24:45,And forced him to drive to the abandoned construction site.
+428,00:24:45,00:24:49,"Shot him, dumped his body into the barrel."
+429,00:24:49,00:24:54,Poured muriatic acid on him to dissolve the body.
+430,00:25:01,00:25:02,Then got rid of the van.
+431,00:25:02,00:25:05,And the only image we have of this guy...
+432,00:25:05,00:25:07,we can't make out the face?
+433,00:25:07,00:25:09,"No, but we might have his DNA."
+434,00:25:10,00:25:13,I found this used tissue underneath the backseat.
+435,00:25:13,00:25:17,"According to Carson's wife, Carson was the only one who used the van."
+436,00:25:17,00:25:20,I suppose that could've come from the shooter's pocket.
+437,00:25:20,00:25:21,"Have Henry run that, all right?"
+438,00:25:21,00:25:24,Tell him to put it in the front of the line.
+439,00:25:24,00:25:28,HODGES: This eyewitness software is incredible.
+440,00:25:28,00:25:30,No more scanning through endless hours of footage.
+441,00:25:30,00:25:33,Yeah. Finn's friend Mark was selling it.
+442,00:25:33,00:25:35,"You just punch in the time frame, and that's the only footage it downloads."
+443,00:25:35,00:25:38,Hopefully one of the cameras caught the shooter.
+444,00:25:38,00:25:40,Have you heard from Finn yet?
+445,00:25:40,00:25:42,She's still stuck in the elevator.
+446,00:25:42,00:25:45,"Well, I'm sure they'll get them out soon."
+447,00:25:45,00:25:46,Yeah.
+448,00:25:48,00:25:50,That's the door that the shooter came in.
+449,00:25:50,00:25:55,"Damn. He's blocked behind a pillar. All right, let me try another clip."
+450,00:26:03,00:26:04,That must've been terrifying.
+451,00:26:04,00:26:06,Yeah. It was.
+452,00:26:06,00:26:08,"You know, you don't have to be here for this."
+453,00:26:08,00:26:10,I can take care of it.
+454,00:26:10,00:26:12,I want to be here.
+455,00:26:14,00:26:18,"You know, when I heard about what happened, I was really worried."
+456,00:26:18,00:26:19,I just...
+457,00:26:21,00:26:24,I'm-I'm just glad you're okay.
+458,00:26:32,00:26:33,Thank you.
+459,00:26:37,00:26:43,"Can we, um, scroll forward frame by frame? I think we might get something."
+460,00:26:43,00:26:44,That's him.
+461,00:26:44,00:26:45,"Okay, let me zoom in."
+462,00:26:45,00:26:49,"I'll isolate his face, run it through facial recognition."
+463,00:26:51,00:26:55,(indistinct radio transmission)
+464,00:26:55,00:26:57,Morgan got an I.D.-- Jeff Lasky.
+465,00:26:57,00:26:59,26-year-old out of Phoenix.
+466,00:26:59,00:27:01,I have a warrant for the guy's cell phone.
+467,00:27:01,00:27:02,See if we can triangulate that.
+468,00:27:05,00:27:08,"RUSSELL: That's just gonna tell us he's still in the hotel, right?"
+469,00:27:08,00:27:11,"If we tap into his Wi-Fi, we can track him down to within a few feet."
+470,00:27:20,00:27:22,Suspect's name is Jeff Lasky.
+471,00:27:22,00:27:25,"He's on the ninth floor, heading east."
+472,00:27:25,00:27:27,MAN: Copy that.
+473,00:27:29,00:27:31,Ready? Go!
+474,00:27:33,00:27:35,There he is!
+475,00:27:35,00:27:38,Drop the gun!
+476,00:27:38,00:27:39,Drop the gun now!
+477,00:27:40,00:27:41,"It's over, Lasky. Drop the gun!"
+478,00:27:41,00:27:42,Now!
+479,00:28:03,00:28:04,Drop the gun now!
+480,00:28:26,00:28:28,Shots fired! Shots fired! Suspect is down.
+481,00:28:29,00:28:31,"MAN: All right, move in. Check him."
+482,00:28:33,00:28:36,"MAN: We got him. All right, continue sweep. Let's go!"
+483,00:28:36,00:28:42,"All right, get the bomb dogs in there and sweep the hotel. Make sure this guy did not leave us any surprises."
+484,00:28:42,00:28:43,Let's get Finn out of the elevator.
+485,00:28:43,00:28:46,ECKLIE: And give engineering an all clear.
+486,00:28:46,00:28:48,(phone dings)
+487,00:28:48,00:28:50,They got him.
+488,00:28:50,00:28:51,They're gonna get us out of here.
+489,00:28:51,00:28:53,"Mark, can you hear me?"
+490,00:28:53,00:28:54,They're coming to get you right now.
+491,00:28:57,00:28:59,Celine.
+492,00:28:59,00:29:00,What?
+493,00:29:00,00:29:02,Dion.
+494,00:29:02,00:29:04,Show later.
+495,00:29:04,00:29:05,Oh. Yeah.
+496,00:29:05,00:29:07,I guess I'm more of a U2 kind of girl.
+497,00:29:10,00:29:13,"You know, uh, I saw them in Ireland."
+498,00:29:13,00:29:17,Haven't been.
+499,00:29:17,00:29:19,What? To a U2 concert?
+500,00:29:19,00:29:22,To Ireland.
+501,00:29:22,00:29:25,It was amazing.
+502,00:29:25,00:29:33,"I, uh, was there on a Eurail pass, and I was hanging out at a bar in Dublin, and all of a sudden U2 walked right in and they..."
+503,00:29:33,00:29:34,started...
+504,00:29:36,00:29:37,No!
+505,00:29:37,00:29:38,"Oh, God! Mark?"
+506,00:29:38,00:29:40,"Come on, come on. You can do it."
+507,00:29:40,00:29:42,"Breathe, breathe."
+508,00:29:43,00:29:45,"Mark, breathe. (grunting)"
+509,00:29:46,00:29:46,Mark?
+510,00:29:49,00:29:50,(doors open)
+511,00:29:50,00:29:52,(groans)
+512,00:29:52,00:29:54,He just crashed! I didn't get a pulse.
+513,00:29:54,00:29:56,"All right, we'll take it from here."
+514,00:29:56,00:29:58,You got him? Yeah.
+515,00:30:00,00:30:01,"Get a line in here! Breathe, Mark."
+516,00:30:02,00:30:04,Phoenix PD did a search of Lasky's house.
+517,00:30:04,00:30:08,Apparently he was obsessed with the man who murdered his wife and daughter three months ago.
+518,00:30:08,00:30:10,"Uh, Luke Reaser."
+519,00:30:10,00:30:13,Luke Reaser? I heard about that case.
+520,00:30:13,00:30:15,"He raped them before he killed them, right?"
+521,00:30:15,00:30:17,That was Lasky's family?
+522,00:30:17,00:30:18,"Yeah, that's enough to put anybody over the edge."
+523,00:30:18,00:30:19,"Yeah, but Reaser was caught."
+524,00:30:19,00:30:20,He's awaiting trial.
+525,00:30:20,00:30:22,Why would Lasky go on a rampage today?
+526,00:30:22,00:30:25,Because Reaser should've been put behind bars a long time ago.
+527,00:30:25,00:30:29,He raped and murdered a teenage girl back in 2012 in Texas.
+528,00:30:29,00:30:32,Set the place on fire in order to cover his tracks.
+529,00:30:32,00:30:34,The evidence wasn't strong enough to convict.
+530,00:30:34,00:30:37,"So, then he moves to Phoenix, where he murders Lasky's family."
+531,00:30:37,00:30:42,"You know, Morgan, three of the CSIs that were killed today, they were from the crime lab in Dallas."
+532,00:30:42,00:30:45,Lasky must've blamed them for putting Reaser back on the street.
+533,00:30:45,00:30:48,They're not the only ones he was gunning for.
+534,00:30:48,00:30:51,Guess who testified for the defense.
+535,00:30:51,00:30:53,Of course I'll talk to the press.
+536,00:30:53,00:30:56,"We need to give WNE the exclusive, though."
+537,00:30:56,00:30:57,Now?
+538,00:30:57,00:30:58,I can take care of that.
+539,00:30:58,00:30:59,He was after you.
+540,00:30:59,00:31:01,I'll call you back.
+541,00:31:02,00:31:03,"The gunman, Jeff Lasky."
+542,00:31:03,00:31:06,Ring a bell? What about Luke Reaser?
+543,00:31:06,00:31:10,"You helped put that son of a bitch back on the street, and he went on to murder Lasky's family."
+544,00:31:10,00:31:15,"If I remember correctly, the prosecution didn't have that much evidence against Reaser."
+545,00:31:15,00:31:17,And what they did have was mishandled.
+546,00:31:17,00:31:19,"No, no, no, no. I talked to the lab in Dallas."
+547,00:31:19,00:31:22,A DNA analyst transposed two numbers on a piece of paper.
+548,00:31:22,00:31:24,"It was a simple mistake, Jane."
+549,00:31:24,00:31:26,And someone in the lab should have caught it.
+550,00:31:26,00:31:28,A guilty man went free because of a typo.
+551,00:31:28,00:31:30,It was sloppy work.
+552,00:31:30,00:31:32,Who knows what other mistakes that lab made?
+553,00:31:33,00:31:35,You used to care about the truth.
+554,00:31:35,00:31:37,"Come on, Sara."
+555,00:31:37,00:31:39,We're not on the same side anymore.
+556,00:31:39,00:31:44,"It's my job to poke the holes in the science. And put on a show for the jury, right?"
+557,00:31:44,00:31:49,Luke Reaser raped and killed Jeff Lasky's wife and five-year-old daughter.
+558,00:31:49,00:31:51,Slit their throats and then dumped their bodies in the trash.
+559,00:31:51,00:31:54,That's why Lasky went on this rampage.
+560,00:31:54,00:31:56,11 people are dead because of you.
+561,00:31:56,00:31:59,I didn't put the gun in Lasky's hand.
+562,00:31:59,00:32:00,"No, you kind of did."
+563,00:32:00,00:32:01,Lasky sent you e-mails.
+564,00:32:01,00:32:02,He sent you threats over a month ago.
+565,00:32:02,00:32:04,You didn't report it.
+566,00:32:04,00:32:05,I get threats all the time.
+567,00:32:05,00:32:08,"News flash, Sara, I'm a woman with strong opinions."
+568,00:32:08,00:32:11,Some people just don't like me.
+569,00:32:11,00:32:13,Uh-uh.
+570,00:32:13,00:32:17,"None of this would've happened if you had just gone to the police, Jane."
+571,00:32:18,00:32:20,Why don't you put that in your press conference?
+572,00:32:34,00:32:36,"Keep me posted, then."
+573,00:32:36,00:32:41,Take a look at this. SWAT found this man's body in the doorway of his room on the 15th floor.
+574,00:32:41,00:32:42,Looks like he was shot when he opened the door.
+575,00:32:42,00:32:45,Hotel security said it happened at 4:17.
+576,00:32:45,00:32:47,That's when the shooting started in Conference Room A.
+577,00:32:47,00:32:49,Lasky couldn't have been two places at once.
+578,00:32:50,00:32:52,I think there had to be a second shooter.
+579,00:32:52,00:32:57,You may be right. Got DNA off of that used tissue I found in the security guard's van.
+580,00:32:57,00:32:58,Jeff Lasky didn't kill him.
+581,00:32:58,00:33:01,But DNA did come back with a match to this guy.
+582,00:33:01,00:33:02,Cliff Ballard.
+583,00:33:02,00:33:04,I've seen him before.
+584,00:33:04,00:33:09,"Yeah, this is the guy that SWAT found standing over a body in the hallway."
+585,00:33:09,00:33:13,"He was unarmed and acting scared, like he was just another hotel guest."
+586,00:33:13,00:33:15,"SANDERS: Well, that's why Sara only saw one shooter."
+587,00:33:15,00:33:19,'Cause Lasky was shooting up the conference rooms while Ballard was shooting people upstairs.
+588,00:33:19,00:33:21,"Yeah, well, SWAT let this guy go."
+589,00:33:21,00:33:23,He's still in the hotel.
+590,00:33:48,00:33:52,SWAT's still searching the hotel.
+591,00:33:52,00:33:52,No sign of Ballard.
+592,00:33:52,00:33:54,Please tell me you found something.
+593,00:33:54,00:33:56,"Actually, Ballard was a CSI."
+594,00:33:56,00:33:57,And he just got out of prison.
+595,00:33:57,00:34:00,Served nine years for felony fraud.
+596,00:34:00,00:34:01,Falsifying evidence.
+597,00:34:01,00:34:04,"Yeah, didn't he work out of the crime lab in Baltimore?"
+598,00:34:04,00:34:05,Yeah.
+599,00:34:05,00:34:06,"Well, I remember when he was arrested."
+600,00:34:06,00:34:08,It was this huge scandal.
+601,00:34:08,00:34:11,Every case he worked on was called into question.
+602,00:34:11,00:34:14,"Well, maybe he blames his coworkers for turning him in."
+603,00:34:14,00:34:18,"No, no, 'cause then he would've shot up the lab in Baltimore. No."
+604,00:34:18,00:34:24,"All of Ballard's work would have been audited by a team of forensic experts, right?"
+605,00:34:24,00:34:28,"Criminalists from all over the country, selected to evaluate his cases."
+606,00:34:28,00:34:30,They're the ones who put him in prison.
+607,00:34:30,00:34:32,Could be his targets.
+608,00:34:32,00:34:35,Let me see if I can find out who was on that team.
+609,00:34:35,00:34:43,"I've been through all of Jeff Lasky's e-mails, his phone records, his texts, his Web history. I can't find any evidence that he's working with Ballard."
+610,00:34:43,00:34:45,"All right, so what do we know about our two shooters?"
+611,00:34:45,00:34:46,Lasky...
+612,00:34:46,00:34:51,"the grieving father, husband that wanted to get even with the murder of his family."
+613,00:34:51,00:34:55,"Ballard's the ex-con who, presumably, is going after the people who put him in prison."
+614,00:34:55,00:34:57,Two different shooters...
+615,00:34:57,00:34:58,two different agendas.
+616,00:34:58,00:35:04,But with one big thing in common: They both hate law enforcement.
+617,00:35:04,00:35:07,"Now, we've been assuming that the shooters were working together, right?"
+618,00:35:07,00:35:08,What if they weren't?
+619,00:35:08,00:35:11,"So they both go on a rampage same time, same place?"
+620,00:35:11,00:35:18,"We've been looking for a connection between these guys and we haven't found one, so maybe their connection is the conference itself."
+621,00:35:18,00:35:19,"I mean, think about this."
+622,00:35:19,00:35:24,"Once a year, CSIs and cops from all over the country get together at this conference."
+623,00:35:24,00:35:28,"Now, if you had a beef with law enforcement, what better place to come than right here?"
+624,00:35:28,00:35:31,I found that list of people who served on Ballard's audit.
+625,00:35:34,00:35:36,"That guy, right there."
+626,00:35:36,00:35:39,That's the guy that Ballard was standing over in the hallway.
+627,00:35:39,00:35:41,He must've killed him right before SWAT arrived.
+628,00:35:42,00:35:43,SANDERS: Sara.
+629,00:35:43,00:35:44,"Oh, God."
+630,00:35:44,00:35:45,She was on that team.
+631,00:35:45,00:35:46,Notify SWAT.
+632,00:35:46,00:35:48,I'll call Sara.
+633,00:35:49,00:35:51,I'm on the 18th floor.
+634,00:35:51,00:35:52,I got a text.
+635,00:35:52,00:35:55,Cliff Ballard?
+636,00:35:55,00:35:56,He's in prison.
+637,00:35:56,00:35:58,BALLARD: I got out in August.
+638,00:35:59,00:36:00,Give me the phone.
+639,00:36:00,00:36:02,All right.
+640,00:36:03,00:36:04,Now the gun.
+641,00:36:10,00:36:11,(gun clatters on floor)
+642,00:36:11,00:36:14,The text telling me to come up here...
+643,00:36:14,00:36:15,"it was from you, wasn't it?"
+644,00:36:15,00:36:17,I wanted to get you alone.
+645,00:36:17,00:36:19,"This woman, Linda Gage?"
+646,00:36:19,00:36:21,She was part of the review team.
+647,00:36:21,00:36:22,"You killed her, didn't you?"
+648,00:36:22,00:36:24,She helped send me to prison.
+649,00:36:25,00:36:26,Just like you.
+650,00:36:26,00:36:28,It was not personal.
+651,00:36:28,00:36:29,We were just asked to take a look at your work.
+652,00:36:29,00:36:31,I was a good criminalist.
+653,00:36:31,00:36:32,"I know you were, Cliff."
+654,00:36:32,00:36:34,You did a lot of good work over the years.
+655,00:36:34,00:36:37,I put rapists and murderers behind bars.
+656,00:36:37,00:36:39,They were all guilty.
+657,00:36:39,00:36:40,They deserved what they got.
+658,00:36:40,00:36:43,"I'm sure they did, but..."
+659,00:36:43,00:36:47,you tampered with the evidence to get the results you wanted.
+660,00:36:47,00:36:49,I didn't have a choice.
+661,00:36:49,00:36:52,The detectives come to you.
+662,00:36:52,00:36:53,They want a slam dunk.
+663,00:36:53,00:36:55,Evidence isn't always like that.
+664,00:36:55,00:36:57,It's a lot of pressure. I've been there many times.
+665,00:36:57,00:37:03,"Convictions hinge on conclusive evidence, and if you don't have enough, you feel like a failure."
+666,00:37:04,00:37:06,I had to do something.
+667,00:37:06,00:37:07,I understand.
+668,00:37:07,00:37:09,"It's natural to want to help the case along, to..."
+669,00:37:09,00:37:11,You don't understand!
+670,00:37:11,00:37:13,"If you did, you wouldn't have helped send me away!"
+671,00:37:13,00:37:14,"Cliff, wait."
+672,00:37:14,00:37:16,You treated me like a criminal.
+673,00:37:16,00:37:16,(cocks gun)
+674,00:37:16,00:37:18,Destroyed my life!
+675,00:37:20,00:37:22,(gunshot)
+676,00:37:24,00:37:25,Move!
+677,00:37:27,00:37:28,You okay?
+678,00:37:28,00:37:30,You okay? You good?
+679,00:37:30,00:37:32,Thank you. Yeah.
+680,00:37:32,00:37:33,"SWAT OFFICER: Shots fired, shots fired."
+681,00:37:33,00:37:34,Suspect down.
+682,00:37:45,00:37:47,(beeping steadily)
+683,00:37:47,00:37:49,(indistinct conversations)
+684,00:37:50,00:37:51,Hey.
+685,00:37:51,00:37:53,Hey.
+686,00:37:53,00:37:56,Nurse said you were out of surgery and that you needed a visitor.
+687,00:37:56,00:37:58,Yep. I got to the Pearly Gates.
+688,00:37:58,00:37:59,They sent me back.
+689,00:38:00,00:38:02,I'm glad they did.
+690,00:38:06,00:38:07,You saved my life.
+691,00:38:09,00:38:11,"Well, buy me dinner."
+692,00:38:11,00:38:12,We'll call it even.
+693,00:38:14,00:38:15,Deal.
+694,00:38:17,00:38:21,So the doctor said that you're gonna need some time to recover.
+695,00:38:21,00:38:26,"And that you cannot fly back to Boston for at least two weeks, so..."
+696,00:38:26,00:38:30,I was hoping that maybe we could...
+697,00:38:30,00:38:32,hang out.
+698,00:38:32,00:38:34,"You know, when you get back up on your feet."
+699,00:38:37,00:38:39,You mean date?
+700,00:38:39,00:38:40,Yeah.
+701,00:38:40,00:38:45,"Like, uh, dinner and a movie and a good-night kiss."
+702,00:38:45,00:38:50,"Well, as you know, dating sometimes can turn into a..."
+703,00:38:50,00:38:51,(sighs)
+704,00:38:51,00:38:53,...real relationship.
+705,00:38:55,00:38:58,I'm willing to risk it.
+706,00:39:00,00:39:03,"Me, too."
+707,00:39:31,00:39:32,Hydrogen peroxide.
+708,00:39:32,00:39:34,To clean off the blood.
+709,00:39:38,00:39:39,Thank you.
+710,00:39:41,00:39:44,We always wear gloves when we go to the crime scene.
+711,00:39:44,00:39:46,You know? We're never there...
+712,00:39:46,00:39:50,there when it... when it actually happens.
+713,00:39:50,00:39:51,I know.
+714,00:39:58,00:39:59,Are you okay?
+715,00:40:01,00:40:03,I'm okay.
+716,00:40:03,00:40:05,"Ballard wanted you dead, and..."
+717,00:40:05,00:40:07,if SWAT hadn't been there...
+718,00:40:07,00:40:10,But they were.
+719,00:40:21,00:40:23,Finn called.
+720,00:40:24,00:40:27,She said they still have that VIP table at Tao.
+721,00:40:27,00:40:28,(laughs)
+722,00:40:31,00:40:32,What do you think?
+723,00:40:32,00:40:35,Dancing... tequila...
+724,00:40:37,00:40:39,Yeah.
+725,00:40:39,00:40:40,"Tequila sounds pretty good, yeah."

@@ -1,0 +1,758 @@
+,start,end,text
+0,00:00:16,00:00:20,"Hey, hey, hey, hey, hey!"
+1,00:00:20,00:00:22,(man grunts)
+2,00:01:12,00:01:15,"This came for you, Mr. Grissom."
+3,00:01:17,00:01:19,What's this?
+4,00:01:19,00:01:21,An anonymous package from county lockup?
+5,00:01:21,00:01:23,"Yeah, well, hey, just a second."
+6,00:01:23,00:01:26,Wait a minute. Give an innocent bystander a chance to clear out.
+7,00:01:26,00:01:28,What are you worried about?
+8,00:01:28,00:01:29,One minute I'm eating tomato salad.
+9,00:01:29,00:01:32,The next-- I'm gazpacho.
+10,00:01:37,00:01:40,With any luck it'll be the next episode ofG-String Divas.
+11,00:01:49,00:01:52,My name is Frank Damon...
+12,00:01:52,00:01:56,and I'm awaiting trial for the murder of...
+13,00:01:56,00:01:58,my wife and son.
+14,00:01:58,00:02:00,That's an arson case a few months ago.
+15,00:02:00,00:02:02,The D.A. is asking for the death penalty.
+16,00:02:04,00:02:08,I didn't kill my family...
+17,00:02:08,00:02:11,but my lawyer says the evidence is against me.
+18,00:02:11,00:02:14,I was a good father.
+19,00:02:14,00:02:16,I loved him.
+20,00:02:16,00:02:20,I would have given my life for Toby and Jeannie.
+21,00:02:20,00:02:21,They were my world.
+22,00:02:21,00:02:25,"Mr. Grissom, you are my last hope."
+23,00:02:25,00:02:27,Please...
+24,00:02:29,00:02:30,help me.
+25,00:02:30,00:02:33,An innocent man.
+26,00:02:34,00:02:35,Jail's full of them.
+27,00:02:35,00:02:39,It only takes one.
+28,00:03:22,00:03:23,Am I disturbing you?
+29,00:03:23,00:03:24,Yeah.
+30,00:03:24,00:03:26,Good.
+31,00:03:26,00:03:29,Oh. Great. Sorry.
+32,00:03:29,00:03:33,"Uh, I was supposed to pass out some supervisor evaluation forms."
+33,00:03:33,00:03:34,Where are they?
+34,00:03:34,00:03:36,Here they are.
+35,00:03:36,00:03:38,Mm. Get to rate the boss. I dig this.
+36,00:03:38,00:03:40,Give him a perfect ten or your ass is out of here.
+37,00:03:40,00:03:42,"No, it's not."
+38,00:03:42,00:03:45,All right. Assignment: parking lot of the sportsbook at The Monaco.
+39,00:03:45,00:03:48,Caucasian male found dead in the front seat of his car.
+40,00:03:48,00:03:49,Two days before the Super Bowl.
+41,00:03:49,00:03:51,I'll take a piece of that.
+42,00:03:51,00:03:53,"No. Uh, Nick and Catherine."
+43,00:03:53,00:03:56,What else you got? GRISSOM: You and Warrick are working with me.
+44,00:03:56,00:03:57,WILLOWS: Prisoner plea.
+45,00:03:57,00:03:58,Brass told me about the video.
+46,00:03:58,00:04:00,"If we take the case, we have very little time."
+47,00:04:00,00:04:01,The trial starts in three days.
+48,00:04:02,00:04:03,How did he find you?
+49,00:04:03,00:04:04,1-800-GRISSOM...?
+50,00:04:04,00:04:05,WILLOWS: Wait a minute.
+51,00:04:05,00:04:09,Ecklie was the CSI on that arson.
+52,00:04:09,00:04:12,I see a bad moon rising.
+53,00:04:12,00:04:14,Can a CSI take over another CSI's case?
+54,00:04:14,00:04:16,Only if they're of equal rank and looking for trouble.
+55,00:04:16,00:04:18,No trouble.
+56,00:04:18,00:04:20,We're both colleagues searching for the truth.
+57,00:04:20,00:04:21,"Okay, that's it. Look onward."
+58,00:04:22,00:04:24,You have to start by looking at this.
+59,00:04:24,00:04:26,"Hey, what happened to that, uh, meeting the other day?"
+60,00:04:26,00:04:28,Meeting?
+61,00:04:28,00:04:31,"Yeah, the department heads were voting on an extra vacation day or something?"
+62,00:04:31,00:04:32,Yeah.
+63,00:04:36,00:04:40,"Hmm. ""Organization""... minus one."
+64,00:04:44,00:04:46,"Yo, cousin."
+65,00:04:47,00:04:48,I'm going to save you some gas here.
+66,00:04:48,00:04:50,"I did some checking on your pal, Damon."
+67,00:04:50,00:04:52,I don't remember asking you to.
+68,00:04:52,00:04:54,Eyewitness saw him running from his burning house.
+69,00:04:54,00:04:55,Inside was his wife and kid.
+70,00:04:55,00:04:56,"Now, wife's a big spender."
+71,00:04:57,00:04:58,Maxed out on the credit cards.
+72,00:04:58,00:05:01,They just bought the place and already he's late on the payments.
+73,00:05:01,00:05:03,Couple's always arguing about money. No surprise.
+74,00:05:04,00:05:07,"Well, how does killing his family solve his money problems?"
+75,00:05:07,00:05:08,Maybe he didn't mean to.
+76,00:05:08,00:05:11,Maybe he needed the insurance dough and things got out of hand.
+77,00:05:11,00:05:13,Too many maybes.
+78,00:05:13,00:05:15,I think we should go with the evidence.
+79,00:05:15,00:05:17,"Well, I got something for you on that, too."
+80,00:05:17,00:05:19,Gasoline found in the master bedroom closet.
+81,00:05:19,00:05:21,Yeah. Hydrocarbon. I read Ecklie's brief.
+82,00:05:21,00:05:24,Did you skip the page that had Damon's credit card receipts?
+83,00:05:25,00:05:28,'Cause he bought a gallon of gas a week before the fire.
+84,00:05:28,00:05:32,Do I seem like the kind of guy who skips stuff?
+85,00:05:32,00:05:33,Read my lips.
+86,00:05:33,00:05:37,There is no compelling evidence to suggest Damon was wrongfully charged.
+87,00:05:37,00:05:40,"Well, then, it'll be a short interview, won't it?"
+88,00:05:40,00:05:43,(car starts)
+89,00:05:48,00:05:53,STOKES: Whew! Two days before the Super Bowl and they're already killing each other.
+90,00:05:54,00:05:56,"Hey, O'Riley, anyone put their meat hooks on this vehicle?"
+91,00:05:57,00:05:58,How long have we worked together?
+92,00:05:58,00:06:00,Still got to ask.
+93,00:06:00,00:06:01,Sergeant.
+94,00:06:01,00:06:02,What's up?
+95,00:06:03,00:06:04,Oh...
+96,00:06:04,00:06:07,"Gunshot wound to the head, point-blank range."
+97,00:06:07,00:06:11,Just a baby.
+98,00:06:25,00:06:27,Tap city.
+99,00:06:27,00:06:29,Empty.
+100,00:06:29,00:06:33,WILLOWS: Killer was probably in the back seat waiting for him.
+101,00:06:35,00:06:38,Kid never stood a chance.
+102,00:06:42,00:06:44,Check this out.
+103,00:06:44,00:06:45,Hearing aid?
+104,00:06:45,00:06:47,Maybe he was deaf.
+105,00:06:47,00:06:49,Possibly.
+106,00:06:57,00:07:01,Got some condensation on the window.
+107,00:07:01,00:07:03,You should get a shot of this.
+108,00:07:06,00:07:07,(chuckles)
+109,00:07:07,00:07:10,"You hungry, Nick?"
+110,00:07:10,00:07:11,Got a burger.
+111,00:07:11,00:07:14,Extra lettuce.
+112,00:07:14,00:07:17,"A rule of thumb: $2,500 an inch."
+113,00:07:18,00:07:20,There's got to be...
+114,00:07:20,00:07:21,"$15,000 there?"
+115,00:07:21,00:07:34,"""Rams negative nine."" Oh, ""Ramsminusnine."" It's a Super Bowl ticket."
+116,00:07:34,00:07:36,"Straight bet-- $30,000."
+117,00:07:36,00:07:40,What does a kid doing walking around with a wad like that betting 30 grand on a football game?
+118,00:07:40,00:07:43,Who wrote the ticket?
+119,00:07:43,00:07:45,Teller 12.
+120,00:07:45,00:07:47,"Yeah, I wrote the ticket. So what?"
+121,00:07:47,00:07:50,"So, it was found with the kid killed in your parking lot."
+122,00:07:50,00:07:52,Yeah. 30 dimes. It was 517's.
+123,00:07:52,00:07:53,517?
+124,00:07:53,00:07:55,What's that? That's his number.
+125,00:07:55,00:07:55,He was a runner.
+126,00:07:55,00:07:57,A runner?
+127,00:07:57,00:08:00,"Yeah, a go-fer-- runs from book to book places bets with other people's money."
+128,00:08:00,00:08:02,Kid wasn't a day over 16. Isn't that illegal?
+129,00:08:02,00:08:04,"Lady, he's not buying a pack of cigarettes."
+130,00:08:04,00:08:05,"He's betting $30,000."
+131,00:08:05,00:08:06,Vig for the house is three grand.
+132,00:08:07,00:08:07,We look the other way.
+133,00:08:08,00:08:11,"Well, I'd be willing to bet there's a mother out there that wishes you hadn't."
+134,00:08:11,00:08:12,"Hey, what do I care?"
+135,00:08:12,00:08:14,I'm out of this job by the end of the week.
+136,00:08:14,00:08:16,Tired of looking at scumbags.
+137,00:08:16,00:08:17,"Well, does 517 have a name?"
+138,00:08:17,00:08:19,I only know them by their numbers.
+139,00:08:19,00:08:21,"Well, you've been very helpful."
+140,00:08:21,00:08:22,Thank you.
+141,00:08:30,00:08:31,Thanks.
+142,00:08:31,00:08:33,"MAN: Yo, Grissom!"
+143,00:08:34,00:08:37,"Yo, man, this guy's the reason I'm in here."
+144,00:08:37,00:08:38,Shoe print.
+145,00:08:38,00:08:40,"Yo, man, next time I'll go barefoot!"
+146,00:08:40,00:08:42,Even better.
+147,00:08:42,00:08:44,Footprints.
+148,00:09:02,00:09:05,"So, you're the Grissom they wrote about in the newspaper?"
+149,00:09:05,00:09:09,I thought you'd be older.
+150,00:09:09,00:09:11,"Why did you contact me, Mr. Damon?"
+151,00:09:11,00:09:14,Arson specialist gave me your name.
+152,00:09:14,00:09:17,"Well, six of them, actually."
+153,00:09:17,00:09:20,They all turned my case down.
+154,00:09:20,00:09:23,Will you help me?
+155,00:09:23,00:09:26,Fires are very complicated.
+156,00:09:26,00:09:29,It wasn't too complicated for the guy who put me in here.
+157,00:09:34,00:09:40,"You think if you stare at me long enough, you can tell if I'm innocent?"
+158,00:09:40,00:09:42,I don't mean to stare...
+159,00:09:42,00:09:45,"but yes, I can learn some things."
+160,00:09:45,00:09:48,For instance the back of your hands are smooth.
+161,00:09:48,00:09:49,You read a lot.
+162,00:09:50,00:09:54,You have indentation marks on your nose from reading glasses.
+163,00:09:54,00:09:58,Your speech tells me that you're well-educated.
+164,00:09:58,00:10:05,Your occupation's not listed in the file but I think that you had a white-collar job.
+165,00:10:05,00:10:08,Paper-pusher for the phone company.
+166,00:10:08,00:10:14,"I don't know yet whether you're left- or right-handed, though."
+167,00:10:16,00:10:20,"Now, you want to tell me what happened?"
+168,00:10:22,00:10:24,It was about midnight.
+169,00:10:24,00:10:25,"Okay, baby."
+170,00:10:25,00:10:28,"My wife, Jeannie-- she was hungry."
+171,00:10:28,00:10:30,She had a food craving.
+172,00:10:30,00:10:33,She sent me out to the store to get her some ice cream.
+173,00:10:33,00:10:36,"My son, Toby, he was in the bed with us."
+174,00:10:36,00:10:37,He couldn't sleep.
+175,00:10:37,00:10:40,I was going to take him camping the next day.
+176,00:10:43,00:10:46,Toby was eight.
+177,00:10:46,00:10:50,Why don't you tell me about the fire.
+178,00:10:53,00:10:57,I got back from the store in under 20 minutes.
+179,00:10:57,00:11:01,I saw smoke coming out the back of the house.
+180,00:11:01,00:11:02,I could hear the alarm.
+181,00:11:02,00:11:03,Jeannie!
+182,00:11:03,00:11:05,The house was filled with smoke.
+183,00:11:06,00:11:07,Jeannie!
+184,00:11:07,00:11:08,I checked the door for heat.
+185,00:11:08,00:11:10,I knew not to open it.
+186,00:11:11,00:11:12,Why? Flashover.
+187,00:11:12,00:11:15,Flashover?
+188,00:11:15,00:11:16,That's right.
+189,00:11:16,00:11:23,When the fire reaches about 932 degrees Fahrenheit you add oxygen and the smoke will burst into flame.
+190,00:11:23,00:11:30,"I know how fire behaves, Mr. Grissom because I'm a volunteer fireman."
+191,00:11:30,00:11:34,I was hoping to make the department this spring.
+192,00:11:34,00:11:36,So I couldn't open the door.
+193,00:11:36,00:11:39,I ran outside to my car to call a rig.
+194,00:11:39,00:11:46,"Well, if you're a volunteer fireman then you must be familiar with the use of accelerants."
+195,00:11:46,00:11:47,Yes.
+196,00:11:47,00:11:53,According to the report there were traces of gasoline found on the floor of your bedroom closet.
+197,00:11:53,00:11:59,"That's right, and I don't know how it got there."
+198,00:11:59,00:12:01,I didn't keep anything like that in the house.
+199,00:12:01,00:12:09,Our homicide department has a credit card receipt for gasoline-- your receipt and there's no other suspects.
+200,00:12:09,00:12:15,"I didn't burn down my house, Mr. Grissom."
+201,00:12:15,00:12:23,I bought the gasoline for the lawnmower and kept it in the garage.
+202,00:12:23,00:12:29,"Now, if there was gasoline in our closet someone else put it there."
+203,00:12:29,00:12:30,Findthem.
+204,00:12:31,00:12:32,"I don't chase criminals, Mr. Damon."
+205,00:12:33,00:12:34,I just evaluate evidence.
+206,00:12:34,00:12:41,I need someone to believe me-- to figure this out.
+207,00:12:42,00:12:45,"How'd you burn your hand, Mr. Damon?"
+208,00:12:48,00:12:50,I don't remember.
+209,00:12:50,00:12:56,People with third-degree burns don't forget how they got them.
+210,00:13:00,00:13:03,You're not going to help me?
+211,00:13:03,00:13:08,I'll take your case.
+212,00:13:08,00:13:12,I don't know whether I'll help you or not.
+213,00:14:02,00:14:04,Nothing harder to investigate than arson.
+214,00:14:04,00:14:07,If the fire hasn't ruined your crime scene...
+215,00:14:07,00:14:08,Sara: The firemen have?
+216,00:14:08,00:14:09,Mmm.
+217,00:14:09,00:14:10,Funny place for a mattress.
+218,00:14:10,00:14:12,Overhaul.
+219,00:14:12,00:14:16,"Post-blaze, firemen removed charred items to neutralize the hot spots."
+220,00:14:16,00:14:18,It prevents flare-ups.
+221,00:14:32,00:14:34,(camera shutter clicking)
+222,00:14:39,00:14:41,Looks like the kid was going camping.
+223,00:14:41,00:14:43,(unlocking latches)
+224,00:14:50,00:14:52,Waterproof matches.
+225,00:14:52,00:14:54,Bag those.
+226,00:14:54,00:14:55,What do you think?
+227,00:14:56,00:14:57,The kid might have started it?
+228,00:14:59,00:15:01,We don't rule anything out.
+229,00:15:01,00:15:03,GRISSOM: Yeah.
+230,00:15:16,00:15:19,Master bedroom.
+231,00:15:19,00:15:23,The fire was contained inside this room...
+232,00:15:25,00:15:31,but the outside doorframe is severely charred.
+233,00:15:31,00:15:33,"Well, fires take the path of least resistance."
+234,00:15:34,00:15:36,"I mean, they feed off of oxygen and combustibles."
+235,00:15:36,00:15:39,GRISSOM: We're going to take a piece of this back to the lab.
+236,00:15:39,00:15:43,It's a weird place for such a thorough burn especially since the door isn't scorched.
+237,00:15:43,00:15:45,Huh.
+238,00:15:47,00:15:48,Look at this.
+239,00:15:48,00:15:50,Rubber?
+240,00:15:55,00:15:57,Firemen wear rubber gloves.
+241,00:16:03,00:16:11,"According to Ecklie's report, which was filed in record time the point of origin for the fire was the closet."
+242,00:16:11,00:16:13,"Of course, there's nothing left here."
+243,00:16:15,00:16:17,More than you think.
+244,00:16:17,00:16:21,"""V"" pattern on the outside wall."
+245,00:16:21,00:16:24,Fires like to go up and out.
+246,00:16:24,00:16:26,That's why you can always count on seeing a pattern.
+247,00:16:26,00:16:27,This one's narrow.
+248,00:16:28,00:16:31,"This was very intense, rapidly moving fire."
+249,00:16:31,00:16:35,"Well, that confirms Ecklie's findings about the use of an accelerant."
+250,00:16:35,00:16:40,"The apex of the ""V"" usually indicates the point of origin."
+251,00:16:40,00:16:42,You want to call it?
+252,00:16:42,00:16:47,"Damon doused the closet floor with gasoline, lit it and got the hell out of Dodge."
+253,00:16:50,00:16:52,Shards of glass.
+254,00:16:52,00:16:53,Bag a sample.
+255,00:16:54,00:16:55,I'll put it through the lab.
+256,00:16:55,00:16:56,Can't.
+257,00:16:56,00:16:59,It's melted into the concrete.
+258,00:17:03,00:17:04,"So, that's why the concrete's discolored?"
+259,00:17:04,00:17:05,From the heat?
+260,00:17:05,00:17:08,"It's called ""spalling."" It confirms the presence of an accelerant."
+261,00:17:08,00:17:12,Why would there be glass in the middle of the hot spot?
+262,00:17:12,00:17:14,Good question. WARRICK: Who cares?
+263,00:17:14,00:17:15,The guy torched his wife and kid.
+264,00:17:15,00:17:18,Really?
+265,00:17:18,00:17:20,Where's the trailing?
+266,00:17:20,00:17:24,An arsonist would spread the gasoline around to maximize the burn area.
+267,00:17:26,00:17:29,He still did the job.
+268,00:17:29,00:17:31,"Listen, you guys."
+269,00:17:31,00:17:32,You're likeDodgerfans.
+270,00:17:32,00:17:36,The ball game's only in the seventh inning you're already out of your seats.
+271,00:17:57,00:17:59,Mrs. Hillman?
+272,00:18:02,00:18:05,Is this your son?
+273,00:18:06,00:18:08,(inhales)
+274,00:18:14,00:18:16,(sobbing)
+275,00:18:22,00:18:24,(whimpering)
+276,00:18:36,00:18:38,(sighing)
+277,00:18:40,00:18:43,Mrs. Hillman?
+278,00:18:43,00:18:45,Was your son hearing-impaired?
+279,00:18:45,00:18:47,Joey was wearing a hearing aid.
+280,00:18:49,00:18:50,No.
+281,00:18:50,00:18:53,"No, Joey's hearing was fine."
+282,00:18:54,00:18:56,Why would he have that?
+283,00:18:56,00:18:58,(softly): I don't know.
+284,00:19:01,00:19:03,Wait a minute.
+285,00:19:03,00:19:05,(sighing)
+286,00:19:08,00:19:13,Danny... swore to me he'd keep Joey out of that racket.
+287,00:19:15,00:19:17,Danny?
+288,00:19:17,00:19:19,My older son.
+289,00:19:19,00:19:20,"He's a runner, too."
+290,00:19:20,00:19:23,They wear remote earpieces.
+291,00:19:23,00:19:26,That's how they talk to the guy they worked for.
+292,00:19:26,00:19:33,We've had full-scale wars about him doing that carrying around that kind of money but does he stop?
+293,00:19:33,00:19:34,No.
+294,00:19:34,00:19:37,He gets Joey involved.
+295,00:19:37,00:19:41,"Well, the police will want to talk to your son, Danny."
+296,00:19:41,00:19:43,I haven't seen him in a week.
+297,00:19:43,00:19:46,And he hasn't returned my calls.
+298,00:19:48,00:19:50,"Do you think something's happened to him, too?"
+299,00:19:54,00:19:56,(Grissom sighs)
+300,00:19:57,00:19:59,Grissom.
+301,00:19:59,00:20:01,I'll see you guys in the evidence lab.
+302,00:20:01,00:20:03,Night shift so slow you've got to pick over my cases?
+303,00:20:03,00:20:06,I'm just making sure that we've answered all the questions.
+304,00:20:06,00:20:07,Was it arson? Yes.
+305,00:20:07,00:20:09,No doubt about it. What accelerant was used?
+306,00:20:09,00:20:12,"Let's see, hydrocarbon residue, and a credit card receipt."
+307,00:20:12,00:20:13,Got to begasoline. Yeah.
+308,00:20:13,00:20:15,Why was there no trailing?
+309,00:20:15,00:20:18,And why no evidence of an incendiary device anywhere in the bedroom?
+310,00:20:18,00:20:20,"He's a volunteer fireman, Gil."
+311,00:20:20,00:20:22,He knows how to start a fire and hide the evidence.
+312,00:20:22,00:20:27,Don't you think if this guy wasremotelyinnocent his attorney would be involved in your little investigation?
+313,00:20:27,00:20:29,"What are you so afraid of, Conrad?"
+314,00:20:29,00:20:30,We're just a couple of science geeks.
+315,00:20:31,00:20:32,Why can't we work together?
+316,00:20:32,00:20:33,"No, we are public servants."
+317,00:20:33,00:20:36,We investigate cases as efficiently as we can and then we move on.
+318,00:20:36,00:20:41,We're not a clearinghouse for defendants on the eve of trial who don't like what we've turned up.
+319,00:20:41,00:20:44,"Yes, we are if it's our mistake that put them there."
+320,00:20:44,00:20:46,"Fine, spin your wheels."
+321,00:20:46,00:20:48,"Hey, Eck?"
+322,00:20:49,00:20:52,What is the new policy on vacation days?
+323,00:20:56,00:20:57,"WARRICK: Runners, huh?"
+324,00:20:57,00:20:59,I know a little something about that world.
+325,00:20:59,00:21:01,"Yeah, we thought you might."
+326,00:21:01,00:21:02,So?
+327,00:21:02,00:21:03,It breaks down like this.
+328,00:21:03,00:21:05,There's about a half a dozen runners in town.
+329,00:21:05,00:21:08,"They're mostly kids and they make abouttwo""G's"" a week."
+330,00:21:08,00:21:10,And they all work for the same guy.
+331,00:21:10,00:21:12,"Well, that's more than a little something."
+332,00:21:12,00:21:14,I used to be a runner in college.
+333,00:21:14,00:21:16,It paid the bills.
+334,00:21:16,00:21:18,I had Route Five.
+335,00:21:18,00:21:21,"Worked Boulder, Sunset, Vacation, and The Bay-- all of that."
+336,00:21:21,00:21:23,"So, who was your boss then?"
+337,00:21:23,00:21:24,The Voice.
+338,00:21:24,00:21:26,He didn't have a name?
+339,00:21:26,00:21:33,"Runners go from bet to bet, they jot down their orders and they call them into ""The Voice."" Guy runs the entire operation underground."
+340,00:21:33,00:21:37,"I mean, he takes orders frombackEast and lays them off in Vegas."
+341,00:21:37,00:21:39,"Pockets his vig, his commission."
+342,00:21:39,00:21:42,He's like the trader on the stock exchange.
+343,00:21:42,00:21:44,(pager beeping)
+344,00:21:44,00:21:46,I knew it. That's Grissom.
+345,00:21:47,00:21:48,I've got to bail.
+346,00:21:49,00:21:53,"So... how do we find this, uh... ""Voice""?"
+347,00:21:53,00:21:54,You don't.
+348,00:21:54,00:21:56,He's not who you're looking for anyway.
+349,00:21:56,00:21:59,If you want to know who capped this kid then you should talk to another runner.
+350,00:21:59,00:22:02,"I mean, they'll kill each other for a good route."
+351,00:22:08,00:22:13,Uh... you might want to take three giant steps backward.
+352,00:22:13,00:22:15,"WARRICK: What's going on? Danger, Will Robinson."
+353,00:22:15,00:22:23,"Three drops of gasoline, limited oxygen supply heat to ignition temperature of 932 degrees Fahrenheit."
+354,00:22:23,00:22:25,Same conditions in Damon's bedroom the night of the fire.
+355,00:22:29,00:22:31,Smoke to fire.
+356,00:22:31,00:22:32,Flashover.
+357,00:22:32,00:22:34,"So, that confirms the first part of Damon's story."
+358,00:22:34,00:22:37,Tell me you're here to confirm part two.
+359,00:22:37,00:22:40,"As a matter of fact, here is your doorframe."
+360,00:22:43,00:22:45,I had Collins analyze the burn depth.
+361,00:22:45,00:22:47,You see these rolling blisters?
+362,00:22:47,00:22:48,It's called alligatoring.
+363,00:22:48,00:22:49,See the way the wood's cracked?
+364,00:22:49,00:22:51,It looks like the skin of an alligator.
+365,00:22:51,00:22:53,Based on the depth of the allir... allo...
+366,00:22:53,00:22:55,Alligatoring.
+367,00:22:55,00:22:58,This wood burned very hot and very fast.
+368,00:22:58,00:23:00,Use of accelerant? Negative.
+369,00:23:00,00:23:04,But that piece was a doorframe outsideof the bedroom-- which was a contained site.
+370,00:23:04,00:23:07,"So, the only way this could've happened was..."
+371,00:23:07,00:23:08,O2.
+372,00:23:18,00:23:19,Damon opened the door.
+373,00:23:21,00:23:22,He lied.
+374,00:23:25,00:23:26,"So, what happens now?"
+375,00:23:26,00:23:28,We chase the lie...
+376,00:23:28,00:23:30,till it leads to the truth.
+377,00:23:45,00:23:47,All right. You take care.
+378,00:23:47,00:23:48,And don't-don't worry.
+379,00:23:48,00:23:50,Everything's going to be fine.
+380,00:23:59,00:24:00,That's my sister.
+381,00:24:00,00:24:04,She's the only one who stood by me in all of this.
+382,00:24:06,00:24:08,Anything else you want to tell me?
+383,00:24:08,00:24:11,"What, about my sister?"
+384,00:24:12,00:24:15,About the fire.
+385,00:24:15,00:24:17,I...
+386,00:24:17,00:24:19,I told you everything.
+387,00:24:19,00:24:22,Your bedroom doorframe disagrees.
+388,00:24:22,00:24:25,If no one opened the door...
+389,00:24:25,00:24:28,the outside frame would not have burned.
+390,00:24:28,00:24:32,As a firefighter you know that.
+391,00:24:34,00:24:36,"May I see your hand, please?"
+392,00:24:36,00:24:38,Palm up.
+393,00:24:46,00:24:50,This is the same type of doorknob that you have on your bedroom door.
+394,00:25:02,00:25:04,Mr. Damon...
+395,00:25:06,00:25:09,Please...
+396,00:25:09,00:25:12,I don't want anyone to know.
+397,00:25:12,00:25:14,Why?
+398,00:25:14,00:25:16,This places you outside of the fire.
+399,00:25:16,00:25:20,You're facing the death penalty.
+400,00:25:20,00:25:22,Why are you lying?
+401,00:25:24,00:25:27,I'm a firefighter.
+402,00:25:27,00:25:33,And when my wife and my son neededme...
+403,00:25:36,00:25:40,I forgoteverything.
+404,00:25:40,00:25:41,I didn't check for heat.
+405,00:25:41,00:25:42,Jeannie!
+406,00:25:42,00:25:43,I didn't look for smoke.
+407,00:25:43,00:25:47,All I could think about was getting them out.
+408,00:25:47,00:25:49,So I opened the door...
+409,00:25:49,00:25:51,and I let the monster out.
+410,00:25:51,00:25:53,I could just about make them out through the flame.
+411,00:25:53,00:25:55,Jeannie! Jeannie!
+412,00:25:55,00:25:57,But I... I couldn't get to them!
+413,00:25:57,00:25:58,(howling): Oh!
+414,00:26:01,00:26:03,What else?
+415,00:26:03,00:26:05,I had to close the door.
+416,00:26:05,00:26:09,The whole house would've gone up and the firemen would have never reached them.
+417,00:26:11,00:26:15,Ikilledmy family.
+418,00:26:16,00:26:21,Carbon monoxide killed them long before the fire got to them.
+419,00:26:21,00:26:22,You know about CO2 poisoning.
+420,00:26:22,00:26:24,It doesn't matter what I know.
+421,00:26:24,00:26:27,My family died because I wasn't there to protect them.
+422,00:26:29,00:26:35,You tried to save your family but that doesn't mean that you didn't start the fire.
+423,00:26:35,00:26:41,"Are you lying about that, too?"
+424,00:26:41,00:26:44,You tell me.
+425,00:26:46,00:26:50,I will.
+426,00:26:50,00:26:53,"TONY: Hey, you didn't hear this from me, all right? But, um..."
+427,00:26:54,00:26:59,you see the guy over there-- blue sweatshirt with the orange hood?
+428,00:26:59,00:27:00,702.
+429,00:27:00,00:27:02,He's a runner.
+430,00:27:02,00:27:05,He used to hang with 517-- the kid who was killed.
+431,00:27:05,00:27:07,"He's not talking to himself, is he?"
+432,00:27:07,00:27:09,Talking to his boss on a wire.
+433,00:27:09,00:27:12,It's illegal to use two-way communication in the sportsbook.
+434,00:27:12,00:27:14,As long as you don't get caught.
+435,00:27:14,00:27:16,I've got to get back to work.
+436,00:27:19,00:27:21,Lakers are minus 11.
+437,00:27:21,00:27:22,The total is 189.
+438,00:27:23,00:27:24,Yeah. Bulls pick.
+439,00:27:24,00:27:27,Kings are down to nine from eleven.
+440,00:27:32,00:27:34,Done.
+441,00:27:35,00:27:36,Lakers.
+442,00:27:36,00:27:37,"$50,000."
+443,00:27:37,00:27:39,Give me as much at 11 as you can.
+444,00:27:39,00:27:41,You like the Lakers today?
+445,00:27:44,00:27:46,So do I.
+446,00:27:46,00:27:49,"Yeah, Joey Hillman, 517."
+447,00:27:49,00:27:51,"Yeah, he was a good kid."
+448,00:27:51,00:27:53,It's too bad about him getting shot.
+449,00:27:53,00:27:56,"Yeah, I guess all the runners heard about it by now, huh?"
+450,00:27:56,00:27:58,I guess.
+451,00:27:58,00:27:59,"So, who got Joey's route?"
+452,00:27:59,00:28:00,I don't know.
+453,00:28:00,00:28:02,The only thing I know is my own route.
+454,00:28:02,00:28:04,"What was Joey's route, exactly?"
+455,00:28:04,00:28:07,"You guys are asking a lot questions here for not being cops, huh?"
+456,00:28:07,00:28:11,"Are you interested in helping us better understand Joey's crime scene, or..."
+457,00:28:11,00:28:12,...not?
+458,00:28:12,00:28:15,I only know what I see on the news.
+459,00:28:17,00:28:19,Later.
+460,00:28:21,00:28:23,(sighs)
+461,00:28:43,00:28:44,You got me.
+462,00:28:45,00:28:46,Sorry.
+463,00:28:46,00:28:47,What areyoudoing here?
+464,00:28:47,00:28:49,Sifting through this debris.
+465,00:28:49,00:28:51,You mind?
+466,00:28:51,00:28:53,No.
+467,00:28:53,00:28:55,Give me a hand with this mattress.
+468,00:29:12,00:29:14,Space heater.
+469,00:29:15,00:29:18,"Janko Electric, Model..."
+470,00:29:18,00:29:19,...220.
+471,00:29:19,00:29:20,WARRICK: Or it was.
+472,00:29:20,00:29:25,I figure it must have burned up in the bedroom and the firemen threw it out here with the rest of this overhaul.
+473,00:29:25,00:29:28,"GRISSOM: This is heavy-duty, high voltage."
+474,00:29:28,00:29:31,This thing could heat our whole lab.
+475,00:29:31,00:29:33,Or overload a house.
+476,00:29:35,00:29:37,Breaker box.
+477,00:29:39,00:29:41,WARRICK: Circuit overload.
+478,00:29:41,00:29:42,The master bedroom.
+479,00:29:42,00:29:45,You know what to do next?
+480,00:29:45,00:29:48,Yeah.
+481,00:29:48,00:29:50,(drilling)
+482,00:29:56,00:29:59,The condensation inside Joey's back seat window is nasal mucus.
+483,00:29:59,00:30:00,From a sneeze. Most likely.
+484,00:30:00,00:30:01,You're thinking...
+485,00:30:01,00:30:03,the shooter was in the back seat?
+486,00:30:03,00:30:04,"Mm-hmm, with the sniffles."
+487,00:30:04,00:30:05,Mm-hmm.
+488,00:30:05,00:30:07,So what is the DNA like in mucus these days?
+489,00:30:07,00:30:09,It's pretty good.
+490,00:30:09,00:30:10,I'll start a DNA profile.
+491,00:30:10,00:30:11,Thanks.
+492,00:30:11,00:30:13,Catherine?
+493,00:30:13,00:30:14,"Oh, hi, David."
+494,00:30:14,00:30:15,What's up?
+495,00:30:15,00:30:17,There's someone waiting for you in reception.
+496,00:30:21,00:30:22,Detective?
+497,00:30:24,00:30:26,She came in with her son.
+498,00:30:26,00:30:29,Thought you'd like a conversation before we sat down with him.
+499,00:30:29,00:30:32,"Yeah, thanks."
+500,00:30:32,00:30:33,Did you call Nick?
+501,00:30:33,00:30:34,Yeah.
+502,00:30:34,00:30:37,Uh... come on.
+503,00:30:37,00:30:39,"This is my son, Danny."
+504,00:30:39,00:30:41,He heard about Joey and came home.
+505,00:30:43,00:30:47,"So, I took some of my runner money and I hit the blackjack tables."
+506,00:30:47,00:30:50,I lost...
+507,00:30:50,00:30:52,so I doubled up.
+508,00:30:52,00:30:55,I ended up losing 30 grand in eight minutes.
+509,00:30:55,00:30:56,"Well, I can see why you ran."
+510,00:30:57,00:30:58,I was scared.
+511,00:30:58,00:31:01,"You know, it wasn't my money."
+512,00:31:01,00:31:04,NICK: Did you think to get back to your boss?
+513,00:31:04,00:31:05,Try to make amends?
+514,00:31:07,00:31:09,"You guys don't even know who your boss is, do you?"
+515,00:31:09,00:31:14,"NICK: Did you tell Joey to get out of town, that someone might try to harm him?"
+516,00:31:14,00:31:15,On behalf of your boss?
+517,00:31:15,00:31:17,I should have.
+518,00:31:17,00:31:18,"But, no..."
+519,00:31:18,00:31:21,DANNY: I only worried aboutmybutt.
+520,00:31:21,00:31:24,They killed Joey to send a message to me.
+521,00:31:26,00:31:28,"Mom, I'm sorry. I didn't know."
+522,00:31:31,00:31:33,CATHERINE: Danny...
+523,00:31:33,00:31:37,...do you have any idea who shot your brother?
+524,00:31:37,00:31:39,One of the runners.
+525,00:31:40,00:31:41,Probably a guy...
+526,00:31:41,00:31:42,No!
+527,00:31:42,00:31:44,No. No names.
+528,00:31:45,00:31:48,DANNY: One of them killed Joey.
+529,00:31:48,00:31:50,"You know, they'll do anything for money."
+530,00:31:50,00:31:52,It's like a-a disease.
+531,00:31:52,00:31:54,"And if you talk, they'll come after you."
+532,00:31:54,00:31:55,No.
+533,00:31:55,00:31:58,"No, I'm not losing another child."
+534,00:31:58,00:32:00,Joey died because of me.
+535,00:32:00,00:32:02,"Either they find his shooter, or I do."
+536,00:32:02,00:32:04,"NICK: Whoa, whoa!"
+537,00:32:04,00:32:05,"Hold on, now."
+538,00:32:05,00:32:07,Nobody's going after anybody.
+539,00:32:07,00:32:10,"Okay, he doesn't have to give us a name, Ms. Hillman, all right?"
+540,00:32:11,00:32:14,"Danny, you wear an earpiece, right?"
+541,00:32:14,00:32:17,Just give us the frequency your runners operate on.
+542,00:32:30,00:32:32,What the hell are you doing?
+543,00:32:32,00:32:34,Something you probably should have done.
+544,00:32:34,00:32:37,You're checking for faulty wiring?
+545,00:32:37,00:32:38,"Waste of time, Gil."
+546,00:32:39,00:32:42,The fire started on the floor in the closet not in the wires in the wall.
+547,00:32:42,00:32:43,"Yeah, that was your report."
+548,00:32:44,00:32:48,This is an electrical socket from the closet where a space heater was plugged in.
+549,00:32:48,00:32:49,A heater?
+550,00:32:49,00:32:51,There was no heater there.
+551,00:32:51,00:32:53,"I found it in the living room, melted."
+552,00:32:53,00:32:57,And I suppose you happen to know which outlet it was plugged into?
+553,00:32:57,00:32:58,It was a cold night.
+554,00:32:58,00:33:01,The outlet in the closet was closest to her bed.
+555,00:33:01,00:33:04,"That's a little far-fetched, don't you think?"
+556,00:33:04,00:33:05,Look...
+557,00:33:05,00:33:12,if this wire burned from the inside out then the fire started in the wall not on the closet floor.
+558,00:33:16,00:33:19,GRISSOM: Discoloration throughout the conductor.
+559,00:33:19,00:33:21,It burned from the inside out.
+560,00:33:21,00:33:25,The cause of this fire was an electrical overload in the wall.
+561,00:33:25,00:33:26,"All right, you say wall, I say floor."
+562,00:33:27,00:33:28,We differ on points of origin.
+563,00:33:28,00:33:31,The jury's only going to hear one word: gasoline.
+564,00:33:31,00:33:32,Speaking of which...
+565,00:33:32,00:33:33,where's your accelerant analysis work?
+566,00:33:33,00:33:40,I personally swabbed the closet floor found traces of hydrocarbon chains confirming gasoline.
+567,00:33:40,00:33:43,"Leave it alone, Gil."
+568,00:33:43,00:33:44,The D.A. agrees with me on this.
+569,00:33:44,00:33:46,"Too many unanswered questions, Conrad."
+570,00:33:46,00:33:49,This case shouldnot be going to trial yet.
+571,00:33:49,00:33:50,"No, there's onlyone unanswered question."
+572,00:33:51,00:33:53,Why was there accelerant in the closet?
+573,00:33:53,00:33:55,Only one person knows.
+574,00:33:55,00:33:58,And that's why he's looking at the death penalty.
+575,00:34:01,00:34:03,"DAMON: Look, I told you..."
+576,00:34:03,00:34:05,I don't know why it was there.
+577,00:34:05,00:34:06,You've got to do better than that.
+578,00:34:07,00:34:07,I can't!
+579,00:34:08,00:34:10,It doesn't prove you didn't start it.
+580,00:34:10,00:34:15,Until we can explain why there was gasoline in the bedroom closet the charges stand.
+581,00:34:18,00:34:19,Then I guess I'm a dead man.
+582,00:34:28,00:34:30,"Hey, this is bull."
+583,00:34:30,00:34:32,I thought I was showing up to win a trip.
+584,00:34:32,00:34:33,CATHERINE: Oh...
+585,00:34:33,00:34:35,"one of you's going to win a trip, all right."
+586,00:34:35,00:34:37,"Everybody clear, this is voluntary?"
+587,00:34:37,00:34:40,"Yeah, sure, then she just calls the cops to come and arrest us."
+588,00:34:40,00:34:43,So everyoneisclear.
+589,00:34:43,00:34:44,Yeah.
+590,00:34:44,00:34:45,Yeah.
+591,00:34:45,00:34:47,Okay...
+592,00:34:47,00:34:49,here's what we're going to do.
+593,00:34:50,00:34:52,Open your nostrils.
+594,00:34:52,00:34:56,"You know, look, I got a hundred bucks that says none of us are the shooter."
+595,00:34:56,00:35:00,"Well, if you're that confident it's not one of your guys you must know who it is."
+596,00:35:00,00:35:03,"Even if I did, you think I would tell you?"
+597,00:35:03,00:35:07,NICK: You're on Cool Breeze. A hundred bucks.
+598,00:35:07,00:35:09,Okay.
+599,00:35:12,00:35:14,Head back.
+600,00:35:35,00:35:38,(sighs)
+601,00:35:44,00:35:47,Okay. You're all free to go.
+602,00:35:47,00:35:49,"NICK: This way, gents."
+603,00:35:49,00:35:51,"You owe me a C-note, baby."
+604,00:35:51,00:35:52,I don't have it on me.
+605,00:35:52,00:35:54,I'll have to bring it to you.
+606,00:35:54,00:35:56,"Okay, I'll be holding my breath."
+607,00:35:56,00:35:58,Mm-hmm.
+608,00:35:59,00:36:02,Ugh!
+609,00:36:06,00:36:08,SARA: Counting matches?
+610,00:36:09,00:36:11,Yeah.
+611,00:36:11,00:36:14,From the kid's room.
+612,00:36:14,00:36:16,I counted them yesterday.
+613,00:36:16,00:36:18,And I counted them this morning.
+614,00:36:18,00:36:19,Twenty.
+615,00:36:19,00:36:20,They're all there.
+616,00:36:25,00:36:28,I really don't know what I'm doing anymore.
+617,00:36:28,00:36:30,I got a theory.
+618,00:36:30,00:36:32,You want to hear it?
+619,00:36:32,00:36:33,Sure.
+620,00:36:33,00:36:36,You know the melted shards of glass we found on the closet floor?
+621,00:36:36,00:36:40,"They prove that the fire burned at over 1,000 degrees, right?"
+622,00:36:40,00:36:46,"But that temp, combined with the water used to douse the flames would have destroyed most of the accelerant."
+623,00:36:46,00:36:48,That's what happens.
+624,00:36:48,00:36:52,"So, Ecklie's conclusion of gasoline wasn't based on any physical evidence."
+625,00:36:52,00:36:55,It was based on Damon's credit card receipts.
+626,00:36:55,00:36:56,I can't fault him for that.
+627,00:36:56,00:36:58,The burn pattern is consistent with a gasoline accelerant.
+628,00:36:58,00:36:59,But...
+629,00:37:00,00:37:03,hydrocarbons are found in all kinds of things: oils...
+630,00:37:03,00:37:09,"kerosene, polyethylene- based compounds like laxatives, even the foam used in push-up bras."
+631,00:37:09,00:37:14,"Yeah, under the right conditions anyhydro-carb can be an accelerant."
+632,00:37:14,00:37:15,Thank you.
+633,00:37:15,00:37:17,"Warrick, you're driving."
+634,00:37:19,00:37:21,You ever worry about professional suicide?
+635,00:37:21,00:37:24,"Not while I'm committing it, no."
+636,00:37:39,00:37:40,Crime scene cleanup.
+637,00:37:41,00:37:44,Let's go.
+638,00:37:47,00:37:49,You son of a bitch.
+639,00:37:49,00:37:50,You swept my crime scene.
+640,00:37:50,00:37:51,You sent cleanup!
+641,00:37:51,00:37:54,I didn't send anyone.
+642,00:37:54,00:37:56,It's been on the books for months.
+643,00:37:56,00:37:58,"You knew, and did nothing about it even with a man's life on the line?"
+644,00:37:58,00:38:03,If you'd checked the docket like everybody else you would've known what was happening.
+645,00:38:03,00:38:04,Coffee?
+646,00:38:05,00:38:07,(glass breaking)
+647,00:38:07,00:38:09,Guess you don't want cream with that.
+648,00:38:29,00:38:32,"Thanks, Ecklie."
+649,00:38:36,00:38:38,Hi.
+650,00:38:38,00:38:39,Hi.
+651,00:38:39,00:38:41,Excuse me.
+652,00:38:41,00:38:42,My name's Gil Grissom.
+653,00:38:42,00:38:45,I know. You're helping Frank. Thank you.
+654,00:38:45,00:38:46,May I ask you a question?
+655,00:38:46,00:38:49,Sure. Anything to help Frank.
+656,00:38:49,00:38:52,You're his family.
+657,00:38:52,00:38:54,What was his relationship like with his wife and son?
+658,00:38:55,00:38:59,Frank was a wonderful father.
+659,00:38:59,00:39:01,Toby adored him.
+660,00:39:01,00:39:03,"Uh, I'm sorry."
+661,00:39:03,00:39:07,"I, um... I have to get back to work."
+662,00:39:07,00:39:09,But thank you.
+663,00:39:16,00:39:18,I broke a coffee pot today.
+664,00:39:19,00:39:20,Lost my temper.
+665,00:39:21,00:39:23,Anything like that ever happen to you?
+666,00:39:25,00:39:30,We found shards of melted glass on the floor of your closet.
+667,00:39:30,00:39:32,You want to tell me about it?
+668,00:39:34,00:39:36,"Okay, you can explain it in court."
+669,00:39:36,00:39:39,It's all part of the report now.
+670,00:39:51,00:39:56,I didn't leave that night to buy ice cream.
+671,00:39:58,00:39:59,I was leaving Jeannie.
+672,00:39:59,00:40:00,I warned you.
+673,00:40:00,00:40:01,It's just a few things.
+674,00:40:01,00:40:03,It is half the damn state!
+675,00:40:03,00:40:04,I told you this was the last time.
+676,00:40:04,00:40:05,Going to leave us now?
+677,00:40:05,00:40:07,I'm leaving. You can be broke by yourself!
+678,00:40:07,00:40:10,"You want to leave? Fine, okay?"
+679,00:40:10,00:40:12,Get out! What the hell are you doing?
+680,00:40:12,00:40:14,So I just got the hell out of there.
+681,00:40:14,00:40:20,"Drove for about 20 minutes and then thought, how could I end ten years of our life like that?"
+682,00:40:20,00:40:22,"I mean, we had a son, so I turned around."
+683,00:40:22,00:40:24,Wait a minute. Go back.
+684,00:40:24,00:40:27,What did she throw at you?
+685,00:40:27,00:40:28,Be specific.
+686,00:40:28,00:40:29,"Man, I just ducked and covered."
+687,00:40:30,00:40:31,I don't remember.
+688,00:40:31,00:40:32,Think.
+689,00:40:32,00:40:36,Uh... a-a phone.
+690,00:40:36,00:40:38,A-A bag.
+691,00:40:39,00:40:40,"Uh, a vase maybe."
+692,00:40:40,00:40:41,What kind of a vase?
+693,00:40:41,00:40:43,A flower vase?
+694,00:40:43,00:40:44,I don't remember any flowers.
+695,00:40:44,00:40:46,Was it even a vase?
+696,00:40:46,00:40:47,"Look, I don't know."
+697,00:40:47,00:40:48,I can't remember.
+698,00:40:49,00:40:50,Was it glass?
+699,00:40:50,00:40:52,Could it have been glass?
+700,00:40:52,00:40:54,Yes.
+701,00:40:54,00:40:55,It was glass.
+702,00:40:56,00:40:59,"It was a glass lamp, because it had a wick."
+703,00:40:59,00:41:01,Get out! What the hell are you doing?
+704,00:41:01,00:41:01,Get out!
+705,00:41:02,00:41:02,DAMON: I'm leaving!
+706,00:41:02,00:41:04,Just get out!
+707,00:41:04,00:41:06,Like a kerosene lamp?
+708,00:41:06,00:41:08,"Yeah, she bought a lamp like that."
+709,00:41:08,00:41:10,I found kerosene on the floor of your closet.
+710,00:41:11,00:41:16,I think the space heater overloaded the circuit causing a spark to ignite the kerosene.
+711,00:41:16,00:41:19,Can you prove it?
+712,00:41:19,00:41:20,In court?
+713,00:41:20,00:41:23,The evidence can.
+714,00:41:33,00:41:35,"Hey, how you doing?"
+715,00:41:35,00:41:36,Hey.
+716,00:41:36,00:41:37,Who do you want?
+717,00:41:37,00:41:40,"The runner... um, 702."
+718,00:41:41,00:41:42,I owe him a little cash.
+719,00:41:42,00:41:46,"Uh, this isn't the only place he hangs out but if you want me to give it to him..."
+720,00:41:46,00:41:47,Um...
+721,00:41:47,00:41:49,you have an envelope I could use?
+722,00:41:49,00:41:50,Yeah.
+723,00:41:52,00:41:54,(sniffles)
+724,00:41:54,00:41:55,Nice watch.
+725,00:41:55,00:41:57,Thanks.
+726,00:41:57,00:41:59,Thought you were getting out of this business.
+727,00:41:59,00:42:01,"Yeah, uh... it's my last day."
+728,00:42:01,00:42:03,Got a new job.
+729,00:42:03,00:42:05,Later.
+730,00:42:05,00:42:06,Yeah.
+731,00:42:06,00:42:08,(sneezes)
+732,00:42:23,00:42:26,"You're out of business, Joey."
+733,00:42:28,00:42:30,(sneezes)
+734,00:42:31,00:42:33,"New job, huh?"
+735,00:42:33,00:42:36,Joey's old route?
+736,00:42:38,00:42:44,Did you get so scared when you shot him that you forgot the money?
+737,00:42:44,00:42:46,I want a lawyer.
+738,00:42:46,00:42:50,"Well, you better get one that knows forensics..."
+739,00:42:52,00:42:53,'cause we got you.
+740,00:42:53,00:42:56,"Dispatch, Victor 19."
+741,00:42:56,00:42:59,Code 462 on the 4-20 suspect Monaco.
+742,00:43:08,00:43:10,Thought you might need a ride.
+743,00:43:10,00:43:13,No. Thanks.
+744,00:43:13,00:43:15,DAMON: I'm okay.
+745,00:43:15,00:43:19,Your sister.
+746,00:43:24,00:43:26,Who is she?
+747,00:43:28,00:43:36,Would you have helped me if I told you that my wife and I fought that night that I was leaving her for another woman?
+748,00:43:37,00:43:39,For Rachel?
+749,00:43:39,00:43:42,I don't judge people.
+750,00:43:42,00:43:46,"It's funny-- when I got out, I thought I'd feel..."
+751,00:43:47,00:43:49,free.
+752,00:43:49,00:43:51,And?
+753,00:43:51,00:43:53,I feel...
+754,00:43:53,00:43:56,Responsible?
+755,00:44:07,00:44:09,(Damon chuckling)
+756,00:44:10,00:44:11,Come here.

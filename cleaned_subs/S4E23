@@ -1,0 +1,523 @@
+,start,end,text
+0,00:01:00,00:01:01,Help!
+1,00:01:01,00:01:04,(dog snarling)
+2,00:01:04,00:01:07,Help me!
+3,00:01:07,00:01:08,Somebody help me!
+4,00:01:12,00:01:14,Somebody help me!
+5,00:01:32,00:01:34,Nobody knows who she is.
+6,00:01:34,00:01:38,"The Andersons, they called the security company."
+7,00:01:38,00:01:41,They thought somebody was trying to break in their back door.
+8,00:01:41,00:01:43,Southern Highlands is a new development.
+9,00:01:43,00:01:45,There's really not much around here.
+10,00:01:45,00:01:49,"Some of my guys are talking to everybody, trying to find out what's going on."
+11,00:01:49,00:01:51,She has severe lacerations on her feet.
+12,00:01:51,00:01:54,She was running hard from somewhere.
+13,00:04:49,00:04:52,"No skid marks, no signs of another vehicle."
+14,00:04:52,00:04:56,"The engine's running, no flat tires."
+15,00:04:56,00:04:58,Why'd she stop?
+16,00:05:29,00:05:31,If you could just push.
+17,00:05:45,00:05:50,I'm going to take the SAE kit to Greg.
+18,00:05:50,00:05:52,You don't want to take the statement?
+19,00:05:52,00:05:54,Do you mind?
+20,00:05:54,00:05:55,No.
+21,00:05:58,00:05:59,She's ready.
+22,00:06:00,00:06:01,Thanks.
+23,00:06:07,00:06:11,"Lily Barker, I'm Catherine Willows."
+24,00:06:11,00:06:14,I'm with the Las Vegas crime lab.
+25,00:06:14,00:06:17,I know that you've been through a horrific ordeal.
+26,00:06:19,00:06:20,4-4-6.
+27,00:06:22,00:06:24,That's all I got.
+28,00:06:24,00:06:26,Nevada plates.
+29,00:06:26,00:06:28,Some kind of SUV.
+30,00:06:28,00:06:29,"Black, I think."
+31,00:06:29,00:06:33,Can you start from the beginning?
+32,00:06:36,00:06:39,"I was, um, driving home from work."
+33,00:06:39,00:06:46,There's hardly any traffic once you cross Horizon Ranch.
+34,00:06:46,00:06:49,He was tailgating.
+35,00:06:49,00:06:54,I slowed down to let him pass and he hit me.
+36,00:06:54,00:07:01,"I wasn't going to stop, but he did, so I pulled over."
+37,00:07:03,00:07:06,You're not supposed to leave the scene of an accident.
+38,00:07:08,00:07:10,He looked like a normal guy.
+39,00:07:10,00:07:12,He asked if I was okay.
+40,00:07:12,00:07:14,Apologized.
+41,00:07:14,00:07:17,He went to his car to get his insurance information.
+42,00:07:17,00:07:20,I was looking at my bumper.
+43,00:07:20,00:07:25,"He punched me in the face, threw me over his shoulder."
+44,00:07:25,00:07:28,I lost my shoes.
+45,00:07:29,00:07:35,"He threw me on the ground, took off my jacket, ripped open my shirt."
+46,00:07:35,00:07:40,"He kept trying to kiss me on the mouth, and I kept turning away."
+47,00:07:40,00:07:41,So he bit my ear.
+48,00:07:47,00:07:50,He wanted me to look at him.
+49,00:07:50,00:07:51,He was going to kill me.
+50,00:07:52,00:07:56,He ripped off my skirt.
+51,00:07:56,00:07:59,He raped me.
+52,00:07:59,00:08:01,He didn't use a condom.
+53,00:08:01,00:08:08,"He got up to zip, and I kicked him in the groin and I ran."
+54,00:08:08,00:08:10,"And the rest, I guess you know."
+55,00:08:12,00:08:15,Thank you.
+56,00:08:15,00:08:18,That was very specific.
+57,00:08:18,00:08:21,You said that you looked at him.
+58,00:08:21,00:08:23,Could you describe him to a forensic artist?
+59,00:08:23,00:08:26,Yes.
+60,00:08:29,00:08:32,WOMAN: What do you remember most about the face?
+61,00:08:35,00:08:38,He had bright eyes.
+62,00:08:38,00:08:40,What about the shape of the eyes?
+63,00:08:40,00:08:44,Almond.
+64,00:08:44,00:08:46,Tiny pupils.
+65,00:08:46,00:08:48,What about the rest of the face?
+66,00:08:48,00:08:52,He had a baby face.
+67,00:08:52,00:08:58,"High forehead, thin lips, clean-shaven."
+68,00:08:58,00:09:01,Like a crewcut?
+69,00:09:01,00:09:04,"No, like he had a regular haircut."
+70,00:09:09,00:09:10,What?
+71,00:09:10,00:09:14,How many vacation days do you have on the books?
+72,00:09:14,00:09:18,"About ten weeks, I guess."
+73,00:09:18,00:09:19,Why?
+74,00:09:19,00:09:22,I think you should take a week or two.
+75,00:09:22,00:09:25,I'm still on the case.
+76,00:09:25,00:09:28,I just didn't do the interview for once in my life.
+77,00:09:32,00:09:34,When was the last time you took vacation?
+78,00:09:34,00:09:36,"Never, right?"
+79,00:09:40,00:09:41,Okay.
+80,00:10:18,00:10:22,"Grissom, I have some information that will be of use to you."
+81,00:10:22,00:10:25,"But before you get it, I need a decision."
+82,00:10:25,00:10:26,What?
+83,00:10:26,00:10:28,I'm tired of being on the fence here.
+84,00:10:28,00:10:31,Either I'm in the lab or I'm in the field.
+85,00:10:33,00:10:34,Which is it?
+86,00:10:34,00:10:39,"Well, as soon as you can find and train a replacement, you can be in the field."
+87,00:10:39,00:10:40,"Until then, I need you in the lab."
+88,00:10:41,00:10:42,Now give.
+89,00:10:42,00:10:45,I got a CODIS hit off the semen from your victim.
+90,00:10:45,00:10:49,DNA matches a rape-murder case from a year ago.
+91,00:10:49,00:10:50,Still open?
+92,00:10:50,00:10:51,Warrick's pulling the file.
+93,00:10:51,00:10:53,Thanks.
+94,00:10:53,00:10:55,"No, thank you."
+95,00:10:57,00:11:01,"Victim was a 32- year-old Caucasian female, Emma Dobbins."
+96,00:11:02,00:11:03,Sexually assaulted.
+97,00:11:03,00:11:05,"Cause of death, strangulation."
+98,00:11:05,00:11:08,They used her pantyhose.
+99,00:11:08,00:11:09,Where'd they find the body?
+100,00:11:09,00:11:12,"Off of Blue Diamond Road, southern highlands."
+101,00:11:12,00:11:15,That's not far from where Linley Parker was assaulted.
+102,00:11:16,00:11:20,"Other than the semen, the only evidence at the scene was a shoe print-- man's size nine."
+103,00:11:20,00:11:21,I talked to Nick.
+104,00:11:21,00:11:23,They also found a print-- size nine.
+105,00:11:23,00:11:25,Did she have a car?
+106,00:11:25,00:11:28,A vintage Pontiac.
+107,00:11:28,00:11:29,"Registered in her name, never recovered."
+108,00:11:30,00:11:35,"GRISSOM: So apart from geography and age, what else did they have in common?"
+109,00:11:35,00:11:39,BROWN: Emma Dobbins ran a movie memorabilia place downtown.
+110,00:11:39,00:11:42,My vic was a pit boss at the Monaco.
+111,00:11:42,00:11:43,Emma was married.
+112,00:11:43,00:11:45,Linley Parker was single.
+113,00:11:45,00:11:47,Blonde. She was brunette.
+114,00:11:47,00:11:50,"The only thing in common, the guy who raped them."
+115,00:12:00,00:12:03,There's something wrong with the nose.
+116,00:12:05,00:12:07,Which one looks right.
+117,00:12:07,00:12:09,That one.
+118,00:12:09,00:12:11,This one?
+119,00:12:17,00:12:24,"Now, close your eyes, and tell me everything that happened up until the point that he raped you."
+120,00:12:29,00:12:31,(man grunts)
+121,00:12:31,00:12:32,(screaming)
+122,00:12:34,00:12:36,"Yeah, look at me."
+123,00:12:37,00:12:40,Open your eyes.
+124,00:12:40,00:12:41,(gags)
+125,00:12:41,00:12:44,(vomiting)
+126,00:12:51,00:12:55,WOMAN: My husband keeps dropping hints about my anniversary present.
+127,00:12:55,00:12:58,Says he hopes I like calypso music.
+128,00:12:58,00:13:01,I think it's a cruise.
+129,00:13:01,00:13:03,You don't like cruises?
+130,00:13:03,00:13:05,I feel guilty.
+131,00:13:05,00:13:11,"Because you don't love him anymore, or because you think he can't handle knowing?"
+132,00:13:11,00:13:13,Dr. Todd Coombs.
+133,00:13:13,00:13:15,"Excuse me, I'm with a patient."
+134,00:13:15,00:13:16,"Honey, I told him..."
+135,00:13:16,00:13:17,"Crystal, what's going on here?"
+136,00:13:17,00:13:19,Las Vegas Police.
+137,00:13:19,00:13:21,"Sir, we need to talk."
+138,00:13:21,00:13:22,(camera shutter clicks)
+139,00:13:22,00:13:25,TODD: This is insane-- you've got the wrong guy.
+140,00:13:25,00:13:28,"Well, if that's true, you got nothing to worry about."
+141,00:13:28,00:13:30,I-I'm going with him.
+142,00:13:30,00:13:31,"No, you're not."
+143,00:13:31,00:13:33,This is where he'll be.
+144,00:13:33,00:13:36,(panting): I'm gonna need a lawyer.
+145,00:13:36,00:13:40,"Who do I call? I don't know, call Roger-- he'll know what to do."
+146,00:13:42,00:13:45,The victim said the car was black.
+147,00:13:45,00:13:47,"Well, blue looks black at night."
+148,00:14:00,00:14:03,"MAN: Single file, stop at your number on the floor."
+149,00:14:03,00:14:06,"When I tell you to turn, you're gonna face the mirror."
+150,00:14:07,00:14:10,"When you hear your number called, step forward."
+151,00:14:10,00:14:11,Turn.
+152,00:14:11,00:14:14,"Number one, step forward."
+153,00:14:17,00:14:19,Step back.
+154,00:14:19,00:14:22,"Number two, step forward."
+155,00:14:24,00:14:26,Step back.
+156,00:14:26,00:14:30,"Number three, step forward."
+157,00:14:36,00:14:38,It's number three.
+158,00:14:42,00:14:45,That's the guy who raped me.
+159,00:14:56,00:14:58,He's been like that since the lineup.
+160,00:14:59,00:15:01,"You know, the guilty ones always fall asleep."
+161,00:15:03,00:15:05,(keys jangling)
+162,00:15:07,00:15:09,"Dr. Coombs, my name's Gil Grissom."
+163,00:15:09,00:15:11,I'm with the crime lab.
+164,00:15:11,00:15:14,"I'm here to collect a DNA sample, so if you'd open your mouth?"
+165,00:15:14,00:15:17,DNA?
+166,00:15:17,00:15:19,I-I think I should talk to my lawyer.
+167,00:15:19,00:15:21,"Well, we have a warrant, so we can compel a sample."
+168,00:15:21,00:15:22,Either way I'm gonna get it.
+169,00:15:22,00:15:24,I haven't done anything.
+170,00:15:24,00:15:26,"The good news: if you're innocent, this'll prove it."
+171,00:15:33,00:15:35,Thank you.
+172,00:16:33,00:16:36,(liquid bubbling)
+173,00:16:40,00:16:42,(whirring)
+174,00:16:49,00:16:52,(copy machine whirring)
+175,00:17:05,00:17:07,(beep)
+176,00:17:07,00:17:11,"(mechanical whirring, beeping)"
+177,00:17:18,00:17:25,STOKES: I compared the eight pairs of shoes we collected at Todd Coombs' house to the shoe print at the crime scene.
+178,00:17:25,00:17:26,Mm-hmm. No matches.
+179,00:17:26,00:17:29,"Well, he could've ditched the shoes anywhere."
+180,00:17:29,00:17:30,"Yeah, true."
+181,00:17:30,00:17:33,"So, uh, what do you got, Greg?"
+182,00:17:33,00:17:37,"Well, according to the DNA results, Todd Coombs is not your rapist."
+183,00:17:37,00:17:42,"You're kidding. There's only seven out of 13, which means we're looking for a sibling."
+184,00:17:42,00:17:44,I believe the semen would indicate abrother.
+185,00:17:44,00:17:48,Could explain why she picked Todd out of a lineup-- strong family resemblance.
+186,00:17:49,00:17:51,She was so sure.
+187,00:17:54,00:17:56,Dr. Coombs.
+188,00:17:56,00:17:57,You're free to go.
+189,00:17:57,00:17:58,So that's it?
+190,00:17:59,00:18:00,Yeah.
+191,00:18:00,00:18:05,"You people think you can do whatever you want-- come into our homes, turn our lives upside down."
+192,00:18:05,00:18:09,"Who's gonna explain this to our neighbors, our friends?"
+193,00:18:09,00:18:12,"TODD: Come on, honey, let's get out of here."
+194,00:18:15,00:18:16,You're letting him go? Why?
+195,00:18:16,00:18:18,He's not the man that assaulted you.
+196,00:18:18,00:18:20,"Yes, he is. I identified him."
+197,00:18:20,00:18:22,DNA ruled him out.
+198,00:18:22,00:18:24,Then you made a mistake.
+199,00:18:24,00:18:25,That man raped me.
+200,00:18:25,00:18:29,"We have some additional leads, and we're working on them."
+201,00:18:29,00:18:31,I promise to keep you informed.
+202,00:18:31,00:18:32,I saw him.
+203,00:18:32,00:18:35,He wanted me to see his face.
+204,00:18:35,00:18:37,"Linley, it was dark."
+205,00:18:37,00:18:41,You were under attack.
+206,00:18:41,00:18:43,Under those conditions...
+207,00:18:43,00:18:47,"pupils dilate, it's hard to focus."
+208,00:18:47,00:18:49,You can't always trust your eyes.
+209,00:18:49,00:18:55,"He wanted me to see his face because he was going to kill me, and now you're letting him go?"
+210,00:18:55,00:18:57,This is my cell phone number.
+211,00:18:57,00:18:59,Call me if you need anything.
+212,00:18:59,00:19:01,This isn't gonna keep him away from me.
+213,00:19:01,00:19:03,What I need is protection.
+214,00:19:03,00:19:05,I need a gun.
+215,00:19:05,00:19:09,"If you don't feel safe in your home, stay with a friend."
+216,00:19:16,00:19:20,I hear you're looking for Todd Coombs' brother.
+217,00:19:20,00:19:22,Or brothers.
+218,00:19:22,00:19:25,I'll work out the family tree.
+219,00:20:21,00:20:24,"Yeah, I read all about it in the paper."
+220,00:20:24,00:20:30,"I'm just sorry our parents weren't alive to see it. Hey, your brother's being hauled in on a rape charge."
+221,00:20:30,00:20:31,Does that seem funny to you?
+222,00:20:31,00:20:32,A little.
+223,00:20:32,00:20:34,Todd was due.
+224,00:20:34,00:20:35,Due for what? A reality check.
+225,00:20:35,00:20:39,"Most people go through life, suffer the ups and downs."
+226,00:20:39,00:20:41,Todd only got the ups till now.
+227,00:20:41,00:20:44,I'm Roger Coombs. What's going on here?
+228,00:20:44,00:20:46,They're cops-- they want our DNA.
+229,00:20:46,00:20:49,I'm gonna need the MayHustler and a cup.
+230,00:20:49,00:20:50,That won't be necessary.
+231,00:20:50,00:20:54,ROGER: We're not giving you anything until our lawyer looks this over.
+232,00:20:54,00:20:56,BRASS: Let me tell you how this works.
+233,00:20:56,00:20:57,First things first.
+234,00:20:57,00:21:00,"We do the test, andthenthe lawyers come in."
+235,00:21:05,00:21:07,"So you two are fraternal twins, huh?"
+236,00:21:08,00:21:10,Accident of birth.
+237,00:21:10,00:21:13,(beeping)
+238,00:21:14,00:21:15,You want a sample of my DNA?
+239,00:21:15,00:21:18,"What for? It's an ongoing investigation, sir-- a rape."
+240,00:21:19,00:21:21,Can't discuss it any further than that.
+241,00:21:21,00:21:23,Does your route include the southern highlands?
+242,00:21:23,00:21:25,"No, I work this side of the 15, Seven Hills."
+243,00:21:25,00:21:26,Were you working two nights ago?
+244,00:21:26,00:21:28,You talked to my supervisor-- you know I was.
+245,00:21:28,00:21:33,"Look, I heard about what happened to that lady, and I know what you guys put Todd and Crystal through."
+246,00:21:34,00:21:35,You got something against my family?
+247,00:21:35,00:21:37,You got something against cooperating?
+248,00:21:50,00:21:53,"Hey, how'd it go with brother number four?"
+249,00:21:53,00:21:57,Nowhere. No Kevin Coombs at the address you gave me; no forwarding address.
+250,00:21:57,00:21:59,PD's following up.
+251,00:22:05,00:22:07,(phone ringing)
+252,00:22:11,00:22:12,Willows.
+253,00:22:12,00:22:14,LINLEY: I can't wait 72 hours for a gun.
+254,00:22:14,00:22:16,I need it today! I need it now!
+255,00:22:16,00:22:17,Linley?
+256,00:22:17,00:22:19,Hold on.
+257,00:22:19,00:22:20,(loud music playing over line)
+258,00:22:21,00:22:23,"Linley, I can barely hear you. Where are you?"
+259,00:22:23,00:22:25,Fremont Street. I-I know you can help me.
+260,00:22:25,00:22:28,Just-just give me a name. Tell me where to go.
+261,00:22:28,00:22:31,"(glass breaking, screaming)"
+262,00:22:31,00:22:33,Linley?
+263,00:22:33,00:22:34,Linley?!
+264,00:22:54,00:22:55,Where is she?
+265,00:22:55,00:22:57,We just rolled up.
+266,00:23:10,00:23:12,Hey.
+267,00:23:13,00:23:16,There's no new damage except for the window.
+268,00:23:16,00:23:19,"Blood is probably from whoever broke the glass, not the victim."
+269,00:23:19,00:23:21,(screaming)
+270,00:23:23,00:23:29,"BRASS: Okay, the pawn shop owner ID'd her, she was looking to buy a gun, and she wasn't in the mood to wait."
+271,00:23:29,00:23:31,Anybody see what happened here?
+272,00:23:31,00:23:35,"Well, the problem is that when the light show starts, everyone's looking up."
+273,00:23:36,00:23:40,"I mean, what's the chance that this crime is unrelated to the first attack?"
+274,00:23:40,00:23:40,It's the same guy.
+275,00:23:40,00:23:42,He's getting rid of the witness.
+276,00:23:42,00:23:43,Who identified the wrong man.
+277,00:23:44,00:23:46,"Soon as the DNA comes back, we'll know which brother it is."
+278,00:23:46,00:23:47,And until then we wait?
+279,00:23:47,00:23:50,"Well, I got every police officer downtown looking for her."
+280,00:23:50,00:23:51,Shoulda had eyes on the brothers.
+281,00:23:51,00:23:53,"Yeah, in a perfect world, yeah."
+282,00:23:53,00:23:57,Didn't you say that you were on the phone with her and you heard the window break?
+283,00:23:57,00:23:58,Yes.
+284,00:23:58,00:23:59,Did you find her phone?
+285,00:23:59,00:24:01,I looked everywhere.
+286,00:24:04,00:24:06,So where's her phone?
+287,00:24:07,00:24:08,(over radio): The is Dispatch.
+288,00:24:08,00:24:11,We have 20's confirmed on Roger Coombs.
+289,00:24:11,00:24:13,"Monaco Casino, last four hours."
+290,00:24:13,00:24:18,Larry Coombs at his place of employment.
+291,00:24:18,00:24:23,"And Bailey Coombs, on shift, Seven Hills."
+292,00:24:23,00:24:24,"All right, fine, fine."
+293,00:24:24,00:24:26,Search the whole house if you want to.
+294,00:24:26,00:24:28,"I'm telling you, Todd's not here."
+295,00:24:28,00:24:30,His car was in the driveway.
+296,00:24:30,00:24:31,That's because he took my car to The House Company.
+297,00:24:31,00:24:33,"You going to arrest him for that, too?"
+298,00:24:33,00:24:36,I'm going to need your license number and a full description of your vehicle.
+299,00:24:36,00:24:40,STOKES: How'd you guys know Linley Parker's cell was E-911 capable?
+300,00:24:40,00:24:42,We just took a shot.
+301,00:24:42,00:24:46,"She's got a lot of new gadgets in her car, most new cell phones are imbedded with a GPS chip."
+302,00:24:46,00:24:49,Her carrier accepted the Attorney General waiver.
+303,00:24:49,00:24:51,I'm accessing her site now.
+304,00:24:51,00:24:54,"If her phone's on, it should show up."
+305,00:24:54,00:24:55,Okay.
+306,00:25:00,00:25:02,"Okay, got it."
+307,00:25:02,00:25:06,"Nearest cross streets, uh, Warm Springs and Durango."
+308,00:25:07,00:25:08,That's the middle of nowhere.
+309,00:25:08,00:25:10,"Hey, Catherine."
+310,00:25:10,00:25:12,She's moving.
+311,00:25:12,00:25:14,We got a location!
+312,00:25:14,00:25:18,"Put out a BOLLO on a beige, 2004 Ford Taurus."
+313,00:25:18,00:25:24,"Registration, Nevada, 3-9-6-R-G-F."
+314,00:25:24,00:25:26,The driver's name is Todd Coombs.
+315,00:25:26,00:25:29,"He's a white male, 38 years old."
+316,00:25:29,00:25:33,I'm on my way to The House Company in Green Valley.
+317,00:25:33,00:25:34,Yeah.
+318,00:25:59,00:26:02,(vacuum whirring)
+319,00:26:02,00:26:04,You make a mess?
+320,00:26:04,00:26:06,That's your job.
+321,00:26:07,00:26:10,"Unless you've got a warrant, you can't even touch this car."
+322,00:26:10,00:26:12,I'm just looking.
+323,00:26:12,00:26:14,For what?
+324,00:26:15,00:26:17,So how was Wal-Mart?
+325,00:26:17,00:26:21,"I was at The House Company buying some plants for my wife, to cheer her up."
+326,00:26:21,00:26:23,"Oh, you think that's going to work?"
+327,00:26:24,00:26:25,A gesture goes a long way.
+328,00:26:25,00:26:27,Never worked for me.
+329,00:26:27,00:26:28,"Hey, do you mind turning that thing off?"
+330,00:26:28,00:26:30,When the quarters run out.
+331,00:26:30,00:26:32,So when were you at the store?
+332,00:26:32,00:26:34,Why don't you ask my brothers?
+333,00:26:34,00:26:38,"I've got a cousin in Phoenix, maybe he knows."
+334,00:26:39,00:26:41,(vacuum stops)
+335,00:26:41,00:26:47,"Last time I cooperated with you guys, you put me in a lineup and I spent the night in jail."
+336,00:26:47,00:26:48,"That's right, that's right."
+337,00:26:50,00:26:51,"Hey, let me tell you something."
+338,00:26:51,00:26:56,"12 hours after Linley Parker ID'd you as her rapist, she gets dragged out of her car on Fremont Street."
+339,00:26:56,00:26:57,Now she's missing.
+340,00:26:57,00:27:01,Then why are you wasting time talking to me?
+341,00:27:06,00:27:08,Drive safely.
+342,00:27:20,00:27:23,(phone ringing)
+343,00:27:23,00:27:24,Crime lab.
+344,00:27:24,00:27:25,"Yeah, this is Jim Brass."
+345,00:27:25,00:27:30,Can you send a CSI to my location for evidence recovery.
+346,00:27:30,00:27:33,STOKES: 250 feet.
+347,00:27:33,00:27:36,"200, still moving."
+348,00:27:36,00:27:37,Linley!
+349,00:27:37,00:27:40,150 feet.
+350,00:27:40,00:27:43,Linley!
+351,00:27:43,00:27:45,Eighty.
+352,00:27:45,00:27:48,"70, 60, still moving."
+353,00:27:48,00:27:50,Fifty.
+354,00:27:51,00:27:53,"Okay, okay, she stopped."
+355,00:27:53,00:27:54,"30 feet, she's right here."
+356,00:27:54,00:27:56,30 feet.
+357,00:28:15,00:28:16,MAN: Over here!
+358,00:29:54,00:29:55,SIDLE: Checked with county records.
+359,00:29:55,00:29:57,Crime scenes on a 20-acre plot.
+360,00:29:57,00:30:00,Guess who owns the property.
+361,00:30:00,00:30:01,One of the Coombs brothers.
+362,00:30:01,00:30:03,Coombs brother's company.
+363,00:30:06,00:30:07,Guy's an artist.
+364,00:30:07,00:30:09,You call that art?
+365,00:30:12,00:30:14,SIDLE: Black SUV.
+366,00:30:14,00:30:15,(yelling)
+367,00:30:15,00:30:17,You're on my property!
+368,00:30:18,00:30:19,Put the weapon down.
+369,00:30:19,00:30:20,You're on my property!
+370,00:30:20,00:30:23,"Las Vegas Police, drop it or we shoot."
+371,00:30:23,00:30:24,Turn around.
+372,00:30:30,00:30:31,Are you Kevin Coombs?
+373,00:30:31,00:30:33,I can see the family resemblance.
+374,00:30:33,00:30:34,Come on.
+375,00:30:38,00:30:42,"'Cause of death, asphyxia due to strangulation."
+376,00:30:42,00:30:48,Victim has a hairline fracture of the right third metacarpal with some soft tissue swelling.
+377,00:30:49,00:30:51,GRISSOM: Defensive wounds.
+378,00:30:51,00:30:52,She was a fighter.
+379,00:30:52,00:30:55,There's also fresh contusions of the right labia.
+380,00:30:56,00:30:58,She was raped again?
+381,00:30:58,00:31:02,I did a wet mount of the vaginal secretion with a Christmas tree stain.
+382,00:31:02,00:31:04,Slide's under the scope.
+383,00:31:10,00:31:11,Sperm.
+384,00:31:11,00:31:15,"If he was trying to silence a witness, why not just kill her, why rape her again?"
+385,00:31:15,00:31:18,Maybe rape was just foreplay for this guy.
+386,00:31:18,00:31:21,Maybe what he really gets off on is killing.
+387,00:31:27,00:31:30,(camera clicking)
+388,00:31:30,00:31:32,What do you got?
+389,00:31:32,00:31:35,Maybe a missing Pontiac Tempest.
+390,00:31:46,00:31:48,"So, you were home last night?"
+391,00:31:51,00:31:53,"Okay, well, doesn't really matter."
+392,00:31:53,00:31:55,Your DNA will do the talking.
+393,00:31:58,00:32:01,You know what happens when the government gets your DNA?
+394,00:32:01,00:32:02,Enlighten me.
+395,00:32:02,00:32:04,They put it in the database.
+396,00:32:04,00:32:11,"Then they look at your driver's license picture and then all those cameras-- traffic lights, parking lots, grocery stores..."
+397,00:32:11,00:32:14,They can find you.
+398,00:32:14,00:32:16,Whenever they want.
+399,00:32:24,00:32:25,Dr. Coombs.
+400,00:32:25,00:32:27,Mr. Grissom.
+401,00:32:27,00:32:31,I suppose you're compelling a DNA sample from my brother now.
+402,00:32:31,00:32:32,We are.
+403,00:32:34,00:32:35,Why are you here?
+404,00:32:35,00:32:38,Are you an only child?
+405,00:32:38,00:32:39,I am. Why?
+406,00:32:39,00:32:41,"You've got my brother in that room, he's family."
+407,00:32:41,00:32:43,I didn't want him to be alone.
+408,00:32:43,00:32:46,"Well, what about your other brothers?"
+409,00:32:46,00:32:49,Bailey only looks out for number one.
+410,00:32:49,00:32:52,"Roger and Larry, they do their best to avoid Kevin."
+411,00:32:52,00:32:53,They don't understand him.
+412,00:32:53,00:32:54,And you do?
+413,00:32:54,00:32:55,He's harmless.
+414,00:32:55,00:32:56,He chooses to live alone.
+415,00:32:56,00:32:57,He lives off the grid.
+416,00:32:57,00:33:00,He spends all his time turning junk into art.
+417,00:33:00,00:33:01,"Where does he get his ""junk""?"
+418,00:33:01,00:33:04,Mostly from my brother's garage.
+419,00:33:04,00:33:09,"Every once in a while, Roger lets Kevin take his pick of the wrecks."
+420,00:33:09,00:33:12,"Beats inviting him over for Thanksgiving, you know?"
+421,00:33:12,00:33:18,"Dr. Coombs, we found a 1968 Pontiac outside your brother's house."
+422,00:33:18,00:33:24,The VIN matched a car belonging to a victim who was raped and murdered by the same person who raped Linley Parker.
+423,00:33:24,00:33:29,And we found Linley Parker's dead body on your brother's property.
+424,00:33:29,00:33:33,You guys have been wrong before.
+425,00:34:19,00:34:20,"Whew, man."
+426,00:34:21,00:34:23,Guys like Brass have it easy.
+427,00:34:23,00:34:26,All they got to do is call it in.
+428,00:34:26,00:34:28,Check this out. I just found it in the hose.
+429,00:34:28,00:34:31,It's from a potted plant purchased at the House Company.
+430,00:34:31,00:34:35,Confirms Todd Coombs' alibi.
+431,00:34:35,00:34:38,WARRICK: You saw this?
+432,00:34:38,00:34:39,A pin from the Palms.
+433,00:34:39,00:34:41,Linley Parker worked at the Palms.
+434,00:34:44,00:34:47,A lot of people work at the Palms.
+435,00:34:47,00:34:49,And it doesn't nail Todd Coombs.
+436,00:34:49,00:34:56,"According to the DNA, the blood from Linley Parker's smashed window matches the semen from all the rapes."
+437,00:34:56,00:34:59,Which means it doesn't match Todd Coombs.
+438,00:34:59,00:35:00,Or Kevin Coombs.
+439,00:35:00,00:35:03,Or any of the rest of the Brothers Grimm.
+440,00:35:03,00:35:07,Linley was absolutely certain that Todd Coombs raped her.
+441,00:35:07,00:35:08,That's not what the evidence says.
+442,00:35:09,00:35:10,"Well, maybe the evidence is wrong."
+443,00:35:10,00:35:14,"You can be wrong, I can be wrong, the evidence is just the evidence."
+444,00:35:14,00:35:16,"Deep down, tell me you don't think this guy is good for this."
+445,00:35:18,00:35:22,I got the DNA on the hair you lifted off Linley Parker's body.
+446,00:35:22,00:35:24,Get this. It's Todd Coombs.
+447,00:35:24,00:35:26,Puts him with the body.
+448,00:35:26,00:35:27,It doesn't prove rape.
+449,00:35:27,00:35:30,I'll have Brass bring him in.
+450,00:35:43,00:35:46,"Would you strip down to your shorts, please, Doctor?"
+451,00:35:46,00:35:47,Why?
+452,00:35:47,00:35:55,"I'm going to examine your clothing for any trace evidence, and we're going to document your body for any injuries that may have been sustained during a recent struggle."
+453,00:35:55,00:35:57,I don't have any injuries.
+454,00:35:57,00:36:00,"If you'd like, this officer will assist you."
+455,00:36:01,00:36:02,I did not rape that women.
+456,00:36:02,00:36:03,I did not kill her.
+457,00:36:03,00:36:06,You guys proved that and you let me go.
+458,00:36:26,00:36:28,"Thank you. Turn around, please."
+459,00:36:33,00:36:35,That's an old scar.
+460,00:36:35,00:36:37,I was a bone marrow donor.
+461,00:36:37,00:36:40,My youngest brother Joss had leukemia.
+462,00:36:43,00:36:44,Hold still please.
+463,00:37:02,00:37:04,"Turn off the lights, would you, please, officer?"
+464,00:37:22,00:37:24,What are you looking at?
+465,00:38:37,00:38:37,This is harassment.
+466,00:38:38,00:38:40,I've already given you guys a DNA sample.
+467,00:38:42,00:38:46,You know that bone marrow donation you gave your brother?
+468,00:38:48,00:38:50,I checked your medical records.
+469,00:38:50,00:38:54,His body rejected it and he died.
+470,00:38:55,00:39:00,My guess is that's when you first found out about your unique condition.
+471,00:39:10,00:39:14,The doctors explained it.
+472,00:39:14,00:39:17,I'm a creature of myth.
+473,00:39:17,00:39:20,A chimera.
+474,00:39:20,00:39:24,"Head of a lion, body of a goat, tail of a dragon."
+475,00:39:30,00:39:31,You're a genetic anomaly.
+476,00:39:31,00:39:38,"One person, two completely different sets of DNA."
+477,00:39:42,00:39:44,BRASS: State your name for the record.
+478,00:39:46,00:39:48,My name is Todd Coombs.
+479,00:39:48,00:39:53,I raped and murdered Emma Dobbins and Linley Parker.
+480,00:39:53,00:39:56,"There are more, but we'll talk about those later."
+481,00:39:56,00:39:59,How'd you pick your victims?
+482,00:39:59,00:40:01,They picked me.
+483,00:40:01,00:40:06,"GRISSOM: Sometimes fraternal twins, two separately fertilized eggs, develop into only one person."
+484,00:40:06,00:40:14,"In effect, one twin dies in embryo, but its DNA survives in the other."
+485,00:40:14,00:40:20,That's why the DNA from his buccal swab matched his hair but not his semen.
+486,00:40:20,00:40:23,So he had two strains of DNA in his body.
+487,00:40:23,00:40:27,"Yeah, and the DNA in his semen, was evidently from his dead twin brother."
+488,00:40:27,00:40:30,You never met Emma Dobbins or Linley Parker.
+489,00:40:30,00:40:33,I didn't have to meet 'em.
+490,00:40:33,00:40:37,"You go to a bar, you see an attractive woman, make your move, she shoots you down."
+491,00:40:37,00:40:39,"You go home, you masturbate."
+492,00:40:39,00:40:40,You get on with it.
+493,00:40:43,00:40:46,But when I see a woman who arouses me...
+494,00:40:50,00:40:53,the whole world disappears...
+495,00:40:53,00:40:56,except for her.
+496,00:40:57,00:40:59,She can't say no.
+497,00:41:00,00:41:01,WARRICK: What a night.
+498,00:41:01,00:41:03,You guys hungry?
+499,00:41:03,00:41:04,Want to get something to eat?
+500,00:41:04,00:41:06,"No, I think I'm going to call it a night."
+501,00:41:06,00:41:07,"Yeah, me, too."
+502,00:41:07,00:41:09,I feel ya. Get some rest.
+503,00:41:09,00:41:10,"All right, I'll see you."
+504,00:41:10,00:41:15,"Hey, hey, Nick, congratulations on your almost promotion."
+505,00:41:15,00:41:18,"Seriously, you deserve it."
+506,00:41:18,00:41:23,"Wow. That's really hard for you, isn't it?"
+507,00:41:23,00:41:24,"Yeah, it is."
+508,00:41:29,00:41:30,(phone ringing)
+509,00:41:34,00:41:36,Grissom.
+510,00:41:37,00:41:40,Yes.
+511,00:41:44,00:41:45,Is she all right?
+512,00:41:45,00:41:48,(siren blips)
+513,00:41:48,00:41:51,She was lucky she wasn't on the strip.
+514,00:41:51,00:41:53,That's Highway Patrol's jurisdiction.
+515,00:41:53,00:41:59,She blew .09.
+516,00:41:59,00:42:06,"Technically, she's over, but they just lowered the limit, so we cut her a break and didn't book her."
+517,00:42:06,00:42:09,But we did have to call the supervisor.
+518,00:42:09,00:42:10,"Well, thank you."
+519,00:42:10,00:42:12,I appreciate the courtesy.
+520,00:42:12,00:42:14,No problem.
+521,00:42:33,00:42:35,Come on. I'll take you home.

@@ -1,0 +1,803 @@
+,start,end,text
+0,00:00:00,00:00:02,"(dog barks in distance, bottle clattering)"
+1,00:00:02,00:00:07,(siren wails in distance)
+2,00:00:09,00:00:11,(liquid sloshing)
+3,00:00:16,00:00:21,(bottle clattering)
+4,00:00:21,00:00:23,(man chuckling evilly)
+5,00:00:23,00:00:25,(gasps)
+6,00:00:25,00:00:26,"Hey, old man."
+7,00:00:26,00:00:28,What the hell are you doing in my alley?
+8,00:00:28,00:00:31,This... this isn't your alley.
+9,00:00:31,00:00:33,"What, you trying to tell me that it's yours?"
+10,00:00:33,00:00:34,Why are you doing this?
+11,00:00:34,00:00:35,THUG 2: I'm just trying to have some fun.
+12,00:00:35,00:00:37,Ain't you having fun?
+13,00:00:37,00:00:39,(others laughing)
+14,00:00:39,00:00:41,(grunting)
+15,00:00:41,00:00:44,"Please, just let me be, please."
+16,00:00:44,00:00:45,Is that the best you got?
+17,00:00:45,00:00:46,(cries out)
+18,00:00:46,00:00:47,"(grunts, sobs)"
+19,00:00:49,00:00:50,(whimpers)
+20,00:00:52,00:00:54,MAN: Leave him alone!
+21,00:00:55,00:00:56,Who's there?
+22,00:00:56,00:00:58,Get that damn light out of my eyes.
+23,00:00:58,00:00:59,MAN: You want to pick on someone?
+24,00:00:59,00:01:03,Why don't you pick on someone who can fight back?
+25,00:01:03,00:01:04,"I said, turn off that damn light."
+26,00:01:04,00:01:06,"Forget it, man."
+27,00:01:08,00:01:09,Who the hell are you?
+28,00:01:09,00:01:11,I'm a guy who's sick of you trashing this neighborhood.
+29,00:01:11,00:01:15,"THUG: Well, if you're gonna do something about it, why don't you hurry up and do it?"
+30,00:01:15,00:01:18,(crackling)
+31,00:01:18,00:01:19,Let's go.
+32,00:01:19,00:01:21,(whimpering)
+33,00:01:21,00:01:23,(indistinct shouting)
+34,00:01:23,00:01:24,(siren wails)
+35,00:01:24,00:01:26,Thank you. Morning. MITCHELL: Morning.
+36,00:01:26,00:01:27,"STOKES: What's going on, Mitch?"
+37,00:01:27,00:01:31,MITCHELL: One of the owners who backs on the alley was taking out trash this morning.
+38,00:01:31,00:01:33,He made the find.
+39,00:01:36,00:01:38,Oof.
+40,00:01:43,00:01:45,Somebody worked him over pretty good.
+41,00:01:45,00:01:50,"Judging by his knuckles, I'd say he got a few shots in."
+42,00:01:51,00:01:53,SIDLE: Eh.
+43,00:01:53,00:01:59,"Ground is sticky over here, probably thanks to this Dumpster."
+44,00:01:59,00:02:01,But it's given us a lot of shoe impressions.
+45,00:02:01,00:02:04,"Looking at the number, I'd say more than one assailant."
+46,00:02:04,00:02:09,"Well, Mitch did say there was a gang terrorizing the neighborhood lately."
+47,00:02:09,00:02:13,"Mostly vandalism and burglaries, but maybe they stepped up their game to murder."
+48,00:02:18,00:02:19,Nice get-up.
+49,00:02:19,00:02:21,Is that a cape?
+50,00:02:21,00:02:23,That's a costume of some sort.
+51,00:02:23,00:02:29,"And, of course, no costume would be complete without a mask."
+52,00:02:29,00:02:32,SIDLE: Maybe he was one of those sidewalk characters over on the Strip.
+53,00:02:32,00:02:34,They dress up like superheroes and panhandle for money.
+54,00:02:34,00:02:37,"Yeah, and was walking home and just got jumped?"
+55,00:02:37,00:02:38,Sara. SIDLE: Mmm?
+56,00:02:38,00:02:41,One of my guys found this in a doorway up the street.
+57,00:02:41,00:02:43,No ID.
+58,00:02:43,00:02:44,Looks like it's been rifled through.
+59,00:02:44,00:02:46,Got some street clothes...
+60,00:02:46,00:02:47,and a sketch pad.
+61,00:02:52,00:02:53,Uh...
+62,00:02:53,00:02:55,Nick? STOKES: Yeah.
+63,00:02:55,00:02:57,Take a look at these.
+64,00:02:59,00:03:02,STOKES: Comic drawings of a superhero.
+65,00:03:03,00:03:05,That's this superhero.
+66,00:03:07,00:03:09,Battling a gang.
+67,00:03:09,00:03:11,"It's a little weirdly prophetic, isn't it?"
+68,00:03:11,00:03:14,Like he knew he was gonna come up against these guys.
+69,00:03:14,00:03:16,Like he knew the future.
+70,00:03:16,00:03:20,"Too bad for him, the hero only wins in comic books."
+71,00:03:59,00:04:02,"Hey, uh, quite a collection of lifts."
+72,00:04:02,00:04:05,"SIDLE: Yeah, looks like at least five or six different individuals, plus the victim."
+73,00:04:05,00:04:10,"And a bare foot? What's with that? I don't know, but he was definitely part of the mix somehow."
+74,00:04:10,00:04:11,What do you got?
+75,00:04:11,00:04:14,I think these are the victim's superpowers.
+76,00:04:14,00:04:18,"One stun gun, spent, no charge left, and a pepper spray..."
+77,00:04:18,00:04:19,(rattling)
+78,00:04:19,00:04:21,...also empty.
+79,00:04:21,00:04:23,"PHILLIPS: Hey, Nick. Got a minute?"
+80,00:04:24,00:04:25,"What's up, Super Dave?"
+81,00:04:25,00:04:29,"Well, I'm gonna say time of death was between midnight and 3:00 a.m."
+82,00:04:29,00:04:31,Multiple bruises and contusions.
+83,00:04:31,00:04:33,Several lacerations.
+84,00:04:33,00:04:36,"I can't hazard a guess to say which ultimately killed him, though."
+85,00:04:36,00:04:37,Find any ID?
+86,00:04:37,00:04:39,No. Nothing.
+87,00:04:39,00:04:42,Leave it to a superhero to keep his identity a mystery.
+88,00:04:42,00:04:43,"MAN: Can I get my cart, please?"
+89,00:04:45,00:04:47,MAN: Can I get my cart?
+90,00:04:47,00:04:50,"OFFICER: I said, be patient, okay?"
+91,00:04:50,00:04:52,Please.
+92,00:04:55,00:04:58,Mmm. Mmm.
+93,00:04:58,00:05:02,"Mmm. Mmm, mmm, mmm."
+94,00:05:02,00:05:04,"How's your sandwich, Roger?"
+95,00:05:04,00:05:05,Oh...
+96,00:05:05,00:05:07,"Good, yes. Thanks."
+97,00:05:07,00:05:09,You said size 11.
+98,00:05:09,00:05:11,They're not entirely new.
+99,00:05:11,00:05:13,"They're from our lost-and-found, but they're something."
+100,00:05:13,00:05:14,Thank you. You're welcome.
+101,00:05:17,00:05:21,"They're, uh... not entirely free, though, either."
+102,00:05:21,00:05:24,I need to know what happened in the alley last night.
+103,00:05:24,00:05:27,"You were there, weren't you?"
+104,00:05:27,00:05:29,Some guy...
+105,00:05:29,00:05:32,who looked like Batman...
+106,00:05:34,00:05:36,...he saved me.
+107,00:05:36,00:05:37,"How did he save you, exactly?"
+108,00:05:37,00:05:41,"I was, uh, rummaging."
+109,00:05:41,00:05:46,"All of a sudden, I'm surrounded by these, um... villains."
+110,00:05:46,00:05:49,And they start shoving and hitting me.
+111,00:05:49,00:05:51,What did these villains look like?
+112,00:05:51,00:05:52,Never saw them.
+113,00:05:52,00:05:54,They-they covered their faces.
+114,00:05:54,00:05:59,But they wanted to hurt me.
+115,00:05:59,00:06:01,Badly.
+116,00:06:03,00:06:09,"That's when the guy in the mask appeared, in a ball of light."
+117,00:06:09,00:06:10,I see.
+118,00:06:10,00:06:12,What happened next?
+119,00:06:12,00:06:13,I don't... I don't know.
+120,00:06:13,00:06:15,I left. I took off.
+121,00:06:15,00:06:17,You didn't see their faces.
+122,00:06:17,00:06:19,You didn't see what happened.
+123,00:06:19,00:06:23,Did you see anything at all that-that might help us?
+124,00:06:23,00:06:25,"Find the villains, I mean."
+125,00:06:25,00:06:27,A truck.
+126,00:06:29,00:06:31,A red pickup.
+127,00:06:31,00:06:32,"Um, parked in the alley."
+128,00:06:36,00:06:38,RUSSELL: How's it going?
+129,00:06:38,00:06:40,Any luck?
+130,00:06:40,00:06:41,Some.
+131,00:06:41,00:06:44,I was able to identify two of the boots that made these impressions.
+132,00:06:44,00:06:50,"Unfortunately, they're all common work boots, sold at dozens of retailers and online."
+133,00:06:50,00:06:52,But we may have some luck in a different way.
+134,00:06:52,00:06:54,Take a close look.
+135,00:06:54,00:06:57,RUSSELL: There are granules stuck in the gel.
+136,00:06:57,00:06:59,Almost like... coffee grounds.
+137,00:06:59,00:07:04,Sara said that the ground around the crime scene was... was sticky.
+138,00:07:04,00:07:07,Maybe the tackiness pulled whatever this is off of this guy's shoes.
+139,00:07:07,00:07:08,Not just his.
+140,00:07:08,00:07:11,Almost all of these have the exact same trace on them.
+141,00:07:11,00:07:14,I already pulled a sample and gave it to Hodges for analysis.
+142,00:07:14,00:07:16,"Hey, Russell, you should, uh, see this."
+143,00:07:16,00:07:19,"It's, uh, security footage from a pawnshop on Wallace."
+144,00:07:19,00:07:21,Just a few blocks from the murder.
+145,00:07:30,00:07:33,"Wow, they don't waste any time."
+146,00:07:33,00:07:34,That's from a little after 11:00.
+147,00:07:34,00:07:36,Only an hour or so before the murder.
+148,00:07:36,00:07:40,Looks like this gang had a busy night.
+149,00:07:44,00:07:46,FINLAY: The owner already started cleaning up inside.
+150,00:07:46,00:07:49,So I told him not to touch anything until we're finished.
+151,00:07:49,00:07:53,"SANDERS: Well, according to Akers, this is the second time these guys have hit this place."
+152,00:07:53,00:07:58,"They did the same thing to a beauty supply store a block down, a couple nights ago."
+153,00:07:58,00:07:59,So they're targeting the same area.
+154,00:07:59,00:08:01,Gotta be local.
+155,00:08:01,00:08:04,Maybe a gang of neighborhood kids out wilding?
+156,00:08:04,00:08:06,Wilding... now killing.
+157,00:08:06,00:08:07,Got any shoe impressions?
+158,00:08:09,00:08:10,SANDERS: Working on it.
+159,00:08:10,00:08:11,FINLAY: What is that powder?
+160,00:08:11,00:08:15,"Oh, the, uh, display has fluorescent lights."
+161,00:08:15,00:08:18,And the inside of the tubes is coated with this phosphor powder.
+162,00:08:18,00:08:20,"When the tube breaks, the powder gets everywhere."
+163,00:08:20,00:08:21,"FINLAY: Any point in, uh..."
+164,00:08:21,00:08:23,dusting for prints? Not sure.
+165,00:08:23,00:08:26,"Video was pretty grainy, but it looked like they were wearing gloves."
+166,00:08:26,00:08:29,"Besides, they took almost everything they touched."
+167,00:08:33,00:08:34,Maybe we don't need any prints.
+168,00:08:42,00:08:44,I got blood.
+169,00:08:50,00:08:52,"""I wear a mask."
+170,00:08:52,00:08:58,"""And that mask, it's not to hide who I am, but to create what I am."" I give up."
+171,00:08:58,00:09:00,Are-are you quoting Sun Tzu?
+172,00:09:00,00:09:02,"Uh, no, no, no. A different warrior."
+173,00:09:02,00:09:04,Batman. Volume one.
+174,00:09:04,00:09:07,Number 624.
+175,00:09:07,00:09:08,What're you doing?
+176,00:09:08,00:09:10,"Oh, I'm just trying to see your feet."
+177,00:09:10,00:09:13,The last Batman fan I met was shoeless and lives in an alley.
+178,00:09:13,00:09:20,"You know, I never pegged you for a comic book nerd. My early teens, every dime I had went to comic books."
+179,00:09:20,00:09:21,I guess I just don't get it. You know?
+180,00:09:21,00:09:24,"My childhood, fantasy was never my escape."
+181,00:09:24,00:09:26,I lost myself in science and numbers.
+182,00:09:26,00:09:28,"That's all I needed, I guess."
+183,00:09:28,00:09:31,"Well, you liked things that were clear and proven."
+184,00:09:31,00:09:32,Right or wrong.
+185,00:09:32,00:09:34,Black or white. Maybe.
+186,00:09:34,00:09:38,"This is the closest that I've come to the comic book world, and it's ample enough."
+187,00:09:38,00:09:42,HODGES: Do you realize how long walnuts have been around as a food source?
+188,00:09:42,00:09:49,Archeologists in Southern France found evidence of roasted walnut shells dating back to the Neolithic period.
+189,00:09:49,00:09:51,"That's 8,000 years ago."
+190,00:09:51,00:09:53,(shell cracks) Wow.
+191,00:09:53,00:09:54,I did not know that.
+192,00:09:54,00:09:55,Thank you very much.
+193,00:09:55,00:09:58,And you're telling us this because...?
+194,00:09:58,00:10:03,"HODGES: Well, because the trace evidence collected at the scene, the granules on the suspects' shoes..."
+195,00:10:03,00:10:06,it's ground walnut shell.
+196,00:10:06,00:10:08,"Now, it's not as exotic as it sounds."
+197,00:10:08,00:10:11,"It's commonly used as reptile bedding, if you raise reptiles."
+198,00:10:11,00:10:15,They're also used as exfoliants in soaps and scrubs.
+199,00:10:15,00:10:16,So it's common stuff.
+200,00:10:16,00:10:18,"Not gonna help us very much now, right?"
+201,00:10:18,00:10:19,Not necessarily.
+202,00:10:19,00:10:23,Our samples are unique in that they are unusually charred.
+203,00:10:23,00:10:26,They also contain a trace of calcium hypochlorite.
+204,00:10:26,00:10:28,I'm still working to determine why.
+205,00:10:28,00:10:29,"Good, good."
+206,00:10:29,00:10:30,Go.
+207,00:10:30,00:10:31,Work.
+208,00:10:31,00:10:34,(clears her throat)
+209,00:10:34,00:10:35,Hey. (both grunting)
+210,00:10:35,00:10:36,"Oh, lord."
+211,00:10:36,00:10:38,I need a revolving door around here.
+212,00:10:38,00:10:40,Results from the blood Finlay found at the pawnshop.
+213,00:10:40,00:10:42,"Uh, DNA was male."
+214,00:10:42,00:10:44,No direct match in CODIS.
+215,00:10:44,00:10:47,But there was a familial match to this guy.
+216,00:10:47,00:10:49,Martin Preach.
+217,00:10:49,00:10:53,Three-striker currently residing at Ely State Prison.
+218,00:10:53,00:10:54,I did some checking.
+219,00:10:54,00:10:55,Mr. Preach has at least one kid.
+220,00:10:55,00:10:58,A 19-year-old son named Trey.
+221,00:10:58,00:11:01,A couple of petty offenses of his own.
+222,00:11:01,00:11:02,Could be the blood donor.
+223,00:11:02,00:11:05,Was one of his petty offenses his hair?
+224,00:11:05,00:11:08,Wait a second.
+225,00:11:08,00:11:09,"Uh, look at the victim's comic book drawings."
+226,00:11:09,00:11:12,The gang that the superhero is fighting.
+227,00:11:12,00:11:15,One of them has a purple mohawk.
+228,00:11:18,00:11:20,Pow!
+229,00:11:24,00:11:27,"Like father, like son, I guess. Right, Trey?"
+230,00:11:27,00:11:29,It's not much of a surprise.
+231,00:11:29,00:11:32,"Your dad wasn't exactly around during your formative years, was he?"
+232,00:11:33,00:11:35,I got a family I can count on.
+233,00:11:35,00:11:37,That's all that matters.
+234,00:11:37,00:11:39,"Yeah, you got your boys, right? Your-your gang?"
+235,00:11:39,00:11:42,"It's one for all, you know?"
+236,00:11:42,00:11:47,"Well, I hate to break up the little party here, Trey, but you guys are in it pretty deep this time."
+237,00:11:47,00:11:50,You left DNA on the window at the pawnshop last night.
+238,00:11:50,00:11:55,"As we're sitting here, our guy is outside matching it to the sample that you gave in the hall."
+239,00:11:55,00:11:58,"STOKES: You ain't a juvie no more, man, and this is far from your first offense."
+240,00:11:58,00:12:01,So... I suggest you smarten up.
+241,00:12:01,00:12:03,SIDLE: The D.A.'s gonna want your whole crew.
+242,00:12:03,00:12:04,"All of them, all right?"
+243,00:12:04,00:12:10,"You give us the names and a serious statement, and this murder does not have to be all on you."
+244,00:12:10,00:12:12,Hold on. What murder?
+245,00:12:12,00:12:15,The guy you beat to death in the alley off Grant last night.
+246,00:12:15,00:12:16,That murder.
+247,00:12:16,00:12:18,I don't know nothing about that.
+248,00:12:18,00:12:22,You don't know nothing about this?
+249,00:12:22,00:12:24,Wait a minute.
+250,00:12:24,00:12:25,This dude?
+251,00:12:25,00:12:27,He's the one that's dead?
+252,00:12:27,00:12:30,I've seen this freak around.
+253,00:12:30,00:12:32,"He wears a mask or something, right?"
+254,00:12:32,00:12:36,"Uh-huh. Yeah, I see him sometimes when I cruise at night."
+255,00:12:36,00:12:38,Sad damn freak.
+256,00:12:39,00:12:42,But I didn't kill him though.
+257,00:12:44,00:12:45,I didn't touch him.
+258,00:12:50,00:12:52,Just heard from Nick.
+259,00:12:52,00:12:55,Trey Preach and his purple hair deny any involvement with the murder.
+260,00:12:55,00:12:57,"No shocker, I guess."
+261,00:12:57,00:12:58,"No, shocker would've been if he didn't deny it."
+262,00:12:58,00:13:00,Well...
+263,00:13:00,00:13:01,no problem holding him.
+264,00:13:01,00:13:04,The guy's a lock for the smash and grab at the pawnshop.
+265,00:13:04,00:13:08,The problem is that may be the only thing that he's a lock for.
+266,00:13:08,00:13:10,What do you mean?
+267,00:13:10,00:13:15,"So, the shoe prints from the pawnshop don't match the shoe prints from the alley."
+268,00:13:15,00:13:17,You sure about that?
+269,00:13:17,00:13:22,"Unless these guys went home and changed shoes in between crimes, we're looking at different gangs."
+270,00:13:22,00:13:25,Two gangs working the same neighborhood?
+271,00:13:25,00:13:28,And what about the comic book drawings?
+272,00:13:28,00:13:32,"No, no, no. There-there can't be that many guys out there with purple mohawks."
+273,00:13:33,00:13:36,Don't we know somebody that-that saw the gang in the alley?
+274,00:13:36,00:13:38,"The homeless guy, Roger."
+275,00:13:38,00:13:40,But he said he didn't remember seeing any faces.
+276,00:13:40,00:13:42,"That's what he said, but let-let's find him."
+277,00:13:42,00:13:44,Show him a picture of Trey and his purple hair.
+278,00:13:44,00:13:46,Maybe he saw more than he realized.
+279,00:13:52,00:13:59,"Maybe he decided it was too high crime an area, and picked up and moved out You know what? I'm gonna go back to the other side, have one more look."
+280,00:13:59,00:14:01,Then we should check the alley north of Grant.
+281,00:14:01,00:14:03,Okay.
+282,00:14:20,00:14:22,(thudding)
+283,00:14:22,00:14:24,Roger?
+284,00:14:24,00:14:27,We just want to talk to you. Hey!
+285,00:14:27,00:14:30,"Hey, who's there?! (movement nearby)"
+286,00:14:32,00:14:35,Hey! Hey!
+287,00:14:36,00:14:38,What the hell?
+288,00:14:39,00:14:40,Who are you?
+289,00:14:40,00:14:41,Hey! Okay!
+290,00:14:41,00:14:43,I'm with the LVPD Crime Lab.
+291,00:14:43,00:14:44,I need you to step back.
+292,00:14:44,00:14:45,Just stay back!
+293,00:14:45,00:14:46,(gun clicks)
+294,00:14:48,00:14:52,"Unless you're faster than a speeding bullet, you better do what she said."
+295,00:14:59,00:15:02,BRODY: Why were you in the alley? We got every right to be there.
+296,00:15:02,00:15:03,We haven't done anything wrong.
+297,00:15:03,00:15:07,"SANDERS: All right, for starters, how about you take off your masks?"
+298,00:15:07,00:15:09,Unless you have something to hide.
+299,00:15:09,00:15:12,We're not hiding anything. We're just protecting ourselves.
+300,00:15:12,00:15:15,Anonymity is vital to our work.
+301,00:15:15,00:15:16,To what we do.
+302,00:15:17,00:15:19,Which is what exactly?
+303,00:15:19,00:15:20,We fight crime.
+304,00:15:20,00:15:22,We patrol the streets at night.
+305,00:15:22,00:15:28,We do whatever we got to do to make it tougher on the pimps and the drug dealers and whatever other criminals we find.
+306,00:15:28,00:15:30,"BRODY: Okay, we're on the same side here."
+307,00:15:30,00:15:32,The guy who was beaten in this alley last night?
+308,00:15:32,00:15:36,"Judging from his costume, I'm guessing he was a friend of yours?"
+309,00:15:37,00:15:39,Dominion was beaten? By who?
+310,00:15:39,00:15:40,Where is he?
+311,00:15:40,00:15:42,He's dead.
+312,00:15:42,00:15:45,You didn't know?
+313,00:15:51,00:15:52,How did it happen?
+314,00:15:52,00:15:54,"Well, we're working to figure it out."
+315,00:15:54,00:15:58,And it would help if you could tell us when was the last time you saw him?
+316,00:15:58,00:16:05,"Dominion didn't show up for patrol last night, so when he didn't show up again tonight, we decided to go looking for him and that's when we saw you two entering the alley."
+317,00:16:05,00:16:07,What was Dominion's real name?
+318,00:16:08,00:16:11,Your friend is lying in a morgue.
+319,00:16:11,00:16:14,An unclaimed John Doe with a toe tag.
+320,00:16:14,00:16:16,Tell us his name so we can at least notify his family.
+321,00:16:19,00:16:21,Brad Jeffries.
+322,00:16:25,00:16:27,All Brad ever wanted to do was help people.
+323,00:16:27,00:16:29,"I know it sounds trite, but..."
+324,00:16:29,00:16:36,"ever since he was ten, right after his father died, he became obsessed with..."
+325,00:16:36,00:16:38,fairness.
+326,00:16:38,00:16:41,He insisted that everything had be fair.
+327,00:16:41,00:16:46,That's when he got lost in the comic book world and this online role-playing.
+328,00:16:46,00:16:48,How long had he been doing this?
+329,00:16:48,00:16:51,"Dressing up and going on, uh, patrol with his friends?"
+330,00:16:51,00:16:53,The real-life superhero movement?
+331,00:16:53,00:16:55,That's what they call it.
+332,00:16:55,00:16:58,"Uh, they've been doing it for probably ten months now."
+333,00:16:58,00:17:03,Did he ever mention any problems or run-ins they might've had?
+334,00:17:03,00:17:08,Any enemies they could've made? He would've knew better than to talk to us about it.
+335,00:17:08,00:17:11,It would only worry me that much more.
+336,00:17:11,00:17:13,And it only aggravated Seth.
+337,00:17:13,00:17:15,You weren't a fan of what he was doing?
+338,00:17:15,00:17:18,I was afraid of exactly this.
+339,00:17:18,00:17:23,"I mean, I war... I warned him I don't know how many times that they were playing a dangerous game."
+340,00:17:23,00:17:26,It's not comic book land out there.
+341,00:17:26,00:17:30,It's the real world. People have guns and knives.
+342,00:17:30,00:17:32,He said it was his calling.
+343,00:17:32,00:17:35,That it gave meaning to his life.
+344,00:17:35,00:17:36,How can you argue with that?
+345,00:17:36,00:17:39,"No, I understand. Um..."
+346,00:17:39,00:17:43,his two partners-- Tina and Scott?
+347,00:17:43,00:17:44,How-how well do you know them?
+348,00:17:44,00:17:46,Well.
+349,00:17:46,00:17:48,They're here all the time.
+350,00:17:48,00:17:50,They hang out in the basement.
+351,00:17:50,00:17:52,They were his best friends.
+352,00:17:52,00:17:57,They would never have anything to do with his death if that's what you're thinking.
+353,00:17:58,00:18:04,"So, Brad's mom doesn't have a problem with you guys setting up in her basement?"
+354,00:18:04,00:18:07,"TINA: I mean, Brad was the one who brought the three of us together."
+355,00:18:07,00:18:09,"You know? Like, inspired us."
+356,00:18:09,00:18:13,He got me believing I could actually make a difference.
+357,00:18:13,00:18:14,"And change the world, you know?"
+358,00:18:14,00:18:16,But why like this?
+359,00:18:16,00:18:19,"The masks, costumes?"
+360,00:18:19,00:18:21,"Well, we have our reasons."
+361,00:18:21,00:18:22,For me?
+362,00:18:22,00:18:25,I was a victim once.
+363,00:18:25,00:18:29,"Just a 17-year-old girl, riding the bus late at night."
+364,00:18:29,00:18:30,"Yeah, I was never a victim."
+365,00:18:30,00:18:33,But I was into some pretty dark stuff in the past.
+366,00:18:33,00:18:35,Hurt people.
+367,00:18:35,00:18:37,"What I do now, it's my way to pay it back."
+368,00:18:38,00:18:38,It's my redemption.
+369,00:18:38,00:18:41,But you're not police officers.
+370,00:18:41,00:18:43,You don't have police training.
+371,00:18:43,00:18:46,You don't have the power to even arrest anybody.
+372,00:18:46,00:18:48,What you're doing is borderline unlawful.
+373,00:18:48,00:18:48,"You know that, right?"
+374,00:18:48,00:18:49,"So, what do we do?"
+375,00:18:49,00:18:50,We-we leave it up to the cops?
+376,00:18:50,00:18:51,Is that it?
+377,00:18:51,00:18:52,"Well, there's an idea, yeah."
+378,00:18:52,00:18:54,Cops go where the money is.
+379,00:18:54,00:18:56,"The casinos, the tourists."
+380,00:18:56,00:18:58,We aren't exactly a priority.
+381,00:18:58,00:19:00,"So, that's why we do what we do."
+382,00:19:00,00:19:01,Come here and take a look at this.
+383,00:19:03,00:19:05,Tell me about the gang this superhero's fighting.
+384,00:19:05,00:19:08,"SCOTT: Yeah, we call them The Disciples."
+385,00:19:08,00:19:10,They've been running wild around this area for about a month now.
+386,00:19:10,00:19:12,They're sort of our nemesis.
+387,00:19:12,00:19:16,TINA: The drawing was Brad's version of what would happen if he found them.
+388,00:19:16,00:19:18,These are the rest of Brad's drawings over here?
+389,00:19:18,00:19:20,Yeah.
+390,00:19:30,00:19:34,What's this one about?
+391,00:19:34,00:19:38,SCOTT: Just some guy we ran into one night. Why?
+392,00:19:38,00:19:42,Witnesses saw a red pickup truck last night around the time Brad was murdered.
+393,00:19:42,00:19:44,What can you tell me about it?
+394,00:19:44,00:19:46,TINA: Guy was arguing with a hooker.
+395,00:19:46,00:19:47,Shoved her down.
+396,00:19:47,00:19:53,"So we intervened. When he tried to bail, Brad smashed the fender of his truck."
+397,00:19:53,00:19:54,Know anything about the driver?
+398,00:19:56,00:19:57,Have you seen him before or since then?
+399,00:19:57,00:20:00,No. Just that night.
+400,00:20:00,00:20:01,Okay. That's it?
+401,00:20:01,00:20:03,"Yeah, that's it."
+402,00:20:05,00:20:07,Hey. Hey!
+403,00:20:07,00:20:12,"You know, I had no idea this was actually a thing-- this whole, real-life superhero movement."
+404,00:20:12,00:20:14,"More than just our trio, you mean?"
+405,00:20:14,00:20:23,"Way more. I have found hundreds of people across the country, who like to dress in superhero costumes and go out in their neighborhoods, mostly it seems with altruistic motives."
+406,00:20:23,00:20:28,"I'm all for making a difference, but the whole dress up part just seems so..."
+407,00:20:28,00:20:29,What's the word I'm looking for?
+408,00:20:29,00:20:30,"HODGES: Hello, ladies."
+409,00:20:30,00:20:34,I bring news on our walnut shells.
+410,00:20:34,00:20:37,"Now, you remember that I said they were unique?"
+411,00:20:37,00:20:38,"You said they were charred, right?"
+412,00:20:38,00:20:40,And also that they'd been exposed to calcium hypochlorite.
+413,00:20:40,00:20:43,And all that just might equal...
+414,00:20:43,00:20:44,Sundip Pool Supply.
+415,00:20:44,00:20:46,"Might equal, how?"
+416,00:20:46,00:20:50,"Turns out, ground walnut shell is also used by sandblasters to clean pool tile."
+417,00:20:50,00:20:55,They spray it instead of sand because the shells don't scratch the tile.
+418,00:20:55,00:20:56,And how does that get us to this Sundip place?
+419,00:20:56,00:20:58,The charring and the chemical trace.
+420,00:20:58,00:21:01,Sundip Pool Supply had a huge fire about three weeks ago.
+421,00:21:01,00:21:06,It's the only logical source I can think of that matches our specific samples.
+422,00:21:06,00:21:08,"Thanks, Hodges, I'll check it out."
+423,00:21:16,00:21:17,"Hey, Doc."
+424,00:21:17,00:21:19,Long day for you.
+425,00:21:19,00:21:24,"Long and busy with some very interesting findings, particularly in the case of your victim."
+426,00:21:24,00:21:26,Really? What have you got?
+427,00:21:26,00:21:31,"Well, as you can see in his injuries here, there's a lot of bruising and swelling as well as areas of bleeding."
+428,00:21:31,00:21:34,All of this is consistent with a non-lethal beating.
+429,00:21:34,00:21:36,Non-lethal?
+430,00:21:36,00:21:36,And yet he's dead.
+431,00:21:36,00:21:41,Thanks to a single blow that landed just here at the base of the skull.
+432,00:21:41,00:21:48,"The victim was struck once with significant force, effectively transecting the brain stem in the area of the medulla oblongata."
+433,00:21:48,00:21:57,"Okay, so maybe during the beating, one of the suspects gets carried away, hits the victim in the base of the skull, and kills him."
+434,00:21:57,00:21:59,But herein lies the conundrum.
+435,00:21:59,00:22:01,All this bruising and swelling you see took time.
+436,00:22:01,00:22:06,At least 60 minutes for the body to respond to injuries of this degree.
+437,00:22:06,00:22:09,"The brain stem injury, however, was instantly fatal."
+438,00:22:09,00:22:11,Instantly?
+439,00:22:11,00:22:13,Like switching off a light.
+440,00:22:13,00:22:18,So the blow that killed him was delivered 60 minutes after the beating.
+441,00:22:18,00:22:24,That means that Brad Jeffries was beaten up and left in the alley for at least an hour.
+442,00:22:24,00:22:26,"According to Doc, probably unconscious."
+443,00:22:26,00:22:34,"So somebody had to come back, maybe a gang member or someone entirely different, hit him in the back of the head, and killed him."
+444,00:22:34,00:22:36,Does Doc have any thoughts about the murder weapon?
+445,00:22:36,00:22:41,Said it could be something like a baseball bat or a club.
+446,00:22:41,00:22:44,But here you can see these bands on his neck.
+447,00:22:46,00:22:48,Wait a second.
+448,00:22:48,00:22:54,Nick just came back with some more comic book drawings from our superheroes.
+449,00:22:54,00:22:57,Check out the weapon in that hero's hands.
+450,00:22:57,00:22:59,SANDERS: It's a club with metal bands.
+451,00:22:59,00:23:03,"Right, so maybe our victim was killed with his own weapon."
+452,00:23:03,00:23:07,"SANDERS: Well, there was nothing like this recovered at the crime scene, so the killer must have taken it."
+453,00:23:07,00:23:10,"All right, so he either still has it, or he ditched it."
+454,00:23:10,00:23:12,There are a lot of Dumpsters in those alleys.
+455,00:23:12,00:23:15,"Let's get LVPD to check the area completely, okay?"
+456,00:23:17,00:23:20,"Hey, looks like that ground walnut shell trace might have paid off."
+457,00:23:20,00:23:24,"Thanks to Hodges, I went and checked out this place called Sundip Pool Supply."
+458,00:23:24,00:23:28,"Their place is all fenced and boarded up, but I got a security guard to let me in."
+459,00:23:28,00:23:31,"There was charred walnut shell, just like ours, all over the place."
+460,00:23:31,00:23:34,So our gang must've been there at some point before they went to the alley.
+461,00:23:34,00:23:40,"Guard said that the only people working there right now are the demolition crew, Company name is Agrerro Demo and Hauling."
+462,00:23:40,00:23:48,"They are in there every day, and this is the kicker, the crew's foreman, Tony Agrerro, he drives a red pickup truck."
+463,00:23:58,00:23:59,"STOKES: Okay, boys."
+464,00:23:59,00:24:04,"This is the guy we're looking for right here, Tony Agrerro."
+465,00:24:04,00:24:07,"You're sure he's here? Well, he better be, that's his red pickup truck right there."
+466,00:24:07,00:24:09,Let's go.
+467,00:24:15,00:24:16,Yeah.
+468,00:24:16,00:24:18,There's the dent right there.
+469,00:24:23,00:24:24,"Hey, Nick."
+470,00:24:24,00:24:26,Ground walnut shells.
+471,00:24:26,00:24:29,Same as on the boots from the alley.
+472,00:24:29,00:24:31,(rhythmic beeping)
+473,00:24:31,00:24:32,Do you hear that?
+474,00:24:42,00:24:45,(rhythmic beeping continues)
+475,00:24:45,00:24:47,It's still warm.
+476,00:24:47,00:24:48,He's got to be around here.
+477,00:24:52,00:24:54,Keys are still in the ignition.
+478,00:24:55,00:24:57,"Oh, Nick."
+479,00:24:57,00:24:58,(beeping stops)
+480,00:24:58,00:24:59,Lot of blood.
+481,00:25:01,00:25:02,Whoa.
+482,00:25:03,00:25:05,"Mitchell, over here!"
+483,00:25:10,00:25:11,"Well, we found him."
+484,00:25:13,00:25:14,Looks like somebody had an accident.
+485,00:25:16,00:25:18,"If this was an accident, I'm Superman."
+486,00:25:30,00:25:31,"Hey, Nick."
+487,00:25:31,00:25:32,STOKES: Yeah?
+488,00:25:32,00:25:34,There are tool marks on one of these pulleys.
+489,00:25:34,00:25:38,Looks like somebody intentionally jammed the winch cable.
+490,00:25:38,00:25:41,"Yeah, they probably knew the victim would crawl into the gap to fix it."
+491,00:25:41,00:25:45,"Yeah, and then once he was in there, pulled the lever, and squish."
+492,00:25:45,00:25:48,Victim has a couple nasty bruises on his face.
+493,00:25:48,00:25:49,"Yeah, yeah, I saw those."
+494,00:25:49,00:25:51,Looks like he got into a fistfight.
+495,00:25:51,00:25:53,"How old do you think those bruises are, David?"
+496,00:25:53,00:25:54,Recent.
+497,00:25:54,00:25:56,"I don't know-- 24, 48 hours maybe?"
+498,00:25:56,00:26:02,"That times out perfectly for the brawl in the alley, so maybe our dead superhero really did get some licks in before they took him down."
+499,00:26:02,00:26:10,"All right, so we've got a red pickup truck, walnut shells, we have bruises now, so Tony Agrerro here was definitely a part of the gang that beat up Brad Jeffries."
+500,00:26:10,00:26:13,"Yeah, I think so, and then used his coworkers as the rest of the crew."
+501,00:26:13,00:26:18,"Well, that'll give us the alley gang, but it's not gonna tell us who actually went back to commit the murder."
+502,00:26:18,00:26:22,"Guys, there are some interesting scratches on this truck."
+503,00:26:24,00:26:25,(camera shutter clicking Are they fresh?
+504,00:26:25,00:26:27,They didn't have time to rust.
+505,00:26:27,00:26:29,Weren't the other two superheroes...
+506,00:26:29,00:26:32,were they wearing spiked armbands?
+507,00:26:32,00:26:34,"Who, Scott and Tina? Yeah."
+508,00:26:34,00:26:35,"Yeah, they were."
+509,00:26:35,00:26:38,"So, uh, maybe they did this."
+510,00:26:38,00:26:39,Case of revenge.
+511,00:26:40,00:26:41,"Time of death, David?"
+512,00:26:41,00:26:45,"I'm gonna put T.O.D. at around midnight last night, more or less."
+513,00:26:45,00:26:47,Midnight.
+514,00:26:47,00:26:51,"You know, that's not too long after I talked to those two knuckleheads about that red pickup truck."
+515,00:26:57,00:26:59,"You lied, Tina."
+516,00:26:59,00:27:00,You and Scott.
+517,00:27:00,00:27:02,Huh? Wh-What are you talking about?
+518,00:27:02,00:27:07,"Last night when CSI Stokes was here, he told you about a red pickup that had been spotted near where Brad was killed."
+519,00:27:07,00:27:22,"Yeah. So what? So when he asked you about the driver, you said that you didn't know anything, but you did know. You knew the driver was Tony Agrerro-- his name's right on the side of the truck. Okay, so maybe we didn't tell CSI-- what, Stokes?-- everything, but, you know, obviously, you found your way to Tony Agrerro."
+520,00:27:22,00:27:24,Not before you got to him first.
+521,00:27:24,00:27:26,"Wait, got to him first? What do you mean?"
+522,00:27:26,00:27:32,"Tony Agrerro is dead, Tina, and we found evidence that at least one of you was there. What?"
+523,00:27:32,00:27:33,W-Wait. No.
+524,00:27:33,00:27:35,That's not what we're about.
+525,00:27:35,00:27:38,Okay? Th-The real-life superhero movement is about...
+526,00:27:38,00:27:40,asserting a positive influence.
+527,00:27:40,00:27:42,It's about...
+528,00:27:42,00:27:44,improving the neighborhood.
+529,00:27:44,00:27:45,You want to improve your neighborhood?
+530,00:27:45,00:27:47,Go help in a shelter.
+531,00:27:47,00:27:49,Get involved with at-risk kids.
+532,00:27:49,00:27:54,"The game that you are playing is dangerous, and now two people are dead because of it."
+533,00:27:54,00:27:56,Where were you last night around midnight?
+534,00:27:56,00:27:59,"I was here, with Brad's mom."
+535,00:27:59,00:28:01,We stayed up all night talking.
+536,00:28:01,00:28:03,"I mean, Brad meant everything to her."
+537,00:28:03,00:28:05,"All right, she's devastated."
+538,00:28:05,00:28:07,I couldn't just leave her.
+539,00:28:07,00:28:09,What about Scott?
+540,00:28:10,00:28:11,Was he with you?
+541,00:28:13,00:28:14,No. Uh... I have...
+542,00:28:14,00:28:16,I have no idea where Scott was.
+543,00:28:25,00:28:28,"You need to tell me where to find Scott, Tina."
+544,00:28:28,00:28:29,No games this time.
+545,00:28:34,00:28:36,RUSSELL: What am I looking at here?
+546,00:28:36,00:28:38,Tony Agrerro's trash-hauling crew.
+547,00:28:38,00:28:42,And shoe impressions confirm what we already figured: they're also his gang from the alley.
+548,00:28:42,00:28:43,LVPD rounded them up.
+549,00:28:43,00:28:46,Morgan and I offered a deal to the first one to talk.
+550,00:28:46,00:28:47,We got four takers.
+551,00:28:47,00:28:50,Their stories line up? All of them told the same tale.
+552,00:28:50,00:28:52,Agreed to beating up Brad Jeffries in the alley.
+553,00:28:52,00:28:55,(sighs): Anybody say why?
+554,00:28:55,00:28:58,Because their boss told them to.
+555,00:28:58,00:29:05,Right. Agrerro had that score to settle with the superheroes over the hooker and the damage to his truck.
+556,00:29:05,00:29:08,Somehow they knew Jeffries would be walking home from work.
+557,00:29:08,00:29:14,They also knew that he couldn't resist playing hero. So the tussle with the homeless guy was just a lure to get Jeffries into the alley.
+558,00:29:14,00:29:16,And Jeffries took the bait.
+559,00:29:16,00:29:19,But... they left him alive after the beating.
+560,00:29:19,00:29:21,They were all big on pressing that point.
+561,00:29:21,00:29:23,"Right. Well, we knew that."
+562,00:29:23,00:29:28,"I mean, he was alive for at least an hour later, until one or maybe more of them came back and killed him."
+563,00:29:28,00:29:31,"Question is, who and why?"
+564,00:29:31,00:29:32,"Well, here's a thought."
+565,00:29:32,00:29:36,"According to all of them, Agrerro's mask came off during the fight..."
+566,00:29:36,00:29:38,(grunting) Come on!
+567,00:29:39,00:29:41,How does it feel to be a hero?
+568,00:29:41,00:29:44,...and Jeffries recognized him.
+569,00:29:44,00:29:46,"Well, there's a motive for you."
+570,00:29:46,00:29:52,"After the beating, everybody leaves, Tony starts thinking, Tony starts worrying. Exactly."
+571,00:29:52,00:29:56,"He knows that if the victim I.D.'s him, he could face serious prison time on the assault."
+572,00:29:56,00:29:59,"RUSSELL: So an hour later, everybody's gone."
+573,00:29:59,00:30:01,Agrerro goes back to the alley and kills Jeffries.
+574,00:30:01,00:30:02,(grunts)
+575,00:30:02,00:30:04,And then Agrerro is killed by the...
+576,00:30:04,00:30:06,the superhero out of revenge.
+577,00:30:06,00:30:08,MORGAN: Only problem is...
+578,00:30:08,00:30:11,(sighs) Tony Agrerro never went back to the alley.
+579,00:30:12,00:30:14,You sure about that?
+580,00:30:14,00:30:18,"After beating up Jeffries, they all went to nurse their wounds at a local dive bar."
+581,00:30:18,00:30:19,I talked to the bartender.
+582,00:30:19,00:30:23,Swears all five of them stayed there until close.
+583,00:30:23,00:30:25,Agrerro ran a tab and he never left.
+584,00:30:25,00:30:30,"SANDERS: Well, if that's true, then none of them could have killed Brad Jeffries."
+585,00:30:31,00:30:33,STOKES: Scott...
+586,00:30:33,00:30:35,I've been checking on you.
+587,00:30:35,00:30:37,You have quite a rap sheet. Congratulations.
+588,00:30:37,00:30:43,Almost every charge in here involves you beating the crap out of somebody.
+589,00:30:43,00:30:45,That's before I had a cause.
+590,00:30:45,00:30:46,You know?
+591,00:30:46,00:30:48,Something to believe in.
+592,00:30:48,00:30:50,This superhero thing?
+593,00:30:50,00:30:53,Yeah. You want to know what I think about that?
+594,00:30:53,00:30:57,I think the mask and the cape are just an excuse for you to go out and pound heads.
+595,00:30:57,00:31:00,"You've always been a thug, only now you do it in a cape."
+596,00:31:00,00:31:03,And you tell yourself it's okay because your victims are bad guys.
+597,00:31:03,00:31:04,"(softly): No, man."
+598,00:31:04,00:31:06,"You got me all wrong, I'm telling you."
+599,00:31:06,00:31:10,"Tony Agrerro deserved to die, am I right?"
+600,00:31:10,00:31:17,"He killed your best friend, so you did what any noble superhero would do-- you avenged your best friend's death."
+601,00:31:17,00:31:19,"Only this time, Scott..."
+602,00:31:19,00:31:24,"that's not being a hero right there, man, that's being a vigilante."
+603,00:31:24,00:31:27,"I... I don't know what you're talking about, man."
+604,00:31:27,00:31:28,I didn't have anything to do with that.
+605,00:31:28,00:31:30,You weren't there last night?
+606,00:31:30,00:31:33,You weren't at the yard? No. Nowhere near it.
+607,00:31:33,00:31:41,Then explain how scratches ended up on a truck that perfectly match those bad-ass superhero bracelets of yours.
+608,00:31:41,00:31:48,And then maybe you can explain to me how Tony Agrerro's blood ended up on your boot.
+609,00:31:52,00:31:54,"All right, I... I was there."
+610,00:31:55,00:31:57,But he was dead when I found him.
+611,00:31:57,00:32:00,"I didn't have anything to do with this, I swear."
+612,00:32:00,00:32:02,"So you were lying before, but you're telling me the truth now?"
+613,00:32:02,00:32:05,I went looking for him.
+614,00:32:05,00:32:07,All right? The place was dark.
+615,00:32:07,00:32:08,I heard a truck engine running.
+616,00:32:08,00:32:10,I went to go check it out.
+617,00:32:10,00:32:12,"When I got there, he was laying there, dead."
+618,00:32:12,00:32:14,I reached in to check his pulse.
+619,00:32:14,00:32:18,"That's probably how my arm band scratched the truck. Scott, if you're gonna lie to me, at least get your facts straight."
+620,00:32:18,00:32:21,"Okay? The keys were in the truck, the engine wasn't running."
+621,00:32:24,00:32:26,You want to try again?
+622,00:32:26,00:32:27,No.
+623,00:32:27,00:32:30,What I want is a lawyer.
+624,00:32:30,00:32:32,Now.
+625,00:32:32,00:32:34,Hey. How's it going in there?
+626,00:32:34,00:32:36,It's not. He lawyered up.
+627,00:32:36,00:32:37,"Wow, that was fast."
+628,00:32:37,00:32:40,Nick got him to admit to being at the scene at the time of the murder.
+629,00:32:40,00:32:44,It seemed like he was on the brink of confessing and then he just got smart.
+630,00:32:44,00:32:49,"You know, the stupid thing is, if this was about avenging the death of his friend, he killed the wrong guy."
+631,00:32:49,00:32:50,What do you mean?
+632,00:32:50,00:32:54,Tony Agrerro and his crew alibied out for the murder in the alley.
+633,00:32:54,00:32:56,Morgan put them in a neighborhood bar at the time.
+634,00:32:56,00:32:57,"Wait, wait, wait, wait."
+635,00:32:57,00:32:59,Then who killed our dead superhero?
+636,00:32:59,00:33:00,That is still the question.
+637,00:33:00,00:33:03,Hey. One of our officers just brought this in.
+638,00:33:03,00:33:07,Matches the description of the weapon you're looking for.
+639,00:33:08,00:33:12,"Where'd he find it? The guy was threatening some tourist with it, outside the Palermo."
+640,00:33:12,00:33:15,"I guess they wouldn't acknowledge him as the one, true Batman."
+641,00:33:38,00:33:40,"Hi, Roger."
+642,00:33:40,00:33:42,(door closes)
+643,00:33:42,00:33:44,Do you remember me?
+644,00:33:46,00:33:48,You gave me my shoes.
+645,00:33:48,00:33:51,I need you to tell me about that club that you were carrying.
+646,00:33:52,00:33:54,The club is the source.
+647,00:33:54,00:33:55,The club gives me power.
+648,00:33:55,00:33:59,I am invincible with the club!
+649,00:34:01,00:34:02,Where did you get the club?
+650,00:34:02,00:34:06,I... found it.
+651,00:34:06,00:34:07,You found it where? In the alley?
+652,00:34:07,00:34:10,The one that we were in the other night? No.
+653,00:34:10,00:34:11,A different place.
+654,00:34:11,00:34:12,"Uh, in a Dumpster."
+655,00:34:12,00:34:16,"Roger, that club belonged to someone."
+656,00:34:16,00:34:18,The man that saved you.
+657,00:34:18,00:34:19,You said he looked like Batman.
+658,00:34:19,00:34:20,You remember?
+659,00:34:20,00:34:26,"I think that you were there, in the alley, after the fight, after the man with the cape and the mask was hurt."
+660,00:34:26,00:34:30,"That's where you found the club, isn't it?"
+661,00:34:30,00:34:31,No. I told you.
+662,00:34:31,00:34:32,The club is mine.
+663,00:34:32,00:34:34,"What happened, Roger?"
+664,00:34:34,00:34:37,Did he wake up?
+665,00:34:37,00:34:39,"Did he startle you, scare you?"
+666,00:34:39,00:34:43,Is that why you hit him?
+667,00:34:43,00:34:46,"Roger, I need to know exactly what happened."
+668,00:34:46,00:34:47,The truth.
+669,00:34:47,00:34:50,The club's not his.
+670,00:34:50,00:34:51,The club is mine!
+671,00:34:56,00:34:59,I found it.
+672,00:34:59,00:35:00,In a Dumpster.
+673,00:35:00,00:35:02,I don't know which one.
+674,00:35:02,00:35:03,There are so many.
+675,00:35:03,00:35:05,Give me something then.
+676,00:35:05,00:35:07,So I can check your story.
+677,00:35:07,00:35:10,A golden star.
+678,00:35:10,00:35:12,"What do you mean, a golden star?"
+679,00:35:13,00:35:15,That's it.
+680,00:35:15,00:35:17,A golden star.
+681,00:35:20,00:35:22,Russell. Yeah.
+682,00:35:22,00:35:25,I think we just went from one unsolved murder back to two.
+683,00:35:25,00:35:28,I just read Doc Robbins' autopsy report on Tony Agrerro.
+684,00:35:28,00:35:32,"Now, the cause of death, that's not a surprise-- that dude was crushed."
+685,00:35:32,00:35:34,It's the time of death that's a little off.
+686,00:35:34,00:35:36,"What do you mean, a little off?"
+687,00:35:36,00:35:41,"According to Dave, it was around midnight, but according to Doc, it was much earlier."
+688,00:35:41,00:35:43,Maybe as much as 18 hours earlier.
+689,00:35:43,00:35:49,"Whoa. Which means our other superhero, Scott Hunt, he doesn't work as the killer. He alibis out."
+690,00:35:49,00:35:54,So he was telling the truth when he said he got to the yard and Agrerro was already dead.
+691,00:35:54,00:35:57,How could David have been so far off with his estimate?
+692,00:35:57,00:35:59,I don't think it was his fault.
+693,00:35:59,00:36:00,It was that truck engine.
+694,00:36:00,00:36:02,It really was running.
+695,00:36:02,00:36:05,Killer must've left it that way after the murder.
+696,00:36:05,00:36:07,But that engine would've kept that dead body warm though.
+697,00:36:07,00:36:10,Throwing off David's calculations when he did the liver stick.
+698,00:36:10,00:36:13,"Okay, so new time of death."
+699,00:36:13,00:36:22,"That would put Agrerro's murder just a little bit after Brad Jeffries was killed in the alley, right? Probably first thing in the morning."
+700,00:36:22,00:36:23,So what do you think?
+701,00:36:23,00:36:26,Maybe we have two bodies but just one killer.
+702,00:36:26,00:36:32,"And zero idea who it is. I have good news on our murder weapon, particularly if you're a fan of Ethiopian cuisine."
+703,00:36:32,00:36:40,"There was butter on the club, infused with a host of exotic spices: fenugreek, cumin, coriander, turmeric, cardamom, cinnamon and nutmeg."
+704,00:36:40,00:36:45,"A concoction more simply known as tesmi, common in Ethiopian cooking."
+705,00:36:45,00:36:51,I did a quick check and found an Ethiopian restaurant just five blocks from the alley where the victim was found.
+706,00:36:56,00:36:58,(siren wailing in distance)
+707,00:37:01,00:37:04,"Well, there's our golden star."
+708,00:37:04,00:37:08,STOKES: So maybe old Roger was telling the truth about the club. Yeah.
+709,00:37:09,00:37:12,It's empty.
+710,00:37:12,00:37:20,"Well, if the killer dumped the club in there, he figured he'd never see it again, 'cause it'd be hauled away with the trash, along with any piece of evidence that might've been along with it."
+711,00:37:20,00:37:22,"Oh, Nick."
+712,00:37:23,00:37:25,Look at that.
+713,00:37:27,00:37:30,(Stokes laughs softly)
+714,00:37:30,00:37:40,"Say ""cheese."" RUSSELL: Clearly, this is you, Seth, ditching the murder weapon only minutes after Brad was killed."
+715,00:37:40,00:37:43,"We also have your phone records, yours and Agrerro's."
+716,00:37:43,00:37:50,"Looks like you and he spoke several times, before and right after Brad was beaten in the alley."
+717,00:37:50,00:37:52,"Seth, you need to talk to us, man."
+718,00:37:52,00:37:57,Y-You know what the jury's gonna think when they see this? They're gonna think you're a monster.
+719,00:37:57,00:38:00,You're not a monster.
+720,00:38:03,00:38:07,I was just trying to teach him a lesson.
+721,00:38:07,00:38:13,"23 years old, living at home, dressing up in a costume."
+722,00:38:13,00:38:16,"I-I thought I could scare him, make him stop."
+723,00:38:16,00:38:20,By having Tony Agrerro and his guys beat him up?
+724,00:38:20,00:38:22,Y-You had warned him that...
+725,00:38:22,00:38:24,"it was dangerous out there, and this was gonna make your point."
+726,00:38:24,00:38:27,It wasn't even that planned. Oh.
+727,00:38:27,00:38:30,I-I met Agrerro by chance at a neighborhood bar.
+728,00:38:30,00:38:34,"I was bitching to the bartender about Brad and his friends, the-the whole superhero thing."
+729,00:38:34,00:38:36,And Agrerro overheard me.
+730,00:38:36,00:38:39,"He came over, pissed off."
+731,00:38:39,00:38:41,Because Brad dented his truck.
+732,00:38:41,00:38:43,And-and now he expected me to pay the repairs.
+733,00:38:43,00:38:46,Said I owed him 700 bucks.
+734,00:38:46,00:38:50,"I-I joked that I'd give him $1,000 if he and his guys would..."
+735,00:38:50,00:38:52,rough Brad up.
+736,00:38:52,00:38:54,"So it was a joke. I mean, at first."
+737,00:38:54,00:38:57,"After a few drinks, it started to sound like a good idea."
+738,00:38:57,00:39:00,"RUSSELL: Let's talk about how we got here, okay?"
+739,00:39:00,00:39:06,"H-How did this night happen? Tony called and said that he had done like we talked about, that they-they beat him up."
+740,00:39:06,00:39:12,"And I waited for Brad to come home, e-expecting him to call it quits."
+741,00:39:12,00:39:16,"But an hour passed, he didn't show up. So I went out looking for him."
+742,00:39:16,00:39:19,"I found him in that alley, knocked out."
+743,00:39:19,00:39:21,He was just coming to.
+744,00:39:21,00:39:22,Brad.
+745,00:39:22,00:39:23,Seth.
+746,00:39:23,00:39:25,What are you doing here?
+747,00:39:25,00:39:28,Your mom's worried. I came looking for you.
+748,00:39:28,00:39:32,"This is exactly what I warned you about. Come on, Brad."
+749,00:39:32,00:39:33,Let's go home.
+750,00:39:33,00:39:36,"But to be honest, I felt bad for him."
+751,00:39:36,00:39:39,"I mean, not my kid but-but I still cared."
+752,00:39:41,00:39:47,But I messed up. I gu... I guess I said something about him being jumped by a gang.
+753,00:39:47,00:39:49,How did you know that it was a gang that beat me up?
+754,00:39:49,00:39:53,"I didn't... I didn't say anything about a gang. Brad, come on."
+755,00:39:53,00:39:55,You've been talking about a gang for weeks now.
+756,00:39:55,00:39:57,You've never come looking for me.
+757,00:39:57,00:40:00,And now you know exactly where to find me?
+758,00:40:00,00:40:02,You son of a bitch.
+759,00:40:02,00:40:03,"You did this, didn't you?"
+760,00:40:03,00:40:06,"You set me up. Okay, come on, Brad. Calm down..."
+761,00:40:06,00:40:08,"No, don't touch me!"
+762,00:40:08,00:40:11,I will get home on my own.
+763,00:40:11,00:40:16,"And when I do, I'm telling her what you did, and your ass is gonna be out of our house for good."
+764,00:40:16,00:40:18,"No, no. You can't do that."
+765,00:40:18,00:40:19,"Screw you, Seth."
+766,00:40:20,00:40:23,She's better off without you.
+767,00:40:24,00:40:25,No!
+768,00:40:25,00:40:29,"It was just an impulse, a stupid mistake."
+769,00:40:29,00:40:32,"The club was in my hand... Seth, we get it."
+770,00:40:32,00:40:34,You're not a killer.
+771,00:40:34,00:40:35,"No, I'm really not."
+772,00:40:35,00:40:37,"Yeah, but..."
+773,00:40:37,00:40:41,wh-why don't you tell me about Tony.
+774,00:40:41,00:40:44,"Tell me how that happened, Seth."
+775,00:40:48,00:40:51,I went to pay Tony the next morning.
+776,00:40:51,00:40:54,He must've heard about Brad being dead.
+777,00:40:54,00:40:57,He thought that he could blackmail me.
+778,00:40:57,00:41:00,"So when he was on a call, I..."
+779,00:41:00,00:41:02,jammed the winch cable on his truck.
+780,00:41:02,00:41:07,I knew he'd have to crawl in there to fix it.
+781,00:41:07,00:41:10,It was just a matter of throwing a lever.
+782,00:41:10,00:41:12,RUSSELL: Okay.
+783,00:41:12,00:41:16,So... the first killing was an impulse.
+784,00:41:16,00:41:19,The second killing was about money.
+785,00:41:21,00:41:25,"Why don't you tell us again how you're not a killer, Seth."
+786,00:41:34,00:41:36,There you are.
+787,00:41:36,00:41:38,"Good work on this one, by the way."
+788,00:41:38,00:41:41,"Thanks. It was, uh, good work all around."
+789,00:41:41,00:41:45,"Got a little, uh... a little something for you here."
+790,00:41:45,00:41:48,What's this? Take a look.
+791,00:41:48,00:41:51,Oh. (chuckles)
+792,00:41:51,00:41:54,Comic books. Yep.
+793,00:41:54,00:42:02,"I went through my collection. I put together a little ""greatest hits"" bag for you. I also plain-wrapped it so I wouldn't blow your cover around here."
+794,00:42:02,00:42:08,"My cover? Yeah. You know, as the hard science and numbers person who has no time for fantasy."
+795,00:42:08,00:42:14,"I actually don't have time for fantasy. See, that's wrong. Everybody needs a little fantasy."
+796,00:42:15,00:42:18,"It's a lot of pressure, you know?"
+797,00:42:18,00:42:20,What if I don't like them?
+798,00:42:20,00:42:23,Don't tell me.
+799,00:42:25,00:42:28,"Hey, Russell."
+800,00:42:28,00:42:31,Thank you.
+801,00:42:31,00:42:33,Yeah. You're welcome.

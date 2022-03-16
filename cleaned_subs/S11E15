@@ -1,0 +1,716 @@
+,start,end,text
+0,00:00:04,00:00:05,"Hey, Nick."
+1,00:00:05,00:00:06,"Hey, there he is!"
+2,00:00:06,00:00:07,Where are you heading?
+3,00:00:07,00:00:13,"Well, if I don't go to the gym now, I won't go at all. You feeling obligated to leave Doc Robbins a good-looking corpse?"
+4,00:00:13,00:00:16,"(chuckles) Yeah, something like that."
+5,00:00:16,00:00:18,"Hey, you got a big day in court today, don't you?"
+6,00:00:18,00:00:19,Yeah. Nate Haskell.
+7,00:00:19,00:00:21,Putting my game face on.
+8,00:00:21,00:00:26,"Well... I'd tell you to give him hell, but that's probably where he's going anyway."
+9,00:00:26,00:00:28,Good luck. Thanks.
+10,00:00:28,00:00:30,Yeah.
+11,00:00:43,00:00:45,(lock buzzes)
+12,00:01:02,00:01:09,"HASKELL: Your Honor, I've spent the last three days in this courtroom trying to control myself, which has not been easy, I assure you."
+13,00:01:09,00:01:20,"The media has tried to portray me as some sort of monster, some seven-headed beast who sprang from a smoking pit to spread death across the land."
+14,00:01:20,00:01:34,"But here I sit, caged, before you, a man like any other man, with only one head, with two hands, and with a troubled heart."
+15,00:01:34,00:01:35,Objection.
+16,00:01:35,00:01:36,"Is there a point here, Your Honor?"
+17,00:01:36,00:01:41,"Mr. Haskell, I advise you to let your attorney do the talking. But I object to that, Your Honor."
+18,00:01:41,00:01:49,The jury needs to see the real Nate Haskell; the vulnerable little boy who was sadistically abused by an alcoholic father.
+19,00:01:49,00:01:51,For the record...
+20,00:01:51,00:01:54,that traumatized child still trembles in me.
+21,00:01:54,00:02:01,I know there's some in this courtroom who can relate to my torment.
+22,00:02:01,00:02:03,"Unfortunately, Your Honor, my attorney is not one of them."
+23,00:02:03,00:02:05,"You know, he doesn't even like me."
+24,00:02:05,00:02:07,Your Honor! The court has appointed him.
+25,00:02:07,00:02:09,"But I, I would like to un-appoint him."
+26,00:02:09,00:02:12,See how he shies away from me.
+27,00:02:12,00:02:13,How can I trust him?
+28,00:02:13,00:02:16,The only one who can speak for Nate Haskell is Nate Haskell.
+29,00:02:16,00:02:17,JUDGE: Mr. Haskell.
+30,00:02:17,00:02:19,Are you asking to represent yourself?
+31,00:02:19,00:02:21,"I believe the legal term is pro per, Your Honor."
+32,00:02:21,00:02:25,"JUDGE: For the record, I think you're making a mistake."
+33,00:02:25,00:02:26,But...
+34,00:02:26,00:02:27,(gavel bangs) so ordered.
+35,00:02:27,00:02:31,Let the record show that Mr. Haskell is now proceeding pro per.
+36,00:02:31,00:02:36,"But, I warn you, Mr. Haskell, there will be no delays in this trial."
+37,00:02:36,00:02:39,"Oh, excellent, Your Honor. Excellent."
+38,00:02:39,00:02:40,I say...
+39,00:02:42,00:02:44,Let's get it on. Hm?
+40,00:02:44,00:02:48,(gallery murmuring)
+41,00:03:03,00:03:07,(phone rings)
+42,00:03:07,00:03:08,Stokes.
+43,00:03:08,00:03:11,BOY: You said you wanted to be my friend.
+44,00:03:11,00:03:12,"Yeah, who's this?"
+45,00:03:12,00:03:14,You said you wouldn't let the cops kill my brother.
+46,00:03:14,00:03:16,And then you empty your gun into him?
+47,00:03:16,00:03:19,Jason McCann?
+48,00:03:19,00:03:22,"I should just let you die, like you did Alex."
+49,00:03:28,00:03:30,How'd you get my number?
+50,00:03:30,00:03:32,"Wait, they're coming. I gotta go."
+51,00:03:32,00:03:33,"Whatever you do, don't go home."
+52,00:03:33,00:03:34,(hangs up)
+53,00:03:43,00:03:46,"Control, this is Charlie 0-5 Stokes."
+54,00:03:46,00:03:48,I'm at 922 Rose Avenue.
+55,00:03:48,00:03:51,"You, uh, better get the bomb squad out here."
+56,00:03:54,00:03:56,Code three.
+57,00:04:38,00:04:41,BOMB SQUAD TECH: M67 frag grenade in a can.
+58,00:04:41,00:04:43,Pretty simple booby-trap.
+59,00:04:43,00:04:45,Kill zone up to five meters.
+60,00:04:45,00:04:48,"All right, Stokes."
+61,00:04:48,00:04:51,"Back up, slowly."
+62,00:04:51,00:04:52,Might be more surprises.
+63,00:04:52,00:04:53,I hope not.
+64,00:04:53,00:04:56,I'm already eight lives down...
+65,00:04:56,00:04:57,if you know what I mean.
+66,00:04:57,00:04:58,"I hear you, brother."
+67,00:05:04,00:05:06,(relieved sigh)
+68,00:05:06,00:05:09,(siren wails)
+69,00:05:09,00:05:11,Right this way. Get off me! I'm all right.
+70,00:05:11,00:05:13,"Yes, sir."
+71,00:05:13,00:05:14,BOMB TECH (over radio): No sign of forced entry.
+72,00:05:14,00:05:18,But we'll play it safe. We'll sweep the rest of the house for any more explosives.
+73,00:05:18,00:05:19,BOMB SQUAD TECH: Okay!
+74,00:05:19,00:05:21,I safetied the device.
+75,00:05:21,00:05:23,I'll blow it and I'll send you what's left.
+76,00:05:23,00:05:25,Don't forget the trip-wire knot.
+77,00:05:25,00:05:27,BOMB SQUAD TECH: I'll send it in the package.
+78,00:05:27,00:05:28,You can bronze it for Stokes.
+79,00:05:28,00:05:31,Along with this piece of his wall.
+80,00:05:31,00:05:37,"""Sic semper tyrannis."" ""Thus always to tyrants."" Slogan for every whack job."
+81,00:05:37,00:05:40,They came to my house! That kid has my private number!
+82,00:05:40,00:05:43,"I tell you what-- if they're looking for a fight, they found one."
+83,00:05:43,00:05:45,I'm not afraid to die. Let's see if they are.
+84,00:05:45,00:05:46,"Nick, come on now."
+85,00:05:46,00:05:48,I'm serious! I know you're serious.
+86,00:05:48,00:05:49,Just dial it down.
+87,00:05:49,00:05:51,Come on.
+88,00:05:51,00:05:53,Did you see anything?
+89,00:05:53,00:05:55,I don't know.
+90,00:05:55,00:05:56,There was a maroon van.
+91,00:05:56,00:06:01,"Wi-with, uh, uh, an extended cab on the roof-- you know?-- I-I didn't think anything of it."
+92,00:06:01,00:06:02,Neighbors saw that same van; it's gone.
+93,00:06:02,00:06:07,"You think they were sitting in that van, waiting for me to blow up? Huh?"
+94,00:06:07,00:06:09,You said that Jason McCann called you?
+95,00:06:09,00:06:13,"Yeah, I mean, I think that kid saved my life/ Nick, that kid should be in jail."
+96,00:06:13,00:06:14,He helped blow up a police funeral.
+97,00:06:14,00:06:15,"Come on. WILLOWS: Yeah, the D.A."
+98,00:06:15,00:06:17,couldn't make the case back then.
+99,00:06:17,00:06:22,"Now, all of a sudden, you've got a bomb that shows up on your doorstep, and he calls you... just in time."
+100,00:06:22,00:06:25,"No, it's no coincidence. Hail his ass in to PD."
+101,00:06:32,00:06:33,"Thank you, Dr. Langston."
+102,00:06:33,00:06:36,No further questions.
+103,00:06:38,00:06:41,"Well, Ray, shall we..."
+104,00:06:41,00:06:44,go back to the moment I stabbed you?
+105,00:06:44,00:06:50,Will you describe for the court and me... how it felt...
+106,00:06:50,00:06:53,when I plunged my shank into your kidney?
+107,00:06:53,00:06:56,PROSECUTOR: Objection! Irrelevant. Defense is indulging in gratuitous sadism.
+108,00:06:56,00:07:00,"Question goes to state of mind, Your Honor, which is key to my defense."
+109,00:07:00,00:07:01,Overruled.
+110,00:07:01,00:07:03,"I'll allow it, for now."
+111,00:07:03,00:07:06,"Well, Ray, how did it feel?"
+112,00:07:07,00:07:11,Painful. Can you be more specific?
+113,00:07:11,00:07:13,More... poetic?
+114,00:07:13,00:07:15,"You're a published writer, Ray."
+115,00:07:15,00:07:18,Describe the sensation when my shank first pierced your skin.
+116,00:07:22,00:07:23,Sharp.
+117,00:07:23,00:07:25,White-hot. And after that...
+118,00:07:25,00:07:28,what did you feel?
+119,00:07:29,00:07:30,(gasps)
+120,00:07:33,00:07:36,Lightheaded. Very lightheaded. Oh...
+121,00:07:36,00:07:42,"And-and-and as you laid down then, and your life was draining away, you gazed into my eyes."
+122,00:07:44,00:07:46,"What did you feel then, Ray?"
+123,00:07:46,00:07:47,Disbelief.
+124,00:07:47,00:07:49,That's a thought. Give me a feeling.
+125,00:07:52,00:07:53,Fear.
+126,00:07:53,00:07:55,What?
+127,00:07:55,00:07:56,Fear.
+128,00:07:56,00:07:59,You felt what? I was afraid I was going to die.
+129,00:07:59,00:08:01,Yes.
+130,00:08:01,00:08:06,A perfectly normal human reaction to a horrific experience.
+131,00:08:06,00:08:11,Objection! Sustained. The defendant will confine himself to questioning the witness.
+132,00:08:11,00:08:13,"Boring, but fine."
+133,00:08:13,00:08:15,Ray?
+134,00:08:15,00:08:23,"When I look at you, when I see the anguish I caused you, I feel... nothing."
+135,00:08:23,00:08:24,Objection!
+136,00:08:24,00:08:32,"Defense is testifying! HASKELL: Don't you think I wantto feel something, Ray? The emotions that a normal human being feels?"
+137,00:08:32,00:08:36,"Look at that: Steady, calm, emotionless."
+138,00:08:36,00:08:37,That's just not right!
+139,00:08:37,00:08:39,Your Honor! This is outrageous.
+140,00:08:39,00:08:41,Sustained. Strike the defendant's last statement.
+141,00:08:41,00:08:44,The jury is instructed to disregard it.
+142,00:08:44,00:08:46,"No further questions, Your Honor."
+143,00:08:53,00:08:55,SIDLE: Bomber used a Z-type bowline on the grenade?
+144,00:08:55,00:09:00,Makes him a lefty. Most people don't tie anything more complicated than their shoes.
+145,00:09:00,00:09:03,Less than 15% of the population are lefties.
+146,00:09:03,00:09:05,He added a half hitch to the end.
+147,00:09:05,00:09:06,"You know, it's weird."
+148,00:09:06,00:09:10,"It's the same signature that Alex McCann used on the bombs at the police funeral, and he's dead."
+149,00:09:10,00:09:12,"Well, we know he wasn't acting alone."
+150,00:09:12,00:09:15,What about his brother Jason. Maybe he's a lefty?
+151,00:09:15,00:09:16,Let's check LIMS.
+152,00:09:26,00:09:29,Mm... Doesn't say.
+153,00:09:29,00:09:30,"Well, we're bringing him in."
+154,00:09:30,00:09:33,"I'm going to call Nick, and tell him to get his autograph, and maybe we'll get lucky."
+155,00:09:37,00:09:38,Hey.
+156,00:09:38,00:09:41,Hey.
+157,00:09:44,00:09:46,(sighs heavily)
+158,00:09:46,00:09:48,It's a pretty nasty bruise. How'd you get that?
+159,00:09:48,00:09:49,I fell.
+160,00:09:49,00:09:51,Mm.
+161,00:09:58,00:10:01,"I want to thank you for calling me when you did, or I wouldn't be here right now."
+162,00:10:01,00:10:04,That took a lot of guts.
+163,00:10:04,00:10:07,I'm sure there's some people out there who didn't appreciate it.
+164,00:10:07,00:10:08,Probably the same people who...
+165,00:10:09,00:10:11,put a grenade in my yard.
+166,00:10:13,00:10:14,You give me a name...
+167,00:10:14,00:10:16,and I can help you.
+168,00:10:18,00:10:19,I can't.
+169,00:10:19,00:10:21,They will kill me.
+170,00:10:27,00:10:28,Dr. Huxbee.
+171,00:10:28,00:10:30,Just the guy I wanted to talk to.
+172,00:10:30,00:10:32,I'm Jason McCann's legal guardian.
+173,00:10:32,00:10:34,I heard you pulled him out of school.
+174,00:10:34,00:10:36,Is he under arrest? No.
+175,00:10:36,00:10:37,Then he's coming with me.
+176,00:10:37,00:10:38,Let's have a little chat first.
+177,00:10:38,00:10:40,We have nothing to talk about.
+178,00:10:40,00:10:42,"Oh, you'd be surprised. Come on."
+179,00:10:44,00:10:47,"Oh, I saw Jason when he came in."
+180,00:10:47,00:10:49,Pretty nasty shiner the kid has.
+181,00:10:49,00:10:51,So what happened?
+182,00:10:51,00:10:54,"He mouthed off, so you laid a little old-fashioned discipline on him?"
+183,00:10:54,00:10:55,Jason fell...
+184,00:10:55,00:10:57,skateboarding.
+185,00:10:57,00:11:00,Yeah. Sure.
+186,00:11:00,00:11:02,I checked out your file.
+187,00:11:02,00:11:04,"Before you got your PhD in political theory, you were in the Coast Guard."
+188,00:11:04,00:11:08,"Must have tied a few bowline hitches back then, huh?"
+189,00:11:08,00:11:10,Is that where you learned to make bombs?
+190,00:11:10,00:11:13,"I told you before, I'm opposed to violence. Right."
+191,00:11:13,00:11:14,"You just make 'em, you don't plant 'em."
+192,00:11:14,00:11:17,"That's too dangerous, too much shrapnel in the air."
+193,00:11:17,00:11:18,Do I need to call my attorney?
+194,00:11:18,00:11:20,I came for Jason.
+195,00:11:20,00:11:22,Just sign this release.
+196,00:11:22,00:11:30,Then you can go back to your public speaking engagements where you trash this country that gives you the freedom to spew all your crap.
+197,00:11:35,00:11:41,"STOKES: I know you're between a rock and a hard place here, but I'll protect you."
+198,00:11:41,00:11:44,"Like you protected my brother, right? Hey, your brother didn't give me a choice, man."
+199,00:11:44,00:11:46,You think that makes it hurt any less?
+200,00:11:46,00:11:48,HUXBEE: Jason.
+201,00:11:49,00:11:51,Let's go.
+202,00:11:55,00:11:57,"Hey, you still have my number."
+203,00:12:08,00:12:11,"He seems scared, but I can't read him, Jim."
+204,00:12:11,00:12:13,You shot his brother.
+205,00:12:13,00:12:16,Why would he want to saveyourlife?
+206,00:12:16,00:12:17,Huh?
+207,00:12:18,00:12:20,Grenade fragments had a story to tell.
+208,00:12:20,00:12:22,Found trace amounts of benzyl benzoate.
+209,00:12:22,00:12:25,"Well, that's an acetone; it's not in grenades. Exactly."
+210,00:12:25,00:12:29,"So if Nick's grenade were military issue, it would have been filled with Comp-B."
+211,00:12:29,00:12:33,"Acetone-- that's one of the ingredients in triacetone- triperoxide, TATP."
+212,00:12:33,00:12:36,That's the same explosive that Jason McCann's brother used to make pipe bombs.
+213,00:12:36,00:12:40,So somebody is filling empty grenades instead of pipes.
+214,00:12:40,00:12:44,"Well, you can buy empty grenades as commemoratives and fill them with any boom you want."
+215,00:12:44,00:12:50,Hey. Remember how Huxbee was bragging about living off the grid and ditching his plastic and all that?
+216,00:12:50,00:12:58,"Yeah. Well, looks like some bank made him an offer for a low-interest credit card even he couldn't refuse."
+217,00:12:58,00:13:00,WILLOWS: Guy's become a shopaholic.
+218,00:13:00,00:13:04,HODGES: Retail therapy can be very effective in relieving that Armageddon stress.
+219,00:13:04,00:13:10,"Well, Huxbee's not buying a lot of sterno and camo, but he did buy serious quantities of acetone and pool acid."
+220,00:13:10,00:13:12,Maybe he was looking to start his own Armageddon.
+221,00:13:23,00:13:28,"Thanks for coming. Yeah, I hope we're not wasting your time here, Kip. You kidding? I live for this."
+222,00:13:28,00:13:34,"So, Dr. Huxbee's old landlord didn't agree with his politics, so he booted him out of the old meeting hall, and Huxbee signed a new lease here."
+223,00:13:34,00:13:38,"WILLOWS: Credit cards, leases-- gets the doc back on the grid."
+224,00:13:38,00:13:40,We got an R.O. on this truck?
+225,00:13:40,00:13:42,"Yeah, it's Huxbee's-- so he must be inside."
+226,00:13:43,00:13:45,Dr. Huxbee?
+227,00:13:45,00:13:47,LVPD. We have a warrant.
+228,00:13:49,00:13:50,(calls): Huxbee?
+229,00:13:50,00:13:53,We need to talk.
+230,00:13:53,00:13:55,Got some blood here.
+231,00:14:02,00:14:04,WILLOWS: It's Huxbee.
+232,00:14:09,00:14:11,He's dead.
+233,00:14:11,00:14:14,Guy just sprung Jason McCann from PD; now he's dead?
+234,00:14:14,00:14:15,Where's Jason?
+235,00:14:18,00:14:21,"WILLOWS: You know, this scene looks a little too familiar."
+236,00:14:21,00:14:24,Dead body in the middle of a room?
+237,00:14:25,00:14:27,KIP: Body's wired.
+238,00:14:27,00:14:28,Are you kidding me?
+239,00:14:28,00:14:29,I don't see any explosives.
+240,00:14:31,00:14:33,"(power generator whines, activating)"
+241,00:14:33,00:14:34,"Oh, crap."
+242,00:14:42,00:14:43,That can't be good.
+243,00:14:43,00:14:44,You think?
+244,00:14:44,00:14:45,VARTANN: What is it with you?
+245,00:14:45,00:14:47,You some kind of a bomb magnet?
+246,00:14:47,00:14:49,"All right, guys, let's get out of here."
+247,00:14:49,00:14:51,The whole place might be rigged.
+248,00:14:51,00:14:53,Retrace your steps.
+249,00:14:57,00:14:59,WILLOWS: Hang on.
+250,00:14:59,00:15:01,What is that? Looks like some kind of sensor.
+251,00:15:02,00:15:03,Yeah.
+252,00:15:05,00:15:07,You're not gonna like this.
+253,00:15:13,00:15:15,"One door in, one door out."
+254,00:15:15,00:15:18,We're not going anywhere.
+255,00:15:26,00:15:30,"Control, KA-135. We have a 445 at 3027 Rosemont Boulevard."
+256,00:15:30,00:15:32,"Control, KA-13..."
+257,00:15:32,00:15:34,(radio static) Radio's dead.
+258,00:15:34,00:15:35,What?
+259,00:15:35,00:15:36,"Phone, too."
+260,00:15:36,00:15:38,Seriously? Must be jamming the signals.
+261,00:15:38,00:15:39,Fantastic. We're on our own.
+262,00:15:39,00:15:43,"Well... come on, man, you're the rock star here."
+263,00:15:43,00:15:45,"Time to start playing, bud. Let's go."
+264,00:15:45,00:15:48,Photo-sensor chip under the DB armed the bombs and lasers.
+265,00:15:48,00:15:51,"We break any of those beams, that much C-4 is gonna take us all out."
+266,00:15:51,00:15:55,We got to diffuse this bad boy.
+267,00:15:55,00:15:56,WILLOWS: Yeah.
+268,00:15:56,00:15:58,How arewegoing to get to it?
+269,00:15:58,00:15:59,KIP: I'm still working on it.
+270,00:16:03,00:16:05,Keyless car entry receiver circuit.
+271,00:16:05,00:16:09,Fob transmitter's probably connected to the lasers.
+272,00:16:09,00:16:12,That clock say 14 minutes? That's a lifetime.
+273,00:16:12,00:16:14,"VARTANN: To disarm it, or is that just what we've got left?"
+274,00:16:14,00:16:17,Both.
+275,00:16:17,00:16:29,"Dr. Corey, two weeks ago you brought a mobile MRI machine to Ely State Prison to conduct a test on me. Yes. I..."
+276,00:16:29,00:16:33,scanned your brain while you were shown a series of crime photographs.
+277,00:16:33,00:16:36,HASKELL: Describe the photos.
+278,00:16:36,00:16:39,"COREY: They were graphic, uh, extremely violent."
+279,00:16:39,00:16:44,Images of mutilated and dismembered bodies.
+280,00:16:44,00:16:49,"What happens, Doctor, to the average person's brain when they're shown such images?"
+281,00:16:49,00:16:50,This...
+282,00:16:50,00:16:53,is the orbital cortex.
+283,00:16:53,00:16:59,"It governs, uh, moral decision making, aggression, impulse control."
+284,00:16:59,00:17:00,It's lit up like a Christmas tree.
+285,00:17:00,00:17:02,"It's so beautiful, Doctor."
+286,00:17:02,00:17:04,"COREY: Well, it's because it's being stimulated."
+287,00:17:04,00:17:09,"Clearly, the, uh, subject was deeply disturbed by the images."
+288,00:17:09,00:17:12,HASKELL: And how does this compare to a scan of...
+289,00:17:12,00:17:14,myorbital cortex?
+290,00:17:14,00:17:16,COREY: Well...
+291,00:17:16,00:17:20,"as you can see, yours is pitch black; there is no activity."
+292,00:17:20,00:17:25,Your orbital cortex is profoundly impaired.
+293,00:17:29,00:17:32,"Doctor, do you know what caused this... this defect?"
+294,00:17:32,00:17:42,"You possess a genetic mutation: the Monoamine Oxidase A, or MAO-A gene."
+295,00:17:42,00:17:48,"Otherwise known as the warrior gene, for its association with aggression."
+296,00:17:48,00:17:53,"HASKELL: Doctor, what is the significance of this warrior gene for someone like me?"
+297,00:17:53,00:18:05,"COREY: Well, according to numerous studies, if you suffered severe childhood abuse and possessed this gene, it increases your chances of committing a violent crime by..."
+298,00:18:05,00:18:07,four hundred percent.
+299,00:18:10,00:18:15,"Doctor, you complete me, or at least you complete my understanding of me."
+300,00:18:15,00:18:17,"Objection. I know, counsel is testifying."
+301,00:18:17,00:18:18,"Sustained, sustained."
+302,00:18:18,00:18:26,"JUDGE: Mr. Haskell, I've given you a lot of leeway because you're pro per, but if you try to do my job again, I will hold you in contempt."
+303,00:18:26,00:18:28,"Mea culpa, Your Honor."
+304,00:18:28,00:18:36,"So, Dr. Corey, it is your expert opinion that I cannot be held responsible for my actions, for any of them?"
+305,00:18:36,00:18:38,That is correct.
+306,00:18:38,00:18:45,"HASKELL: So it is true what they say, that I am a monster, buta monster made of biology beyond my control."
+307,00:18:45,00:18:51,So convicting me of attempted murder would be like convicting a blind man of being unable to see.
+308,00:18:51,00:18:53,Who's the real victim here?!
+309,00:18:56,00:18:58,(sobbing): Who's the real victim?
+310,00:19:00,00:19:06,"KIP: Bomb out of reach, clock facing us-- they want us to see how much time we have left, force our hand."
+311,00:19:06,00:19:08,"Yeah, that's 'cause they're watching us."
+312,00:19:08,00:19:10,They want to see us sweat.
+313,00:19:12,00:19:15,"Yeah, here we go."
+314,00:19:20,00:19:24,WILLOWS: They've been a step ahead of us this whole time. Yep.
+315,00:19:24,00:19:28,"Well... they want to play with lasers, I'll give 'em lasers."
+316,00:19:31,00:19:33,(electronic crackle)
+317,00:19:33,00:19:34,(sighs)
+318,00:19:36,00:19:38,"All right, guys, ideas?"
+319,00:19:38,00:19:42,"Well, we can't go through the beams, so maybe we go over 'em."
+320,00:19:42,00:19:45,"Yeah, there's plenty of pallets and lumber. Yeah."
+321,00:19:45,00:19:47,"Yeah, enough to build a stairway to Heaven."
+322,00:19:57,00:19:59,(loud popping)
+323,00:19:59,00:20:01,WILLOWS: Lou!
+324,00:20:03,00:20:05,(groaning) You don't want to be next.
+325,00:20:05,00:20:09,"That goes for you, too, Stokes."
+326,00:20:13,00:20:16,KIP: Nine-mil cartridges set into the wood.
+327,00:20:16,00:20:17,Nails as firing pins.
+328,00:20:17,00:20:19,Very smart.
+329,00:20:19,00:20:21,"Yeah, smarter than me."
+330,00:20:21,00:20:25,"All right, you're good along that line."
+331,00:20:27,00:20:31,"It's bad, isn't it?"
+332,00:20:31,00:20:32,(gasps)
+333,00:20:32,00:20:35,He may have nicked an artery.
+334,00:20:35,00:20:37,I'm gonna apply some pressure.
+335,00:20:37,00:20:39,Okay. It's gonna hurt.
+336,00:20:40,00:20:42,(grunts) Sorry.
+337,00:20:42,00:20:44,"God, I hate it when you're right."
+338,00:20:45,00:20:47,"We want to get out here, we better start stacking."
+339,00:20:47,00:20:50,"All right, you guys go for it. I'm gonna stay with Lou."
+340,00:20:50,00:20:51,Careful what you pick up.
+341,00:20:51,00:20:53,"Yeah, copy that."
+342,00:21:02,00:21:05,You should find more compassion in your heart for Nate.
+343,00:21:05,00:21:07,"The man has a disease. I'm sorry, who are you?"
+344,00:21:07,00:21:09,"I'm Vivian, Nate's fiancée."
+345,00:21:09,00:21:11,His one true love.
+346,00:21:11,00:21:13,I see. Did Nate give you that pendant?
+347,00:21:13,00:21:17,Yes. I wonder if you understand the significance of it.
+348,00:21:17,00:21:23,"Oh, Nate's a very spiritual man. I was referring to his first two victims, Joel Steiner and Tiffany Cohen."
+349,00:21:23,00:21:26,They both wore identical Stars of David.
+350,00:21:26,00:21:34,"They were two young people very much in love, just starting out in life, when he kidnapped them, murdered Joel, so that he could rape and torture Tiffany at his leisure."
+351,00:21:34,00:21:37,"Well, you heard that expert; he's not responsible for his actions."
+352,00:21:37,00:21:45,"Besides, the love of a good woman can change any man. Now, why don't you tell that to the seven women that we found buried under his floorboards?"
+353,00:21:45,00:21:47,Vivian.
+354,00:21:47,00:21:49,Join the prayer circle.
+355,00:21:56,00:21:58,I see you've met the Brides of Haskell.
+356,00:21:58,00:22:03,They're all wearing identical Stars of David.
+357,00:22:03,00:22:05,"Well, serial killers have groupies, Ray."
+358,00:22:05,00:22:08,"Well, they may not be the only ones listening to this psychobabble."
+359,00:22:08,00:22:11,"You should have seen the jury listening to his expert witness, this Dr. Corey."
+360,00:22:11,00:22:17,"Haskell's going to try and use the MAO-A defense to get all of his convictions overturned, Jim."
+361,00:22:17,00:22:19,"That's a long shot, Ray."
+362,00:22:19,00:22:21,"You heard of Willie Sutton, bank robber, right?"
+363,00:22:21,00:22:23,Sentenced to over 100 years.
+364,00:22:23,00:22:25,Studied civil rights law in jail.
+365,00:22:25,00:22:26,Got all of his convictions overturned.
+366,00:22:26,00:22:28,He died a free man.
+367,00:22:28,00:22:30,Captain Brass?
+368,00:22:30,00:22:32,Ready for testimony.
+369,00:22:33,00:22:36,"Okay, my turn on the hot seat."
+370,00:22:36,00:22:39,See you later.
+371,00:22:39,00:22:41,"Hey, stay with me."
+372,00:22:41,00:22:43,We're gonna get you out of here.
+373,00:22:43,00:22:45,We're all gonna get out of here.
+374,00:22:47,00:22:49,"STOKES: All right, Kip."
+375,00:22:49,00:22:50,"Once you're in, you're in."
+376,00:22:50,00:22:52,"You ready, wild man?"
+377,00:22:52,00:22:55,"Whoa, whoa, whoa, whoa."
+378,00:22:55,00:22:57,"If I were you, I'd stick that landing, bud."
+379,00:23:02,00:23:03,(gasps)
+380,00:23:04,00:23:07,You're good.
+381,00:23:07,00:23:09,You're good.
+382,00:23:10,00:23:12,(sighs)
+383,00:23:14,00:23:16,All right.
+384,00:23:20,00:23:21,Clock's ticking.
+385,00:23:24,00:23:27,Big capacitors.
+386,00:23:27,00:23:29,Just a come-on.
+387,00:23:29,00:23:32,"You know, I don't think Huxbee or Jason McCann pulled this off."
+388,00:23:32,00:23:34,You might want to find some shelter.
+389,00:23:34,00:23:36,All we got is plywood.
+390,00:23:36,00:23:37,That's no good against C-4?
+391,00:23:37,00:23:39,It can't hurt.
+392,00:23:39,00:23:40,Yeah. All right.
+393,00:23:40,00:23:43,I'll be right back.
+394,00:23:43,00:23:45,Hey. Hey. We got to get him to cover.
+395,00:23:45,00:23:46,(Lou groans)
+396,00:23:46,00:23:48,"Can you sit up for me, Lou? Okay."
+397,00:23:48,00:23:49,I got it. Yeah?
+398,00:23:49,00:23:52,Aah!
+399,00:23:52,00:23:53,Piece of cake.
+400,00:23:53,00:23:55,(all groaning)
+401,00:23:55,00:23:56,(panting)
+402,00:23:56,00:23:57,Watch that. (whispers)
+403,00:23:57,00:23:58,"Stay strong, Lou."
+404,00:23:58,00:24:00,(both panting)
+405,00:24:00,00:24:01,"Ah, hell."
+406,00:24:01,00:24:02,What? What?
+407,00:24:02,00:24:03,Mercury switch.
+408,00:24:03,00:24:05,That doesn't sound good.
+409,00:24:05,00:24:07,Anti-tampering device.
+410,00:24:07,00:24:10,Works on gravity.
+411,00:24:10,00:24:14,"Normally I'd cut the main power, but this baby's got a collapsing circuit."
+412,00:24:14,00:24:15,Translation?
+413,00:24:15,00:24:19,"I cut the power lead, it triggers the bomb."
+414,00:24:19,00:24:23,"I've got to cut these two conductors separately, make sure the wires don't touch."
+415,00:24:23,00:24:24,STOKES: All right.
+416,00:24:24,00:24:26,You get to cover.
+417,00:24:26,00:24:27,"Hell, no, man. I'm staying right here with you."
+418,00:24:27,00:24:29,"Ah, you're the wild man."
+419,00:24:31,00:24:32,Less than a minute.
+420,00:24:32,00:24:34,Plenty of time.
+421,00:24:37,00:24:38,45 seconds.
+422,00:24:45,00:24:47,(grunts)
+423,00:24:47,00:24:48,First cut.
+424,00:24:48,00:24:50,(sighs)
+425,00:24:54,00:24:57,Second cut.
+426,00:25:00,00:25:01,(sighs)
+427,00:25:05,00:25:07,(whirring off)
+428,00:25:07,00:25:10,(sighs)
+429,00:25:10,00:25:11,It stopped.
+430,00:25:11,00:25:16,"I hate to disappoint you, Stokes, but you're not dying today."
+431,00:25:16,00:25:17,(laughs)
+432,00:25:17,00:25:19,Damn!
+433,00:25:19,00:25:21,Good job.
+434,00:25:21,00:25:22,Let's get him to a hospital.
+435,00:25:22,00:25:24,"You're my hero, man."
+436,00:25:24,00:25:26,(sighs)
+437,00:25:28,00:25:29,He got it.
+438,00:25:29,00:25:31,"He got it. We're good. We're good, Lou."
+439,00:25:31,00:25:33,Come here. It's all right Yeah.
+440,00:25:33,00:25:36,"(generator whines, powering up)"
+441,00:25:39,00:25:40,Get down!
+442,00:25:50,00:25:52,(sirens wailing)
+443,00:26:04,00:26:06,Over here.
+444,00:26:09,00:26:11,I got three people down.
+445,00:26:11,00:26:15,One female in a CSI vest. Requesting two additional paramedics.
+446,00:26:15,00:26:19,It's okay. We're gonna get you out of here.
+447,00:26:19,00:26:22,One of my victims has life-threatening injuries.
+448,00:26:22,00:26:25,So Nick and Catherine are all right?
+449,00:26:25,00:26:27,And what about Vartann?
+450,00:26:27,00:26:31,"Good. Listen, Greg, get the name of his attending for me so I can follow up after."
+451,00:26:31,00:26:34,"Oh, um, batter up. Got to go."
+452,00:26:34,00:26:35,Thanks for letting me know.
+453,00:26:35,00:26:45,"PROSECUTOR : So, as a medical doctor, what is your opinion about Dr. Corey's theory that individuals with the MAO-A gene are predisposed to violence?"
+454,00:26:45,00:26:48,It is my opinion that it is utter nonsense.
+455,00:26:48,00:26:57,"Sure, there have been several studies that claim that there's a link between the MAO-A gene and violent behavior, but there are just as many studies that dispute those findings."
+456,00:26:57,00:27:00,Dr. Corey's conclusions are not neuroscience.
+457,00:27:00,00:27:01,They're neuromythology.
+458,00:27:01,00:27:03,PROSECUTOR: Could you give us an example?
+459,00:27:03,00:27:14,"LANGSTON: Alcoholics are genetically predisposed to alcoholism, which is a known disease, but we don't give drunks a pass if they decide to get behind the wheel of a vehicle and kill people."
+460,00:27:14,00:27:21,"The law is interested in whether or not a person understands the difference between right and wrong, and the defendant knows the difference between right and wrong."
+461,00:27:21,00:27:27,He takes pleasure in committing sadistic crimes that he knows are against the law.
+462,00:27:27,00:27:32,The fact that he has tried to cover up those crimes is evidence of his consciousness of guilt.
+463,00:27:32,00:27:35,"No further questions, Your Honor."
+464,00:27:36,00:27:39,I have nothing but questions.
+465,00:27:39,00:27:45,"Dr. Langston, are you a psychiatrist?"
+466,00:27:45,00:27:48,A neurologist?
+467,00:27:48,00:27:51,A geneticist?
+468,00:27:51,00:27:53,No. My field is research pathology.
+469,00:27:53,00:27:57,"Then you have no expertise in this area at all, correct?"
+470,00:27:57,00:27:59,No?
+471,00:27:59,00:28:01,You mean yes.
+472,00:28:01,00:28:06,You just testified to a complete lack of credentials.
+473,00:28:06,00:28:09,"So, on what would you base any expertise?"
+474,00:28:09,00:28:11,Personal experience.
+475,00:28:13,00:28:20,"Like you, I was abused by an alcoholic father as a child, and, like you, I have the MAO-A gene."
+476,00:28:22,00:28:25,DNA isn't destiny.
+477,00:28:25,00:28:27,We're all responsible for our own actions.
+478,00:28:29,00:28:32,"I share the same gene with you, Nate, but I've never murdered anyone."
+479,00:28:32,00:28:37,"I take satisfaction in bringing justice to victims, not killing them and torturing them."
+480,00:28:37,00:28:42,Which is the only way that you can feel any connection to another human being.
+481,00:28:48,00:28:51,"Don't you think that was a little below the belt, Ray?"
+482,00:29:01,00:29:02,Welcome back.
+483,00:29:02,00:29:05,The doctors patched you up.
+484,00:29:05,00:29:07,You're going to be okay.
+485,00:29:07,00:29:09,But Kip didn't make it.
+486,00:29:09,00:29:12,(sighs)
+487,00:29:12,00:29:13,Did we get 'em?
+488,00:29:13,00:29:16,We will.
+489,00:29:16,00:29:18,Thanks...
+490,00:29:18,00:29:20,for being here.
+491,00:29:20,00:29:22,Where else would I be?
+492,00:29:24,00:29:25,You get some rest.
+493,00:29:25,00:29:27,I'll be back.
+494,00:29:27,00:29:29,Okay.
+495,00:29:35,00:29:37,How's he doing?
+496,00:29:37,00:29:40,"Good, I think."
+497,00:29:40,00:29:42,How you doing?
+498,00:29:42,00:29:44,I'm still in one piece.
+499,00:29:44,00:29:47,"Yeah, you should probably get checked out anyway."
+500,00:29:47,00:29:48,That's usually my line.
+501,00:29:50,00:29:53,"(laughs) Hey, you're always taking care of me."
+502,00:29:55,00:29:58,How about I take care of you for a change?
+503,00:29:58,00:30:00,Okay.
+504,00:30:03,00:30:06,"Thanks, Nicky."
+505,00:30:09,00:30:16,"Sometime between being bludgeoned and the postmortem blast injuries, Huxbee managed to get himself shot in the head."
+506,00:30:16,00:30:17,"Single GSW, execution style."
+507,00:30:17,00:30:20,Were you able to recover the bullet?
+508,00:30:20,00:30:21,Nine millimeter hollow-point.
+509,00:30:21,00:30:23,Ballistics sent over a report.
+510,00:30:23,00:30:24,Hmm.
+511,00:30:24,00:30:26,Gunshot was overkill.
+512,00:30:26,00:30:29,Blunt force trauma was the cause of death.
+513,00:30:29,00:30:31,IBIS hit.
+514,00:30:31,00:30:36,The same gun was used in a break-in at a National Guard armory in Salt Lake nine months ago.
+515,00:30:36,00:30:37,What did they take?
+516,00:30:37,00:30:39,Couple of M-9s...
+517,00:30:39,00:30:42,Wow. 20 pounds of C-4.
+518,00:30:42,00:30:46,"You know, the armory is not our only link to the military."
+519,00:30:46,00:30:49,I ran the serial number on the camera from the warehouse.
+520,00:30:49,00:30:54,"It was purchased two years ago at an Army PX in Black Rock Arsenal, Virginia."
+521,00:30:54,00:30:56,The buyer paid cash.
+522,00:30:56,00:31:00,"Maybe at the PX in Virginia, but not at Meyer's Hardware Store in North Las Vegas."
+523,00:31:00,00:31:03,I just ran Huxbee's recent credit card purchases.
+524,00:31:03,00:31:05,Guess who swiped his plastic.
+525,00:31:07,00:31:09,SANDERS: That's definitely Jason McCann on the left.
+526,00:31:09,00:31:12,"Using Huxbee's card, or a card he took out in his name."
+527,00:31:12,00:31:15,SANDERS: To buy bomb-making materials.
+528,00:31:15,00:31:19,"Okay, so, Mr. Non-Violence loses his temper, gives Jason the back of his hand."
+529,00:31:19,00:31:20,Explains Jason's bruise in P.D.
+530,00:31:20,00:31:25,"Then Huxbee springs him, tells Jason that he's a threat to their movement."
+531,00:31:25,00:31:26,It's got to stop.
+532,00:31:26,00:31:28,So Jason decides Huxbee'sgot to stop.
+533,00:31:28,00:31:29,"Breathing, that is."
+534,00:31:29,00:31:32,We know that he didn't make the bomb alone.
+535,00:31:32,00:31:34,Let's push in on this guy.
+536,00:31:34,00:31:38,SANDERS: Army field jacket.
+537,00:31:38,00:31:41,Think the guy's dumb enough to wear a jacket with his name on it?
+538,00:31:41,00:31:45,Let's check him against all personnel at Black Rock Arsenal for the last two years.
+539,00:31:48,00:31:52,"JUDGE: Madame Foreperson, have you reached a verdict?"
+540,00:31:52,00:31:54,"We have, Your Honor."
+541,00:32:10,00:32:16,"In the case of Nathaniel Haskell, Case Number 20433, Clark County Criminal Court."
+542,00:32:16,00:32:21,"As to the count of attempted murder, the jury finds the defendant guilty."
+543,00:32:28,00:32:30,It's an injustice.
+544,00:32:30,00:32:32,The whole world is watching.
+545,00:32:32,00:32:35,JUDGE: Sentencing will be on February 28.
+546,00:32:35,00:32:38,This court is now adjourned.
+547,00:32:45,00:32:47,Well done.
+548,00:32:47,00:32:48,Thanks to you.
+549,00:33:02,00:33:09,"SIDLE: So, Greg was able to I.D. the guy in the hardware store with Jason McCann."
+550,00:33:09,00:33:12,His name is Timothy Johnson.
+551,00:33:12,00:33:15,STOKES: Specialty 89 Delta?
+552,00:33:15,00:33:18,That's explosive ordinance disposal. Yeah.
+553,00:33:18,00:33:20,And a less-than-honorable discharge two years ago.
+554,00:33:20,00:33:24,"According to Nevada DMV, he owns a maroon Chevy van."
+555,00:33:24,00:33:25,Jason's been playing me this whole time.
+556,00:33:25,00:33:33,"Calling me, acting like he's trying to save my life was just bait to get me, Catherine and Vartann in that building at the same time, so he could blow us all to smithereens."
+557,00:33:33,00:33:35,And Kip's the one who paid for it.
+558,00:33:35,00:33:37,"You know, it was all three who took his brother down."
+559,00:33:37,00:33:39,"Damn! How could I not see that, Sara?"
+560,00:33:39,00:33:41,"Now, wait a minute, wait a minute."
+561,00:33:41,00:33:42,You saw the tripwire.
+562,00:33:42,00:33:44,That's the important thing.
+563,00:33:44,00:33:46,You know what I want to know?
+564,00:33:46,00:33:49,"Is Jason pulling the strings, or is someone else pullinghisstrings?"
+565,00:33:49,00:33:51,"Well, we thought it was Huxbee."
+566,00:33:51,00:33:52,"It's got to be this dude, Johnson."
+567,00:33:52,00:33:54,"Well, we got to find them; they still have a lot of C-4."
+568,00:33:54,00:33:56,"(sighs) Okay, what about that DMV address?"
+569,00:33:56,00:33:58,It's no good. Greg ran it.
+570,00:33:58,00:34:00,The guy used an abandoned house; it's the end of the line.
+571,00:34:00,00:34:02,Maybe not.
+572,00:34:02,00:34:04,Kids and their phones.
+573,00:34:04,00:34:05,That dumb-ass called me.
+574,00:34:05,00:34:07,"I think he deserves a call back, don't you?"
+575,00:34:13,00:34:15,Hello?
+576,00:34:15,00:34:16,"Hey, Jason."
+577,00:34:16,00:34:17,It's Nick Stokes. How's it going?
+578,00:34:18,00:34:22,"Bet you weren't expecting to hear from me, were you?"
+579,00:34:22,00:34:23,"No, actually, I wasn't."
+580,00:34:23,00:34:27,"Maybe we should just continue our conversation right now, what do you think?"
+581,00:34:27,00:34:28,"I mean, we were interrupted."
+582,00:34:28,00:34:30,"I think we have a lot to talk about, don't you?"
+583,00:34:34,00:34:35,Jason.
+584,00:34:39,00:34:41,"Come on, talk to me, you little punk."
+585,00:34:41,00:34:42,(beep)
+586,00:34:44,00:34:45,I don't think he likes you anymore.
+587,00:34:45,00:34:48,"Oh, he's gonna like me a lot less, believe me."
+588,00:34:48,00:34:49,I got the cell tower.
+589,00:34:49,00:34:53,"CT-16, south receiver, 22 miles west of Searchlight."
+590,00:34:53,00:34:55,Not too many people out there.
+591,00:34:55,00:34:59,"Probably not a lot of maroon vans, either."
+592,00:35:08,00:35:09,(sirens wailing)
+593,00:35:09,00:35:11,"Captain Brass, Air One here."
+594,00:35:11,00:35:12,Got a visual?
+595,00:35:12,00:35:13,Affirmative.
+596,00:35:13,00:35:17,"Maroon van, two WMA's matching suspect's description."
+597,00:35:17,00:35:19,BRASS: Hang back. Maintain visual.
+598,00:35:19,00:35:20,This is Charlie-O-five.
+599,00:35:20,00:35:21,"What's their position, Air One?"
+600,00:35:21,00:35:24,Just turning west onto State Route 164.
+601,00:35:24,00:35:27,"Hey, they're headed for California, Jim."
+602,00:35:27,00:35:30,"We take 95 south, we can cut 'em off."
+603,00:35:30,00:35:32,Just try to keep up.
+604,00:35:37,00:35:39,The last cage on the left.
+605,00:35:39,00:35:40,Thank you.
+606,00:35:47,00:35:49,"Hi, Ray."
+607,00:35:49,00:35:50,You...
+608,00:35:50,00:35:53,were magnificent on the witness stand.
+609,00:35:53,00:35:56,That MAO-A revelation of yours...
+610,00:35:56,00:36:01,"Delightfully unexpected. You know, a good lawyer never asks a question that he doesn't have the answer to."
+611,00:36:01,00:36:03,"Beware the sin of pride, Ray."
+612,00:36:03,00:36:09,"But I feel it was a positive experience, because now I feel even closer to you."
+613,00:36:09,00:36:12,Discovering we share more than just your kidney.
+614,00:36:12,00:36:13,"Do you have chills, Ray?"
+615,00:36:13,00:36:15,No. Steady.
+616,00:36:15,00:36:18,Calm.
+617,00:36:18,00:36:19,"Question, though."
+618,00:36:19,00:36:24,How long have you known that you were an MAO-A gene carrier?
+619,00:36:24,00:36:27,"You heard Dr. Corey, Ray-- months, maybe..."
+620,00:36:27,00:36:30,"maybe longer. No, you must have known before your first kill."
+621,00:36:30,00:36:33,My firsthumankill.
+622,00:36:33,00:36:36,"You talk about a good excuse to start having some fun, huh?"
+623,00:36:36,00:36:39,"Oh,Ray..."
+624,00:36:39,00:36:41,it's like a mirror with you. (chuckles)
+625,00:36:41,00:36:43,"It's like playing with myself, only..."
+626,00:36:43,00:36:45,better.
+627,00:36:45,00:36:50,"So, how long have you known? Ray, you know my job history and that I never, ever had one in my life."
+628,00:36:50,00:36:52,So I had to have income.
+629,00:36:52,00:36:58,"Blood donations, sperm bank, the odd psychological research study-- those cute grad students, they pay good money."
+630,00:36:58,00:37:02,The first studies on the MAO-A gene didn't happen until the 1970s.
+631,00:37:02,00:37:03,"How did you know, Nate?"
+632,00:37:03,00:37:09,"I wanted to be the first kid on my block to have one, Ray, so I could blame everything on my father."
+633,00:37:09,00:37:13,"I just prayed to God to bring me one of those genes, Ray."
+634,00:37:13,00:37:14,You can't alter your DNA.
+635,00:37:14,00:37:16,You either have the gene or you don't.
+636,00:37:19,00:37:20,"Trust me, Ray..."
+637,00:37:20,00:37:23,"if you want something bad enough, you can will it to happen."
+638,00:37:23,00:37:25,"Look at those women; they fight over me, Ray."
+639,00:37:25,00:37:26,It's 'cause I will it.
+640,00:37:26,00:37:33,"You're really giving yourself a little bit too much credit. No, I'm a chick magnet, Ray, and you know that. You're a magnet for the walking wounded."
+641,00:37:33,00:37:35,Look at you in this cage.
+642,00:37:35,00:37:36,You're pathetic.
+643,00:37:38,00:37:40,Whatever.
+644,00:37:40,00:37:44,"You know what I dream of more than sex, Ray?"
+645,00:37:44,00:37:46,What?
+646,00:37:47,00:37:49,Freedom.
+647,00:37:49,00:37:51,I bet you do.
+648,00:37:53,00:37:55,You've killed 14 people.
+649,00:37:55,00:37:59,"There's no gene that's gonna magically make you free, not for that."
+650,00:37:59,00:38:03,"Power of positive thinking, Ray."
+651,00:38:03,00:38:07,And I'm very positive.
+652,00:38:19,00:38:21,"I thought you were smarter than your brother, huh?"
+653,00:38:21,00:38:23,But you had to make it personal.
+654,00:38:23,00:38:24,It's always been personal.
+655,00:38:24,00:38:26,They killed my brother; now they're gonna pay.
+656,00:38:26,00:38:28,"Well, you think you're the only guy who lost someone?"
+657,00:38:28,00:38:37,"I've had more friends bleed out in my arms in the middle of a damn sandbox than I can count, but at least I know what I'm fighting for-- real freedom. Stop talking to me like I am some kid."
+658,00:38:37,00:38:38,I brought you in!
+659,00:38:38,00:38:40,"I taught you everything, you little punk!"
+660,00:38:40,00:38:48,"Not just how to make bombs but how to bring this freedom fight home, stay alive, live to fight another day and not go strength against strength and take on the whole damn LVPD."
+661,00:38:48,00:38:50,"You're just gonna get us killed, kid."
+662,00:38:50,00:38:51,I'm not afraid.
+663,00:38:54,00:38:57,AIR OFFICER (over P.A.): Stop the car. Stop the car!
+664,00:39:04,00:39:06,What are you doing? Run it!
+665,00:39:06,00:39:07,Shut the hell up.
+666,00:39:07,00:39:08,"(sirens wail, then stop)"
+667,00:39:10,00:39:13,BRASS: Johnson! McCann! Get out of the car!
+668,00:39:18,00:39:19,I'm not dying today.
+669,00:39:19,00:39:22,Don't quit on me.
+670,00:39:22,00:39:27,"BRASS: Throw your weapons out the window, and step out of the car now."
+671,00:39:27,00:39:28,Got no choice. Look at all those guns.
+672,00:39:28,00:39:30,Shut up! BRASS: You're surrounded!
+673,00:39:30,00:39:31,Get out of the car!
+674,00:39:31,00:39:34,"I'll give up, but only to Stokes."
+675,00:39:34,00:39:36,SANDERS: Don't even think about it.
+676,00:39:36,00:39:38,"Yeah, I'm right here."
+677,00:39:38,00:39:41,So give up. I want to talk to you.
+678,00:39:41,00:39:42,We'll talk. Get out of there!
+679,00:39:42,00:39:44,"JOHNSON: Jase, look at me."
+680,00:39:44,00:39:46,"Live to fight another day, remember?"
+681,00:39:46,00:39:47,(cocking)
+682,00:39:47,00:39:49,Get out.
+683,00:39:49,00:39:51,I'm coming out!
+684,00:39:57,00:40:01,"Get your hands on your head, turn around and get down on your knees!"
+685,00:40:01,00:40:02,Get down on your knees!
+686,00:40:06,00:40:07,"McCann, get out of the car!"
+687,00:40:07,00:40:10,Throw the weapon out!
+688,00:40:18,00:40:19,Hands on your head!
+689,00:40:19,00:40:20,Get down on your knees!
+690,00:40:20,00:40:22,He's wired! He's got a bomb!
+691,00:40:22,00:40:24,He's lying! There's no bomb! Look! Don't shoot!
+692,00:40:24,00:40:25,JOHNSON: Don't shoot! No!
+693,00:40:25,00:40:26,(gunshot)
+694,00:40:26,00:40:28,(gunfire)
+695,00:40:32,00:40:33,Hold your fire.
+696,00:40:56,00:40:59,(car alarm chirps)
+697,00:41:24,00:41:26,I need to see Nate Haskell.
+698,00:41:26,00:41:28,I need to see him right away. Okay.
+699,00:41:29,00:41:31,"Hey, Haskell?"
+700,00:41:31,00:41:33,Your buddy's...
+701,00:41:33,00:41:34,What the...?
+702,00:41:34,00:41:35,"Hey, inmate, get up."
+703,00:41:35,00:41:39,Show us your wrist band.
+704,00:41:39,00:41:41,He switched them.
+705,00:41:41,00:41:42,So where is he?
+706,00:41:42,00:41:47,A minimum-security van just left about ten minutes ago.
+707,00:41:50,00:41:52,(tires screech)
+708,00:41:56,00:42:00,"(distorted gunshots, yelling)"
+709,00:42:18,00:42:20,Nate! Now we can finally...
+710,00:42:24,00:42:27,Let's take my car.
+711,00:42:28,00:42:30,"Oh, your hands are so cold."
+712,00:42:30,00:42:31,"Oh, we'll fix that."
+713,00:42:31,00:42:33,INMATE: Let's get out of here! Come on!
+714,00:42:39,00:42:41,Come on.
