@@ -1,654 +1,610 @@
-,start,end,text
-0,00:00:02,00:00:04,(eerie tones playing)
-1,00:00:19,00:00:21,SWAT LEADER (distorted): Get the paramedics.
-2,00:00:21,00:00:23,"Hang in there, Jim, hang in there."
-3,00:00:23,00:00:24,Right here. Right here.
-4,00:00:24,00:00:27,Good job.
-5,00:00:28,00:00:30,"Sir, sir, can you see me?"
-6,00:00:30,00:00:32,"Sir, can you hear me?"
-7,00:00:33,00:00:34,"Sir, stay with me. Sir?"
-8,00:00:34,00:00:37,He's got a pulse of 120.
-9,00:00:48,00:00:51,"(distorted, indistinct chatter)"
-10,00:01:25,00:01:31,"PARAMEDIC: 55 year-old male, GSW left anterior chest, entering at the level of the deltoid and AC joint."
-11,00:01:31,00:01:32,Minimally responsive.
-12,00:01:32,00:01:33,He's a cop.
-13,00:01:33,00:01:39,"Tachycardic in the 120s, BP's 86 over 40 and dropping, 02 stats in the 80s with assisted ventilation..."
-14,00:01:40,00:01:42,"Okay, we're losing a lot of blood here."
-15,00:01:42,00:01:44,We need two large-bore I.V.'s.
-16,00:01:44,00:01:46,"Run the fluids wide, he's extremely hypotensive."
-17,00:01:46,00:01:49,Absent breath sounds on the left.
-18,00:01:49,00:01:50,Likely pneumothorax.
-19,00:01:50,00:01:53,Let's put in a chest tube and pressors for that BP stat.
-20,00:01:55,00:01:57,(machine beeps) He's in V-fib!
-21,00:01:57,00:01:59,(undistorted): Paddles!
-22,00:02:01,00:02:03,(high-pitched whine)
-23,00:02:05,00:02:07,(heart monitor flatlines)
-24,00:02:07,00:02:09,Three hundred!
-25,00:02:09,00:02:11,Clear!
-26,00:02:13,00:02:14,Come on. Come on!
-27,00:02:14,00:02:15,Come on.
-28,00:02:16,00:02:17,Three-sixty!
-29,00:02:17,00:02:19,Clear!
-30,00:02:25,00:02:32,"BRASS: I envy these parents who live in ignorant bliss because I know how my daughter, Ellie, lives."
-31,00:02:32,00:02:35,I know the company she keeps and I know what she does to get by.
-32,00:02:35,00:02:46,"And... anyway, I mean, I'm... I'm... a couple of nights ago I'm in LA and sitting in my car on Hollywood Boulevard watching her work a corner."
-33,00:02:46,00:02:50,"And my eyes are playing tricks on me because I don't see what she's doing, I see what she was."
-34,00:02:50,00:02:56,"I see a little six year-old girl with a ponytail, playing with crayons..."
-35,00:02:59,00:03:02,...singing a little tune to herself.
-36,00:03:02,00:03:05,"It's... I don't know, all I want to do is save her."
-37,00:03:06,00:03:09,"But the thing is, you know, if something happened to me..."
-38,00:03:09,00:03:13,"I don't think Ellie would, uh... care."
-39,00:03:15,00:03:18,So I'm asking you to do me this favor.
-40,00:03:18,00:03:23,"There's no one I trust more with my life, or my death... than you."
-41,00:03:24,00:03:27,Captain Brass was shot twice.
-42,00:03:27,00:03:29,First bullet lodged in his vest.
-43,00:03:29,00:03:33,"Second entered through his axilla, hit an artery, and is lodged near his heart."
-44,00:03:33,00:03:35,He's has internal hemorrhaging.
-45,00:03:35,00:03:36,Any neural damage?
-46,00:03:36,00:03:38,We won't know until we stop the bleeding.
-47,00:03:38,00:03:40,If we stop it.
-48,00:03:40,00:03:42,Have next-of-kin been notified?
-49,00:03:42,00:03:46,"For medical purposes, I have his power of attorney."
-50,00:03:46,00:03:50,You may have a decision to make.
-51,00:03:50,00:03:51,I'll let you know.
-52,00:03:54,00:03:56,(ringing)
-53,00:03:57,00:03:59,Grissom.
-54,00:03:59,00:04:01,Yeah.
-55,00:04:01,00:04:04,Okay.
-56,00:04:06,00:04:08,D.B. in Henderson on the train tracks.
-57,00:04:10,00:04:12,I'll take the first watch.
-58,00:04:12,00:04:13,You go work.
-59,00:04:21,00:04:23,CURTIS: I just spoke with McKeen.
-60,00:04:23,00:04:24,I heard it's bad.
-61,00:04:24,00:04:26,GRISSOM: Pretty bad.
-62,00:04:26,00:04:28,They're trying to stabilize him.
-63,00:04:29,00:04:32,The last train passed through here an hour ago.
-64,00:04:32,00:04:35,"The engineer thought he saw a body on the track, but couldn't stop on time."
-65,00:04:35,00:04:39,"He radioed dispatcher, who called 911."
-66,00:04:39,00:04:40,No I.D.
-67,00:04:40,00:04:43,Probably decapitated by the train.
-68,00:04:43,00:04:47,"Well, if scavengers nicked his clothes, they left a nice pair of riding boots."
-69,00:04:47,00:04:51,They probably didn't have time to finish the job before other trains roared through here.
-70,00:04:51,00:04:56,"Well, the engineer isn't saying anything else until his union rep gets here, which... could be a while."
-71,00:04:56,00:04:58,I'll let you know.
-72,00:04:58,00:05:00,Great.
-73,00:05:01,00:05:06,"You know, there's not a lot of blood on the ground for a decapitation like this."
-74,00:05:07,00:05:10,"Well, we don't know how far he was dragged."
-75,00:05:10,00:05:11,Where's the head?
-76,00:05:11,00:05:13,I'll find it.
-77,00:05:25,00:05:26,"Hey, Nick."
-78,00:05:26,00:05:28,Yeah?
-79,00:05:28,00:05:30,I think I found a toupee.
-80,00:05:30,00:05:32,Our vic may be bald.
-81,00:05:32,00:05:38,"Thanks, that will help me distinguish it from the other severed heads I find out here."
-82,00:05:46,00:05:47,Whoa.
-83,00:05:51,00:05:53,What a waist.
-84,00:06:30,00:06:35,"GRISSOM: David, are you getting the liver temp or performing acupuncture?"
-85,00:06:35,00:06:38,"Well, his liver's not where it's supposed to be."
-86,00:06:38,00:06:39,Do you think this is some kind of birth defect?
-87,00:06:39,00:06:40,What do you think?
-88,00:06:41,00:06:43,I think I feel fat.
-89,00:06:43,00:06:44,Yes.
-90,00:06:44,00:06:46,Got the liver.
-91,00:06:46,00:06:49,Suicide?
-92,00:06:49,00:06:53,"SIDLE: A guy loses his shirt at the tables, decides to take a permanent nap on the tracks."
-93,00:06:53,00:06:55,(train whistle blows)
-94,00:06:55,00:06:56,(man screams)
-95,00:06:58,00:07:01,"Well, he died with his boots on."
-96,00:07:04,00:07:05,SUPER: You don't have to go through the dude's mail.
-97,00:07:05,00:07:07,Name's Manny Rupert.
-98,00:07:07,00:07:08,He's a new tenant.
-99,00:07:08,00:07:10,Paid first and last in cash.
-100,00:07:10,00:07:12,We got a lot of party people around here.
-101,00:07:12,00:07:16,"You know, so there's loud music every night, but this dude was pumping tunes at 7:00 in the morning."
-102,00:07:17,00:07:20,"You know, I knock on the door, I go in, that's when I see the dude all laid out on the bed."
-103,00:07:21,00:07:24,"Mm-hmm. Uh, figured I better step out, call in the big guns."
-104,00:07:24,00:07:26,That's you.
-105,00:07:26,00:07:28,"Um, listen..."
-106,00:07:28,00:07:33,"if my good citizenship is not going to be appreciated here, maybe I just don't call the next one in, you know?"
-107,00:07:33,00:07:34,Just stay here and shut up.
-108,00:07:34,00:07:39,"I'll be back to take your prints, assuming they're not already in the system."
-109,00:07:39,00:07:41,Um... okay.
-110,00:07:56,00:07:59,(indistinct radio communication)
-111,00:07:59,00:08:03,Which of the seven deadly sins are not represented here?
-112,00:08:04,00:08:06,Petecchial hemorrhaging.
-113,00:08:06,00:08:09,Could be from vomiting or asphyxiation.
-114,00:08:10,00:08:12,This guy was rolling on all cylinders.
-115,00:08:12,00:08:13,He was bound to throw a rod.
-116,00:08:13,00:08:15,Or somebody threw it for him.
-117,00:08:15,00:08:19,Pillow or a hand on the face certainly could've done the trick.
-118,00:08:19,00:08:26,"ROBBINS: Well, based on the lack of rigor, T.O.D.'s three or four hours ago; tell you more after we clean him up and open him up."
-119,00:08:29,00:08:31,Wallet's empty.
-120,00:08:33,00:08:38,"WILLOWS: You know what they say, it's not a real party till somebody breaks something."
-121,00:08:41,00:08:43,I got blood.
-122,00:08:48,00:08:49,I got a noisemaker.
-123,00:08:57,00:08:58,Bullet holes.
-124,00:08:58,00:09:01,Somebody shot out the mirror.
-125,00:09:01,00:09:03,No apparent gunshot wounds on the vic.
-126,00:09:03,00:09:06,"Let's get busy, boys."
-127,00:09:06,00:09:08,(train whistle blows)
-128,00:09:33,00:09:35,(shutter clicks)
-129,00:09:53,00:09:55,(stream flowing)
-130,00:10:26,00:10:28,(shutter clicks)
-131,00:11:35,00:11:37,This man's organs were displaced.
-132,00:11:37,00:11:43,It's similar to the way a pregnant woman's internal organs get rearranged to compensate for her expanding uterus.
-133,00:11:43,00:11:46,Some of these blisters are fresh.
-134,00:11:46,00:11:50,But there's evidence of scarring and irritation going back years.
-135,00:11:50,00:11:54,It all suggests a consistent long-term pressure on the waist.
-136,00:12:00,00:12:03,"So what, torture or self-inflicted?"
-137,00:12:03,00:12:04,I don't know.
-138,00:12:04,00:12:06,"But either way, it must have been agonizing."
-139,00:12:08,00:12:12,I'm beginning to sense that COD was not decapitation.
-140,00:12:13,00:12:15,There's a bullet hole...
-141,00:12:15,00:12:18,"COD, shot to the head with this."
-142,00:12:20,00:12:22,It looks like lead.
-143,00:12:22,00:12:24,.44 caliber is my guess.
-144,00:12:24,00:12:26,That's a cannon.
-145,00:12:28,00:12:32,"SURGEON: We managed to stop the bleeding, but his condition is critical."
-146,00:12:32,00:12:34,What are the options?
-147,00:12:35,00:12:37,We could try to remove the bullet.
-148,00:12:37,00:12:39,What are the risks?
-149,00:12:39,00:12:42,"If we go in, the vertebral artery could be impacted."
-150,00:12:42,00:12:46,He could bleed out or stroke out.
-151,00:12:46,00:12:49,Permanent incapacitation.
-152,00:12:49,00:12:51,And without surgery?
-153,00:12:51,00:12:55,"The bullet could migrate into the artery and, again, cause a stroke or kill him."
-154,00:12:55,00:13:00,Or it could stay there for years and do nothing.
-155,00:13:00,00:13:03,He might never wake up.
-156,00:13:03,00:13:05,What are the odds?
-157,00:13:05,00:13:08,"Mr. Grissom, this isn't a casino."
-158,00:13:08,00:13:10,I don't give odds.
-159,00:13:10,00:13:13,It's your call.
-160,00:13:13,00:13:16,Do it.
-161,00:13:28,00:13:31,(phone line ringing)
-162,00:13:31,00:13:32,"ELLIE: Hi, it's Ellie."
-163,00:13:32,00:13:33,You know the drill.
-164,00:13:33,00:13:34,(beep)
-165,00:13:34,00:13:38,"Ellie, this is Gil Grissom from the Las Vegas Crime Lab."
-166,00:13:38,00:13:40,I'm a friend of your father's.
-167,00:13:40,00:13:45,"I'm sorry to have to tell you this, but your dad's been shot."
-168,00:13:45,00:13:48,And his condition is serious.
-169,00:13:48,00:13:50,I think you should come and see him.
-170,00:13:50,00:13:53,It would help him a lot.
-171,00:13:53,00:13:57,Please call me at 702-555-0141.
-172,00:14:04,00:14:09,"White residue on your vic's so-called waist was topical cortisone, prescription strength."
-173,00:14:09,00:14:10,The guy had an itch.
-174,00:14:10,00:14:12,He was doing more than scratching.
-175,00:14:12,00:14:14,Topical doesn't get absorbed into the bloodstream.
-176,00:14:14,00:14:18,But Henry says that the guy's blood was flooded with cortisone.
-177,00:14:18,00:14:22,"That makes sense, as much orthopedic pain as the guy was in."
-178,00:14:24,00:14:27,You checking out my waist?
-179,00:14:27,00:14:29,I'm a 32-incher myself.
-180,00:14:29,00:14:30,Same as in college. Oh.
-181,00:14:30,00:14:32,Congratulations.
-182,00:14:32,00:14:35,Women aren't the only ones who feel the pressure to look good.
-183,00:14:35,00:14:39,"Time was, having a rotund belly was a sign of prosperity and success."
-184,00:14:39,00:14:42,"Now it just means you're a lazy glutton, not getting any."
-185,00:14:42,00:14:43,Fibers.
-186,00:14:43,00:14:51,The fibers from the victim's long johns are consistent with the fibers found in the burned-up clothes.
-187,00:14:51,00:14:53,STOKES: Means those were the clothes he was wearing.
-188,00:14:53,00:14:55,"Raw wool, dyed grey."
-189,00:14:55,00:14:56,Did you get a manufacturer?
-190,00:14:56,00:14:57,No one from my database.
-191,00:14:57,00:15:03,"But I did find pomegranate berry extract, used to turn wool dye in the 1800s."
-192,00:15:03,00:15:05,STOKES: Insect activity all over these fibers.
-193,00:15:06,00:15:07,Maybe moths or mites.
-194,00:15:08,00:15:09,Check it out.
-195,00:15:10,00:15:12,HODGES: Means that the fabric was old.
-196,00:15:14,00:15:16,"Vintage clothing, maybe?"
-197,00:15:16,00:15:18,Maybe.
-198,00:15:18,00:15:19,Did you analyze the bone fragments?
-199,00:15:20,00:15:21,I'm only one highly-gifted person.
-200,00:15:21,00:15:22,(sighs)
-201,00:15:22,00:15:23,I'll let you know.
-202,00:15:23,00:15:25,You been to the hospital?
-203,00:15:25,00:15:28,They're prepping him for surgery.
-204,00:15:28,00:15:31,I'll keep good thoughts.
-205,00:15:31,00:15:33,Mr. Party Till I Drop.
-206,00:15:33,00:15:35,His blood alcohol level was .28.
-207,00:15:35,00:15:36,Point two-eight?!
-208,00:15:37,00:15:38,That's barely conscious for most people.
-209,00:15:38,00:15:40,That's like falling-down drunk.
-210,00:15:40,00:15:42,Drunk just gets you in the door.
-211,00:15:42,00:15:47,"We're also talking cocaine, opiates, barbiturates, methamphetamine, MDMA, THC."
-212,00:15:47,00:15:51,Serum was milky white with triglycerides.
-213,00:15:51,00:15:52,Wow.
-214,00:15:52,00:15:55,"If it was illegal, fun or nasty, this guy was into it."
-215,00:15:55,00:15:56,"Yeah, I'll say."
-216,00:15:56,00:15:59,I just analyzed the secretion swabs you collected from his body.
-217,00:15:59,00:16:01,Was there enough for DNA?
-218,00:16:01,00:16:03,"Oh, yeah. The donor's female."
-219,00:16:03,00:16:06,She's consistent with both the blood from the mirror and the pubic hair from the victim's mouth.
-220,00:16:07,00:16:11,"And then I ran the profile through CODIS, and you got really lucky."
-221,00:16:11,00:16:12,She's a local prostitute.
-222,00:16:12,00:16:16,She's in the system for a trick roll.
-223,00:16:16,00:16:20,"ROBBINS: There's evidence of sexual activity in every orifice, including his ears."
-224,00:16:20,00:16:21,WILLOWS: You joking?
-225,00:16:21,00:16:22,No.
-226,00:16:22,00:16:26,"We've got pubic hairs, vaginal secretions."
-227,00:16:26,00:16:28,Maybe he suffocated during oral sex.
-228,00:16:28,00:16:30,Would you care to move on to stomach contents?
-229,00:16:31,00:16:32,Guess we're done with the appetizers.
-230,00:16:32,00:16:36,"Well, the main course was enough alcohol and cake to cater a wedding."
-231,00:16:36,00:16:39,"Well, at least he went out in style, hmm?"
-232,00:16:48,00:16:52,"ROBBINS: Alone, maybe none of it would've been fatal, but taken all together..."
-233,00:16:52,00:16:54,Means he died with a smile on his face.
-234,00:16:54,00:16:56,Among other things. (chuckles)
-235,00:16:56,00:16:58,(door opens)
-236,00:16:58,00:17:00,Hey.
-237,00:17:00,00:17:01,Just came from the hospital.
-238,00:17:04,00:17:06,Oh.
-239,00:17:06,00:17:07,"No, no. Traffic fatality."
-240,00:17:07,00:17:09,Sorry.
-241,00:17:11,00:17:14,(woman speaking over intercom )
-242,00:17:19,00:17:21,GRISSOM: Where's McKeen?
-243,00:17:21,00:17:23,I sent him home.
-244,00:17:24,00:17:26,Just kidding. He went to get something to eat.
-245,00:17:28,00:17:30,Brass just went into surgery.
-246,00:17:34,00:17:37,You two have known each other for a long time.
-247,00:17:39,00:17:41,We've worked together ever since he came from New Jersey.
-248,00:17:41,00:17:45,"Just between you and me, does he always wear a suit?"
-249,00:17:45,00:17:50,"Like when you guys go to dinner, the movies or whatever it is you do when you hang out."
-250,00:17:50,00:17:56,"'Cause I got to tell you, thought of him in a sweater kind of freaks me out."
-251,00:17:58,00:18:01,"We don't ""hang out,"" Greg."
-252,00:18:01,00:18:04,No kidding.
-253,00:18:04,00:18:05,I just assumed...
-254,00:18:05,00:18:07,ELLIE: What do you mean consent was given?
-255,00:18:07,00:18:10,"Nobody has asked my consent to do anything, and I'm his daughter."
-256,00:18:10,00:18:13,"NURSE: I understand you're upset, miss, but there's no need to take that tone."
-257,00:18:13,00:18:15,"ELLIE: Look, I'm just here to see my father, okay?"
-258,00:18:15,00:18:17,He's a cop.
-259,00:18:17,00:18:18,He's in surgery.
-260,00:18:18,00:18:22,The only thing you can do right now is take a seat and wait until he gets out.
-261,00:18:22,00:18:24,"Excuse me, Ellie? What?"
-262,00:18:24,00:18:25,I'm Gil Grissom.
-263,00:18:25,00:18:26,Thanks for coming.
-264,00:18:26,00:18:29,So I guess you're the one who's in charge.
-265,00:18:31,00:18:32,How long is his surgery going to take?
-266,00:18:33,00:18:34,Probably a few hours.
-267,00:18:36,00:18:41,"Look, I just got off a bus, I would really like to take a shower and change and maybe get a little rest."
-268,00:18:41,00:18:42,Do you have the keys to his house?
-269,00:18:42,00:18:44,No.
-270,00:18:44,00:18:47,"Well, you're a cop, right? How 'bout you just let me in?"
-271,00:18:49,00:18:51,"You know, there's a motel just down the street."
-272,00:18:51,00:18:52,I'll get you a room.
-273,00:18:52,00:18:54,Do you want to check my arms?
-274,00:18:54,00:18:56,Go ahead.
-275,00:18:56,00:18:59,All right? It looks like Daddy already told you all about me.
-276,00:18:59,00:19:01,I don't even know why I bothered to come.
-277,00:19:11,00:19:12,How's it going?
-278,00:19:12,00:19:13,You okay?
-279,00:19:13,00:19:15,I'm okay.
-280,00:19:17,00:19:19,That's a... man in a corset.
-281,00:19:19,00:19:21,Corset-training.
-282,00:19:21,00:19:23,A venerable practice.
-283,00:19:23,00:19:25,Maybe for Scarlett O'Hara.
-284,00:19:25,00:19:26,Since when was it equal opportunity?
-285,00:19:26,00:19:30,"In Victorian times, it was considered a staple of masculine attire."
-286,00:19:30,00:19:37,Students in British boarding schools were encouraged to lose an inch a year from the time they were 14 on.
-287,00:19:37,00:19:42,I guess I should feel comforted that sadistic ideas of beauty aren't restricted to women.
-288,00:19:42,00:19:44,Mm.
-289,00:19:44,00:19:48,"It's called a wasp-waist, which is revealing."
-290,00:19:48,00:19:52,A wasp is from the insect group hymenoptera.
-291,00:19:52,00:19:55,The notion of hymen indicates virginity.
-292,00:19:55,00:20:00,"In predacious wasps, the genitalia no longer functions as a reproductive organ."
-293,00:20:00,00:20:01,It's used as a stinger.
-294,00:20:01,00:20:04,Go in for sex and get stung.
-295,00:20:04,00:20:06,Pretty much every man's fear.
-296,00:20:06,00:20:08,Mm.
-297,00:20:10,00:20:15,"The victim was shot, body dumped, clothes burned."
-298,00:20:15,00:20:17,"The corset, too."
-299,00:20:17,00:20:22,"The bone fragments that Nick found at the crime scene were whalebone, which is what they used to make corsets out of."
-300,00:20:23,00:20:25,Where did you learn so much about corsets?
-301,00:20:25,00:20:27,I have my sources.
-302,00:20:35,00:20:38,"MAN: The embroidery is Chinese, silk."
-303,00:20:38,00:20:42,The lace is made from hand-tatted linen thread.
-304,00:20:42,00:20:44,Ribs are pure whalebone.
-305,00:20:44,00:20:46,They don't make them like this anymore.
-306,00:20:47,00:20:49,I'm sure the whales appreciate that.
-307,00:20:49,00:20:52,"How many, if any, do you sell to men?"
-308,00:20:52,00:20:53,More than you'd think.
-309,00:20:53,00:21:02,Many men with back problems have remarked how much better a boned-tabbed Elizabethan corset feels than a steel back brace.
-310,00:21:02,00:21:03,Oh.
-311,00:21:03,00:21:06,Let's focus on your customers that don't have back problems.
-312,00:21:06,00:21:09,"Ms. Sidle, people's private lives are their own business."
-313,00:21:09,00:21:10,I don't want to...
-314,00:21:11,00:21:14,"Mr. Phillipe, I have a dead man with a 19-inch waist and no way to identify him."
-315,00:21:14,00:21:17,Any help at all would be appreciated.
-316,00:21:17,00:21:18,Do you have a picture?
-317,00:21:18,00:21:20,I have a head shot.
-318,00:21:27,00:21:29,(hyperventilating)
-319,00:21:29,00:21:32,"Oh, my God, that's, uh, that's Caleb Carson."
-320,00:21:32,00:21:36,He comes in once a year for a re-stitch and reinforcement.
-321,00:21:36,00:21:40,"Is he into pain, masochism?"
-322,00:21:40,00:21:42,I don't know.
-323,00:21:42,00:21:43,How about cross-dressing?
-324,00:21:43,00:21:46,I seriously doubt that.
-325,00:21:46,00:21:47,How come?
-326,00:21:47,00:21:56,"Mr. Carson never spoke much, but he was the type of man who, when he came into the store, if I were sitting down, I'd immediately stand up."
-327,00:21:56,00:21:58,He treated me like a servant.
-328,00:21:58,00:22:02,"And, truth be told, he actually made me feel like one."
-329,00:22:02,00:22:06,I'm going to need his address.
-330,00:22:24,00:22:26,"Colonel Caleb ""C.C."" Carson."
-331,00:22:26,00:22:28,1864.
-332,00:22:31,00:22:32,SIDLE: Resembles the victim.
-333,00:22:33,00:22:34,At least from the neck up.
-334,00:22:35,00:22:38,These are Civil War-era photos.
-335,00:22:38,00:22:42,CURTIS: They didn't smile much back then.
-336,00:22:42,00:22:45,Subjects had to hold completely still for five minutes.
-337,00:22:45,00:22:47,"Otherwise, the exposure would blur."
-338,00:22:47,00:22:49,It hurt to hold a smile.
-339,00:22:50,00:22:52,Bet these hurt more.
-340,00:22:56,00:22:59,It's the same caliber killed the vic.
-341,00:22:59,00:23:01,They don't make 'em like they used to.
-342,00:23:07,00:23:09,"(""Dixie"" and gunfire play on recording )"
-343,00:23:32,00:23:34,Warrick just called from the hospital.
-344,00:23:34,00:23:36,They got the bullet.
-345,00:23:36,00:23:39,How's he doing?
-346,00:23:39,00:23:41,He hasn't regained consciousness yet.
-347,00:23:44,00:23:47,This fellow seems to have lost his way.
-348,00:23:47,00:23:51,Is this Gettysburg?
-349,00:23:51,00:23:53,You into military history?
-350,00:23:53,00:23:54,My dad was.
-351,00:23:54,00:23:59,"Used to spend the summer touring Pennsylvania in an RV, so I could learn things."
-352,00:23:59,00:24:01,You were a lucky girl.
-353,00:24:03,00:24:06,"Pickett's Charge, I think."
-354,00:24:06,00:24:10,The Confederates advanced from this position to Cemetery Ridge.
-355,00:24:10,00:24:14,"They marched to their doom, but kept their honor."
-356,00:24:14,00:24:18,Carson obviously was a Son of the South.
-357,00:24:25,00:24:27,Looks comfortable.
-358,00:24:27,00:24:32,"GRISSOM: Well, he was into discipline and self-denial."
-359,00:24:32,00:24:34,"This corset ties from the back, which means Mr."
-360,00:24:35,00:24:37,Carson couldn't have tied the laces by himself.
-361,00:24:37,00:24:39,He had to have help.
-362,00:24:53,00:24:56,Seems to run in the family.
-363,00:25:03,00:25:04,"Oh, I don't really know. I..."
-364,00:25:05,00:25:06,You know what?
-365,00:25:06,00:25:07,Let me call you back.
-366,00:25:07,00:25:08,Ellie?
-367,00:25:09,00:25:12,Hey.
-368,00:25:12,00:25:13,You know your father's out of surgery.
-369,00:25:13,00:25:14,Yeah. How's he doing?
-370,00:25:14,00:25:19,"It's a little too early to tell, but I know when he wakes up, he'll be happy to see you."
-371,00:25:19,00:25:21,You think so?
-372,00:25:21,00:25:23,I know so. You look good.
-373,00:25:23,00:25:26,"Yeah, you mean, I don't look like a crack whore anymore?"
-374,00:25:26,00:25:28,"That's not what I meant, but no."
-375,00:25:30,00:25:33,Does he ever talk about me?
-376,00:25:35,00:25:37,That's a no.
-377,00:25:37,00:25:40,"Look, what do you want me to say, hmm?"
-378,00:25:40,00:25:43,"It's not really about you right now, okay?"
-379,00:25:43,00:25:46,But the fact that you're here is saying a lot.
-380,00:25:48,00:25:51,"Yeah, well, thanks for clearing that up for me."
-381,00:25:58,00:26:01,Remember that trick roll that you pled out last year?
-382,00:26:01,00:26:03,I have no idea what you're talking about.
-383,00:26:03,00:26:06,Your DNA in our database says that you do.
-384,00:26:06,00:26:10,"We found your blood in Manny Rupert's apartment, with him lying there dead."
-385,00:26:12,00:26:16,"If you Belushi'd the guy, maybe you didn't mean to."
-386,00:26:17,00:26:19,Now would be the time to say it.
-387,00:26:19,00:26:20,"Look, I'm the victim here."
-388,00:26:21,00:26:22,"Funny, you don't look dead."
-389,00:26:22,00:26:25,(heavy sigh)
-390,00:26:25,00:26:27,"Look, the whole night started out normal, okay?"
-391,00:26:27,00:26:29,"I mean, he paid for everything."
-392,00:26:29,00:26:30,He was kind of fun.
-393,00:26:30,00:26:33,(cork popping) And he was up for anything.
-394,00:26:33,00:26:36,"I mean, there was champagne, E, coke, cake."
-395,00:26:36,00:26:39,And he wasn't even bad-looking.
-396,00:26:39,00:26:42,"So, how did it go so bad?"
-397,00:26:42,00:26:45,"Well, usually, a guy is good for maybe one or two."
-398,00:26:45,00:26:48,"This guy wanted more after six, if you know what I mean."
-399,00:26:48,00:26:52,"No ""off"" switch? No, not even close."
-400,00:26:52,00:26:55,"It's getting kind of late. No, look, you're not... you're not going anywhere!"
-401,00:26:55,00:26:57,"Okay, honey, you need to get some rest."
-402,00:26:57,00:26:59,No. I paid for the whole night!
-403,00:26:59,00:27:00,"(gunshots, screaming)"
-404,00:27:00,00:27:02,Son of a... Ow. Ouch. Ow.
-405,00:27:02,00:27:05,"He was whacked out, but he was alive when I bolted."
-406,00:27:05,00:27:11,"Well, that's a great story, but it doesn't sound like it was worth the ten G's that we found in your purse."
-407,00:27:11,00:27:12,I earned that money.
-408,00:27:13,00:27:17,"Don't take it personally, but you are not a $10,000-a-night girl."
-409,00:27:19,00:27:23,Are you finished processing those prints from Manny Rupert's apartment?
-410,00:27:23,00:27:24,Does it look like I have?
-411,00:27:24,00:27:26,"So far, the decedent's prints are everywhere."
-412,00:27:26,00:27:31,"Got them on liquor bottles, drug paraphernalia, the gun, the dishes."
-413,00:27:31,00:27:33,Are you looking for something in particular?
-414,00:27:33,00:27:36,We're looking for anything the hooker might have touched.
-415,00:27:36,00:27:40,We're thinking she might have slipped him something that pushed him over the edge.
-416,00:27:40,00:27:41,Uh...
-417,00:27:41,00:27:44,"I got her prints off of the bedpost, the chair, and a soda can."
-418,00:27:44,00:27:47,She didn't touch the booze or pills.
-419,00:27:47,00:27:49,Maybe she's in AA.
-420,00:27:49,00:27:50,Hmm.
-421,00:27:50,00:27:53,Maybe she's not a killer.
-422,00:27:53,00:27:56,I just can't believe it.
-423,00:27:56,00:28:00,I've been with Mr. Carson for years.
-424,00:28:00,00:28:02,How do you mean?
-425,00:28:02,00:28:03,Nothing like that.
-426,00:28:03,00:28:05,I was his driver.
-427,00:28:05,00:28:08,I take it you got my fingerprints from my work card?
-428,00:28:08,00:28:09,That's right.
-429,00:28:10,00:28:12,They were on one of Mr. Carson's corsets.
-430,00:28:12,00:28:15,I was also Mr. Carson's dresser.
-431,00:28:15,00:28:16,What did that entail?
-432,00:28:16,00:28:22,"In the 19th century, a dresser's job was to help gentleman soldiers with their equipment."
-433,00:28:22,00:28:25,So you dressed him in Rebel drag.
-434,00:28:25,00:28:30,"If you're asking, did I lace his corset, of course."
-435,00:28:30,00:28:32,Every morning.
-436,00:28:32,00:28:34,Did it hurt?
-437,00:28:34,00:28:36,Absolutely.
-438,00:28:36,00:28:38,But he controlled the pain.
-439,00:28:38,00:28:42,When was the last time you saw him?
-440,00:28:42,00:28:44,Yesterday morning.
-441,00:28:44,00:28:45,At the house.
-442,00:28:45,00:28:46,No.
-443,00:28:46,00:28:49,At a duel.
-444,00:28:49,00:28:51,A duel?
-445,00:28:51,00:28:52,Where?
-446,00:28:52,00:28:55,Gettysburg.
-447,00:28:58,00:29:00,(gunfire)
-448,00:29:00,00:29:02,(cannon fire)
-449,00:29:02,00:29:04,(screaming)
-450,00:29:04,00:29:05,(indistinct shouting)
-451,00:29:09,00:29:12,(men shouting)
-452,00:29:13,00:29:18,"If all you do is Civil War recreations, why were you and Caleb Carson having a duel?"
-453,00:29:18,00:29:21,"Ugh! Apparently, I offended him."
-454,00:29:21,00:29:24,"Honey, I'm right in the middle of Cemetery Ridge here."
-455,00:29:24,00:29:26,I care what we have for dinner.
-456,00:29:26,00:29:27,"Well, check the cupboards..."
-457,00:29:27,00:29:28,Sir! (grunts)
-458,00:29:28,00:29:30,You dishonor the dead.
-459,00:29:30,00:29:33,"Damn it, Caleb, that was my wife I was talking to."
-460,00:29:33,00:29:36,My great-great grandfather spilled blood on this hallowed ground.
-461,00:29:36,00:29:37,"Oh, really?"
-462,00:29:37,00:29:39,I didn't know Gettysburg was in Nevada.
-463,00:29:39,00:29:41,I demand satisfaction.
-464,00:29:42,00:29:45,"I challenge you to a duel, sir!"
-465,00:29:45,00:29:47,(heavy sigh)
-466,00:29:48,00:29:51,Okay. Fine.
-467,00:29:51,00:29:52,Let's do it.
-468,00:29:53,00:29:58,"I'd never reenacted a duel, so, uh, we agreed to meet on the field of honor with our pistols."
-469,00:29:58,00:29:59,And real bullets?
-470,00:29:59,00:30:00,"No, no, not in my gun."
-471,00:30:00,00:30:05,"No, I figured we were just going to blast some powder and then go out for pancakes."
-472,00:30:05,00:30:08,Caleb wanted a little more authenticity.
-473,00:30:08,00:30:10,Guns at the ready and...
-474,00:30:10,00:30:17,"one, two, three, four, five, six, seven, eight, nine, ten."
-475,00:30:18,00:30:19,(screams)
-476,00:30:19,00:30:20,(men shouting in distance)
-477,00:30:20,00:30:22,"But this isn't a recreation, you know."
-478,00:30:22,00:30:23,He really shot me.
-479,00:30:24,00:30:25,Almost nicked the bone.
-480,00:30:25,00:30:27,It's a good thing my second was there.
-481,00:30:28,00:30:30,He's a male nurse.
-482,00:30:31,00:30:36,"CURTIS: A man shoots you, and you don't call the police?"
-483,00:30:37,00:30:39,He shot me 'cause I was taking a cell phone call.
-484,00:30:39,00:30:42,What do you think he was going to do if went to the cops?
-485,00:30:42,00:30:45,"When that bullet hit me, I ran for my life."
-486,00:30:45,00:30:47,I jumped in my car and got the heck out of here.
-487,00:30:47,00:30:49,What about him?
-488,00:30:49,00:30:51,"Oh, we-we carpool."
-489,00:30:53,00:30:55,Colt .44?
-490,00:30:55,00:30:57,Yeah.
-491,00:30:57,00:30:58,Is that your dueling pistol?
-492,00:31:00,00:31:01,We're going to have to take that with us.
-493,00:31:01,00:31:03,Why?
-494,00:31:03,00:31:06,"I, too, demand satisfaction."
-495,00:31:06,00:31:08,(men shouting)
-496,00:31:12,00:31:13,Ready?
-497,00:31:13,00:31:15,Ready.
-498,00:31:15,00:31:24,"BOTH: One, two, three, four, five, six, seven, eight, nine, ten."
-499,00:31:24,00:31:28,(camera shutters clicking)
-500,00:31:32,00:31:33,I got blood drops.
-501,00:31:33,00:31:35,Heading way from Mr. Carson.
-502,00:31:35,00:31:38,Consistent with the duelist's story.
-503,00:31:38,00:31:39,(screams)
-504,00:31:41,00:31:44,(camera shutter clicking)
-505,00:31:44,00:31:46,"I got something here, too."
-506,00:31:46,00:31:51,This could be the blood that we didn't find at the train tracks-- It's a lot of blood.
-507,00:31:51,00:31:53,(camera shutter clicking)
-508,00:31:53,00:31:54,Maybe Carson was killed here.
-509,00:32:02,00:32:04,(muffled voices on intercom )
-510,00:32:07,00:32:08,"Yeah, she's here."
-511,00:32:08,00:32:12,Been drinking a ton of coffee and going outside for smokes; on her cell.
-512,00:32:13,00:32:15,"Not real sociable, you know?"
-513,00:32:15,00:32:17,You want me to keep an eye on her?
-514,00:32:17,00:32:19,GRISSOM: It sounds like you already are.
-515,00:32:19,00:32:21,Nah. I'm off the clock.
-516,00:32:21,00:32:24,"I'll stick around for awhile, let you know if there's any change."
-517,00:32:24,00:32:26,"Thank you, Nick."
-518,00:32:26,00:32:29,Did you compare the bullet from the victim to this pistol?
-519,00:32:29,00:32:33,"Uh, no, not yet, but, boss, I don't think that's your murder weapon."
-520,00:32:33,00:32:35,And you know this how?
-521,00:32:35,00:32:37,"Uh, here, I'll let Hawkeye show you."
-522,00:32:45,00:32:46,What is that?
-523,00:32:46,00:32:51,"DAWSON: Well, Hodges will have to confirm, but I'm pretty certain it's cream of wheat."
-524,00:32:53,00:32:55,So he's a cereal killer.
-525,00:32:55,00:32:57,"Snap, crackle and pop."
-526,00:32:57,00:33:05,"Uh, the dried powdered wheat particles actually augments the smoke, and, uh, seals the gunpowder in the cylinder."
-527,00:33:05,00:33:08,Which would be perfect for Civil War reenactments.
-528,00:33:08,00:33:15,Yeah. I don't think that Colt's fired a real bullet in quite a while.
-529,00:33:20,00:33:26,"BROWN: Miss Rupert, as far as we can tell, your brother died from diabetic shock."
-530,00:33:26,00:33:28,What? How?
-531,00:33:28,00:33:31,"Well, it seems that he went on a bender."
-532,00:33:31,00:33:36,"He consumed a great deal of alcohol, sugar and narcotics."
-533,00:33:36,00:33:38,Did he party like this a lot?
-534,00:33:38,00:33:40,No. No.
-535,00:33:40,00:33:43,He was just diagnosed as pre-diabetic.
-536,00:33:43,00:33:46,So he was aware of his condition.
-537,00:33:46,00:33:48,Yeah.
-538,00:33:48,00:33:51,Do you like that this was self-induced?
-539,00:33:51,00:33:53,(sighs)
-540,00:33:53,00:33:56,"You know, our family has a history of heart disease and diabetes."
-541,00:33:57,00:33:59,Both our parents died of heart attacks in their 40s.
-542,00:34:00,00:34:01,"Two of our grandparents, too."
-543,00:34:01,00:34:05,"Well, Manny turned 40 last week and he acted like it was a death sentence."
-544,00:34:05,00:34:13,"You know, but he... he always said, ""You can't fight bad genes."" You know, he had a vasectomy when he was 22."
-545,00:34:13,00:34:17,"Never got married, just didn't see the point."
-546,00:34:17,00:34:19,So he just... gave up?
-547,00:34:19,00:34:21,He quit?
-548,00:34:21,00:34:26,You don't know what it's like to live with a death sentence hanging over your head.
-549,00:34:26,00:34:30,"No. You're right, I don't."
-550,00:34:31,00:34:32,No.
-551,00:34:33,00:34:35,But I've seen what it's like to not have a choice.
-552,00:34:35,00:34:37,And he did.
-553,00:34:37,00:34:40,"He could have fought it, but he just chose not to."
-554,00:34:40,00:34:44,"You know, I just lost my brother, and you're judging him?"
-555,00:34:44,00:34:48,How dare you.
-556,00:34:48,00:34:51,I'm-I'm so very sorry for your loss.
-557,00:35:02,00:35:04,Am I interrupting?
-558,00:35:04,00:35:06,No.
-559,00:35:06,00:35:09,I just got a heads up from a friend in payroll at PERS.
-560,00:35:10,00:35:13,Ellie Brass just called about Jim's pension.
-561,00:35:13,00:35:17,She wanted to know how much there was and was she a beneficiary.
-562,00:35:17,00:35:20,This girl is circling like a vulture.
-563,00:35:20,00:35:24,Jim doesn't need this kind of energy around him now.
-564,00:35:24,00:35:29,Now... Ellie's been in a lot of trouble with the law.
-565,00:35:29,00:35:32,It wouldn't be difficult to chase her out of town.
-566,00:35:32,00:35:39,"Well, I'm sure he'd appreciate the offer, but I don't think he'd want you to do that."
-567,00:35:39,00:35:41,Excuse me.
-568,00:35:41,00:35:52,"I got the DNA results for your decapitated Civil War corset victim, and the blood from the field is a match to Carson, but the epithelials on the toupee from the train tracks are not."
-569,00:35:52,00:35:55,"So, were any of your suspects wearing a rug?"
-570,00:35:57,00:35:59,I can think of one.
-571,00:35:59,00:36:02,Please be careful.
-572,00:36:02,00:36:03,That's a very expensive piece.
-573,00:36:03,00:36:06,I don't understand why I'm here again.
-574,00:36:06,00:36:08,It's not a crime to lose your hair.
-575,00:36:08,00:36:11,Depends on where you lose it.
-576,00:36:11,00:36:17,"SIDLE: If it's on the train tracks near a decapitated body with the victim's blood on it, it's usually a crime."
-577,00:36:17,00:36:21,"Mr. Kimble, would you like to revise your prior statement?"
-578,00:36:21,00:36:25,Or would you prefer to wait in a cell while we match toupees?
-579,00:36:28,00:36:31,It was an accident.
-580,00:36:31,00:36:33,Which part?
-581,00:36:33,00:36:36,I suppose mostly the part when I shot him.
-582,00:36:38,00:36:40,I could see the insanity in his eyes.
-583,00:36:40,00:36:43,"(gunfire, yelling)"
-584,00:36:43,00:36:45,"Mr. Carson, you shot him!"
-585,00:36:45,00:36:47,You really shot him! And I intend to kill him.
-586,00:36:47,00:36:49,Get out of my way!
-587,00:36:49,00:36:50,KIMBLE: Please!
-588,00:36:50,00:36:52,(gunshot)
-589,00:36:54,00:36:58,He was really going to kill that man.
-590,00:36:58,00:37:01,"If it was an accident, you should have called 911."
-591,00:37:01,00:37:04,I couldn't let him be found like that.
-592,00:37:05,00:37:07,His corseting was private.
-593,00:37:07,00:37:12,"You're right, it's much better to have his body found stripped and dumped on some train tracks."
-594,00:37:12,00:37:17,His great-great-great grandfather died trying to stop a Yankee train from entering Virginia.
-595,00:37:17,00:37:22,Legend has it he stood square on the tracks firing at the engineer until the train ran him down.
-596,00:37:22,00:37:26,Mr. Carson spoke of it frequently.
-597,00:37:26,00:37:28,He said it was an honorable death.
-598,00:37:30,00:37:35,I was just trying to give him the same.
-599,00:37:35,00:37:38,"All right, look, are you guys arresting me or what?"
-600,00:37:38,00:37:40,"Hey, don't get in my face."
-601,00:37:40,00:37:42,All he told me was bring you here.
-602,00:37:44,00:37:47,Hi. Come in.
-603,00:37:54,00:37:56,This is your dad's office.
-604,00:37:56,00:37:58,"Yeah, I can read."
-605,00:37:58,00:38:01,Have a seat.
-606,00:38:01,00:38:03,Why?
-607,00:38:03,00:38:06,Why not?
-608,00:38:28,00:38:31,(chuckles)
-609,00:38:40,00:38:42,That's the reason we asked you to come in.
-610,00:38:42,00:38:46,That's like loving a puppy. That's easy.
-611,00:38:46,00:38:54,"You know, did you ever think that maybe he's better off just lying there and not waking up?"
-612,00:38:54,00:38:56,A lot easier.
-613,00:38:57,00:39:02,"DOCTOR: Every patient is different, but for now, no change is good news."
-614,00:39:02,00:39:04,(cell phone ringing)
-615,00:39:04,00:39:06,Excuse me.
-616,00:39:06,00:39:08,"Hi, Lindsey."
-617,00:39:08,00:39:13,"I know, I told you that I might be a little while."
-618,00:39:13,00:39:16,"No, I said that we couldtryand see a movie."
-619,00:39:16,00:39:17,"Hey, you know what?"
-620,00:39:17,00:39:20,I've got a friend here who is fighting for his life.
-621,00:39:20,00:39:22,I would appreciate a little understanding.
-622,00:39:22,00:39:24,I will talk about this with you later. Good-bye.
-623,00:39:25,00:39:27,How old?
-624,00:39:27,00:39:28,Fourteen.
-625,00:39:28,00:39:30,Supposedly.
-626,00:39:30,00:39:32,I got one of those in high school myself.
-627,00:39:32,00:39:35,World's pretty small at that age.
-628,00:39:35,00:39:37,"It feels pretty small to me right now, too."
-629,00:39:38,00:39:39,WOMAN (over P.A.): Code Blue alert.
-630,00:39:41,00:39:45,(monitor beeping rapidly)
-631,00:40:13,00:40:16,(beeping slows and stabilizes)
-632,00:40:44,00:40:47,(monitor beeping steadily)
-633,00:41:03,00:41:04,(weakly): Hey.
-634,00:41:04,00:41:06,Hey.
-635,00:41:06,00:41:08,Have some water.
-636,00:41:15,00:41:18,Thanks for not pulling the plug.
-637,00:41:18,00:41:21,"Your, uh, fan club is here."
-638,00:41:39,00:41:41,(sighs)
-639,00:41:47,00:41:49,I don't know.
-640,00:41:49,00:41:52,"Most people want to die in their sleep, I suppose."
-641,00:41:52,00:41:54,Never know that it's happening.
-642,00:41:54,00:41:56,Like a crime scene.
-643,00:41:57,00:41:59,"Surprise, you're dead."
-644,00:41:59,00:42:04,I'd prefer to know in advance that I was going to die.
-645,00:42:04,00:42:08,"I'd like to be diagnosed with cancer, actually."
-646,00:42:09,00:42:11,Have some time to prepare.
-647,00:42:11,00:42:13,(sighs)
-648,00:42:13,00:42:17,Go back to the rain forest one more time.
-649,00:42:17,00:42:18,RereadMoby Dick.
-650,00:42:20,00:42:23,Possibly enter an international chess tournament.
-651,00:42:24,00:42:28,At least have enough time to say good-bye to the people I love.
-652,00:42:32,00:42:36,I'm not ready to say good-bye.
+	start	end	text
+0	00:00:19	00:00:21	Get the paramedics.
+1	00:00:21	00:00:23	Hang in there, Jim, hang in there.
+2	00:00:23	00:00:24	Right here. Right here.
+3	00:00:24	00:00:27	Good job.
+4	00:00:28	00:00:30	Sir, sir, can you see me?
+5	00:00:30	00:00:32	Sir, can you hear me?
+6	00:00:33	00:00:34	Sir, stay with me. Sir?
+7	00:00:34	00:00:37	He's got a pulse of 120.
+8	00:01:25	00:01:31	55 year-old male, GSW left anterior chest, entering at the level of the deltoid and AC joint.
+9	00:01:31	00:01:32	Minimally responsive.
+10	00:01:32	00:01:33	He's a cop.
+11	00:01:33	00:01:39	Tachycardic in the 120s, BP's 86 over 40 and dropping, 02 stats in the 80s with assisted ventilation...
+12	00:01:40	00:01:42	Okay, we're losing a lot of blood here.
+13	00:01:42	00:01:44	We need two large-bore I.V.'s.
+14	00:01:44	00:01:46	Run the fluids wide, he's extremely hypotensive.
+15	00:01:46	00:01:49	Absent breath sounds on the left.
+16	00:01:49	00:01:50	Likely pneumothorax.
+17	00:01:50	00:01:53	Let's put in a chest tube and pressors for that BP stat.
+18	00:01:55	00:01:57	( machine beeps ) He's in V-fib!
+19	00:01:57	00:01:59	Paddles!
+20	00:02:07	00:02:09	Three hundred!
+21	00:02:09	00:02:11	Clear!
+22	00:02:13	00:02:14	Come on. Come on!
+23	00:02:14	00:02:15	Come on.
+24	00:02:16	00:02:17	Three-sixty!
+25	00:02:17	00:02:19	Clear!
+26	00:02:25	00:02:32	I envy these parents who live in ignorant bliss because I know how my daughter, Ellie, lives.
+27	00:02:32	00:02:35	I know the company she keeps and I know what she does to get by.
+28	00:02:35	00:02:46	And... anyway, I mean, I'm... I'm... a couple of nights ago I'm in LA and sitting in my car on Hollywood Boulevard watching her work a corner.
+29	00:02:46	00:02:50	And my eyes are playing tricks on me because I don't see what she's doing, I see what she was.
+30	00:02:50	00:02:56	I see a little six year-old girl with a ponytail, playing with crayons...
+31	00:02:59	00:03:02	...singing a little tune to herself.
+32	00:03:02	00:03:05	It's... I don't know, all I want to do is save her.
+33	00:03:06	00:03:09	But the thing is, you know, if something happened to me...
+34	00:03:09	00:03:13	I don't think Ellie would, uh... care.
+35	00:03:15	00:03:18	So I'm asking you to do me this favor.
+36	00:03:18	00:03:23	There's no one I trust more with my life, or my death... than you.
+37	00:03:24	00:03:27	Captain Brass was shot twice.
+38	00:03:27	00:03:29	First bullet lodged in his vest.
+39	00:03:29	00:03:33	Second entered through his axilla, hit an artery, and is lodged near his heart.
+40	00:03:33	00:03:35	He's has internal hemorrhaging.
+41	00:03:35	00:03:36	Any neural damage?
+42	00:03:36	00:03:38	We won't know until we stop the bleeding.
+43	00:03:38	00:03:40	If we stop it.
+44	00:03:40	00:03:42	Have next-of-kin been notified?
+45	00:03:42	00:03:46	For medical purposes, I have his power of attorney.
+46	00:03:46	00:03:50	You may have a decision to make.
+47	00:03:50	00:03:51	I'll let you know.
+48	00:03:57	00:03:59	Grissom.
+49	00:03:59	00:04:01	Yeah.
+50	00:04:01	00:04:04	Okay.
+51	00:04:06	00:04:08	D.B. in Henderson on the train tracks.
+52	00:04:10	00:04:12	I'll take the first watch.
+53	00:04:12	00:04:13	You go work.
+54	00:04:21	00:04:23	I just spoke with McKeen.
+55	00:04:23	00:04:24	I heard it's bad.
+56	00:04:24	00:04:26	Pretty bad.
+57	00:04:26	00:04:28	They're trying to stabilize him.
+58	00:04:29	00:04:32	The last train passed through here an hour ago.
+59	00:04:32	00:04:35	The engineer thought he saw a body on the track, but couldn't stop on time.
+60	00:04:35	00:04:39	He radioed dispatcher, who called 911.
+61	00:04:39	00:04:40	No I.D.
+62	00:04:40	00:04:43	Probably decapitated by the train.
+63	00:04:43	00:04:47	Well, if scavengers nicked his clothes, they left a nice pair of riding boots.
+64	00:04:47	00:04:51	They probably didn't have time to finish the job before other trains roared through here.
+65	00:04:51	00:04:56	Well, the engineer isn't saying anything else until his union rep gets here, which... could be a while.
+66	00:04:56	00:04:58	I'll let you know.
+67	00:04:58	00:05:00	Great.
+68	00:05:01	00:05:06	You know, there's not a lot of blood on the ground for a decapitation like this.
+69	00:05:07	00:05:10	Well, we don't know how far he was dragged.
+70	00:05:10	00:05:11	Where's the head?
+71	00:05:11	00:05:13	I'll find it.
+72	00:05:25	00:05:26	Hey, Nick.
+73	00:05:26	00:05:28	Yeah?
+74	00:05:28	00:05:30	I think I found a toupee.
+75	00:05:30	00:05:32	Our vic may be bald.
+76	00:05:32	00:05:38	Thanks, that will help me distinguish it from the other severed heads I find out here.
+77	00:05:46	00:05:47	Whoa.
+78	00:05:51	00:05:53	What a waist.
+79	00:06:30	00:06:35	David, are you getting the liver temp or performing acupuncture?
+80	00:06:35	00:06:38	Well, his liver's not where it's supposed to be.
+81	00:06:38	00:06:39	Do you think this is some kind of birth defect?
+82	00:06:39	00:06:40	What do you think?
+83	00:06:41	00:06:43	I think I feel fat.
+84	00:06:43	00:06:44	Yes.
+85	00:06:44	00:06:46	Got the liver.
+86	00:06:46	00:06:49	Suicide?
+87	00:06:49	00:06:53	A guy loses his shirt at the tables, decides to take a permanent nap on the tracks.
+88	00:06:58	00:07:01	Well, he died with his boots on.
+89	00:07:04	00:07:05	You don't have to go through the dude's mail.
+90	00:07:05	00:07:07	Name's Manny Rupert.
+91	00:07:07	00:07:08	He's a new tenant.
+92	00:07:08	00:07:10	Paid first and last in cash.
+93	00:07:10	00:07:12	We got a lot of party people around here.
+94	00:07:12	00:07:16	You know, so there's loud music every night, but this dude was pumping tunes 00 in the morning.
+95	00:07:17	00:07:20	You know, I knock on the door, I go in, that's when I see the dude all laid out on the bed.
+96	00:07:21	00:07:24	Mm-hmm. Uh, figured I better step out, call in the big guns.
+97	00:07:24	00:07:26	That's you.
+98	00:07:26	00:07:28	Um, listen...
+99	00:07:28	00:07:33	if my good citizenship is not going to be appreciated here, maybe I just don't call the next one in, you know?
+100	00:07:33	00:07:34	Just stay here and shut up.
+101	00:07:34	00:07:39	I'll be back to take your prints, assuming they're not already in the system.
+102	00:07:39	00:07:41	Um... okay.
+103	00:07:59	00:08:03	Which of the seven deadly sins are not represented here?
+104	00:08:04	00:08:06	Petecchial hemorrhaging.
+105	00:08:06	00:08:09	Could be from vomiting or asphyxiation.
+106	00:08:10	00:08:12	This guy was rolling on all cylinders.
+107	00:08:12	00:08:13	He was bound to throw a rod.
+108	00:08:13	00:08:15	Or somebody threw it for him.
+109	00:08:15	00:08:19	Pillow or a hand on the face certainly could've done the trick.
+110	00:08:19	00:08:26	Well, based on the lack of rigor, T.O.D.'s three or four hours ago; tell you more after we clean him up and open him up.
+111	00:08:29	00:08:31	Wallet's empty.
+112	00:08:33	00:08:38	You know what they say, it's not a real party till somebody breaks something.
+113	00:08:41	00:08:43	I got blood.
+114	00:08:48	00:08:49	I got a noisemaker.
+115	00:08:57	00:08:58	Bullet holes.
+116	00:08:58	00:09:01	Somebody shot out the mirror.
+117	00:09:01	00:09:03	No apparent gunshot wounds on the vic.
+118	00:09:03	00:09:06	Let's get busy, boys.
+119	00:11:35	00:11:37	This man's organs were displaced.
+120	00:11:37	00:11:43	It's similar to the way a pregnant woman's internal organs get rearranged to compensate for her expanding uterus.
+121	00:11:43	00:11:46	Some of these blisters are fresh.
+122	00:11:46	00:11:50	But there's evidence of scarring and irritation going back years.
+123	00:11:50	00:11:54	It all suggests a consistent long-term pressure on the waist.
+124	00:12:00	00:12:03	So what, torture or self-inflicted?
+125	00:12:03	00:12:04	I don't know.
+126	00:12:04	00:12:06	But either way, it must have been agonizing.
+127	00:12:08	00:12:12	I'm beginning to sense that COD was not decapitation.
+128	00:12:13	00:12:15	There's a bullet hole...
+129	00:12:15	00:12:18	COD, shot to the head with this.
+130	00:12:20	00:12:22	It looks like lead.
+131	00:12:22	00:12:24	.44 caliber is my guess.
+132	00:12:24	00:12:26	That's a cannon.
+133	00:12:28	00:12:32	We managed to stop the bleeding, but his condition is critical.
+134	00:12:32	00:12:34	What are the options?
+135	00:12:35	00:12:37	We could try to remove the bullet.
+136	00:12:37	00:12:39	What are the risks?
+137	00:12:39	00:12:42	If we go in, the vertebral artery could be impacted.
+138	00:12:42	00:12:46	He could bleed out or stroke out.
+139	00:12:46	00:12:49	Permanent incapacitation.
+140	00:12:49	00:12:51	And without surgery?
+141	00:12:51	00:12:55	The bullet could migrate into the artery and, again, cause a stroke or kill him.
+142	00:12:55	00:13:00	Or it could stay there for years and do nothing.
+143	00:13:00	00:13:03	He might never wake up.
+144	00:13:03	00:13:05	What are the odds?
+145	00:13:05	00:13:08	Mr. Grissom, this isn't a casino.
+146	00:13:08	00:13:10	I don't give odds.
+147	00:13:10	00:13:13	It's your call.
+148	00:13:13	00:13:16	Do it.
+149	00:13:31	00:13:32	Hi, it's Ellie.
+150	00:13:32	00:13:33	You know the drill.
+151	00:13:34	00:13:38	Ellie, this is Gil Grissom from the Las Vegas Crime Lab.
+152	00:13:38	00:13:40	I'm a friend of your father's.
+153	00:13:40	00:13:45	I'm sorry to have to tell you this, but your dad's been shot.
+154	00:13:45	00:13:48	And his condition is serious.
+155	00:13:48	00:13:50	I think you should come and see him.
+156	00:13:50	00:13:53	It would help him a lot.
+157	00:13:53	00:13:57	Please call me at 702-555-0141.
+158	00:14:04	00:14:09	White residue on your vic's so-called waist was topical cortisone, prescription strength.
+159	00:14:09	00:14:10	The guy had an itch.
+160	00:14:10	00:14:12	He was doing more than scratching.
+161	00:14:12	00:14:14	Topical doesn't get absorbed into the bloodstream.
+162	00:14:14	00:14:18	But Henry says that the guy's blood was flooded with cortisone.
+163	00:14:18	00:14:22	That makes sense, as much orthopedic pain as the guy was in.
+164	00:14:24	00:14:27	You checking out my waist?
+165	00:14:27	00:14:29	I'm a 32-incher myself.
+166	00:14:29	00:14:30	Same as in college. Oh.
+167	00:14:30	00:14:32	Congratulations.
+168	00:14:32	00:14:35	Women aren't the only ones who feel the pressure to look good.
+169	00:14:35	00:14:39	Time was, having a rotund belly was a sign of prosperity and success.
+170	00:14:39	00:14:42	Now it just means you're a lazy glutton, not getting any.
+171	00:14:42	00:14:43	Fibers.
+172	00:14:43	00:14:51	The fibers from the victim's long johns are consistent with the fibers found in the burned-up clothes.
+173	00:14:51	00:14:53	Means those were the clothes he was wearing.
+174	00:14:53	00:14:55	Raw wool, dyed grey.
+175	00:14:55	00:14:56	Did you get a manufacturer?
+176	00:14:56	00:14:57	No one from my database.
+177	00:14:57	00:15:03	But I did find pomegranate berry extract, used to turn wool dye in the 1800s.
+178	00:15:03	00:15:05	Insect activity all over these fibers.
+179	00:15:06	00:15:07	Maybe moths or mites.
+180	00:15:08	00:15:09	Check it out.
+181	00:15:10	00:15:12	Means that the fabric was old.
+182	00:15:14	00:15:16	Vintage clothing, maybe?
+183	00:15:16	00:15:18	Maybe.
+184	00:15:18	00:15:19	Did you analyze the bone fragments?
+185	00:15:20	00:15:21	I'm only one highly-gifted person.
+186	00:15:22	00:15:23	I'll let you know.
+187	00:15:23	00:15:25	You been to the hospital?
+188	00:15:25	00:15:28	They're prepping him for surgery.
+189	00:15:28	00:15:31	I'll keep good thoughts.
+190	00:15:31	00:15:33	Mr. Party Till I Drop.
+191	00:15:33	00:15:35	His blood alcohol level was .28.
+192	00:15:35	00:15:36	Point two-eight?!
+193	00:15:37	00:15:38	That's barely conscious for most people.
+194	00:15:38	00:15:40	That's like falling-down drunk.
+195	00:15:40	00:15:42	Drunk just gets you in the door.
+196	00:15:42	00:15:47	We're also talking cocaine, opiates, barbiturates, methamphetamine, MDMA, THC.
+197	00:15:47	00:15:51	Serum was milky white with triglycerides.
+198	00:15:51	00:15:52	Wow.
+199	00:15:52	00:15:55	If it was illegal, fun or nasty, this guy was into it.
+200	00:15:55	00:15:56	Yeah, I'll say.
+201	00:15:56	00:15:59	I just analyzed the secretion swabs you collected from his body.
+202	00:15:59	00:16:01	Was there enough for DNA?
+203	00:16:01	00:16:03	Oh, yeah. The donor's female.
+204	00:16:03	00:16:06	She's consistent with both the blood from the mirror and the pubic hair from the victim's mouth.
+205	00:16:07	00:16:11	And then I ran the profile through CODIS, and you got really lucky.
+206	00:16:11	00:16:12	She's a local prostitute.
+207	00:16:12	00:16:16	She's in the system for a trick roll.
+208	00:16:16	00:16:20	There's evidence of sexual activity in every orifice, including his ears.
+209	00:16:20	00:16:21	You joking?
+210	00:16:21	00:16:22	No.
+211	00:16:22	00:16:26	We've got pubic hairs, vaginal secretions.
+212	00:16:26	00:16:28	Maybe he suffocated during oral sex.
+213	00:16:28	00:16:30	Would you care to move on to stomach contents?
+214	00:16:31	00:16:32	Guess we're done with the appetizers.
+215	00:16:32	00:16:36	Well, the main course was enough alcohol and cake to cater a wedding.
+216	00:16:36	00:16:39	Well, at least he went out in style, hmm?
+217	00:16:48	00:16:52	Alone, maybe none of it would've been fatal, but taken all together...
+218	00:16:52	00:16:54	Means he died with a smile on his face.
+219	00:16:54	00:16:56	Among other things. ( chuckles )
+220	00:16:58	00:17:00	Hey.
+221	00:17:00	00:17:01	Just came from the hospital.
+222	00:17:04	00:17:06	Oh.
+223	00:17:06	00:17:07	No, no. Traffic fatality.
+224	00:17:07	00:17:09	Sorry.
+225	00:17:19	00:17:21	Where's McKeen?
+226	00:17:21	00:17:23	I sent him home.
+227	00:17:24	00:17:26	Just kidding. He went to get something to eat.
+228	00:17:28	00:17:30	Brass just went into surgery.
+229	00:17:34	00:17:37	You two have known each other for a long time.
+230	00:17:39	00:17:41	We've worked together ever since he came from New Jersey.
+231	00:17:41	00:17:45	Just between you and me, does he always wear a suit?
+232	00:17:45	00:17:50	Like when you guys go to dinner, the movies or whatever it is you do when you hang out.
+233	00:17:50	00:17:56	'Cause I got to tell you, thought of him in a sweater kind of freaks me out.
+234	00:17:58	00:18:01	We don't hang out, Greg.
+235	00:18:01	00:18:04	No kidding.
+236	00:18:04	00:18:05	I just assumed...
+237	00:18:05	00:18:07	What do you mean consent was given?
+238	00:18:07	00:18:10	Nobody has asked my consent to do anything, and I'm his daughter.
+239	00:18:10	00:18:13	I understand you're upset, miss, but there's no need to take that tone.
+240	00:18:13	00:18:15	Look, I'm just here to see my father, okay?
+241	00:18:15	00:18:17	He's a cop.
+242	00:18:17	00:18:18	He's in surgery.
+243	00:18:18	00:18:22	The only thing you can do right now is take a seat and wait until he gets out.
+244	00:18:22	00:18:24	Excuse me, Ellie? What?
+245	00:18:24	00:18:25	I'm Gil Grissom.
+246	00:18:25	00:18:26	Thanks for coming.
+247	00:18:26	00:18:29	So I guess you're the one who's in charge.
+248	00:18:31	00:18:32	How long is his surgery going to take?
+249	00:18:33	00:18:34	Probably a few hours.
+250	00:18:36	00:18:41	Look, I just got off a bus, I would really like to take a shower and change and maybe get a little rest.
+251	00:18:41	00:18:42	Do you have the keys to his house?
+252	00:18:42	00:18:44	No.
+253	00:18:44	00:18:47	Well, you're a cop, right? How 'bout you just let me in?
+254	00:18:49	00:18:51	You know, there's a motel just down the street.
+255	00:18:51	00:18:52	I'll get you a room.
+256	00:18:52	00:18:54	Do you want to check my arms?
+257	00:18:54	00:18:56	Go ahead.
+258	00:18:56	00:18:59	All right? It looks like Daddy already told you all about me.
+259	00:18:59	00:19:01	I don't even know why I bothered to come.
+260	00:19:11	00:19:12	How's it going?
+261	00:19:12	00:19:13	You okay?
+262	00:19:13	00:19:15	I'm okay.
+263	00:19:17	00:19:19	That's a... man in a corset.
+264	00:19:19	00:19:21	Corset-training.
+265	00:19:21	00:19:23	A venerable practice.
+266	00:19:23	00:19:25	Maybe for Scarlett O'Hara.
+267	00:19:25	00:19:26	Since when was it equal opportunity?
+268	00:19:26	00:19:30	In Victorian times, it was considered a staple of masculine attire.
+269	00:19:30	00:19:37	Students in British boarding schools were encouraged to lose an inch a year from the time they were 14 on.
+270	00:19:37	00:19:42	I guess I should feel comforted that sadistic ideas of beauty aren't restricted to women.
+271	00:19:42	00:19:44	Mm.
+272	00:19:44	00:19:48	It's called a wasp-waist, which is revealing.
+273	00:19:48	00:19:52	A wasp is from the insect group hymenoptera.
+274	00:19:52	00:19:55	The notion of hymen indicates virginity.
+275	00:19:55	00:20:00	In predacious wasps, the genitalia no longer functions as a reproductive organ.
+276	00:20:00	00:20:01	It's used as a stinger.
+277	00:20:01	00:20:04	Go in for sex and get stung.
+278	00:20:04	00:20:06	Pretty much every man's fear.
+279	00:20:06	00:20:08	Mm.
+280	00:20:10	00:20:15	The victim was shot, body dumped, clothes burned.
+281	00:20:15	00:20:17	The corset, too.
+282	00:20:17	00:20:22	The bone fragments that Nick found at the crime scene were whalebone, which is what they used to make corsets out of.
+283	00:20:23	00:20:25	Where did you learn so much about corsets?
+284	00:20:25	00:20:27	I have my sources.
+285	00:20:35	00:20:38	The embroidery is Chinese, silk.
+286	00:20:38	00:20:42	The lace is made from hand-tatted linen thread.
+287	00:20:42	00:20:44	Ribs are pure whalebone.
+288	00:20:44	00:20:46	They don't make them like this anymore.
+289	00:20:47	00:20:49	I'm sure the whales appreciate that.
+290	00:20:49	00:20:52	How many, if any, do you sell to men?
+291	00:20:52	00:20:53	More than you'd think.
+292	00:20:53	00:21:02	Many men with back problems have remarked how much better a boned-tabbed Elizabethan corset feels than a steel back brace.
+293	00:21:02	00:21:03	Oh.
+294	00:21:03	00:21:06	Let's focus on your customers that don't have back problems.
+295	00:21:06	00:21:09	Ms. Sidle, people's private lives are their own business.
+296	00:21:09	00:21:10	I don't want to...
+297	00:21:11	00:21:14	Mr. Phillipe, I have a dead man with a 19-inch waist and no way to identify him.
+298	00:21:14	00:21:17	Any help at all would be appreciated.
+299	00:21:17	00:21:18	Do you have a picture?
+300	00:21:18	00:21:20	I have a head shot.
+301	00:21:29	00:21:32	Oh, my God, that's, uh, that's Caleb Carson.
+302	00:21:32	00:21:36	He comes in once a year for a re-stitch and reinforcement.
+303	00:21:36	00:21:40	Is he into pain, masochism?
+304	00:21:40	00:21:42	I don't know.
+305	00:21:42	00:21:43	How about cross-dressing?
+306	00:21:43	00:21:46	I seriously doubt that.
+307	00:21:46	00:21:47	How come?
+308	00:21:47	00:21:56	Mr. Carson never spoke much, but he was the type of man who, when he came into the store, if I were sitting down, I'd immediately stand up.
+309	00:21:56	00:21:58	He treated me like a servant.
+310	00:21:58	00:22:02	And, truth be told, he actually made me feel like one.
+311	00:22:02	00:22:06	I'm going to need his address.
+312	00:22:24	00:22:26	Colonel Caleb C.C. Carson.
+313	00:22:26	00:22:28	1864.
+314	00:22:31	00:22:32	Resembles the victim.
+315	00:22:33	00:22:34	At least from the neck up.
+316	00:22:35	00:22:38	These are Civil War-era photos.
+317	00:22:38	00:22:42	They didn't smile much back then.
+318	00:22:42	00:22:45	Subjects had to hold completely still for five minutes.
+319	00:22:45	00:22:47	Otherwise, the exposure would blur.
+320	00:22:47	00:22:49	It hurt to hold a smile.
+321	00:22:50	00:22:52	Bet these hurt more.
+322	00:22:56	00:22:59	It's the same caliber killed the vic.
+323	00:22:59	00:23:01	They don't make 'em like they used to.
+324	00:23:32	00:23:34	Warrick just called from the hospital.
+325	00:23:34	00:23:36	They got the bullet.
+326	00:23:36	00:23:39	How's he doing?
+327	00:23:39	00:23:41	He hasn't regained consciousness yet.
+328	00:23:44	00:23:47	This fellow seems to have lost his way.
+329	00:23:47	00:23:51	Is this Gettysburg?
+330	00:23:51	00:23:53	You into military history?
+331	00:23:53	00:23:54	My dad was.
+332	00:23:54	00:23:59	Used to spend the summer touring Pennsylvania in an RV, so I could learn things.
+333	00:23:59	00:24:01	You were a lucky girl.
+334	00:24:03	00:24:06	Pickett's Charge, I think.
+335	00:24:06	00:24:10	The Confederates advanced from this position to Cemetery Ridge.
+336	00:24:10	00:24:14	They marched to their doom, but kept their honor.
+337	00:24:14	00:24:18	Carson obviously was a Son of the South.
+338	00:24:25	00:24:27	Looks comfortable.
+339	00:24:27	00:24:32	Well, he was into discipline and self-denial.
+340	00:24:32	00:24:34	This corset ties from the back, which means Mr.
+341	00:24:35	00:24:37	Carson couldn't have tied the laces by himself.
+342	00:24:37	00:24:39	He had to have help.
+343	00:24:53	00:24:56	Seems to run in the family.
+344	00:25:03	00:25:04	Oh, I don't really know. I...
+345	00:25:05	00:25:06	You know what?
+346	00:25:06	00:25:07	Let me call you back.
+347	00:25:07	00:25:08	Ellie?
+348	00:25:09	00:25:12	Hey.
+349	00:25:12	00:25:13	You know your father's out of surgery.
+350	00:25:13	00:25:14	Yeah. How's he doing?
+351	00:25:14	00:25:19	It's a little too early to tell, but I know when he wakes up, he'll be happy to see you.
+352	00:25:19	00:25:21	You think so?
+353	00:25:21	00:25:23	I know so. You look good.
+354	00:25:23	00:25:26	Yeah, you mean, I don't look like a crack whore anymore?
+355	00:25:26	00:25:28	That's not what I meant, but no.
+356	00:25:30	00:25:33	Does he ever talk about me?
+357	00:25:35	00:25:37	That's a no.
+358	00:25:37	00:25:40	Look, what do you want me to say, hmm?
+359	00:25:40	00:25:43	It's not really about you right now, okay?
+360	00:25:43	00:25:46	But the fact that you're here is saying a lot.
+361	00:25:48	00:25:51	Yeah, well, thanks for clearing that up for me.
+362	00:25:58	00:26:01	Remember that trick roll that you pled out last year?
+363	00:26:01	00:26:03	I have no idea what you're talking about.
+364	00:26:03	00:26:06	Your DNA in our database says that you do.
+365	00:26:06	00:26:10	We found your blood in Manny Rupert's apartment, with him lying there dead.
+366	00:26:12	00:26:16	If you Belushi'd the guy, maybe you didn't mean to.
+367	00:26:17	00:26:19	Now would be the time to say it.
+368	00:26:19	00:26:20	Look, I'm the victim here.
+369	00:26:21	00:26:22	Funny, you don't look dead.
+370	00:26:25	00:26:27	Look, the whole night started out normal, okay?
+371	00:26:27	00:26:29	I mean, he paid for everything.
+372	00:26:29	00:26:30	He was kind of fun.
+373	00:26:30	00:26:33	( cork popping ) And he was up for anything.
+374	00:26:33	00:26:36	I mean, there was champagne, E, coke, cake.
+375	00:26:36	00:26:39	And he wasn't even bad-looking.
+376	00:26:39	00:26:42	So, how did it go so bad?
+377	00:26:42	00:26:45	Well, usually, a guy is good for maybe one or two.
+378	00:26:45	00:26:48	This guy wanted more after six, if you know what I mean.
+379	00:26:48	00:26:52	No off switch? No, not even close.
+380	00:26:52	00:26:55	It's getting kind of late. No, look, you're not... you're not going anywhere!
+381	00:26:55	00:26:57	Okay, honey, you need to get some rest.
+382	00:26:57	00:26:59	No. I paid for the whole night!
+383	00:27:00	00:27:02	Son of a... Ow. Ouch. Ow.
+384	00:27:02	00:27:05	He was whacked out, but he was alive when I bolted.
+385	00:27:05	00:27:11	Well, that's a great story, but it doesn't sound like it was worth the ten G's that we found in your purse.
+386	00:27:11	00:27:12	I earned that money.
+387	00:27:13	00:27:17	Don't take it personally, but you are not a $10,000-a-night girl.
+388	00:27:19	00:27:23	Are you finished processing those prints from Manny Rupert's apartment?
+389	00:27:23	00:27:24	Does it look like I have?
+390	00:27:24	00:27:26	So far, the decedent's prints are everywhere.
+391	00:27:26	00:27:31	Got them on liquor bottles, drug paraphernalia, the gun, the dishes.
+392	00:27:31	00:27:33	Are you looking for something in particular?
+393	00:27:33	00:27:36	We're looking for anything the hooker might have touched.
+394	00:27:36	00:27:40	We're thinking she might have slipped him something that pushed him over the edge.
+395	00:27:40	00:27:41	Uh...
+396	00:27:41	00:27:44	I got her prints off of the bedpost, the chair, and a soda can.
+397	00:27:44	00:27:47	She didn't touch the booze or pills.
+398	00:27:47	00:27:49	Maybe she's in AA.
+399	00:27:49	00:27:50	Hmm.
+400	00:27:50	00:27:53	Maybe she's not a killer.
+401	00:27:53	00:27:56	I just can't believe it.
+402	00:27:56	00:28:00	I've been with Mr. Carson for years.
+403	00:28:00	00:28:02	How do you mean?
+404	00:28:02	00:28:03	Nothing like that.
+405	00:28:03	00:28:05	I was his driver.
+406	00:28:05	00:28:08	I take it you got my fingerprints from my work card?
+407	00:28:08	00:28:09	That's right.
+408	00:28:10	00:28:12	They were on one of Mr. Carson's corsets.
+409	00:28:12	00:28:15	I was also Mr. Carson's dresser.
+410	00:28:15	00:28:16	What did that entail?
+411	00:28:16	00:28:22	In the 19th century, a dresser's job was to help gentleman soldiers with their equipment.
+412	00:28:22	00:28:25	So you dressed him in Rebel drag.
+413	00:28:25	00:28:30	If you're asking, did I lace his corset, of course.
+414	00:28:30	00:28:32	Every morning.
+415	00:28:32	00:28:34	Did it hurt?
+416	00:28:34	00:28:36	Absolutely.
+417	00:28:36	00:28:38	But he controlled the pain.
+418	00:28:38	00:28:42	When was the last time you saw him?
+419	00:28:42	00:28:44	Yesterday morning.
+420	00:28:44	00:28:45	At the house.
+421	00:28:45	00:28:46	No.
+422	00:28:46	00:28:49	At a duel.
+423	00:28:49	00:28:51	A duel?
+424	00:28:51	00:28:52	Where?
+425	00:28:52	00:28:55	Gettysburg.
+426	00:29:13	00:29:18	If all you do is Civil War recreations, why were you and Caleb Carson having a duel?
+427	00:29:18	00:29:21	Ugh! Apparently, I offended him.
+428	00:29:21	00:29:24	Honey, I'm right in the middle of Cemetery Ridge here.
+429	00:29:24	00:29:26	I care what we have for dinner.
+430	00:29:26	00:29:27	Well, check the cupboards...
+431	00:29:27	00:29:28	Sir! ( grunts )
+432	00:29:28	00:29:30	You dishonor the dead.
+433	00:29:30	00:29:33	Damn it, Caleb, that was my wife I was talking to.
+434	00:29:33	00:29:36	My great-great grandfather spilled blood on this hallowed ground.
+435	00:29:36	00:29:37	Oh, really?
+436	00:29:37	00:29:39	I didn't know Gettysburg was in Nevada.
+437	00:29:39	00:29:41	I demand satisfaction.
+438	00:29:42	00:29:45	I challenge you to a duel, sir!
+439	00:29:48	00:29:51	Okay. Fine.
+440	00:29:51	00:29:52	Let's do it.
+441	00:29:53	00:29:58	I'd never reenacted a duel, so, uh, we agreed to meet on the field of honor with our pistols.
+442	00:29:58	00:29:59	And real bullets?
+443	00:29:59	00:30:00	No, no, not in my gun.
+444	00:30:00	00:30:05	No, I figured we were just going to blast some powder and then go out for pancakes.
+445	00:30:05	00:30:08	Caleb wanted a little more authenticity.
+446	00:30:08	00:30:10	Guns at the ready and...
+447	00:30:10	00:30:17	one, two, three, four, five, six, seven, eight, nine, ten.
+448	00:30:20	00:30:22	But this isn't a recreation, you know.
+449	00:30:22	00:30:23	He really shot me.
+450	00:30:24	00:30:25	Almost nicked the bone.
+451	00:30:25	00:30:27	It's a good thing my second was there.
+452	00:30:28	00:30:30	He's a male nurse.
+453	00:30:31	00:30:36	A man shoots you, and you don't call the police?
+454	00:30:37	00:30:39	He shot me 'cause I was taking a cell phone call.
+455	00:30:39	00:30:42	What do you think he was going to do if went to the cops?
+456	00:30:42	00:30:45	When that bullet hit me, I ran for my life.
+457	00:30:45	00:30:47	I jumped in my car and got the heck out of here.
+458	00:30:47	00:30:49	What about him?
+459	00:30:49	00:30:51	Oh, we-we carpool.
+460	00:30:53	00:30:55	Colt .44?
+461	00:30:55	00:30:57	Yeah.
+462	00:30:57	00:30:58	Is that your dueling pistol?
+463	00:31:00	00:31:01	We're going to have to take that with us.
+464	00:31:01	00:31:03	Why?
+465	00:31:03	00:31:06	I, too, demand satisfaction.
+466	00:31:12	00:31:13	Ready?
+467	00:31:13	00:31:15	Ready.
+468	00:31:15	00:31:24	One, two, three, four, five, six, seven, eight, nine, ten.
+469	00:31:32	00:31:33	I got blood drops.
+470	00:31:33	00:31:35	Heading way from Mr. Carson.
+471	00:31:35	00:31:38	Consistent with the duelist's story.
+472	00:31:44	00:31:46	I got something here, too.
+473	00:31:46	00:31:51	This could be the blood that we didn't find at the train tracks-- It's a lot of blood.
+474	00:31:53	00:31:54	Maybe Carson was killed here.
+475	00:32:07	00:32:08	Yeah, she's here.
+476	00:32:08	00:32:12	Been drinking a ton of coffee and going outside for smokes; on her cell.
+477	00:32:13	00:32:15	Not real sociable, you know?
+478	00:32:15	00:32:17	You want me to keep an eye on her?
+479	00:32:17	00:32:19	It sounds like you already are.
+480	00:32:19	00:32:21	Nah. I'm off the clock.
+481	00:32:21	00:32:24	I'll stick around for awhile, let you know if there's any change.
+482	00:32:24	00:32:26	Thank you, Nick.
+483	00:32:26	00:32:29	Did you compare the bullet from the victim to this pistol?
+484	00:32:29	00:32:33	Uh, no, not yet, but, boss, I don't think that's your murder weapon.
+485	00:32:33	00:32:35	And you know this how?
+486	00:32:35	00:32:37	Uh, here, I'll let Hawkeye show you.
+487	00:32:45	00:32:46	What is that?
+488	00:32:46	00:32:51	Well, Hodges will have to confirm, but I'm pretty certain it's cream of wheat.
+489	00:32:53	00:32:55	So he's a cereal killer.
+490	00:32:55	00:32:57	Snap, crackle and pop.
+491	00:32:57	00:33:05	Uh, the dried powdered wheat particles actually augments the smoke, and, uh, seals the gunpowder in the cylinder.
+492	00:33:05	00:33:08	Which would be perfect for Civil War reenactments.
+493	00:33:08	00:33:15	Yeah. I don't think that Colt's fired a real bullet in quite a while.
+494	00:33:20	00:33:26	Miss Rupert, as far as we can tell, your brother died from diabetic shock.
+495	00:33:26	00:33:28	What? How?
+496	00:33:28	00:33:31	Well, it seems that he went on a bender.
+497	00:33:31	00:33:36	He consumed a great deal of alcohol, sugar and narcotics.
+498	00:33:36	00:33:38	Did he party like this a lot?
+499	00:33:38	00:33:40	No. No.
+500	00:33:40	00:33:43	He was just diagnosed as pre-diabetic.
+501	00:33:43	00:33:46	So he was aware of his condition.
+502	00:33:46	00:33:48	Yeah.
+503	00:33:48	00:33:51	Do you like that this was self-induced?
+504	00:33:53	00:33:56	You know, our family has a history of heart disease and diabetes.
+505	00:33:57	00:33:59	Both our parents died of heart attacks in their 40s.
+506	00:34:00	00:34:01	Two of our grandparents, too.
+507	00:34:01	00:34:05	Well, Manny turned 40 last week and he acted like it was a death sentence.
+508	00:34:05	00:34:10	You know, but he... he always said, You can't fight bad genes.
+509	00:34:10	00:34:13	You know, he had a vasectomy when he was 22.
+510	00:34:13	00:34:17	Never got married, just didn't see the point.
+511	00:34:17	00:34:19	So he just... gave up?
+512	00:34:19	00:34:21	He quit?
+513	00:34:21	00:34:26	You don't know what it's like to live with a death sentence hanging over your head.
+514	00:34:26	00:34:30	No. You're right, I don't.
+515	00:34:31	00:34:32	No.
+516	00:34:33	00:34:35	But I've seen what it's like to not have a choice.
+517	00:34:35	00:34:37	And he did.
+518	00:34:37	00:34:40	He could have fought it, but he just chose not to.
+519	00:34:40	00:34:44	You know, I just lost my brother, and you're judging him?
+520	00:34:44	00:34:48	How dare you.
+521	00:34:48	00:34:51	I'm-I'm so very sorry for your loss.
+522	00:35:02	00:35:04	Am I interrupting?
+523	00:35:04	00:35:06	No.
+524	00:35:06	00:35:09	I just got a heads up from a friend in payroll at PERS.
+525	00:35:10	00:35:13	Ellie Brass just called about Jim's pension.
+526	00:35:13	00:35:17	She wanted to know how much there was and was she a beneficiary.
+527	00:35:17	00:35:20	This girl is circling like a vulture.
+528	00:35:20	00:35:24	Jim doesn't need this kind of energy around him now.
+529	00:35:24	00:35:29	Now... Ellie's been in a lot of trouble with the law.
+530	00:35:29	00:35:32	It wouldn't be difficult to chase her out of town.
+531	00:35:32	00:35:39	Well, I'm sure he'd appreciate the offer, but I don't think he'd want you to do that.
+532	00:35:39	00:35:41	Excuse me.
+533	00:35:41	00:35:52	I got the DNA results for your decapitated Civil War corset victim, and the blood from the field is a match to Carson, but the epithelials on the toupee from the train tracks are not.
+534	00:35:52	00:35:55	So, were any of your suspects wearing a rug?
+535	00:35:57	00:35:59	I can think of one.
+536	00:35:59	00:36:02	Please be careful.
+537	00:36:02	00:36:03	That's a very expensive piece.
+538	00:36:03	00:36:06	I don't understand why I'm here again.
+539	00:36:06	00:36:08	It's not a crime to lose your hair.
+540	00:36:08	00:36:11	Depends on where you lose it.
+541	00:36:11	00:36:17	If it's on the train tracks near a decapitated body with the victim's blood on it, it's usually a crime.
+542	00:36:17	00:36:21	Mr. Kimble, would you like to revise your prior statement?
+543	00:36:21	00:36:25	Or would you prefer to wait in a cell while we match toupees?
+544	00:36:28	00:36:31	It was an accident.
+545	00:36:31	00:36:33	Which part?
+546	00:36:33	00:36:36	I suppose mostly the part when I shot him.
+547	00:36:38	00:36:40	I could see the insanity in his eyes.
+548	00:36:43	00:36:45	Mr. Carson, you shot him!
+549	00:36:45	00:36:47	You really shot him! And I intend to kill him.
+550	00:36:47	00:36:49	Get out of my way!
+551	00:36:49	00:36:50	Please!
+552	00:36:54	00:36:58	He was really going to kill that man.
+553	00:36:58	00:37:01	If it was an accident, you should have called 911.
+554	00:37:01	00:37:04	I couldn't let him be found like that.
+555	00:37:05	00:37:07	His corseting was private.
+556	00:37:07	00:37:12	You're right, it's much better to have his body found stripped and dumped on some train tracks.
+557	00:37:12	00:37:17	His great-great-great grandfather died trying to stop a Yankee train from entering Virginia.
+558	00:37:17	00:37:22	Legend has it he stood square on the tracks firing at the engineer until the train ran him down.
+559	00:37:22	00:37:26	Mr. Carson spoke of it frequently.
+560	00:37:26	00:37:28	He said it was an honorable death.
+561	00:37:30	00:37:35	I was just trying to give him the same.
+562	00:37:35	00:37:38	All right, look, are you guys arresting me or what?
+563	00:37:38	00:37:40	Hey, don't get in my face.
+564	00:37:40	00:37:42	All he told me was bring you here.
+565	00:37:44	00:37:47	Hi. Come in.
+566	00:37:54	00:37:56	This is your dad's office.
+567	00:37:56	00:37:58	Yeah, I can read.
+568	00:37:58	00:38:01	Have a seat.
+569	00:38:01	00:38:03	Why?
+570	00:38:03	00:38:06	Why not?
+571	00:38:40	00:38:42	That's the reason we asked you to come in.
+572	00:38:42	00:38:46	That's like loving a puppy. That's easy.
+573	00:38:46	00:38:54	You know, did you ever think that maybe he's better off just lying there and not waking up?
+574	00:38:54	00:38:56	A lot easier.
+575	00:38:57	00:39:02	Every patient is different, but for now, no change is good news.
+576	00:39:04	00:39:06	Excuse me.
+577	00:39:06	00:39:08	Hi, Lindsey.
+578	00:39:08	00:39:13	I know, I told you that I might be a little while.
+579	00:39:13	00:39:16	No, I said that we could try and see a movie.
+580	00:39:16	00:39:17	Hey, you know what?
+581	00:39:17	00:39:20	I've got a friend here who is fighting for his life.
+582	00:39:20	00:39:22	I would appreciate a little understanding.
+583	00:39:22	00:39:24	I will talk about this with you later. Good-bye.
+584	00:39:25	00:39:27	How old?
+585	00:39:27	00:39:28	Fourteen.
+586	00:39:28	00:39:30	Supposedly.
+587	00:39:30	00:39:32	I got one of those in high school myself.
+588	00:39:32	00:39:35	World's pretty small at that age.
+589	00:39:35	00:39:37	It feels pretty small to me right now, too.
+590	00:39:38	00:39:39	Code Blue alert.
+591	00:41:03	00:41:04	Hey.
+592	00:41:04	00:41:06	Hey.
+593	00:41:06	00:41:08	Have some water.
+594	00:41:15	00:41:18	Thanks for not pulling the plug.
+595	00:41:18	00:41:21	Your, uh, fan club is here.
+596	00:41:47	00:41:49	I don't know.
+597	00:41:49	00:41:52	Most people want to die in their sleep, I suppose.
+598	00:41:52	00:41:54	Never know that it's happening.
+599	00:41:54	00:41:56	Like a crime scene.
+600	00:41:57	00:41:59	Surprise, you're dead.
+601	00:41:59	00:42:04	I'd prefer to know in advance that I was going to die.
+602	00:42:04	00:42:08	I'd like to be diagnosed with cancer, actually.
+603	00:42:09	00:42:11	Have some time to prepare.
+604	00:42:13	00:42:17	Go back to the rain forest one more time.
+605	00:42:17	00:42:18	Reread Moby Dick.
+606	00:42:20	00:42:23	Possibly enter an international chess tournament.
+607	00:42:24	00:42:28	At least have enough time to say good-bye to the people I love.
+608	00:42:32	00:42:36	I'm not ready to say good-bye.

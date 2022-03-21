@@ -1,636 +1,606 @@
-,start,end,text
-0,00:00:08,00:00:11,ROBBINS: Victim's name is Trevor Beck.
-1,00:00:11,00:00:14,"Caucasian male, age 17."
-2,00:00:14,00:00:17,"Five foot, 11."
-3,00:00:17,00:00:20,154 pounds.
-4,00:00:20,00:00:22,Senior at Sagebrush Valley High.
-5,00:00:22,00:00:31,"Appears to be well nourished and in overall good health, without any abnormal skin coloring or pigmentation."
-6,00:01:07,00:01:15,"There are several light abrasions and contusions on the knuckles of his right hand, consistent with a recent scuffle."
-7,00:01:22,00:01:24,(no audible dialogue)
-8,00:01:25,00:01:28,(indistinct yelling)
-9,00:01:38,00:01:43,But there do not appear to be any external wounds consistent with severe trauma.
-10,00:01:45,00:01:47,Internal organs appear healthy.
-11,00:01:47,00:01:50,No signs of trauma or disease.
-12,00:01:50,00:01:53,Heart muscle...
-13,00:01:55,00:01:58,...is free of scarring and necrosis.
-14,00:01:58,00:02:02,And there's no evidence of any cardiac event.
-15,00:02:06,00:02:08,(sighs)
-16,00:02:09,00:02:12,Healthy young men like this don't simply drop dead for no reason.
-17,00:02:12,00:02:16,"I concur, which is why I am still looking."
-18,00:02:19,00:02:21,Whoa! (Langston exclaims)
-19,00:02:21,00:02:23,Oh!
-20,00:02:23,00:02:26,That is one massive cerebral edema.
-21,00:02:28,00:02:35,"The meninges don't appear to be discolored or inflamed, so I think we can safely rule out meningitis."
-22,00:02:37,00:02:39,Did he suffer any blows to the head?
-23,00:02:39,00:02:42,There's no evidence of any injuries to support that.
-24,00:02:42,00:02:45,"According to the police report, he was shoved at school this morning and collapsed."
-25,00:02:46,00:02:52,"And even if he sustained a blow during the altercation, that's not nearly enough time to cause this much swelling."
-26,00:02:52,00:02:55,And what does that leave us with?
-27,00:02:55,00:02:57,Drugs? Toxins?
-28,00:02:58,00:03:00,Or a prior injury we don't know about.
-29,00:03:02,00:03:05,Not yet.
-30,00:03:37,00:03:39,"Mrs. Beck, please sit down."
-31,00:03:39,00:03:40,(sniffling): Okay. Okay.
-32,00:03:41,00:03:43,"Just-just a few things I have to ask you, all right?"
-33,00:03:45,00:03:47,Was Trevor injured recently?
-34,00:03:47,00:03:51,"""Injured""? How?"
-35,00:03:51,00:03:54,"You know, uh... a bang in the head."
-36,00:03:54,00:03:56,Even a little bump? Anything?
-37,00:03:56,00:03:58,"MRS. BECK: No. No, I mean, not that I know of."
-38,00:03:58,00:04:04,"BRASS: No? Was he complaining of, uh, headaches or blurred vision, nausea-- anything like that?"
-39,00:04:04,00:04:07,"I-- you mean, he's been a little grumpy lately."
-40,00:04:08,00:04:12,"I mean, this morning, he couldn't find his car keys, and he... he threw a fit."
-41,00:04:12,00:04:16,"And then, he realized he'd left them in the car."
-42,00:04:16,00:04:19,"But, um, I think that's just 'cause he's, he's not getting enough sleep, you know?"
-43,00:04:19,00:04:21,He's... he's a teenager.
-44,00:04:21,00:04:22,Sure. Sure.
-45,00:04:22,00:04:24,"Sure, we all do that. I understand."
-46,00:04:24,00:04:26,(Mrs. Beck sniffles)
-47,00:04:28,00:04:29,Was he in a fight recently?
-48,00:04:29,00:04:31,Trevor doesn't fight.
-49,00:04:31,00:04:34,"He's a, um... he was a good kid."
-50,00:04:34,00:04:36,"Well, even good kids have bad days."
-51,00:04:39,00:04:42,Did somebody do something to Trevor...
-52,00:04:42,00:04:46,"that, that killed him? We can't say anything definitive."
-53,00:04:46,00:04:47,We're just looking at possibilities.
-54,00:04:47,00:04:52,But it would be helpful to have a diary of Trevor's comings and goings in the last week.
-55,00:04:52,00:04:53,That would be good.
-56,00:04:53,00:04:56,How do you know anything about a kid at his age? I...
-57,00:04:56,00:04:58,"BRASS: Well, we could ask his friends."
-58,00:04:58,00:04:59,"You know, maybe they could help."
-59,00:04:59,00:05:01,MRS. BECK: He didn't have a lot of friends.
-60,00:05:01,00:05:08,"You know, when Trevor wasn't doing his schoolwork, he was, he was working on his car."
-61,00:05:08,00:05:11,"You know, he always said that he was going to be an artist."
-62,00:05:11,00:05:16,"I mean, I thought that would be like a, you know, a painter or sculptor or something, you know?"
-63,00:05:16,00:05:19,Not a gearhead.
-64,00:05:19,00:05:24,But he said that a car was art that could move.
-65,00:05:24,00:05:27,(computer beeping)
-66,00:05:28,00:05:30,He started seeing a girl.
-67,00:05:30,00:05:33,Cindy. About a week ago.
-68,00:05:33,00:05:35,She came home with him last night.
-69,00:05:35,00:05:36,Yeah? What time was that?
-70,00:05:36,00:05:39,"Let's see, they went up to Trevor's room about 9:00."
-71,00:05:39,00:05:45,"But, um, there was no sleeping over, so she left about, uh, 11:00, I think."
-72,00:05:45,00:05:47,But I-I didn't see her go.
-73,00:05:47,00:05:48,Do you have her phone number?
-74,00:05:48,00:05:51,No. I don't.
-75,00:05:51,00:05:53,It's okay. It's all right.
-76,00:05:53,00:05:55,We can find that. That's easy for us.
-77,00:05:55,00:05:57,(line ringing)
-78,00:05:57,00:06:01,"CINDY (on recording): Hey! If you want Cindy, well, too bad, 'cause you can't have her."
-79,00:06:01,00:06:03,"(giggles, voice mail beeps)"
-80,00:06:03,00:06:04,(phone beeps off)
-81,00:06:04,00:06:06,(music plays over headphones)
-82,00:06:08,00:06:11,You don't look nearly busy enough. (music stops)
-83,00:06:11,00:06:12,"Well, thank you."
-84,00:06:12,00:06:15,It is my gift to look relaxed while doing many things.
-85,00:06:15,00:06:20,"Unlike Hodges, who has the ability to look overwhelmed while really doing nothing at all."
-86,00:06:20,00:06:24,I'm waiting on an A.G. waiver on a cell phone for... WILLOWS: Cindy Warner.
-87,00:06:24,00:06:29,"It just came through. Start ""relaxing."" You got it. Okay."
-88,00:06:31,00:06:36,"You know, I heard the victim's brain kind of exploded in his head."
-89,00:06:36,00:06:37,Kind of.
-90,00:06:37,00:06:42,What does this girl have to do with that? No one's seen her since the night before Trevor Beck died.
-91,00:06:42,00:06:46,"She lives with her brother, a construction worker out of town on a job."
-92,00:06:46,00:06:50,I sent some unis over to their apartment for a welfare check and she wasn't there.
-93,00:06:50,00:06:54,"I mean, her boyfriend drops dead in front of the whole school, and she's nowhere to be found."
-94,00:06:54,00:06:56,That qualifies as suspicious to me.
-95,00:06:56,00:06:57,Hmm. (computer beeps)
-96,00:06:57,00:07:05,"Oh, okay. Her cell is registered and active at a tower on Washington Boulevard between Oak and Maple."
-97,00:07:09,00:07:11,Sagebrush Valley High.
-98,00:07:11,00:07:13,"Well, it is a school day."
-99,00:07:16,00:07:19,"According to the office, Cindy was not in her homeroom this morning."
-100,00:07:20,00:07:23,"WILLOWS (on phone): Well, according to my daughter, some kids just go to school to hang out."
-101,00:07:23,00:07:24,Never set foot in a classroom.
-102,00:07:24,00:07:26,"Oh, I have her schedule."
-103,00:07:26,00:07:28,I will beat the bushes and see what turns up.
-104,00:07:28,00:07:30,Bye.
-105,00:07:35,00:07:37,Cindy?
-106,00:07:38,00:07:41,Sorry? This is Cindy Warner's locker.
-107,00:07:42,00:07:43,Yeah and mine. We share.
-108,00:07:44,00:07:45,"Oh, uh, well, I'm Sara Sidle."
-109,00:07:45,00:07:47,I'm with the crime lab. What's your name?
-110,00:07:47,00:07:49,Renata Clarke.
-111,00:07:49,00:07:51,"I'm going to need to get in there, Renata."
-112,00:07:51,00:07:58,"Like the teachers say ""no expectation of privacy."" So did Cindy do something wrong?"
-113,00:07:58,00:08:00,Have you seen her today? No.
-114,00:08:00,00:08:02,"I mean, not since the other night."
-115,00:08:02,00:08:05,"Actually, before what happened with Trevor."
-116,00:08:05,00:08:07,And I've been texting her like crazy and Cindy's my biff.
-117,00:08:08,00:08:09,We always talk before bed.
-118,00:08:09,00:08:10,She text you back?
-119,00:08:12,00:08:13,And you're not worried about her at all?
-120,00:08:13,00:08:15,Of course I'm worried about her.
-121,00:08:15,00:08:16,"Her boyfriend, like, died."
-122,00:08:16,00:08:20,"But I mean, half the school went home after that and I figured Cindy did, too."
-123,00:08:20,00:08:23,She just wasn't ready to talk.
-124,00:08:23,00:08:26,And I can't even imagine how she was feeling.
-125,00:08:29,00:08:32,You think Cindy ran away or something?
-126,00:08:32,00:08:34,We don't know.
-127,00:08:34,00:08:35,(school bell rings)
-128,00:08:35,00:08:38,"Well, I'm going to be late for class."
-129,00:08:38,00:08:39,"Oh, uh, no problem. Go ahead."
-130,00:08:39,00:08:41,"But, um, could you do me a favor?"
-131,00:08:41,00:08:46,"If Cindy does get in touch with you, could you call me please? Sure."
-132,00:08:46,00:08:48,Thanks.
-133,00:08:54,00:08:56,(indistinct chatter)
-134,00:09:01,00:09:03,Hey! STOKES: Hi.
-135,00:09:03,00:09:05,What are you doing here? I called Impound for this.
-136,00:09:05,00:09:09,"Yeah, they're still sorting out a multi-car pileup on the 15."
-137,00:09:09,00:09:10,Thought I'd save them some trouble.
-138,00:09:10,00:09:12,Take care of this one in the field.
-139,00:09:12,00:09:14,Nobody mentioned it was electric.
-140,00:09:14,00:09:16,So?
-141,00:09:16,00:09:18,So this is a 1958 Porsche Speedster.
-142,00:09:18,00:09:20,So?
-143,00:09:20,00:09:22,"So,it's a classic."
-144,00:09:22,00:09:23,James Dean had one of these.
-145,00:09:23,00:09:26,Putting an electric motor in this is sacrilegious.
-146,00:09:26,00:09:27,Not to polar bears.
-147,00:09:28,00:09:30,Did you process the interior?
-148,00:09:30,00:09:32,"No, no, not yet."
-149,00:09:32,00:09:34,Uh-oh.
-150,00:09:34,00:09:36,Looks like we've got some more blasphemy here. Yeah.
-151,00:09:36,00:09:39,I saw that fresh yellow paint scrape passenger's side door.
-152,00:09:39,00:09:42,Already collected for trace. Hmm.
-153,00:09:43,00:09:53,"You know, these EVs have diagnostic modules up the wazoo. They log range, speed, acceleration, state of charge-- all that stuff."
-154,00:09:53,00:09:55,"Well, I guess the electric motor's good for us, too."
-155,00:09:59,00:10:01,Phenelzine.
-156,00:10:01,00:10:02,Antidepressant.
-157,00:10:03,00:10:04,"Sadly, very popular with the high school set."
-158,00:10:04,00:10:06,(beeping)
-159,00:10:07,00:10:09,Got a pink cell here.
-160,00:10:12,00:10:13,Cindy Warner's phone.
-161,00:10:13,00:10:19,"They say the only way to get a teenage girl away from her cell phone is to pry it from her cold, dead hand."
-162,00:10:19,00:10:23,"Well, whoever ""they"" are, let's hope they're wrong."
-163,00:10:30,00:10:33,(computer beeps and whirs)
-164,00:11:10,00:11:11,Ow! Let go!
-165,00:11:11,00:11:13,What are you doing?!
-166,00:11:13,00:11:14,What's the matter with you? Stop it!
-167,00:11:14,00:11:15,"CINDY: Stop! Come on, man."
-168,00:11:38,00:11:40,Miyamoto Takahashi?
-169,00:11:40,00:11:42,"(sighs) Nah, man."
-170,00:11:42,00:11:43,It's after 3:00.
-171,00:11:43,00:11:44,I'm not a truant. Oh...
-172,00:11:44,00:11:46,Wouldn't that be your lucky day?
-173,00:11:46,00:11:48,"I'm a homicide detective, man."
-174,00:11:50,00:11:52,How'd you get that shiner?
-175,00:11:52,00:11:53,"(iPhone beeps, video plays) This'll help."
-176,00:11:55,00:11:56,CINDY: Ow! TREVOR: Let go!
-177,00:11:56,00:11:57,What are you doing?!
-178,00:11:57,00:11:59,What's the matter with you? Stop it!
-179,00:11:59,00:12:00,"CINDY: Stop! BOY: Come on, man!"
-180,00:12:00,00:12:02,(video stops) Looks pretty self-explanatory.
-181,00:12:02,00:12:05,"Boy, I don't know what's going on today, but everybody's giving me attitude. Hey, you know what?"
-182,00:12:05,00:12:07,"I'm the victim, man."
-183,00:12:07,00:12:12,"You're not the victim when the guy who did that, 17 hours later, ended up dead."
-184,00:12:12,00:12:14,The gentleman in question died at school.
-185,00:12:15,00:12:17,Probably bored to death.
-186,00:12:17,00:12:20,"So what was your beef with Trevor? No beef, man."
-187,00:12:20,00:12:21,Amateur got in my face.
-188,00:12:21,00:12:24,I let him slide. A tough guy like you didn't hit back? Come on.
-189,00:12:24,00:12:26,Let who's ever up decide.
-190,00:12:26,00:12:29,"You know, for such a man of peace, you have a funny way of showing it."
-191,00:12:29,00:12:30,You know what I think happened?
-192,00:12:30,00:12:33,I think it all had to do with Cindy Warner.
-193,00:12:34,00:12:35,I'm perplexed.
-194,00:12:35,00:12:37,(chuckles) An educated guy like you?
-195,00:12:38,00:12:39,Come on.
-196,00:12:40,00:12:43,Cindy used to be my lady.
-197,00:12:43,00:12:45,Then she started keeping his passenger seat warm.
-198,00:12:47,00:12:50,But you never know when history's going to repeat itself-- that's the way I saw it.
-199,00:12:50,00:12:55,"The way I see it is, uh, you get in a fight with Trevor to win Cindy back, and then Trevor kicked your ass."
-200,00:12:55,00:12:58,"17 hours later, he ends up dead and Cindy goes missing."
-201,00:13:01,00:13:03,She's missing?
-202,00:13:03,00:13:04,Yeah.
-203,00:13:04,00:13:06,Where is she?
-204,00:13:06,00:13:07,"If we knew where she was, she wouldn't be missing."
-205,00:13:08,00:13:11,"Now, where did you go after Trevor decked you?"
-206,00:13:11,00:13:13,Back here.
-207,00:13:13,00:13:14,"Look, I swear. Ask my boss."
-208,00:13:14,00:13:16,I was helping with inventory.
-209,00:13:16,00:13:17,When was the last you saw Cindy?
-210,00:13:17,00:13:19,You're looking at it.
-211,00:13:19,00:13:22,STOKES: It looks like his brain stem has been jammed into his spine.
-212,00:13:22,00:13:24,Essentially it has.
-213,00:13:24,00:13:27,It's a rare condition known as Chiari malformation.
-214,00:13:27,00:13:34,It's a deformity of the skull that displaces the cerebellum and the brain stem into the spinal canal.
-215,00:13:34,00:13:40,Most people don't even realize they have it until they've experienced some kind of trauma or vigorous neck flexion.
-216,00:13:40,00:13:42,Like a blow to the head? Exactly.
-217,00:13:42,00:13:49,"If that happens, the condition creates swelling, edema, resulting in massive intracranial pressure."
-218,00:13:49,00:13:54,"The headaches can be excruciating. WILLOWS: According to the mother, Trevor had been irritable."
-219,00:13:54,00:13:55,And wasn't sleeping very well.
-220,00:13:55,00:13:59,"It's got to be hard to sleep when your brain's blowing up in your skull like that, huh?"
-221,00:13:59,00:14:03,"SIDLE: Trevor was also taking antidepressants, MAO inhibitors."
-222,00:14:03,00:14:06,"I know they spike blood pressure, but wouldn't they have worsened the swelling?"
-223,00:14:06,00:14:08,LANGSTON: Definitely.
-224,00:14:08,00:14:16,"The existing Chiari, the antidepressants, and whatever struck his head, all combined to create an acute hypertensive crisis-- a perfect storm."
-225,00:14:16,00:14:19,So whoever gave him the drugs was also contributing to his death.
-226,00:14:19,00:14:24,Yes. WILLOWS: We still don't know what hit him or who or where it happened.
-227,00:14:24,00:14:29,"Well, the diagnostic modules in Trevor's Franken-Porsche did give us a little something there."
-228,00:14:29,00:14:38,"On the night before his last drive from home to school, Trevor drove about 14 miles in the course of an hour and a half without turning his engine off."
-229,00:14:38,00:14:42,"That's seven miles out, seven miles back..."
-230,00:14:42,00:14:44,Seven mile search radius.
-231,00:14:44,00:14:48,And just before he made that trip is the last time that Cindy Warner was seen.
-232,00:14:52,00:14:54,I've got a bad feeling about this.
-233,00:16:08,00:16:11,"Guys, she's pretty messed up."
-234,00:16:11,00:16:14,And it's not just from the tree.
-235,00:16:14,00:16:16,Compound fractures of both shins.
-236,00:16:16,00:16:18,A lot of internal injuries.
-237,00:16:18,00:16:22,"And her uniform is missing the skirt, which could suggest sexual assault."
-238,00:16:22,00:16:24,Possible body dump.
-239,00:16:25,00:16:31,"You know, I haven't seen any blood in the vicinity or footprints, other than ours."
-240,00:16:31,00:16:34,Or any sign of a struggle.
-241,00:16:35,00:16:43,"No, if this is a body dump, and Trevor's death was some sort of twisted karmic retribution, then why didn't he try to hide the body any better than this?"
-242,00:16:43,00:16:51,"There's no tire treads coming off the road, no signs of another vehicle even being out here, much less another person."
-243,00:16:51,00:16:54,It's like she just... fell from the sky.
-244,00:16:59,00:17:00,HODGES: What do you think?
-245,00:17:00,00:17:05,Kids head out to the desert for a little sneaky-touchy.
-246,00:17:05,00:17:08,"Things start getting hot and heavy, clothing is removed..."
-247,00:17:08,00:17:11,"Then things go terribly, terribly wrong."
-248,00:17:11,00:17:13,Definitely wrong.
-249,00:17:13,00:17:15,That is not what happened.
-250,00:17:15,00:17:18,Do you see how the tibia is snapped clean?
-251,00:17:18,00:17:22,The X-ray shows the posterior is beveled.
-252,00:17:22,00:17:24,This is a pedestrian fracture.
-253,00:17:25,00:17:27,She was hit by a car.
-254,00:17:29,00:17:31,David said that there was no evidence of that at the scene.
-255,00:17:31,00:17:39,"Maybe not in the immediate vicinity of the body, but if you take a car traveling at highway speed and hit someone just right..."
-256,00:17:39,00:17:45,A girl this size and this weight-- she could fly the length of a football field.
-257,00:17:45,00:17:47,We need to widen our search.
-258,00:18:27,00:18:29,(engines revving)
-259,00:18:30,00:18:31,(Cindy screaming)
-260,00:19:01,00:19:04,(shutter clicks)
-261,00:19:04,00:19:16,"STOKES: There were yaw marks up and down the road, but no clear tread marks, so I obliquely photographed areas where I thought tread marks might be by using a light source at different angles, different contrast..."
-262,00:19:16,00:19:20,Each angle revealed portions of otherwise invisible treads.
-263,00:19:20,00:19:24,"By layering the shots, I was able to come up with a complete set of tread mark impressions."
-264,00:19:24,00:19:27,"Very impressive, smarty-pants. (chuckles)"
-265,00:19:27,00:19:30,Two distinct sets.
-266,00:19:32,00:19:35,Both originating in the same general vicinity...
-267,00:19:35,00:19:37,here.
-268,00:19:37,00:19:46,"The yellow scrapes and blood on the road appear to be from Cindy's point of impact, which was roughly 1,300 feet from the starting point."
-269,00:19:46,00:19:50,We found her body 300 feet from where she was hit.
-270,00:19:50,00:19:55,"Two cars, dead of night, a girl on a lonely stretch of quarter-mile straightaway."
-271,00:19:55,00:19:57,This was a drag race.
-272,00:19:58,00:19:59,(muted cheering)
-273,00:19:59,00:20:01,(tires screeching)
-274,00:20:02,00:20:03,(screaming)
-275,00:20:03,00:20:05,With Cindy at the finish line...
-276,00:20:05,00:20:07,in every sense of the word.
-277,00:20:08,00:20:14,The treads on the left are a thin five-bar tire that's consistent with the ones on Trevor's car.
-278,00:20:14,00:20:18,The treads on the right are from his mystery opponent.
-279,00:20:18,00:20:22,"They're 17-inch, Goodyear Eagles with a wheel width of approximately 70 inches."
-280,00:20:22,00:20:25,STOKES: A lot of cars on the road today that fit that description.
-281,00:20:26,00:20:30,Hodges was able to I.D. the yellow flakes in Cindy's wounds and the point of impact.
-282,00:20:30,00:20:32,It's Flatz uranium number two.
-283,00:20:32,00:20:37,"And it is the same paint as the yellow scrape that we found on Trevor's door. Okay, so..."
-284,00:20:38,00:20:41,"the two cars race, one swipes the other."
-285,00:20:41,00:20:46,The yellow car loses control and takes out Cindy.
-286,00:20:46,00:20:49,That would explain why there was no damage to the front-end of Trevor's car.
-287,00:20:49,00:20:53,So we're looking for a yellow street racer in Las Vegas? Great.
-288,00:20:53,00:20:55,That should narrow it down to just a few hundred suspects.
-289,00:20:56,00:20:58,"Well, maybe Trevor's drug dealer can help us out with that."
-290,00:20:58,00:21:02,I tracked the lot number on the phenelzine pack you found.
-291,00:21:02,00:21:04,It's from a local pharmacy. I called the owner.
-292,00:21:04,00:21:08,His son works as a stock boy andhe goes to Trevor's school.
-293,00:21:09,00:21:10,BOY: A drug dealer?
-294,00:21:10,00:21:12,Me?
-295,00:21:12,00:21:14,Do I look like Tony Montoya to you?
-296,00:21:15,00:21:16,"Damn it, Rishi, stop messing around."
-297,00:21:16,00:21:18,That's good advice.
-298,00:21:18,00:21:20,We know that you're dealing.
-299,00:21:20,00:21:22,I never took any cash from Trevor.
-300,00:21:24,00:21:26,We were in auto shop together.
-301,00:21:26,00:21:33,"He was like a genius, and I have this mental blockage when it comes to things mechanical, so I exchanged my goods for his services."
-302,00:21:33,00:21:35,Tutoring.
-303,00:21:35,00:21:37,"All this and you're failing auto shop, too?"
-304,00:21:37,00:21:39,"That's right, Dad!"
-305,00:21:39,00:21:41,I'm never going to be an engineer.
-306,00:21:41,00:21:43,Strip me of my Indian.
-307,00:21:43,00:21:45,The night before he died...
-308,00:21:45,00:21:47,who was Trevor racing?
-309,00:21:47,00:21:49,No one. Come on.
-310,00:21:49,00:21:51,"I'm telling you, Trevor wasn't a racer."
-311,00:21:51,00:21:53,Tell the police the truth!
-312,00:21:54,00:21:56,He wasn't a racer!
-313,00:21:56,00:21:58,Not as far I know.
-314,00:21:59,00:22:03,"That car was like his baby. Well, racing is what a car like that is built for."
-315,00:22:03,00:22:09,"We know that Trevor was out in the desert drag racing a yellow car, which killed Cindy Warner."
-316,00:22:11,00:22:14,Do you know somebody with a yellow car?
-317,00:22:18,00:22:21,I don't think you're aware of what's going on here.
-318,00:22:21,00:22:24,The pills that you gave Trevor helped kill him.
-319,00:22:25,00:22:28,"No-no-no, he... he asked me for the painkillers."
-320,00:22:28,00:22:30,"But that stuff's addictive, so I gave him the uppers."
-321,00:22:30,00:22:32,Which are controlled substances.
-322,00:22:32,00:22:34,Trafficking them is a felony.
-323,00:22:35,00:22:37,"Hey, I'm still a minor."
-324,00:22:37,00:22:38,But your father isn't.
-325,00:22:38,00:22:41,He's responsible for those medications.
-326,00:22:41,00:22:45,"And if he's found criminally liable, he could lose his store."
-327,00:22:47,00:22:49,"Oh, my God."
-328,00:22:50,00:22:52,"Oh, my God."
-329,00:22:52,00:22:53,"Rishi, what have you done?"
-330,00:22:56,00:23:00,The yellow car...
-331,00:23:00,00:23:02,it's got to be a Demon.
-332,00:23:02,00:23:04,They're a gang. Their color's yellow. That's all I know.
-333,00:23:04,00:23:06,I swear.
-334,00:23:07,00:23:08,"I'm sorry, Dad."
-335,00:23:09,00:23:10,I'm sorry.
-336,00:23:12,00:23:13,BRASS: The Demons have been around for awhile.
-337,00:23:13,00:23:20,"They're a legitimate car club, but they've diversified into distribution of narcotics, chop shops, protection rackets-- things like that."
-338,00:23:20,00:23:23,"Well, we can't exactly round up every Demon in town who's driving a yellow car, can we?"
-339,00:23:24,00:23:25,"Well, maybe we don't have to."
-340,00:23:25,00:23:28,I know where a lot of Demons are going to hang out tonight.
-341,00:23:48,00:23:50,"SIDLE: ""Street Rumble""? That's catchy."
-342,00:23:50,00:23:55,Brass says the department sets this thing up to keep racers off the streets.
-343,00:23:55,00:24:00,"Ten dollars buys anyone into a race, and it's all legal."
-344,00:24:00,00:24:01,"Well, it looks like it's working."
-345,00:24:01,00:24:03,"Yeah, it does, actually."
-346,00:24:03,00:24:05,"Well, at least one day a week anyway."
-347,00:24:06,00:24:09,(man speaking indistinctly over P.A.)
-348,00:24:11,00:24:13,Here we go. Check it out.
-349,00:24:15,00:24:18,Pretty nice ride you got here.
-350,00:24:25,00:24:27,17-inch rims?
-351,00:24:27,00:24:29,"Ooh, look at that."
-352,00:24:29,00:24:31,The lady can appreciate the finer things in life.
-353,00:24:31,00:24:32,Nissan 350Z.
-354,00:24:32,00:24:34,This is a race car.
-355,00:24:34,00:24:37,You can't keep it caged up. You got to let a canary sing.
-356,00:24:37,00:24:39,Ask Sergeant Jenkins.
-357,00:24:39,00:24:40,This is the ride that beat his ass here last week.
-358,00:24:40,00:24:42,"Bumper looks a little beat up, though."
-359,00:24:42,00:24:44,This baby's pristine.
-360,00:24:44,00:24:46,You know Officer O'Malley?
-361,00:24:46,00:24:48,Got smoked two weeks ago on Las Vegas...
-362,00:24:48,00:24:49,On the track.
-363,00:24:51,00:24:53,Your old Crown Vic's just no matchup.
-364,00:24:53,00:24:58,"Hey, no disrespect, but any scratches get on that shine, there's going to be problems, man."
-365,00:24:58,00:24:59,"No, there's not."
-366,00:24:59,00:25:02,"Besides, I was just admiring the color. Weren't you, Sara?"
-367,00:25:02,00:25:04,The color is nice. What is it?
-368,00:25:04,00:25:06,"Uh, Flatz uranium number two?"
-369,00:25:06,00:25:08,Don't know.
-370,00:25:08,00:25:10,Is this your car?
-371,00:25:10,00:25:11,I'm watching it for a friend.
-372,00:25:11,00:25:13,What's this about? What's your friend's name?
-373,00:25:13,00:25:14,Don't know.
-374,00:25:14,00:25:17,"You don't know the guy's name, but he lets you baby-sit his car? Why is that?"
-375,00:25:17,00:25:19,What can I say? I got a trustworthy face.
-376,00:25:19,00:25:23,"No, you don't. We're looking for a yellow car in connection with a murder."
-377,00:25:27,00:25:29,SARA: Mitch!
-378,00:25:29,00:25:30,Johnnie! We got a runner!
-379,00:25:33,00:25:35,"Stop, LVPD! Stop now!"
-380,00:25:35,00:25:36,Step aside! Please!
-381,00:25:39,00:25:40,LVPD! Stop!
-382,00:25:42,00:25:43,Get out of the way!
-383,00:25:43,00:25:45,SIDLE: Back it up! Get down on the ground!
-384,00:25:45,00:25:48,Now! Get down. Get your arm back.
-385,00:25:48,00:25:49,Get down!
-386,00:25:49,00:25:51,Back it up!
-387,00:25:51,00:25:53,Maybe in your car you would've had a chance.
-388,00:25:53,00:25:54,(grunts)
-389,00:25:54,00:25:56,You're under arrest. Get him up.
-390,00:25:56,00:25:58,Let's go.
-391,00:26:11,00:26:13,Oh...
-392,00:26:16,00:26:17,"What is it, Greg?"
-393,00:26:17,00:26:19,I was just thinking about the time I went joyriding.
-394,00:26:19,00:26:22,You? Really?
-395,00:26:22,00:26:23,I was 12.
-396,00:26:23,00:26:27,My Papa Olaf bought a red 280-ZX.
-397,00:26:27,00:26:30,"Man, it was love at first sight."
-398,00:26:30,00:26:34,And I have no idea what made me think I could get away with it.
-399,00:26:34,00:26:41,"But when Papa O went down for his afternoon nap, I swiped the keys and took it for a spin."
-400,00:26:41,00:26:43,Where'd you go?
-401,00:26:43,00:26:46,Around the block-- twice.
-402,00:26:46,00:26:50,"And when I was rolling it back into the driveway, I almost ran over my foot."
-403,00:26:51,00:26:53,"Papa Olaf woke up, had no idea."
-404,00:26:53,00:26:55,He never found out.
-405,00:26:55,00:26:58,Hmm... you're a little car thief.
-406,00:26:58,00:27:00,"Yeah, guess I am."
-407,00:27:02,00:27:05,"So, listen, Miyamoto lawyered up."
-408,00:27:05,00:27:09,"But according to the guys in the gang unit, he's been involved in stuff like this before."
-409,00:27:09,00:27:15,"He got busted in a chop shop raid last summer, but since he was a juvee, and not principally involved, they turned him loose."
-410,00:27:15,00:27:18,"I'm pretty sure he's involved in this, too."
-411,00:27:18,00:27:20,"Well, unfortunately, his car isn't."
-412,00:27:20,00:27:26,"Well, his wheel width matches, so do the tires."
-413,00:27:26,00:27:30,And Hodges confirmed the paint-- Flatz uranium number two.
-414,00:27:30,00:27:37,"That may be so, but while at the crime scene, I collected broken glass associated with the impact."
-415,00:27:37,00:27:39,It turned out to be headlight glass.
-416,00:27:39,00:27:42,These headlights are plastic.
-417,00:27:42,00:27:47,There is no way that this glass came from that car.
-418,00:27:59,00:28:00,(indistinct chatter from video)
-419,00:28:06,00:28:07,WILLOWS: Is that Trevor?
-420,00:28:09,00:28:12,Looks like he was more of a racer than people thought.
-421,00:28:12,00:28:13,Where did you get to this?
-422,00:28:13,00:28:16,"Well, that photo was on Cindy's phone."
-423,00:28:16,00:28:21,"It was taken at the winner's circle of Street Rumble, so I searched their site and this came up. It's from nine days ago."
-424,00:28:21,00:28:24,WILLOWS: Check out that paint job on the other car.
-425,00:28:24,00:28:27,Yellow flames.
-426,00:28:27,00:28:29,How much do you want to bet it's Flatz uranium number two?
-427,00:28:37,00:28:39,(tires screeching)
-428,00:28:39,00:28:41,WILLOWS: Ouch.
-429,00:28:41,00:28:43,He got whiplashed in that spinout.
-430,00:28:45,00:28:47,That's probably what setoff his Chiari.
-431,00:28:47,00:28:50,Which means that his death was probably an accident.
-432,00:28:50,00:28:53,Yeah.
-433,00:29:01,00:29:03,Wait a minute.
-434,00:29:05,00:29:07,That is Renata Clarke.
-435,00:29:07,00:29:09,Cindy Warner's best friend.
-436,00:29:09,00:29:12,"So, Trevor smokes Renata in an organized race."
-437,00:29:12,00:29:15,Maybe the desert was a rematch.
-438,00:29:18,00:29:20,"(engine revs, ticks)"
-439,00:29:22,00:29:25,"All right, you hear that light ticking sound?"
-440,00:29:26,00:29:28,That's the hot solid lifter cam.
-441,00:29:28,00:29:30,The valves need adjusting.
-442,00:29:30,00:29:34,"Shut it down. See, if you listen, your car will tell you everything."
-443,00:29:34,00:29:36,There's no guesswork.
-444,00:29:36,00:29:42,"Unlike your girlfriend, she'll tell you exactly what she means, but you have to listen, because..."
-445,00:29:44,00:29:47,"If you don't, your car's just a noisy heap of metal."
-446,00:29:47,00:29:49,"So take care of those valves. Okay, Gus."
-447,00:29:49,00:29:51,Hi. Can I help you?
-448,00:29:51,00:29:53,Hi there. Mr. Davis? Yes.
-449,00:29:53,00:29:56,We're with the crime lab.
-450,00:29:56,00:29:58,I understand that you're Renata's legal guardian.
-451,00:29:58,00:30:02,I am. I'm her uncle and her shop teacher.
-452,00:30:02,00:30:04,We're going to need to take a look at her car.
-453,00:30:04,00:30:09,"Sure. Uh, yeah, it's right over here, only it's not for sale."
-454,00:30:09,00:30:11,Renata? Come on out.
-455,00:30:11,00:30:14,"Uh, these people want to take a look at the car."
-456,00:30:17,00:30:19,"What's this all about, Gus?"
-457,00:30:19,00:30:20,I don't know.
-458,00:30:24,00:30:26,No signs of blood spatter or body damage.
-459,00:30:26,00:30:28,Even the tires look clean.
-460,00:30:28,00:30:30,But the headlightsareglass.
-461,00:30:35,00:30:36,"Well, the wheel width is right."
-462,00:30:36,00:30:38,SIDLE: There's no way we're off base on this.
-463,00:30:43,00:30:44,Maybe we're not.
-464,00:30:44,00:30:47,Check it out.
-465,00:30:47,00:30:50,Yellow paint overspray.
-466,00:30:50,00:30:52,This area's been recently repaired and repainted.
-467,00:30:56,00:30:58,What are you looking for?
-468,00:31:00,00:31:01,Renata...
-469,00:31:01,00:31:04,where were you the night that Cindy went missing?
-470,00:31:04,00:31:08,"Um, I went to Giant Burger to meet up with some friends for dinner."
-471,00:31:08,00:31:10,"When the fries got cold, I came home."
-472,00:31:10,00:31:12,Studied calc and fell asleep on my textbook.
-473,00:31:12,00:31:14,True story.
-474,00:31:14,00:31:16,What were you calling Cindy about at 1:00 in the morning?
-475,00:31:16,00:31:19,"Around midnight, I woke up, ink on my face and everything."
-476,00:31:19,00:31:23,I watched theGossip GirlI DVR'd and called Cindy to go over the pertinent details.
-477,00:31:23,00:31:24,Did you made plans to meet up?
-478,00:31:24,00:31:26,"""Meet up""?"
-479,00:31:26,00:31:27,There's no meeting up.
-480,00:31:27,00:31:29,Cindy and I talk every night.
-481,00:31:29,00:31:31,This is nothing out of the ordinary.
-482,00:31:31,00:31:33,Wait.
-483,00:31:33,00:31:36,You couldn't possibly think I was there when Cindy...
-484,00:31:36,00:31:38,When Cindy what? You think I killed her?
-485,00:31:39,00:31:41,Cindy was my best friend!
-486,00:31:41,00:31:42,I would never hurt her!
-487,00:31:42,00:31:43,Never! Renata.
-488,00:31:43,00:31:44,What's this all about?
-489,00:31:44,00:31:48,"Evidence consistent with this car was collected at a crime scene, Mr. Davis."
-490,00:31:48,00:31:51,This vehicle will now be impounded.
-491,00:31:51,00:31:54,Impound? What? Because of some stupid measuring tape?
-492,00:31:54,00:31:55,You can't take it!
-493,00:31:55,00:31:58,You can't let them take my car! You don't actually have a choice in the matter.
-494,00:31:58,00:31:59,Okay. Fine. Look.
-495,00:31:59,00:32:01,She was at home.
-496,00:32:01,00:32:02,I was with her.
-497,00:32:02,00:32:04,And we're done talking.
-498,00:32:19,00:32:27,"Okay, you guys are looking for fibers blood, hair-- any transfer that would confirm this is the vehicle that struck and killed Cindy Warner, okay?"
-499,00:32:27,00:32:33,"The suspect hides the murder weapon in plain sight, in her auto shop class."
-500,00:32:33,00:32:35,That's pretty sophisticated for a high school girl. Right.
-501,00:32:35,00:32:39,She's definitely more sophisticated than the ones you chat with on theTwilightmessage boards.
-502,00:32:41,00:32:42,"Wait, wait."
-503,00:32:42,00:32:47,"So, I'm guessing that about a million grubby teenagers probably pawed their way all around this thing."
-504,00:32:47,00:32:51,So how exactly do we put Renata behind the wheel when Cindy was killed?
-505,00:32:51,00:32:53,By going over it with a fine-tooth comb.
-506,00:32:53,00:32:57,"If we can rule out other drivers, then we can build a pretty good case. Right."
-507,00:32:57,00:32:59,What if the other driver was wearing gloves?
-508,00:32:59,00:33:03,"Helping or hindering, Wendy, which one's it going to be?"
-509,00:33:03,00:33:04,I am helping.
-510,00:33:04,00:33:06,Attagirl. Thanks.
-511,00:33:07,00:33:08,(shutter clicks)
-512,00:33:11,00:33:12,SIMMS: What do you got there?
-513,00:33:16,00:33:18,Kids. Gross.
-514,00:33:18,00:33:22,SIDLE: There are only two ways to get to the drag where Cindy was killed.
-515,00:33:22,00:33:24,One is an exit off the 95. Mm-hmm.
-516,00:33:24,00:33:28,"And the other's a turn off Blue Diamond Road, which is the way to get there from Henderson."
-517,00:33:28,00:33:31,And where both Trevor and Renata live.
-518,00:33:31,00:33:37,Is there a traffic camera or video surveillance at the Blue Diamond intersection? I am just going to check that out.
-519,00:33:37,00:33:39,Good. PDs doing their part.
-520,00:33:39,00:33:42,Somebody's bound to get lucky.
-521,00:33:42,00:33:45,This is a 1933 Ford Roadster.
-522,00:33:45,00:33:49,It was involved in a street race that resulted in the death of a teenage girl.
-523,00:33:49,00:33:57,"Now, we have reason to believe that the street gang known as the Demons aided the driver by chopping the parts of this car immediately after the incident."
-524,00:33:57,00:34:04,"Now, the gang unit has supplied you with a list of the known Demon chop shops, several of which are fronted by legitimate businesses."
-525,00:34:04,00:34:08,"Now, the job is to locate and recover any and all parts from this vehicle."
-526,00:34:08,00:34:10,"And when you do so, give CSI a call."
-527,00:35:09,00:35:14,Cindy Warner's sweater made quite the impression on the hood of Renata's car.
-528,00:35:14,00:35:16,(screaming)
-529,00:35:16,00:35:26,"There was so much kinetic energy transferred in the collision that when the fabric came into contact with the hood, it actually deformed the clear coat and the paint."
-530,00:35:26,00:35:32,"After that, she takes the car to the Demons who replace the parts and paint everything to match."
-531,00:35:32,00:35:34,And she pretends the whole thing didn't happen.
-532,00:35:34,00:35:36,Were there any other prints besides hers on the steering wheel?
-533,00:35:37,00:35:39,"No. No, we got her as good as we can."
-534,00:35:39,00:35:41,"You know, there's one thing that I still don't get."
-535,00:35:41,00:35:51,"So, Renata loses to Trevor in a legal, organized race, and then a week later, they have a rematch at an illegal drag in the desert."
-536,00:35:51,00:35:53,Why not just wait until the next Rumble?
-537,00:35:54,00:35:56,Racer mentality runs in her family.
-538,00:35:56,00:36:00,Her guardian was on the stock car circuit in the '70s.
-539,00:36:00,00:36:01,Made a bit of a name for himself.
-540,00:36:01,00:36:05,"Back then, guys used to build their own cars and race them for pink slips."
-541,00:36:05,00:36:07,He obviously passed the bug on to Renata.
-542,00:36:07,00:36:09,"Uh, guys, we got a problem."
-543,00:36:09,00:36:14,These were taken by a traffic camera on Blue Diamond Road the night of Cindy's death.
-544,00:36:14,00:36:18,STOKES: That's Trevor's Porsche with Renata behind the wheel.
-545,00:36:18,00:36:19,That doesn't make any sense.
-546,00:36:19,00:36:20,It blows up our whole theory.
-547,00:36:20,00:36:21,Trevor wasn't in the desert.
-548,00:36:21,00:36:23,It wasn't a rematch.
-549,00:36:23,00:36:27,So then what-- he let Renata borrow his car to... what?
-550,00:36:27,00:36:28,Race who?
-551,00:36:29,00:36:30,Her car was already there.
-552,00:36:30,00:36:32,STOKES: We're missing something.
-553,00:36:32,00:36:34,"SIDLE: Okay, but what?"
-554,00:36:39,00:36:40,I think I know.
-555,00:36:40,00:36:43,(gum rattles)
-556,00:36:45,00:36:47,Want a piece of gum?
-557,00:36:48,00:36:50,"Piece of gum, Gus?"
-558,00:36:53,00:36:55,"We know you didn't race Trevor in the desert, Renata."
-559,00:36:57,00:37:00,Finally. It was starting to feel like harassment.
-560,00:37:00,00:37:02,You were racing each other.
-561,00:37:04,00:37:07,We found a wad of chewing gum stuck on the back of the steering wheel of Renata's car.
-562,00:37:07,00:37:09,I know you're a fan of Chuck Yeager's. So am I.
-563,00:37:09,00:37:14,Chuck used to snag a stick of Beeman from his mechanic before he did a test flight.
-564,00:37:14,00:37:16,"And then he'd take the gum, right?"
-565,00:37:16,00:37:19,And he'd place it...
-566,00:37:19,00:37:21,right on the cockpit.
-567,00:37:21,00:37:25,So it'd be there on his safe return home.
-568,00:37:25,00:37:29,"And I guess that in your racing days, you'd leave a wad of gum on the steering wheel?"
-569,00:37:29,00:37:30,Just like Chuck.
-570,00:37:32,00:37:37,"Well, once we match your DNA to that chewing gum, it's like the checkered flag for us."
-571,00:37:37,00:37:39,"So, I chew gum."
-572,00:37:39,00:37:42,Renata and I work together on that car all the time.
-573,00:37:42,00:37:43,That doesn't prove anything.
-574,00:37:43,00:37:51,"The morning that Trevor died, he couldn't find his car keys, but he said found them later inside his car."
-575,00:37:51,00:37:59,So I think that you got your BFF Cindy to steal the car and bring it out the desert so you could race it.
-576,00:37:59,00:38:06,"And after Cindy got killed, you drove the car back into Trevor's house and left the keys inside the car."
-577,00:38:18,00:38:20,He...
-578,00:38:21,00:38:25,"We, we didn't mean to... We didn't do anything."
-579,00:38:25,00:38:26,And we're leaving.
-580,00:38:26,00:38:28,"No, you're not leaving. Well, wait a minute."
-581,00:38:28,00:38:31,"Actually, you can leave."
-582,00:38:31,00:38:32,But you're going to stay.
-583,00:38:32,00:38:34,You're under arrest.
-584,00:38:34,00:38:35,Cuff her. Read her her rights.
-585,00:38:36,00:38:37,Charge is felony murder. She were there.
-586,00:38:37,00:38:39,"You want to give her a hug, buddy, now's a good time."
-587,00:38:39,00:38:41,"No, wait. N-now stop! RENATA: It's okay, Gus."
-588,00:38:41,00:38:42,I'm going to be okay. No.
-589,00:38:43,00:38:43,Don't.
-590,00:38:44,00:38:46,It's my fault. Don't!
-591,00:38:47,00:38:49,It was my fault.
-592,00:38:49,00:38:51,(cheering)
-593,00:38:53,00:38:54,What the hell happened out there?
-594,00:38:55,00:39:00,That guy's never raced a day in his life and he beat you?! His car runs like it's on jet fuel. There's no beating that.
-595,00:39:00,00:39:01,You were slow on your gear changes.
-596,00:39:01,00:39:06,"If you had the guts of a real racer you would've beat him! His car is better than ours, Gus."
-597,00:39:06,00:39:08,Get over it!
-598,00:39:09,00:39:14,I saw Trevor's little toaster all the time in class.
-599,00:39:14,00:39:16,It's not about what's under the hood.
-600,00:39:16,00:39:22,And I had to show Renata that what matters most is the heart behind the wheel.
-601,00:39:22,00:39:24,Cindy was dating Trevor.
-602,00:39:26,00:39:31,I got Renata to convince Cindy to steal Trevor's car.
-603,00:39:31,00:39:35,so I could prove my point.
-604,00:39:46,00:39:47,I don't know what came over me.
-605,00:39:48,00:39:51,I just never liked to lose to anyone.
-606,00:39:57,00:39:59,(Cindy screaming)
-607,00:39:59,00:40:01,RENATA: Cindy!
-608,00:40:01,00:40:04,Cindy! Get in the car! Get in the car!
-609,00:40:04,00:40:06,"(panting, crying)"
-610,00:40:06,00:40:07,No! We have to find her!
-611,00:40:08,00:40:09,"All right, I will, but I want you out of here."
-612,00:40:09,00:40:11,Take Trevor's car back and go home.
-613,00:40:18,00:40:22,I tried.
-614,00:40:22,00:40:24,"I tried to find her, but I couldn't."
-615,00:40:29,00:40:31,But I felt that hit.
-616,00:40:33,00:40:36,There was nothing I could do for her.
-617,00:40:37,00:40:44,I gave that Miyamoto kid 500 bucks to make the car like new overnight.
-618,00:40:47,00:40:48,This is on me.
-619,00:40:48,00:40:51,RENATA (crying): No.
-620,00:40:51,00:40:53,It was my fault.
-621,00:40:53,00:40:58,"If I hadn't had Cindy steal Trevor's car, she never would have been out there in the first place."
-622,00:40:58,00:40:59,You did.
-623,00:41:00,00:41:02,She was.
-624,00:41:02,00:41:04,Who won?
-625,00:41:08,00:41:11,WILLOWS: Brass said the D.A.'s going to charge them both.
-626,00:41:11,00:41:15,"STOKES: There you go-- two lives ruined, two dead kids and for what?"
-627,00:41:15,00:41:18,So some old-time race car driver could show off?
-628,00:41:18,00:41:19,It's a shame.
-629,00:41:19,00:41:21,"When you're young, you think you're immortal."
-630,00:41:21,00:41:24,"And when you get older, you just want to remember how that felt."
-631,00:41:25,00:41:28,Driving crazy fast on an open road.
-632,00:41:28,00:41:30,"We're not getting that old, are we? (chuckles)"
-633,00:41:30,00:41:31,"Good night, Nicky."
-634,00:41:31,00:41:33,"Good night, Catherine. I'll see you tomorrow."
+	start	end	text
+0	00:00:08	00:00:11	Victim's name is Trevor Beck.
+1	00:00:11	00:00:14	Caucasian male, age 17.
+2	00:00:14	00:00:17	Five foot, 11.
+3	00:00:17	00:00:20	154 pounds.
+4	00:00:20	00:00:22	Senior at Sagebrush Valley High.
+5	00:00:22	00:00:31	Appears to be well nourished and in overall good health, without any abnormal skin coloring or pigmentation.
+6	00:01:07	00:01:15	There are several light abrasions and contusions on the knuckles of his right hand, consistent with a recent scuffle.
+7	00:01:38	00:01:43	But there do not appear to be any external wounds consistent with severe trauma.
+8	00:01:45	00:01:47	Internal organs appear healthy.
+9	00:01:47	00:01:50	No signs of trauma or disease.
+10	00:01:50	00:01:53	Heart muscle...
+11	00:01:55	00:01:58	...is free of scarring and necrosis.
+12	00:01:58	00:02:02	And there's no evidence of any cardiac event.
+13	00:02:09	00:02:12	Healthy young men like this don't simply drop dead for no reason.
+14	00:02:12	00:02:16	I concur, which is why I am still looking.
+15	00:02:19	00:02:21	Whoa! (Langston exclaims)
+16	00:02:21	00:02:23	Oh!
+17	00:02:23	00:02:26	That is one massive cerebral edema.
+18	00:02:28	00:02:35	The meninges don't appear to be discolored or inflamed, so I think we can safely rule out meningitis.
+19	00:02:37	00:02:39	Did he suffer any blows to the head?
+20	00:02:39	00:02:42	There's no evidence of any injuries to support that.
+21	00:02:42	00:02:45	According to the police report, he was shoved at school this morning and collapsed.
+22	00:02:46	00:02:52	And even if he sustained a blow during the altercation, that's not nearly enough time to cause this much swelling.
+23	00:02:52	00:02:55	And what does that leave us with?
+24	00:02:55	00:02:57	Drugs? Toxins?
+25	00:02:58	00:03:00	Or a prior injury we don't know about.
+26	00:03:02	00:03:05	Not yet.
+27	00:03:37	00:03:39	Mrs. Beck, please sit down.
+28	00:03:39	00:03:40	Okay. Okay.
+29	00:03:41	00:03:43	Just-just a few things I have to ask you, all right?
+30	00:03:45	00:03:47	Was Trevor injured recently?
+31	00:03:47	00:03:51	Injured? How?
+32	00:03:51	00:03:54	You know, uh... a bang in the head.
+33	00:03:54	00:03:56	Even a little bump? Anything?
+34	00:03:56	00:03:58	No. No, I mean, not that I know of.
+35	00:03:58	00:04:04	No? Was he complaining of, uh, headaches or blurred vision, nausea-- anything like that?
+36	00:04:04	00:04:07	I-- you mean, he's been a little grumpy lately.
+37	00:04:08	00:04:12	I mean, this morning, he couldn't find his car keys, and he... he threw a fit.
+38	00:04:12	00:04:16	And then, he realized he'd left them in the car.
+39	00:04:16	00:04:19	But, um, I think that's just 'cause he's, he's not getting enough sleep, you know?
+40	00:04:19	00:04:21	He's... he's a teenager.
+41	00:04:21	00:04:22	Sure. Sure.
+42	00:04:22	00:04:24	Sure, we all do that. I understand.
+43	00:04:28	00:04:29	Was he in a fight recently?
+44	00:04:29	00:04:31	Trevor doesn't fight.
+45	00:04:31	00:04:34	He's a, um... he was a good kid.
+46	00:04:34	00:04:36	Well, even good kids have bad days.
+47	00:04:39	00:04:42	Did somebody do something to Trevor...
+48	00:04:42	00:04:46	that, that killed him? We can't say anything definitive.
+49	00:04:46	00:04:47	We're just looking at possibilities.
+50	00:04:47	00:04:52	But it would be helpful to have a diary of Trevor's comings and goings in the last week.
+51	00:04:52	00:04:53	That would be good.
+52	00:04:53	00:04:56	How do you know anything about a kid at his age? I...
+53	00:04:56	00:04:58	Well, we could ask his friends.
+54	00:04:58	00:04:59	You know, maybe they could help.
+55	00:04:59	00:05:01	He didn't have a lot of friends.
+56	00:05:01	00:05:08	You know, when Trevor wasn't doing his schoolwork, he was, he was working on his car.
+57	00:05:08	00:05:11	You know, he always said that he was going to be an artist.
+58	00:05:11	00:05:16	I mean, I thought that would be like a, you know, a painter or sculptor or something, you know?
+59	00:05:16	00:05:19	Not a gearhead.
+60	00:05:19	00:05:24	But he said that a car was art that could move.
+61	00:05:28	00:05:30	He started seeing a girl.
+62	00:05:30	00:05:33	Cindy. About a week ago.
+63	00:05:33	00:05:35	She came home with him last night.
+64	00:05:35	00:05:36	Yeah? What time was that?
+65	00:05:36	00:05:39	00.
+66	00:05:39	00:05:45	But, um, there was no sleeping over, so she left 00, I think.
+67	00:05:45	00:05:47	But I-I didn't see her go.
+68	00:05:47	00:05:48	Do you have her phone number?
+69	00:05:48	00:05:51	No. I don't.
+70	00:05:51	00:05:53	It's okay. It's all right.
+71	00:05:53	00:05:55	We can find that. That's easy for us.
+72	00:05:57	00:06:01	Hey! If you want Cindy, well, too bad, 'cause you can't have her.
+73	00:06:08	00:06:11	You don't look nearly busy enough. (music stops)
+74	00:06:11	00:06:12	Well, thank you.
+75	00:06:12	00:06:15	It is my gift to look relaxed while doing many things.
+76	00:06:15	00:06:20	Unlike Hodges, who has the ability to look overwhelmed while really doing nothing at all.
+77	00:06:20	00:06:24	I'm waiting on an A.G. waiver Cindy Warner.
+78	00:06:24	00:06:26	It just came through. Start relaxing.
+79	00:06:26	00:06:29	You got it. Okay.
+80	00:06:31	00:06:36	You know, I heard the victim's brain kind of exploded in his head.
+81	00:06:36	00:06:37	Kind of.
+82	00:06:37	00:06:42	What does this girl have to do with that? No one's seen her since the night before Trevor Beck died.
+83	00:06:42	00:06:46	She lives with her brother, a construction worker out of town on a job.
+84	00:06:46	00:06:50	I sent some unis over to their apartment for a welfare check and she wasn't there.
+85	00:06:50	00:06:54	I mean, her boyfriend drops dead in front of the whole school, and she's nowhere to be found.
+86	00:06:54	00:06:56	That qualifies as suspicious to me.
+87	00:06:56	00:06:57	Hmm. (computer beeps)
+88	00:06:57	00:07:05	Oh, okay. Her cell is registered and active at a tower on Washington Boulevard between Oak and Maple.
+89	00:07:09	00:07:11	Sagebrush Valley High.
+90	00:07:11	00:07:13	Well, it is a school day.
+91	00:07:16	00:07:19	According to the office, Cindy was not in her homeroom this morning.
+92	00:07:20	00:07:23	Well, according to my daughter, some kids just go to school to hang out.
+93	00:07:23	00:07:24	Never set foot in a classroom.
+94	00:07:24	00:07:26	Oh, I have her schedule.
+95	00:07:26	00:07:28	I will beat the bushes and see what turns up.
+96	00:07:28	00:07:30	Bye.
+97	00:07:35	00:07:37	Cindy?
+98	00:07:38	00:07:41	Sorry? This is Cindy Warner's locker.
+99	00:07:42	00:07:43	Yeah and mine. We share.
+100	00:07:44	00:07:45	Oh, uh, well, I'm Sara Sidle.
+101	00:07:45	00:07:47	I'm with the crime lab. What's your name?
+102	00:07:47	00:07:49	Renata Clarke.
+103	00:07:49	00:07:51	I'm going to need to get in there, Renata.
+104	00:07:51	00:07:55	Like the teachers say no expectation of privacy.
+105	00:07:56	00:07:58	So did Cindy do something wrong?
+106	00:07:58	00:08:00	Have you seen her today? No.
+107	00:08:00	00:08:02	I mean, not since the other night.
+108	00:08:02	00:08:05	Actually, before what happened with Trevor.
+109	00:08:05	00:08:07	And I've been texting her like crazy and Cindy's my biff.
+110	00:08:08	00:08:09	We always talk before bed.
+111	00:08:09	00:08:10	She text you back?
+112	00:08:12	00:08:13	And you're not worried about her at all?
+113	00:08:13	00:08:15	Of course I'm worried about her.
+114	00:08:15	00:08:16	Her boyfriend, like, died.
+115	00:08:16	00:08:20	But I mean, half the school went home after that and I figured Cindy did, too.
+116	00:08:20	00:08:23	She just wasn't ready to talk.
+117	00:08:23	00:08:26	And I can't even imagine how she was feeling.
+118	00:08:29	00:08:32	You think Cindy ran away or something?
+119	00:08:32	00:08:34	We don't know.
+120	00:08:35	00:08:38	Well, I'm going to be late for class.
+121	00:08:38	00:08:39	Oh, uh, no problem. Go ahead.
+122	00:08:39	00:08:41	But, um, could you do me a favor?
+123	00:08:41	00:08:46	If Cindy does get in touch with you, could you call me please? Sure.
+124	00:08:46	00:08:48	Thanks.
+125	00:09:01	00:09:03	Hi.
+126	00:09:03	00:09:05	What are you doing here? I called Impound for this.
+127	00:09:05	00:09:09	Yeah, they're still sorting out a multi-car pileup on the 15.
+128	00:09:09	00:09:10	Thought I'd save them some trouble.
+129	00:09:10	00:09:12	Take care of this one in the field.
+130	00:09:12	00:09:14	Nobody mentioned it was electric.
+131	00:09:14	00:09:16	So?
+132	00:09:16	00:09:18	So this is a 1958 Porsche Speedster.
+133	00:09:18	00:09:20	So?
+134	00:09:20	00:09:22	So, it's a classic.
+135	00:09:22	00:09:23	James Dean had one of these.
+136	00:09:23	00:09:26	Putting an electric motor in this is sacrilegious.
+137	00:09:26	00:09:27	Not to polar bears.
+138	00:09:28	00:09:30	Did you process the interior?
+139	00:09:30	00:09:32	No, no, not yet.
+140	00:09:32	00:09:34	Uh-oh.
+141	00:09:34	00:09:36	Looks like we've got some more blasphemy here. Yeah.
+142	00:09:36	00:09:39	I saw that fresh yellow paint scrape passenger's side door.
+143	00:09:39	00:09:42	Already collected for trace. Hmm.
+144	00:09:43	00:09:53	You know, these EVs have diagnostic modules up the wazoo. They log range, speed, acceleration, state of charge-- all that stuff.
+145	00:09:53	00:09:55	Well, I guess the electric motor's good for us, too.
+146	00:09:59	00:10:01	Phenelzine.
+147	00:10:01	00:10:02	Antidepressant.
+148	00:10:03	00:10:04	Sadly, very popular with the high school set.
+149	00:10:07	00:10:09	Got a pink cell here.
+150	00:10:12	00:10:13	Cindy Warner's phone.
+151	00:10:13	00:10:19	They say the only way to get a teenage girl away from her cell phone is to pry it from her cold, dead hand.
+152	00:10:19	00:10:23	Well, whoever they are, let's hope they're wrong.
+153	00:11:10	00:11:11	Ow! Let go!
+154	00:11:11	00:11:13	What are you doing?!
+155	00:11:13	00:11:14	What's the matter with you? Stop it!
+156	00:11:14	00:11:15	Stop! Come on, man.
+157	00:11:38	00:11:40	Miyamoto Takahashi?
+158	00:11:40	00:11:42	(sighs) Nah, man.
+159	00:11:42	00:11:43	00.
+160	00:11:43	00:11:44	I'm not a truant. Oh...
+161	00:11:44	00:11:46	Wouldn't that be your lucky day?
+162	00:11:46	00:11:48	I'm a homicide detective, man.
+163	00:11:50	00:11:52	How'd you get that shiner?
+164	00:11:52	00:11:53	(iPhone beeps, video plays) This'll help.
+165	00:11:55	00:11:57	Ow! TREVOR What are you doing?!
+166	00:11:57	00:11:59	What's the matter with you? Stop it!
+167	00:11:59	00:12:02	Stop! BOY (video stops) Looks pretty self-explanatory.
+168	00:12:02	00:12:05	Boy, I don't know what's going on today, but everybody's giving me attitude. Hey, you know what?
+169	00:12:05	00:12:07	I'm the victim, man.
+170	00:12:07	00:12:12	You're not the victim when the guy who did that, 17 hours later, ended up dead.
+171	00:12:12	00:12:14	The gentleman in question died at school.
+172	00:12:15	00:12:17	Probably bored to death.
+173	00:12:17	00:12:20	So what was your beef with Trevor? No beef, man.
+174	00:12:20	00:12:21	Amateur got in my face.
+175	00:12:21	00:12:24	I let him slide. A tough guy like you didn't hit back? Come on.
+176	00:12:24	00:12:26	Let who's ever up decide.
+177	00:12:26	00:12:29	You know, for such a man of peace, you have a funny way of showing it.
+178	00:12:29	00:12:30	You know what I think happened?
+179	00:12:30	00:12:33	I think it all had to do with Cindy Warner.
+180	00:12:34	00:12:35	I'm perplexed.
+181	00:12:35	00:12:37	(chuckles) An educated guy like you?
+182	00:12:38	00:12:39	Come on.
+183	00:12:40	00:12:43	Cindy used to be my lady.
+184	00:12:43	00:12:45	Then she started keeping his passenger seat warm.
+185	00:12:47	00:12:50	But you never know when history's going to repeat itself-- that's the way I saw it.
+186	00:12:50	00:12:55	The way I see it is, uh, you get in a fight with Trevor to win Cindy back, and then Trevor kicked your ass.
+187	00:12:55	00:12:58	17 hours later, he ends up dead and Cindy goes missing.
+188	00:13:01	00:13:03	She's missing?
+189	00:13:03	00:13:04	Yeah.
+190	00:13:04	00:13:06	Where is she?
+191	00:13:06	00:13:07	If we knew where she was, she wouldn't be missing.
+192	00:13:08	00:13:11	Now, where did you go after Trevor decked you?
+193	00:13:11	00:13:13	Back here.
+194	00:13:13	00:13:14	Look, I swear. Ask my boss.
+195	00:13:14	00:13:16	I was helping with inventory.
+196	00:13:16	00:13:17	When was the last you saw Cindy?
+197	00:13:17	00:13:19	You're looking at it.
+198	00:13:19	00:13:22	It looks like his brain stem has been jammed into his spine.
+199	00:13:22	00:13:24	Essentially it has.
+200	00:13:24	00:13:27	It's a rare condition known as Chiari malformation.
+201	00:13:27	00:13:34	It's a deformity of the skull that displaces the cerebellum and the brain stem into the spinal canal.
+202	00:13:34	00:13:40	Most people don't even realize they have it until they've experienced some kind of trauma or vigorous neck flexion.
+203	00:13:40	00:13:42	Like a blow to the head? Exactly.
+204	00:13:42	00:13:49	If that happens, the condition creates swelling, edema, resulting in massive intracranial pressure.
+205	00:13:49	00:13:54	According to the mother, Trevor had been irritable.
+206	00:13:54	00:13:55	And wasn't sleeping very well.
+207	00:13:55	00:13:59	It's got to be hard to sleep when your brain's blowing up in your skull like that, huh?
+208	00:13:59	00:14:03	Trevor was also taking antidepressants, MAO inhibitors.
+209	00:14:03	00:14:06	I know they spike blood pressure, but wouldn't they have worsened the swelling?
+210	00:14:06	00:14:08	Definitely.
+211	00:14:08	00:14:16	The existing Chiari, the antidepressants, and whatever struck his head, all combined to create an acute hypertensive crisis-- a perfect storm.
+212	00:14:16	00:14:19	So whoever gave him the drugs was also contributing to his death.
+213	00:14:19	00:14:24	We still don't know what hit him or who or where it happened.
+214	00:14:24	00:14:29	Well, the diagnostic modules in Trevor's Franken-Porsche did give us a little something there.
+215	00:14:29	00:14:38	On the night before his last drive from home to school, Trevor drove about 14 miles in the course of an hour and a half without turning his engine off.
+216	00:14:38	00:14:42	That's seven miles out, seven miles back...
+217	00:14:42	00:14:44	Seven mile search radius.
+218	00:14:44	00:14:48	And just before he made that trip is the last time that Cindy Warner was seen.
+219	00:14:52	00:14:54	I've got a bad feeling about this.
+220	00:16:08	00:16:11	Guys, she's pretty messed up.
+221	00:16:11	00:16:14	And it's not just from the tree.
+222	00:16:14	00:16:16	Compound fractures of both shins.
+223	00:16:16	00:16:18	A lot of internal injuries.
+224	00:16:18	00:16:22	And her uniform is missing the skirt, which could suggest sexual assault.
+225	00:16:22	00:16:24	Possible body dump.
+226	00:16:25	00:16:31	You know, I haven't seen any blood in the vicinity or footprints, other than ours.
+227	00:16:31	00:16:34	Or any sign of a struggle.
+228	00:16:35	00:16:43	No, if this is a body dump, and Trevor's death was some sort of twisted karmic retribution, then why didn't he try to hide the body any better than this?
+229	00:16:43	00:16:51	There's no tire treads coming off the road, no signs of another vehicle even being out here, much less another person.
+230	00:16:51	00:16:54	It's like she just... fell from the sky.
+231	00:16:59	00:17:00	What do you think?
+232	00:17:00	00:17:05	Kids head out to the desert for a little sneaky-touchy.
+233	00:17:05	00:17:08	Things start getting hot and heavy, clothing is removed...
+234	00:17:08	00:17:11	Then things go terribly, terribly wrong.
+235	00:17:11	00:17:13	Definitely wrong.
+236	00:17:13	00:17:15	That is not what happened.
+237	00:17:15	00:17:18	Do you see how the tibia is snapped clean?
+238	00:17:18	00:17:22	The X-ray shows the posterior is beveled.
+239	00:17:22	00:17:24	This is a pedestrian fracture.
+240	00:17:25	00:17:27	She was hit by a car.
+241	00:17:29	00:17:31	David said that there was no evidence of that at the scene.
+242	00:17:31	00:17:39	Maybe not in the immediate vicinity of the body, but if you take a car traveling at highway speed and hit someone just right...
+243	00:17:39	00:17:45	A girl this size and this weight-- she could fly the length of a football field.
+244	00:17:45	00:17:47	We need to widen our search.
+245	00:19:04	00:19:16	There were yaw marks up and down the road, but no clear tread marks, so I obliquely photographed areas where I thought tread marks might be by using a light source at different angles, different contrast...
+246	00:19:16	00:19:20	Each angle revealed portions of otherwise invisible treads.
+247	00:19:20	00:19:24	By layering the shots, I was able to come up with a complete set of tread mark impressions.
+248	00:19:24	00:19:27	Very impressive, smarty-pants. (chuckles)
+249	00:19:27	00:19:30	Two distinct sets.
+250	00:19:32	00:19:35	Both originating in the same general vicinity...
+251	00:19:35	00:19:37	here.
+252	00:19:37	00:19:46	The yellow scrapes and blood on the road appear to be from Cindy's point of impact, which was roughly 1,300 feet from the starting point.
+253	00:19:46	00:19:50	We found her body 300 feet from where she was hit.
+254	00:19:50	00:19:55	Two cars, dead of night, a girl on a lonely stretch of quarter-mile straightaway.
+255	00:19:55	00:19:57	This was a drag race.
+256	00:20:03	00:20:05	With Cindy at the finish line...
+257	00:20:05	00:20:07	in every sense of the word.
+258	00:20:08	00:20:14	The treads on the left are a thin five-bar tire that's consistent with the ones on Trevor's car.
+259	00:20:14	00:20:18	The treads on the right are from his mystery opponent.
+260	00:20:18	00:20:22	They're 17-inch, Goodyear Eagles with a wheel width of approximately 70 inches.
+261	00:20:22	00:20:25	A lot of cars on the road today that fit that description.
+262	00:20:26	00:20:30	Hodges was able to I.D. the yellow flakes in Cindy's wounds and the point of impact.
+263	00:20:30	00:20:32	It's Flatz uranium number two.
+264	00:20:32	00:20:37	And it is the same paint as the yellow scrape that we found on Trevor's door. Okay, so...
+265	00:20:38	00:20:41	the two cars race, one swipes the other.
+266	00:20:41	00:20:46	The yellow car loses control and takes out Cindy.
+267	00:20:46	00:20:49	That would explain why there was no damage to the front-end of Trevor's car.
+268	00:20:49	00:20:53	So we're looking for a yellow street racer in Las Vegas? Great.
+269	00:20:53	00:20:55	That should narrow it down to just a few hundred suspects.
+270	00:20:56	00:20:58	Well, maybe Trevor's drug dealer can help us out with that.
+271	00:20:58	00:21:02	I tracked the lot number on the phenelzine pack you found.
+272	00:21:02	00:21:04	It's from a local pharmacy. I called the owner.
+273	00:21:04	00:21:08	His son works as a stock boy and he goes to Trevor's school.
+274	00:21:09	00:21:10	A drug dealer?
+275	00:21:10	00:21:12	Me?
+276	00:21:12	00:21:14	Do I look like Tony Montoya to you?
+277	00:21:15	00:21:16	Damn it, Rishi, stop messing around.
+278	00:21:16	00:21:18	That's good advice.
+279	00:21:18	00:21:20	We know that you're dealing.
+280	00:21:20	00:21:22	I never took any cash from Trevor.
+281	00:21:24	00:21:26	We were in auto shop together.
+282	00:21:26	00:21:33	He was like a genius, and I have this mental blockage when it comes to things mechanical, so I exchanged my goods for his services.
+283	00:21:33	00:21:35	Tutoring.
+284	00:21:35	00:21:37	All this and you're failing auto shop, too?
+285	00:21:37	00:21:39	That's right, Dad!
+286	00:21:39	00:21:41	I'm never going to be an engineer.
+287	00:21:41	00:21:43	Strip me of my Indian.
+288	00:21:43	00:21:45	The night before he died...
+289	00:21:45	00:21:47	who was Trevor racing?
+290	00:21:47	00:21:49	No one. Come on.
+291	00:21:49	00:21:51	I'm telling you, Trevor wasn't a racer.
+292	00:21:51	00:21:53	Tell the police the truth!
+293	00:21:54	00:21:56	He wasn't a racer!
+294	00:21:56	00:21:58	Not as far I know.
+295	00:21:59	00:22:03	That car was like his baby. Well, racing is what a car like that is built for.
+296	00:22:03	00:22:09	We know that Trevor was out in the desert drag racing a yellow car, which killed Cindy Warner.
+297	00:22:11	00:22:14	Do you know somebody with a yellow car?
+298	00:22:18	00:22:21	I don't think you're aware of what's going on here.
+299	00:22:21	00:22:24	The pills that you gave Trevor helped kill him.
+300	00:22:25	00:22:28	No-no-no, he... he asked me for the painkillers.
+301	00:22:28	00:22:30	But that stuff's addictive, so I gave him the uppers.
+302	00:22:30	00:22:32	Which are controlled substances.
+303	00:22:32	00:22:34	Trafficking them is a felony.
+304	00:22:35	00:22:37	Hey, I'm still a minor.
+305	00:22:37	00:22:38	But your father isn't.
+306	00:22:38	00:22:41	He's responsible for those medications.
+307	00:22:41	00:22:45	And if he's found criminally liable, he could lose his store.
+308	00:22:47	00:22:49	Oh, my God.
+309	00:22:50	00:22:52	Oh, my God.
+310	00:22:52	00:22:53	Rishi, what have you done?
+311	00:22:56	00:23:00	The yellow car...
+312	00:23:00	00:23:02	it's got to be a Demon.
+313	00:23:02	00:23:04	They're a gang. Their color's yellow. That's all I know.
+314	00:23:04	00:23:06	I swear.
+315	00:23:07	00:23:08	I'm sorry, Dad.
+316	00:23:09	00:23:10	I'm sorry.
+317	00:23:12	00:23:13	The Demons have been around for awhile.
+318	00:23:13	00:23:20	They're a legitimate car club, but they've diversified into distribution of narcotics, chop shops, protection rackets-- things like that.
+319	00:23:20	00:23:23	Well, we can't exactly round up every Demon in town who's driving a yellow car, can we?
+320	00:23:24	00:23:25	Well, maybe we don't have to.
+321	00:23:25	00:23:28	I know where a lot of Demons are going to hang out tonight.
+322	00:23:48	00:23:50	Street Rumble? That's catchy.
+323	00:23:50	00:23:55	Brass says the department sets this thing up to keep racers off the streets.
+324	00:23:55	00:24:00	Ten dollars buys anyone into a race, and it's all legal.
+325	00:24:00	00:24:01	Well, it looks like it's working.
+326	00:24:01	00:24:03	Yeah, it does, actually.
+327	00:24:03	00:24:05	Well, at least one day a week anyway.
+328	00:24:11	00:24:13	Here we go. Check it out.
+329	00:24:15	00:24:18	Pretty nice ride you got here.
+330	00:24:25	00:24:27	17-inch rims?
+331	00:24:27	00:24:29	Ooh, look at that.
+332	00:24:29	00:24:31	The lady can appreciate the finer things in life.
+333	00:24:31	00:24:32	Nissan 350Z.
+334	00:24:32	00:24:34	This is a race car.
+335	00:24:34	00:24:37	You can't keep it caged up. You got to let a canary sing.
+336	00:24:37	00:24:39	Ask Sergeant Jenkins.
+337	00:24:39	00:24:40	This is the ride that beat his ass here last week.
+338	00:24:40	00:24:42	Bumper looks a little beat up, though.
+339	00:24:42	00:24:44	This baby's pristine.
+340	00:24:44	00:24:46	You know Officer O'Malley?
+341	00:24:46	00:24:48	Got smoked two weeks ago on Las Vegas...
+342	00:24:48	00:24:49	On the track.
+343	00:24:51	00:24:53	Your old Crown Vic's just no matchup.
+344	00:24:53	00:24:58	Hey, no disrespect, but any scratches get on that shine, there's going to be problems, man.
+345	00:24:58	00:24:59	No, there's not.
+346	00:24:59	00:25:02	Besides, I was just admiring the color. Weren't you, Sara?
+347	00:25:02	00:25:04	The color is nice. What is it?
+348	00:25:04	00:25:06	Uh, Flatz uranium number two?
+349	00:25:06	00:25:08	Don't know.
+350	00:25:08	00:25:10	Is this your car?
+351	00:25:10	00:25:11	I'm watching it for a friend.
+352	00:25:11	00:25:13	What's this about? What's your friend's name?
+353	00:25:13	00:25:14	Don't know.
+354	00:25:14	00:25:17	You don't know the guy's name, but he lets you baby-sit his car? Why is that?
+355	00:25:17	00:25:19	What can I say? I got a trustworthy face.
+356	00:25:19	00:25:23	No, you don't. We're looking for a yellow car in connection with a murder.
+357	00:25:27	00:25:29	Mitch!
+358	00:25:29	00:25:30	Johnnie! We got a runner!
+359	00:25:33	00:25:35	Stop, LVPD! Stop now!
+360	00:25:35	00:25:36	Step aside! Please!
+361	00:25:39	00:25:40	LVPD! Stop!
+362	00:25:42	00:25:43	Get out of the way!
+363	00:25:43	00:25:45	Back it up! Get down on the ground!
+364	00:25:45	00:25:48	Now! Get down. Get your arm back.
+365	00:25:48	00:25:49	Get down!
+366	00:25:49	00:25:51	Back it up!
+367	00:25:51	00:25:53	Maybe in your car you would've had a chance.
+368	00:25:54	00:25:56	You're under arrest. Get him up.
+369	00:25:56	00:25:58	Let's go.
+370	00:26:11	00:26:13	Oh...
+371	00:26:16	00:26:17	What is it, Greg?
+372	00:26:17	00:26:19	I was just thinking about the time I went joyriding.
+373	00:26:19	00:26:22	You? Really?
+374	00:26:22	00:26:23	I was 12.
+375	00:26:23	00:26:27	My Papa Olaf bought a red 280-ZX.
+376	00:26:27	00:26:30	Man, it was love at first sight.
+377	00:26:30	00:26:34	And I have no idea what made me think I could get away with it.
+378	00:26:34	00:26:41	But when Papa O went down for his afternoon nap, I swiped the keys and took it for a spin.
+379	00:26:41	00:26:43	Where'd you go?
+380	00:26:43	00:26:46	Around the block-- twice.
+381	00:26:46	00:26:50	And when I was rolling it back into the driveway, I almost ran over my foot.
+382	00:26:51	00:26:53	Papa Olaf woke up, had no idea.
+383	00:26:53	00:26:55	He never found out.
+384	00:26:55	00:26:58	Hmm... you're a little car thief.
+385	00:26:58	00:27:00	Yeah, guess I am.
+386	00:27:02	00:27:05	So, listen, Miyamoto lawyered up.
+387	00:27:05	00:27:09	But according to the guys in the gang unit, he's been involved in stuff like this before.
+388	00:27:09	00:27:15	He got busted in a chop shop raid last summer, but since he was a juvee, and not principally involved, they turned him loose.
+389	00:27:15	00:27:18	I'm pretty sure he's involved in this, too.
+390	00:27:18	00:27:20	Well, unfortunately, his car isn't.
+391	00:27:20	00:27:26	Well, his wheel width matches, so do the tires.
+392	00:27:26	00:27:30	And Hodges confirmed the paint-- Flatz uranium number two.
+393	00:27:30	00:27:37	That may be so, but while at the crime scene, I collected broken glass associated with the impact.
+394	00:27:37	00:27:39	It turned out to be headlight glass.
+395	00:27:39	00:27:42	These headlights are plastic.
+396	00:27:42	00:27:47	There is no way that this glass came from that car.
+397	00:28:06	00:28:07	Is that Trevor?
+398	00:28:09	00:28:12	Looks like he was more of a racer than people thought.
+399	00:28:12	00:28:13	Where did you get to this?
+400	00:28:13	00:28:16	Well, that photo was on Cindy's phone.
+401	00:28:16	00:28:21	It was taken at the winner's circle of Street Rumble, so I searched their site and this came up. It's from nine days ago.
+402	00:28:21	00:28:24	Check out that paint job on the other car.
+403	00:28:24	00:28:27	Yellow flames.
+404	00:28:27	00:28:29	How much do you want to bet it's Flatz uranium number two?
+405	00:28:39	00:28:41	Ouch.
+406	00:28:41	00:28:43	He got whiplashed in that spinout.
+407	00:28:45	00:28:47	That's probably what setoff his Chiari.
+408	00:28:47	00:28:50	Which means that his death was probably an accident.
+409	00:28:50	00:28:53	Yeah.
+410	00:29:01	00:29:03	Wait a minute.
+411	00:29:05	00:29:07	That is Renata Clarke.
+412	00:29:07	00:29:09	Cindy Warner's best friend.
+413	00:29:09	00:29:12	So, Trevor smokes Renata in an organized race.
+414	00:29:12	00:29:15	Maybe the desert was a rematch.
+415	00:29:22	00:29:25	All right, you hear that light ticking sound?
+416	00:29:26	00:29:28	That's the hot solid lifter cam.
+417	00:29:28	00:29:30	The valves need adjusting.
+418	00:29:30	00:29:34	Shut it down. See, if you listen, your car will tell you everything.
+419	00:29:34	00:29:36	There's no guesswork.
+420	00:29:36	00:29:42	Unlike your girlfriend, she'll tell you exactly what she means, but you have to listen, because...
+421	00:29:44	00:29:47	If you don't, your car's just a noisy heap of metal.
+422	00:29:47	00:29:49	So take care of those valves. Okay, Gus.
+423	00:29:49	00:29:51	Hi. Can I help you?
+424	00:29:51	00:29:53	Hi there. Mr. Davis? Yes.
+425	00:29:53	00:29:56	We're with the crime lab.
+426	00:29:56	00:29:58	I understand that you're Renata's legal guardian.
+427	00:29:58	00:30:02	I am. I'm her uncle and her shop teacher.
+428	00:30:02	00:30:04	We're going to need to take a look at her car.
+429	00:30:04	00:30:09	Sure. Uh, yeah, it's right over here, only it's not for sale.
+430	00:30:09	00:30:11	Renata? Come on out.
+431	00:30:11	00:30:14	Uh, these people want to take a look at the car.
+432	00:30:17	00:30:19	What's this all about, Gus?
+433	00:30:19	00:30:20	I don't know.
+434	00:30:24	00:30:26	No signs of blood spatter or body damage.
+435	00:30:26	00:30:28	Even the tires look clean.
+436	00:30:28	00:30:30	But the headlights are glass.
+437	00:30:35	00:30:36	Well, the wheel width is right.
+438	00:30:36	00:30:38	There's no way we're off base on this.
+439	00:30:43	00:30:44	Maybe we're not.
+440	00:30:44	00:30:47	Check it out.
+441	00:30:47	00:30:50	Yellow paint overspray.
+442	00:30:50	00:30:52	This area's been recently repaired and repainted.
+443	00:30:56	00:30:58	What are you looking for?
+444	00:31:00	00:31:01	Renata...
+445	00:31:01	00:31:04	where were you the night that Cindy went missing?
+446	00:31:04	00:31:08	Um, I went to Giant Burger to meet up with some friends for dinner.
+447	00:31:08	00:31:10	When the fries got cold, I came home.
+448	00:31:10	00:31:12	Studied calc and fell asleep on my textbook.
+449	00:31:12	00:31:14	True story.
+450	00:31:14	00:31:16	00 in the morning?
+451	00:31:16	00:31:19	Around midnight, I woke up, ink on my face and everything.
+452	00:31:19	00:31:23	I watched the Gossip Girl I DVR'd and called Cindy to go over the pertinent details.
+453	00:31:23	00:31:24	Did you made plans to meet up?
+454	00:31:24	00:31:26	Meet up?
+455	00:31:26	00:31:27	There's no meeting up.
+456	00:31:27	00:31:29	Cindy and I talk every night.
+457	00:31:29	00:31:31	This is nothing out of the ordinary.
+458	00:31:31	00:31:33	Wait.
+459	00:31:33	00:31:36	You couldn't possibly think I was there when Cindy...
+460	00:31:36	00:31:38	When Cindy what? You think I killed her?
+461	00:31:39	00:31:41	Cindy was my best friend!
+462	00:31:41	00:31:42	I would never hurt her!
+463	00:31:42	00:31:43	Never! Renata.
+464	00:31:43	00:31:44	What's this all about?
+465	00:31:44	00:31:48	Evidence consistent with this car was collected at a crime scene, Mr. Davis.
+466	00:31:48	00:31:51	This vehicle will now be impounded.
+467	00:31:51	00:31:54	Impound? What? Because of some stupid measuring tape?
+468	00:31:54	00:31:55	You can't take it!
+469	00:31:55	00:31:58	You can't let them take my car! You don't actually have a choice in the matter.
+470	00:31:58	00:31:59	Okay. Fine. Look.
+471	00:31:59	00:32:01	She was at home.
+472	00:32:01	00:32:02	I was with her.
+473	00:32:02	00:32:04	And we're done talking.
+474	00:32:19	00:32:27	Okay, you guys are looking for fibers blood, hair-- any transfer that would confirm this is the vehicle that struck and killed Cindy Warner, okay?
+475	00:32:27	00:32:33	The suspect hides the murder weapon in plain sight, in her auto shop class.
+476	00:32:33	00:32:35	That's pretty sophisticated for a high school girl. Right.
+477	00:32:35	00:32:39	She's definitely more sophisticated than the ones you chat with on the Twilight message boards.
+478	00:32:41	00:32:42	Wait, wait.
+479	00:32:42	00:32:47	So, I'm guessing that about a million grubby teenagers probably pawed their way all around this thing.
+480	00:32:47	00:32:51	So how exactly do we put Renata behind the wheel when Cindy was killed?
+481	00:32:51	00:32:53	By going over it with a fine-tooth comb.
+482	00:32:53	00:32:57	If we can rule out other drivers, then we can build a pretty good case. Right.
+483	00:32:57	00:32:59	What if the other driver was wearing gloves?
+484	00:32:59	00:33:03	Helping or hindering, Wendy, which one's it going to be?
+485	00:33:03	00:33:04	I am helping.
+486	00:33:04	00:33:06	Attagirl. Thanks.
+487	00:33:11	00:33:12	What do you got there?
+488	00:33:16	00:33:18	Kids. Gross.
+489	00:33:18	00:33:22	There are only two ways to get to the drag where Cindy was killed.
+490	00:33:22	00:33:24	One is an exit off the 95. Mm-hmm.
+491	00:33:24	00:33:28	And the other's a turn off Blue Diamond Road, which is the way to get there from Henderson.
+492	00:33:28	00:33:31	And where both Trevor and Renata live.
+493	00:33:31	00:33:37	Is there a traffic camera or video surveillance at the Blue Diamond intersection? I am just going to check that out.
+494	00:33:37	00:33:39	Good. PDs doing their part.
+495	00:33:39	00:33:42	Somebody's bound to get lucky.
+496	00:33:42	00:33:45	This is a 1933 Ford Roadster.
+497	00:33:45	00:33:49	It was involved in a street race that resulted in the death of a teenage girl.
+498	00:33:49	00:33:57	Now, we have reason to believe that the street gang known as the Demons aided the driver by chopping the parts of this car immediately after the incident.
+499	00:33:57	00:34:04	Now, the gang unit has supplied you with a list of the known Demon chop shops, several of which are fronted by legitimate businesses.
+500	00:34:04	00:34:08	Now, the job is to locate and recover any and all parts from this vehicle.
+501	00:34:08	00:34:10	And when you do so, give CSI a call.
+502	00:35:09	00:35:14	Cindy Warner's sweater made quite the impression on the hood of Renata's car.
+503	00:35:16	00:35:26	There was so much kinetic energy transferred in the collision that when the fabric came into contact with the hood, it actually deformed the clear coat and the paint.
+504	00:35:26	00:35:32	After that, she takes the car to the Demons who replace the parts and paint everything to match.
+505	00:35:32	00:35:34	And she pretends the whole thing didn't happen.
+506	00:35:34	00:35:36	Were there any other prints besides hers on the steering wheel?
+507	00:35:37	00:35:39	No. No, we got her as good as we can.
+508	00:35:39	00:35:41	You know, there's one thing that I still don't get.
+509	00:35:41	00:35:51	So, Renata loses to Trevor in a legal, organized race, and then a week later, they have a rematch at an illegal drag in the desert.
+510	00:35:51	00:35:53	Why not just wait until the next Rumble?
+511	00:35:54	00:35:56	Racer mentality runs in her family.
+512	00:35:56	00:36:00	Her guardian was on the stock car circuit in the '70s.
+513	00:36:00	00:36:01	Made a bit of a name for himself.
+514	00:36:01	00:36:05	Back then, guys used to build their own cars and race them for pink slips.
+515	00:36:05	00:36:07	He obviously passed the bug on to Renata.
+516	00:36:07	00:36:09	Uh, guys, we got a problem.
+517	00:36:09	00:36:14	These were taken by a traffic camera on Blue Diamond Road the night of Cindy's death.
+518	00:36:14	00:36:18	That's Trevor's Porsche with Renata behind the wheel.
+519	00:36:18	00:36:19	That doesn't make any sense.
+520	00:36:19	00:36:20	It blows up our whole theory.
+521	00:36:20	00:36:21	Trevor wasn't in the desert.
+522	00:36:21	00:36:23	It wasn't a rematch.
+523	00:36:23	00:36:27	So then what-- he let Renata borrow his car to... what?
+524	00:36:27	00:36:28	Race who?
+525	00:36:29	00:36:30	Her car was already there.
+526	00:36:30	00:36:32	We're missing something.
+527	00:36:32	00:36:34	Okay, but what?
+528	00:36:39	00:36:40	I think I know.
+529	00:36:45	00:36:47	Want a piece of gum?
+530	00:36:48	00:36:50	Piece of gum, Gus?
+531	00:36:53	00:36:55	We know you didn't race Trevor in the desert, Renata.
+532	00:36:57	00:37:00	Finally. It was starting to feel like harassment.
+533	00:37:00	00:37:02	You were racing each other.
+534	00:37:04	00:37:07	We found a wad of chewing gum stuck on the back of the steering wheel of Renata's car.
+535	00:37:07	00:37:09	I know you're a fan of Chuck Yeager's. So am I.
+536	00:37:09	00:37:14	Chuck used to snag a stick of Beeman from his mechanic before he did a test flight.
+537	00:37:14	00:37:16	And then he'd take the gum, right?
+538	00:37:16	00:37:19	And he'd place it...
+539	00:37:19	00:37:21	right on the cockpit.
+540	00:37:21	00:37:25	So it'd be there on his safe return home.
+541	00:37:25	00:37:29	And I guess that in your racing days, you'd leave a wad of gum on the steering wheel?
+542	00:37:29	00:37:30	Just like Chuck.
+543	00:37:32	00:37:37	Well, once we match your DNA to that chewing gum, it's like the checkered flag for us.
+544	00:37:37	00:37:39	So, I chew gum.
+545	00:37:39	00:37:42	Renata and I work together on that car all the time.
+546	00:37:42	00:37:43	That doesn't prove anything.
+547	00:37:43	00:37:51	The morning that Trevor died, he couldn't find his car keys, but he said found them later inside his car.
+548	00:37:51	00:37:59	So I think that you got your BFF Cindy to steal the car and bring it out the desert so you could race it.
+549	00:37:59	00:38:06	And after Cindy got killed, you drove the car back into Trevor's house and left the keys inside the car.
+550	00:38:18	00:38:20	He...
+551	00:38:21	00:38:25	We, we didn't mean to... We didn't do anything.
+552	00:38:25	00:38:26	And we're leaving.
+553	00:38:26	00:38:28	No, you're not leaving. Well, wait a minute.
+554	00:38:28	00:38:31	Actually, you can leave.
+555	00:38:31	00:38:32	But you're going to stay.
+556	00:38:32	00:38:34	You're under arrest.
+557	00:38:34	00:38:35	Cuff her. Read her her rights.
+558	00:38:36	00:38:37	Charge is felony murder. She were there.
+559	00:38:37	00:38:39	You want to give her a hug, buddy, now's a good time.
+560	00:38:39	00:38:41	It's okay, Gus.
+561	00:38:41	00:38:42	I'm going to be okay. No.
+562	00:38:43	00:38:43	Don't.
+563	00:38:44	00:38:46	It's my fault. Don't!
+564	00:38:47	00:38:49	It was my fault.
+565	00:38:53	00:38:54	What the hell happened out there?
+566	00:38:55	00:39:00	That guy's never raced a day in his life and he beat you?! His car runs like it's on jet fuel. There's no beating that.
+567	00:39:00	00:39:01	You were slow on your gear changes.
+568	00:39:01	00:39:06	If you had the guts of a real racer you would've beat him! His car is better than ours, Gus.
+569	00:39:06	00:39:08	Get over it!
+570	00:39:09	00:39:14	I saw Trevor's little toaster all the time in class.
+571	00:39:14	00:39:16	It's not about what's under the hood.
+572	00:39:16	00:39:22	And I had to show Renata that what matters most is the heart behind the wheel.
+573	00:39:22	00:39:24	Cindy was dating Trevor.
+574	00:39:26	00:39:31	I got Renata to convince Cindy to steal Trevor's car.
+575	00:39:31	00:39:35	so I could prove my point.
+576	00:39:46	00:39:47	I don't know what came over me.
+577	00:39:48	00:39:51	I just never liked to lose to anyone.
+578	00:39:59	00:40:01	Cindy!
+579	00:40:01	00:40:04	Cindy! Get in the car! Get in the car!
+580	00:40:06	00:40:07	No! We have to find her!
+581	00:40:08	00:40:09	All right, I will, but I want you out of here.
+582	00:40:09	00:40:11	Take Trevor's car back and go home.
+583	00:40:18	00:40:22	I tried.
+584	00:40:22	00:40:24	I tried to find her, but I couldn't.
+585	00:40:29	00:40:31	But I felt that hit.
+586	00:40:33	00:40:36	There was nothing I could do for her.
+587	00:40:37	00:40:44	I gave that Miyamoto kid 500 bucks to make the car like new overnight.
+588	00:40:47	00:40:48	This is on me.
+589	00:40:48	00:40:51	No.
+590	00:40:51	00:40:53	It was my fault.
+591	00:40:53	00:40:58	If I hadn't had Cindy steal Trevor's car, she never would have been out there in the first place.
+592	00:40:58	00:40:59	You did.
+593	00:41:00	00:41:02	She was.
+594	00:41:02	00:41:04	Who won?
+595	00:41:08	00:41:11	Brass said the D.A.'s going to charge them both.
+596	00:41:11	00:41:15	There you go-- two lives ruined, two dead kids and for what?
+597	00:41:15	00:41:18	So some old-time race car driver could show off?
+598	00:41:18	00:41:19	It's a shame.
+599	00:41:19	00:41:21	When you're young, you think you're immortal.
+600	00:41:21	00:41:24	And when you get older, you just want to remember how that felt.
+601	00:41:25	00:41:28	Driving crazy fast on an open road.
+602	00:41:28	00:41:30	We're not getting that old, are we? (chuckles)
+603	00:41:30	00:41:31	Good night, Nicky.
+604	00:41:31	00:41:33	Good night, Catherine. I'll see you tomorrow.

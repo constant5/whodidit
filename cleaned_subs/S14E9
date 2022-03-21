@@ -1,703 +1,656 @@
-,start,end,text
-0,00:00:10,00:00:11,"(TV playing, man speaking indistinctly)"
-1,00:00:17,00:00:19,"(motorcycle revs in distance, phone line rings)"
-2,00:00:19,00:00:21,WOMAN: 911 operator. What's your emergency?
-3,00:00:21,00:00:22,(siren wails) MAN: I'm at the Sky View Motel.
-4,00:00:22,00:00:25,I was making a delivery. You have to send someone.
-5,00:00:25,00:00:27,"I think they're dead. I don't know for sure, but... Slow down, sir."
-6,00:00:27,00:00:28,You need to tell me what happened.
-7,00:00:28,00:00:30,Are there people injured?
-8,00:00:30,00:00:31,MAN: There's blood. There's blood everywhere.
-9,00:00:31,00:00:34,(siren chirps)
-10,00:00:34,00:00:35,"(sighs wearily) Well, it's a messy one."
-11,00:00:35,00:00:44,"If you don't believe me, ask the pizza delivery guy there. STOKES: Yeah, is he the one who called it in? Yeah, he was delivering pizzas to, uh, one of the rooms nearby."
-12,00:00:44,00:00:46,"The door to 114 was ajar, so he looked in."
-13,00:00:46,00:00:49,What do we have? Two victims.
-14,00:00:49,00:00:51,"Mr. and Mrs. Smith. Oh, that's original."
-15,00:00:51,00:00:52,Anybody know who they really are?
-16,00:00:52,00:00:53,No.
-17,00:00:53,00:00:55,And I don't know what they did to deserve this.
-18,00:01:10,00:01:14,PHILLIPS: ...63... 64... 65...
-19,00:01:14,00:01:17,"66, 67..."
-20,00:01:17,00:01:21,68... 69... 70...
-21,00:01:21,00:01:22,"71, 72... STOKES: Talk to me, David."
-22,00:01:22,00:01:26,I'm trying to determine the number of stab wounds.
-23,00:01:26,00:01:28,"But, frankly, there are just too many to count."
-24,00:01:31,00:01:32,FINLAY: This is disturbing.
-25,00:01:35,00:01:37,"STOKES: Hey, wait a minute."
-26,00:01:37,00:01:40,You know something? I've been here.
-27,00:01:40,00:01:45,"Yeah, we had that OD out on the street a while back. Yeah, yeah, in the motel, but I mean, in this room--this exact one."
-28,00:01:45,00:01:46,I-I've been here.
-29,00:01:46,00:01:49,Room 114.
-30,00:01:49,00:01:51,I remember the view of the neon from that window.
-31,00:01:51,00:01:54,This is it. You're right.
-32,00:01:54,00:01:59,"We have been here before. Yeah, it was a dismemberment murder; victim was in his 20s."
-33,00:01:59,00:02:01,"It was about, uh, two months ago. No, I think it was more recent."
-34,00:02:01,00:02:04,"It was another couple, but the woman was bludgeoned..."
-35,00:02:04,00:02:05,in her sleep.
-36,00:02:05,00:02:07,I am pretty sure it was the dismemberment.
-37,00:02:07,00:02:09,"I'm sorry, but-but you're both right."
-38,00:02:09,00:02:13,"I've been here twice before, once for the dismemberment and again for the couple."
-39,00:02:13,00:02:15,And now this.
-40,00:02:15,00:02:19,Anybody else getting a really bad feeling about this place?
-41,00:02:19,00:02:22,"Yeah... yeah, this the world's most unlucky motel room."
-42,00:03:00,00:03:02,"(indistinct radio communication, siren wailing in distance)"
-43,00:03:14,00:03:18,"All right, that's three murder scenes all in the same spot."
-44,00:03:18,00:03:20,"They got to be related, don't you think?"
-45,00:03:20,00:03:26,Maybe there's a connection between the victims or the killer has a weird fixation of some kind.
-46,00:03:26,00:03:29,I don't think I'm ready to talk about past crimes yet.
-47,00:03:29,00:03:31,Have to focus on this one first.
-48,00:03:31,00:03:33,"Yeah, I hear you."
-49,00:03:33,00:03:35,I'll take the bathroom.
-50,00:04:01,00:04:05,"(man yelling, blade slicing)"
-51,00:04:24,00:04:25,(woman screams)
-52,00:04:27,00:04:29,(woman screaming)
-53,00:04:34,00:04:36,"BRASS: So, how long have you been manager here?"
-54,00:04:36,00:04:39,"Uh, since about the time I learned to walk."
-55,00:04:39,00:04:41,"My parents built this place, so... I grew up here."
-56,00:04:41,00:04:42,Oh! Yeah.
-57,00:04:42,00:04:43,All mine now.
-58,00:04:43,00:04:45,Do you have any idea who might've done this?
-59,00:04:45,00:04:48,Isn't that your business to figure that out?
-60,00:04:48,00:04:49,"I mean, I know we're not the Bellagio, but..."
-61,00:04:49,00:04:54,"if I have to drop the rates any lower, I might as well just board the place up."
-62,00:04:54,00:04:57,"Yeah. So, you got about, what, uh, 20 rooms here?"
-63,00:04:57,00:04:59,Tell me about the people who stay in them.
-64,00:04:59,00:05:03,"It's like the sign says. I mean, by the night, by the week and by the month."
-65,00:05:03,00:05:04,I'm gonna need a list of names.
-66,00:05:04,00:05:06,"Well, that could be a problem."
-67,00:05:06,00:05:07,"Not that I wouldn't give it, it's just..."
-68,00:05:07,00:05:08,I don't have it.
-69,00:05:09,00:05:11,"Come on, man."
-70,00:05:11,00:05:13,The place is 39 bucks a night.
-71,00:05:13,00:05:16,"If people have cash, what do I care about their names?"
-72,00:05:16,00:05:20,"Look, none of 'em are killers, though-- trust me."
-73,00:05:20,00:05:22,How do you know that?
-74,00:05:22,00:05:25,"Well, there's no one here that interesting."
-75,00:05:45,00:05:46,(liquid sloshing)
-76,00:06:07,00:06:09,"Hey, Finn!"
-77,00:06:09,00:06:11,Looks like the Smiths had a guest last night.
-78,00:06:11,00:06:14,"The towels are damp, and I found a red hair in the shower drain."
-79,00:06:14,00:06:17,"Hmm, that doesn't match either of our victims."
-80,00:06:17,00:06:19,And there were three toothbrushes around the sink.
-81,00:06:19,00:06:21,"Uh, I found a receipt for one."
-82,00:06:21,00:06:23,It's from the drugstore around the corner--last night.
-83,00:06:23,00:06:25,So a guest they didn't plan on.
-84,00:06:25,00:06:31,"There's more. They also bought shampoo and a pair of scissors, which have since disappeared."
-85,00:06:31,00:06:33,Could be the murder weapon.
-86,00:06:33,00:06:40,"So there was someone in here before the killing started. Yeah, who showered and-- I don't know-- judging from the toothbrush, might've been planning on staying the night."
-87,00:06:40,00:06:41,So what went wrong?
-88,00:06:52,00:06:55,"I've been doing this long enough that nothing shocks me, but if a case could..."
-89,00:06:57,00:07:00,Just the sheer savagery involved.
-90,00:07:00,00:07:02,More than a hundred stab wounds in each victim.
-91,00:07:02,00:07:05,Certainly beyond what was necessary...
-92,00:07:05,00:07:07,if the goal was to simply kill them.
-93,00:07:07,00:07:09,Can I see that?
-94,00:07:09,00:07:13,"It's, uh, way beyond what we sometimes see with crimes of passion or extreme anger."
-95,00:07:13,00:07:14,This was madness.
-96,00:07:17,00:07:18,RUSSELL: Their names really were Smith.
-97,00:07:18,00:07:20,ROBBINS: Richard and Ann.
-98,00:07:20,00:07:25,"According to family, they were in from Flagstaff for an antique toy and collectibles convention."
-99,00:07:25,00:07:27,That would explain the dolls in the room.
-100,00:07:27,00:07:29,Sounds like they were solid people.
-101,00:07:29,00:07:33,"She volunteered, ran pet therapy at an old folks home."
-102,00:07:33,00:07:35,He worked with the homeless.
-103,00:07:36,00:07:38,Squeaky clean.
-104,00:07:38,00:07:40,"Course, that wouldn't be the first time the..."
-105,00:07:40,00:07:43,squeaky-clean have indulged their dark side here in Vegas.
-106,00:07:43,00:07:46,"They could've invited somebody back to the room, spice up their life a little bit."
-107,00:07:48,00:07:50,If so...
-108,00:07:50,00:07:53,certainly got more than they bargained for.
-109,00:07:53,00:07:59,"Hey. So, I... pulled the files for the other two motel murder scenes."
-110,00:07:59,00:08:01,"It's weird, don't you think?"
-111,00:08:01,00:08:03,That a killer would fixate on one room?
-112,00:08:03,00:08:04,What do you think the significance is?
-113,00:08:04,00:08:05,Why does he feel the need to kill there?
-114,00:08:05,00:08:09,"Well, that's assuming that these are all the work of one killer."
-115,00:08:09,00:08:11,It could be that there's no connection.
-116,00:08:11,00:08:14,That you're looking for patterns where there are none.
-117,00:08:14,00:08:18,So it's a coincidence that three totally unrelated killers chose this one room?
-118,00:08:18,00:08:20,"I'm just saying, we don't know yet."
-119,00:08:20,00:08:24,"All right, first one: Mark Bell."
-120,00:08:24,00:08:29,"11 weeks ago, he stayed in Room 114 after his girlfriend kicked him out."
-121,00:08:29,00:08:31,"Yeah, I remember. I worked this case with Finn."
-122,00:08:31,00:08:37,"The maid found him tied to the bed, severe lacerations to his legs. They were nearly cut off."
-123,00:08:37,00:08:38,He bled to death.
-124,00:08:38,00:08:40,There was a bloody knife found on the floor.
-125,00:08:40,00:08:42,Too smeared to yield any viable prints.
-126,00:08:42,00:08:46,"Detectives, at the time, thought the attack was related to a drug debt. (screaming)"
-127,00:08:46,00:08:49,They thought the dealer was sending a message.
-128,00:08:50,00:08:53,Four weeks ago...
-129,00:08:53,00:08:54,second attack in the room.
-130,00:08:54,00:08:56,Alex and Tina Garnez.
-131,00:08:56,00:08:59,Nick and I handled this one.
-132,00:09:01,00:09:03,Their house had been foreclosed on.
-133,00:09:03,00:09:05,They were living in their car for months.
-134,00:09:05,00:09:08,Mr. Garnez finally got a job.
-135,00:09:08,00:09:11,Moving to the motel was supposed to be a step up.
-136,00:09:11,00:09:16,"That night, he was sneaking a cigarette in the bathroom while his wife slept."
-137,00:09:16,00:09:18,The killer started with his wife...
-138,00:09:21,00:09:24,...clubbing her while she was sleeping.
-139,00:09:24,00:09:26,Then he must've surprised Mr. Garnez in the bathroom...
-140,00:09:26,00:09:28,No!
-141,00:09:28,00:09:30,Overpowered him.
-142,00:09:32,00:09:34,He survived.
-143,00:09:34,00:09:36,He's still in the hospital recovering.
-144,00:09:36,00:09:38,And then last night...
-145,00:09:38,00:09:39,the Smiths.
-146,00:09:41,00:09:43,(sighs) Still think we're...
-147,00:09:43,00:09:46,"dealing with random, unrelated events?"
-148,00:09:46,00:09:49,"STOKES: All right, Finn, I'll see you back at the lab."
-149,00:09:54,00:09:56,(helicopter hovering)
-150,00:10:07,00:10:10,Come on now. Open up. I saw you in there.
-151,00:10:11,00:10:13,Hey.
-152,00:10:13,00:10:15,I was asleep last night.
-153,00:10:15,00:10:17,I was not involved. I already told the cops.
-154,00:10:17,00:10:19,"Oh, yeah, yeah. That's cool. I'm not, uh..."
-155,00:10:19,00:10:21,I'm not here to grill you. (chuckles)
-156,00:10:21,00:10:24,Kind of looks like you like to call this place home.
-157,00:10:24,00:10:26,I'm guessing you see everything that goes on in here.
-158,00:10:26,00:10:28,You... didn't see anything weird?
-159,00:10:28,00:10:30,Anybody suspicious running around here lately?
-160,00:10:30,00:10:33,It's not my place to judge another man in that way.
-161,00:10:33,00:10:35,Only God can judge.
-162,00:10:35,00:10:39,"Right... well, God would want you to help me catch a killer, wouldn't he?"
-163,00:10:39,00:10:41,I'm sorry.
-164,00:10:41,00:10:43,"Now, sir, please, please, hey, come on, now."
-165,00:10:43,00:10:46,A couple was violently murdered last night.
-166,00:10:46,00:10:49,A woman a few weeks ago. A young man before that.
-167,00:10:49,00:10:52,"All in the same room, all innocent victims."
-168,00:10:52,00:10:55,Innocent? There's no one on this planet who's innocent.
-169,00:10:57,00:10:58,We're all sinners.
-170,00:10:58,00:11:02,"Yeah, yeah, well, that-that doesn't really help me do my job."
-171,00:11:02,00:11:04,They were called to God.
-172,00:11:04,00:11:05,That's God's plan.
-173,00:11:07,00:11:08,Your job is done.
-174,00:11:08,00:11:10,"Yeah, I just..."
-175,00:11:13,00:11:19,Might be my biggest regret about this job-- I know way too much about hotel bedspreads.
-176,00:11:19,00:11:24,"And hotel carpets. Don't go barefoot. So, we have three different bedspreads from our..."
-177,00:11:24,00:11:25,three different crime scenes.
-178,00:11:25,00:11:27,I ran the DNA.
-179,00:11:27,00:11:33,The bedspread on the left is from the very first murder scene. I'm guessing it lived in that room for who knows how long.
-180,00:11:33,00:11:37,Long enough that I was able to identify 26 individual DNA profiles.
-181,00:11:37,00:11:42,Whoa. Yeah. The replacement bedspread there was only in the room for seven weeks. So fewer contributions.
-182,00:11:42,00:11:44,16 of them.
-183,00:11:44,00:11:47,"And the third bedspread, from last night's crime scene."
-184,00:11:47,00:11:49,Yielded only nine contributors.
-185,00:11:49,00:11:55,"But here's the thing: One of them, a male, is common to all three bedspreads."
-186,00:11:55,00:11:59,"One person, the same person was in the room before each of the murders?"
-187,00:12:00,00:12:02,Have you run the samples through CODIS?
-188,00:12:02,00:12:03,It's running right now.
-189,00:12:05,00:12:08,Here we go.
-190,00:12:08,00:12:12,"Randall Wicks, 22. He must have just been added to the system."
-191,00:12:12,00:12:15,There's why-- sexual battery charge two weeks ago.
-192,00:12:15,00:12:16,Look where he was arrested.
-193,00:12:18,00:12:20,That same motel. The same room!
-194,00:12:20,00:12:24,"I'll call Brass, get out a broadcast."
-195,00:12:30,00:12:32,"Oh, how the mighty have fallen, huh, Randall?"
-196,00:12:32,00:12:36,You used to be the featured dancer in the Tangiers All Male Review.
-197,00:12:36,00:12:38,How'd you let that gig slip away?
-198,00:12:38,00:12:39,I don't know.
-199,00:12:39,00:12:41,"I got bored, so I quit."
-200,00:12:41,00:12:44,"Well, or maybe you found something more interesting to do, huh?"
-201,00:12:47,00:12:52,"Oh, hey, man, what the hell? SANDERS: Three separate murders in the same room at the Sky View Motel."
-202,00:12:52,00:12:56,Your DNA was found in the room after each of the crimes.
-203,00:12:56,00:13:00,What? Wait a minute-- Sky View Motel?
-204,00:13:00,00:13:02,Was that in room 114?
-205,00:13:02,00:13:04,"I use that room, frequently."
-206,00:13:04,00:13:05,For business.
-207,00:13:05,00:13:08,So... you're a prostitute?
-208,00:13:08,00:13:14,"Dude, I'm a stud, letting frustrated housewives get a taste of something they wouldn't even get close to otherwise."
-209,00:13:14,00:13:17,"Okay, stud, what about the housewife you beat up in room 114?"
-210,00:13:17,00:13:19,The sexual battery charge.
-211,00:13:19,00:13:21,Or was that just part of the pony ride experience?
-212,00:13:21,00:13:23,That was self-defense.
-213,00:13:23,00:13:24,I'm serious.
-214,00:13:24,00:13:27,I was in fear for my life.
-215,00:13:27,00:13:28,Okay...
-216,00:13:28,00:13:30,"I meet this woman there, right?"
-217,00:13:30,00:13:33,Totally normal at first.
-218,00:13:33,00:13:35,"Then we start getting into it, and..."
-219,00:13:35,00:13:37,"I don't know, she goes all crazy."
-220,00:13:37,00:13:40,"Starts hallucinating or something, screaming at the walls."
-221,00:13:40,00:13:43,Pure freak show. SANDERS: And why?
-222,00:13:43,00:13:45,What would make her do that?
-223,00:13:45,00:13:47,"Well, I ain't a doctor or nothing, but..."
-224,00:13:47,00:13:49,must be the sex just blew her mind.
-225,00:13:50,00:13:52,"Yeah, that must have been it."
-226,00:13:52,00:13:57,"(sighs): Well... aside from being a complete tool, what do you think?"
-227,00:13:57,00:14:04,"Well, he still could be our killer. Well, the problem is, all we have is DNA evidence, and we can't disprove his story of how it got in that room."
-228,00:14:04,00:14:08,"Well, we do have an eyewitness who could possibly I.D. Randall."
-229,00:14:08,00:14:13,"Alex Garnez, the husband who survived his wife being bludgeoned four weeks ago. He has massive head injuries."
-230,00:14:13,00:14:16,He's still in the hospital-- we don't even know what condition he's in.
-231,00:14:16,00:14:17,"Well, I talked to his doctor."
-232,00:14:17,00:14:20,She said he's struggling psychologically.
-233,00:14:20,00:14:24,"They have him on suicide watch after one failed attempt, but... physically..."
-234,00:14:24,00:14:27,she said he's strong enough to talk to us.
-235,00:14:37,00:14:38,Mr. Garnez.
-236,00:14:38,00:14:40,Um...
-237,00:14:40,00:14:45,"I'm CSI Brody, and this is CSI Sanders."
-238,00:14:45,00:14:51,"I'm sorry, but we need to talk to you about the night that you and your wife were attacked."
-239,00:14:53,00:14:55,How much do you remember?
-240,00:14:57,00:15:00,(panting)
-241,00:15:00,00:15:01,I don't know.
-242,00:15:01,00:15:04,I... I...
-243,00:15:04,00:15:10,"I remember her just lying there, just lying there."
-244,00:15:10,00:15:13,And all the... blood around her...
-245,00:15:17,00:15:20,We were high school sweethearts.
-246,00:15:23,00:15:26,Did you see the person who hurt you and your wife?
-247,00:15:29,00:15:30,Do you remember his face?
-248,00:15:31,00:15:35,"(woman's faint, distorted cries)"
-249,00:15:35,00:15:37,I can see him...
-250,00:15:37,00:15:41,"standing over her, hitting her over..."
-251,00:15:41,00:15:44,and over...
-252,00:15:44,00:15:46,and...
-253,00:15:46,00:15:48,and I'm powerless.
-254,00:15:48,00:15:51,I... I can't stop him.
-255,00:15:51,00:15:53,Like there's a wall between us. I...
-256,00:15:53,00:15:57,Yet I can still hear the sickening sound of...
-257,00:15:57,00:15:59,blow...
-258,00:15:59,00:16:01,after blow.
-259,00:16:01,00:16:03,Mr. Garnez...
-260,00:16:03,00:16:07,we want to... we want to show you some photographs of some faces.
-261,00:16:07,00:16:13,"We need you to tell us if any one of these men looks like the man that we've been talking about, okay?"
-262,00:16:18,00:16:19,He's not there.
-263,00:16:19,00:16:21,Are you sure?
-264,00:16:23,00:16:24,None of these...
-265,00:16:24,00:16:28,is the man that killed my Tina.
-266,00:16:30,00:16:33,"Hodges, you texted me ""911""?"
-267,00:16:33,00:16:34,I did.
-268,00:16:34,00:16:36,What is the 911?
-269,00:16:36,00:16:39,Sorry. Your suspect.
-270,00:16:39,00:16:41,"He ran from the motel room barefoot, correct?"
-271,00:16:41,00:16:42,Mm-hmm.
-272,00:16:42,00:16:43,Yet he left no shoes behind.
-273,00:16:43,00:16:45,He could have been carrying his shoes.
-274,00:16:45,00:16:47,He was in too much of a hurry to put them on.
-275,00:16:47,00:16:51,"Mm, maybe. But there was a bottle of shampoo that Nick found in the bathroom."
-276,00:16:51,00:16:56,"It contained one percent permethrin, formulated to combat head lice."
-277,00:16:56,00:16:57,"Now, I've checked with Doc."
-278,00:16:57,00:17:00,Neither of the Smiths were head lice sufferers.
-279,00:17:00,00:17:01,So the shampoo was for the guest.
-280,00:17:01,00:17:04,Yes. Presumably the killer.
-281,00:17:04,00:17:06,Nick found residue on the wall of the shower.
-282,00:17:06,00:17:09,I've tested it; it contained five percent permethrin.
-283,00:17:09,00:17:11,"Permethrin, for the head lice. No."
-284,00:17:11,00:17:13,"This is five percent, in a body cream."
-285,00:17:13,00:17:16,"It's prescription strength, used to treat scabies."
-286,00:17:16,00:17:19,"I don't want to seem insensitive, but..."
-287,00:17:19,00:17:24,"shoeless, head lice, and scabies--that all sounds like homeless to me."
-288,00:17:24,00:17:28,Richard Smith worked with the homeless back in Flagstaff.
-289,00:17:28,00:17:32,"He could have been doing some sort of outreach, wanted to help somebody, brought them in off the street."
-290,00:17:32,00:17:34,I've already called around.
-291,00:17:34,00:17:40,"There's a local shelter called Street Saviors who had a scabies outbreak last week, where they distributed this very same prescription cream."
-292,00:17:40,00:17:43,"Way to bury the lead, Hodges. That's part of my charm."
-293,00:17:43,00:17:45,It's all in the telling.
-294,00:17:45,00:17:46,FINLAY: The regular.
-295,00:17:46,00:17:48,Yeah. Fruity.
-296,00:17:48,00:17:50,"Okay, thanks so much."
-297,00:17:53,00:17:56,Hey. So I talked to a couple Hey.
-298,00:17:56,00:17:57,of the outreach workers.
-299,00:17:57,00:18:00,"They saw a guy earlier, a guy named Rudy."
-300,00:18:00,00:18:02,He's a regular here.
-301,00:18:02,00:18:05,"He was barefoot, had bloodstained clothes."
-302,00:18:05,00:18:06,Sounds like our boy.
-303,00:18:06,00:18:09,"FINLAY: Yeah. According to the locals, he likes to hang out here, under the bridge."
-304,00:18:16,00:18:17,Anybody seen Rudy?
-305,00:18:17,00:18:19,Huh?
-306,00:18:20,00:18:22,STOKES: You seen Rudy?
-307,00:18:22,00:18:24,You know who Rudy is?
-308,00:18:25,00:18:27,"Hey, where does Rudy stay?"
-309,00:18:32,00:18:34,"Hey, old-timer. Hey, man."
-310,00:18:34,00:18:37,You seen Rudy anywhere?
-311,00:18:52,00:18:54,Rudy! (gasping)
-312,00:18:54,00:18:56,What's wrong?
-313,00:18:57,00:18:59,"What have you been doing, man?"
-314,00:19:00,00:19:02,(panting) Huh?
-315,00:19:03,00:19:07,"Rudy, you're gonna have to come with us."
-316,00:19:07,00:19:12,"Rudy, it says here in my files that you spent some time in the state hospital."
-317,00:19:12,00:19:13,Had a few psych holds?
-318,00:19:13,00:19:16,"Yeah, I have some problems."
-319,00:19:16,00:19:18,What did the doctors diagnose you with?
-320,00:19:19,00:19:26,"Schizophrenia, bipolar disorder, generalized anxiety, paranoia... BRASS: Well, that's okay."
-321,00:19:26,00:19:28,We get the idea.
-322,00:19:28,00:19:31,Do you recognize these two? Richard and Ann?
-323,00:19:31,00:19:33,They're angels.
-324,00:19:33,00:19:36,What do you mean? They rescued me.
-325,00:19:36,00:19:47,"How? I was on the street, out front of a drugstore on Cramer. Oh, that's right near the Sky View Motel. I go there sometimes to ask for change, you know, and-and I..."
-326,00:19:47,00:19:50,"These guys, they jumped me and-and..."
-327,00:19:50,00:19:55,"and they beat me, and they took my change and they took my shoes."
-328,00:19:55,00:20:00,"And-and it probably would have been worse, except that Richard and Ann came along out of nowhere and..."
-329,00:20:00,00:20:03,and chased them away.
-330,00:20:03,00:20:04,"Rudy, what happened next?"
-331,00:20:07,00:20:10,"I told you, they're angels."
-332,00:20:10,00:20:12,They-they-they...
-333,00:20:12,00:20:21,"they asked me if I wanted to stay in their room with them, and they got me a toothbrush and stuff, and they let me get a shower and get all cleaned up."
-334,00:20:21,00:20:22,Did something happen after the shower?
-335,00:20:24,00:20:26,"Something happened, didn't it?"
-336,00:20:28,00:20:29,(mutters): I don't know.
-337,00:20:29,00:20:31,I don't remember.
-338,00:20:31,00:20:33,"Come on, Rudy, think."
-339,00:20:33,00:20:36,Think real hard. (shuddering breath)
-340,00:20:36,00:20:37,(distorted shout): No! No!
-341,00:20:43,00:20:44,There were these dolls...
-342,00:20:44,00:20:50,"a-and there were a whole bunch of them, and they started talking to me and they were looking at me."
-343,00:20:50,00:20:51,"(distorted screaming, eerie voices speaking)"
-344,00:20:53,00:20:55,"What were they saying, Rudy? What did they say?"
-345,00:20:55,00:20:59,Did the dolls tell you to do this?
-346,00:20:59,00:21:01,"(gasps, screams)"
-347,00:21:01,00:21:02,I...
-348,00:21:05,00:21:08,"I did that, didn't I? I did that with the scissors."
-349,00:21:08,00:21:09,I hurt them.
-350,00:21:09,00:21:11,(shrieking)
-351,00:21:11,00:21:12,"(eerie, distorted, high-pitched laughter)"
-352,00:21:12,00:21:13,(shriek echoing)
-353,00:21:13,00:21:15,What about these people?
-354,00:21:15,00:21:17,(Rudy gasping repeatedly)
-355,00:21:19,00:21:20,"Did you hurt them, too?"
-356,00:21:23,00:21:25,I don't know.
-357,00:21:25,00:21:30,"FINLAY: You know, sometimes I think we forget what delicate, complex machines we are."
-358,00:21:30,00:21:38,"You know, all it takes are a few short-circuiting synapses, or a breakdown in myelination, and everything gets thrown out of whack."
-359,00:21:38,00:21:41,"Jules, you just captured a killer."
-360,00:21:41,00:21:44,I know. Then why do I feel so bad?
-361,00:21:44,00:21:48,Because he seems like a nice guy who got dealt a lousy hand in life.
-362,00:21:49,00:21:53,"So we have him for killing the Smiths, right?"
-363,00:21:53,00:21:54,What about the other two attacks?
-364,00:21:54,00:21:57,"Well, I could go over all the evidence and make a case."
-365,00:21:57,00:21:59,He's obviously our prime suspect.
-366,00:21:59,00:22:04,"He frequented the area, and he's obviously unstable."
-367,00:22:07,00:22:08,Good work.
-368,00:22:08,00:22:10,You put some long hours in on this.
-369,00:22:10,00:22:14,"Why-why don't you go home, get yourself some rest."
-370,00:22:27,00:22:31,(TV playing indistinctly in distance)
-371,00:22:31,00:22:33,"(yelling, panting)"
-372,00:22:33,00:22:35,"Take it, take it easy!"
-373,00:22:35,00:22:37,One plus one is two. One for me and one for you.
-374,00:22:37,00:22:40,Two plus two is four. (panting)
-375,00:22:40,00:22:43,That's a couple more. Three plus three is six.
-376,00:22:43,00:22:44,Straight and crooked sticks!
-377,00:22:44,00:22:45,Get away!
-378,00:22:45,00:22:48,(siren wailing)
-379,00:22:48,00:22:50,(muttering)
-380,00:22:50,00:22:51,One plus one is two.
-381,00:22:51,00:22:52,One for me and one for you.
-382,00:22:52,00:22:54,"Two plus two is four, and that's a couple more."
-383,00:22:54,00:22:55,(gasping)
-384,00:22:55,00:22:57,One plus one is two. One for me and one for you.
-385,00:22:57,00:22:59,Two plus two is four. That's a couple more.
-386,00:22:59,00:23:00,Three plus three is six. Ma'am.
-387,00:23:00,00:23:01,Straight and crooked sticks.
-388,00:23:01,00:23:03,"You need to drop that bottle, do you hear me?"
-389,00:23:03,00:23:04,(whimpering)
-390,00:23:04,00:23:05,Four plus four is eight. Seagulls on the gate!
-391,00:23:05,00:23:07,Five plus five is ten. Hey!
-392,00:23:07,00:23:09,Do you hear what I'm saying?!
-393,00:23:09,00:23:12,Drop the bottle!
-394,00:23:12,00:23:13,Ricky doesn't follow directions!
-395,00:23:13,00:23:17,He never follows directions!
-396,00:23:18,00:23:19,(yells)
-397,00:23:19,00:23:21,(Tazer clicking)
-398,00:23:23,00:23:24,"Thanks, man."
-399,00:23:24,00:23:26,"Seriously, thanks."
-400,00:23:26,00:23:28,Thanks. All right.
-401,00:23:28,00:23:29,(gasps)
-402,00:23:29,00:23:31,Hey!
-403,00:23:31,00:23:32,Was she staying here? In the motel?
-404,00:23:32,00:23:34,"Uh, yeah, just since tonight."
-405,00:23:35,00:23:36,What room?
-406,00:23:43,00:23:45,(door creaking)
-407,00:23:48,00:23:50,It's happened again.
-408,00:23:59,00:24:01,"(indistinct radio communication, siren whoops in distance)"
-409,00:24:20,00:24:22,How the hell can this be?
-410,00:24:22,00:24:24,I thought we had our killer.
-411,00:24:24,00:24:26,"Did we mess up, Jules?"
-412,00:24:26,00:24:28,Did we make a mistake with our-our homeless guy?
-413,00:24:28,00:24:32,"No, Rudy's guilty, maybe not of all three, but he definitely killed the Smiths."
-414,00:24:32,00:24:33,Then how do we explain this?
-415,00:24:33,00:24:35,I don't know.
-416,00:24:35,00:24:37,It has to be... unrelated.
-417,00:24:37,00:24:38,Unrelated?
-418,00:24:38,00:24:42,Four murders in the same room over a three-month period.
-419,00:24:42,00:24:43,"That's got to be connected, don't you think?"
-420,00:24:43,00:24:44,(garbled radio transmission)
-421,00:24:46,00:24:51,"All right, I'm sorry. Look, all right, who are our players tonight?"
-422,00:24:51,00:24:53,Who are we talking about here?
-423,00:24:53,00:24:57,"Suspect is a woman, 28-year-old high school math teacher."
-424,00:24:57,00:25:00,Victim was one of her students.
-425,00:25:00,00:25:03,"Together in a sleazy, $39-a-night motel room."
-426,00:25:03,00:25:08,"With lingerie, condoms, sex toys and alcohol."
-427,00:25:08,00:25:10,"Wonder what was going on here, right?"
-428,00:25:10,00:25:14,"Yeah, according to the high school Web site, she was just named Teacher of the Year."
-429,00:25:14,00:25:16,I'll bet she was.
-430,00:25:16,00:25:17,Hey. Hey.
-431,00:25:17,00:25:22,"So, this may sound crazy, but I'm thinking that this isn't what it looks like."
-432,00:25:22,00:25:25,I don't believe that the teacher was sleeping with her student.
-433,00:25:25,00:25:26,"Yeah, you're right, that sounds crazy."
-434,00:25:26,00:25:30,"Well, listen to this voice mail I found on her phone."
-435,00:25:30,00:25:31,"YOUNG MAN: Ms. Stone, it's Matthew."
-436,00:25:31,00:25:40,"I don't know what to do, but my parents have been drinking and fighting, and I can't go home; I'm at a motel."
-437,00:25:40,00:25:41,But I'm scared.
-438,00:25:41,00:25:43,I don't know who else to call.
-439,00:25:43,00:25:46,"I'm sorry, but you have to help, please."
-440,00:25:46,00:25:52,"BRASS: Ms. Stone, we are trying to make sense out of what happened in that room."
-441,00:25:52,00:25:54,But we need your help to do that.
-442,00:25:54,00:26:01,"STOKES: Boy, Matthew must have told you a really sad story to lure you to that motel room."
-443,00:26:01,00:26:10,"Now, obviously, from the items he brought along, he had ideas of getting romantic with you. BRASS: Now, there were a lot of empty liquor bottles in the room."
-444,00:26:10,00:26:11,Was the young man drunk?
-445,00:26:11,00:26:14,There wasn't any drinking.
-446,00:26:14,00:26:17,First thing I did was dump all the alcohol down the sink.
-447,00:26:17,00:26:21,I wanted it clear to Matthew that nothing was going to happen.
-448,00:26:21,00:26:22,Did he get upset?
-449,00:26:22,00:26:23,Is that when he threatened you?
-450,00:26:23,00:26:25,He would never.
-451,00:26:25,00:26:29,Matthew's a... Matthew's a great kid.
-452,00:26:29,00:26:31,"He just had a harmless crush, that's all."
-453,00:26:31,00:26:33,He would never hurt me.
-454,00:26:33,00:26:34,Then why did you kill him?
-455,00:26:39,00:26:42,It wasn't me.
-456,00:26:42,00:26:44,Really? Wasn't you?
-457,00:26:44,00:26:46,"Ms. Stone, look, look at this."
-458,00:26:47,00:26:50,"(whimpering, grunts)"
-459,00:26:50,00:26:52,That's not me.
-460,00:26:52,00:26:55,"I mean, it's me, it's my body, but I..."
-461,00:26:58,00:26:59,I had no control.
-462,00:26:59,00:27:01,It was like there was something inside me.
-463,00:27:01,00:27:02,I was...
-464,00:27:05,00:27:07,...possessed.
-465,00:27:07,00:27:08,BRASS: You were what?
-466,00:27:08,00:27:10,(crying): I was...
-467,00:27:13,00:27:15,I don't know. Part of me really wants to believe her.
-468,00:27:15,00:27:20,"I mean, the woman ranting and screaming on that video from last night was nothing like the woman I met today."
-469,00:27:20,00:27:22,They were two totally different people.
-470,00:27:22,00:27:25,"So, her behavior last night was completely out of character."
-471,00:27:25,00:27:27,Mm-hmm! Did the hospital do a tox screen?
-472,00:27:27,00:27:29,"Yeah, it was clean. Not even alcohol."
-473,00:27:29,00:27:33,Then it's got to be the room.
-474,00:27:33,00:27:35,The room made her do it.
-475,00:27:35,00:27:38,"What, like, The Shining? Hmm?"
-476,00:27:38,00:27:39,The Overlook Hotel?
-477,00:27:39,00:27:43,It's the one thing connecting all of the murders.
-478,00:27:43,00:27:45,"Right now, it's the only thing."
-479,00:27:45,00:27:51,"Okay, so, let's have Hodges and Henry drag their equipment out there and test the room, see what they have to say."
-480,00:27:57,00:27:59,Hmm.
-481,00:28:00,00:28:02,(electronic crackling)
-482,00:28:02,00:28:08,"I've got some elevated VOCs in the air conditioner, but nothing that would explain any of the bizarre behavior."
-483,00:28:08,00:28:10,What about you?
-484,00:28:10,00:28:12,You got anything yet?
-485,00:28:12,00:28:14,Could I have five minutes to look first?
-486,00:28:18,00:28:21,"Oh, and I'm very much enjoying the dirty bathroom."
-487,00:28:21,00:28:22,Thank you for that.
-488,00:28:26,00:28:28,(sighs)
-489,00:28:28,00:28:30,Mm! Mm...
-490,00:28:30,00:28:34,Great. Now I can smell like a fruit bowl for the rest of the day.
-491,00:28:40,00:28:42,(electronic crackling)
-492,00:28:55,00:28:58,(electronic crackling)
-493,00:29:12,00:29:13,(electronic crackling)
-494,00:29:13,00:29:17,It looks like they've got mold inside the walls of the closet.
-495,00:29:17,00:29:19,I'm going to have to get a sample.
-496,00:29:19,00:29:21,Do you have the pry bar in there?
-497,00:29:21,00:29:23,"Hey, I have to open some drywall."
-498,00:29:23,00:29:25,Do you have the pry bar in your kit?
-499,00:29:25,00:29:27,Hodges!
-500,00:29:29,00:29:31,Seriously?
-501,00:29:31,00:29:33,(sighs)
-502,00:29:33,00:29:35,"Hodges, what are you doing?"
-503,00:29:35,00:29:36,I was calling you.
-504,00:29:36,00:29:37,"(grunting, huffing)"
-505,00:29:43,00:29:44,What are you looking at?
-506,00:29:46,00:29:47,"(grunting, growling)"
-507,00:29:49,00:29:52,"What, what's going on with you?"
-508,00:29:52,00:29:54,I know who you are.
-509,00:29:54,00:29:56,"Okay, look, w-why don't you have a seat on the toilet..."
-510,00:29:56,00:29:58,(continues indistinctly)
-511,00:29:58,00:30:00,"I'm gonna help you out, come here."
-512,00:30:00,00:30:03,I can see what you are!
-513,00:30:03,00:30:05,(yelling)
-514,00:30:05,00:30:08,"Hodges, let go of me! That hurts!"
-515,00:30:08,00:30:10,"(Hodges grunts, pants)"
-516,00:30:13,00:30:15,No... Hodges!
-517,00:30:15,00:30:16,"No, no...!"
-518,00:30:19,00:30:20,(Hodges pounding on door)
-519,00:30:20,00:30:22,This is Henry Andrews.
-520,00:30:22,00:30:26,"I'm at the Sky View Motel, room 114, and I have an emergency."
-521,00:30:26,00:30:28,I need police and EMS immediately.
-522,00:30:28,00:30:29,"(Hodges yelling, bellowing)"
-523,00:30:34,00:30:35,Excuse me... Hey! Henry!
-524,00:30:37,00:30:38,Henry?
-525,00:30:38,00:30:39,"Hey, man, you all right?"
-526,00:30:39,00:30:40,What's going on out here?
-527,00:30:40,00:30:41,I don't know exactly.
-528,00:30:41,00:30:43,He just flipped out.
-529,00:30:43,00:30:46,"Nick, I honestly think he would have killed me."
-530,00:30:46,00:30:48,"Hodges? Yeah, but it wasn't Hodges."
-531,00:30:48,00:30:53,"I mean, if you would've seen the look in his eyes, something must have happened to him in there, something that triggered this."
-532,00:30:53,00:30:55,What'd he say to you? Nothing.
-533,00:30:55,00:30:56,Everything that came out of him was unintelligible.
-534,00:30:56,00:31:01,"It was grunts and growls. Hey, so paramedics hit him with a sedative."
-535,00:31:01,00:31:04,"Once they get him to the hospital, maybe we'll figure out what's going on."
-536,00:31:04,00:31:07,"Wait, wait, before he goes, I-I need a-a... a swab."
-537,00:31:07,00:31:08,Check your vest.
-538,00:31:08,00:31:09,ANDREWS: Hold up.
-539,00:31:09,00:31:12,"Hey, buddy, I just need to get some saliva."
-540,00:31:12,00:31:14,Can you help me out? (mumbling)
-541,00:31:14,00:31:15,Can you open up?
-542,00:31:15,00:31:16,"Come on, just open up."
-543,00:31:16,00:31:19,"There you go, help me out."
-544,00:31:19,00:31:20,There you go.
-545,00:31:20,00:31:22,Good.
-546,00:31:22,00:31:23,"Yeah, get him out of here."
-547,00:31:28,00:31:30,DOCTOR: Vitals are good...
-548,00:31:30,00:31:32,(doctor continues indistinctly)
-549,00:31:32,00:31:33,"RUSSELL: Thanks, Doc. I appreciate it."
-550,00:31:33,00:31:35,You're welcome.
-551,00:31:35,00:31:36,What did he say? How's he doing?
-552,00:31:36,00:31:38,He's gonna be okay.
-553,00:31:38,00:31:40,"I mean, his vitals are all in the normal range."
-554,00:31:40,00:31:43,He doesn't seem to be in any physical distress.
-555,00:31:43,00:31:46,"Well, obviously there is something going on in that motel room."
-556,00:31:46,00:31:50,"Now we need to add Hodges to the list of people that went nuts in there, right?"
-557,00:31:50,00:31:54,"Homeless guy, the teacher-- Makes me wonder about our first victim, Mark Bell."
-558,00:31:54,00:31:58,"Who's to say he didn't go crazy, too, and stab himself in his legs."
-559,00:31:58,00:32:03,"If all of this is true, what's it say about the man who lost his wife?"
-560,00:32:03,00:32:08,"ANDREWS: Hey, guys, you are not gonna believe this, but Hodges was drugged."
-561,00:32:08,00:32:09,What are you talking about?
-562,00:32:09,00:32:12,LSD-- I did an ELISA test on his saliva.
-563,00:32:12,00:32:16,"Somehow, he must've been dosed while we were in the room working."
-564,00:32:16,00:32:20,"Wait a minute, didn't the hospital do a tox screen on the teacher and on Rudy, and it came back negative?"
-565,00:32:20,00:32:26,"The standard tox panel doesn't test for LSD, so they were probably dosed, too-- we just had no way to know it."
-566,00:32:26,00:32:27,But wh-why the violence?
-567,00:32:27,00:32:32,"The molecules I found were highly adulterated, and cut with a cyclidine similar to PCP."
-568,00:32:32,00:32:34,Probably came out of somebody's kitchen sink.
-569,00:32:34,00:32:36,Okay.
-570,00:32:36,00:32:37,Now we know what.
-571,00:32:38,00:32:41,Let's go find out how.
-572,00:32:43,00:32:48,"STOKES (muffled): So, according to Henry, this lysergic acid glows blue."
-573,00:32:48,00:32:49,And the stuff's potent.
-574,00:32:49,00:32:51,We may not be looking for much.
-575,00:32:51,00:32:53,SANDERS (muffled): Wait a minute-- got something over here.
-576,00:32:55,00:32:57,These are tiny drops.
-577,00:32:57,00:33:00,It looks like they might've been aerosolized.
-578,00:33:04,00:33:08,STOKES: Check it out-- covered in blue.
-579,00:33:08,00:33:10,This is our source right here.
-580,00:33:10,00:33:17,"SANDERS: If Hodges got sprayed by that, it would only have to land on his lips or in his eye, and it would be instantly absorbed."
-581,00:33:25,00:33:26,"Here, let me bag it."
-582,00:33:29,00:33:31,Hold on here.
-583,00:33:31,00:33:34,I don't think the LSD was coming from that cartridge.
-584,00:33:36,00:33:37,There's a hose in here.
-585,00:33:40,00:33:44,"Yeah, and it's coming through the wall from the next room."
-586,00:33:48,00:33:50,(pounding on door)
-587,00:33:50,00:33:53,"STOKES: Hey, Oscar, can we use your bathroom for a second?"
-588,00:33:53,00:33:54,Hey! You can't come in here like this!
-589,00:33:54,00:33:56,"Sure we can. Check it out, Greg."
-590,00:33:56,00:33:59,"It's called probable cause, Oscar."
-591,00:34:00,00:34:01,What do you got?
-592,00:34:07,00:34:08,Found the source.
-593,00:34:10,00:34:15,"Oscar, I remember standing right there and listening to you preach to me about God's will."
-594,00:34:15,00:34:16,Is this what you meant? Huh?
-595,00:34:16,00:34:17,Killing six people?
-596,00:34:17,00:34:19,I didn't kill anyone.
-597,00:34:19,00:34:21,You've been spraying LSD all over the bathroom next door.
-598,00:34:21,00:34:23,You're responsible!
-599,00:34:23,00:34:24,I don't know what you're talking about.
-600,00:34:24,00:34:26,God sees the truth.
-601,00:34:26,00:34:27,"Yes, sir! God knows my heart!"
-602,00:34:27,00:34:28,STOKES: You know what? I'm tired of hearing that.
-603,00:34:28,00:34:31,"Sit down, relax. I'm gonna get you a ride."
-604,00:34:31,00:34:33,"SANDERS: Nick, take a look at this."
-605,00:34:38,00:34:40,That's an odd place for a TV.
-606,00:34:44,00:34:47,That's the room next door-- room 114.
-607,00:34:47,00:34:51,"So not only have you been dosing the people next door, you've been recording it, too?"
-608,00:34:51,00:34:54,"Hey, Nick, I don't see any recording device."
-609,00:34:56,00:35:00,But there's this transmitter set up to send a signal someplace else.
-610,00:35:00,00:35:02,So what's with all the video stuff? I don't know.
-611,00:35:02,00:35:04,I just know I'm not supposed to touch it.
-612,00:35:04,00:35:05,Yeah? Who told you that?
-613,00:35:05,00:35:07,Huh?
-614,00:35:09,00:35:11,"Trent, the manager."
-615,00:35:11,00:35:13,"He said if I did, he'd kick me out."
-616,00:35:17,00:35:20,"Trent Raeger, got a warrant. See you downtown."
-617,00:35:26,00:35:27,(door shuts)
-618,00:35:36,00:35:40,"Hey, Nick, you gotta come and see this."
-619,00:35:40,00:35:44,"Our peeper has been looking at all the rooms, not just room 114."
-620,00:35:52,00:35:55,"Yeah, he's been spending some quality time in here."
-621,00:36:04,00:36:08,Hmm. These are all souvenirs...
-622,00:36:09,00:36:11,...from his favorite guests.
-623,00:36:16,00:36:21,"BRASS: You've been peeping on room 114 for a long time, haven't you, Trent?"
-624,00:36:21,00:36:26,At what point did you decide that it wasn't enough to just be a voyeur?
-625,00:36:26,00:36:28,"I mean, when did you decide that you needed to kill people?"
-626,00:36:28,00:36:31,It isn't like that.
-627,00:36:31,00:36:33,"Okay, then tell me what it's like."
-628,00:36:33,00:36:35,"Well, it's just about..."
-629,00:36:37,00:36:39,"...watching, you know?"
-630,00:36:39,00:36:43,All the people coming through the motel.
-631,00:36:43,00:36:49,"When I was a kid, we'd get families on vacation, and I was curious because we never took vacations."
-632,00:36:49,00:36:52,We never left.
-633,00:36:52,00:36:54,So...
-634,00:36:54,00:36:57,I had these special places where I could look through the walls...
-635,00:36:57,00:36:59,watch them.
-636,00:36:59,00:37:01,(whispers): Special places.
-637,00:37:02,00:37:05,"Then the video age came and you upgraded your little hobby, right?"
-638,00:37:07,00:37:09,"That was pretty cool, too."
-639,00:37:09,00:37:12,"I mean, especially when the motel kind of went downhill, you know?"
-640,00:37:12,00:37:15,That brought all kinds of crazy stuff.
-641,00:37:15,00:37:20,"The crack whores, drunk dudes, beating their wives, they..."
-642,00:37:20,00:37:23,"That is a show, believe me."
-643,00:37:23,00:37:28,"But even that got a little old and dull, so you spiced it up by dosing people with drugs?"
-644,00:37:28,00:37:34,"A few months ago, I saw this guy out on Third, tripping on acid."
-645,00:37:34,00:37:41,"He was, like, out of his mind, and it was just so..."
-646,00:37:41,00:37:43,so weird.
-647,00:37:44,00:37:48,And that is when I came up with that rig for the bathroom.
-648,00:37:49,00:37:53,You have to admit... it is pretty clever.
-649,00:37:53,00:37:55,Clever.
-650,00:38:04,00:38:09,"Five people are dead, one is in the hospital."
-651,00:38:09,00:38:13,"Hey, I just put the gas in the car... okay?"
-652,00:38:13,00:38:15,They're the ones that crashed it.
-653,00:38:18,00:38:20,Come on...
-654,00:38:20,00:38:23,you've got my tapes; you've seen 'em.
-655,00:38:23,00:38:27,"That first dude, hacking his legs off."
-656,00:38:27,00:38:30,"Or that teacher... oh, and the homeless guy."
-657,00:38:30,00:38:35,"I mean, the dude is already a total mess, and then the lady has all those dolls!"
-658,00:38:35,00:38:37,"I mean, that was a gift."
-659,00:38:37,00:38:40,Or the poor Mexican guy...
-660,00:38:40,00:38:42,killing his wife.
-661,00:38:44,00:38:46,"Honestly, I didn't see that coming."
-662,00:38:46,00:38:47,"I mean, that..."
-663,00:38:47,00:38:48,that...
-664,00:38:50,00:38:52,...that was awesome.
-665,00:38:54,00:38:56,(quietly): Awesome.
-666,00:38:58,00:39:00,What are you looking at me like that for?
-667,00:39:00,00:39:05,"Come on, people go online every day to look at stuff that's just like that."
-668,00:39:05,00:39:06,But you manipulated this.
-669,00:39:06,00:39:09,You made this happen.
-670,00:39:09,00:39:14,"You made these people, these innocent people, do these things."
-671,00:39:16,00:39:17,So what?
-672,00:39:19,00:39:21,What's the difference?
-673,00:39:24,00:39:27,"Well, you'll have 25 years to life to figure that out."
-674,00:39:27,00:39:33,And the weird thing is you're gonna be in a little room where people watching you 24/7.
-675,00:39:39,00:39:41,Hey.
-676,00:39:44,00:39:46,"I, uh, heard they're going to be discharging you soon."
-677,00:39:46,00:39:48,Yeah.
-678,00:39:48,00:39:50,I guess I've healed as much as I'm going to.
-679,00:39:50,00:39:57,"Well, I... I came 'cause I wanted you to know that we arrested the man responsible for what happened to you and to your wife."
-680,00:39:57,00:40:00,"He didn't physically do the killings, but he is responsible."
-681,00:40:00,00:40:03,"Well, I-I... I'm sorry, I'm a little confused here."
-682,00:40:03,00:40:05,The man we arrested...
-683,00:40:05,00:40:10,"lived in the motel, and he drugged several of his guests."
-684,00:40:11,00:40:19,"That night, when your wife went to sleep, you went into the bathroom and you snuck a cigarette."
-685,00:40:19,00:40:31,"While you were in the bathroom, you were dosed with a very potent psychedelic drug, and it caused a violent change in your personality and your behavior."
-686,00:40:31,00:40:34,That face... that you saw...
-687,00:40:34,00:40:36,the man who was hitting your wife...
-688,00:40:51,00:41:00,"Uh... in a little while, there's going to be some police officers coming here, and you're going to need to go with them, okay?"
-689,00:41:00,00:41:03,I'm sorry.
-690,00:41:23,00:41:28,I want to apologize for anything I may have said while I wasn't myself.
-691,00:41:28,00:41:32,"It wasn't your words so much as your actions, really."
-692,00:41:39,00:41:42,"And, obviously..."
-693,00:41:42,00:41:44,"I apologize for those, too."
-694,00:41:47,00:41:50,Apology accepted?
-695,00:41:56,00:41:57,Yes.
-696,00:41:59,00:42:00,(sighs with relief)
-697,00:42:00,00:42:01,Apology accepted.
-698,00:42:01,00:42:03,Good.
-699,00:42:03,00:42:05,Then you won't be trying to get back at me in some way?
-700,00:42:05,00:42:08,"No, of course not."
-701,00:42:10,00:42:12,"But I wouldn't drink that coffee, if I were you."
+	start	end	text
+0	00:00:19	00:00:21	911 operator. What's your emergency?
+1	00:00:21	00:00:22	I'm at the Sky View Motel.
+2	00:00:22	00:00:25	I was making a delivery. You have to send someone.
+3	00:00:25	00:00:27	I think they're dead. I don't know for sure, but... Slow down, sir.
+4	00:00:27	00:00:28	You need to tell me what happened.
+5	00:00:28	00:00:30	Are there people injured?
+6	00:00:30	00:00:31	There's blood. There's blood everywhere.
+7	00:00:34	00:00:35	(sighs wearily) Well, it's a messy one.
+8	00:00:35	00:00:44	If you don't believe me, ask the pizza Yeah, is he the one who called it in? Yeah, he was delivering pizzas to, uh, one of the rooms nearby.
+9	00:00:44	00:00:46	The door to 114 was ajar, so he looked in.
+10	00:00:46	00:00:49	What do we have? Two victims.
+11	00:00:49	00:00:51	Mr. and Mrs. Smith. Oh, that's original.
+12	00:00:51	00:00:52	Anybody know who they really are?
+13	00:00:52	00:00:53	No.
+14	00:00:53	00:00:55	And I don't know what they did to deserve this.
+15	00:01:10	00:01:14	...63... 64... 65...
+16	00:01:14	00:01:17	66, 67...
+17	00:01:17	00:01:21	68... 69... 70...
+18	00:01:21	00:01:22	Talk to me, David.
+19	00:01:22	00:01:26	I'm trying to determine the number of stab wounds.
+20	00:01:26	00:01:28	But, frankly, there are just too many to count.
+21	00:01:31	00:01:32	This is disturbing.
+22	00:01:35	00:01:37	Hey, wait a minute.
+23	00:01:37	00:01:40	You know something? I've been here.
+24	00:01:40	00:01:45	Yeah, we had that OD out on the street a while back. Yeah, yeah, in the motel, but I mean, in this room--this exact one.
+25	00:01:45	00:01:46	I-I've been here.
+26	00:01:46	00:01:49	Room 114.
+27	00:01:49	00:01:51	I remember the view of the neon from that window.
+28	00:01:51	00:01:54	This is it. You're right.
+29	00:01:54	00:01:59	We have been here before. Yeah, it was a dismemberment murder; victim was in his 20s.
+30	00:01:59	00:02:01	It was about, uh, two months ago. No, I think it was more recent.
+31	00:02:01	00:02:04	It was another couple, but the woman was bludgeoned...
+32	00:02:04	00:02:05	in her sleep.
+33	00:02:05	00:02:07	I am pretty sure it was the dismemberment.
+34	00:02:07	00:02:09	I'm sorry, but-but you're both right.
+35	00:02:09	00:02:13	I've been here twice before, once for the dismemberment and again for the couple.
+36	00:02:13	00:02:15	And now this.
+37	00:02:15	00:02:19	Anybody else getting a really bad feeling about this place?
+38	00:02:19	00:02:22	Yeah... yeah, this the world's most unlucky motel room.
+39	00:03:14	00:03:18	All right, that's three murder scenes all in the same spot.
+40	00:03:18	00:03:20	They got to be related, don't you think?
+41	00:03:20	00:03:26	Maybe there's a connection between the victims or the killer has a weird fixation of some kind.
+42	00:03:26	00:03:29	I don't think I'm ready to talk about past crimes yet.
+43	00:03:29	00:03:31	Have to focus on this one first.
+44	00:03:31	00:03:33	Yeah, I hear you.
+45	00:03:33	00:03:35	I'll take the bathroom.
+46	00:04:34	00:04:36	So, how long have you been manager here?
+47	00:04:36	00:04:39	Uh, since about the time I learned to walk.
+48	00:04:39	00:04:41	My parents built this place, so... I grew up here.
+49	00:04:41	00:04:42	Oh! Yeah.
+50	00:04:42	00:04:43	All mine now.
+51	00:04:43	00:04:45	Do you have any idea who might've done this?
+52	00:04:45	00:04:48	Isn't that your business to figure that out?
+53	00:04:48	00:04:49	I mean, I know we're not the Bellagio, but...
+54	00:04:49	00:04:54	if I have to drop the rates any lower, I might as well just board the place up.
+55	00:04:54	00:04:57	Yeah. So, you got about, what, uh, 20 rooms here?
+56	00:04:57	00:04:59	Tell me about the people who stay in them.
+57	00:04:59	00:05:03	It's like the sign says. I mean, by the night, by the week and by the month.
+58	00:05:03	00:05:04	I'm gonna need a list of names.
+59	00:05:04	00:05:06	Well, that could be a problem.
+60	00:05:06	00:05:07	Not that I wouldn't give it, it's just...
+61	00:05:07	00:05:08	I don't have it.
+62	00:05:09	00:05:11	Come on, man.
+63	00:05:11	00:05:13	The place is 39 bucks a night.
+64	00:05:13	00:05:16	If people have cash, what do I care about their names?
+65	00:05:16	00:05:20	Look, none of 'em are killers, though-- trust me.
+66	00:05:20	00:05:22	How do you know that?
+67	00:05:22	00:05:25	Well, there's no one here that interesting.
+68	00:06:07	00:06:09	Hey, Finn!
+69	00:06:09	00:06:11	Looks like the Smiths had a guest last night.
+70	00:06:11	00:06:14	The towels are damp, and I found a red hair in the shower drain.
+71	00:06:14	00:06:17	Hmm, that doesn't match either of our victims.
+72	00:06:17	00:06:19	And there were three toothbrushes around the sink.
+73	00:06:19	00:06:21	Uh, I found a receipt for one.
+74	00:06:21	00:06:23	It's from the drugstore around the corner--last night.
+75	00:06:23	00:06:25	So a guest they didn't plan on.
+76	00:06:25	00:06:31	There's more. They also bought shampoo and a pair of scissors, which have since disappeared.
+77	00:06:31	00:06:33	Could be the murder weapon.
+78	00:06:33	00:06:40	So there was someone in here before the killing started. Yeah, who showered and-- I don't know-- judging from the toothbrush, might've been planning on staying the night.
+79	00:06:40	00:06:41	So what went wrong?
+80	00:06:52	00:06:55	I've been doing this long enough that nothing shocks me, but if a case could...
+81	00:06:57	00:07:00	Just the sheer savagery involved.
+82	00:07:00	00:07:02	More than a hundred stab wounds in each victim.
+83	00:07:02	00:07:05	Certainly beyond what was necessary...
+84	00:07:05	00:07:07	if the goal was to simply kill them.
+85	00:07:07	00:07:09	Can I see that?
+86	00:07:09	00:07:13	It's, uh, way beyond what we sometimes see with crimes of passion or extreme anger.
+87	00:07:13	00:07:14	This was madness.
+88	00:07:17	00:07:18	Their names really were Smith.
+89	00:07:18	00:07:20	Richard and Ann.
+90	00:07:20	00:07:25	According to family, they were in from Flagstaff for an antique toy and collectibles convention.
+91	00:07:25	00:07:27	That would explain the dolls in the room.
+92	00:07:27	00:07:29	Sounds like they were solid people.
+93	00:07:29	00:07:33	She volunteered, ran pet therapy at an old folks home.
+94	00:07:33	00:07:35	He worked with the homeless.
+95	00:07:36	00:07:38	Squeaky clean.
+96	00:07:38	00:07:40	Course, that wouldn't be the first time the...
+97	00:07:40	00:07:43	squeaky-clean have indulged their dark side here in Vegas.
+98	00:07:43	00:07:46	They could've invited somebody back to the room, spice up their life a little bit.
+99	00:07:48	00:07:50	If so...
+100	00:07:50	00:07:53	certainly got more than they bargained for.
+101	00:07:53	00:07:59	Hey. So, I... pulled the files for the other two motel murder scenes.
+102	00:07:59	00:08:01	It's weird, don't you think?
+103	00:08:01	00:08:03	That a killer would fixate on one room?
+104	00:08:03	00:08:04	What do you think the significance is?
+105	00:08:04	00:08:05	Why does he feel the need to kill there?
+106	00:08:05	00:08:09	Well, that's assuming that these are all the work of one killer.
+107	00:08:09	00:08:11	It could be that there's no connection.
+108	00:08:11	00:08:14	That you're looking for patterns where there are none.
+109	00:08:14	00:08:18	So it's a coincidence that three totally unrelated killers chose this one room?
+110	00:08:18	00:08:20	I'm just saying, we don't know yet.
+111	00:08:20	00:08:24	All right, Mark Bell.
+112	00:08:24	00:08:29	11 weeks ago, he stayed in Room 114 after his girlfriend kicked him out.
+113	00:08:29	00:08:31	Yeah, I remember. I worked this case with Finn.
+114	00:08:31	00:08:37	The maid found him tied to the bed, severe lacerations to his legs. They were nearly cut off.
+115	00:08:37	00:08:38	He bled to death.
+116	00:08:38	00:08:40	There was a bloody knife found on the floor.
+117	00:08:40	00:08:42	Too smeared to yield any viable prints.
+118	00:08:42	00:08:46	Detectives, at the time, thought the attack was related to a drug debt. (screaming)
+119	00:08:46	00:08:49	They thought the dealer was sending a message.
+120	00:08:50	00:08:53	Four weeks ago...
+121	00:08:53	00:08:54	second attack in the room.
+122	00:08:54	00:08:56	Alex and Tina Garnez.
+123	00:08:56	00:08:59	Nick and I handled this one.
+124	00:09:01	00:09:03	Their house had been foreclosed on.
+125	00:09:03	00:09:05	They were living in their car for months.
+126	00:09:05	00:09:08	Mr. Garnez finally got a job.
+127	00:09:08	00:09:11	Moving to the motel was supposed to be a step up.
+128	00:09:11	00:09:16	That night, he was sneaking a cigarette in the bathroom while his wife slept.
+129	00:09:16	00:09:18	The killer started with his wife...
+130	00:09:21	00:09:24	...clubbing her while she was sleeping.
+131	00:09:24	00:09:26	Then he must've surprised Mr. Garnez in the bathroom...
+132	00:09:26	00:09:28	No!
+133	00:09:28	00:09:30	Overpowered him.
+134	00:09:32	00:09:34	He survived.
+135	00:09:34	00:09:36	He's still in the hospital recovering.
+136	00:09:36	00:09:38	And then last night...
+137	00:09:38	00:09:39	the Smiths.
+138	00:09:41	00:09:43	(sighs) Still think we're...
+139	00:09:43	00:09:46	dealing with random, unrelated events?
+140	00:09:46	00:09:49	All right, Finn, I'll see you back at the lab.
+141	00:10:07	00:10:10	Come on now. Open up. I saw you in there.
+142	00:10:11	00:10:13	Hey.
+143	00:10:13	00:10:15	I was asleep last night.
+144	00:10:15	00:10:17	I was not involved. I already told the cops.
+145	00:10:17	00:10:19	Oh, yeah, yeah. That's cool. I'm not, uh...
+146	00:10:19	00:10:21	I'm not here to grill you. (chuckles)
+147	00:10:21	00:10:24	Kind of looks like you like to call this place home.
+148	00:10:24	00:10:26	I'm guessing you see everything that goes on in here.
+149	00:10:26	00:10:28	You... didn't see anything weird?
+150	00:10:28	00:10:30	Anybody suspicious running around here lately?
+151	00:10:30	00:10:33	It's not my place to judge another man in that way.
+152	00:10:33	00:10:35	Only God can judge.
+153	00:10:35	00:10:39	Right... well, God would want you to help me catch a killer, wouldn't he?
+154	00:10:39	00:10:41	I'm sorry.
+155	00:10:41	00:10:43	Now, sir, please, please, hey, come on, now.
+156	00:10:43	00:10:46	A couple was violently murdered last night.
+157	00:10:46	00:10:49	A woman a few weeks ago. A young man before that.
+158	00:10:49	00:10:52	All in the same room, all innocent victims.
+159	00:10:52	00:10:55	Innocent? There's no one on this planet who's innocent.
+160	00:10:57	00:10:58	We're all sinners.
+161	00:10:58	00:11:02	Yeah, yeah, well, that-that doesn't really help me do my job.
+162	00:11:02	00:11:04	They were called to God.
+163	00:11:04	00:11:05	That's God's plan.
+164	00:11:07	00:11:08	Your job is done.
+165	00:11:08	00:11:10	Yeah, I just...
+166	00:11:13	00:11:19	Might be my biggest regret about this job-- I know way too much about hotel bedspreads.
+167	00:11:19	00:11:24	And hotel carpets. Don't go barefoot. So, we have three different bedspreads from our...
+168	00:11:24	00:11:25	three different crime scenes.
+169	00:11:25	00:11:27	I ran the DNA.
+170	00:11:27	00:11:33	The bedspread on the left is from the very first murder scene. I'm guessing it lived in that room for who knows how long.
+171	00:11:33	00:11:37	Long enough that I was able to identify 26 individual DNA profiles.
+172	00:11:37	00:11:42	Whoa. Yeah. The replacement bedspread there was only in the room for seven weeks. So fewer contributions.
+173	00:11:42	00:11:44	16 of them.
+174	00:11:44	00:11:47	And the third bedspread, from last night's crime scene.
+175	00:11:47	00:11:49	Yielded only nine contributors.
+176	00:11:49	00:11:55	One of them, a male, is common to all three bedspreads.
+177	00:11:55	00:11:59	One person, the same person was in the room before each of the murders?
+178	00:12:00	00:12:02	Have you run the samples through CODIS?
+179	00:12:02	00:12:03	It's running right now.
+180	00:12:05	00:12:08	Here we go.
+181	00:12:08	00:12:12	Randall Wicks, 22. He must have just been added to the system.
+182	00:12:12	00:12:15	There's why-- sexual battery charge two weeks ago.
+183	00:12:15	00:12:16	Look where he was arrested.
+184	00:12:18	00:12:20	That same motel. The same room!
+185	00:12:20	00:12:24	I'll call Brass, get out a broadcast.
+186	00:12:30	00:12:32	Oh, how the mighty have fallen, huh, Randall?
+187	00:12:32	00:12:36	You used to be the featured dancer in the Tangiers All Male Review.
+188	00:12:36	00:12:38	How'd you let that gig slip away?
+189	00:12:38	00:12:39	I don't know.
+190	00:12:39	00:12:41	I got bored, so I quit.
+191	00:12:41	00:12:44	Well, or maybe you found something more interesting to do, huh?
+192	00:12:47	00:12:52	Three separate murders in the same room at the Sky View Motel.
+193	00:12:52	00:12:56	Your DNA was found in the room after each of the crimes.
+194	00:12:56	00:13:00	What? Wait a minute-- Sky View Motel?
+195	00:13:00	00:13:02	Was that in room 114?
+196	00:13:02	00:13:04	I use that room, frequently.
+197	00:13:04	00:13:05	For business.
+198	00:13:05	00:13:08	So... you're a prostitute?
+199	00:13:08	00:13:14	Dude, I'm a stud, letting frustrated housewives get a taste of something they wouldn't even get close to otherwise.
+200	00:13:14	00:13:17	Okay, stud, what about the housewife you beat up in room 114?
+201	00:13:17	00:13:19	The sexual battery charge.
+202	00:13:19	00:13:21	Or was that just part of the pony ride experience?
+203	00:13:21	00:13:23	That was self-defense.
+204	00:13:23	00:13:24	I'm serious.
+205	00:13:24	00:13:27	I was in fear for my life.
+206	00:13:27	00:13:28	Okay...
+207	00:13:28	00:13:30	I meet this woman there, right?
+208	00:13:30	00:13:33	Totally normal at first.
+209	00:13:33	00:13:35	Then we start getting into it, and...
+210	00:13:35	00:13:37	I don't know, she goes all crazy.
+211	00:13:37	00:13:40	Starts hallucinating or something, screaming at the walls.
+212	00:13:40	00:13:43	And why?
+213	00:13:43	00:13:45	What would make her do that?
+214	00:13:45	00:13:47	Well, I ain't a doctor or nothing, but...
+215	00:13:47	00:13:49	must be the sex just blew her mind.
+216	00:13:50	00:13:52	Yeah, that must have been it.
+217	00:13:52	00:13:57	Well... aside from being a complete tool, what do you think?
+218	00:13:57	00:14:04	Well, he still could be our killer. Well, the problem is, all we have is DNA evidence, and we can't disprove his story of how it got in that room.
+219	00:14:04	00:14:08	Well, we do have an eyewitness who could possibly I.D. Randall.
+220	00:14:08	00:14:13	Alex Garnez, the husband who survived his wife being bludgeoned four weeks ago. He has massive head injuries.
+221	00:14:13	00:14:16	He's still in the hospital-- we don't even know what condition he's in.
+222	00:14:16	00:14:17	Well, I talked to his doctor.
+223	00:14:17	00:14:20	She said he's struggling psychologically.
+224	00:14:20	00:14:24	They have him on suicide watch after one failed attempt, but... physically...
+225	00:14:24	00:14:27	she said he's strong enough to talk to us.
+226	00:14:37	00:14:38	Mr. Garnez.
+227	00:14:38	00:14:40	Um...
+228	00:14:40	00:14:45	I'm CSI Brody, and this is CSI Sanders.
+229	00:14:45	00:14:51	I'm sorry, but we need to talk to you about the night that you and your wife were attacked.
+230	00:14:53	00:14:55	How much do you remember?
+231	00:15:00	00:15:01	I don't know.
+232	00:15:01	00:15:04	I... I...
+233	00:15:04	00:15:10	I remember her just lying there, just lying there.
+234	00:15:10	00:15:13	And all the... blood around her...
+235	00:15:17	00:15:20	We were high school sweethearts.
+236	00:15:23	00:15:26	Did you see the person who hurt you and your wife?
+237	00:15:29	00:15:30	Do you remember his face?
+238	00:15:35	00:15:37	I can see him...
+239	00:15:37	00:15:41	standing over her, hitting her over...
+240	00:15:41	00:15:44	and over...
+241	00:15:44	00:15:46	and...
+242	00:15:46	00:15:48	and I'm powerless.
+243	00:15:48	00:15:51	I... I can't stop him.
+244	00:15:51	00:15:53	Like there's a wall between us. I...
+245	00:15:53	00:15:57	Yet I can still hear the sickening sound of...
+246	00:15:57	00:15:59	blow...
+247	00:15:59	00:16:01	after blow.
+248	00:16:01	00:16:03	Mr. Garnez...
+249	00:16:03	00:16:07	we want to... we want to show you some photographs of some faces.
+250	00:16:07	00:16:13	We need you to tell us if any one of these men looks like the man that we've been talking about, okay?
+251	00:16:18	00:16:19	He's not there.
+252	00:16:19	00:16:21	Are you sure?
+253	00:16:23	00:16:24	None of these...
+254	00:16:24	00:16:28	is the man that killed my Tina.
+255	00:16:30	00:16:33	Hodges, you texted me 911?
+256	00:16:33	00:16:34	I did.
+257	00:16:34	00:16:36	What is the 911?
+258	00:16:36	00:16:39	Sorry. Your suspect.
+259	00:16:39	00:16:41	He ran from the motel room barefoot, correct?
+260	00:16:41	00:16:42	Mm-hmm.
+261	00:16:42	00:16:43	Yet he left no shoes behind.
+262	00:16:43	00:16:45	He could have been carrying his shoes.
+263	00:16:45	00:16:47	He was in too much of a hurry to put them on.
+264	00:16:47	00:16:51	Mm, maybe. But there was a bottle of shampoo that Nick found in the bathroom.
+265	00:16:51	00:16:56	It contained one percent permethrin, formulated to combat head lice.
+266	00:16:56	00:16:57	Now, I've checked with Doc.
+267	00:16:57	00:17:00	Neither of the Smiths were head lice sufferers.
+268	00:17:00	00:17:01	So the shampoo was for the guest.
+269	00:17:01	00:17:04	Yes. Presumably the killer.
+270	00:17:04	00:17:06	Nick found residue on the wall of the shower.
+271	00:17:06	00:17:09	I've tested it; it contained five percent permethrin.
+272	00:17:09	00:17:11	Permethrin, for the head lice. No.
+273	00:17:11	00:17:13	This is five percent, in a body cream.
+274	00:17:13	00:17:16	It's prescription strength, used to treat scabies.
+275	00:17:16	00:17:19	I don't want to seem insensitive, but...
+276	00:17:19	00:17:24	shoeless, head lice, and scabies--that all sounds like homeless to me.
+277	00:17:24	00:17:28	Richard Smith worked with the homeless back in Flagstaff.
+278	00:17:28	00:17:32	He could have been doing some sort of outreach, wanted to help somebody, brought them in off the street.
+279	00:17:32	00:17:34	I've already called around.
+280	00:17:34	00:17:40	There's a local shelter called Street Saviors who had a scabies outbreak last week, where they distributed this very same prescription cream.
+281	00:17:40	00:17:43	Way to bury the lead, Hodges. That's part of my charm.
+282	00:17:43	00:17:45	It's all in the telling.
+283	00:17:45	00:17:46	The regular.
+284	00:17:46	00:17:48	Yeah. Fruity.
+285	00:17:48	00:17:50	Okay, thanks so much.
+286	00:17:53	00:17:56	Hey. So I talked to a couple Hey.
+287	00:17:56	00:17:57	of the outreach workers.
+288	00:17:57	00:18:00	They saw a guy earlier, a guy named Rudy.
+289	00:18:00	00:18:02	He's a regular here.
+290	00:18:02	00:18:05	He was barefoot, had bloodstained clothes.
+291	00:18:05	00:18:06	Sounds like our boy.
+292	00:18:06	00:18:09	Yeah. According to the locals, he likes to hang out here, under the bridge.
+293	00:18:16	00:18:17	Anybody seen Rudy?
+294	00:18:17	00:18:19	Huh?
+295	00:18:20	00:18:22	You seen Rudy?
+296	00:18:22	00:18:24	You know who Rudy is?
+297	00:18:25	00:18:27	Hey, where does Rudy stay?
+298	00:18:32	00:18:34	Hey, old-timer. Hey, man.
+299	00:18:34	00:18:37	You seen Rudy anywhere?
+300	00:18:52	00:18:54	Rudy! (gasping)
+301	00:18:54	00:18:56	What's wrong?
+302	00:18:57	00:18:59	What have you been doing, man?
+303	00:19:00	00:19:02	(panting) Huh?
+304	00:19:03	00:19:07	Rudy, you're gonna have to come with us.
+305	00:19:07	00:19:12	Rudy, it says here in my files that you spent some time in the state hospital.
+306	00:19:12	00:19:13	Had a few psych holds?
+307	00:19:13	00:19:16	Yeah, I have some problems.
+308	00:19:16	00:19:18	What did the doctors diagnose you with?
+309	00:19:19	00:19:26	Schizophrenia, bipolar disorder, generalized anxiety, Well, that's okay.
+310	00:19:26	00:19:28	We get the idea.
+311	00:19:28	00:19:31	Do you recognize these two? Richard and Ann?
+312	00:19:31	00:19:33	They're angels.
+313	00:19:33	00:19:36	What do you mean? They rescued me.
+314	00:19:36	00:19:47	How? I was on the street, out front of a drugstore on Cramer. Oh, that's right near the Sky View Motel. I go there sometimes to ask for change, you know, and-and I...
+315	00:19:47	00:19:50	These guys, they jumped me and-and...
+316	00:19:50	00:19:55	and they beat me, and they took my change and they took my shoes.
+317	00:19:55	00:20:00	And-and it probably would have been worse, except that Richard and Ann came along out of nowhere and...
+318	00:20:00	00:20:03	and chased them away.
+319	00:20:03	00:20:04	Rudy, what happened next?
+320	00:20:07	00:20:10	I told you, they're angels.
+321	00:20:10	00:20:12	They-they-they...
+322	00:20:12	00:20:21	they asked me if I wanted to stay in their room with them, and they got me a toothbrush and stuff, and they let me get a shower and get all cleaned up.
+323	00:20:21	00:20:22	Did something happen after the shower?
+324	00:20:24	00:20:26	Something happened, didn't it?
+325	00:20:28	00:20:29	I don't know.
+326	00:20:29	00:20:31	I don't remember.
+327	00:20:31	00:20:33	Come on, Rudy, think.
+328	00:20:33	00:20:36	Think real hard. (shuddering breath)
+329	00:20:36	00:20:37	No! No!
+330	00:20:43	00:20:44	There were these dolls...
+331	00:20:44	00:20:50	a-and there were a whole bunch of them, and they started talking to me and they were looking at me.
+332	00:20:53	00:20:55	What were they saying, Rudy? What did they say?
+333	00:20:55	00:20:59	Did the dolls tell you to do this?
+334	00:21:01	00:21:02	I...
+335	00:21:05	00:21:08	I did that, didn't I? I did that with the scissors.
+336	00:21:08	00:21:09	I hurt them.
+337	00:21:13	00:21:15	What about these people?
+338	00:21:19	00:21:20	Did you hurt them, too?
+339	00:21:23	00:21:25	I don't know.
+340	00:21:25	00:21:30	You know, sometimes I think we forget what delicate, complex machines we are.
+341	00:21:30	00:21:38	You know, all it takes are a few short-circuiting synapses, or a breakdown in myelination, and everything gets thrown out of whack.
+342	00:21:38	00:21:41	Jules, you just captured a killer.
+343	00:21:41	00:21:44	I know. Then why do I feel so bad?
+344	00:21:44	00:21:48	Because he seems like a nice guy who got dealt a lousy hand in life.
+345	00:21:49	00:21:53	So we have him for killing the Smiths, right?
+346	00:21:53	00:21:54	What about the other two attacks?
+347	00:21:54	00:21:57	Well, I could go over all the evidence and make a case.
+348	00:21:57	00:21:59	He's obviously our prime suspect.
+349	00:21:59	00:22:04	He frequented the area, and he's obviously unstable.
+350	00:22:07	00:22:08	Good work.
+351	00:22:08	00:22:10	You put some long hours in on this.
+352	00:22:10	00:22:14	Why-why don't you go home, get yourself some rest.
+353	00:22:33	00:22:35	Take it, take it easy!
+354	00:22:35	00:22:37	One plus one is two. One for me and one for you.
+355	00:22:37	00:22:40	Two plus two is four. (panting)
+356	00:22:40	00:22:43	That's a couple more. Three plus three is six.
+357	00:22:43	00:22:44	Straight and crooked sticks!
+358	00:22:44	00:22:45	Get away!
+359	00:22:50	00:22:51	One plus one is two.
+360	00:22:51	00:22:52	One for me and one for you.
+361	00:22:52	00:22:54	Two plus two is four, and that's a couple more.
+362	00:22:55	00:22:57	One plus one is two. One for me and one for you.
+363	00:22:57	00:22:59	Two plus two is four. That's a couple more.
+364	00:22:59	00:23:00	Three plus three is six. Ma'am.
+365	00:23:00	00:23:01	Straight and crooked sticks.
+366	00:23:01	00:23:03	You need to drop that bottle, do you hear me?
+367	00:23:04	00:23:05	Four plus four is eight. Seagulls on the gate!
+368	00:23:05	00:23:07	Five plus five is ten. Hey!
+369	00:23:07	00:23:09	Do you hear what I'm saying?!
+370	00:23:09	00:23:12	Drop the bottle!
+371	00:23:12	00:23:13	Ricky doesn't follow directions!
+372	00:23:13	00:23:17	He never follows directions!
+373	00:23:23	00:23:24	Thanks, man.
+374	00:23:24	00:23:26	Seriously, thanks.
+375	00:23:26	00:23:28	Thanks. All right.
+376	00:23:29	00:23:31	Hey!
+377	00:23:31	00:23:32	Was she staying here? In the motel?
+378	00:23:32	00:23:34	Uh, yeah, just since tonight.
+379	00:23:35	00:23:36	What room?
+380	00:23:48	00:23:50	It's happened again.
+381	00:24:20	00:24:22	How the hell can this be?
+382	00:24:22	00:24:24	I thought we had our killer.
+383	00:24:24	00:24:26	Did we mess up, Jules?
+384	00:24:26	00:24:28	Did we make a mistake with our-our homeless guy?
+385	00:24:28	00:24:32	No, Rudy's guilty, maybe not of all three, but he definitely killed the Smiths.
+386	00:24:32	00:24:33	Then how do we explain this?
+387	00:24:33	00:24:35	I don't know.
+388	00:24:35	00:24:37	It has to be... unrelated.
+389	00:24:37	00:24:38	Unrelated?
+390	00:24:38	00:24:42	Four murders in the same room over a three-month period.
+391	00:24:42	00:24:43	That's got to be connected, don't you think?
+392	00:24:46	00:24:51	All right, I'm sorry. Look, all right, who are our players tonight?
+393	00:24:51	00:24:53	Who are we talking about here?
+394	00:24:53	00:24:57	Suspect is a woman, 28-year-old high school math teacher.
+395	00:24:57	00:25:00	Victim was one of her students.
+396	00:25:00	00:25:03	Together in a sleazy, $39-a-night motel room.
+397	00:25:03	00:25:08	With lingerie, condoms, sex toys and alcohol.
+398	00:25:08	00:25:10	Wonder what was going on here, right?
+399	00:25:10	00:25:14	Yeah, according to the high school Web site, she was just named Teacher of the Year.
+400	00:25:14	00:25:16	I'll bet she was.
+401	00:25:16	00:25:17	Hey. Hey.
+402	00:25:17	00:25:22	So, this may sound crazy, but I'm thinking that this isn't what it looks like.
+403	00:25:22	00:25:25	I don't believe that the teacher was sleeping with her student.
+404	00:25:25	00:25:26	Yeah, you're right, that sounds crazy.
+405	00:25:26	00:25:30	Well, listen to this voice mail I found on her phone.
+406	00:25:30	00:25:31	Ms. Stone, it's Matthew.
+407	00:25:31	00:25:40	I don't know what to do, but my parents have been drinking and fighting, and I can't go home; I'm at a motel.
+408	00:25:40	00:25:41	But I'm scared.
+409	00:25:41	00:25:43	I don't know who else to call.
+410	00:25:43	00:25:46	I'm sorry, but you have to help, please.
+411	00:25:46	00:25:52	Ms. Stone, we are trying to make sense out of what happened in that room.
+412	00:25:52	00:25:54	But we need your help to do that.
+413	00:25:54	00:26:01	Boy, Matthew must have told you a really sad story to lure you to that motel room.
+414	00:26:01	00:26:10	Now, obviously, from the items he brought along, he had ideas of getting Now, there were a lot of empty liquor bottles in the room.
+415	00:26:10	00:26:11	Was the young man drunk?
+416	00:26:11	00:26:14	There wasn't any drinking.
+417	00:26:14	00:26:17	First thing I did was dump all the alcohol down the sink.
+418	00:26:17	00:26:21	I wanted it clear to Matthew that nothing was going to happen.
+419	00:26:21	00:26:22	Did he get upset?
+420	00:26:22	00:26:23	Is that when he threatened you?
+421	00:26:23	00:26:25	He would never.
+422	00:26:25	00:26:29	Matthew's a... Matthew's a great kid.
+423	00:26:29	00:26:31	He just had a harmless crush, that's all.
+424	00:26:31	00:26:33	He would never hurt me.
+425	00:26:33	00:26:34	Then why did you kill him?
+426	00:26:39	00:26:42	It wasn't me.
+427	00:26:42	00:26:44	Really? Wasn't you?
+428	00:26:44	00:26:46	Ms. Stone, look, look at this.
+429	00:26:50	00:26:52	That's not me.
+430	00:26:52	00:26:55	I mean, it's me, it's my body, but I...
+431	00:26:58	00:26:59	I had no control.
+432	00:26:59	00:27:01	It was like there was something inside me.
+433	00:27:01	00:27:02	I was...
+434	00:27:05	00:27:07	...possessed.
+435	00:27:07	00:27:08	You were what?
+436	00:27:08	00:27:10	I was...
+437	00:27:13	00:27:15	I don't know. Part of me really wants to believe her.
+438	00:27:15	00:27:20	I mean, the woman ranting and screaming on that video from last night was nothing like the woman I met today.
+439	00:27:20	00:27:22	They were two totally different people.
+440	00:27:22	00:27:25	So, her behavior last night was completely out of character.
+441	00:27:25	00:27:27	Mm-hmm! Did the hospital do a tox screen?
+442	00:27:27	00:27:29	Yeah, it was clean. Not even alcohol.
+443	00:27:29	00:27:33	Then it's got to be the room.
+444	00:27:33	00:27:35	The room made her do it.
+445	00:27:35	00:27:38	What, like, The Shining? Hmm?
+446	00:27:38	00:27:39	The Overlook Hotel?
+447	00:27:39	00:27:43	It's the one thing connecting all of the murders.
+448	00:27:43	00:27:45	Right now, it's the only thing.
+449	00:27:45	00:27:51	Okay, so, let's have Hodges and Henry drag their equipment out there and test the room, see what they have to say.
+450	00:27:57	00:27:59	Hmm.
+451	00:28:02	00:28:08	I've got some elevated VOCs in the air conditioner, but nothing that would explain any of the bizarre behavior.
+452	00:28:08	00:28:10	What about you?
+453	00:28:10	00:28:12	You got anything yet?
+454	00:28:12	00:28:14	Could I have five minutes to look first?
+455	00:28:18	00:28:21	Oh, and I'm very much enjoying the dirty bathroom.
+456	00:28:21	00:28:22	Thank you for that.
+457	00:28:28	00:28:30	Mm! Mm...
+458	00:28:30	00:28:34	Great. Now I can smell like a fruit bowl for the rest of the day.
+459	00:29:13	00:29:17	It looks like they've got mold inside the walls of the closet.
+460	00:29:17	00:29:19	I'm going to have to get a sample.
+461	00:29:19	00:29:21	Do you have the pry bar in there?
+462	00:29:21	00:29:23	Hey, I have to open some drywall.
+463	00:29:23	00:29:25	Do you have the pry bar in your kit?
+464	00:29:25	00:29:27	Hodges!
+465	00:29:29	00:29:31	Seriously?
+466	00:29:33	00:29:35	Hodges, what are you doing?
+467	00:29:35	00:29:36	I was calling you.
+468	00:29:43	00:29:44	What are you looking at?
+469	00:29:49	00:29:52	What, what's going on with you?
+470	00:29:52	00:29:54	I know who you are.
+471	00:29:54	00:29:56	Okay, look, w-why don't you have a seat on the toilet...
+472	00:29:58	00:30:00	I'm gonna help you out, come here.
+473	00:30:00	00:30:03	I can see what you are!
+474	00:30:05	00:30:08	Hodges, let go of me! That hurts!
+475	00:30:13	00:30:15	No... Hodges!
+476	00:30:15	00:30:16	No, no...!
+477	00:30:20	00:30:22	This is Henry Andrews.
+478	00:30:22	00:30:26	I'm at the Sky View Motel, room 114, and I have an emergency.
+479	00:30:26	00:30:28	I need police and EMS immediately.
+480	00:30:34	00:30:35	Excuse me... Hey! Henry!
+481	00:30:37	00:30:38	Henry?
+482	00:30:38	00:30:39	Hey, man, you all right?
+483	00:30:39	00:30:40	What's going on out here?
+484	00:30:40	00:30:41	I don't know exactly.
+485	00:30:41	00:30:43	He just flipped out.
+486	00:30:43	00:30:46	Nick, I honestly think he would have killed me.
+487	00:30:46	00:30:48	Hodges? Yeah, but it wasn't Hodges.
+488	00:30:48	00:30:53	I mean, if you would've seen the look in his eyes, something must have happened to him in there, something that triggered this.
+489	00:30:53	00:30:55	What'd he say to you? Nothing.
+490	00:30:55	00:30:56	Everything that came out of him was unintelligible.
+491	00:30:56	00:31:01	It was grunts and growls. Hey, so paramedics hit him with a sedative.
+492	00:31:01	00:31:04	Once they get him to the hospital, maybe we'll figure out what's going on.
+493	00:31:04	00:31:07	Wait, wait, before he goes, I-I need a-a... a swab.
+494	00:31:07	00:31:08	Check your vest.
+495	00:31:08	00:31:09	Hold up.
+496	00:31:09	00:31:12	Hey, buddy, I just need to get some saliva.
+497	00:31:12	00:31:14	Can you help me out? (mumbling)
+498	00:31:14	00:31:15	Can you open up?
+499	00:31:15	00:31:16	Come on, just open up.
+500	00:31:16	00:31:19	There you go, help me out.
+501	00:31:19	00:31:20	There you go.
+502	00:31:20	00:31:22	Good.
+503	00:31:22	00:31:23	Yeah, get him out of here.
+504	00:31:28	00:31:30	Vitals are good...
+505	00:31:32	00:31:33	Thanks, Doc. I appreciate it.
+506	00:31:33	00:31:35	You're welcome.
+507	00:31:35	00:31:36	What did he say? How's he doing?
+508	00:31:36	00:31:38	He's gonna be okay.
+509	00:31:38	00:31:40	I mean, his vitals are all in the normal range.
+510	00:31:40	00:31:43	He doesn't seem to be in any physical distress.
+511	00:31:43	00:31:46	Well, obviously there is something going on in that motel room.
+512	00:31:46	00:31:50	Now we need to add Hodges to the list of people that went nuts in there, right?
+513	00:31:50	00:31:54	Homeless guy, the teacher-- Makes me wonder about our first victim, Mark Bell.
+514	00:31:54	00:31:58	Who's to say he didn't go crazy, too, and stab himself in his legs.
+515	00:31:58	00:32:03	If all of this is true, what's it say about the man who lost his wife?
+516	00:32:03	00:32:08	Hey, guys, you are not gonna believe this, but Hodges was drugged.
+517	00:32:08	00:32:09	What are you talking about?
+518	00:32:09	00:32:12	LSD-- I did an ELISA test on his saliva.
+519	00:32:12	00:32:16	Somehow, he must've been dosed while we were in the room working.
+520	00:32:16	00:32:20	Wait a minute, didn't the hospital do a tox screen on the teacher and on Rudy, and it came back negative?
+521	00:32:20	00:32:26	The standard tox panel doesn't test for LSD, so they were probably dosed, too-- we just had no way to know it.
+522	00:32:26	00:32:27	But wh-why the violence?
+523	00:32:27	00:32:32	The molecules I found were highly adulterated, and cut with a cyclidine similar to PCP.
+524	00:32:32	00:32:34	Probably came out of somebody's kitchen sink.
+525	00:32:34	00:32:36	Okay.
+526	00:32:36	00:32:37	Now we know what.
+527	00:32:38	00:32:41	Let's go find out how.
+528	00:32:43	00:32:48	So, according to Henry, this lysergic acid glows blue.
+529	00:32:48	00:32:49	And the stuff's potent.
+530	00:32:49	00:32:51	We may not be looking for much.
+531	00:32:51	00:32:53	Wait a minute-- got something over here.
+532	00:32:55	00:32:57	These are tiny drops.
+533	00:32:57	00:33:00	It looks like they might've been aerosolized.
+534	00:33:04	00:33:08	Check it out-- covered in blue.
+535	00:33:08	00:33:10	This is our source right here.
+536	00:33:10	00:33:17	If Hodges got sprayed by that, it would only have to land on his lips or in his eye, and it would be instantly absorbed.
+537	00:33:25	00:33:26	Here, let me bag it.
+538	00:33:29	00:33:31	Hold on here.
+539	00:33:31	00:33:34	I don't think the LSD was coming from that cartridge.
+540	00:33:36	00:33:37	There's a hose in here.
+541	00:33:40	00:33:44	Yeah, and it's coming through the wall from the next room.
+542	00:33:50	00:33:53	Hey, Oscar, can we use your bathroom for a second?
+543	00:33:53	00:33:54	Hey! You can't come in here like this!
+544	00:33:54	00:33:56	Sure we can. Check it out, Greg.
+545	00:33:56	00:33:59	It's called probable cause, Oscar.
+546	00:34:00	00:34:01	What do you got?
+547	00:34:07	00:34:08	Found the source.
+548	00:34:10	00:34:15	Oscar, I remember standing right there and listening to you preach to me about God's will.
+549	00:34:15	00:34:16	Is this what you meant? Huh?
+550	00:34:16	00:34:17	Killing six people?
+551	00:34:17	00:34:19	I didn't kill anyone.
+552	00:34:19	00:34:21	You've been spraying LSD all over the bathroom next door.
+553	00:34:21	00:34:23	You're responsible!
+554	00:34:23	00:34:24	I don't know what you're talking about.
+555	00:34:24	00:34:26	God sees the truth.
+556	00:34:26	00:34:27	Yes, sir! God knows my heart!
+557	00:34:27	00:34:28	You know what? I'm tired of hearing that.
+558	00:34:28	00:34:31	Sit down, relax. I'm gonna get you a ride.
+559	00:34:31	00:34:33	Nick, take a look at this.
+560	00:34:38	00:34:40	That's an odd place for a TV.
+561	00:34:44	00:34:47	That's the room next door-- room 114.
+562	00:34:47	00:34:51	So not only have you been dosing the people next door, you've been recording it, too?
+563	00:34:51	00:34:54	Hey, Nick, I don't see any recording device.
+564	00:34:56	00:35:00	But there's this transmitter set up to send a signal someplace else.
+565	00:35:00	00:35:02	So what's with all the video stuff? I don't know.
+566	00:35:02	00:35:04	I just know I'm not supposed to touch it.
+567	00:35:04	00:35:05	Yeah? Who told you that?
+568	00:35:05	00:35:07	Huh?
+569	00:35:09	00:35:11	Trent, the manager.
+570	00:35:11	00:35:13	He said if I did, he'd kick me out.
+571	00:35:17	00:35:20	Trent Raeger, got a warrant. See you downtown.
+572	00:35:36	00:35:40	Hey, Nick, you gotta come and see this.
+573	00:35:40	00:35:44	Our peeper has been looking at all the rooms, not just room 114.
+574	00:35:52	00:35:55	Yeah, he's been spending some quality time in here.
+575	00:36:04	00:36:08	Hmm. These are all souvenirs...
+576	00:36:09	00:36:11	...from his favorite guests.
+577	00:36:16	00:36:21	You've been peeping on room 114 for a long time, haven't you, Trent?
+578	00:36:21	00:36:26	At what point did you decide that it wasn't enough to just be a voyeur?
+579	00:36:26	00:36:28	I mean, when did you decide that you needed to kill people?
+580	00:36:28	00:36:31	It isn't like that.
+581	00:36:31	00:36:33	Okay, then tell me what it's like.
+582	00:36:33	00:36:35	Well, it's just about...
+583	00:36:37	00:36:39	...watching, you know?
+584	00:36:39	00:36:43	All the people coming through the motel.
+585	00:36:43	00:36:49	When I was a kid, we'd get families on vacation, and I was curious because we never took vacations.
+586	00:36:49	00:36:52	We never left.
+587	00:36:52	00:36:54	So...
+588	00:36:54	00:36:57	I had these special places where I could look through the walls...
+589	00:36:57	00:36:59	watch them.
+590	00:36:59	00:37:01	Special places.
+591	00:37:02	00:37:05	Then the video age came and you upgraded your little hobby, right?
+592	00:37:07	00:37:09	That was pretty cool, too.
+593	00:37:09	00:37:12	I mean, especially when the motel kind of went downhill, you know?
+594	00:37:12	00:37:15	That brought all kinds of crazy stuff.
+595	00:37:15	00:37:20	The crack whores, drunk dudes, beating their wives, they...
+596	00:37:20	00:37:23	That is a show, believe me.
+597	00:37:23	00:37:28	But even that got a little old and dull, so you spiced it up by dosing people with drugs?
+598	00:37:28	00:37:34	A few months ago, I saw this guy out on Third, tripping on acid.
+599	00:37:34	00:37:41	He was, like, out of his mind, and it was just so...
+600	00:37:41	00:37:43	so weird.
+601	00:37:44	00:37:48	And that is when I came up with that rig for the bathroom.
+602	00:37:49	00:37:53	You have to admit... it is pretty clever.
+603	00:37:53	00:37:55	Clever.
+604	00:38:04	00:38:09	Five people are dead, one is in the hospital.
+605	00:38:09	00:38:13	Hey, I just put the gas in the car... okay?
+606	00:38:13	00:38:15	They're the ones that crashed it.
+607	00:38:18	00:38:20	Come on...
+608	00:38:20	00:38:23	you've got my tapes; you've seen 'em.
+609	00:38:23	00:38:27	That first dude, hacking his legs off.
+610	00:38:27	00:38:30	Or that teacher... oh, and the homeless guy.
+611	00:38:30	00:38:35	I mean, the dude is already a total mess, and then the lady has all those dolls!
+612	00:38:35	00:38:37	I mean, that was a gift.
+613	00:38:37	00:38:40	Or the poor Mexican guy...
+614	00:38:40	00:38:42	killing his wife.
+615	00:38:44	00:38:46	Honestly, I didn't see that coming.
+616	00:38:46	00:38:47	I mean, that...
+617	00:38:47	00:38:48	that...
+618	00:38:50	00:38:52	...that was awesome.
+619	00:38:54	00:38:56	Awesome.
+620	00:38:58	00:39:00	What are you looking at me like that for?
+621	00:39:00	00:39:05	Come on, people go online every day to look at stuff that's just like that.
+622	00:39:05	00:39:06	But you manipulated this.
+623	00:39:06	00:39:09	You made this happen.
+624	00:39:09	00:39:14	You made these people, these innocent people, do these things.
+625	00:39:16	00:39:17	So what?
+626	00:39:19	00:39:21	What's the difference?
+627	00:39:24	00:39:27	Well, you'll have 25 years to life to figure that out.
+628	00:39:27	00:39:33	And the weird thing is you're gonna be in a little room where people watching you 24/7.
+629	00:39:39	00:39:41	Hey.
+630	00:39:44	00:39:46	I, uh, heard they're going to be discharging you soon.
+631	00:39:46	00:39:48	Yeah.
+632	00:39:48	00:39:50	I guess I've healed as much as I'm going to.
+633	00:39:50	00:39:57	Well, I... I came 'cause I wanted you to know that we arrested the man responsible for what happened to you and to your wife.
+634	00:39:57	00:40:00	He didn't physically do the killings, but he is responsible.
+635	00:40:00	00:40:03	Well, I-I... I'm sorry, I'm a little confused here.
+636	00:40:03	00:40:05	The man we arrested...
+637	00:40:05	00:40:10	lived in the motel, and he drugged several of his guests.
+638	00:40:11	00:40:19	That night, when your wife went to sleep, you went into the bathroom and you snuck a cigarette.
+639	00:40:19	00:40:31	While you were in the bathroom, you were dosed with a very potent psychedelic drug, and it caused a violent change in your personality and your behavior.
+640	00:40:31	00:40:34	That face... that you saw...
+641	00:40:34	00:40:36	the man who was hitting your wife...
+642	00:40:51	00:41:00	Uh... in a little while, there's going to be some police officers coming here, and you're going to need to go with them, okay?
+643	00:41:00	00:41:03	I'm sorry.
+644	00:41:23	00:41:28	I want to apologize for anything I may have said while I wasn't myself.
+645	00:41:28	00:41:32	It wasn't your words so much as your actions, really.
+646	00:41:39	00:41:42	And, obviously...
+647	00:41:42	00:41:44	I apologize for those, too.
+648	00:41:47	00:41:50	Apology accepted?
+649	00:41:56	00:41:57	Yes.
+650	00:42:00	00:42:01	Apology accepted.
+651	00:42:01	00:42:03	Good.
+652	00:42:03	00:42:05	Then you won't be trying to get back at me in some way?
+653	00:42:05	00:42:08	No, of course not.
+654	00:42:10	00:42:12	But I wouldn't drink that coffee, if I were you.

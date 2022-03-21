@@ -1,737 +1,710 @@
-,start,end,text
-0,00:00:01,00:00:02,"(lock buzzes, latch clicks)"
-1,00:00:11,00:00:12,GUARD: Let's go! On the line!
-2,00:00:12,00:00:15,(indistinct announcement over P.A.)
-3,00:00:25,00:00:27,"GUARD: Okay, settle down! Keep moving!"
-4,00:00:35,00:00:37,(gasping anxiously)
-5,00:00:37,00:00:38,INMATE: I-I don't...
-6,00:00:38,00:00:40,"(muttering, gasping)"
-7,00:00:40,00:00:42,(inmate mutters)
-8,00:00:45,00:00:46,"Hey... I can't do this, man."
-9,00:00:46,00:00:48,I-I hate needles. Shut up.
-10,00:00:48,00:00:50,"I hate needles. Please, please..."
-11,00:00:50,00:00:53,"Please, please, please don't make me, I can't..."
-12,00:00:53,00:00:55,I can't do this... Just relax.
-13,00:00:56,00:00:57,INMATE: Nobody listens to me.
-14,00:00:57,00:00:57,No...
-15,00:00:57,00:00:59,I hate needles.
-16,00:00:59,00:01:01,Relax... I hate needles! I hate...
-17,00:01:01,00:01:03,Nobody's listening to me!
-18,00:01:03,00:01:05,No... Nobody's listening to me!
-19,00:01:07,00:01:09,"(alarm blaring, inmates clamoring)"
-20,00:01:10,00:01:12,GUARD: Backup needed in the inmate reception-- now!
-21,00:01:12,00:01:14,(men shouting)
-22,00:01:14,00:01:16,GUARD: O'Malley-- we need backup!
-23,00:01:16,00:01:17,(alarm bell rings)
-24,00:01:17,00:01:18,(all clamoring)
-25,00:01:23,00:01:24,Shut up! Shut up!
-26,00:01:24,00:01:25,"Yo, man... Shut up!"
-27,00:01:25,00:01:26,Shut up!
-28,00:01:26,00:01:27,(yelling)
-29,00:01:28,00:01:31,Shut up! Shut up!
-30,00:01:31,00:01:33,(gasping)
-31,00:01:34,00:01:35,GUARD: On your knees now! Hands above your head!
-32,00:01:35,00:01:38,(yelling)
-33,00:01:40,00:01:42,"GUARD: Inmate, drop to the floor now!"
-34,00:01:43,00:01:45,(screaming)
-35,00:01:59,00:02:00,Crime lab.
-36,00:02:13,00:02:17,Thanks. DETECTIVE: You must be Russell and Stokes with the crime lab.
-37,00:02:17,00:02:18,Detective Carl Brenner.
-38,00:02:18,00:02:20,How do you do? Heard you guys are the best. Follow me.
-39,00:02:21,00:02:23,"I'm kind of the, uh, new guy in Homicide."
-40,00:02:23,00:02:25,Youngest detective ever promoted into the bureau.
-41,00:02:25,00:02:27,Been there just over two years.
-42,00:02:27,00:02:30,"Love the job. Oh. Well, congratulations."
-43,00:02:30,00:02:34,"BRENNER: Well, you know what they say-- you can't solve murders sitting behind a desk."
-44,00:02:34,00:02:37,A motto I live by. So... I work 24/7.
-45,00:02:37,00:02:38,"You need me, you call me."
-46,00:02:38,00:02:40,Home number's on the back.
-47,00:02:40,00:02:41,"Right up here, guys."
-48,00:02:42,00:02:44,(indistinct conversations)
-49,00:02:45,00:02:47,"Quite a ruckus, huh? Sure was."
-50,00:02:48,00:02:48,STOKES: What happened to him?
-51,00:02:48,00:02:50,BRENNER: Took a punch in the commotion.
-52,00:02:50,00:02:51,He's fine. Door!
-53,00:02:51,00:02:52,(lock buzzes)
-54,00:02:55,00:02:57,(muffled screaming)
-55,00:02:57,00:03:00,"(louder, muffled screams)"
-56,00:03:00,00:03:01,What's his story?
-57,00:03:01,00:03:04,"BRENNER: Well, that's the cause of the circus right there."
-58,00:03:04,00:03:06,Denny Morrison-- he's got some mental issues.
-59,00:03:06,00:03:08,Freaked out getting a flu shot.
-60,00:03:09,00:03:12,"When he ran in here, the, uh, extraction team got him."
-61,00:03:13,00:03:14,Watch your step through here.
-62,00:03:14,00:03:18,"Good thing it wasn't a busy laundry day, right?"
-63,00:03:18,00:03:22,"Anyway, in the process, they found this guy."
-64,00:03:22,00:03:24,Name's Bruce Grady.
-65,00:03:24,00:03:27,"There's a long rap sheet. He's, uh, awaiting trial on armed robbery."
-66,00:03:28,00:03:29,Did he work in here?
-67,00:03:29,00:03:31,"No, he's assigned to the med mod up on the third floor."
-68,00:03:31,00:03:35,What's a hard-core felon doing assigned to a low-risk medical module?
-69,00:03:35,00:03:37,"Well, he had cirrhosis of the liver-- on a bunch of meds."
-70,00:03:37,00:03:39,Had one foot in the grave.
-71,00:03:39,00:03:41,STOKES: Someone must have gotten impatient.
-72,00:03:41,00:03:43,He's been stabbed pretty good. Look at that.
-73,00:03:44,00:03:50,"So we have an inmate from the medical module found three floors below, stabbed to death."
-74,00:03:50,00:03:52,Any particular enemies?
-75,00:03:52,00:03:55,This is County-- everyone in here has enemies.
-76,00:03:55,00:03:56,That narrows it down.
-77,00:03:57,00:03:58,RUSSELL: We have one victim...
-78,00:03:58,00:04:03,"and 2,000 caged suspects."
-79,00:04:39,00:04:40,I hate laundry.
-80,00:04:40,00:04:42,I could never work in a place like this.
-81,00:04:42,00:04:51,"I don't know, it beats sitting in your cell with some sketchy roommate. I don't know, I think an inmate would have been preferable to my first college roommate."
-82,00:04:51,00:04:52,"Hmm. Nutjob, huh?"
-83,00:04:52,00:04:53,"Oh, yeah."
-84,00:04:55,00:04:57,Liver temp is 94 degrees.
-85,00:04:57,00:04:59,He's been dead around three hours.
-86,00:04:59,00:05:01,"So, 7:00 p.m. That's about right."
-87,00:05:02,00:05:04,"Did you find any other stab wounds, Dave?"
-88,00:05:04,00:05:05,Just the one you already saw.
-89,00:05:05,00:05:08,And a defensive wound on his hand.
-90,00:05:08,00:05:12,It looks like there's some residue on his hands as well.
-91,00:05:12,00:05:15,Blood drops on his clothing are gravitational and elongated.
-92,00:05:16,00:05:17,And...
-93,00:05:17,00:05:21,"there is blood on the bottom of his shoes, so he was walking around bleeding."
-94,00:05:22,00:05:24,So where is all the blood?
-95,00:05:26,00:05:28,There's some over here near the sink.
-96,00:05:28,00:05:29,Hot water handle.
-97,00:05:30,00:05:32,Killer could have injured himself during a struggle.
-98,00:05:33,00:05:35,Needed to wash up.
-99,00:05:42,00:05:44,"Hey, I've got a bloody towel over here, as well."
-100,00:05:49,00:05:51,And somebody did a lousy mop job.
-101,00:05:55,00:06:00,"Okay, I'm gonna grab the guys, we'll pick up the body, and I'll text you when Doc schedules the post."
-102,00:06:00,00:06:01,"Thanks, Dave."
-103,00:06:03,00:06:04,"Nick, look at this."
-104,00:06:06,00:06:08,Same residue as on the victim's hands.
-105,00:06:11,00:06:15,"""M.M."" Medical Module, maybe?"
-106,00:06:15,00:06:17,Wasn't the victim housed there?
-107,00:06:17,00:06:20,"Well, that would explain how he got down here."
-108,00:06:20,00:06:21,He was hiding in the laundry cart.
-109,00:06:23,00:06:24,"Yeah, but there's no blood inside."
-110,00:06:24,00:06:30,"Okay, so he was uninjured when he got in, and attacked when he got down here."
-111,00:06:30,00:06:31,(yells in pain)
-112,00:06:31,00:06:35,"Question is, did he come down here voluntarily, or did somebody force him to take the ride?"
-113,00:06:35,00:06:40,"Yeah. Well, either way, we're gonna have to find out who was pushing that cart."
-114,00:06:46,00:06:46,SANDERS: Strep.
-115,00:06:48,00:06:49,Pink eye.
-116,00:06:49,00:06:51,Impetigo?
-117,00:06:51,00:06:54,"I mean, you can practically feel the germs jumping on you."
-118,00:06:54,00:06:56,(laughs) You're being paranoid.
-119,00:06:57,00:06:59,You do remember that I was just quarantined.
-120,00:06:59,00:07:04,"Yes, and you survived the Ibare virus, which means you can probably handle a little bit of pink eye."
-121,00:07:04,00:07:05,If you say so.
-122,00:07:05,00:07:06,Here we are.
-123,00:07:06,00:07:08,Our victim's cell. (sighs)
-124,00:07:08,00:07:09,"You know, this is all new to me."
-125,00:07:09,00:07:14,"We never worked jail cases back at LAPD. Yeah, well, welcome to Clark County."
-126,00:07:20,00:07:21,Ladies first.
-127,00:07:24,00:07:25,(sighs heavily)
-128,00:07:25,00:07:28,Well... Grady's cell is pretty clean.
-129,00:07:28,00:07:32,Doesn't look like there was any struggle of any sort.
-130,00:07:35,00:07:37,Photo of his daughter Rachel.
-131,00:07:37,00:07:40,It's got to be tough missing your kid grow up.
-132,00:07:40,00:07:41,Yeah.
-133,00:07:42,00:07:46,This artwork here explains the residue on Grady's hands.
-134,00:07:50,00:07:52,He had some talent-- these are good drawings.
-135,00:07:52,00:07:54,"SANDERS: Lake views, forests, birds."
-136,00:07:54,00:08:00,All showing the beauty of nature. Hard to believe he'd want to be reminded of that while he's in here.
-137,00:08:00,00:08:03,"SANDERS: Well, maybe in here is where you need to be reminded the most."
-138,00:08:14,00:08:17,Ugh. That's some nasty medicine he was taking.
-139,00:08:17,00:08:21,BRODY: Got a file folder here full of legal paperwork.
-140,00:08:22,00:08:26,"Well, that makes sense-- inmates are allowed to keep their case files with them in their cell."
-141,00:08:32,00:08:34,"Hey, look at this."
-142,00:08:35,00:08:37,Oh. That's a jail kite.
-143,00:08:37,00:08:40,It's how inmates communicate from cell to cell.
-144,00:08:40,00:08:45,"A message is written on paper, which is folded into a triangular kite."
-145,00:08:45,00:08:52,"The string is there, in case they need to pull it back, if it ends up somewhere they didn't want it to go."
-146,00:08:59,00:09:01,"""Liars don't last long in here."
-147,00:09:01,00:09:05,"Watch your back."" That's a pretty serious warning."
-148,00:09:05,00:09:10,Sounds more like a threat to me-- one our killer wasn't afraid to follow up on.
-149,00:09:12,00:09:14,"(lock buzzes, clicks)"
-150,00:09:15,00:09:18,"So, Officer Woo, you were the guard in charge of the laundry room today?"
-151,00:09:18,00:09:20,Laundry's my regular assignment.
-152,00:09:20,00:09:22,"I work days on a four/ten, Sunday to Wednesday."
-153,00:09:22,00:09:24,Okay. And you work alone?
-154,00:09:24,00:09:26,Yeah. It's a solo gig now.
-155,00:09:26,00:09:27,"You know, budget cuts."
-156,00:09:27,00:09:29,"Did you know the victim, Bruce Grady?"
-157,00:09:29,00:09:31,"Seen him around, like any other inmate."
-158,00:09:31,00:09:36,"Well, did you know that he was transported in a cart to the laundry room during your shift?"
-159,00:09:37,00:09:38,No. Didn't.
-160,00:09:38,00:09:39,Where were you around 7:00 p.m.?
-161,00:09:39,00:09:41,Supply trucks got delayed by a pileup on the 15.
-162,00:09:41,00:09:43,Arrived three hours late.
-163,00:09:43,00:09:46,Took my laundry trustees down to the dock to unload it.
-164,00:09:46,00:09:48,That was around... 6:45.
-165,00:09:48,00:09:50,"How long did that take? 15, 20 minutes."
-166,00:09:50,00:09:52,So you left the laundry unsupervised?
-167,00:09:53,00:09:54,Nobody should have been in there.
-168,00:09:54,00:10:01,"I had six trustees with me, and the rest were upstairs doing linen swap. How was the trustee in charge of swapping the linens out of the medical module?"
-169,00:10:01,00:10:02,Third floor.
-170,00:10:02,00:10:03,That'd be Wilbur Tandy.
-171,00:10:06,00:10:09,"Laundry trustee-- that's a pretty good gig, huh, Wilbur?"
-172,00:10:09,00:10:11,I like the routine-- it gets me out of my cell.
-173,00:10:11,00:10:14,"Got Bruce Grady out of his cell, too."
-174,00:10:14,00:10:15,Did you take him down to the laundry room?
-175,00:10:15,00:10:17,Just following orders.
-176,00:10:17,00:10:18,Orders from who?
-177,00:10:18,00:10:25,"Now, I wouldn't last very long in here if I questioned who's giving the orders. You saying you don't want to tell me, or are you saying you don't know?"
-178,00:10:25,00:10:28,I'm saying I don't want to end up like Grady.
-179,00:10:28,00:10:30,"Another option is, we can charge you with accessory to murder."
-180,00:10:30,00:10:32,And I ask for a lawyer and you get nothing.
-181,00:10:32,00:10:33,"STOKES: All right, all right, Wilbur..."
-182,00:10:35,00:10:36,I'm working for the dead man here.
-183,00:10:38,00:10:39,Now who gave you that order?
-184,00:10:41,00:10:42,Got a kite.
-185,00:10:42,00:10:46,"Said bring Grady to the laundry during the linen swap, so I did."
-186,00:10:46,00:10:47,"Grady got a kite, too."
-187,00:10:47,00:10:49,Pretty threatening one.
-188,00:10:49,00:10:55,"So, we're supposed to expect he, uh, voluntarily got into your cart, knowing it could be his last ride?"
-189,00:10:55,00:10:56,You don't get it.
-190,00:10:56,00:10:59,Nothing sent by a kite is a request.
-191,00:10:59,00:11:00,Grady knew that.
-192,00:11:00,00:11:01,He had to go.
-193,00:11:01,00:11:04,Did he say anything? Nah.
-194,00:11:04,00:11:06,He was out of it. He was drugged up on something.
-195,00:11:06,00:11:08,Could barely get in the cart.
-196,00:11:08,00:11:10,"Okay, so, you took him downstairs, then what?"
-197,00:11:10,00:11:11,"Left the cart, got another one."
-198,00:11:11,00:11:14,"I told you, I got my routine."
-199,00:11:14,00:11:16,You see who he was meeting with? Nope.
-200,00:11:16,00:11:17,Dropped him off and left.
-201,00:11:17,00:11:21,STOKES: You can help us eliminate you as a suspect by giving your DNA sample.
-202,00:11:21,00:11:24,I gave my DNA at intake. Use that.
-203,00:11:24,00:11:26,"Well, you've got your routine, I've got mine."
-204,00:11:26,00:11:28,I take a DNA sample from everybody I've talked to.
-205,00:11:28,00:11:30,No exceptions. What do I get if I give it to you?
-206,00:11:30,00:11:33,"Well, you get to keep being laundry trustee."
-207,00:11:39,00:11:42,"RUSSELL: So, where are we with Bruce Grady's enemies?"
-208,00:11:42,00:11:48,"There's no record of any incidents since he's been in jail, but I did pull his rap sheet to look at his history, and I found a very interesting trend."
-209,00:11:49,00:11:54,"Every time he's arrested, the charges got reduced."
-210,00:11:54,00:11:54,Yeah.
-211,00:11:54,00:11:57,"Suspiciously reduced, I'd say, and there's only one way that could happen."
-212,00:11:57,00:12:00,Grady was making deals with the DA.
-213,00:12:01,00:12:10,"So, the guy was an informant. Yeah. So, I cross-matched cases where he appeared as a witness to inmates who are currently assigned to the jail, and I found out something very big."
-214,00:12:10,00:12:15,Grady was the star witness in the murder case of Lincoln Mayfield.
-215,00:12:15,00:12:19,Mayfield-- the Snakeback assassin.
-216,00:12:19,00:12:21,"Yeah, but he was convicted, so he wouldn't be in jail."
-217,00:12:21,00:12:23,"He's got to be upstate in prison, right?"
-218,00:12:23,00:12:26,"Well, he was, but the case was overturned on a technicality."
-219,00:12:26,00:12:28,The retrial is this week.
-220,00:12:28,00:12:31,And Mayfield was brought back to County for the trial.
-221,00:12:31,00:12:33,He arrived two days ago.
-222,00:12:34,00:12:36,"(lock buzzes, clicks)"
-223,00:12:37,00:12:38,GUARD: Mayfield!
-224,00:12:38,00:12:39,On your feet!
-225,00:12:41,00:12:43,"Turn around, hands behind your back."
-226,00:13:29,00:13:31,"Hey, Mayfield, lookie here."
-227,00:13:36,00:13:37,You want to explain this?
-228,00:13:38,00:13:40,I ain't sayin' nothin' to no cop.
-229,00:13:40,00:13:44,"You got a problem with that, talk to my lawyer."
-230,00:13:49,00:13:54,"RUSSELL: Well, Mayfield lawyered up, so, he won't be talking. No surprise."
-231,00:13:54,00:13:57,D.A. handling the retrial gave me a copy of the case file.
-232,00:13:57,00:13:58,Care to take a look?
-233,00:13:58,00:14:01,(grunts) Please tell me there's a Reader's Digest version.
-234,00:14:01,00:14:10,"All right, as the so-called ""Snakeback Assassin,"" Mayfield was suspected of over a dozen gangland murders."
-235,00:14:10,00:14:11,Yeah. I remember this one.
-236,00:14:11,00:14:14,"Young, pregnant woman caught in the crossfire."
-237,00:14:14,00:14:16,"They thought it was a Mayfield hit, right? Yeah."
-238,00:14:16,00:14:19,"Witnesses were, of course, afraid to come forward."
-239,00:14:19,00:14:21,"Consequently, the D.A. never had enough to charge him."
-240,00:14:21,00:14:22,"So, let me guess."
-241,00:14:22,00:14:25,They decided to go with a jail informant.
-242,00:14:25,00:14:28,You got it. They put Bruce Grady in a cell next to Mayfield.
-243,00:14:28,00:14:31,"And after a while, Grady got him to talk."
-244,00:14:31,00:14:33,Mayfield confessed?
-245,00:14:33,00:14:37,"No, but he provided details that only the killer would know."
-246,00:14:37,00:14:41,"It was enough in court, and bottom line is, Grady's testimony put Mayfield away."
-247,00:14:41,00:14:43,"Well, there's Mayfield's motive."
-248,00:14:43,00:14:45,Payback for Grady's testimony.
-249,00:14:45,00:14:46,(phone ringing)
-250,00:14:47,00:14:49,"Boy, I didn't see this coming."
-251,00:14:49,00:14:52,Nick says Mayfield wants to talk.
-252,00:14:55,00:14:58,"My lawyer here ain't happy, but I got to tell you about Grady."
-253,00:14:58,00:15:01,"You're compelled to tell me about Grady, 'cause he testified against you."
-254,00:15:01,00:15:03,That's just it.
-255,00:15:03,00:15:04,That was all lies.
-256,00:15:04,00:15:08,Dude stood up there and said I told him stuff while we was locked up together?
-257,00:15:08,00:15:10,I never told him nothin'.
-258,00:15:10,00:15:12,And that pissed you off.
-259,00:15:12,00:15:14,Hmm. Hmm. Were you mad enough to kill him?
-260,00:15:14,00:15:15,I didn't kill homeboy.
-261,00:15:15,00:15:19,"You sent a kite to Wilbur, ordering him to take Grady to the laundry room."
-262,00:15:19,00:15:21,"To talk, straighten him out."
-263,00:15:21,00:15:22,Why'd you bring a weapon?
-264,00:15:22,00:15:24,Never know who gonna make a move.
-265,00:15:24,00:15:28,"Look, all I wanted for him was to do right by me and take back those lies."
-266,00:15:30,00:15:34,"Okay, so you guys talk, and then what?"
-267,00:15:34,00:15:35,Things just go sideways?
-268,00:15:35,00:15:38,"Dude showed up wasted, makin' no sense."
-269,00:15:43,00:15:44,"Hey, Grady?"
-270,00:15:44,00:15:45,"You're gonna tell 'em you lied, hear me?"
-271,00:15:45,00:15:47,You're gonna make things right. Just be cool.
-272,00:15:47,00:15:49,I can hook you up in here.
-273,00:15:49,00:15:50,"Look here, old man..."
-274,00:15:53,00:15:53,Hey!
-275,00:15:54,00:15:55,"(Grady shouts, groans)"
-276,00:15:57,00:15:58,So you shank him?
-277,00:15:58,00:16:00,To get his attention....
-278,00:16:00,00:16:01,Lincoln.
-279,00:16:01,00:16:04,"Look, I shanked a few dudes in my day."
-280,00:16:04,00:16:07,Poke I gave him wouldn't kill nobody.
-281,00:16:07,00:16:09,You got his attention. Now what?
-282,00:16:09,00:16:14,I... strongly suggested that he come clean.
-283,00:16:15,00:16:18,"(grunting) Tell 'em you lied, I'm gonna kill you."
-284,00:16:18,00:16:19,"Okay, okay."
-285,00:16:19,00:16:24,"And if you tell the D.A. about our little talk, I'm gonna kill you ugly."
-286,00:16:24,00:16:26,"I swear, I won't tell anyone."
-287,00:16:26,00:16:28,I swear.
-288,00:16:30,00:16:31,Not a word.
-289,00:16:31,00:16:33,"You stabbed him, but you weren't trying to kill him?"
-290,00:16:33,00:16:35,I couldn't afford to kill him.
-291,00:16:35,00:16:38,I needed him alive to tell the DA that he lied.
-292,00:16:38,00:16:39,That's why I'm talking to you.
-293,00:16:39,00:16:44,"I'm telling you, him being murdered is bad for me."
-294,00:16:45,00:16:47,Real bad.
-295,00:17:00,00:17:01,(sniffing)
-296,00:17:01,00:17:03,Ooh.
-297,00:17:03,00:17:05,That odor is disgustingly familiar.
-298,00:17:05,00:17:07,It's the smell of success.
-299,00:17:07,00:17:10,I'd hate to find out what failure smells like.
-300,00:17:10,00:17:15,"Hey, did you ever figure out what that medicine was in Grady's trash?"
-301,00:17:15,00:17:16,Wasn't medicine.
-302,00:17:16,00:17:19,It was hooch. Pruno.
-303,00:17:19,00:17:20,Jail alcohol.
-304,00:17:20,00:17:24,"I'm making a batch right now, using only items available to the inmates."
-305,00:17:24,00:17:26,"It's a simple recipe, really."
-306,00:17:26,00:17:30,"Fermentation is the conversion of sugars to alcohol, using yeast."
-307,00:17:30,00:17:34,"You combine fruit, juice, sugar and bread."
-308,00:17:34,00:17:35,Mix and wait.
-309,00:17:35,00:17:38,The yeast from the bread does all the work.
-310,00:17:38,00:17:43,"You just have to vent it occasionally to release the accumulated CO2, and you're good."
-311,00:17:43,00:17:45,Witness said that Grady was out of it.
-312,00:17:45,00:17:49,Maybe he was just drunk on pruno.
-313,00:17:49,00:17:52,Maybe he just needed a little liquid courage.
-314,00:17:53,00:17:57,"If I had to face someone who wanted to kill me, I'd drink, too."
-315,00:18:06,00:18:09,Mm. That looks like something out of a zombie movie.
-316,00:18:09,00:18:12,"No, it's Bruce Grady's liver."
-317,00:18:13,00:18:20,"Cirrhosis causes cells and scar tissue to create nodules, rendering it ineffective as the body's main filtration system."
-318,00:18:20,00:18:23,Makes you not want to have that second glass of wine at dinner.
-319,00:18:23,00:18:24,Speak for yourself.
-320,00:18:24,00:18:26,"So, what about the stab wound?"
-321,00:18:26,00:18:32,"Well, it's a single laceration penetrating the external abdominal oblique muscle."
-322,00:18:32,00:18:37,"It's an inch wide, and about one and a half inches in depth."
-323,00:18:37,00:18:38,That's not very deep.
-324,00:18:38,00:18:40,I'm surprised that it killed him.
-325,00:18:40,00:18:41,"Well, it didn't."
-326,00:18:41,00:18:43,Take a look here.
-327,00:18:44,00:18:45,Petechiae.
-328,00:18:46,00:18:48,So he died from asphyxiation.
-329,00:18:49,00:18:50,ROBBINS: Manually strangled.
-330,00:18:51,00:18:52,(gasping)
-331,00:18:52,00:18:57,You can see finger-shaped contusions beginning to form.
-332,00:18:57,00:19:01,I swabbed the neck for epithelial DNA from our killer.
-333,00:19:01,00:19:03,Already sent it to Henry.
-334,00:19:03,00:19:06,"So, he was stabbed, and then he was strangled."
-335,00:19:06,00:19:07,That makes no sense.
-336,00:19:07,00:19:09,That shank could have done major damage.
-337,00:19:09,00:19:14,"So, why would you strangle someone if you had a perfectly good weapon?"
-338,00:19:14,00:19:15,You wouldn't.
-339,00:19:17,00:19:18,Maybe Mayfield was telling the truth.
-340,00:19:20,00:19:30,"SANDERS: Inmates can get pretty creative concealing their contraband, so let's just be sure to check every hem, edge, seam..."
-341,00:19:30,00:19:32,So it's a tactile examination.
-342,00:19:32,00:19:32,Pretty much.
-343,00:19:32,00:19:34,But never forget.
-344,00:19:34,00:19:38,The most popular hiding place is the jail wallet.
-345,00:19:38,00:19:39,What?
-346,00:19:39,00:19:41,The keister stash.
-347,00:19:41,00:19:44,"Ah, well, I am double gloved, so, I'm good."
-348,00:19:44,00:19:54,I heard about this inmate whose family smuggled him drugs by melting them and using the mixture to paint a picture in a coloring book.
-349,00:19:55,00:19:59,"""To Daddy. Love Lindsay."" It's kind of hard to explain a guy licking a picture of a princess."
-350,00:19:59,00:20:03,"Maybe in the outside world, but in jail, not so much."
-351,00:20:08,00:20:09,(sighs)
-352,00:20:10,00:20:10,Greg...
-353,00:20:11,00:20:12,take a look at this.
-354,00:20:20,00:20:22,It's a tiny recording device.
-355,00:20:22,00:20:24,I've never seen one that small.
-356,00:20:24,00:20:25,It's state-of-the-art.
-357,00:20:25,00:20:28,I saw one of these at the forensic conference last month.
-358,00:20:28,00:20:31,It's not even available to law enforcement until next year.
-359,00:20:32,00:20:33,"Well, then, how did Bruce Grady get one?"
-360,00:20:34,00:20:40,"Well, the vendor did say that one law enforcement agency would be chosen to test the prototype."
-361,00:20:40,00:20:43,I wonder which agency that would be.
-362,00:20:44,00:20:48,"Agent Parker, thank you for seeing me."
-363,00:20:48,00:20:50,Your call said it was urgent.
-364,00:20:52,00:20:55,We found this in the cell of an inmate at County.
-365,00:20:56,00:20:57,You recognize it?
-366,00:20:58,00:20:59,I might. Yeah.
-367,00:20:59,00:21:02,We found that after the inmate was murdered.
-368,00:21:04,00:21:05,(wry chuckle)
-369,00:21:05,00:21:18,"All right, look, Bruce Grady was a CI for the DA's Office-- I already knew that-- but he was also an informant for the FBI, I'm not going to divulge details on an ongoing investigation."
-370,00:21:18,00:21:24,"I can appreciate that, but after the guy was murdered, you might have picked up the phone and told us."
-371,00:21:24,00:21:25,Saved us a lot of trouble.
-372,00:21:25,00:21:27,Our investigation is confidential.
-373,00:21:27,00:21:31,Your investigation is very likely the reason why we're in this mess.
-374,00:21:31,00:21:35,"Look, we think that Grady was killed by that same inmate that you're investigating."
-375,00:21:35,00:21:36,So come on.
-376,00:21:36,00:21:37,Let's work together here.
-377,00:21:40,00:21:45,"Well, that's assuming the focus of our investigation is an inmate."
-378,00:21:46,00:21:49,You're investigating a guard.
-379,00:21:52,00:21:53,(sighs)
-380,00:21:54,00:21:58,So Grady was not just informing on crooks.
-381,00:21:58,00:22:00,He was informing on cops.
-382,00:22:05,00:22:07,"ECKLIE: Agent Parker, you blindsided me on this."
-383,00:22:07,00:22:09,There's such a thing as professional courtesy.
-384,00:22:09,00:22:12,The FBI is under no obligation to share information with you.
-385,00:22:12,00:22:14,"Oh, please. Drop the federal policy-speak."
-386,00:22:14,00:22:15,We're on the same side here.
-387,00:22:15,00:22:18,"If one of my guards is dirty, I want to know about it."
-388,00:22:18,00:22:19,"Now, who are you looking at?"
-389,00:22:19,00:22:21,We're empanelling a grand jury.
-390,00:22:21,00:22:22,We expect an indictment any day.
-391,00:22:22,00:22:24,I'm not going to risk a leak.
-392,00:22:24,00:22:25,A leak?
-393,00:22:25,00:22:29,"RUSSELL: We're investigating the murder of yourCI, and you won't share with us?"
-394,00:22:29,00:22:33,Sorry. Best we can do is work our cases in parallel.
-395,00:22:33,00:22:36,"If your investigation collides with ours, maybe then we can talk."
-396,00:22:36,00:22:38,Have a nice day.
-397,00:22:41,00:22:43,Perfect. A federal corruption investigation.
-398,00:22:43,00:22:45,"We'll work the case as fast as we can, Conrad."
-399,00:22:46,00:22:49,If Grady's killer turns out to be a-a jail guard...
-400,00:22:49,00:22:51,"Yeah, please let me be the first to know."
-401,00:22:57,00:22:57,Hey.
-402,00:22:57,00:23:04,"What do you got for me? All the blood Finn and Nick collected in the laundry room came back to the victim, Bruce Grady, including the blood on the sink."
-403,00:23:04,00:23:07,"Okay, what about the shank? Mm. No surprises there."
-404,00:23:07,00:23:11,Blood on the blade was Grady's. DNA on the handle came back to Lincoln Mayfield.
-405,00:23:11,00:23:16,"A perfect equation, except that the shank isn't the murder weapon 'cause Grady was strangled."
-406,00:23:16,00:23:18,I found epithelials on the victim's neck swab.
-407,00:23:18,00:23:20,DNA doesn't match Mayfield.
-408,00:23:20,00:23:23,DNA has to be the killer's. Did you run it through CODIS?
-409,00:23:23,00:23:24,No hits.
-410,00:23:24,00:23:27,Given that all inmates are entered into the system...
-411,00:23:27,00:23:29,Means we're not looking for an inmate.
-412,00:23:30,00:23:33,"Just like we feared, looks like Grady's killer is a guard."
-413,00:23:35,00:23:45,"So, Grady was reportedly intoxicated at the time of his murder, and yet his tox report says that his blood alcohol level was 0.03%."
-414,00:23:46,00:23:47,0.03?
-415,00:23:47,00:23:52,"That wouldn't make anyone stagger, let alone an alcoholic like Grady. No."
-416,00:23:52,00:23:59,"They also found a half-dozen prescription drugs in his system, all on his medical record, except for one, a drug named terbinafine."
-417,00:23:59,00:24:01,What's that taken for?
-418,00:24:01,00:24:03,Skin infections.
-419,00:24:03,00:24:07,And this is the interesting part: they do not dispense terbinafine in the jail infirmary.
-420,00:24:07,00:24:12,"Okay, so where'd he get it from? I don't know, but somebody with access to the outside must've given it to him."
-421,00:24:12,00:24:13,Huh. All right.
-422,00:24:13,00:24:15,Let me see here.
-423,00:24:15,00:24:16,Terbinafine.
-424,00:24:17,00:24:18,Here we go.
-425,00:24:19,00:24:28,"""Terbinafine should never be taken ""by people with liver problems. Can cause confusion and an unsteady gait."" That would explain why he seemed intoxicated."
-426,00:24:28,00:24:38,"And get this, ""cases of death have been reported in individuals with cirrhosis of the liver."" So somebody was poisoning him before he went down to the laundry."
-427,00:24:38,00:24:42,"Yeah, and they must have gotten tired of waiting for that poison to take effect, went hands-on and strangled him."
-428,00:24:42,00:24:47,"You know, Henry's DNA evidence does back up the fact that we might be looking at a guard."
-429,00:24:47,00:24:52,"Well, the laundry was guarded by Officer Woo, who just so happened to be gone when the murder went down."
-430,00:24:52,00:24:54,"Wow, that is awfully convenient."
-431,00:24:57,00:25:02,"FINLAY: So you said that, on Sunday night, at about 7:00 p.m., you were not in the laundry room. Right."
-432,00:25:02,00:25:04,I was on the loading dock.
-433,00:25:04,00:25:07,And you were on the loading dock for approximately 20 minutes?
-434,00:25:07,00:25:08,Give or take.
-435,00:25:08,00:25:12,"You're on direct deposit for your LVPD paychecks, is that correct?"
-436,00:25:12,00:25:14,"And your wife, she doesn't work, does she?"
-437,00:25:14,00:25:23,"So? So I see that there are several cash deposits to your account each month, last month, totaling more than $4,000."
-438,00:25:24,00:25:27,Is there a rich uncle that I don't know about?
-439,00:25:29,00:25:35,"It's funny, if you want to know what the guards are actually doing when they're on the job, you just have to ask the inmates."
-440,00:25:36,00:25:39,You want to know about Woo? I'll tell you about Woo.
-441,00:25:39,00:25:41,He takes money to look the other way.
-442,00:25:41,00:25:44,It's common knowledge you can get anything in the laundry.
-443,00:25:44,00:25:46,"Drugs, weapons, sex."
-444,00:25:46,00:25:48,Woo won't say a word for the right price.
-445,00:25:48,00:25:51,Laundry's a three-ring circus.
-446,00:25:51,00:25:54,Woo lets inmates do whatever they want.
-447,00:25:55,00:25:56,Look...
-448,00:25:56,00:25:58,my wife has a shopping problem.
-449,00:25:58,00:26:00,Our credit cards are maxed.
-450,00:26:00,00:26:01,I can't even cover the minimum payments.
-451,00:26:01,00:26:05,So I get it: You need to make some extra money on the side.
-452,00:26:05,00:26:06,It started small.
-453,00:26:06,00:26:09,I snuck in some pot brownies for an inmate with migraines.
-454,00:26:09,00:26:12,He told two friends. They told two friends...
-455,00:26:12,00:26:15,"Pretty soon, I got inmates threatening to rat me out if I don't help 'em out, too."
-456,00:26:15,00:26:17,I'd lose my job.
-457,00:26:18,00:26:21,I'd lose everything.
-458,00:26:23,00:26:24,Let's talk about Sunday night.
-459,00:26:24,00:26:27,Mayfield paid me to stay away while he met with Grady.
-460,00:26:28,00:26:30,Had two grand delivered to my house.
-461,00:26:31,00:26:33,Said they were just gonna talk.
-462,00:26:33,00:26:34,How much did you know about Grady?
-463,00:26:35,00:26:36,I knew he was a snitch.
-464,00:26:36,00:26:38,Yeah. For the FBI.
-465,00:26:39,00:26:42,He was helping them with a corruption case involving a jail guard.
-466,00:26:42,00:26:51,"I think that you found out that Grady was snitching you out to the Feds, so you let Mayfield have a little alone time with him, hoping that Mayfield would do your dirty work."
-467,00:26:52,00:26:56,"Only when you got back to the laundry room, Grady was still alive so you had to kill him."
-468,00:26:56,00:26:58,No. No way. I didn't kill Grady.
-469,00:26:58,00:27:00,It's a nice setup. Mayfield's a known killer.
-470,00:27:00,00:27:01,He's a perfect patsy.
-471,00:27:01,00:27:02,I didn't do it.
-472,00:27:03,00:27:04,I swear.
-473,00:27:05,00:27:10,"Cops don't have their DNA in CODIS, so if you want to prove it to me, you're gonna have to give me a sample."
-474,00:27:13,00:27:16,Hey. You find anything on the recording device from Grady's cell?
-475,00:27:16,00:27:18,"No, it's blank."
-476,00:27:18,00:27:21,(sighs) We must've found it before Grady had a chance to use it.
-477,00:27:21,00:27:23,"Yeah, but here's where it gets weird."
-478,00:27:23,00:27:26,"So, I got the specs from the vendor."
-479,00:27:27,00:27:28,Something isn't adding up here.
-480,00:27:28,00:27:35,"According to these, the dynamic range of the device is 80 decibels, with a noise floor of 30 decibels."
-481,00:27:35,00:27:38,Dynamic range? Noise floor?
-482,00:27:38,00:27:40,"All right. Well, let-let me just show you."
-483,00:27:40,00:27:46,"So, the human speaking voice averages 60 to 70 decibels at three feet. That's..."
-484,00:27:46,00:27:47,the green wave here.
-485,00:27:48,00:27:50,Now let's add some interference.
-486,00:27:50,00:27:52,(white noise hissing)
-487,00:27:52,00:28:00,"So as long as the interference from any kind of background noise stays within this range, then the recording device can still pick up our voices."
-488,00:28:00,00:28:09,"See how the green and red waves remain distinct? But in the jail's laundry, with all the machines running and the cement walls, the noise interference level would have to be a lot higher."
-489,00:28:09,00:28:12,I went back and measured. It was 86 decibels.
-490,00:28:14,00:28:15,"(hissing, crackling increases)"
-491,00:28:15,00:28:15,See?
-492,00:28:15,00:28:20,Now look at the sound waves. The laundry room's way too loud to record human conversation with that.
-493,00:28:20,00:28:22,"(hissing, crackling fades)"
-494,00:28:22,00:28:31,"So if the FBI was trying to record Officer Woo during his shift in the jail laundry, then this was the wrong device."
-495,00:28:32,00:28:37,"So, Morgan and Greg don't think Officer Woo is the target of the FBI investigation."
-496,00:28:37,00:28:42,I think they're right. Woo's DNA did not match the DNA on the neck swab.
-497,00:28:42,00:28:44,So Woo's not the one who strangled Grady.
-498,00:28:44,00:28:45,Mm-mm.
-499,00:28:45,00:28:47,Where's that put us now?
-500,00:28:47,00:28:55,"Well, I have been looking back over Grady's CI files, and instead of links to inmates, I've been looking at links to officers, and there's quite a list."
-501,00:28:55,00:28:58,Grady has been making deals for years.
-502,00:28:58,00:29:00,"Well, being an informant can be good money."
-503,00:29:00,00:29:01,"Well, he's not doing it for the money."
-504,00:29:01,00:29:04,"He's doing it to get his charges reduced, so..."
-505,00:29:04,00:29:11,sexual assault is dealt down to malicious mischief and robbery down to burglary.
-506,00:29:11,00:29:13,And the list just goes on and on.
-507,00:29:13,00:29:15,Is there a connection to any officers that we know?
-508,00:29:18,00:29:19,Carl Brenner.
-509,00:29:20,00:29:21,Brenner?
-510,00:29:21,00:29:24,The gung-ho detective?
-511,00:29:24,00:29:28,He never mentioned anything about knowing Grady at the crime scene.
-512,00:29:30,00:29:36,"Hey, wait a minute, was Detective Brenner a part of the Lincoln Mayfield case?"
-513,00:29:42,00:29:42,FINLAY: He was.
-514,00:29:43,00:29:48,And Brenner would have been in charge of putting Grady into the cell next to Mayfield.
-515,00:29:48,00:29:53,"When I talked to Mayfield, he claims that he never talked to Grady about anything when they were housed next to each other."
-516,00:29:54,00:29:59,So what if Brenner fed his informant the information on Mayfield?
-517,00:30:00,00:30:02,There was a lot of public pressure at the time for a conviction.
-518,00:30:02,00:30:06,Right? Perfect opportunity for the new guy in Homicide to make a name for himself.
-519,00:30:09,00:30:10,What are you doing?
-520,00:30:10,00:30:13,Looking up Detective Brenner's personnel file.
-521,00:30:13,00:30:18,"You know, when officers take a random drug test, they have to list all the medications they've been taking."
-522,00:30:18,00:30:19,"Yeah, yeah. That's routine."
-523,00:30:19,00:30:24,Right. Here's his medical disclosure form from last month.
-524,00:30:24,00:30:27,"He lists a multivitamin, ibuprofen..."
-525,00:30:27,00:30:30,...and terbinafine.
-526,00:30:30,00:30:33,Same medication we found in Grady's blood.
-527,00:30:33,00:30:34,Wow.
-528,00:30:34,00:30:37,So Brenner was poisoning Grady. Yeah.
-529,00:30:37,00:30:39,"How much you want to bet he's the one who strangled him, too?"
-530,00:30:47,00:30:56,"Okay, here's what we got: Detective Brenner was using Grady by feeding him case information and then putting him next to suspects that he wanted to frame."
-531,00:30:56,00:30:58,Making Brenner look like a hero.
-532,00:30:58,00:31:02,Right. Explains his meteoric rise in the department over the last two years.
-533,00:31:02,00:31:04,Mayfield was the most recent.
-534,00:31:04,00:31:05,Also the highest profile.
-535,00:31:05,00:31:08,And that may be what got the attention of the Feds.
-536,00:31:08,00:31:10,Brenner's a smart guy.
-537,00:31:10,00:31:11,Probably saw it coming.
-538,00:31:11,00:31:13,Started to poison Grady.
-539,00:31:13,00:31:17,Was Brenner at County at the time Grady was strangled?
-540,00:31:18,00:31:21,Conducting a lineup down the hall from the laundry.
-541,00:31:22,00:31:25,I'm gonna interrogate this son of a bitch myself.
-542,00:31:33,00:31:37,I thought we agreed to talk before pulling the trigger on this. Mitch.
-543,00:31:37,00:31:40,Take Detective Brenner to Interrogation Room B.
-544,00:31:40,00:31:41,"Be my pleasure, sir."
-545,00:31:42,00:31:43,Let's go.
-546,00:31:43,00:31:53,"Special Agent Parker, what we agreed was to work our cases separately, at yourrequest, as I recall. Arresting Brenner could affect our grand jury hearing, damage our case going forward."
-547,00:31:53,00:31:55,Not my problem. We have our own case to solve.
-548,00:31:55,00:31:58,We could work together.
-549,00:31:58,00:32:03,The LVPD is under no obligation to share investigative information with you.
-550,00:32:04,00:32:06,"You want a shot at Brenner, you can wait till I'm done."
-551,00:32:06,00:32:07,Excuse me.
-552,00:32:11,00:32:12,Sheriff...
-553,00:32:12,00:32:14,"Sir, look..."
-554,00:32:14,00:32:16,"I don't know what you've heard, all right?"
-555,00:32:16,00:32:18,"But-but I am a good cop, okay?"
-556,00:32:18,00:32:21,I can't believe you march me in here like-like some... criminal.
-557,00:32:21,00:32:22,"I put criminals away. Yeah, you do."
-558,00:32:22,00:32:25,"You got a hell of a conviction rate, one of the best in the department."
-559,00:32:25,00:32:28,And now every single one of those convictions is gonna be called into question.
-560,00:32:28,00:32:32,"Aw, come on. Every dirtbag I put away was guilty, no question."
-561,00:32:32,00:32:36,You falsified evidence by coaching your informant to lie in court.
-562,00:32:36,00:32:40,So I nudged my cases a little bit-- so what?
-563,00:32:40,00:32:45,"You framed them. Going down that road, you become worse than the criminals you're chasing. No. No."
-564,00:32:45,00:32:47,I could never be like them. You already are.
-565,00:32:47,00:32:48,You killed Bruce Grady.
-566,00:32:48,00:32:49,The hell I did.
-567,00:32:49,00:32:52,He had poisonous medicine in his system.
-568,00:32:52,00:32:52,Your medicine.
-569,00:32:59,00:33:00,"(chuckles): Okay, yeah."
-570,00:33:00,00:33:01,"(sniffs) Yeah, I gave him the medicine."
-571,00:33:03,00:33:06,"But to make him sick, not-not to... to kill him."
-572,00:33:06,00:33:09,"Look, Grady was getting cold feet about Mayfield's retrial."
-573,00:33:09,00:33:13,"I figure if he's too sick to testify, the DA's forced to use his previous testimony."
-574,00:33:13,00:33:17,"No, you killed him because you knew he was two-timing you."
-575,00:33:17,00:33:19,What-what are you talking about?
-576,00:33:19,00:33:21,With the FBI investigation.
-577,00:33:23,00:33:25,"Grady was ratting you out to the Feds, and you found out."
-578,00:33:25,00:33:27,That's why you killed him.
-579,00:33:28,00:33:31,"Okay, I-I, um... I need my-my union rep."
-580,00:33:31,00:33:32,(chuckles): Your union rep.
-581,00:33:32,00:33:35,You've committed multiple felonies while on duty.
-582,00:33:35,00:33:38,Your union is gonna run in the opposite direction.
-583,00:33:38,00:33:39,"Well, then I want a lawyer. (sniffs)"
-584,00:33:40,00:33:42,You're gonna need one.
-585,00:33:44,00:33:45,RUSSELL: Hey.
-586,00:33:45,00:33:46,How'd it go?
-587,00:33:46,00:33:49,"Admitted to the poisoning, denied the murder, then lawyered up."
-588,00:33:49,00:33:54,"Funny thing, though, from the look on his face, I don't think he knew about the FBI probe."
-589,00:33:55,00:33:57,Did you get a DNA sample?
-590,00:33:57,00:33:59,"No, and there's not a chance he's gonna give one now."
-591,00:33:59,00:34:00,"Actually, wait a minute."
-592,00:34:00,00:34:04,I think he may have given it to me already.
-593,00:34:06,00:34:07,"You need me, you call me."
-594,00:34:07,00:34:08,Home number's right on the back.
-595,00:34:38,00:34:39,"Henry, you look excited."
-596,00:34:39,00:34:42,Were you able to extract any DNA?
-597,00:34:42,00:34:45,"Oh, I got a beautiful profile, but we're not gonna need it."
-598,00:34:45,00:34:47,"Well, yeah, we are."
-599,00:34:47,00:34:52,Brenner only admitted to poisoning Grady-- we need to prove that he also strangled him.
-600,00:34:52,00:34:54,"Uh, except he didn't."
-601,00:34:54,00:34:58,(sighs) Okay. What am I missing?
-602,00:34:58,00:35:00,I found a match to the neck swab from the victim.
-603,00:35:00,00:35:03,The killer's an inmate named Peter McCrone.
-604,00:35:03,00:35:09,This is the guy that got punched during that pepper spray melee.
-605,00:35:09,00:35:10,"Hey, what the hell?"
-606,00:35:11,00:35:14,"He's an inmate, so how come his DNA didn't show up in CODIS?"
-607,00:35:14,00:35:17,"Oh, only DNA from felons gets entered into CODIS."
-608,00:35:17,00:35:19,Peter McCrone is in county on a misdemeanor.
-609,00:35:19,00:35:21,We just got his DNA when Finlay interviewed him.
-610,00:35:21,00:35:23,It was at the bottom of a big pile of...
-611,00:35:23,00:35:24,"Hey, come on in."
-612,00:35:24,00:35:25,FINLAY: Hey.
-613,00:35:25,00:35:28,Henry just found a match to an inmate you talked to.
-614,00:35:28,00:35:29,"Yeah, Peter McCrone."
-615,00:35:29,00:35:30,Henry texted me.
-616,00:35:30,00:35:34,"So, I went back to try to find a connection between McCrone and Grady."
-617,00:35:34,00:35:35,Right. And?
-618,00:35:35,00:35:38,Grady's earliest arrest was for sexual assault.
-619,00:35:38,00:35:40,Dealt down to malicious mischief.
-620,00:35:40,00:35:42,"Right, I remember seeing that."
-621,00:35:42,00:35:44,McCrone was his victim.
-622,00:35:45,00:35:48,Grady molested him 20 years ago.
-623,00:35:49,00:35:51,"Well, there's a hell of a motive."
-624,00:35:52,00:35:55,You spend your whole life trying to put things behind you.
-625,00:35:57,00:35:58,To forget.
-626,00:36:02,00:36:04,"But some things, they just never go away."
-627,00:36:06,00:36:07,STOKES: I know it's difficult.
-628,00:36:09,00:36:12,"So, tell me what happened."
-629,00:36:12,00:36:16,Bruce Grady was a janitor at my elementary school.
-630,00:36:17,00:36:18,He was always nice.
-631,00:36:18,00:36:19,Seemed like someone you could trust.
-632,00:36:19,00:36:21,But he broke that trust.
-633,00:36:22,00:36:25,"One afternoon, I forgot my backpack."
-634,00:36:27,00:36:28,"Nobody here except you and me, man."
-635,00:36:29,00:36:30,There it is!
-636,00:36:30,00:36:31,"Thanks, Mr. Grady."
-637,00:36:36,00:36:38,"Hey, kid, want to see a cool picture of a T. rex?"
-638,00:36:38,00:36:40,Sure.
-639,00:36:49,00:36:50,He molested me.
-640,00:36:51,00:36:52,I was nine years old.
-641,00:36:53,00:36:55,I never should have gone near him.
-642,00:36:55,00:36:57,"You know, I-I knew something wasn't right."
-643,00:36:57,00:36:57,I knew.
-644,00:36:57,00:36:59,He took advantage of a child.
-645,00:36:59,00:37:00,That's not your fault.
-646,00:37:00,00:37:04,He threatened to hurt my family... if I told.
-647,00:37:04,00:37:11,"I wasn't going to, but when I got home, my mom knew something was wrong."
-648,00:37:11,00:37:14,"So, I had to tell her."
-649,00:37:14,00:37:16,"You know, that's a brave thing to do."
-650,00:37:16,00:37:19,"Lot of kids, they wouldn't even say anything."
-651,00:37:19,00:37:20,He was arrested the next day.
-652,00:37:20,00:37:24,"And I was ready to testify against him, so he couldn't hurt other kids."
-653,00:37:24,00:37:25,It was all I could think about.
-654,00:37:25,00:37:28,But Grady took a plea bargain.
-655,00:37:28,00:37:30,He got three years.
-656,00:37:30,00:37:32,"Three years, that's it."
-657,00:37:32,00:37:33,I couldn't believe it.
-658,00:37:33,00:37:36,How'd you run into Grady in county?
-659,00:37:36,00:37:39,I was dropping supplies off in the laundry.
-660,00:37:39,00:37:41,And I heard arguing.
-661,00:37:41,00:37:46,"If you tell the DA about our little talk, I'm gonna kill you ugly..."
-662,00:37:46,00:37:48,"I swear, I won't tell anyone."
-663,00:37:48,00:37:49,I swear.
-664,00:37:51,00:37:52,Not a word.
-665,00:37:52,00:37:53,That voice.
-666,00:37:55,00:37:56,I recognized it immediately.
-667,00:37:58,00:38:00,Don't say a word.
-668,00:38:00,00:38:01,Not to anybody.
-669,00:38:01,00:38:04,Not one word.
-670,00:38:06,00:38:08,The bastard who raped me was right there.
-671,00:38:10,00:38:12,So I waited for the other guy to leave.
-672,00:38:17,00:38:18,"You're Bruce Grady, aren't you?"
-673,00:38:19,00:38:21,Who's asking?
-674,00:38:21,00:38:22,Pete McCrone.
-675,00:38:23,00:38:24,We met 20 years ago.
-676,00:38:24,00:38:25,When I was a kid.
-677,00:38:25,00:38:27,Not ringing a bell.
-678,00:38:27,00:38:29,When you raped me.
-679,00:38:37,00:38:39,Figures you'd wind up in here.
-680,00:38:47,00:38:49,Squeezed his neck as hard as I could.
-681,00:38:49,00:38:51,It surprised me.
-682,00:38:51,00:38:54,I didn't think I could do something like that.
-683,00:38:54,00:38:56,"Hmm, well, then what happened?"
-684,00:38:56,00:38:57,I panicked.
-685,00:38:57,00:39:01,"I stuffed him into the closet, I wiped up the blood, and I got hell out of there."
-686,00:39:03,00:39:05,What were you even doing in County?
-687,00:39:05,00:39:09,"I mean, the only charge I see here is a misdemeanor."
-688,00:39:09,00:39:09,What the hell happened?
-689,00:39:09,00:39:11,It's stupid-- child endangerment.
-690,00:39:11,00:39:12,What do you mean?
-691,00:39:12,00:39:18,"I left my two-year-old at home in the crib, and I went and tried to pull my wife out of the bar."
-692,00:39:18,00:39:20,"While I was gone, the neighbors called the cops."
-693,00:39:20,00:39:21,And that was a month ago.
-694,00:39:21,00:39:23,You haven't had your arraignment yet?
-695,00:39:23,00:39:26,Public defender told me he was handling things.
-696,00:39:26,00:39:28,That I'd be out in 24 hours.
-697,00:39:28,00:39:30,And then never heard anything.
-698,00:39:33,00:39:34,"Hey, uh..."
-699,00:39:34,00:39:37,maybe you could talk to someone.
-700,00:39:39,00:39:42,"Get things straightened out, get me out of here."
-701,00:39:45,00:39:48,"Pete, man, I just..."
-702,00:39:49,00:39:51,I don't think that's gonna happen.
-703,00:39:52,00:39:53,"You know, not-not now."
-704,00:39:53,00:39:55,After-after all this.
-705,00:40:09,00:40:11,Heard you got a confession out of McCrone.
-706,00:40:12,00:40:13,Yeah.
-707,00:40:14,00:40:15,"Yeah, he copped to everything."
-708,00:40:15,00:40:18,He recognized Grady 20 years later?
-709,00:40:18,00:40:20,It was Grady's voice.
-710,00:40:20,00:40:22,That's what got him.
-711,00:40:22,00:40:24,Pete never forgot that voice.
-712,00:40:25,00:40:29,"Course, it was a million-to-one shot that McCrone'd even run into Grady there in the first place."
-713,00:40:29,00:40:31,"Yeah, why was he in jail again?"
-714,00:40:31,00:40:32,Child endangerment?
-715,00:40:32,00:40:33,"Yeah, those charges were dropped."
-716,00:40:33,00:40:39,It was paperwork that kept him in there for that month.
-717,00:40:41,00:40:43,How you doing? You okay?
-718,00:40:45,00:40:46,"Yeah, I'm fine."
-719,00:40:47,00:40:49,"Hey, seriously."
-720,00:40:51,00:40:53,"Sometimes these cases hit a nerve, you know?"
-721,00:40:53,00:40:58,"And... this one just hit a nerve that was a little too close to home for me, that's all."
-722,00:40:58,00:41:00,You want to talk about it?
-723,00:41:04,00:41:06,"No, I want to forget about it."
-724,00:41:10,00:41:11,Okay.
-725,00:41:12,00:41:13,Well...
-726,00:41:15,00:41:17,"this is a hell of a job, Nick."
-727,00:41:18,00:41:25,"We work a horrific crime, turn around and work another one."
-728,00:41:26,00:41:30,"They're bound to collide with our personal lives, sooner or later."
-729,00:41:31,00:41:32,Just never know when.
-730,00:41:33,00:41:37,Pete did the exact same thing I would have done in that situation.
-731,00:41:40,00:41:41,Think you would have gone that far?
-732,00:41:50,00:41:54,"Guy goes to jail for a misdemeanor, ends up in prison for murder."
-733,00:41:55,00:41:57,Momentary decision...
-734,00:41:59,00:42:00,ruined his life forever.
-735,00:42:04,00:42:07,His life was ruined a long time ago.
+	start	end	text
+0	00:00:11	00:00:12	Let's go! On the line!
+1	00:00:25	00:00:27	Okay, settle down! Keep moving!
+2	00:00:37	00:00:38	I-I don't...
+3	00:00:45	00:00:46	Hey... I can't do this, man.
+4	00:00:46	00:00:48	I-I hate needles. Shut up.
+5	00:00:48	00:00:50	I hate needles. Please, please...
+6	00:00:50	00:00:53	Please, please, please don't make me, I can't...
+7	00:00:53	00:00:55	I can't do this... Just relax.
+8	00:00:56	00:00:57	Nobody listens to me.
+9	00:00:57	00:00:57	No...
+10	00:00:57	00:00:59	I hate needles.
+11	00:00:59	00:01:01	Relax... I hate needles! I hate...
+12	00:01:01	00:01:03	Nobody's listening to me!
+13	00:01:03	00:01:05	No... Nobody's listening to me!
+14	00:01:10	00:01:12	Backup needed in the inmate reception-- now!
+15	00:01:14	00:01:16	O'Malley-- we need backup!
+16	00:01:23	00:01:24	Shut up! Shut up!
+17	00:01:24	00:01:25	Yo, man... Shut up!
+18	00:01:25	00:01:26	Shut up!
+19	00:01:28	00:01:31	Shut up! Shut up!
+20	00:01:34	00:01:35	On your knees now! Hands above your head!
+21	00:01:40	00:01:42	Inmate, drop to the floor now!
+22	00:01:59	00:02:00	Crime lab.
+23	00:02:13	00:02:17	You must be Russell and Stokes with the crime lab.
+24	00:02:17	00:02:18	Detective Carl Brenner.
+25	00:02:18	00:02:20	How do you do? Heard you guys are the best. Follow me.
+26	00:02:21	00:02:23	I'm kind of the, uh, new guy in Homicide.
+27	00:02:23	00:02:25	Youngest detective ever promoted into the bureau.
+28	00:02:25	00:02:27	Been there just over two years.
+29	00:02:27	00:02:30	Love the job. Oh. Well, congratulations.
+30	00:02:30	00:02:34	Well, you know what they say-- you can't solve murders sitting behind a desk.
+31	00:02:34	00:02:37	A motto I live by. So... I work 24/7.
+32	00:02:37	00:02:38	You need me, you call me.
+33	00:02:38	00:02:40	Home number's on the back.
+34	00:02:40	00:02:41	Right up here, guys.
+35	00:02:45	00:02:47	Quite a ruckus, huh? Sure was.
+36	00:02:48	00:02:48	What happened to him?
+37	00:02:48	00:02:50	Took a punch in the commotion.
+38	00:02:50	00:02:51	He's fine. Door!
+39	00:03:00	00:03:01	What's his story?
+40	00:03:01	00:03:04	Well, that's the cause of the circus right there.
+41	00:03:04	00:03:06	Denny Morrison-- he's got some mental issues.
+42	00:03:06	00:03:08	Freaked out getting a flu shot.
+43	00:03:09	00:03:12	When he ran in here, the, uh, extraction team got him.
+44	00:03:13	00:03:14	Watch your step through here.
+45	00:03:14	00:03:18	Good thing it wasn't a busy laundry day, right?
+46	00:03:18	00:03:22	Anyway, in the process, they found this guy.
+47	00:03:22	00:03:24	Name's Bruce Grady.
+48	00:03:24	00:03:27	There's a long rap sheet. He's, uh, awaiting trial on armed robbery.
+49	00:03:28	00:03:29	Did he work in here?
+50	00:03:29	00:03:31	No, he's assigned to the med mod up on the third floor.
+51	00:03:31	00:03:35	What's a hard-core felon doing assigned to a low-risk medical module?
+52	00:03:35	00:03:37	Well, he had cirrhosis of the liver-- on a bunch of meds.
+53	00:03:37	00:03:39	Had one foot in the grave.
+54	00:03:39	00:03:41	Someone must have gotten impatient.
+55	00:03:41	00:03:43	He's been stabbed pretty good. Look at that.
+56	00:03:44	00:03:50	So we have an inmate from the medical module found three floors below, stabbed to death.
+57	00:03:50	00:03:52	Any particular enemies?
+58	00:03:52	00:03:55	This is County-- everyone in here has enemies.
+59	00:03:55	00:03:56	That narrows it down.
+60	00:03:57	00:03:58	We have one victim...
+61	00:03:58	00:04:03	and 2,000 caged suspects.
+62	00:04:39	00:04:40	I hate laundry.
+63	00:04:40	00:04:42	I could never work in a place like this.
+64	00:04:42	00:04:51	I don't know, it beats sitting in your cell with some sketchy roommate. I don't know, I think an inmate would have been preferable to my first college roommate.
+65	00:04:51	00:04:52	Hmm. Nutjob, huh?
+66	00:04:52	00:04:53	Oh, yeah.
+67	00:04:55	00:04:57	Liver temp is 94 degrees.
+68	00:04:57	00:04:59	He's been dead around three hours.
+69	00:04:59	00:05:01	00 p.m. That's about right.
+70	00:05:02	00:05:04	Did you find any other stab wounds, Dave?
+71	00:05:04	00:05:05	Just the one you already saw.
+72	00:05:05	00:05:08	And a defensive wound on his hand.
+73	00:05:08	00:05:12	It looks like there's some residue on his hands as well.
+74	00:05:12	00:05:15	Blood drops on his clothing are gravitational and elongated.
+75	00:05:16	00:05:17	And...
+76	00:05:17	00:05:21	there is blood on the bottom of his shoes, so he was walking around bleeding.
+77	00:05:22	00:05:24	So where is all the blood?
+78	00:05:26	00:05:28	There's some over here near the sink.
+79	00:05:28	00:05:29	Hot water handle.
+80	00:05:30	00:05:32	Killer could have injured himself during a struggle.
+81	00:05:33	00:05:35	Needed to wash up.
+82	00:05:42	00:05:44	Hey, I've got a bloody towel over here, as well.
+83	00:05:49	00:05:51	And somebody did a lousy mop job.
+84	00:05:55	00:06:00	Okay, I'm gonna grab the guys, we'll pick up the body, and I'll text you when Doc schedules the post.
+85	00:06:00	00:06:01	Thanks, Dave.
+86	00:06:03	00:06:04	Nick, look at this.
+87	00:06:06	00:06:08	Same residue as on the victim's hands.
+88	00:06:11	00:06:12	M.M.
+89	00:06:12	00:06:15	Medical Module, maybe?
+90	00:06:15	00:06:17	Wasn't the victim housed there?
+91	00:06:17	00:06:20	Well, that would explain how he got down here.
+92	00:06:20	00:06:21	He was hiding in the laundry cart.
+93	00:06:23	00:06:24	Yeah, but there's no blood inside.
+94	00:06:24	00:06:30	Okay, so he was uninjured when he got in, and attacked when he got down here.
+95	00:06:31	00:06:35	Question is, did he come down here voluntarily, or did somebody force him to take the ride?
+96	00:06:35	00:06:40	Yeah. Well, either way, we're gonna have to find out who was pushing that cart.
+97	00:06:46	00:06:46	Strep.
+98	00:06:48	00:06:49	Pink eye.
+99	00:06:49	00:06:51	Impetigo?
+100	00:06:51	00:06:54	I mean, you can practically feel the germs jumping on you.
+101	00:06:54	00:06:56	(laughs) You're being paranoid.
+102	00:06:57	00:06:59	You do remember that I was just quarantined.
+103	00:06:59	00:07:04	Yes, and you survived the Ibare virus, which means you can probably handle a little bit of pink eye.
+104	00:07:04	00:07:05	If you say so.
+105	00:07:05	00:07:06	Here we are.
+106	00:07:06	00:07:08	Our victim's cell. (sighs)
+107	00:07:08	00:07:09	You know, this is all new to me.
+108	00:07:09	00:07:14	We never worked jail cases back at LAPD. Yeah, well, welcome to Clark County.
+109	00:07:20	00:07:21	Ladies first.
+110	00:07:25	00:07:28	Well... Grady's cell is pretty clean.
+111	00:07:28	00:07:32	Doesn't look like there was any struggle of any sort.
+112	00:07:35	00:07:37	Photo of his daughter Rachel.
+113	00:07:37	00:07:40	It's got to be tough missing your kid grow up.
+114	00:07:40	00:07:41	Yeah.
+115	00:07:42	00:07:46	This artwork here explains the residue on Grady's hands.
+116	00:07:50	00:07:52	He had some talent-- these are good drawings.
+117	00:07:52	00:07:54	Lake views, forests, birds.
+118	00:07:54	00:08:00	All showing the beauty of nature. Hard to believe he'd want to be reminded of that while he's in here.
+119	00:08:00	00:08:03	Well, maybe in here is where you need to be reminded the most.
+120	00:08:14	00:08:17	Ugh. That's some nasty medicine he was taking.
+121	00:08:17	00:08:21	Got a file folder here full of legal paperwork.
+122	00:08:22	00:08:26	Well, that makes sense-- inmates are allowed to keep their case files with them in their cell.
+123	00:08:32	00:08:34	Hey, look at this.
+124	00:08:35	00:08:37	Oh. That's a jail kite.
+125	00:08:37	00:08:40	It's how inmates communicate from cell to cell.
+126	00:08:40	00:08:45	A message is written on paper, which is folded into a triangular kite.
+127	00:08:45	00:08:52	The string is there, in case they need to pull it back, if it ends up somewhere they didn't want it to go.
+128	00:08:59	00:09:01	Liars don't last long in here.
+129	00:09:01	00:09:03	Watch your back.
+130	00:09:04	00:09:05	That's a pretty serious warning.
+131	00:09:05	00:09:10	Sounds more like a threat to me-- one our killer wasn't afraid to follow up on.
+132	00:09:15	00:09:18	So, Officer Woo, you were the guard in charge of the laundry room today?
+133	00:09:18	00:09:20	Laundry's my regular assignment.
+134	00:09:20	00:09:22	I work days on a four/ten, Sunday to Wednesday.
+135	00:09:22	00:09:24	Okay. And you work alone?
+136	00:09:24	00:09:26	Yeah. It's a solo gig now.
+137	00:09:26	00:09:27	You know, budget cuts.
+138	00:09:27	00:09:29	Did you know the victim, Bruce Grady?
+139	00:09:29	00:09:31	Seen him around, like any other inmate.
+140	00:09:31	00:09:36	Well, did you know that he was transported in a cart to the laundry room during your shift?
+141	00:09:37	00:09:38	No. Didn't.
+142	00:09:38	00:09:39	00 p.m.?
+143	00:09:39	00:09:41	Supply trucks got delayed by a pileup on the 15.
+144	00:09:41	00:09:43	Arrived three hours late.
+145	00:09:43	00:09:46	Took my laundry trustees down to the dock to unload it.
+146	00:09:46	00:09:48	45.
+147	00:09:48	00:09:50	How long did that take? 15, 20 minutes.
+148	00:09:50	00:09:52	So you left the laundry unsupervised?
+149	00:09:53	00:09:54	Nobody should have been in there.
+150	00:09:54	00:10:01	I had six trustees with me, and the rest were upstairs doing linen swap. How was the trustee in charge of swapping the linens out of the medical module?
+151	00:10:01	00:10:02	Third floor.
+152	00:10:02	00:10:03	That'd be Wilbur Tandy.
+153	00:10:06	00:10:09	Laundry trustee-- that's a pretty good gig, huh, Wilbur?
+154	00:10:09	00:10:11	I like the routine-- it gets me out of my cell.
+155	00:10:11	00:10:14	Got Bruce Grady out of his cell, too.
+156	00:10:14	00:10:15	Did you take him down to the laundry room?
+157	00:10:15	00:10:17	Just following orders.
+158	00:10:17	00:10:18	Orders from who?
+159	00:10:18	00:10:25	Now, I wouldn't last very long in here if I questioned who's giving the orders. You saying you don't want to tell me, or are you saying you don't know?
+160	00:10:25	00:10:28	I'm saying I don't want to end up like Grady.
+161	00:10:28	00:10:30	Another option is, we can charge you with accessory to murder.
+162	00:10:30	00:10:32	And I ask for a lawyer and you get nothing.
+163	00:10:32	00:10:33	All right, all right, Wilbur...
+164	00:10:35	00:10:36	I'm working for the dead man here.
+165	00:10:38	00:10:39	Now who gave you that order?
+166	00:10:41	00:10:42	Got a kite.
+167	00:10:42	00:10:46	Said bring Grady to the laundry during the linen swap, so I did.
+168	00:10:46	00:10:47	Grady got a kite, too.
+169	00:10:47	00:10:49	Pretty threatening one.
+170	00:10:49	00:10:55	So, we're supposed to expect he, uh, voluntarily got into your cart, knowing it could be his last ride?
+171	00:10:55	00:10:56	You don't get it.
+172	00:10:56	00:10:59	Nothing sent by a kite is a request.
+173	00:10:59	00:11:00	Grady knew that.
+174	00:11:00	00:11:01	He had to go.
+175	00:11:01	00:11:04	Did he say anything? Nah.
+176	00:11:04	00:11:06	He was out of it. He was drugged up on something.
+177	00:11:06	00:11:08	Could barely get in the cart.
+178	00:11:08	00:11:10	Okay, so, you took him downstairs, then what?
+179	00:11:10	00:11:11	Left the cart, got another one.
+180	00:11:11	00:11:14	I told you, I got my routine.
+181	00:11:14	00:11:16	You see who he was meeting with? Nope.
+182	00:11:16	00:11:17	Dropped him off and left.
+183	00:11:17	00:11:21	You can help us eliminate you as a suspect by giving your DNA sample.
+184	00:11:21	00:11:24	I gave my DNA at intake. Use that.
+185	00:11:24	00:11:26	Well, you've got your routine, I've got mine.
+186	00:11:26	00:11:28	I take a DNA sample from everybody I've talked to.
+187	00:11:28	00:11:30	No exceptions. What do I get if I give it to you?
+188	00:11:30	00:11:33	Well, you get to keep being laundry trustee.
+189	00:11:39	00:11:42	So, where are we with Bruce Grady's enemies?
+190	00:11:42	00:11:48	There's no record of any incidents since he's been in jail, but I did pull his rap sheet to look at his history, and I found a very interesting trend.
+191	00:11:49	00:11:54	Every time he's arrested, the charges got reduced.
+192	00:11:54	00:11:54	Yeah.
+193	00:11:54	00:11:57	Suspiciously reduced, I'd say, and there's only one way that could happen.
+194	00:11:57	00:12:00	Grady was making deals with the DA.
+195	00:12:01	00:12:10	So, the guy was an informant. Yeah. So, I cross-matched cases where he appeared as a witness to inmates who are currently assigned to the jail, and I found out something very big.
+196	00:12:10	00:12:15	Grady was the star witness in the murder case of Lincoln Mayfield.
+197	00:12:15	00:12:19	Mayfield-- the Snakeback assassin.
+198	00:12:19	00:12:21	Yeah, but he was convicted, so he wouldn't be in jail.
+199	00:12:21	00:12:23	He's got to be upstate in prison, right?
+200	00:12:23	00:12:26	Well, he was, but the case was overturned on a technicality.
+201	00:12:26	00:12:28	The retrial is this week.
+202	00:12:28	00:12:31	And Mayfield was brought back to County for the trial.
+203	00:12:31	00:12:33	He arrived two days ago.
+204	00:12:37	00:12:38	Mayfield!
+205	00:12:38	00:12:39	On your feet!
+206	00:12:41	00:12:43	Turn around, hands behind your back.
+207	00:13:29	00:13:31	Hey, Mayfield, lookie here.
+208	00:13:36	00:13:37	You want to explain this?
+209	00:13:38	00:13:40	I ain't sayin' nothin' to no cop.
+210	00:13:40	00:13:44	You got a problem with that, talk to my lawyer.
+211	00:13:49	00:13:54	Well, Mayfield lawyered up, so, he won't be talking. No surprise.
+212	00:13:54	00:13:57	D.A. handling the retrial gave me a copy of the case file.
+213	00:13:57	00:13:58	Care to take a look?
+214	00:13:58	00:14:01	(grunts) Please tell me there's a Reader's Digest version.
+215	00:14:01	00:14:10	All right, as the so-called Snakeback Assassin, Mayfield was suspected of over a dozen gangland murders.
+216	00:14:10	00:14:11	Yeah. I remember this one.
+217	00:14:11	00:14:14	Young, pregnant woman caught in the crossfire.
+218	00:14:14	00:14:16	They thought it was a Mayfield hit, right? Yeah.
+219	00:14:16	00:14:19	Witnesses were, of course, afraid to come forward.
+220	00:14:19	00:14:21	Consequently, the D.A. never had enough to charge him.
+221	00:14:21	00:14:22	So, let me guess.
+222	00:14:22	00:14:25	They decided to go with a jail informant.
+223	00:14:25	00:14:28	You got it. They put Bruce Grady in a cell next to Mayfield.
+224	00:14:28	00:14:31	And after a while, Grady got him to talk.
+225	00:14:31	00:14:33	Mayfield confessed?
+226	00:14:33	00:14:37	No, but he provided details that only the killer would know.
+227	00:14:37	00:14:41	It was enough in court, and bottom line is, Grady's testimony put Mayfield away.
+228	00:14:41	00:14:43	Well, there's Mayfield's motive.
+229	00:14:43	00:14:45	Payback for Grady's testimony.
+230	00:14:47	00:14:49	Boy, I didn't see this coming.
+231	00:14:49	00:14:52	Nick says Mayfield wants to talk.
+232	00:14:55	00:14:58	My lawyer here ain't happy, but I got to tell you about Grady.
+233	00:14:58	00:15:01	You're compelled to tell me about Grady, 'cause he testified against you.
+234	00:15:01	00:15:03	That's just it.
+235	00:15:03	00:15:04	That was all lies.
+236	00:15:04	00:15:08	Dude stood up there and said I told him stuff while we was locked up together?
+237	00:15:08	00:15:10	I never told him nothin'.
+238	00:15:10	00:15:12	And that pissed you off.
+239	00:15:12	00:15:14	Hmm. Hmm. Were you mad enough to kill him?
+240	00:15:14	00:15:15	I didn't kill homeboy.
+241	00:15:15	00:15:19	You sent a kite to Wilbur, ordering him to take Grady to the laundry room.
+242	00:15:19	00:15:21	To talk, straighten him out.
+243	00:15:21	00:15:22	Why'd you bring a weapon?
+244	00:15:22	00:15:24	Never know who gonna make a move.
+245	00:15:24	00:15:28	Look, all I wanted for him was to do right by me and take back those lies.
+246	00:15:30	00:15:34	Okay, so you guys talk, and then what?
+247	00:15:34	00:15:35	Things just go sideways?
+248	00:15:35	00:15:38	Dude showed up wasted, makin' no sense.
+249	00:15:43	00:15:44	Hey, Grady?
+250	00:15:44	00:15:45	You're gonna tell 'em you lied, hear me?
+251	00:15:45	00:15:47	You're gonna make things right. Just be cool.
+252	00:15:47	00:15:49	I can hook you up in here.
+253	00:15:49	00:15:50	Look here, old man...
+254	00:15:53	00:15:53	Hey!
+255	00:15:57	00:15:58	So you shank him?
+256	00:15:58	00:16:00	To get his attention....
+257	00:16:00	00:16:01	Lincoln.
+258	00:16:01	00:16:04	Look, I shanked a few dudes in my day.
+259	00:16:04	00:16:07	Poke I gave him wouldn't kill nobody.
+260	00:16:07	00:16:09	You got his attention. Now what?
+261	00:16:09	00:16:14	I... strongly suggested that he come clean.
+262	00:16:15	00:16:18	(grunting) Tell 'em you lied, I'm gonna kill you.
+263	00:16:18	00:16:19	Okay, okay.
+264	00:16:19	00:16:24	And if you tell the D.A. about our little talk, I'm gonna kill you ugly.
+265	00:16:24	00:16:26	I swear, I won't tell anyone.
+266	00:16:26	00:16:28	I swear.
+267	00:16:30	00:16:31	Not a word.
+268	00:16:31	00:16:33	You stabbed him, but you weren't trying to kill him?
+269	00:16:33	00:16:35	I couldn't afford to kill him.
+270	00:16:35	00:16:38	I needed him alive to tell the DA that he lied.
+271	00:16:38	00:16:39	That's why I'm talking to you.
+272	00:16:39	00:16:44	I'm telling you, him being murdered is bad for me.
+273	00:16:45	00:16:47	Real bad.
+274	00:17:01	00:17:03	Ooh.
+275	00:17:03	00:17:05	That odor is disgustingly familiar.
+276	00:17:05	00:17:07	It's the smell of success.
+277	00:17:07	00:17:10	I'd hate to find out what failure smells like.
+278	00:17:10	00:17:15	Hey, did you ever figure out what that medicine was in Grady's trash?
+279	00:17:15	00:17:16	Wasn't medicine.
+280	00:17:16	00:17:19	It was hooch. Pruno.
+281	00:17:19	00:17:20	Jail alcohol.
+282	00:17:20	00:17:24	I'm making a batch right now, using only items available to the inmates.
+283	00:17:24	00:17:26	It's a simple recipe, really.
+284	00:17:26	00:17:30	Fermentation is the conversion of sugars to alcohol, using yeast.
+285	00:17:30	00:17:34	You combine fruit, juice, sugar and bread.
+286	00:17:34	00:17:35	Mix and wait.
+287	00:17:35	00:17:38	The yeast from the bread does all the work.
+288	00:17:38	00:17:43	You just have to vent it occasionally to release the accumulated CO2, and you're good.
+289	00:17:43	00:17:45	Witness said that Grady was out of it.
+290	00:17:45	00:17:49	Maybe he was just drunk on pruno.
+291	00:17:49	00:17:52	Maybe he just needed a little liquid courage.
+292	00:17:53	00:17:57	If I had to face someone who wanted to kill me, I'd drink, too.
+293	00:18:06	00:18:09	Mm. That looks like something out of a zombie movie.
+294	00:18:09	00:18:12	No, it's Bruce Grady's liver.
+295	00:18:13	00:18:20	Cirrhosis causes cells and scar tissue to create nodules, rendering it ineffective as the body's main filtration system.
+296	00:18:20	00:18:23	Makes you not want to have that second glass of wine at dinner.
+297	00:18:23	00:18:24	Speak for yourself.
+298	00:18:24	00:18:26	So, what about the stab wound?
+299	00:18:26	00:18:32	Well, it's a single laceration penetrating the external abdominal oblique muscle.
+300	00:18:32	00:18:37	It's an inch wide, and about one and a half inches in depth.
+301	00:18:37	00:18:38	That's not very deep.
+302	00:18:38	00:18:40	I'm surprised that it killed him.
+303	00:18:40	00:18:41	Well, it didn't.
+304	00:18:41	00:18:43	Take a look here.
+305	00:18:44	00:18:45	Petechiae.
+306	00:18:46	00:18:48	So he died from asphyxiation.
+307	00:18:49	00:18:50	Manually strangled.
+308	00:18:52	00:18:57	You can see finger-shaped contusions beginning to form.
+309	00:18:57	00:19:01	I swabbed the neck for epithelial DNA from our killer.
+310	00:19:01	00:19:03	Already sent it to Henry.
+311	00:19:03	00:19:06	So, he was stabbed, and then he was strangled.
+312	00:19:06	00:19:07	That makes no sense.
+313	00:19:07	00:19:09	That shank could have done major damage.
+314	00:19:09	00:19:14	So, why would you strangle someone if you had a perfectly good weapon?
+315	00:19:14	00:19:15	You wouldn't.
+316	00:19:17	00:19:18	Maybe Mayfield was telling the truth.
+317	00:19:20	00:19:30	Inmates can get pretty creative concealing their contraband, so let's just be sure to check every hem, edge, seam...
+318	00:19:30	00:19:32	So it's a tactile examination.
+319	00:19:32	00:19:32	Pretty much.
+320	00:19:32	00:19:34	But never forget.
+321	00:19:34	00:19:38	The most popular hiding place is the jail wallet.
+322	00:19:38	00:19:39	What?
+323	00:19:39	00:19:41	The keister stash.
+324	00:19:41	00:19:44	Ah, well, I am double gloved, so, I'm good.
+325	00:19:44	00:19:54	I heard about this inmate whose family smuggled him drugs by melting them and using the mixture to paint a picture in a coloring book.
+326	00:19:55	00:19:59	To Daddy. Love Lindsay. It's kind of hard to explain a guy licking a picture of a princess.
+327	00:19:59	00:20:03	Maybe in the outside world, but in jail, not so much.
+328	00:20:10	00:20:10	Greg...
+329	00:20:11	00:20:12	take a look at this.
+330	00:20:20	00:20:22	It's a tiny recording device.
+331	00:20:22	00:20:24	I've never seen one that small.
+332	00:20:24	00:20:25	It's state-of-the-art.
+333	00:20:25	00:20:28	I saw one of these at the forensic conference last month.
+334	00:20:28	00:20:31	It's not even available to law enforcement until next year.
+335	00:20:32	00:20:33	Well, then, how did Bruce Grady get one?
+336	00:20:34	00:20:40	Well, the vendor did say that one law enforcement agency would be chosen to test the prototype.
+337	00:20:40	00:20:43	I wonder which agency that would be.
+338	00:20:44	00:20:48	Agent Parker, thank you for seeing me.
+339	00:20:48	00:20:50	Your call said it was urgent.
+340	00:20:52	00:20:55	We found this in the cell of an inmate at County.
+341	00:20:56	00:20:57	You recognize it?
+342	00:20:58	00:20:59	I might. Yeah.
+343	00:20:59	00:21:02	We found that after the inmate was murdered.
+344	00:21:05	00:21:18	All right, look, Bruce Grady was a CI for the DA's Office-- I already knew that-- but he was also an informant for the FBI, I'm not going to divulge details on an ongoing investigation.
+345	00:21:18	00:21:24	I can appreciate that, but after the guy was murdered, you might have picked up the phone and told us.
+346	00:21:24	00:21:25	Saved us a lot of trouble.
+347	00:21:25	00:21:27	Our investigation is confidential.
+348	00:21:27	00:21:31	Your investigation is very likely the reason why we're in this mess.
+349	00:21:31	00:21:35	Look, we think that Grady was killed by that same inmate that you're investigating.
+350	00:21:35	00:21:36	So come on.
+351	00:21:36	00:21:37	Let's work together here.
+352	00:21:40	00:21:45	Well, that's assuming the focus of our investigation is an inmate.
+353	00:21:46	00:21:49	You're investigating a guard.
+354	00:21:54	00:21:58	So Grady was not just informing on crooks.
+355	00:21:58	00:22:00	He was informing on cops.
+356	00:22:05	00:22:07	Agent Parker, you blindsided me on this.
+357	00:22:07	00:22:09	There's such a thing as professional courtesy.
+358	00:22:09	00:22:12	The FBI is under no obligation to share information with you.
+359	00:22:12	00:22:14	Oh, please. Drop the federal policy-speak.
+360	00:22:14	00:22:15	We're on the same side here.
+361	00:22:15	00:22:18	If one of my guards is dirty, I want to know about it.
+362	00:22:18	00:22:19	Now, who are you looking at?
+363	00:22:19	00:22:21	We're empanelling a grand jury.
+364	00:22:21	00:22:22	We expect an indictment any day.
+365	00:22:22	00:22:24	I'm not going to risk a leak.
+366	00:22:24	00:22:25	A leak?
+367	00:22:25	00:22:29	We're investigating the murder of yourCI, and you won't share with us?
+368	00:22:29	00:22:33	Sorry. Best we can do is work our cases in parallel.
+369	00:22:33	00:22:36	If your investigation collides with ours, maybe then we can talk.
+370	00:22:36	00:22:38	Have a nice day.
+371	00:22:41	00:22:43	Perfect. A federal corruption investigation.
+372	00:22:43	00:22:45	We'll work the case as fast as we can, Conrad.
+373	00:22:46	00:22:49	If Grady's killer turns out to be a-a jail guard...
+374	00:22:49	00:22:51	Yeah, please let me be the first to know.
+375	00:22:57	00:22:57	Hey.
+376	00:22:57	00:23:04	What do you got for me? All the blood Finn and Nick collected in the laundry room came back to the victim, Bruce Grady, including the blood on the sink.
+377	00:23:04	00:23:07	Okay, what about the shank? Mm. No surprises there.
+378	00:23:07	00:23:11	Blood on the blade was Grady's. DNA on the handle came back to Lincoln Mayfield.
+379	00:23:11	00:23:16	A perfect equation, except that the shank isn't the murder weapon 'cause Grady was strangled.
+380	00:23:16	00:23:18	I found epithelials on the victim's neck swab.
+381	00:23:18	00:23:20	DNA doesn't match Mayfield.
+382	00:23:20	00:23:23	DNA has to be the killer's. Did you run it through CODIS?
+383	00:23:23	00:23:24	No hits.
+384	00:23:24	00:23:27	Given that all inmates are entered into the system...
+385	00:23:27	00:23:29	Means we're not looking for an inmate.
+386	00:23:30	00:23:33	Just like we feared, looks like Grady's killer is a guard.
+387	00:23:35	00:23:45	So, Grady was reportedly intoxicated at the time of his murder, and yet his tox report says that his blood alcohol level was 0.03%.
+388	00:23:46	00:23:47	0.03?
+389	00:23:47	00:23:52	That wouldn't make anyone stagger, let alone an alcoholic like Grady. No.
+390	00:23:52	00:23:59	They also found a half-dozen prescription drugs in his system, all on his medical record, except for one, a drug named terbinafine.
+391	00:23:59	00:24:01	What's that taken for?
+392	00:24:01	00:24:03	Skin infections.
+393	00:24:04	00:24:07	they do not dispense terbinafine in the jail infirmary.
+394	00:24:07	00:24:12	Okay, so where'd he get it from? I don't know, but somebody with access to the outside must've given it to him.
+395	00:24:12	00:24:13	Huh. All right.
+396	00:24:13	00:24:15	Let me see here.
+397	00:24:15	00:24:16	Terbinafine.
+398	00:24:17	00:24:18	Here we go.
+399	00:24:19	00:24:26	Terbinafine should never be taken by people with liver problems. Can cause confusion and an unsteady gait.
+400	00:24:26	00:24:28	That would explain why he seemed intoxicated.
+401	00:24:28	00:24:34	And get this, cases of death have been reported in individuals with cirrhosis of the liver.
+402	00:24:34	00:24:38	So somebody was poisoning him before he went down to the laundry.
+403	00:24:38	00:24:42	Yeah, and they must have gotten tired of waiting for that poison to take effect, went hands-on and strangled him.
+404	00:24:42	00:24:47	You know, Henry's DNA evidence does back up the fact that we might be looking at a guard.
+405	00:24:47	00:24:52	Well, the laundry was guarded by Officer Woo, who just so happened to be gone when the murder went down.
+406	00:24:52	00:24:54	Wow, that is awfully convenient.
+407	00:24:57	00:25:02	So you said that, on Sunday night, 00 p.m., you were not in the laundry room. Right.
+408	00:25:02	00:25:04	I was on the loading dock.
+409	00:25:04	00:25:07	And you were on the loading dock for approximately 20 minutes?
+410	00:25:07	00:25:08	Give or take.
+411	00:25:08	00:25:12	You're on direct deposit for your LVPD paychecks, is that correct?
+412	00:25:12	00:25:14	And your wife, she doesn't work, does she?
+413	00:25:14	00:25:23	So? So I see that there are several cash deposits to your account each month, last month, totaling more than $4,000.
+414	00:25:24	00:25:27	Is there a rich uncle that I don't know about?
+415	00:25:29	00:25:35	It's funny, if you want to know what the guards are actually doing when they're on the job, you just have to ask the inmates.
+416	00:25:36	00:25:39	You want to know about Woo? I'll tell you about Woo.
+417	00:25:39	00:25:41	He takes money to look the other way.
+418	00:25:41	00:25:44	It's common knowledge you can get anything in the laundry.
+419	00:25:44	00:25:46	Drugs, weapons, sex.
+420	00:25:46	00:25:48	Woo won't say a word for the right price.
+421	00:25:48	00:25:51	Laundry's a three-ring circus.
+422	00:25:51	00:25:54	Woo lets inmates do whatever they want.
+423	00:25:55	00:25:56	Look...
+424	00:25:56	00:25:58	my wife has a shopping problem.
+425	00:25:58	00:26:00	Our credit cards are maxed.
+426	00:26:00	00:26:01	I can't even cover the minimum payments.
+427	00:26:01	00:26:05	You need to make some extra money on the side.
+428	00:26:05	00:26:06	It started small.
+429	00:26:06	00:26:09	I snuck in some pot brownies for an inmate with migraines.
+430	00:26:09	00:26:12	He told two friends. They told two friends...
+431	00:26:12	00:26:15	Pretty soon, I got inmates threatening to rat me out if I don't help 'em out, too.
+432	00:26:15	00:26:17	I'd lose my job.
+433	00:26:18	00:26:21	I'd lose everything.
+434	00:26:23	00:26:24	Let's talk about Sunday night.
+435	00:26:24	00:26:27	Mayfield paid me to stay away while he met with Grady.
+436	00:26:28	00:26:30	Had two grand delivered to my house.
+437	00:26:31	00:26:33	Said they were just gonna talk.
+438	00:26:33	00:26:34	How much did you know about Grady?
+439	00:26:35	00:26:36	I knew he was a snitch.
+440	00:26:36	00:26:38	Yeah. For the FBI.
+441	00:26:39	00:26:42	He was helping them with a corruption case involving a jail guard.
+442	00:26:42	00:26:51	I think that you found out that Grady was snitching you out to the Feds, so you let Mayfield have a little alone time with him, hoping that Mayfield would do your dirty work.
+443	00:26:52	00:26:56	Only when you got back to the laundry room, Grady was still alive so you had to kill him.
+444	00:26:56	00:26:58	No. No way. I didn't kill Grady.
+445	00:26:58	00:27:00	It's a nice setup. Mayfield's a known killer.
+446	00:27:00	00:27:01	He's a perfect patsy.
+447	00:27:01	00:27:02	I didn't do it.
+448	00:27:03	00:27:04	I swear.
+449	00:27:05	00:27:10	Cops don't have their DNA in CODIS, so if you want to prove it to me, you're gonna have to give me a sample.
+450	00:27:13	00:27:16	Hey. You find anything on the recording device from Grady's cell?
+451	00:27:16	00:27:18	No, it's blank.
+452	00:27:18	00:27:21	(sighs) We must've found it before Grady had a chance to use it.
+453	00:27:21	00:27:23	Yeah, but here's where it gets weird.
+454	00:27:23	00:27:26	So, I got the specs from the vendor.
+455	00:27:27	00:27:28	Something isn't adding up here.
+456	00:27:28	00:27:35	According to these, the dynamic range of the device is 80 decibels, with a noise floor of 30 decibels.
+457	00:27:35	00:27:38	Dynamic range? Noise floor?
+458	00:27:38	00:27:40	All right. Well, let-let me just show you.
+459	00:27:40	00:27:46	So, the human speaking voice averages 60 to 70 decibels at three feet. That's...
+460	00:27:46	00:27:47	the green wave here.
+461	00:27:48	00:27:50	Now let's add some interference.
+462	00:27:52	00:28:00	So as long as the interference from any kind of background noise stays within this range, then the recording device can still pick up our voices.
+463	00:28:00	00:28:09	See how the green and red waves remain distinct? But in the jail's laundry, with all the machines running and the cement walls, the noise interference level would have to be a lot higher.
+464	00:28:09	00:28:12	I went back and measured. It was 86 decibels.
+465	00:28:15	00:28:15	See?
+466	00:28:15	00:28:20	Now look at the sound waves. The laundry room's way too loud to record human conversation with that.
+467	00:28:22	00:28:31	So if the FBI was trying to record Officer Woo during his shift in the jail laundry, then this was the wrong device.
+468	00:28:32	00:28:37	So, Morgan and Greg don't think Officer Woo is the target of the FBI investigation.
+469	00:28:37	00:28:42	I think they're right. Woo's DNA did not match the DNA on the neck swab.
+470	00:28:42	00:28:44	So Woo's not the one who strangled Grady.
+471	00:28:44	00:28:45	Mm-mm.
+472	00:28:45	00:28:47	Where's that put us now?
+473	00:28:47	00:28:55	Well, I have been looking back over Grady's CI files, and instead of links to inmates, I've been looking at links to officers, and there's quite a list.
+474	00:28:55	00:28:58	Grady has been making deals for years.
+475	00:28:58	00:29:00	Well, being an informant can be good money.
+476	00:29:00	00:29:01	Well, he's not doing it for the money.
+477	00:29:01	00:29:04	He's doing it to get his charges reduced, so...
+478	00:29:04	00:29:11	sexual assault is dealt down to malicious mischief and robbery down to burglary.
+479	00:29:11	00:29:13	And the list just goes on and on.
+480	00:29:13	00:29:15	Is there a connection to any officers that we know?
+481	00:29:18	00:29:19	Carl Brenner.
+482	00:29:20	00:29:21	Brenner?
+483	00:29:21	00:29:24	The gung-ho detective?
+484	00:29:24	00:29:28	He never mentioned anything about knowing Grady at the crime scene.
+485	00:29:30	00:29:36	Hey, wait a minute, was Detective Brenner a part of the Lincoln Mayfield case?
+486	00:29:42	00:29:42	He was.
+487	00:29:43	00:29:48	And Brenner would have been in charge of putting Grady into the cell next to Mayfield.
+488	00:29:48	00:29:53	When I talked to Mayfield, he claims that he never talked to Grady about anything when they were housed next to each other.
+489	00:29:54	00:29:59	So what if Brenner fed his informant the information on Mayfield?
+490	00:30:00	00:30:02	There was a lot of public pressure at the time for a conviction.
+491	00:30:02	00:30:06	Right? Perfect opportunity for the new guy in Homicide to make a name for himself.
+492	00:30:09	00:30:10	What are you doing?
+493	00:30:10	00:30:13	Looking up Detective Brenner's personnel file.
+494	00:30:13	00:30:18	You know, when officers take a random drug test, they have to list all the medications they've been taking.
+495	00:30:18	00:30:19	Yeah, yeah. That's routine.
+496	00:30:19	00:30:24	Right. Here's his medical disclosure form from last month.
+497	00:30:24	00:30:27	He lists a multivitamin, ibuprofen...
+498	00:30:27	00:30:30	...and terbinafine.
+499	00:30:30	00:30:33	Same medication we found in Grady's blood.
+500	00:30:33	00:30:34	Wow.
+501	00:30:34	00:30:37	So Brenner was poisoning Grady. Yeah.
+502	00:30:37	00:30:39	How much you want to bet he's the one who strangled him, too?
+503	00:30:48	00:30:56	Detective Brenner was using Grady by feeding him case information and then putting him next to suspects that he wanted to frame.
+504	00:30:56	00:30:58	Making Brenner look like a hero.
+505	00:30:58	00:31:02	Right. Explains his meteoric rise in the department over the last two years.
+506	00:31:02	00:31:04	Mayfield was the most recent.
+507	00:31:04	00:31:05	Also the highest profile.
+508	00:31:05	00:31:08	And that may be what got the attention of the Feds.
+509	00:31:08	00:31:10	Brenner's a smart guy.
+510	00:31:10	00:31:11	Probably saw it coming.
+511	00:31:11	00:31:13	Started to poison Grady.
+512	00:31:13	00:31:17	Was Brenner at County at the time Grady was strangled?
+513	00:31:18	00:31:21	Conducting a lineup down the hall from the laundry.
+514	00:31:22	00:31:25	I'm gonna interrogate this son of a bitch myself.
+515	00:31:33	00:31:37	I thought we agreed to talk before pulling the trigger on this. Mitch.
+516	00:31:37	00:31:40	Take Detective Brenner to Interrogation Room B.
+517	00:31:40	00:31:41	Be my pleasure, sir.
+518	00:31:42	00:31:43	Let's go.
+519	00:31:43	00:31:53	Special Agent Parker, what we agreed was to work our cases separately, at yourrequest, as I recall. Arresting Brenner could affect our grand jury hearing, damage our case going forward.
+520	00:31:53	00:31:55	Not my problem. We have our own case to solve.
+521	00:31:55	00:31:58	We could work together.
+522	00:31:58	00:32:03	The LVPD is under no obligation to share investigative information with you.
+523	00:32:04	00:32:06	You want a shot at Brenner, you can wait till I'm done.
+524	00:32:06	00:32:07	Excuse me.
+525	00:32:11	00:32:12	Sheriff...
+526	00:32:12	00:32:14	Sir, look...
+527	00:32:14	00:32:16	I don't know what you've heard, all right?
+528	00:32:16	00:32:18	But-but I am a good cop, okay?
+529	00:32:18	00:32:21	I can't believe you march me in here like-like some... criminal.
+530	00:32:21	00:32:22	I put criminals away. Yeah, you do.
+531	00:32:22	00:32:25	You got a hell of a conviction rate, one of the best in the department.
+532	00:32:25	00:32:28	And now every single one of those convictions is gonna be called into question.
+533	00:32:28	00:32:32	Aw, come on. Every dirtbag I put away was guilty, no question.
+534	00:32:32	00:32:36	You falsified evidence by coaching your informant to lie in court.
+535	00:32:36	00:32:40	So I nudged my cases a little bit-- so what?
+536	00:32:40	00:32:45	You framed them. Going down that road, you become worse than the criminals you're chasing. No. No.
+537	00:32:45	00:32:47	I could never be like them. You already are.
+538	00:32:47	00:32:48	You killed Bruce Grady.
+539	00:32:48	00:32:49	The hell I did.
+540	00:32:49	00:32:52	He had poisonous medicine in his system.
+541	00:32:52	00:32:52	Your medicine.
+542	00:32:59	00:33:00	Okay, yeah.
+543	00:33:00	00:33:01	(sniffs) Yeah, I gave him the medicine.
+544	00:33:03	00:33:06	But to make him sick, not-not to... to kill him.
+545	00:33:06	00:33:09	Look, Grady was getting cold feet about Mayfield's retrial.
+546	00:33:09	00:33:13	I figure if he's too sick to testify, the DA's forced to use his previous testimony.
+547	00:33:13	00:33:17	No, you killed him because you knew he was two-timing you.
+548	00:33:17	00:33:19	What-what are you talking about?
+549	00:33:19	00:33:21	With the FBI investigation.
+550	00:33:23	00:33:25	Grady was ratting you out to the Feds, and you found out.
+551	00:33:25	00:33:27	That's why you killed him.
+552	00:33:28	00:33:31	Okay, I-I, um... I need my-my union rep.
+553	00:33:31	00:33:32	Your union rep.
+554	00:33:32	00:33:35	You've committed multiple felonies while on duty.
+555	00:33:35	00:33:38	Your union is gonna run in the opposite direction.
+556	00:33:38	00:33:39	Well, then I want a lawyer. (sniffs)
+557	00:33:40	00:33:42	You're gonna need one.
+558	00:33:44	00:33:45	Hey.
+559	00:33:45	00:33:46	How'd it go?
+560	00:33:46	00:33:49	Admitted to the poisoning, denied the murder, then lawyered up.
+561	00:33:49	00:33:54	Funny thing, though, from the look on his face, I don't think he knew about the FBI probe.
+562	00:33:55	00:33:57	Did you get a DNA sample?
+563	00:33:57	00:33:59	No, and there's not a chance he's gonna give one now.
+564	00:33:59	00:34:00	Actually, wait a minute.
+565	00:34:00	00:34:04	I think he may have given it to me already.
+566	00:34:06	00:34:07	You need me, you call me.
+567	00:34:07	00:34:08	Home number's right on the back.
+568	00:34:38	00:34:39	Henry, you look excited.
+569	00:34:39	00:34:42	Were you able to extract any DNA?
+570	00:34:42	00:34:45	Oh, I got a beautiful profile, but we're not gonna need it.
+571	00:34:45	00:34:47	Well, yeah, we are.
+572	00:34:47	00:34:52	Brenner only admitted to poisoning Grady-- we need to prove that he also strangled him.
+573	00:34:52	00:34:54	Uh, except he didn't.
+574	00:34:54	00:34:58	(sighs) Okay. What am I missing?
+575	00:34:58	00:35:00	I found a match to the neck swab from the victim.
+576	00:35:00	00:35:03	The killer's an inmate named Peter McCrone.
+577	00:35:03	00:35:09	This is the guy that got punched during that pepper spray melee.
+578	00:35:09	00:35:10	Hey, what the hell?
+579	00:35:11	00:35:14	He's an inmate, so how come his DNA didn't show up in CODIS?
+580	00:35:14	00:35:17	Oh, only DNA from felons gets entered into CODIS.
+581	00:35:17	00:35:19	Peter McCrone is in county on a misdemeanor.
+582	00:35:19	00:35:21	We just got his DNA when Finlay interviewed him.
+583	00:35:21	00:35:23	It was at the bottom of a big pile of...
+584	00:35:23	00:35:24	Hey, come on in.
+585	00:35:24	00:35:25	Hey.
+586	00:35:25	00:35:28	Henry just found a match to an inmate you talked to.
+587	00:35:28	00:35:29	Yeah, Peter McCrone.
+588	00:35:29	00:35:30	Henry texted me.
+589	00:35:30	00:35:34	So, I went back to try to find a connection between McCrone and Grady.
+590	00:35:34	00:35:35	Right. And?
+591	00:35:35	00:35:38	Grady's earliest arrest was for sexual assault.
+592	00:35:38	00:35:40	Dealt down to malicious mischief.
+593	00:35:40	00:35:42	Right, I remember seeing that.
+594	00:35:42	00:35:44	McCrone was his victim.
+595	00:35:45	00:35:48	Grady molested him 20 years ago.
+596	00:35:49	00:35:51	Well, there's a hell of a motive.
+597	00:35:52	00:35:55	You spend your whole life trying to put things behind you.
+598	00:35:57	00:35:58	To forget.
+599	00:36:02	00:36:04	But some things, they just never go away.
+600	00:36:06	00:36:07	I know it's difficult.
+601	00:36:09	00:36:12	So, tell me what happened.
+602	00:36:12	00:36:16	Bruce Grady was a janitor at my elementary school.
+603	00:36:17	00:36:18	He was always nice.
+604	00:36:18	00:36:19	Seemed like someone you could trust.
+605	00:36:19	00:36:21	But he broke that trust.
+606	00:36:22	00:36:25	One afternoon, I forgot my backpack.
+607	00:36:27	00:36:28	Nobody here except you and me, man.
+608	00:36:29	00:36:30	There it is!
+609	00:36:30	00:36:31	Thanks, Mr. Grady.
+610	00:36:36	00:36:38	Hey, kid, want to see a cool picture of a T. rex?
+611	00:36:38	00:36:40	Sure.
+612	00:36:49	00:36:50	He molested me.
+613	00:36:51	00:36:52	I was nine years old.
+614	00:36:53	00:36:55	I never should have gone near him.
+615	00:36:55	00:36:57	You know, I-I knew something wasn't right.
+616	00:36:57	00:36:57	I knew.
+617	00:36:57	00:36:59	He took advantage of a child.
+618	00:36:59	00:37:00	That's not your fault.
+619	00:37:00	00:37:04	He threatened to hurt my family... if I told.
+620	00:37:04	00:37:11	I wasn't going to, but when I got home, my mom knew something was wrong.
+621	00:37:11	00:37:14	So, I had to tell her.
+622	00:37:14	00:37:16	You know, that's a brave thing to do.
+623	00:37:16	00:37:19	Lot of kids, they wouldn't even say anything.
+624	00:37:19	00:37:20	He was arrested the next day.
+625	00:37:20	00:37:24	And I was ready to testify against him, so he couldn't hurt other kids.
+626	00:37:24	00:37:25	It was all I could think about.
+627	00:37:25	00:37:28	But Grady took a plea bargain.
+628	00:37:28	00:37:30	He got three years.
+629	00:37:30	00:37:32	Three years, that's it.
+630	00:37:32	00:37:33	I couldn't believe it.
+631	00:37:33	00:37:36	How'd you run into Grady in county?
+632	00:37:36	00:37:39	I was dropping supplies off in the laundry.
+633	00:37:39	00:37:41	And I heard arguing.
+634	00:37:41	00:37:46	If you tell the DA about our little talk, I'm gonna kill you ugly...
+635	00:37:46	00:37:48	I swear, I won't tell anyone.
+636	00:37:48	00:37:49	I swear.
+637	00:37:51	00:37:52	Not a word.
+638	00:37:52	00:37:53	That voice.
+639	00:37:55	00:37:56	I recognized it immediately.
+640	00:37:58	00:38:00	Don't say a word.
+641	00:38:00	00:38:01	Not to anybody.
+642	00:38:01	00:38:04	Not one word.
+643	00:38:06	00:38:08	The bastard who raped me was right there.
+644	00:38:10	00:38:12	So I waited for the other guy to leave.
+645	00:38:17	00:38:18	You're Bruce Grady, aren't you?
+646	00:38:19	00:38:21	Who's asking?
+647	00:38:21	00:38:22	Pete McCrone.
+648	00:38:23	00:38:24	We met 20 years ago.
+649	00:38:24	00:38:25	When I was a kid.
+650	00:38:25	00:38:27	Not ringing a bell.
+651	00:38:27	00:38:29	When you raped me.
+652	00:38:37	00:38:39	Figures you'd wind up in here.
+653	00:38:47	00:38:49	Squeezed his neck as hard as I could.
+654	00:38:49	00:38:51	It surprised me.
+655	00:38:51	00:38:54	I didn't think I could do something like that.
+656	00:38:54	00:38:56	Hmm, well, then what happened?
+657	00:38:56	00:38:57	I panicked.
+658	00:38:57	00:39:01	I stuffed him into the closet, I wiped up the blood, and I got hell out of there.
+659	00:39:03	00:39:05	What were you even doing in County?
+660	00:39:05	00:39:09	I mean, the only charge I see here is a misdemeanor.
+661	00:39:09	00:39:09	What the hell happened?
+662	00:39:09	00:39:11	It's stupid-- child endangerment.
+663	00:39:11	00:39:12	What do you mean?
+664	00:39:12	00:39:18	I left my two-year-old at home in the crib, and I went and tried to pull my wife out of the bar.
+665	00:39:18	00:39:20	While I was gone, the neighbors called the cops.
+666	00:39:20	00:39:21	And that was a month ago.
+667	00:39:21	00:39:23	You haven't had your arraignment yet?
+668	00:39:23	00:39:26	Public defender told me he was handling things.
+669	00:39:26	00:39:28	That I'd be out in 24 hours.
+670	00:39:28	00:39:30	And then never heard anything.
+671	00:39:33	00:39:34	Hey, uh...
+672	00:39:34	00:39:37	maybe you could talk to someone.
+673	00:39:39	00:39:42	Get things straightened out, get me out of here.
+674	00:39:45	00:39:48	Pete, man, I just...
+675	00:39:49	00:39:51	I don't think that's gonna happen.
+676	00:39:52	00:39:53	You know, not-not now.
+677	00:39:53	00:39:55	After-after all this.
+678	00:40:09	00:40:11	Heard you got a confession out of McCrone.
+679	00:40:12	00:40:13	Yeah.
+680	00:40:14	00:40:15	Yeah, he copped to everything.
+681	00:40:15	00:40:18	He recognized Grady 20 years later?
+682	00:40:18	00:40:20	It was Grady's voice.
+683	00:40:20	00:40:22	That's what got him.
+684	00:40:22	00:40:24	Pete never forgot that voice.
+685	00:40:25	00:40:29	Course, it was a million-to-one shot that McCrone'd even run into Grady there in the first place.
+686	00:40:29	00:40:31	Yeah, why was he in jail again?
+687	00:40:31	00:40:32	Child endangerment?
+688	00:40:32	00:40:33	Yeah, those charges were dropped.
+689	00:40:33	00:40:39	It was paperwork that kept him in there for that month.
+690	00:40:41	00:40:43	How you doing? You okay?
+691	00:40:45	00:40:46	Yeah, I'm fine.
+692	00:40:47	00:40:49	Hey, seriously.
+693	00:40:51	00:40:53	Sometimes these cases hit a nerve, you know?
+694	00:40:53	00:40:58	And... this one just hit a nerve that was a little too close to home for me, that's all.
+695	00:40:58	00:41:00	You want to talk about it?
+696	00:41:04	00:41:06	No, I want to forget about it.
+697	00:41:10	00:41:11	Okay.
+698	00:41:12	00:41:13	Well...
+699	00:41:15	00:41:17	this is a hell of a job, Nick.
+700	00:41:18	00:41:25	We work a horrific crime, turn around and work another one.
+701	00:41:26	00:41:30	They're bound to collide with our personal lives, sooner or later.
+702	00:41:31	00:41:32	Just never know when.
+703	00:41:33	00:41:37	Pete did the exact same thing I would have done in that situation.
+704	00:41:40	00:41:41	Think you would have gone that far?
+705	00:41:50	00:41:54	Guy goes to jail for a misdemeanor, ends up in prison for murder.
+706	00:41:55	00:41:57	Momentary decision...
+707	00:41:59	00:42:00	ruined his life forever.
+708	00:42:04	00:42:07	His life was ruined a long time ago.

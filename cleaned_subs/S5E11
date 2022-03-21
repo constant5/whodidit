@@ -1,627 +1,605 @@
-,start,end,text
-0,00:00:12,00:00:14,(engine idling)
-1,00:00:23,00:00:25,(car door shuts)
-2,00:01:34,00:01:37,(violin playing)
-3,00:02:00,00:02:02,Deerstalker cap...
-4,00:02:03,00:02:04,violin...
-5,00:02:05,00:02:08,...Meerschaum pipe...
-6,00:02:08,00:02:14,"even a Persian slipper with tobacco stuffed in the toe, I imagine."
-7,00:02:14,00:02:23,"All in all, a meticulous recreation of 221-B Baker Street: residence of the world's greatest detective, Sherlock Holmes."
-8,00:02:23,00:02:25,"Also known as Dennis Kingsley, delivery guy."
-9,00:02:26,00:02:28,What do you think?
-10,00:02:28,00:02:30,Ask Greg. It's his case.
-11,00:02:30,00:02:33,"It's his final proficiency-- emphasis on the ""final""."
-12,00:02:33,00:02:37,"Okay, Dr. Watson, run it."
-13,00:02:37,00:02:43,(sighs): Victim's in a relaxed position in front of a fake fire.
-14,00:02:43,00:02:44,Alcohol.
-15,00:02:45,00:02:48,Solitude.
-16,00:02:49,00:02:51,Powder burns around the entrance wound.
-17,00:02:51,00:02:55,Close to contact shot.
-18,00:02:55,00:02:57,It all suggests suicide.
-19,00:02:57,00:02:59,"Well, if he killed himself, where's the weapon?"
-20,00:03:03,00:03:04,(sighs): Huh...
-21,00:03:04,00:03:10,Family and friends who discover a body sometimes remove the weapon to make it look like murder.
-22,00:03:10,00:03:16,No suicide stigma and better chances of collecting any life insurance.
-23,00:03:16,00:03:20,"BRASS: From the look of the place upstairs, this guy lived alone, and the neighbors heard the shot, so..."
-24,00:03:20,00:03:23,"Pretty good. I guess I'll, uh, go interview the neighbors."
-25,00:03:25,00:03:28,"So, are you going to say the game's afoot?"
-26,00:03:29,00:03:32,"I didn't know you were a Conan Doyle fan, Greg."
-27,00:03:32,00:03:36,I'm not. I saw a Sherlock Holmes movie once by mistake.
-28,00:03:36,00:03:38,"Well, just so you know..."
-29,00:03:38,00:03:40,those movies never ended like this.
-30,00:04:17,00:04:18,"(chuckles): Yeah, boy, okay."
-31,00:04:21,00:04:22,GRISSOM: Anything useful?
-32,00:04:22,00:04:27,"Well, I found out if I ever need a home loan, as a public servant, I'm pre-approved."
-33,00:04:27,00:04:30,"You know, the guy looks like a, uh, drug dealer."
-34,00:04:30,00:04:32,Turns out he's a mortgage broker.
-35,00:04:32,00:04:34,"Well, we all have our costumes, Jim."
-36,00:04:35,00:04:36,Yeah.
-37,00:04:38,00:04:42,"Yeah, apparently some more than others."
-38,00:04:42,00:04:46,I assume you're friends of Mr. Kingsley?
-39,00:04:46,00:04:48,We are friends of Mr. Holmes.
-40,00:04:48,00:04:50,"Invited guests, in point of fact."
-41,00:04:50,00:04:53,This is all so contemporary.
-42,00:04:54,00:04:56,"Well, I'm with the Las Vegas Crime Lab."
-43,00:04:56,00:04:59,"Ah, a colleague. Perhaps we can be of some assistance."
-44,00:04:59,00:05:02,Yes. Have you discovered any shoe impressions in the soil?
-45,00:05:02,00:05:03,Not yet.
-46,00:05:03,00:05:05,This is a crime scene.
-47,00:05:06,00:05:09,"Oh, a scenario created for our own entertainment, yes?"
-48,00:05:19,00:05:21,I guess it depends on what you find entertaining.
-49,00:05:30,00:05:31,Anyone for pizza?
-50,00:05:31,00:05:34,Very funny.
-51,00:05:36,00:05:37,Got it.
-52,00:05:38,00:05:42,Ooh. BFB.
-53,00:05:42,00:05:44,Big freakin' bullet.
-54,00:05:44,00:05:45,Nose is mushroomed.
-55,00:05:46,00:05:47,Looks like pure lead.
-56,00:05:47,00:05:52,Two cannelures consistent with a revolver.
-57,00:05:52,00:05:59,"One, two, three, four, five, six lands and grooves."
-58,00:05:59,00:06:00,Left hand twist.
-59,00:06:00,00:06:02,Which usually means...?
-60,00:06:02,00:06:04,Colt .45?
-61,00:06:06,00:06:08,Are you checking up on me?
-62,00:06:08,00:06:09,"No, no, no, no."
-63,00:06:09,00:06:14,"Grissom said he was just evaluating you on processing this one room, so..."
-64,00:06:14,00:06:17,I figured maybe you could use some help with the rest of the house.
-65,00:06:17,00:06:19,Thanks.
-66,00:06:34,00:06:37,Guess everyone needs a hobby.
-67,00:06:37,00:06:41,We would study the Holmes text in cases and important 19th century events.
-68,00:06:41,00:06:43,We met every Thursday night.
-69,00:06:43,00:06:44,You make it sound like a bowling league.
-70,00:06:44,00:06:48,This is a serious literary association.
-71,00:06:48,00:06:51,"As usual, Dr. Watson, subtlety is lost upon you."
-72,00:06:51,00:06:58,You see a stab wound above her breast and overlook the absence of blood on the chair as well as the fact that her skirt is raised.
-73,00:06:58,00:07:03,"This body was posed, and quite beautifully, I might add."
-74,00:07:03,00:07:09,"Moriarty, if evil for evil's sake were a pathological condition, it would be your diagnosis."
-75,00:07:09,00:07:12,"Gentlemen, your disdain for one another distracts you from the truth."
-76,00:07:12,00:07:15,The wedding picture on the wall?
-77,00:07:15,00:07:17,The victims were husband and wife.
-78,00:07:17,00:07:20,"As usual, Miss Adler, your deduction is correct."
-79,00:07:21,00:07:23,It was indeed a crime of passion.
-80,00:07:23,00:07:26,Sounds fun-- when was the last time you saw Dennis Kingsley?
-81,00:07:26,00:07:28,Last Thursday.
-82,00:07:28,00:07:31,He said that he was going to make this meeting really special.
-83,00:07:31,00:07:39,"It seems our time here tonight has ended, and that, I fear, is the gist of the announcement I must share with you now."
-84,00:07:39,00:07:51,"Next week will be the final meeting of our society, but I give you my word: it shall be an evening none of you will ever forget."
-85,00:07:51,00:07:54,I didn't think that he meant this.
-86,00:07:54,00:07:57,We're going to need names and contact information.
-87,00:07:57,00:08:00,It would also be helpful if you'd let us take your fingerprints.
-88,00:08:00,00:08:01,Why?
-89,00:08:01,00:08:04,Elementary. So we can rule you out.
-90,00:08:04,00:08:08,You've all obviously been in the study on numerous occasions.
-91,00:08:08,00:08:10,We need to find out if the prints we find are relevant.
-92,00:08:10,00:08:13,So you actually think this is something other than suicide?
-93,00:08:13,00:08:15,"You know, I think you ought to drop the accent."
-94,00:08:15,00:08:17,I can't. I'm English.
-95,00:08:17,00:08:19,Oh.
-96,00:09:13,00:09:15,There's possible signs of forced entry at the back door.
-97,00:09:15,00:09:17,It could be recent.
-98,00:09:17,00:09:20,"Also, I think the vic had a family at some point."
-99,00:09:20,00:09:21,Brass is on it.
-100,00:09:24,00:09:26,Check this out.
-101,00:09:26,00:09:29,SIDLE: The Hound of the Baskervilles.
-102,00:09:29,00:09:30,I read that in 10th grade.
-103,00:09:30,00:09:32,"Oh, yeah-- I was supposed to."
-104,00:09:32,00:09:34,There's a blood stain on the page ends.
-105,00:09:34,00:09:37,Huh.
-106,00:09:37,00:09:40,The spatter goes across and over.
-107,00:09:40,00:09:42,That stain did not come from this event.
-108,00:09:44,00:09:48,"It could be the vic's, or it could be stage blood, for that matter."
-109,00:09:48,00:09:54,Do you think an obsessive neat freak like our vic would leave something like that on one of his most prized possessions?
-110,00:09:54,00:09:57,I think... there's only one way to find out.
-111,00:10:18,00:10:20,"Hey, Chris."
-112,00:10:20,00:10:23,"Nevada power guys-- they saw the Jeep, called it in."
-113,00:10:23,00:10:24,I ran the plates.
-114,00:10:24,00:10:26,"R.O. is, uh, Cory Demayo, 25."
-115,00:10:26,00:10:28,Lives on Florentine.
-116,00:10:28,00:10:29,Spoke to the roommate.
-117,00:10:29,00:10:31,Driver fits the description.
-118,00:10:31,00:10:32,Vic's got a contusion on his forehead.
-119,00:10:32,00:10:34,Probably from the impact.
-120,00:10:34,00:10:35,"STOKES: Yeah, I can see that."
-121,00:10:35,00:10:37,It's just hard to believe that's what killed him.
-122,00:10:37,00:10:40,I didn't see any skid marks on the road up there.
-123,00:10:40,00:10:42,There's no signs he tried to brake.
-124,00:10:42,00:10:44,"Well, maybe he fell asleep at the wheel."
-125,00:10:44,00:10:45,"Uh, coming over that embankment?"
-126,00:10:45,00:10:47,That would've woke him up.
-127,00:10:47,00:10:48,Key's still in the ignition.
-128,00:10:48,00:10:50,Car's in drive.
-129,00:10:50,00:10:51,Engine's not running.
-130,00:10:51,00:10:54,Did the paramedics open this door?
-131,00:10:54,00:10:56,Vitals were taken through the open window.
-132,00:10:56,00:10:59,Door was ajar when we arrived on the scene.
-133,00:11:03,00:11:06,"Hey, Nick, check this out."
-134,00:11:06,00:11:08,Oh. Guy was getting high.
-135,00:11:09,00:11:11,Think that's the reason he missed the curve up there?
-136,00:11:12,00:11:12,You think?
-137,00:11:18,00:11:20,Ah. We got a wallet.
-138,00:11:20,00:11:21,"Yeah, yeah."
-139,00:11:24,00:11:26,Cory Demayo.
-140,00:11:26,00:11:27,Fits the description.
-141,00:11:28,00:11:29,"No cash, no plastic."
-142,00:11:29,00:11:32,This is a pretty remote place for an accident.
-143,00:11:32,00:11:35,"But you think someone saw it, took advantage of the situation?"
-144,00:11:35,00:11:37,Maybe he wasn't alone.
-145,00:11:37,00:11:42,"Maybe the passenger survived, then emptied out his wallet, took off."
-146,00:11:42,00:11:44,Maybe.
-147,00:12:30,00:12:33,This guy really dress up like Sherlock Holmes?
-148,00:12:33,00:12:37,"At least once a week, evidently, like those Civil War re-enactors."
-149,00:12:37,00:12:39,"I, uh, never understood that."
-150,00:12:39,00:12:42,"Yeah. In any event, C.O.D. was no surprise."
-151,00:12:42,00:12:45,"Perforating contact range, gunshot to the right temple."
-152,00:12:45,00:12:47,SANDERS: Got the tox.
-153,00:12:47,00:12:49,Cocaine metabolites in the vic's urine.
-154,00:12:49,00:12:51,500 nanograms per M.O.
-155,00:12:51,00:12:53,You only see levels that high in chronic users.
-156,00:12:53,00:12:55,Those are the track marks.
-157,00:12:55,00:12:59,"SANDERS: Yeah, but there was also morphine in his blood and in the syringe."
-158,00:13:00,00:13:03,"Seven percent solution, morphine sulfate and water."
-159,00:13:03,00:13:06,Sherlock went from crack to smack.
-160,00:13:06,00:13:09,Morphine metabolites in his system but no heroin metabolites?
-161,00:13:09,00:13:10,He wasn't on street junk.
-162,00:13:10,00:13:12,This is pharmaceutical- grade stuff.
-163,00:13:12,00:13:14,"And at a pretty hefty dose, too."
-164,00:13:14,00:13:16,How fast for the injection to take effect?
-165,00:13:16,00:13:20,"Given his size, he would've been incapacitated in a matter of seconds."
-166,00:13:20,00:13:27,"Not much time to undo the works, put away his antique syringe, pick up a gun and blow his brains out."
-167,00:13:27,00:13:28,Wait a minute.
-168,00:13:29,00:13:32,The GSR test on his hand was positive.
-169,00:13:32,00:13:33,What are you getting at?
-170,00:13:38,00:13:39,"Well, maybe Sherlock had some help."
-171,00:13:45,00:13:47,"BRASS: Hey, when was the last time you saw Cory?"
-172,00:13:47,00:13:51,"Yesterday. Just kicking it, like me."
-173,00:13:51,00:13:54,"How'd you get that bruise on your dome, man?"
-174,00:13:54,00:13:56,"Oh, uh, windsurfing."
-175,00:13:56,00:13:59,"Hey, you guys go out there together?"
-176,00:13:59,00:14:01,"Yeah. Well, he's got the wheels, so..."
-177,00:14:01,00:14:03,So you drove back together?
-178,00:14:03,00:14:05,No.
-179,00:14:05,00:14:07,"I sort of hooked up with this chick, so I bounced."
-180,00:14:07,00:14:09,Nice. You know the chick's name?
-181,00:14:09,00:14:11,"Uh, Jennifer."
-182,00:14:11,00:14:12,Jennifer who?
-183,00:14:12,00:14:16,"Jennifer, uh... nipple ring."
-184,00:14:16,00:14:18,(chuckling): Jennifer Nipple Ring.
-185,00:14:20,00:14:23,"Lawery, were you guys, uh, getting high yesterday?"
-186,00:14:23,00:14:24,You smoke some weed?
-187,00:14:24,00:14:26,Nope.
-188,00:14:26,00:14:27,No?
-189,00:14:27,00:14:30,"All right, let me tell you what I think happened."
-190,00:14:30,00:14:34,"You and Cory got stoned, and you drove away."
-191,00:14:34,00:14:36,Cory lost control of the Jeep...
-192,00:14:39,00:14:45,"...at which point, you couldn't wake him up, so you decided to take advantage of the situation, and you rifle through his wallet and leave."
-193,00:14:45,00:14:47,"Man, that is not what went down."
-194,00:14:47,00:14:52,"You're looking at robbery, leaving the scene, failure to report an accident."
-195,00:14:52,00:14:53,"That's a lot of years, man."
-196,00:14:53,00:14:57,"I didn't get back in the car with Cory, and if I had, I wouldn't have left him!"
-197,00:14:57,00:15:00,"Lawery, we're going to need a DNA sample from you."
-198,00:15:00,00:15:02,What? Why?
-199,00:15:02,00:15:06,"Just to prove that, uh, your lips weren't on that joint that we found in the Jeep."
-200,00:15:08,00:15:09,"All right, man."
-201,00:15:09,00:15:12,Let me just be straight with you guys for a second here.
-202,00:15:12,00:15:16,"I admit, Cory and I sparked up at the lake, okay?"
-203,00:15:17,00:15:19,But then he took off.
-204,00:15:20,00:15:23,"Three weeks ago, I was busted for pot, okay?"
-205,00:15:23,00:15:25,The judge gave me diversion.
-206,00:15:25,00:15:30,"You guys file charges, I'm screwed."
-207,00:15:30,00:15:32,I will never get into dental school.
-208,00:15:36,00:15:38,The fragment you found at the scene?
-209,00:15:38,00:15:39,It's a mother of pearl.
-210,00:15:39,00:15:42,It could be from an ornament or a piece of jewelry.
-211,00:15:42,00:15:43,It could be from a lot of things.
-212,00:15:43,00:15:45,"Yeah, that it could, Mr. Proficiency."
-213,00:15:46,00:15:48,I also I.D.'d the ash on the floor.
-214,00:15:48,00:15:53,"Perique tobacco, grown in only one spot on Earth: St. James Parish, Louisiana."
-215,00:15:53,00:15:56,The same as the umber of tobacco in the victim's slipper?
-216,00:15:56,00:15:57,"No, completely different make."
-217,00:15:57,00:15:59,"Cheap, strong, low-grade stuff."
-218,00:15:59,00:16:00,Shag tobacco.
-219,00:16:01,00:16:03,Yeah. How'd you know?
-220,00:16:03,00:16:04,That's what Holmes smoked.
-221,00:16:05,00:16:08,"Bad habit, even for a fictional character."
-222,00:16:10,00:16:13,You do have two suspects with pipes.
-223,00:16:13,00:16:17,"Yeah... and, uh, smoking kills."
-224,00:16:29,00:16:31,"MAN: We got to stop meeting like this, baby."
-225,00:16:31,00:16:33,How was your game?
-226,00:16:33,00:16:35,"I'm swinging a hot stick tonight, babe."
-227,00:16:37,00:16:39,Can I get you something?
-228,00:16:39,00:16:41,"No, I'm just looking for someone."
-229,00:16:44,00:16:46,You're staring at me.
-230,00:16:47,00:16:48,Oh.
-231,00:16:48,00:16:51,Uh... I'm sorry.
-232,00:16:51,00:16:53,I didn't recognize you from last night.
-233,00:16:55,00:16:56,Is that a friend of yours?
-234,00:16:56,00:16:58,(laughs): Give me a break.
-235,00:16:58,00:17:00,Did that guy look like a friend of mine?
-236,00:17:00,00:17:04,"Every time he touches me, I want to kick him in the scrotum, but he's a big tipper."
-237,00:17:04,00:17:06,I've got a sick mother and rent to pay.
-238,00:17:06,00:17:08,"Well, I just have a couple of questions."
-239,00:17:08,00:17:10,"At Denny Kingsley's, you were smoking a pipe."
-240,00:17:12,00:17:14,Yeah... a Meerschaum.
-241,00:17:14,00:17:16,I'm going to need it.
-242,00:17:16,00:17:17,Why?
-243,00:17:17,00:17:20,"Let me worry about that, okay?"
-244,00:17:22,00:17:24,"Uh, J.J., can you hand me my purse, please?"
-245,00:17:24,00:17:25,Okay.
-246,00:17:36,00:17:38,Dr. Watson?
-247,00:17:38,00:17:40,I'm Sara Sidle with the Crime Lab.
-248,00:17:40,00:17:41,Hello.
-249,00:17:41,00:17:42,Do you have a minute?
-250,00:17:43,00:17:49,I'm here to collect your Meerschaum pipe as well as any other tobacco products you might have in your possession.
-251,00:17:49,00:17:52,I don't smoke anything illegal.
-252,00:17:52,00:17:53,You haven't been accused of that.
-253,00:17:53,00:17:56,"Anyway, my pipe is at home."
-254,00:17:56,00:17:58,No problem. Let's go.
-255,00:17:58,00:18:00,"Look, I'm working."
-256,00:18:00,00:18:03,"We've already talked to your boss, and I have a warrant."
-257,00:18:03,00:18:04,Let me get that for you.
-258,00:18:10,00:18:14,Were you wearing those shoes at your last club meeting?
-259,00:18:14,00:18:19,"Yeah. They're not technically right for the period, but black leather shoes are black leather shoes."
-260,00:18:19,00:18:22,I'm not the same stickler for detail that Denny was.
-261,00:18:22,00:18:24,Apparently not.
-262,00:18:24,00:18:26,Vic was physically fit.
-263,00:18:26,00:18:30,"Scratches and abrasions are antemortem, unrelated to the accident."
-264,00:18:30,00:18:33,"The contusion on the forehead was, uh, superficial, right?"
-265,00:18:33,00:18:34,You are right.
-266,00:18:34,00:18:36,"Okay, so what's the cause of death, Doc?"
-267,00:18:37,00:18:38,Undetermined.
-268,00:18:39,00:18:41,"But you're still working on it, right?"
-269,00:18:41,00:18:43,"Unless some other evidence comes to light, I'm done."
-270,00:18:43,00:18:45,Sometimes I can't tell you why they die.
-271,00:18:53,00:18:54,What you got?
-272,00:18:54,00:18:56,Passenger door latch is busted.
-273,00:18:56,00:18:58,It could've happened during the accident.
-274,00:18:58,00:19:00,"Well, that is consistent with the roommate's story."
-275,00:19:00,00:19:03,Says he wasn't in the passenger seat during the time of the crash.
-276,00:19:03,00:19:05,What'd you get back from Tox?
-277,00:19:05,00:19:08,Tox came back positive for low levels of cannabis.
-278,00:19:08,00:19:16,"I know marijuana slows your reaction time, but based on the lack of skid marks at the scene, the position of the vehicle, I don't think this guy ever hit the brakes."
-279,00:19:16,00:19:17,"Well, maybe he did hit the brakes."
-280,00:19:17,00:19:18,Did you check 'em?
-281,00:19:18,00:19:20,"Come on, you're a bigger boy than me."
-282,00:19:20,00:19:23,"Yeah, you can't do anything yourself, can you?"
-283,00:19:27,00:19:29,You ready?
-284,00:19:29,00:19:31,"Yeah, yeah, put your back into it."
-285,00:19:31,00:19:33,(grunts)
-286,00:19:35,00:19:37,Brakes work.
-287,00:19:37,00:19:41,"Brake lights are working, so that means the battery's okay."
-288,00:19:41,00:19:42,"Yeah, but the gauges are all off."
-289,00:19:42,00:19:44,The panel's not even working.
-290,00:19:44,00:19:50,"Okay, ignition was on, but the engine wasn't running, so... what?"
-291,00:19:50,00:19:51,No gas?
-292,00:19:53,00:19:56,"(grunts): That tank is full of fuel, man."
-293,00:19:56,00:19:58,Cory was in good shape.
-294,00:19:58,00:20:02,"The Jeep seems to be in decent condition, so..."
-295,00:20:02,00:20:04,(sighs): what happened out there?
-296,00:20:04,00:20:06,Swing shift's short a couple of bodies.
-297,00:20:06,00:20:08,"Yes, and when is that going to change?"
-298,00:20:08,00:20:10,"Not anytime soon-- Catherine, there are budget constraints."
-299,00:20:11,00:20:12,You'll have to prioritize.
-300,00:20:12,00:20:14,Should we come back?
-301,00:20:14,00:20:15,"No, no, no, come on in."
-302,00:20:15,00:20:18,"So, how's your, uh, your surfer dude case?"
-303,00:20:18,00:20:23,"Uh, the victim's roommate admits they got high together, but denies being in the Jeep at the time of the accident."
-304,00:20:23,00:20:25,"At this point, we can't place him there."
-305,00:20:25,00:20:27,Brakes on the Jeep were functioning.
-306,00:20:27,00:20:29,The driver should've been able to stop.
-307,00:20:29,00:20:30,Any signs of foul play?
-308,00:20:30,00:20:31,STOKES: No.
-309,00:20:31,00:20:33,Something's not right.
-310,00:20:33,00:20:35,"ECKLEY: All right, nothing suspicious and no crime's committed?"
-311,00:20:35,00:20:36,Put the case to bed.
-312,00:20:36,00:20:39,I'm sure your supervisor can keep you busy.
-313,00:20:39,00:20:41,Close it.
-314,00:20:42,00:20:45,Sounds like he's more concerned with getting it done than getting it right.
-315,00:20:45,00:20:46,Are you guys satisfied?
-316,00:20:47,00:20:49,We don't have an answer.
-317,00:20:49,00:20:51,Then get one.
-318,00:20:51,00:20:52,What about Eckley?
-319,00:20:53,00:20:56,"(sighs): My problem, not yours."
-320,00:22:07,00:22:08,(sighs)
-321,00:22:08,00:22:10,You nervous?
-322,00:22:10,00:22:12,A little.
-323,00:22:12,00:22:13,Relax.
-324,00:22:13,00:22:14,Relax.
-325,00:22:14,00:22:18,"Just two law enforcement professionals talking to one another, that's all."
-326,00:22:18,00:22:21,I'm a security guard. Don't patronize me.
-327,00:22:21,00:22:24,"I bet you always wanted to be a cop, am I right?"
-328,00:22:24,00:22:26,So what happened?
-329,00:22:26,00:22:28,Flunk the physical?
-330,00:22:28,00:22:29,Huh?
-331,00:22:29,00:22:31,That's okay; lot of guys do.
-332,00:22:31,00:22:33,No?
-333,00:22:33,00:22:35,"What was it then, psych?"
-334,00:22:35,00:22:37,I was on medication.
-335,00:22:37,00:22:40,You can't be a cop if you're on this medication.
-336,00:22:40,00:22:42,But you can be Sherlock Holmes.
-337,00:22:42,00:22:44,I was Dr. Watson...
-338,00:22:44,00:22:46,in our club.
-339,00:22:47,00:22:48,Denny was Sherlock Holmes.
-340,00:22:48,00:22:53,"""There can only be one."" So, when Denny wasn't there, you could be Sherlock."
-341,00:22:53,00:22:55,I suppose.
-342,00:22:55,00:22:57,That why you killed him?
-343,00:22:57,00:22:58,I didn't kill him.
-344,00:22:58,00:23:04,"Denny was a friend, and if I wanted to be Sherlock, all I had to do was wait."
-345,00:23:04,00:23:05,Denny was quitting.
-346,00:23:06,00:23:07,We talked about it a lot.
-347,00:23:07,00:23:09,He said he was going back to his wife.
-348,00:23:09,00:23:14,"So you went to his house, you shot him, and then you left, and you came back later with your pals and acted like nothing happened."
-349,00:23:14,00:23:16,I went straight home after work.
-350,00:23:16,00:23:22,"His blood on your shoe, tobacco ash from your pipe on the carpet next to his body-- that puts you where he was killed."
-351,00:23:23,00:23:24,No way.
-352,00:23:24,00:23:26,"Look, there are two kinds of stories: fact and fiction."
-353,00:23:26,00:23:27,I know that.
-354,00:23:27,00:23:29,Sherlock Holmes: fiction.
-355,00:23:29,00:23:32,Dennis Kingsley's murder: fact.
-356,00:23:32,00:23:33,Your story: fiction.
-357,00:23:33,00:23:37,"No, I swear. God help me, I'm telling the truth."
-358,00:23:37,00:23:41,I-I wasn't there. I didn't kill Denny.
-359,00:23:41,00:23:45,DNA confirms that the blood on Watson's shoe is a match to your vic.
-360,00:23:45,00:23:47,We got him.
-361,00:23:47,00:23:49,Feel like celebrating after shift?
-362,00:23:50,00:23:52,I'm buying.
-363,00:23:52,00:23:53,These blood drops aren't uniform.
-364,00:23:53,00:23:57,"Some of them are clotted red cells, but others are pure serum."
-365,00:24:00,00:24:03,It takes at least 20 minutes for blood to clot and separate.
-366,00:24:03,00:24:06,"If Watson killed Sherlock, the blood drops on his shoe would all be the same."
-367,00:24:06,00:24:09,The killer takes some of the victim's blood at the scene...
-368,00:24:11,00:24:16,...the red blood cells in the serum separate and get sprayed on the shoe later.
-369,00:24:17,00:24:19,Somebody's trying to frame Watson.
-370,00:24:22,00:24:24,"SANDERS: Jeez,allhis stuff is up for auction."
-371,00:24:25,00:24:26,This is Dennis Kingsley's entire collection.
-372,00:24:26,00:24:28,He's getting rid of everything.
-373,00:24:28,00:24:29,Might have needed the cash?
-374,00:24:30,00:24:31,I don't know.
-375,00:24:31,00:24:33,Maybe he was just trying to get back to reality.
-376,00:24:33,00:24:35,Hold it.
-377,00:24:35,00:24:38,"Murder weapon was a Colt .45 revolver, current whereabouts unknown."
-378,00:24:38,00:24:41,"Huh, I thought you were looking for a book."
-379,00:24:41,00:24:43,We are. We ran DNA on this blood stain.
-380,00:24:43,00:24:46,"It's not the victim's, and there's no hits through CODIS."
-381,00:24:47,00:24:49,You think it's the killer's? Maybe.
-382,00:24:49,00:24:50,"Come on, let's keep going."
-383,00:24:50,00:24:53,There it is-- The Hound of the Baskervilles.
-384,00:24:53,00:24:55,(beep)
-385,00:24:55,00:24:58,"When he photographed it, there was no blood on the pages."
-386,00:24:58,00:25:00,Can you pull up the bidding history?
-387,00:25:00,00:25:01,"Yes, I can."
-388,00:25:01,00:25:04,Let's see who's interested.
-389,00:25:04,00:25:05,JOHNSON: Huh.
-390,00:25:05,00:25:06,Reichenbach.
-391,00:25:06,00:25:08,What's the big deal about that?
-392,00:25:08,00:25:09,Reichenbach Falls?
-393,00:25:13,00:25:16,It's where Professor Moriarty killed Sherlock Holmes.
-394,00:25:16,00:25:18,(beeping)
-395,00:25:18,00:25:21,MAN: The 1902 first British Edition ofThe Hound?
-396,00:25:21,00:25:22,Of course I wanted it.
-397,00:25:22,00:25:24,I'm a doctoral candidate in English history.
-398,00:25:24,00:25:30,I helped Denny create that astonishing verisimilitude of Sir Arthur Conan Doyle's Britain. Order!
-399,00:25:30,00:25:32,(bell dings)
-400,00:25:32,00:25:35,SIDLE: He was selling the collection off in pieces.
-401,00:25:35,00:25:36,It must have pissed you off.
-402,00:25:36,00:25:38,He was a self-destructive narcissist.
-403,00:25:38,00:25:41,"If he had to give it up, we all had to give it up."
-404,00:25:41,00:25:43,And you weren't willing to do that?
-405,00:25:43,00:25:47,"As you can see, the modest stipend I get from my graduate studies doesn't go far."
-406,00:25:47,00:25:51,What I offered forThe Hound is every penny I had. Order!
-407,00:25:51,00:25:54,"SANDERS: But then he put it up for auction, and made you bid for it."
-408,00:25:54,00:25:58,"When the price got too high, you confronted him."
-409,00:25:58,00:25:59,(laughs)
-410,00:25:59,00:26:01,"That is empty speculation, my friend."
-411,00:26:01,00:26:04,"Hold out your hands for me, please?"
-412,00:26:04,00:26:05,My hands?
-413,00:26:05,00:26:06,Yeah.
-414,00:26:06,00:26:07,Your hands.
-415,00:26:09,00:26:10,Fine.
-416,00:26:12,00:26:15,"SANDERS: Ooh, that looks like a paper cut to me."
-417,00:26:15,00:26:17,Are we gonna find your blood on that book?
-418,00:26:18,00:26:19,If you can't pay me what it's worth...
-419,00:26:19,00:26:21,"Oh, come on, you owe me as much."
-420,00:26:21,00:26:22,Come on. Come...
-421,00:26:22,00:26:24,Give it! Ow!
-422,00:26:24,00:26:25,"Bloody hell, Dennis."
-423,00:26:27,00:26:30,"Fine, fine, fine."
-424,00:26:30,00:26:34,"Yes, I stopped by Dennis's house earlier that evening to make my case, but I didn't kill him."
-425,00:26:34,00:26:37,"If I had, believe me, I would have taken that book."
-426,00:26:39,00:26:41,Tow truck will be here in about an hour.
-427,00:26:41,00:26:42,"All right, we're on the clock."
-428,00:26:42,00:26:44,Let's take this thing apart.
-429,00:27:36,00:27:41,"Hey, I've got some blown fuses and some fried wiring up here."
-430,00:27:41,00:27:42,Yeah?
-431,00:27:42,00:27:43,Yeah.
-432,00:27:43,00:27:45,I've got some burn marks on the undercarriage.
-433,00:27:45,00:27:48,"And I found something similar on the roll bar, as well."
-434,00:27:48,00:27:50,"Well, that would indicate some sort of electrical shock."
-435,00:27:50,00:27:56,"Well, if an electrical charge traveled through the Jeep, and shorted out the wiring, it would have shocked Cory, as well."
-436,00:27:57,00:27:57,"Like what, lightning?"
-437,00:27:58,00:28:01,"Yeah, but it was clear yesterday."
-438,00:28:01,00:28:04,"Whatever it was, it zapped the hell out of his Jeep."
-439,00:28:04,00:28:06,Let's go back out there and check it out.
-440,00:28:11,00:28:15,"Cory was coming from Lake Mead, which is that way."
-441,00:28:15,00:28:16,Let's walk.
-442,00:28:16,00:28:18,Yeah.
-443,00:28:18,00:28:20,(birds singing)
-444,00:28:38,00:28:40,Wire trimmings.
-445,00:28:40,00:28:42,They look fresh.
-446,00:28:42,00:28:44,(camera shutter clicking)
-447,00:28:52,00:28:55,Looks like a new splice on those wires.
-448,00:28:55,00:28:58,"Well, the power company originally called that Jeep in."
-449,00:28:58,00:29:00,They must have been out here fixing the lines.
-450,00:29:00,00:29:01,Maybe it was a down line.
-451,00:29:02,00:29:05,That would give us the high voltage power source right there.
-452,00:29:05,00:29:11,"Yeah, but even if a live wire struck the roll bar, the tires would have insulated the vehicle."
-453,00:29:11,00:29:14,"Right. Without a path to ground, electricity is harmless."
-454,00:29:16,00:29:18,What about that road marker?
-455,00:29:31,00:29:35,It's bent in the direction Cory was driving.
-456,00:29:35,00:29:36,Black transfer.
-457,00:29:36,00:29:38,Wasn't the undercarriage of Cory's Jeep black?
-458,00:29:39,00:29:41,"(tires screeching, squeaking)"
-459,00:29:42,00:29:44,This marker would have grounded the Jeep.
-460,00:29:44,00:29:50,"Completing the circuit, and theoretically, electrocuting the vehicle."
-461,00:30:20,00:30:22,I want to go back to the crime scene.
-462,00:30:24,00:30:32,"The grips of Dennis Kingsley's antique Colt .45 were mother of pearl, consistent with the chip collected here."
-463,00:30:32,00:30:38,"I identified trace on the edge of that chip, and it's red clay dust."
-464,00:30:38,00:30:40,(sighs)
-465,00:30:40,00:30:44,"The fire's fake, but these red clay bricks are real."
-466,00:30:45,00:30:47,"So, what are you looking for?"
-467,00:30:47,00:30:49,"Well, the killer obviously left with the gun."
-468,00:30:49,00:30:57,"And if there was some kind of struggle, maybe the killer left behind some skin fragments or a strand of hair."
-469,00:30:59,00:31:01,(groaning)
-470,00:31:01,00:31:05,Was there any evidence of a struggle in this room?
-471,00:31:05,00:31:07,Not really.
-472,00:31:15,00:31:17,"Well, so much for the obvious."
-473,00:31:27,00:31:29,SIDLE: He committed suicide?
-474,00:31:29,00:31:30,The man was a credit to his genre.
-475,00:31:30,00:31:34,He runs a loop of surgical tubing through the weapon secured inside the chimney.
-476,00:31:34,00:31:37,A shot of morphine a few minutes earlier takes the edge off.
-477,00:31:37,00:31:41,And it provides extra insurance in case the gun doesn't finish the job.
-478,00:31:41,00:31:43,(gunshot)
-479,00:31:43,00:31:48,It would have been easy for him to plant Watson's brand of tobacco ash on his floor.
-480,00:31:48,00:31:54,"I figure, Sherlock drew his own blood in advance and then sprayed it on Watson's shoe at their last meeting."
-481,00:31:54,00:31:56,The world's greatest detective makes suicide look like murder?
-482,00:31:58,00:32:02,Why would he try and frame his best friend in the process?
-483,00:32:02,00:32:05,"Well, Watson said they were friends, but who knows what kind of relationship they really had."
-484,00:32:06,00:32:07,Maybe they hated each other.
-485,00:32:07,00:32:10,Maybe Dennis couldn't stand the thought of anyone else being Sherlock.
-486,00:32:10,00:32:12,"Besides, I thought motive wasn't our business."
-487,00:32:12,00:32:15,It's not.
-488,00:32:16,00:32:20,"Write it up, give the report to Grissom."
-489,00:32:21,00:32:22,Way to go.
-490,00:32:22,00:32:24,All right.
-491,00:33:41,00:33:42,What...
-492,00:33:42,00:33:44,What is going on?
-493,00:33:44,00:33:46,We're finishing up the case.
-494,00:33:46,00:33:48,(scoffs)
-495,00:33:48,00:33:50,Do you know how much Ballistic Joe costs?
-496,00:33:50,00:33:52,I didn't know you did.
-497,00:33:52,00:33:56,"I just thought you guys were gonna go over your notes, look over the case file."
-498,00:33:56,00:33:57,"Well, hold on now."
-499,00:33:57,00:34:01,We found electrical burn marks on the roll bar and the Jeep's undercarriage.
-500,00:34:01,00:34:05,And we found blown out fuses on the instrument panel and the starter.
-501,00:34:05,00:34:07,That would explain why the Jeep wasn't running.
-502,00:34:07,00:34:11,"Yeah, we called Nevada power, and they confirmed there was a downed power line the day of the accident."
-503,00:34:11,00:34:13,"So, you're saying the victim was electrocuted?"
-504,00:34:13,00:34:15,Yeah.
-505,00:34:15,00:34:20,"BROWN: So we replaced the fuses, we connected the Jeep to a power source, and we hooked up Gelatin Man here to a hand meter."
-506,00:34:22,00:34:26,"Watch it wiggle, see it jiggle, I get it."
-507,00:34:28,00:34:31,"Well, you're gonna need at least six milliamps to prove your theory."
-508,00:34:33,00:34:36,I'm on it.
-509,00:34:36,00:34:38,(engine starting)
-510,00:34:45,00:34:47,(engine revving)
-511,00:34:48,00:34:50,(electrical sparking)
-512,00:34:50,00:34:52,WILLOWS: Congratulations.
-513,00:34:52,00:34:54,"You killed the Jeep, but the victim's still alive."
-514,00:34:54,00:34:56,The current never even made it past zero.
-515,00:34:56,00:35:00,"So, either your theory is wrong, or you've got a problem with your experiment."
-516,00:35:00,00:35:04,Are there any variables in the case that haven't been duplicated here?
-517,00:35:04,00:35:06,"Same vehicle, power's good."
-518,00:35:06,00:35:08,"So, why isn't Mr. Wiggles connecting?"
-519,00:35:11,00:35:14,He's naked.
-520,00:35:14,00:35:18,"Well, let's dress him up."
-521,00:35:24,00:35:25,(engine starting)
-522,00:35:39,00:35:44,"So, the current came into the vehicle from the roll bar, and it went out through the undercarriage."
-523,00:35:44,00:35:46,It needed an entry point and exit point.
-524,00:35:46,00:35:51,"Entry through the, uh, the watch on his wrist and then exit through the rivets in his shorts."
-525,00:35:51,00:35:54,"Right across his heart, stopping it cold."
-526,00:36:09,00:36:15,"So I know that I've never said this to you guys before, but... hide the evidence."
-527,00:36:16,00:36:17,Thanks for getting our back.
-528,00:36:17,00:36:20,"We're a team, guys."
-529,00:36:20,00:36:22,"Oh, since we're a team, you gonna help us clean up?"
-530,00:36:22,00:36:23,Yeah. (laughing)
-531,00:36:25,00:36:27,No. I'm the boss.
-532,00:36:31,00:36:35,I thought you told me you closed the Cory Demayo case.
-533,00:36:35,00:36:39,"Catherine, nothing happens in this lab that I don't know about."
-534,00:36:39,00:36:42,Then I'm sure you know the case is now closed.
-535,00:36:42,00:36:44,Did I make a mistake promoting you?
-536,00:36:44,00:36:48,"Yeah, you should have given me the day shift."
-537,00:36:48,00:36:49,But I'm making it work.
-538,00:37:26,00:37:29,(punk rock music playing faintly)
-539,00:37:30,00:37:31,Greg.
-540,00:37:33,00:37:34,"Hey, MTV boy."
-541,00:37:37,00:37:38,I have a question about your report.
-542,00:37:38,00:37:39,Okay.
-543,00:37:39,00:37:43,"According to autopsy, the victim showed long-term effects of cocaine abuse."
-544,00:37:43,00:37:44,That's right.
-545,00:37:44,00:37:50,"But according to Tox, the substance in the victim's syringe was a seven percent solution of morphine."
-546,00:37:50,00:37:52,Yeah.
-547,00:37:52,00:37:53,The victim was an obsessive compulsive.
-548,00:37:53,00:37:59,"In the stories, Holmes' preferred stimulant was a seven percent solution of cocaine, not morphine."
-549,00:38:00,00:38:02,Evidence out of context.
-550,00:38:02,00:38:08,Did you ever consider the possibility that the victim didn't realize what he was injecting himself with?
-551,00:38:08,00:38:10,No.
-552,00:38:11,00:38:15,You think someone switched his coke with morphine?
-553,00:38:15,00:38:20,"You found the victim's fingerprints on the gun, but you found no prints on the surgical tubing, no epithelials either."
-554,00:38:20,00:38:23,Does that make sense if it was a suicide?
-555,00:38:24,00:38:26,I guess not.
-556,00:38:26,00:38:30,Do you have any other suspects who have access to morphine or surgical tubing?
-557,00:38:32,00:38:34,I can find out.
-558,00:38:34,00:38:36,I would do that.
-559,00:38:47,00:38:50,SANDERS: I went through the medical records for all of our suspects.
-560,00:38:51,00:38:55,"As far as I can tell, none of them have ever been prescribed morphine."
-561,00:38:55,00:38:57,I think Watson's our best bet.
-562,00:38:57,00:39:02,The guy is a security guard at Desert Palms; he was certainly around morphine.
-563,00:39:07,00:39:09,GRISSOM: Tobacco leaves.
-564,00:39:10,00:39:12,Run a quick comparison.
-565,00:39:12,00:39:14,This has to belong to one of our suspects.
-566,00:39:17,00:39:19,BRASS: Do you like your life?
-567,00:39:19,00:39:21,What kind of question is that?
-568,00:39:21,00:39:25,"Well, I mean, I've seen how happy you are at work."
-569,00:39:25,00:39:30,And then I know you come home to Mom and I guess she has terminal cancer.
-570,00:39:30,00:39:30,That's got to be tough.
-571,00:39:30,00:39:34,"Yeah, well, you try giving enough attention to someone who never gave you any."
-572,00:39:34,00:39:38,"But the Sherlock Holmes club, that's got to be one bright spot, hmm?"
-573,00:39:38,00:39:43,The one place I could go every week where no one was grabbing my butt or staring at my breasts.
-574,00:39:43,00:39:45,"The one place I could talk, think."
-575,00:39:45,00:39:53,"You must have been pretty devastated when Dennis Kingsley decided to break up the club, huh?"
-576,00:39:53,00:39:55,It was a disappointment.
-577,00:39:55,00:40:00,Next week will be the final meeting of our society.
-578,00:40:00,00:40:08,"But I give you my word, it shall be an evening none of you will ever forget."
-579,00:40:08,00:40:10,I think it's a lot more than that.
-580,00:40:10,00:40:12,I don't know what you mean.
-581,00:40:12,00:40:15,Well...
-582,00:40:15,00:40:20,the tobacco-- your blend is Cavendish.
-583,00:40:22,00:40:28,"Okay, why don't I tell this like a story, you know, like the end of a story, all right?"
-584,00:40:28,00:40:31,Because I like the part where the detectives solves the crime.
-585,00:40:31,00:40:32,So here goes.
-586,00:40:32,00:40:35,"On the day of the murder, you broke into Denny Kingsley's house."
-587,00:40:35,00:40:37,"That's easy enough, the lock's crummy."
-588,00:40:37,00:40:38,You snuck downstairs.
-589,00:40:38,00:40:43,"You replaced his cocaine with morphine, because you knew he was a creature of habit."
-590,00:40:43,00:40:44,So now all you had to do is wait.
-591,00:40:58,00:41:03,So you sprinkle some of Dr. Watson's pipe tobacco in the carpet.
-592,00:41:03,00:41:08,"You scoop up some of Denny's blood, to splash on Watson's shoes later."
-593,00:41:08,00:41:11,Why the elaborate frame-up of Watson?
-594,00:41:11,00:41:13,He had as much to lose as you.
-595,00:41:13,00:41:17,Because he's the one that told Denny to give it all up and go back to his family.
-596,00:41:17,00:41:22,"Because he's the one that wanted to be Sherlock Holmes, because he didn't care what it was doing to me."
-597,00:41:24,00:41:27,(sniffling)
-598,00:41:31,00:41:34,"You see, Detective..."
-599,00:41:36,00:41:41,(in British accent): Denny would have wanted his murder to be the perfect puzzle.
-600,00:41:41,00:41:46,A mystery worthy of the master.
-601,00:41:56,00:42:00,"Hey, Greg, Grissom wants to see you."
-602,00:42:00,00:42:03,"Like now, in his office."
-603,00:42:14,00:42:15,Grissom.
-604,00:42:15,00:42:16,You wanted to see me.
-605,00:42:20,00:42:22,Yeah!
-606,00:42:22,00:42:24,Yeah.
-607,00:42:28,00:42:30,Well done.
-608,00:42:30,00:42:32,I'm proud of you.
-609,00:42:32,00:42:34,"Congratulations, Sanders. Good work."
-610,00:42:34,00:42:36,Thank you.
-611,00:42:37,00:42:40,"Okay, gang, there's people to put in jail."
-612,00:42:40,00:42:42,"Let's get back to it, shall we?"
-613,00:42:42,00:42:43,"Come on, come on, now."
-614,00:42:43,00:42:45,Party's over. Let's go.
-615,00:42:48,00:42:49,Good job.
-616,00:42:52,00:42:54,I don't get it.
-617,00:42:54,00:42:58,"I got the wrong guy, the wrong manner of death."
-618,00:42:58,00:43:01,I don't expect you to be correct in all your interpretations all the time.
-619,00:43:01,00:43:03,You collected the evidence.
-620,00:43:03,00:43:08,"You thought there was something missing, you went back and found it."
-621,00:43:08,00:43:10,"Hey, that's the job."
-622,00:43:10,00:43:12,"Congratulations, Greg."
-623,00:43:12,00:43:15,Thank you.
-624,00:43:22,00:43:24,(all laughing)
-625,00:43:24,00:43:26,Cheers. To you.
+	start	end	text
+0	00:02:00	00:02:02	Deerstalker cap...
+1	00:02:03	00:02:04	violin...
+2	00:02:05	00:02:08	...Meerschaum pipe...
+3	00:02:08	00:02:14	even a Persian slipper with tobacco stuffed in the toe, I imagine.
+4	00:02:14	00:02:23	All in all, a meticulous recreation residence of the world's greatest detective, Sherlock Holmes.
+5	00:02:23	00:02:25	Also known as Dennis Kingsley, delivery guy.
+6	00:02:26	00:02:28	What do you think?
+7	00:02:28	00:02:30	Ask Greg. It's his case.
+8	00:02:30	00:02:33	It's his final proficiency-- emphasis on the final.
+9	00:02:33	00:02:37	Okay, Dr. Watson, run it.
+10	00:02:37	00:02:43	Victim's in a relaxed position in front of a fake fire.
+11	00:02:43	00:02:44	Alcohol.
+12	00:02:45	00:02:48	Solitude.
+13	00:02:49	00:02:51	Powder burns around the entrance wound.
+14	00:02:51	00:02:55	Close to contact shot.
+15	00:02:55	00:02:57	It all suggests suicide.
+16	00:02:57	00:02:59	Well, if he killed himself, where's the weapon?
+17	00:03:03	00:03:04	Huh...
+18	00:03:04	00:03:10	Family and friends who discover a body sometimes remove the weapon to make it look like murder.
+19	00:03:10	00:03:16	No suicide stigma and better chances of collecting any life insurance.
+20	00:03:16	00:03:20	From the look of the place upstairs, this guy lived alone, and the neighbors heard the shot, so...
+21	00:03:20	00:03:23	Pretty good. I guess I'll, uh, go interview the neighbors.
+22	00:03:25	00:03:28	So, are you going to say the game's afoot?
+23	00:03:29	00:03:32	I didn't know you were a Conan Doyle fan, Greg.
+24	00:03:32	00:03:36	I'm not. I saw a Sherlock Holmes movie once by mistake.
+25	00:03:36	00:03:38	Well, just so you know...
+26	00:03:38	00:03:40	those movies never ended like this.
+27	00:04:17	00:04:18	Yeah, boy, okay.
+28	00:04:21	00:04:22	Anything useful?
+29	00:04:22	00:04:27	Well, I found out if I ever need a home loan, as a public servant, I'm pre-approved.
+30	00:04:27	00:04:30	You know, the guy looks like a, uh, drug dealer.
+31	00:04:30	00:04:32	Turns out he's a mortgage broker.
+32	00:04:32	00:04:34	Well, we all have our costumes, Jim.
+33	00:04:35	00:04:36	Yeah.
+34	00:04:38	00:04:42	Yeah, apparently some more than others.
+35	00:04:42	00:04:46	I assume you're friends of Mr. Kingsley?
+36	00:04:46	00:04:48	We are friends of Mr. Holmes.
+37	00:04:48	00:04:50	Invited guests, in point of fact.
+38	00:04:50	00:04:53	This is all so contemporary.
+39	00:04:54	00:04:56	Well, I'm with the Las Vegas Crime Lab.
+40	00:04:56	00:04:59	Ah, a colleague. Perhaps we can be of some assistance.
+41	00:04:59	00:05:02	Yes. Have you discovered any shoe impressions in the soil?
+42	00:05:02	00:05:03	Not yet.
+43	00:05:03	00:05:05	This is a crime scene.
+44	00:05:06	00:05:09	Oh, a scenario created for our own entertainment, yes?
+45	00:05:19	00:05:21	I guess it depends on what you find entertaining.
+46	00:05:30	00:05:31	Anyone for pizza?
+47	00:05:31	00:05:34	Very funny.
+48	00:05:36	00:05:37	Got it.
+49	00:05:38	00:05:42	Ooh. BFB.
+50	00:05:42	00:05:44	Big freakin' bullet.
+51	00:05:44	00:05:45	Nose is mushroomed.
+52	00:05:46	00:05:47	Looks like pure lead.
+53	00:05:47	00:05:52	Two cannelures consistent with a revolver.
+54	00:05:52	00:05:59	One, two, three, four, five, six lands and grooves.
+55	00:05:59	00:06:00	Left hand twist.
+56	00:06:00	00:06:02	Which usually means...?
+57	00:06:02	00:06:04	Colt .45?
+58	00:06:06	00:06:08	Are you checking up on me?
+59	00:06:08	00:06:09	No, no, no, no.
+60	00:06:09	00:06:14	Grissom said he was just evaluating you on processing this one room, so...
+61	00:06:14	00:06:17	I figured maybe you could use some help with the rest of the house.
+62	00:06:17	00:06:19	Thanks.
+63	00:06:34	00:06:37	Guess everyone needs a hobby.
+64	00:06:37	00:06:41	We would study the Holmes text in cases and important 19th century events.
+65	00:06:41	00:06:43	We met every Thursday night.
+66	00:06:43	00:06:44	You make it sound like a bowling league.
+67	00:06:44	00:06:48	This is a serious literary association.
+68	00:06:48	00:06:51	As usual, Dr. Watson, subtlety is lost upon you.
+69	00:06:51	00:06:58	You see a stab wound above her breast and overlook the absence of blood on the chair as well as the fact that her skirt is raised.
+70	00:06:58	00:07:03	This body was posed, and quite beautifully, I might add.
+71	00:07:03	00:07:09	Moriarty, if evil for evil's sake were a pathological condition, it would be your diagnosis.
+72	00:07:09	00:07:12	Gentlemen, your disdain for one another distracts you from the truth.
+73	00:07:12	00:07:15	The wedding picture on the wall?
+74	00:07:15	00:07:17	The victims were husband and wife.
+75	00:07:17	00:07:20	As usual, Miss Adler, your deduction is correct.
+76	00:07:21	00:07:23	It was indeed a crime of passion.
+77	00:07:23	00:07:26	Sounds fun-- when was the last time you saw Dennis Kingsley?
+78	00:07:26	00:07:28	Last Thursday.
+79	00:07:28	00:07:31	He said that he was going to make this meeting really special.
+80	00:07:31	00:07:39	It seems our time here tonight has ended, and that, I fear, is the gist of the announcement I must share with you now.
+81	00:07:39	00:07:51	Next week will be the final meeting of our society, it shall be an evening none of you will ever forget.
+82	00:07:51	00:07:54	I didn't think that he meant this.
+83	00:07:54	00:07:57	We're going to need names and contact information.
+84	00:07:57	00:08:00	It would also be helpful if you'd let us take your fingerprints.
+85	00:08:00	00:08:01	Why?
+86	00:08:01	00:08:04	Elementary. So we can rule you out.
+87	00:08:04	00:08:08	You've all obviously been in the study on numerous occasions.
+88	00:08:08	00:08:10	We need to find out if the prints we find are relevant.
+89	00:08:10	00:08:13	So you actually think this is something other than suicide?
+90	00:08:13	00:08:15	You know, I think you ought to drop the accent.
+91	00:08:15	00:08:17	I can't. I'm English.
+92	00:08:17	00:08:19	Oh.
+93	00:09:13	00:09:15	There's possible signs of forced entry at the back door.
+94	00:09:15	00:09:17	It could be recent.
+95	00:09:17	00:09:20	Also, I think the vic had a family at some point.
+96	00:09:20	00:09:21	Brass is on it.
+97	00:09:24	00:09:26	Check this out.
+98	00:09:26	00:09:29	The Hound of the Baskervilles.
+99	00:09:29	00:09:30	I read that in 10th grade.
+100	00:09:30	00:09:32	Oh, yeah-- I was supposed to.
+101	00:09:32	00:09:34	There's a blood stain on the page ends.
+102	00:09:34	00:09:37	Huh.
+103	00:09:37	00:09:40	The spatter goes across and over.
+104	00:09:40	00:09:42	That stain did not come from this event.
+105	00:09:44	00:09:48	It could be the vic's, or it could be stage blood, for that matter.
+106	00:09:48	00:09:54	Do you think an obsessive neat freak like our vic would leave something like that on one of his most prized possessions?
+107	00:09:54	00:09:57	I think... there's only one way to find out.
+108	00:10:18	00:10:20	Hey, Chris.
+109	00:10:20	00:10:23	Nevada power guys-- they saw the Jeep, called it in.
+110	00:10:23	00:10:24	I ran the plates.
+111	00:10:24	00:10:26	R.O. is, uh, Cory Demayo, 25.
+112	00:10:26	00:10:28	Lives on Florentine.
+113	00:10:28	00:10:29	Spoke to the roommate.
+114	00:10:29	00:10:31	Driver fits the description.
+115	00:10:31	00:10:32	Vic's got a contusion on his forehead.
+116	00:10:32	00:10:34	Probably from the impact.
+117	00:10:34	00:10:35	Yeah, I can see that.
+118	00:10:35	00:10:37	It's just hard to believe that's what killed him.
+119	00:10:37	00:10:40	I didn't see any skid marks on the road up there.
+120	00:10:40	00:10:42	There's no signs he tried to brake.
+121	00:10:42	00:10:44	Well, maybe he fell asleep at the wheel.
+122	00:10:44	00:10:45	Uh, coming over that embankment?
+123	00:10:45	00:10:47	That would've woke him up.
+124	00:10:47	00:10:48	Key's still in the ignition.
+125	00:10:48	00:10:50	Car's in drive.
+126	00:10:50	00:10:51	Engine's not running.
+127	00:10:51	00:10:54	Did the paramedics open this door?
+128	00:10:54	00:10:56	Vitals were taken through the open window.
+129	00:10:56	00:10:59	Door was ajar when we arrived on the scene.
+130	00:11:03	00:11:06	Hey, Nick, check this out.
+131	00:11:06	00:11:08	Oh. Guy was getting high.
+132	00:11:09	00:11:11	Think that's the reason he missed the curve up there?
+133	00:11:12	00:11:12	You think?
+134	00:11:18	00:11:20	Ah. We got a wallet.
+135	00:11:20	00:11:21	Yeah, yeah.
+136	00:11:24	00:11:26	Cory Demayo.
+137	00:11:26	00:11:27	Fits the description.
+138	00:11:28	00:11:29	No cash, no plastic.
+139	00:11:29	00:11:32	This is a pretty remote place for an accident.
+140	00:11:32	00:11:35	But you think someone saw it, took advantage of the situation?
+141	00:11:35	00:11:37	Maybe he wasn't alone.
+142	00:11:37	00:11:42	Maybe the passenger survived, then emptied out his wallet, took off.
+143	00:11:42	00:11:44	Maybe.
+144	00:12:30	00:12:33	This guy really dress up like Sherlock Holmes?
+145	00:12:33	00:12:37	At least once a week, evidently, like those Civil War re-enactors.
+146	00:12:37	00:12:39	I, uh, never understood that.
+147	00:12:39	00:12:42	Yeah. In any event, C.O.D. was no surprise.
+148	00:12:42	00:12:45	Perforating contact range, gunshot to the right temple.
+149	00:12:45	00:12:47	Got the tox.
+150	00:12:47	00:12:49	Cocaine metabolites in the vic's urine.
+151	00:12:49	00:12:51	500 nanograms per M.O.
+152	00:12:51	00:12:53	You only see levels that high in chronic users.
+153	00:12:53	00:12:55	Those are the track marks.
+154	00:12:55	00:12:59	Yeah, but there was also morphine in his blood and in the syringe.
+155	00:13:00	00:13:03	Seven percent solution, morphine sulfate and water.
+156	00:13:03	00:13:06	Sherlock went from crack to smack.
+157	00:13:06	00:13:09	Morphine metabolites in his system but no heroin metabolites?
+158	00:13:09	00:13:10	He wasn't on street junk.
+159	00:13:10	00:13:12	This is pharmaceutical- grade stuff.
+160	00:13:12	00:13:14	And at a pretty hefty dose, too.
+161	00:13:14	00:13:16	How fast for the injection to take effect?
+162	00:13:16	00:13:20	Given his size, he would've been incapacitated in a matter of seconds.
+163	00:13:20	00:13:27	Not much time to undo the works, put away his antique syringe, pick up a gun and blow his brains out.
+164	00:13:27	00:13:28	Wait a minute.
+165	00:13:29	00:13:32	The GSR test on his hand was positive.
+166	00:13:32	00:13:33	What are you getting at?
+167	00:13:38	00:13:39	Well, maybe Sherlock had some help.
+168	00:13:45	00:13:47	Hey, when was the last time you saw Cory?
+169	00:13:47	00:13:51	Yesterday. Just kicking it, like me.
+170	00:13:51	00:13:54	How'd you get that bruise on your dome, man?
+171	00:13:54	00:13:56	Oh, uh, windsurfing.
+172	00:13:56	00:13:59	Hey, you guys go out there together?
+173	00:13:59	00:14:01	Yeah. Well, he's got the wheels, so...
+174	00:14:01	00:14:03	So you drove back together?
+175	00:14:03	00:14:05	No.
+176	00:14:05	00:14:07	I sort of hooked up with this chick, so I bounced.
+177	00:14:07	00:14:09	Nice. You know the chick's name?
+178	00:14:09	00:14:11	Uh, Jennifer.
+179	00:14:11	00:14:12	Jennifer who?
+180	00:14:12	00:14:16	Jennifer, uh... nipple ring.
+181	00:14:16	00:14:18	Jennifer Nipple Ring.
+182	00:14:20	00:14:23	Lawery, were you guys, uh, getting high yesterday?
+183	00:14:23	00:14:24	You smoke some weed?
+184	00:14:24	00:14:26	Nope.
+185	00:14:26	00:14:27	No?
+186	00:14:27	00:14:30	All right, let me tell you what I think happened.
+187	00:14:30	00:14:34	You and Cory got stoned, and you drove away.
+188	00:14:34	00:14:36	Cory lost control of the Jeep...
+189	00:14:39	00:14:45	...at which point, you couldn't wake him up, so you decided to take advantage of the situation, and you rifle through his wallet and leave.
+190	00:14:45	00:14:47	Man, that is not what went down.
+191	00:14:47	00:14:52	You're looking at robbery, leaving the scene, failure to report an accident.
+192	00:14:52	00:14:53	That's a lot of years, man.
+193	00:14:53	00:14:57	I didn't get back in the car with Cory, and if I had, I wouldn't have left him!
+194	00:14:57	00:15:00	Lawery, we're going to need a DNA sample from you.
+195	00:15:00	00:15:02	What? Why?
+196	00:15:02	00:15:06	Just to prove that, uh, your lips weren't on that joint that we found in the Jeep.
+197	00:15:08	00:15:09	All right, man.
+198	00:15:09	00:15:12	Let me just be straight with you guys for a second here.
+199	00:15:12	00:15:16	I admit, Cory and I sparked up at the lake, okay?
+200	00:15:17	00:15:19	But then he took off.
+201	00:15:20	00:15:23	Three weeks ago, I was busted for pot, okay?
+202	00:15:23	00:15:25	The judge gave me diversion.
+203	00:15:25	00:15:30	You guys file charges, I'm screwed.
+204	00:15:30	00:15:32	I will never get into dental school.
+205	00:15:36	00:15:38	The fragment you found at the scene?
+206	00:15:38	00:15:39	It's a mother of pearl.
+207	00:15:39	00:15:42	It could be from an ornament or a piece of jewelry.
+208	00:15:42	00:15:43	It could be from a lot of things.
+209	00:15:43	00:15:45	Yeah, that it could, Mr. Proficiency.
+210	00:15:46	00:15:48	I also I.D.'d the ash on the floor.
+211	00:15:48	00:15:53	Perique tobacco, St. James Parish, Louisiana.
+212	00:15:53	00:15:56	The same as the umber of tobacco in the victim's slipper?
+213	00:15:56	00:15:57	No, completely different make.
+214	00:15:57	00:15:59	Cheap, strong, low-grade stuff.
+215	00:15:59	00:16:00	Shag tobacco.
+216	00:16:01	00:16:03	Yeah. How'd you know?
+217	00:16:03	00:16:04	That's what Holmes smoked.
+218	00:16:05	00:16:08	Bad habit, even for a fictional character.
+219	00:16:10	00:16:13	You do have two suspects with pipes.
+220	00:16:13	00:16:17	Yeah... and, uh, smoking kills.
+221	00:16:29	00:16:31	We got to stop meeting like this, baby.
+222	00:16:31	00:16:33	How was your game?
+223	00:16:33	00:16:35	I'm swinging a hot stick tonight, babe.
+224	00:16:37	00:16:39	Can I get you something?
+225	00:16:39	00:16:41	No, I'm just looking for someone.
+226	00:16:44	00:16:46	You're staring at me.
+227	00:16:47	00:16:48	Oh.
+228	00:16:48	00:16:51	Uh... I'm sorry.
+229	00:16:51	00:16:53	I didn't recognize you from last night.
+230	00:16:55	00:16:56	Is that a friend of yours?
+231	00:16:56	00:16:58	Give me a break.
+232	00:16:58	00:17:00	Did that guy look like a friend of mine?
+233	00:17:00	00:17:04	Every time he touches me, I want to kick him in the scrotum, but he's a big tipper.
+234	00:17:04	00:17:06	I've got a sick mother and rent to pay.
+235	00:17:06	00:17:08	Well, I just have a couple of questions.
+236	00:17:08	00:17:10	At Denny Kingsley's, you were smoking a pipe.
+237	00:17:12	00:17:14	Yeah... a Meerschaum.
+238	00:17:14	00:17:16	I'm going to need it.
+239	00:17:16	00:17:17	Why?
+240	00:17:17	00:17:20	Let me worry about that, okay?
+241	00:17:22	00:17:24	Uh, J.J., can you hand me my purse, please?
+242	00:17:24	00:17:25	Okay.
+243	00:17:36	00:17:38	Dr. Watson?
+244	00:17:38	00:17:40	I'm Sara Sidle with the Crime Lab.
+245	00:17:40	00:17:41	Hello.
+246	00:17:41	00:17:42	Do you have a minute?
+247	00:17:43	00:17:49	I'm here to collect your Meerschaum pipe as well as any other tobacco products you might have in your possession.
+248	00:17:49	00:17:52	I don't smoke anything illegal.
+249	00:17:52	00:17:53	You haven't been accused of that.
+250	00:17:53	00:17:56	Anyway, my pipe is at home.
+251	00:17:56	00:17:58	No problem. Let's go.
+252	00:17:58	00:18:00	Look, I'm working.
+253	00:18:00	00:18:03	We've already talked to your boss, and I have a warrant.
+254	00:18:03	00:18:04	Let me get that for you.
+255	00:18:10	00:18:14	Were you wearing those shoes at your last club meeting?
+256	00:18:14	00:18:19	Yeah. They're not technically right for the period, but black leather shoes are black leather shoes.
+257	00:18:19	00:18:22	I'm not the same stickler for detail that Denny was.
+258	00:18:22	00:18:24	Apparently not.
+259	00:18:24	00:18:26	Vic was physically fit.
+260	00:18:26	00:18:30	Scratches and abrasions are antemortem, unrelated to the accident.
+261	00:18:30	00:18:33	The contusion on the forehead was, uh, superficial, right?
+262	00:18:33	00:18:34	You are right.
+263	00:18:34	00:18:36	Okay, so what's the cause of death, Doc?
+264	00:18:37	00:18:38	Undetermined.
+265	00:18:39	00:18:41	But you're still working on it, right?
+266	00:18:41	00:18:43	Unless some other evidence comes to light, I'm done.
+267	00:18:43	00:18:45	Sometimes I can't tell you why they die.
+268	00:18:53	00:18:54	What you got?
+269	00:18:54	00:18:56	Passenger door latch is busted.
+270	00:18:56	00:18:58	It could've happened during the accident.
+271	00:18:58	00:19:00	Well, that is consistent with the roommate's story.
+272	00:19:00	00:19:03	Says he wasn't in the passenger seat during the time of the crash.
+273	00:19:03	00:19:05	What'd you get back from Tox?
+274	00:19:05	00:19:08	Tox came back positive for low levels of cannabis.
+275	00:19:08	00:19:16	I know marijuana slows your reaction time, but based on the lack of skid marks at the scene, the position of the vehicle, I don't think this guy ever hit the brakes.
+276	00:19:16	00:19:17	Well, maybe he did hit the brakes.
+277	00:19:17	00:19:18	Did you check 'em?
+278	00:19:18	00:19:20	Come on, you're a bigger boy than me.
+279	00:19:20	00:19:23	Yeah, you can't do anything yourself, can you?
+280	00:19:27	00:19:29	You ready?
+281	00:19:29	00:19:31	Yeah, yeah, put your back into it.
+282	00:19:35	00:19:37	Brakes work.
+283	00:19:37	00:19:41	Brake lights are working, so that means the battery's okay.
+284	00:19:41	00:19:42	Yeah, but the gauges are all off.
+285	00:19:42	00:19:44	The panel's not even working.
+286	00:19:44	00:19:50	Okay, ignition was on, but the engine wasn't running, so... what?
+287	00:19:50	00:19:51	No gas?
+288	00:19:53	00:19:56	That tank is full of fuel, man.
+289	00:19:56	00:19:58	Cory was in good shape.
+290	00:19:58	00:20:02	The Jeep seems to be in decent condition, so...
+291	00:20:02	00:20:04	what happened out there?
+292	00:20:04	00:20:06	Swing shift's short a couple of bodies.
+293	00:20:06	00:20:08	Yes, and when is that going to change?
+294	00:20:08	00:20:10	Not anytime soon-- Catherine, there are budget constraints.
+295	00:20:11	00:20:12	You'll have to prioritize.
+296	00:20:12	00:20:14	Should we come back?
+297	00:20:14	00:20:15	No, no, no, come on in.
+298	00:20:15	00:20:18	So, how's your, uh, your surfer dude case?
+299	00:20:18	00:20:23	Uh, the victim's roommate admits they got high together, but denies being in the Jeep at the time of the accident.
+300	00:20:23	00:20:25	At this point, we can't place him there.
+301	00:20:25	00:20:27	Brakes on the Jeep were functioning.
+302	00:20:27	00:20:29	The driver should've been able to stop.
+303	00:20:29	00:20:30	Any signs of foul play?
+304	00:20:30	00:20:31	No.
+305	00:20:31	00:20:33	Something's not right.
+306	00:20:33	00:20:35	All right, nothing suspicious and no crime's committed?
+307	00:20:35	00:20:36	Put the case to bed.
+308	00:20:36	00:20:39	I'm sure your supervisor can keep you busy.
+309	00:20:39	00:20:41	Close it.
+310	00:20:42	00:20:45	Sounds like he's more concerned with getting it done than getting it right.
+311	00:20:45	00:20:46	Are you guys satisfied?
+312	00:20:47	00:20:49	We don't have an answer.
+313	00:20:49	00:20:51	Then get one.
+314	00:20:51	00:20:52	What about Eckley?
+315	00:20:53	00:20:56	My problem, not yours.
+316	00:22:08	00:22:10	You nervous?
+317	00:22:10	00:22:12	A little.
+318	00:22:12	00:22:13	Relax.
+319	00:22:13	00:22:14	Relax.
+320	00:22:14	00:22:18	Just two law enforcement professionals talking to one another, that's all.
+321	00:22:18	00:22:21	I'm a security guard. Don't patronize me.
+322	00:22:21	00:22:24	I bet you always wanted to be a cop, am I right?
+323	00:22:24	00:22:26	So what happened?
+324	00:22:26	00:22:28	Flunk the physical?
+325	00:22:28	00:22:29	Huh?
+326	00:22:29	00:22:31	That's okay; lot of guys do.
+327	00:22:31	00:22:33	No?
+328	00:22:33	00:22:35	What was it then, psych?
+329	00:22:35	00:22:37	I was on medication.
+330	00:22:37	00:22:40	You can't be a cop if you're on this medication.
+331	00:22:40	00:22:42	But you can be Sherlock Holmes.
+332	00:22:42	00:22:44	I was Dr. Watson...
+333	00:22:44	00:22:46	in our club.
+334	00:22:47	00:22:48	Denny was Sherlock Holmes.
+335	00:22:48	00:22:50	There can only be one.
+336	00:22:50	00:22:53	So, when Denny wasn't there, you could be Sherlock.
+337	00:22:53	00:22:55	I suppose.
+338	00:22:55	00:22:57	That why you killed him?
+339	00:22:57	00:22:58	I didn't kill him.
+340	00:22:58	00:23:04	Denny was a friend, and if I wanted to be Sherlock, all I had to do was wait.
+341	00:23:04	00:23:05	Denny was quitting.
+342	00:23:06	00:23:07	We talked about it a lot.
+343	00:23:07	00:23:09	He said he was going back to his wife.
+344	00:23:09	00:23:14	So you went to his house, you shot him, and then you left, and you came back later with your pals and acted like nothing happened.
+345	00:23:14	00:23:16	I went straight home after work.
+346	00:23:16	00:23:22	His blood on your shoe, tobacco ash from your pipe on the carpet next to his body-- that puts you where he was killed.
+347	00:23:23	00:23:24	No way.
+348	00:23:24	00:23:26	fact and fiction.
+349	00:23:26	00:23:27	I know that.
+350	00:23:27	00:23:29	fiction.
+351	00:23:29	00:23:32	fact.
+352	00:23:32	00:23:33	fiction.
+353	00:23:33	00:23:37	No, I swear. God help me, I'm telling the truth.
+354	00:23:37	00:23:41	I-I wasn't there. I didn't kill Denny.
+355	00:23:41	00:23:45	DNA confirms that the blood on Watson's shoe is a match to your vic.
+356	00:23:45	00:23:47	We got him.
+357	00:23:47	00:23:49	Feel like celebrating after shift?
+358	00:23:50	00:23:52	I'm buying.
+359	00:23:52	00:23:53	These blood drops aren't uniform.
+360	00:23:53	00:23:57	Some of them are clotted red cells, but others are pure serum.
+361	00:24:00	00:24:03	It takes at least 20 minutes for blood to clot and separate.
+362	00:24:03	00:24:06	If Watson killed Sherlock, the blood drops on his shoe would all be the same.
+363	00:24:06	00:24:09	The killer takes some of the victim's blood at the scene...
+364	00:24:11	00:24:16	...the red blood cells in the serum separate and get sprayed on the shoe later.
+365	00:24:17	00:24:19	Somebody's trying to frame Watson.
+366	00:24:22	00:24:24	Jeez, all his stuff is up for auction.
+367	00:24:25	00:24:26	This is Dennis Kingsley's entire collection.
+368	00:24:26	00:24:28	He's getting rid of everything.
+369	00:24:28	00:24:29	Might have needed the cash?
+370	00:24:30	00:24:31	I don't know.
+371	00:24:31	00:24:33	Maybe he was just trying to get back to reality.
+372	00:24:33	00:24:35	Hold it.
+373	00:24:35	00:24:38	Murder weapon was a Colt .45 revolver, current whereabouts unknown.
+374	00:24:38	00:24:41	Huh, I thought you were looking for a book.
+375	00:24:41	00:24:43	We are. We ran DNA on this blood stain.
+376	00:24:43	00:24:46	It's not the victim's, and there's no hits through CODIS.
+377	00:24:47	00:24:49	You think it's the killer's? Maybe.
+378	00:24:49	00:24:50	Come on, let's keep going.
+379	00:24:50	00:24:53	There it is-- The Hound of the Baskervilles.
+380	00:24:55	00:24:58	When he photographed it, there was no blood on the pages.
+381	00:24:58	00:25:00	Can you pull up the bidding history?
+382	00:25:00	00:25:01	Yes, I can.
+383	00:25:01	00:25:04	Let's see who's interested.
+384	00:25:04	00:25:05	Huh.
+385	00:25:05	00:25:06	Reichenbach.
+386	00:25:06	00:25:08	What's the big deal about that?
+387	00:25:08	00:25:09	Reichenbach Falls?
+388	00:25:13	00:25:16	It's where Professor Moriarty killed Sherlock Holmes.
+389	00:25:18	00:25:21	The 1902 first British Edition of The Hound?
+390	00:25:21	00:25:22	Of course I wanted it.
+391	00:25:22	00:25:24	I'm a doctoral candidate in English history.
+392	00:25:24	00:25:30	I helped Denny create that astonishing verisimilitude of Sir Arthur Conan Doyle's Britain. Order!
+393	00:25:32	00:25:35	He was selling the collection off in pieces.
+394	00:25:35	00:25:36	It must have pissed you off.
+395	00:25:36	00:25:38	He was a self-destructive narcissist.
+396	00:25:38	00:25:41	If he had to give it up, we all had to give it up.
+397	00:25:41	00:25:43	And you weren't willing to do that?
+398	00:25:43	00:25:47	As you can see, the modest stipend I get from my graduate studies doesn't go far.
+399	00:25:47	00:25:51	What I offered for The Hound is every penny I had. Order!
+400	00:25:51	00:25:54	But then he put it up for auction, and made you bid for it.
+401	00:25:54	00:25:58	When the price got too high, you confronted him.
+402	00:25:59	00:26:01	That is empty speculation, my friend.
+403	00:26:01	00:26:04	Hold out your hands for me, please?
+404	00:26:04	00:26:05	My hands?
+405	00:26:05	00:26:06	Yeah.
+406	00:26:06	00:26:07	Your hands.
+407	00:26:09	00:26:10	Fine.
+408	00:26:12	00:26:15	Ooh, that looks like a paper cut to me.
+409	00:26:15	00:26:17	Are we gonna find your blood on that book?
+410	00:26:18	00:26:19	If you can't pay me what it's worth...
+411	00:26:19	00:26:21	Oh, come on, you owe me as much.
+412	00:26:21	00:26:22	Come on. Come...
+413	00:26:22	00:26:24	Give it! Ow!
+414	00:26:24	00:26:25	Bloody hell, Dennis.
+415	00:26:27	00:26:30	Fine, fine, fine.
+416	00:26:30	00:26:34	Yes, I stopped by Dennis's house earlier that evening to make my case, but I didn't kill him.
+417	00:26:34	00:26:37	If I had, believe me, I would have taken that book.
+418	00:26:39	00:26:41	Tow truck will be here in about an hour.
+419	00:26:41	00:26:42	All right, we're on the clock.
+420	00:26:42	00:26:44	Let's take this thing apart.
+421	00:27:36	00:27:41	Hey, I've got some blown fuses and some fried wiring up here.
+422	00:27:41	00:27:42	Yeah?
+423	00:27:42	00:27:43	Yeah.
+424	00:27:43	00:27:45	I've got some burn marks on the undercarriage.
+425	00:27:45	00:27:48	And I found something similar on the roll bar, as well.
+426	00:27:48	00:27:50	Well, that would indicate some sort of electrical shock.
+427	00:27:50	00:27:56	Well, if an electrical charge traveled through the Jeep, and shorted out the wiring, it would have shocked Cory, as well.
+428	00:27:57	00:27:57	Like what, lightning?
+429	00:27:58	00:28:01	Yeah, but it was clear yesterday.
+430	00:28:01	00:28:04	Whatever it was, it zapped the hell out of his Jeep.
+431	00:28:04	00:28:06	Let's go back out there and check it out.
+432	00:28:11	00:28:15	Cory was coming from Lake Mead, which is that way.
+433	00:28:15	00:28:16	Let's walk.
+434	00:28:16	00:28:18	Yeah.
+435	00:28:38	00:28:40	Wire trimmings.
+436	00:28:40	00:28:42	They look fresh.
+437	00:28:52	00:28:55	Looks like a new splice on those wires.
+438	00:28:55	00:28:58	Well, the power company originally called that Jeep in.
+439	00:28:58	00:29:00	They must have been out here fixing the lines.
+440	00:29:00	00:29:01	Maybe it was a down line.
+441	00:29:02	00:29:05	That would give us the high voltage power source right there.
+442	00:29:05	00:29:11	Yeah, but even if a live wire struck the roll bar, the tires would have insulated the vehicle.
+443	00:29:11	00:29:14	Right. Without a path to ground, electricity is harmless.
+444	00:29:16	00:29:18	What about that road marker?
+445	00:29:31	00:29:35	It's bent in the direction Cory was driving.
+446	00:29:35	00:29:36	Black transfer.
+447	00:29:36	00:29:38	Wasn't the undercarriage of Cory's Jeep black?
+448	00:29:42	00:29:44	This marker would have grounded the Jeep.
+449	00:29:44	00:29:50	Completing the circuit, and theoretically, electrocuting the vehicle.
+450	00:30:20	00:30:22	I want to go back to the crime scene.
+451	00:30:24	00:30:32	The grips of Dennis Kingsley's antique Colt .45 were mother of pearl, consistent with the chip collected here.
+452	00:30:32	00:30:38	I identified trace on the edge of that chip, and it's red clay dust.
+453	00:30:40	00:30:44	The fire's fake, but these red clay bricks are real.
+454	00:30:45	00:30:47	So, what are you looking for?
+455	00:30:47	00:30:49	Well, the killer obviously left with the gun.
+456	00:30:49	00:30:57	And if there was some kind of struggle, maybe the killer left behind some skin fragments or a strand of hair.
+457	00:31:01	00:31:05	Was there any evidence of a struggle in this room?
+458	00:31:05	00:31:07	Not really.
+459	00:31:15	00:31:17	Well, so much for the obvious.
+460	00:31:27	00:31:29	He committed suicide?
+461	00:31:29	00:31:30	The man was a credit to his genre.
+462	00:31:30	00:31:34	He runs a loop of surgical tubing through the weapon secured inside the chimney.
+463	00:31:34	00:31:37	A shot of morphine a few minutes earlier takes the edge off.
+464	00:31:37	00:31:41	And it provides extra insurance in case the gun doesn't finish the job.
+465	00:31:43	00:31:48	It would have been easy for him to plant Watson's brand of tobacco ash on his floor.
+466	00:31:48	00:31:54	I figure, Sherlock drew his own blood in advance and then sprayed it on Watson's shoe at their last meeting.
+467	00:31:54	00:31:56	The world's greatest detective makes suicide look like murder?
+468	00:31:58	00:32:02	Why would he try and frame his best friend in the process?
+469	00:32:02	00:32:05	Well, Watson said they were friends, but who knows what kind of relationship they really had.
+470	00:32:06	00:32:07	Maybe they hated each other.
+471	00:32:07	00:32:10	Maybe Dennis couldn't stand the thought of anyone else being Sherlock.
+472	00:32:10	00:32:12	Besides, I thought motive wasn't our business.
+473	00:32:12	00:32:15	It's not.
+474	00:32:16	00:32:20	Write it up, give the report to Grissom.
+475	00:32:21	00:32:22	Way to go.
+476	00:32:22	00:32:24	All right.
+477	00:33:41	00:33:42	What...
+478	00:33:42	00:33:44	What is going on?
+479	00:33:44	00:33:46	We're finishing up the case.
+480	00:33:48	00:33:50	Do you know how much Ballistic Joe costs?
+481	00:33:50	00:33:52	I didn't know you did.
+482	00:33:52	00:33:56	I just thought you guys were gonna go over your notes, look over the case file.
+483	00:33:56	00:33:57	Well, hold on now.
+484	00:33:57	00:34:01	We found electrical burn marks on the roll bar and the Jeep's undercarriage.
+485	00:34:01	00:34:05	And we found blown out fuses on the instrument panel and the starter.
+486	00:34:05	00:34:07	That would explain why the Jeep wasn't running.
+487	00:34:07	00:34:11	Yeah, we called Nevada power, and they confirmed there was a downed power line the day of the accident.
+488	00:34:11	00:34:13	So, you're saying the victim was electrocuted?
+489	00:34:13	00:34:15	Yeah.
+490	00:34:15	00:34:20	So we replaced the fuses, we connected the Jeep to a power source, and we hooked up Gelatin Man here to a hand meter.
+491	00:34:22	00:34:26	Watch it wiggle, see it jiggle, I get it.
+492	00:34:28	00:34:31	Well, you're gonna need at least six milliamps to prove your theory.
+493	00:34:33	00:34:36	I'm on it.
+494	00:34:50	00:34:52	Congratulations.
+495	00:34:52	00:34:54	You killed the Jeep, but the victim's still alive.
+496	00:34:54	00:34:56	The current never even made it past zero.
+497	00:34:56	00:35:00	So, either your theory is wrong, or you've got a problem with your experiment.
+498	00:35:00	00:35:04	Are there any variables in the case that haven't been duplicated here?
+499	00:35:04	00:35:06	Same vehicle, power's good.
+500	00:35:06	00:35:08	So, why isn't Mr. Wiggles connecting?
+501	00:35:11	00:35:14	He's naked.
+502	00:35:14	00:35:18	Well, let's dress him up.
+503	00:35:39	00:35:44	So, the current came into the vehicle from the roll bar, and it went out through the undercarriage.
+504	00:35:44	00:35:46	It needed an entry point and exit point.
+505	00:35:46	00:35:51	Entry through the, uh, the watch on his wrist and then exit through the rivets in his shorts.
+506	00:35:51	00:35:54	Right across his heart, stopping it cold.
+507	00:36:09	00:36:15	So I know that I've never said this to you guys before, but... hide the evidence.
+508	00:36:16	00:36:17	Thanks for getting our back.
+509	00:36:17	00:36:20	We're a team, guys.
+510	00:36:20	00:36:22	Oh, since we're a team, you gonna help us clean up?
+511	00:36:22	00:36:23	Yeah. ( laughing )
+512	00:36:25	00:36:27	No. I'm the boss.
+513	00:36:31	00:36:35	I thought you told me you closed the Cory Demayo case.
+514	00:36:35	00:36:39	Catherine, nothing happens in this lab that I don't know about.
+515	00:36:39	00:36:42	Then I'm sure you know the case is now closed.
+516	00:36:42	00:36:44	Did I make a mistake promoting you?
+517	00:36:44	00:36:48	Yeah, you should have given me the day shift.
+518	00:36:48	00:36:49	But I'm making it work.
+519	00:37:30	00:37:31	Greg.
+520	00:37:33	00:37:34	Hey, MTV boy.
+521	00:37:37	00:37:38	I have a question about your report.
+522	00:37:38	00:37:39	Okay.
+523	00:37:39	00:37:43	According to autopsy, the victim showed long-term effects of cocaine abuse.
+524	00:37:43	00:37:44	That's right.
+525	00:37:44	00:37:50	But according to Tox, the substance in the victim's syringe was a seven percent solution of morphine.
+526	00:37:50	00:37:52	Yeah.
+527	00:37:52	00:37:53	The victim was an obsessive compulsive.
+528	00:37:53	00:37:59	In the stories, Holmes' preferred stimulant was a seven percent solution of cocaine, not morphine.
+529	00:38:00	00:38:02	Evidence out of context.
+530	00:38:02	00:38:08	Did you ever consider the possibility that the victim didn't realize what he was injecting himself with?
+531	00:38:08	00:38:10	No.
+532	00:38:11	00:38:15	You think someone switched his coke with morphine?
+533	00:38:15	00:38:20	You found the victim's fingerprints on the gun, but you found no prints on the surgical tubing, no epithelials either.
+534	00:38:20	00:38:23	Does that make sense if it was a suicide?
+535	00:38:24	00:38:26	I guess not.
+536	00:38:26	00:38:30	Do you have any other suspects who have access to morphine or surgical tubing?
+537	00:38:32	00:38:34	I can find out.
+538	00:38:34	00:38:36	I would do that.
+539	00:38:47	00:38:50	I went through the medical records for all of our suspects.
+540	00:38:51	00:38:55	As far as I can tell, none of them have ever been prescribed morphine.
+541	00:38:55	00:38:57	I think Watson's our best bet.
+542	00:38:57	00:39:02	The guy is a security guard at Desert Palms; he was certainly around morphine.
+543	00:39:07	00:39:09	Tobacco leaves.
+544	00:39:10	00:39:12	Run a quick comparison.
+545	00:39:12	00:39:14	This has to belong to one of our suspects.
+546	00:39:17	00:39:19	Do you like your life?
+547	00:39:19	00:39:21	What kind of question is that?
+548	00:39:21	00:39:25	Well, I mean, I've seen how happy you are at work.
+549	00:39:25	00:39:30	And then I know you come home to Mom and I guess she has terminal cancer.
+550	00:39:30	00:39:30	That's got to be tough.
+551	00:39:30	00:39:34	Yeah, well, you try giving enough attention to someone who never gave you any.
+552	00:39:34	00:39:38	But the Sherlock Holmes club, that's got to be one bright spot, hmm?
+553	00:39:38	00:39:43	The one place I could go every week where no one was grabbing my butt or staring at my breasts.
+554	00:39:43	00:39:45	The one place I could talk, think.
+555	00:39:45	00:39:53	You must have been pretty devastated when Dennis Kingsley decided to break up the club, huh?
+556	00:39:53	00:39:55	It was a disappointment.
+557	00:39:55	00:40:00	Next week will be the final meeting of our society.
+558	00:40:00	00:40:08	But I give you my word, it shall be an evening none of you will ever forget.
+559	00:40:08	00:40:10	I think it's a lot more than that.
+560	00:40:10	00:40:12	I don't know what you mean.
+561	00:40:12	00:40:15	Well...
+562	00:40:15	00:40:20	the tobacco-- your blend is Cavendish.
+563	00:40:22	00:40:28	Okay, why don't I tell this like a story, you know, like the end of a story, all right?
+564	00:40:28	00:40:31	Because I like the part where the detectives solves the crime.
+565	00:40:31	00:40:32	So here goes.
+566	00:40:32	00:40:35	On the day of the murder, you broke into Denny Kingsley's house.
+567	00:40:35	00:40:37	That's easy enough, the lock's crummy.
+568	00:40:37	00:40:38	You snuck downstairs.
+569	00:40:38	00:40:43	You replaced his cocaine with morphine, because you knew he was a creature of habit.
+570	00:40:43	00:40:44	So now all you had to do is wait.
+571	00:40:58	00:41:03	So you sprinkle some of Dr. Watson's pipe tobacco in the carpet.
+572	00:41:03	00:41:08	You scoop up some of Denny's blood, to splash on Watson's shoes later.
+573	00:41:08	00:41:11	Why the elaborate frame-up of Watson?
+574	00:41:11	00:41:13	He had as much to lose as you.
+575	00:41:13	00:41:17	Because he's the one that told Denny to give it all up and go back to his family.
+576	00:41:17	00:41:22	Because he's the one that wanted to be Sherlock Holmes, because he didn't care what it was doing to me.
+577	00:41:31	00:41:34	You see, Detective...
+578	00:41:36	00:41:41	Denny would have wanted his murder to be the perfect puzzle.
+579	00:41:41	00:41:46	A mystery worthy of the master.
+580	00:41:56	00:42:00	Hey, Greg, Grissom wants to see you.
+581	00:42:00	00:42:03	Like now, in his office.
+582	00:42:14	00:42:15	Grissom.
+583	00:42:15	00:42:16	You wanted to see me.
+584	00:42:20	00:42:22	Yeah!
+585	00:42:22	00:42:24	Yeah.
+586	00:42:28	00:42:30	Well done.
+587	00:42:30	00:42:32	I'm proud of you.
+588	00:42:32	00:42:34	Congratulations, Sanders. Good work.
+589	00:42:34	00:42:36	Thank you.
+590	00:42:37	00:42:40	Okay, gang, there's people to put in jail.
+591	00:42:40	00:42:42	Let's get back to it, shall we?
+592	00:42:42	00:42:43	Come on, come on, now.
+593	00:42:43	00:42:45	Party's over. Let's go.
+594	00:42:48	00:42:49	Good job.
+595	00:42:52	00:42:54	I don't get it.
+596	00:42:54	00:42:58	I got the wrong guy, the wrong manner of death.
+597	00:42:58	00:43:01	I don't expect you to be correct in all your interpretations all the time.
+598	00:43:01	00:43:03	You collected the evidence.
+599	00:43:03	00:43:08	You thought there was something missing, you went back and found it.
+600	00:43:08	00:43:10	Hey, that's the job.
+601	00:43:10	00:43:12	Congratulations, Greg.
+602	00:43:12	00:43:15	Thank you.
+603	00:43:24	00:43:26	Cheers. To you.

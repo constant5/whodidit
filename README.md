@@ -10,7 +10,9 @@ cleaned SRT files
     removed music
     removed some special chars
     combined sub that span a sentence
-
+    removed speaker and emphasis designators
+    removed double quotes
+    changed to tab-separated files
 
 next steps
     1. redo some of the sub cleaning

@@ -1,767 +1,717 @@
-,start,end,text
-0,00:00:01,00:00:05,Previously on CSI... I talked to that lawyer-- he's arranging a meeting with the FBI.
-1,00:00:05,00:00:08,"I haven't seen Laura in two weeks, since she talked to the lawyer you sent her to."
-2,00:00:08,00:00:10,SIDLE: The hit was professional.
-3,00:00:10,00:00:11,"Clean-up was professional, too."
-4,00:00:11,00:00:13,You remember Special Agents Pratt and McQuaid?
-5,00:00:13,00:00:14,I'll be with her the whole time.
-6,00:00:14,00:00:16,WILLOWS: You got my friend killed!
-7,00:00:16,00:00:18,How could you let this happen?
-8,00:00:18,00:00:20,(automatic gunfire)
-9,00:00:20,00:00:21,Get in.
-10,00:00:43,00:00:45,"Hey, Russell..."
-11,00:00:48,00:00:51,(keypad beeping)
-12,00:00:51,00:00:53,"Hey, D.B., it's Nick."
-13,00:00:53,00:00:59,"Listen, I got a lead on the money trail from Mark Gabriel's company to his hit squad via the Swiss bank account."
-14,00:00:59,00:01:03,"So, you need to call me back so I can fill you in, all right?"
-15,00:01:03,00:01:05,"(beeps) Hey, Sara."
-16,00:01:05,00:01:08,You seen Catherine? No. You probably won't for a few days.
-17,00:01:08,00:01:09,What do you mean? You haven't heard?
-18,00:01:09,00:01:12,Heard what? Laura Gabriel was murdered in FBI custody.
-19,00:01:12,00:01:14,"Well, how'd that happen?"
-20,00:01:14,00:01:16,One of Mark Gabriel's hit squad infiltrated the protection detail.
-21,00:01:16,00:01:18,McQuaid and three other agents were killed.
-22,00:01:18,00:01:23,"Catherine went off on Agent Pratt at the crime scene, and Russell sent her home to cool off. Yeah, where is Russell?"
-23,00:01:23,00:01:27,"(phone rings) Call out, downtown motel-- I saw him hightail it out of here."
-24,00:01:27,00:01:29,Stokes.
-25,00:01:29,00:01:30,"Yeah, yeah, we're looking for him right now."
-26,00:01:30,00:01:32,"Okay, we'll handle it."
-27,00:01:32,00:01:36,"What now? Got a 434, shots fired at the corner of Jupiter and Fairwick."
-28,00:01:36,00:01:37,20 minutes ago.
-29,00:01:37,00:01:40,Southern Highlands? That's Catherine's neighborhood.
-30,00:01:40,00:01:44,I got a bad feeling about this.
-31,00:01:44,00:01:47,(siren whooping)
-32,00:01:47,00:01:48,Hey.
-33,00:01:48,00:01:50,Why'd you guys call me over to Catherine's house?
-34,00:01:50,00:01:52,434 is five blocks that way.
-35,00:01:52,00:01:55,We've been trying to reach her. She's MIA.
-36,00:01:55,00:01:56,Nick...
-37,00:01:59,00:02:05,"Five-point-seven. That's the same caliber Gabriel's guys use. What do you want to bet somebody called in the wrong address, bought themselves some time?"
-38,00:02:12,00:02:14,Catherine?
-39,00:02:15,00:02:17,"Hey, Catherine?"
-40,00:02:21,00:02:22,Doorknob's been wiped clean.
-41,00:02:22,00:02:24,There's not a speck of dust.
-42,00:02:24,00:02:25,I smell ethanol.
-43,00:02:25,00:02:28,Just like Malcolm Turner's law office.
-44,00:02:34,00:02:36,Bullet hole.
-45,00:02:36,00:02:38,Frame's been repaired.
-46,00:02:38,00:02:40,So has the bookcase here.
-47,00:02:49,00:02:51,"Catherine's backup gun is gone. Well, that's good."
-48,00:02:51,00:02:52,"Right? I mean, that means that she had time to get it, right?"
-49,00:02:52,00:02:55,(phone ringing) That she needs it is bad.
-50,00:02:55,00:02:57,Stokes.
-51,00:02:58,00:03:00,"Oh, no."
-52,00:03:00,00:03:02,"Okay, we're 10-39."
-53,00:03:02,00:03:06,Patrol spotted Russell's SUV abandoned near the 215.
-54,00:03:06,00:03:07,That's a couple of blocks from his motel call-out.
-55,00:03:07,00:03:09,And they said it's all shot to hell.
-56,00:03:09,00:03:13,(siren wailing)
-57,00:03:13,00:03:16,(helicopter approaching)
-58,00:03:16,00:03:17,Doesn't look good.
-59,00:03:17,00:03:19,There's blood in the backseat.
-60,00:03:19,00:03:20,A lot of it.
-61,00:03:23,00:03:26,BRASS: Dispatch couldn't get Russell on his cell phone.
-62,00:03:26,00:03:28,The walkie's still in the car.
-63,00:03:28,00:03:30,Blood trail... heads off that way.
-64,00:03:30,00:03:34,"STOKES: Well, we found a 5.7 shell casing outside of Catherine's house."
-65,00:03:34,00:03:39,"We also smelled ethanol inside-- evidence pointing to a shootout, but the place was cleaned up."
-66,00:03:39,00:03:41,SIDLE: It's got Gabriel's hit squad written all over it.
-67,00:03:41,00:03:43,There's no Catherine.
-68,00:03:43,00:03:44,Russell's unreachable.
-69,00:03:44,00:03:49,"There's blood in the backseat, none in the front."
-70,00:03:49,00:03:51,Maybe Catherine was wounded.
-71,00:03:51,00:03:53,Russell was coming to her aid.
-72,00:03:53,00:03:54,But why didn't they call it in?
-73,00:03:54,00:03:58,"On the run, guys shooting at them-- maybe they didn't have time."
-74,00:03:58,00:04:01,Maybe they didn't think it was safe to use their cell phones.
-75,00:04:01,00:04:08,"If this is Gabriel's black ops boys, they have all kinds of toys to hack our communications and listen in."
-76,00:04:08,00:04:10,Who you calling?
-77,00:04:10,00:04:11,(phone ringing nearby)
-78,00:04:14,00:04:16,(phone continues ringing)
-79,00:04:16,00:04:19,(phone stops ringing)
-80,00:04:19,00:04:20,It's Catherine's cell.
-81,00:04:20,00:04:23,SIDLE: They ditched their phones.
-82,00:04:23,00:04:24,(phone ringing nearby)
-83,00:04:27,00:04:30,(phone continues ringing)
-84,00:04:32,00:04:34,It's Russell's cell phone.
-85,00:04:34,00:04:36,(ringing continues)
-86,00:04:37,00:04:39,"Oh, man, it's his wife calling."
-87,00:04:42,00:04:43,I'll take that.
-88,00:04:43,00:04:48,(ringing continues) This is your crime scene...
-89,00:04:48,00:04:51,but this is my call.
-90,00:04:54,00:04:57,Mrs. Russell...
-91,00:04:57,00:04:59,this is Jim Brass.
-92,00:05:33,00:05:35,"Yeah, and hey, get me a flatbed down here as soon as possible."
-93,00:05:35,00:05:38,I got to get this Denali back to the garage.
-94,00:05:38,00:05:40,Yeah.
-95,00:05:40,00:05:42,"Hey, I got to take this."
-96,00:05:42,00:05:43,All right.
-97,00:05:43,00:05:45,(phone beeps)
-98,00:05:45,00:05:47,"Morgan, listen, there's been a little change of plans."
-99,00:05:47,00:05:49,The Denali scene is now Code Four.
-100,00:05:49,00:05:50,The blood trail went cold.
-101,00:05:50,00:05:52,I need you to redirect to Catherine's house.
-102,00:05:52,00:05:54,Greg's on the way.
-103,00:05:54,00:05:55,"Start on the perimeter, we'll meet you there."
-104,00:05:55,00:05:57,"Hey, Hodges."
-105,00:05:57,00:06:02,"Yeah? Do me a favor and wait here for auto detail, then follow that Denali back to the lab, okay?"
-106,00:06:02,00:06:04,I'm on it. Thanks.
-107,00:06:04,00:06:09,"Henry, I'm gonna need you to run that blood against Catherine and Russell, okay?"
-108,00:06:09,00:06:11,"Hey, Henry, you with me?"
-109,00:06:11,00:06:13,Yeah. I just can't help but think...
-110,00:06:13,00:06:15,"Well, don't think, man, just do it."
-111,00:06:15,00:06:18,"Okay? Hey, did Catherine say anything to you about quitting?"
-112,00:06:18,00:06:25,"No, why? She sent a resignation e-mail to Russell. Well, if she was gonna leave, she would've told us first."
-113,00:06:25,00:06:27,Right?
-114,00:06:27,00:06:29,Nothing's making sense right now.
-115,00:06:29,00:06:33,"Okay, I'm sticking with the plan-- radio silence."
-116,00:06:33,00:06:35,"If someone's listening in, they won't be hearing us."
-117,00:06:35,00:06:37,Now all communication will be face-to-face.
-118,00:06:37,00:06:40,The sheriff has agreed to wait an hour before she calls the Feds.
-119,00:06:40,00:06:42,That buys us some time; that's good.
-120,00:06:42,00:06:43,(phone rings)
-121,00:06:43,00:06:44,Stokes.
-122,00:06:44,00:06:46,ROBBINS: I'm at Russell's crime scene.
-123,00:06:46,00:06:48,He was scheduled to meet me here an hour ago.
-124,00:06:48,00:06:49,"Well, I got a situation here, man."
-125,00:06:49,00:06:51,I'll fill you in later.
-126,00:06:51,00:06:55,"I'll see if I can get us some help from the day shift. Okay, well, roll 'em when you can."
-127,00:06:55,00:06:58,"(phone beeps, text alert blips)"
-128,00:07:03,00:07:05,I thought you said this was the only D.B. here?
-129,00:07:05,00:07:07,"Only one I know of, Doc."
-130,00:07:17,00:07:18,You must be the doctor.
-131,00:07:18,00:07:19,What the hell's going on here?
-132,00:07:19,00:07:21,"Hey, Doc. Is that Catherine?"
-133,00:07:21,00:07:23,You're gonna have to patch her up here.
-134,00:07:23,00:07:25,We can't take her to a hospital.
-135,00:07:25,00:07:28,"She's been shot. Luckily, we ran into an old friend of hers."
-136,00:07:28,00:07:29,I'll fill you in later.
-137,00:07:29,00:07:32,"Kitty, thank you."
-138,00:07:32,00:07:34,You gotta be the last doc in Vegas to make house calls.
-139,00:07:34,00:07:37,"You got a card? Honey, you don't want me coming to your house."
-140,00:07:37,00:07:40,What do you think?
-141,00:07:40,00:07:43,I think she'd be better off in a hospital.
-142,00:07:43,00:07:47,PRATT: You people waited an hour to call me?
-143,00:07:47,00:07:48,I thought we were all on the same team here.
-144,00:07:48,00:07:56,"Seems to me, Agent Pratt, every time we call the FBI, somebody ends up dead. ECKLIE: Witnesses, your agents, my CSIs, all targeted, all on your watch."
-145,00:07:56,00:07:58,And now CSI Willows and Russell have gone missing?
-146,00:07:58,00:08:02,"Okay, look, you forget that my partner, McQuaid, is dead, all right?"
-147,00:08:02,00:08:07,You don't think I care about the safety of CSI Russell and Willows as much as you do? You sure about that?
-148,00:08:07,00:08:09,I'm sure of one thing-- I'm pulling rank.
-149,00:08:09,00:08:12,"From now on, everything goes through me. Oh, God..."
-150,00:08:12,00:08:13,Understood?
-151,00:08:13,00:08:16,Mark Gabriel's on his way down here demanding to see his wife's body.
-152,00:08:18,00:08:19,"Don't worry, we got your back."
-153,00:08:19,00:08:22,We'll scrape you off of the floor after he runs you over.
-154,00:08:22,00:08:24,"BRODY: Hey, Greg."
-155,00:08:24,00:08:26,Got a blood drop.
-156,00:08:26,00:08:28,And I found blood on the driveway leading from the front door.
-157,00:08:30,00:08:33,BRODY: Blood trail leads into the street.
-158,00:08:38,00:08:39,Blood pool.
-159,00:08:40,00:08:43,Car drove through it.
-160,00:08:43,00:08:46,Working theory...
-161,00:08:46,00:08:47,it's Catherine's.
-162,00:08:47,00:08:49,She's running from the shooters.
-163,00:08:49,00:08:52,"Wounded. She gets to the street, her blood's pooling..."
-164,00:08:52,00:08:54,Get in.
-165,00:08:54,00:08:55,Flags down a motorist...
-166,00:08:55,00:08:57,It's Russell.
-167,00:08:57,00:08:58,The shooters are closing in...
-168,00:08:58,00:09:01,"(automatic gunfire, bullets pinging)"
-169,00:09:01,00:09:04,"Then she jumps in the backseat, and they take off."
-170,00:09:04,00:09:09,"But if that's the case, whose blood is this over here?"
-171,00:09:09,00:09:12,Trail leads down the embankment.
-172,00:09:12,00:09:15,Let's see what we find on the other end.
-173,00:09:28,00:09:29,I've seen these bugs before.
-174,00:09:29,00:09:34,They're the same supercharged hide beetles that Gabriel's guys used on those bodies at the law firm.
-175,00:09:34,00:09:37,"Based on the timeline, it's only been here three or four hours."
-176,00:09:37,00:09:39,"The question is, who was he?"
-177,00:09:41,00:09:44,"(siren wailing, passing by)"
-178,00:09:44,00:09:46,How bad is it?
-179,00:09:46,00:09:49,"It's through and through, but it didn't hit anything vital."
-180,00:09:49,00:09:51,"Well, that's good. Beats the alternative."
-181,00:09:51,00:09:55,"You've lost a lot of blood, and there's only so much I can do."
-182,00:09:55,00:09:57,"You're doing fine, Doc."
-183,00:09:57,00:10:00,"Well, we've got to stop this bleeding."
-184,00:10:00,00:10:02,And the wound needs to be cauterized. Mm.
-185,00:10:02,00:10:05,"(siren wails, departing)"
-186,00:10:05,00:10:09,"Well, actually, you've got very beautiful hair, Miss Kitty."
-187,00:10:09,00:10:11,"Thanks, but I'm not doing you-- you a cop."
-188,00:10:11,00:10:15,RUSSELL: No. I just thought maybe you might have a curling iron in your purse.
-189,00:10:15,00:10:17,You some kind of Columbo or something?
-190,00:10:22,00:10:23,What do you think?
-191,00:10:23,00:10:25,"Yeah. Well, it's only gonna hurt for a moment."
-192,00:10:25,00:10:26,Once you go into shock...
-193,00:10:26,00:10:28,"Hell, y'all are serious."
-194,00:10:28,00:10:30,I guess if you need a hand or something...
-195,00:10:30,00:10:33,You're hired. Clean it with soap and water and warm it up.
-196,00:10:33,00:10:34,(groans softly)
-197,00:10:34,00:10:36,You got a bullet I can bite on?
-198,00:10:38,00:10:39,STOKES: Got a bullet here.
-199,00:10:41,00:10:43,Looks like a .40 cal.
-200,00:10:43,00:10:48,That's the same caliber as the bullets that killed Laura Gabriel's cousin and her husband at the farmhouse.
-201,00:10:48,00:10:50,STOKES: Same shooter maybe.
-202,00:10:50,00:10:52,I got a blood pool.
-203,00:10:52,00:10:58,Morgan thinks that Catherine wasn't hit until she was outside.
-204,00:10:58,00:11:00,Maybe Catherine got one of them.
-205,00:11:00,00:11:03,Cleaning crew missed the rug pad.
-206,00:11:03,00:11:05,Maybe we can get some DNA.
-207,00:11:08,00:11:10,You got any cash?
-208,00:11:10,00:11:11,ROBBINS: Couple of hundred.
-209,00:11:11,00:11:12,RUSSELL: Yeah. That'll do.
-210,00:11:12,00:11:14,"Miss Kitty, thank you."
-211,00:11:14,00:11:16,You've earned that.
-212,00:11:16,00:11:17,"You really, really hooked us up."
-213,00:11:17,00:11:20,"Here, I'd like to give these to you, too."
-214,00:11:20,00:11:22,Oh.
-215,00:11:22,00:11:24,Thank you.
-216,00:11:24,00:11:25,You saved my life.
-217,00:11:25,00:11:27,RUSSELL: Okay.
-218,00:11:27,00:11:29,This is a get-out-of-jail-free card.
-219,00:11:29,00:11:31,Don't abuse it.
-220,00:11:31,00:11:32,"And please, don't talk to anyone."
-221,00:11:32,00:11:35,These lips are sealed.
-222,00:11:35,00:11:36,"Didn't see nothing, don't know nothing."
-223,00:11:36,00:11:40,And you can hang me by my feet and pull out my acrylic nails with pliers.
-224,00:11:40,00:11:41,RUSSELL: All right.
-225,00:11:41,00:11:43,Let's go. Bye.
-226,00:11:43,00:11:45,RUSSELL: Bye.
-227,00:11:45,00:11:48,"D.B., Catherine's gonna need to sleep for a while."
-228,00:11:48,00:11:50,"I need you to get a message to Brass, okay?"
-229,00:11:50,00:11:53,Tell him to... tell him to bring us in.
-230,00:11:53,00:11:57,(indistinct background radio communication)
-231,00:12:00,00:12:01,Mitch?
-232,00:12:01,00:12:02,CSI is finished.
-233,00:12:02,00:12:04,They said we can release the scene.
-234,00:12:04,00:12:05,The body's been transported?
-235,00:12:05,00:12:07,Ten minutes ago.
-236,00:12:07,00:12:08,"Well, then, I am done, too."
-237,00:12:08,00:12:10,"Take care. Take care, Doc."
-238,00:12:23,00:12:26,(phone ringing)
-239,00:12:39,00:12:42,"ECKLIE: Mr. Gabriel, Undersheriff Ecklie. I believe you know..."
-240,00:12:42,00:12:44,Get him the hell out of here.
-241,00:12:44,00:12:46,"You killed my wife, you son of a bitch."
-242,00:12:46,00:12:48,And don't think being FBI will save you.
-243,00:12:48,00:12:50,I've got the director on my speed dial.
-244,00:12:50,00:12:52,You're the one who killed your wife and my partner.
-245,00:12:52,00:12:55,"If you think you can play the victim-- If this man remains, then I'm leaving."
-246,00:12:55,00:13:00,"And then, you, Undersheriff and Captain Brass, will speak to my attorneys while I speak to the press."
-247,00:13:00,00:13:03,"Agent Pratt, it looks like this one goes through us."
-248,00:13:03,00:13:05,I'm going to nail your ass.
-249,00:13:05,00:13:08,"Don't try and hide behind that frigging mirror, Boy Scout."
-250,00:13:10,00:13:12,I came here to see my wife.
-251,00:13:12,00:13:15,"Understood, but first, we'd like to ask you a few questions."
-252,00:13:15,00:13:17,I wasn't making a request.
-253,00:13:17,00:13:19,Neither were we. (knocking)
-254,00:13:19,00:13:20,"Jim, I need to see you..."
-255,00:13:20,00:13:22,"Doc, whatever it is, it's got to wait."
-256,00:13:22,00:13:24,It can't.
-257,00:13:24,00:13:27,(tires squealing)
-258,00:13:43,00:13:46,"(Brass groans, sighs)"
-259,00:13:46,00:13:47,We're too late.
-260,00:13:47,00:13:49,What the hell happened?
-261,00:13:54,00:13:56,"We're still maintaining radio silence, right? Yeah."
-262,00:13:56,00:13:59,So how'd the bad guys get here before we did? I don't know.
-263,00:13:59,00:14:01,"Maybe they showed up late for the party, too."
-264,00:14:01,00:14:03,The screen's off.
-265,00:14:03,00:14:06,Scuff marks.
-266,00:14:09,00:14:10,Maybe Catherine and Russell made a quick exit.
-267,00:14:10,00:14:13,"I'm gonna go talk to the manager, see if he saw something."
-268,00:14:13,00:14:15,I hope they made it out of here.
-269,00:14:18,00:14:21,"Yeah, that get-out-of-jail-free card-- that work for me, too?"
-270,00:14:21,00:14:23,Don't ask that when my friends are running for their lives.
-271,00:14:23,00:14:24,"Oh, well, let me rephrase then."
-272,00:14:24,00:14:27,"When y'all stop running, can a brother get one?"
-273,00:14:27,00:14:31,"If we get out of this alive, I'll get you one with revolving credit."
-274,00:14:31,00:14:33,"Yeah, I like the sound of that."
-275,00:14:33,00:14:34,"Hey, if there's any revolving credit, it's mine."
-276,00:14:34,00:14:37,I'm the one who spotted that guy in that raincoat.
-277,00:14:37,00:14:39,Knew his ass was up to no good.
-278,00:14:39,00:14:40,"Yeah, thank you for that call."
-279,00:14:40,00:14:42,What tipped you off?
-280,00:14:42,00:14:47,"Honey, in that neighborhood, the only suit a man wears under his trench coat is his birthday suit."
-281,00:14:47,00:14:50,RUSSELL: Spoken like a trained observer.
-282,00:14:50,00:14:55,"WILLOWS: In a couple of blocks, there's gonna be an alley on your right."
-283,00:14:56,00:14:57,"Hey, Doc."
-284,00:14:57,00:14:59,Hey. How's Catherine?
-285,00:14:59,00:15:00,She should be on some heavy-duty antibiotics.
-286,00:15:00,00:15:02,"You don't know, do you?"
-287,00:15:02,00:15:05,"What? She and Russell are still out there, man."
-288,00:15:05,00:15:07,"When Brass got to the motel, they were gone."
-289,00:15:07,00:15:09,He said it looked like they went out a bathroom window.
-290,00:15:09,00:15:11,Catherine's in no condition to be on the run. I know that.
-291,00:15:11,00:15:13,Certainly not with a hit team chasing her.
-292,00:15:13,00:15:15,"Well, let's hope that we get to them before they do."
-293,00:15:15,00:15:18,What can this stiff tell us about the guys who might be after them?
-294,00:15:18,00:15:21,"Uh, he appears to be a middle-aged, white male."
-295,00:15:21,00:15:24,Hide beetles consumed all of his skin and most of his tissue.
-296,00:15:24,00:15:27,He was shot four times. Check this out.
-297,00:15:27,00:15:32,"Three of the shots entered the mid-back, the fourth shot penetrated the frontal lobe."
-298,00:15:32,00:15:34,These look like 5.7's.
-299,00:15:34,00:15:36,I was thinking Catherine was the one who hit this guy.
-300,00:15:36,00:15:37,You were thinking wrong.
-301,00:15:37,00:15:42,Five-sevens suggest friendly fire from one of the other hit men.
-302,00:15:42,00:15:43,(gunfire)
-303,00:15:43,00:15:45,(grunting)
-304,00:15:48,00:15:49,"STOKES: Yeah, the coup de grâce to finish him off."
-305,00:15:53,00:15:56,Cloak and dagger is a little bit outside my area of expertise.
-306,00:15:56,00:16:01,"But if these black ops guys were so good at cleaning up crime scenes, why didn't they just take him with them?"
-307,00:16:01,00:16:03,"A wounded man would only slow them down, I guess."
-308,00:16:03,00:16:09,"But still, for pros, they sure have been making a lot of mistakes."
-309,00:16:09,00:16:10,"Here, put this on."
-310,00:16:10,00:16:12,You're gonna need to cover all that up.
-311,00:16:12,00:16:13,Thank you.
-312,00:16:13,00:16:18,"Hey, Jackory, hate to ask you for another favor, but I need a cell phone."
-313,00:16:18,00:16:19,Can I borrow one?
-314,00:16:19,00:16:21,"Swear to God, I'll get it back to you."
-315,00:16:25,00:16:26,(laughing): Oh.
-316,00:16:26,00:16:28,Take your pick.
-317,00:16:28,00:16:31,"Disposable, can't be traced. (laughs)"
-318,00:16:31,00:16:33,Thank you.
-319,00:16:33,00:16:36,"And I got a feeling you're going to be needing this, too."
-320,00:16:36,00:16:40,"Yeah, that's more, uh, Annie Oakley here."
-321,00:16:46,00:16:48,You may not be getting that back.
-322,00:16:48,00:16:50,"Darling, the way you're handling that piece, I think I will."
-323,00:16:52,00:16:55,"Thank you, guys."
-324,00:16:55,00:16:56,Thank you.
-325,00:16:56,00:16:58,KITTY: You two take care.
-326,00:17:00,00:17:03,This is your idea of a safe place to hide out?
-327,00:17:03,00:17:06,"When we're in Seattle, we can go to your coffeehouse."
-328,00:17:06,00:17:07,MAN: Yeah?
-329,00:17:07,00:17:09,"Yeah, I need to see Teddy Jr."
-330,00:17:09,00:17:10,You got a name?
-331,00:17:10,00:17:14,"Just, uh, tell him it's... Goldilocks."
-332,00:17:14,00:17:15,(chuckles)
-333,00:17:34,00:17:36,"Hey, Teddy. Goldilocks!"
-334,00:17:36,00:17:38,"Oh, God, it's been too long."
-335,00:17:38,00:17:41,It sure has. Mm.
-336,00:17:41,00:17:42,Wish the old man was still with us.
-337,00:17:42,00:17:44,He always loved when you stopped by.
-338,00:17:44,00:17:50,"Even after you became a cop. Teddy, listen, um... I'm in kind of a jam."
-339,00:17:50,00:17:52,"You need a doctor? No, I'm fine."
-340,00:17:52,00:17:58,"It actually looks worse than it is, but my friend Russell and I need to disappear for a while."
-341,00:17:59,00:18:01,No problem.
-342,00:18:01,00:18:04,The old man would have rolled out the red carpet for you.
-343,00:18:04,00:18:06,Sit down.
-344,00:18:06,00:18:07,"Thanks, Teddy."
-345,00:18:07,00:18:08,TEDDY: I'll get you some sandwiches.
-346,00:18:14,00:18:16,So... Goldilocks?
-347,00:18:16,00:18:18,(laughs)
-348,00:18:18,00:18:29,"Uh, well, there was a time when the only thing I cared more about than having fun was getting attention, and a girl gets a lot of attention on a pole."
-349,00:18:29,00:18:35,But the thing is-- thank you-- working a pole is about working guys.
-350,00:18:35,00:18:38,Lonely guys with money who just want to forget their problems.
-351,00:18:38,00:18:46,"Well, one night, right here at this bar, I met a guy who had a problem, but he wasn't trying to forget it."
-352,00:18:46,00:18:47,He was trying to solve it.
-353,00:18:47,00:18:49,Who was the guy?
-354,00:18:49,00:18:52,Jimmy Tadero. Detective.
-355,00:18:52,00:18:56,"Well, he was working a case, and we started talking."
-356,00:18:56,00:19:01,"For once, someone saw me as more than just a pretty face."
-357,00:19:01,00:19:03,And a few other attributes.
-358,00:19:03,00:19:05,Jimmy sounds like a very wise man.
-359,00:19:05,00:19:13,"After that night, between dances, we would, uh, sit here at this bar, and..."
-360,00:19:13,00:19:17,"he'd run cases, and he'd ask my opinion."
-361,00:19:17,00:19:20,"So, this is where you became a CSI."
-362,00:19:20,00:19:22,Yeah.
-363,00:19:22,00:19:23,"Well, how about..."
-364,00:19:23,00:19:27,how about you run this case with me right now?
-365,00:19:27,00:19:30,"Don't you think you should make a phone call first, to your wife?"
-366,00:19:30,00:19:34,Oh. When was the last time you went 24 hours without talking to her?
-367,00:19:34,00:19:36,(keypad beeping)
-368,00:19:36,00:19:37,"Hey, doll. No, I'm sorry."
-369,00:19:37,00:19:39,"I, um... I'm okay."
-370,00:19:39,00:19:41,I just lost my phone out in the field.
-371,00:19:41,00:19:44,I'm at a strip club with Catherine.
-372,00:19:46,00:19:49,Why do you always assume that I'm out on a job or something?
-373,00:19:49,00:19:53,"You know, I could have come here just for myself, you know."
-374,00:19:53,00:19:56,PRATT: We still don't know where they are?
-375,00:19:56,00:19:58,I would assume they're out there on the move.
-376,00:19:58,00:20:00,It's a lot safer than coming in here. Can't blame them.
-377,00:20:00,00:20:01,What do we have?
-378,00:20:01,00:20:03,First blush-- a hit team gone wild.
-379,00:20:03,00:20:04,But more miss than hit lately.
-380,00:20:04,00:20:06,I don't get it.
-381,00:20:06,00:20:08,These guys are supposed to be the best in the world.
-382,00:20:08,00:20:10,"At least that's what you keep telling us, right?"
-383,00:20:10,00:20:12,That's their rep.
-384,00:20:12,00:20:16,"And we saw that at Malcolm Turner's law office-- covert, efficient, clean, A-plus."
-385,00:20:16,00:20:19,"Yeah, but it wasn't perfect. We found the bodies."
-386,00:20:19,00:20:21,With 5.7-caliber bullets in them.
-387,00:20:21,00:20:24,"Yeah, and picked clean by those bioengineered bugs."
-388,00:20:24,00:20:27,SIDLE: All of which strongly suggests Mark Gabriel's hand in the killings.
-389,00:20:27,00:20:28,Exactly.
-390,00:20:28,00:20:30,Which is just the start of the screwups.
-391,00:20:30,00:20:33,"Since then, these A students have been turning in B work."
-392,00:20:33,00:20:38,"Two days ago, Laura Gabriel's cousin's house, husband and wife murdered, and there was no attempt to clean up."
-393,00:20:38,00:20:42,And the world's greatest hit team couldn't even find Laura Gabriel hiding under the floorboards.
-394,00:20:42,00:20:44,They still got to her yesterday. STOKES: Yeah.
-395,00:20:44,00:20:45,And made a total mess of it.
-396,00:20:45,00:20:48,That FBI convoy hit was on a public street in broad daylight.
-397,00:20:48,00:20:51,"SIDLE: Not to mention, two hours later, Catherine's targeted."
-398,00:20:51,00:20:54,"Even with the element of surprise, they missed."
-399,00:20:54,00:20:56,And hit one of their own. Friendly fire.
-400,00:20:56,00:21:00,"They finished him off, left him in a culvert with Mark Gabriel's superbugs on him."
-401,00:21:00,00:21:02,Might as well have left a calling card.
-402,00:21:02,00:21:05,STOKES: These guys sanitize some scenes and muck up others.
-403,00:21:05,00:21:07,Why the inconsistencies?
-404,00:21:07,00:21:08,I know Mark Gabriel.
-405,00:21:08,00:21:09,He doesn't make these kinds of mistakes.
-406,00:21:09,00:21:11,Maybe they aren't mistakes.
-407,00:21:11,00:21:12,Maybe it's all intentional.
-408,00:21:12,00:21:16,You think that Mark Gabriel's guys are leaving evidence behind on purpose?
-409,00:21:16,00:21:17,Not just any evidence.
-410,00:21:17,00:21:19,Evidence that points to Mark Gabriel.
-411,00:21:19,00:21:23,PRATT: If what you're suggesting is true...
-412,00:21:23,00:21:25,then Mark Gabriel's not the one calling the shots.
-413,00:21:25,00:21:27,He's... he's being set up.
-414,00:21:27,00:21:29,By who?
-415,00:21:29,00:21:31,And why?
-416,00:21:33,00:21:34,Thank you very much.
-417,00:21:34,00:21:36,How you doing?
-418,00:21:36,00:21:37,You all right?
-419,00:21:37,00:21:42,"Well, considering I've been shot in my side and cauterized by a hooker's curling iron, yeah, I guess so."
-420,00:21:42,00:21:45,"So, you said you wanted to talk about the case? Yeah."
-421,00:21:45,00:21:49,I want to talk about how Mark Gabriel is not our guy.
-422,00:21:49,00:21:50,Excuse me?
-423,00:21:50,00:21:53,"The resignation letter-- you didn't send it, did you?"
-424,00:21:53,00:21:55,What resignation letter?
-425,00:21:55,00:21:57,This one.
-426,00:21:57,00:22:02,"I, uh, printed it out before I drove over to see you."
-427,00:22:02,00:22:06,"Uh, ""effective immediately, I tender ""my resignation."
-428,00:22:06,00:22:09,"""It's a decision I've been considering ""for a while..."
-429,00:22:09,00:22:12,"it's best for the team..."" I didn't write that."
-430,00:22:12,00:22:14,"But wait, it gets better; here you go."
-431,00:22:14,00:22:20,"""I've made the decision to go away for a while, ""but first, I have to do something."
-432,00:22:20,00:22:24,"""I have one last bit of unfinished business ""to clear my desk."
-433,00:22:24,00:22:27,"I hope you'll understand."" What the hell?"
-434,00:22:27,00:22:31,"Listen, I think you need to read this whole email resignation you sent."
-435,00:22:31,00:22:33,I think you'll find it's not that far off the mark.
-436,00:22:33,00:22:36,"""For 19 years, I've dedicated myself to this lab."
-437,00:22:36,00:22:38,"""My authority has been questioned."
-438,00:22:38,00:22:40,"""My professional objectivity doubted."
-439,00:22:40,00:22:53,"""Though I graciously accepted an unwanted demotion, I now find my lesser role unsatisfying and untenable."" Little close to the bone, I imagine."
-440,00:22:54,00:22:56,How did they know?
-441,00:22:56,00:23:01,"Well, if they were able to hack into your account to send that email, I imagine they've been reading them all."
-442,00:23:01,00:23:02,All to manufacture a resignation letter?
-443,00:23:02,00:23:04,I-I don't think so.
-444,00:23:04,00:23:06,"I think it's more of a... like, a cover story, right?"
-445,00:23:06,00:23:09,CSI seeks revenge for the murder of her friend.
-446,00:23:09,00:23:12,"Goes nuts, goes home, resigns."
-447,00:23:12,00:23:15,But not before she commits one last crazy act.
-448,00:23:15,00:23:17,And who does she direct her rage against?
-449,00:23:17,00:23:19,Mark Gabriel.
-450,00:23:19,00:23:22,Then that's gotta be why they took my backup gun.
-451,00:23:22,00:23:25,They were planning to use it on-on Gabriel.
-452,00:23:25,00:23:26,To make you the patsy.
-453,00:23:26,00:23:30,"I go postal, I kill Gabriel and then... get disappeared."
-454,00:23:30,00:23:33,"Yeah, but you screwed up their plans-- you survived."
-455,00:23:33,00:23:37,"All I know is that with you still alive, they've got no play."
-456,00:23:37,00:23:42,"So, safest thing for you to do right now is to come in out of the cold."
-457,00:23:42,00:23:48,"Well, safe for me, maybe, but then they'll go underground and we'll never catch them."
-458,00:23:48,00:23:49,"Hey, Teddy."
-459,00:23:49,00:23:51,Maybe we can have it both ways.
-460,00:23:51,00:23:52,I need one more favor. No problem.
-461,00:23:52,00:23:56,Can you call the coroner and tell him that you got two stiffs here that need picking up.
-462,00:23:56,00:23:59,And make sure to bring two body bags.
-463,00:23:59,00:24:00,One extra long.
-464,00:24:00,00:24:04,You got it.
-465,00:24:13,00:24:14,(groans)
-466,00:24:14,00:24:15,STOKES: Welcome back to the living.
-467,00:24:15,00:24:18,Heard you been hitting the strip clubs.
-468,00:24:18,00:24:21,"Yeah, why is that so hard for everyone to believe?"
-469,00:24:21,00:24:23,Coming through.
-470,00:24:29,00:24:30,SANDERS: Aren't you a sight for sore eyes.
-471,00:24:30,00:24:32,For a second we thought you were...
-472,00:24:32,00:24:37,That you ran off to a Caribbean island and left us with your caseload.
-473,00:24:37,00:24:39,"No, I'm not running anymore."
-474,00:24:39,00:24:40,That's 'cause we're on the hunt now.
-475,00:24:40,00:24:42,I'm going to need to redress that wound.
-476,00:24:42,00:24:44,And I'm going to need to redress.
-477,00:24:44,00:24:46,(groans)
-478,00:24:50,00:24:54,"So that, uh, resignation letter was a fake."
-479,00:24:54,00:24:56,"Yeah, a good one."
-480,00:24:56,00:24:57,They hacked your computer.
-481,00:24:57,00:24:59,They've been reading your email.
-482,00:24:59,00:25:01,Getting inside my head.
-483,00:25:01,00:25:04,"So, you really feel that way?"
-484,00:25:04,00:25:07,Something's missing in your life?
-485,00:25:09,00:25:13,"Since Lindsey's left home, yeah."
-486,00:25:13,00:25:15,"I mean, I'm not sure what I'm missing."
-487,00:25:15,00:25:21,"Some days, I... I think it's a man to share my life with, and... then, other days, I'm good."
-488,00:25:21,00:25:23,I'm good to be alone.
-489,00:25:23,00:25:26,"I mean, look at my friend Laura."
-490,00:25:26,00:25:28,(groans) She had everything.
-491,00:25:28,00:25:32,Appeared to have a perfect life.
-492,00:25:32,00:25:36,And it all turned out to be a lie.
-493,00:25:36,00:25:38,(sighs)
-494,00:25:38,00:25:40,And then she turned out dead.
-495,00:25:40,00:25:44,"I thought for sure Mark Gabriel killed her, tried to kill me."
-496,00:25:44,00:25:46,Now we know it was all a setup.
-497,00:25:46,00:25:47,"Yeah, who's pulling the strings?"
-498,00:25:47,00:25:50,"It's gotta be someone in his operation, right?"
-499,00:25:50,00:25:52,I'm going with Occam's razor.
-500,00:25:52,00:25:59,"Sometimes the simplest answer is the right answer, and the one that's right in front of you."
-501,00:26:01,00:26:04,"Until a couple weeks ago, you didn't even know who Mark Gabriel was."
-502,00:26:04,00:26:09,And you hadn't seen your good friend Laura since you were kids.
-503,00:26:09,00:26:11,What are you saying?
-504,00:26:11,00:26:14,"I'm saying, maybe you didn't just run into your friend."
-505,00:26:16,00:26:18,I think that Sara might be right.
-506,00:26:18,00:26:24,"I see Laura after all these years in reception at PD, waiting for her husband."
-507,00:26:24,00:26:33,"She allows me to see her in a controlling, abusive relationship; she then comes to me, says she's got information on her husband that can put him away."
-508,00:26:33,00:26:36,"She's afraid, I send her to a lawyer."
-509,00:26:36,00:26:38,Who ends up dead. Yes.
-510,00:26:38,00:26:43,"All signs pointing to her husband, Mark Gabriel, as the guy who hired the killers."
-511,00:26:43,00:26:47,"Yes, but if it's not Gabriel, and he's being set up to look guilty..."
-512,00:26:47,00:26:48,And to die by your hand.
-513,00:26:48,00:26:50,Who stands to benefit?
-514,00:26:50,00:26:51,The wife...
-515,00:26:51,00:26:54,who is dead and burned beyond recognition.
-516,00:26:54,00:26:58,"You know, like everything else in this damn case, all is not what it seems."
-517,00:26:58,00:27:00,"Hey, Henry."
-518,00:27:00,00:27:01,"Henry, where..."
-519,00:27:01,00:27:02,(thumps) Ow.
-520,00:27:02,00:27:04,"Aw, I'm sorry, did we wake you up?"
-521,00:27:04,00:27:06,It's been a rough 48.
-522,00:27:06,00:27:12,"You think? Hey, what did you use as an exemplar to identify the burned bodies in the FBI sedan?"
-523,00:27:12,00:27:13,"Well, the agents were easy."
-524,00:27:13,00:27:15,I just ran their DNA against the FBI database.
-525,00:27:15,00:27:20,What about Laura Gabriel? I had exemplars from the Gabriels' condo here in Vegas.
-526,00:27:20,00:27:22,What do you think?
-527,00:27:22,00:27:26,Plenty of opportunity to plant someone else's comb or toothbrush in that condo.
-528,00:27:29,00:27:31,We have another exemplar.
-529,00:27:31,00:27:35,Laura's clothes were bagged at the hospital after we found her at her cousin's house.
-530,00:27:35,00:27:40,"Okay, so run those clothes, and then compare the new exemplar to our female DB."
-531,00:27:40,00:27:45,And I want to run all the DNA in this case against every known database.
-532,00:27:45,00:27:46,Got it.
-533,00:28:05,00:28:08,(saw whirring)
-534,00:28:11,00:28:12,"(grinding, cracking)"
-535,00:28:17,00:28:19,"(sucking, burbling)"
-536,00:28:28,00:28:30,(buzzing hum)
-537,00:28:35,00:28:38,(blipping)
-538,00:28:38,00:28:45,RUSSELL: We compared a secondary exemplar for Laura Gabriel against the female who died in your protective custody.
-539,00:28:45,00:28:47,No match.
-540,00:28:47,00:28:48,Body wasn't Laura Gabriel.
-541,00:28:48,00:28:49,What are you talking about?
-542,00:28:49,00:28:57,"We ran the DNA from all the bodies in that car against every known database under the sun, including U.S. military."
-543,00:28:57,00:28:58,We were able to identify the female body.
-544,00:28:58,00:29:01,PRATT: She was one of the assassins who hit the law firm.
-545,00:29:01,00:29:05,She infiltrated your protection detail yesterday.
-546,00:29:05,00:29:07,"Well, how did she end up dead in the back of the FBI sedan?"
-547,00:29:07,00:29:11,"My guess, shot by someone she trusted when she wasn't looking."
-548,00:29:11,00:29:15,"And then somebody took a torch to her, because they wanted us to believe she was Laura Gabriel."
-549,00:29:15,00:29:22,"RUSSELL: For the same reason they wanted us to believe the guy sitting next to her was your partner, Agent McQuaid."
-550,00:29:22,00:29:25,"No, no, McQuaid died in that car."
-551,00:29:25,00:29:27,He was identified by the FBI database.
-552,00:29:27,00:29:32,Which McQuaid updated with a new exemplar one month ago.
-553,00:29:32,00:29:38,RUSSELL: Same military database identified the McQuaid body as a Geoffrey Krueger.
-554,00:29:38,00:29:43,"ECKLIE: Like our female assassin-- ex-Army, and now former Ceressus employee."
-555,00:29:43,00:29:45,"Wait a second-- no, no, no, I don't believe any of this."
-556,00:29:45,00:29:48,"You're telling me that, uh, McQuaid is..."
-557,00:29:48,00:29:50,Dirty.
-558,00:29:50,00:29:54,And that he and Laura are the ones behind this whole thing.
-559,00:29:54,00:29:56,Three other agents died in that ambush.
-560,00:29:56,00:30:01,"Not to mention, the couple from the farmhouse, those people from the law firm-- why would he do that?"
-561,00:30:01,00:30:03,"Sex, money..."
-562,00:30:03,00:30:05,...maybe both. We know your team was compromised.
-563,00:30:05,00:30:09,"And to be honest, until now, I thought it was you."
-564,00:30:09,00:30:13,"I'm sorry, is that supposed to make me feel better?"
-565,00:30:19,00:30:21,"Hey, come on."
-566,00:30:21,00:30:22,None of us saw this coming.
-567,00:30:22,00:30:25,"Yeah, but I worked with the guy, ten hours a days, for the past year."
-568,00:30:25,00:30:28,"I mean, it's not like we were best friends, but..."
-569,00:30:28,00:30:30,(groans)
-570,00:30:30,00:30:34,"You know, I should've known when McQuaid said he was quitting, that something was up."
-571,00:30:34,00:30:36,And he...
-572,00:30:36,00:30:38,he always had this weakness when it came to beautiful women.
-573,00:30:38,00:30:40,"Well, they're still out there."
-574,00:30:40,00:30:44,"And like you said, they left a trail of bodies behind them."
-575,00:30:44,00:30:45,So what do we do?
-576,00:30:45,00:30:51,"When she was playing the victim, Laura Gabriel gave us her husband's banking connection to his hit team."
-577,00:30:51,00:30:53,She was gonna use it to set him up.
-578,00:30:53,00:30:54,Why don't we use it to set her up?
-579,00:30:54,00:30:56,That sounds good.
-580,00:30:56,00:30:58,"Good, 'cause the next part won't."
-581,00:31:09,00:31:11,So now you want my help?
-582,00:31:11,00:31:14,That's right.
-583,00:31:14,00:31:16,Interesting choice of venue.
-584,00:31:16,00:31:19,You've been watching too many movies.
-585,00:31:19,00:31:21,I wanted to make sure your people weren't listening.
-586,00:31:21,00:31:24,"Does that go for LVPD, too?"
-587,00:31:24,00:31:26,(car door opens)
-588,00:31:26,00:31:28,We're the least of your problems.
-589,00:31:28,00:31:34,"I understand I'm no longer a person of interest, but I'd be interested in knowing who is now."
-590,00:31:34,00:31:36,So?
-591,00:31:36,00:31:37,Your wife.
-592,00:31:37,00:31:40,PRATT: With help from my former partner.
-593,00:31:40,00:31:43,Laura and Agent McQuaid are dead.
-594,00:31:43,00:31:45,She played you.
-595,00:31:47,00:31:50,Impressive.
-596,00:31:50,00:31:53,Clearly my wife learned a few things over the years.
-597,00:31:53,00:31:56,"She set your own dogs on you, and you know who they are."
-598,00:31:56,00:31:57,And how to bring them to heel.
-599,00:31:58,00:32:00,She betrayed us both.
-600,00:32:01,00:32:03,But you want this bad.
-601,00:32:03,00:32:05,I assume that's why you're keeping company with the Boy Scout.
-602,00:32:05,00:32:07,"Like the man said, we need your help."
-603,00:32:07,00:32:08,Look...
-604,00:32:08,00:32:11,someone on your payroll knows where Laura and McQuaid are.
-605,00:32:15,00:32:17,This has been a helpful conversation.
-606,00:32:17,00:32:21,But I prefer to settle my own affairs.
-607,00:32:21,00:32:23,Good evening.
-608,00:32:27,00:32:28,That went well.
-609,00:32:28,00:32:30,(car doors closing)
-610,00:32:30,00:32:32,I hope so.
-611,00:32:32,00:32:36,Just hope he's not as smart as he thinks he is.
-612,00:32:39,00:32:42,(beeping)
-613,00:32:51,00:32:54,(beeping)
-614,00:33:41,00:33:42,(lock clicks)
-615,00:33:52,00:33:55,(shower turns on)
-616,00:33:58,00:34:01,(water running)
-617,00:34:06,00:34:07,(three silenced gunshots)
-618,00:34:13,00:34:14,(gunshot)
-619,00:34:14,00:34:17,I won't miss next time.
-620,00:34:17,00:34:21,"Put the gun on the floor, and keep the hands where we can see them."
-621,00:34:24,00:34:26,How did you find me?
-622,00:34:26,00:34:27,We just followed the money.
-623,00:34:27,00:34:29,Mark Gabriel made you a better offer.
-624,00:34:29,00:34:32,Double the money to take the contract off his head and put it on his wife's.
-625,00:34:32,00:34:34,And Laura Gabriel...
-626,00:34:34,00:34:35,was very cooperative.
-627,00:34:35,00:34:40,"When things become personal, business always suffers."
-628,00:34:40,00:34:42,"Well, our business isn't concluded."
-629,00:34:42,00:34:43,Where's McQuaid?
-630,00:34:43,00:34:44,You don't know?
-631,00:34:44,00:34:46,(Obrecht snorts)
-632,00:34:46,00:34:47,You already have him.
-633,00:34:53,00:34:55,PRATT: Talked to McQuaid's ex-wife.
-634,00:34:55,00:34:58,"She still had some of his things in the garage, including a shaving kit."
-635,00:34:58,00:35:02,"Ran the DNA, and Obrecht was right-- we do have McQuaid."
-636,00:35:02,00:35:05,Where? In the morgue.
-637,00:35:05,00:35:07,"RUSSELL: Wha...? No, no."
-638,00:35:07,00:35:12,"We... we identified the burned body in the FBI sedan, and it wasn't him."
-639,00:35:12,00:35:13,That's not the body I'm talking about.
-640,00:35:13,00:35:17,I'm talking about the body that your guys found in the culvert by her house.
-641,00:35:17,00:35:23,"He was there, at my house? The bullet that missed you was a .40-caliber-- that's the only kind of gun McQuaid ever carried."
-642,00:35:23,00:35:29,"Great. Not only did he set me up, he tried to take a shot at me. RUSSELL: Now, wait a second."
-643,00:35:29,00:35:32,"The autopsy said he was hit in the back with 5.7's, right?"
-644,00:35:32,00:35:35,So he was running towards you.
-645,00:35:35,00:35:39,"You know, maybe he didn't miss; maybe he was firing a warning shot."
-646,00:35:39,00:35:41,He was trying to protect you.
-647,00:35:41,00:35:44,"Yeah, McQuaid got a lot of people killed, but maybe that night, he was trying to save someone."
-648,00:35:44,00:35:47,Why?
-649,00:35:47,00:35:49,"Well, obviously, he cared for you."
-650,00:35:55,00:35:58,"Hey, wait up."
-651,00:35:58,00:36:01,"I never got a chance to say this, but you really kicked ass last night."
-652,00:36:01,00:36:02,(laughs)
-653,00:36:02,00:36:04,Thanks.
-654,00:36:04,00:36:06,"Listen, Russell's right."
-655,00:36:06,00:36:07,McQuaid had feelings for you.
-656,00:36:07,00:36:09,"But I think there was something else, too."
-657,00:36:09,00:36:13,I think that he saw in you what he used to be.
-658,00:36:13,00:36:15,What was that?
-659,00:36:15,00:36:17,Someone with integrity.
-660,00:36:17,00:36:19,Someone who wouldn't give up.
-661,00:36:19,00:36:21,The kind of agent that the Bureau needs.
-662,00:36:25,00:36:28,"Are you asking me out on a date, or offering me a job?"
-663,00:36:28,00:36:31,"(laughs): No, it was a job offer, but I..."
-664,00:36:31,00:36:34,but it's one that I really think that you should consider.
-665,00:36:36,00:36:38,"Well, I'm still on this job right now."
-666,00:36:39,00:36:41,But thanks.
-667,00:36:46,00:36:50,(door opens)
-668,00:36:50,00:36:52,(door closes)
-669,00:36:52,00:36:55,I already gave my statement to the other detectives.
-670,00:36:55,00:36:57,I just have one question.
-671,00:36:58,00:37:00,Why me?
-672,00:37:00,00:37:02,You really have to ask?
-673,00:37:02,00:37:03,Why do you think I chose you?
-674,00:37:04,00:37:06,I know you.
-675,00:37:06,00:37:08,Really.
-676,00:37:08,00:37:09,How do you figure that?
-677,00:37:15,00:37:22,"When we were kids, you always went for the boy who needed you; I always went for the boy who would give me something."
-678,00:37:22,00:37:25,Are you talking about your husband?
-679,00:37:25,00:37:26,Or McQuaid?
-680,00:37:26,00:37:28,Both.
-681,00:37:28,00:37:31,Mark gave me a lifestyle.
-682,00:37:31,00:37:33,Worked for a while.
-683,00:37:33,00:37:34,Then it didn't.
-684,00:37:36,00:37:38,Then I met McQuaid.
-685,00:37:38,00:37:41,Investigating the gunrunning case here in Vegas.
-686,00:37:41,00:37:44,And you saw an opportunity... to set your husband up.
-687,00:37:46,00:37:47,To set me up.
-688,00:37:47,00:37:51,I take what I want.
-689,00:37:51,00:37:55,"You put everyone else first, because that's the easier way."
-690,00:37:55,00:37:58,You'd rather accept the life you have...
-691,00:37:58,00:38:00,than risk having the life you want.
-692,00:38:03,00:38:05,"You're never gonna see the outside world again, Laura."
-693,00:38:07,00:38:10,Tell me whose life you'd rather have now.
-694,00:38:12,00:38:13,"Oh, and..."
-695,00:38:13,00:38:20,"you do know me-- but not as well as you think, because when you chose me, you should've known it was gonna end like this."
-696,00:38:30,00:38:33,"Well, we picked up Mark Gabriel on conspiracy to murder his wife."
-697,00:38:33,00:38:36,"Oh, raincoat guy sold him out."
-698,00:38:36,00:38:38,Wanted to dodge the needle. Wow.
-699,00:38:38,00:38:40,Guy had no problem dealing death.
-700,00:38:40,00:38:42,"It's a different story when it's his own life on the line, huh?"
-701,00:38:42,00:38:44,(all phones beeping)
-702,00:39:01,00:39:03,Did you call a family meeting?
-703,00:39:03,00:39:06,"(chuckles): No. No, I... No, I didn't."
-704,00:39:06,00:39:07,Catherine did.
-705,00:39:07,00:39:08,BRASS: So...
-706,00:39:08,00:39:10,what's going on?
-707,00:39:11,00:39:15,I just wanted to say how...
-708,00:39:15,00:39:18,brilliant I think you all are...
-709,00:39:19,00:39:29,"...what a great team this is, how much I respect all of you, both as coworkers..."
-710,00:39:29,00:39:30,(voice breaks): and as friends.
-711,00:39:32,00:39:38,"Well, as you all know, there were a few changes made, a couple of months ago, which, uh..."
-712,00:39:38,00:39:42,(sighs) initially hurt me...
-713,00:39:42,00:39:45,"but, um, ultimately..."
-714,00:39:45,00:39:47,ended up being a great thing.
-715,00:39:49,00:39:51,"And, Nicky..."
-716,00:39:51,00:39:56,I was so wrong when I said that...
-717,00:39:56,00:40:01,it's been a long 19 years here in this lab...
-718,00:40:01,00:40:03,in this town.
-719,00:40:03,00:40:05,"I mean, the truth is..."
-720,00:40:05,00:40:07,(laughs)
-721,00:40:07,00:40:09,...it's just gone by too fast.
-722,00:40:09,00:40:12,(sighs): But...
-723,00:40:12,00:40:16,there comes a point in one's life in which...
-724,00:40:16,00:40:19,one feels compelled to make a change.
-725,00:40:20,00:40:22,What are you saying?
-726,00:40:22,00:40:27,That I've been offered another job.
-727,00:40:27,00:40:28,With the FBI.
-728,00:40:30,00:40:31,I've decided to take it.
-729,00:40:31,00:40:33,When?
-730,00:40:33,00:40:35,"Well, it's effective immediately."
-731,00:40:35,00:40:37,I...
-732,00:40:37,00:40:41,tendered my resignation.
-733,00:40:41,00:40:44,For real this time.
-734,00:40:45,00:40:49,You are all family...
-735,00:40:49,00:40:53,which is why...
-736,00:40:53,00:40:56,this is the hardest decision I've ever made.
-737,00:40:56,00:41:00,"(laughs): I mean, how could I leave this place?"
-738,00:41:00,00:41:04,How could I leave all of you?
-739,00:41:04,00:41:09,But not only are you in great hands...
-740,00:41:09,00:41:11,but you...
-741,00:41:11,00:41:17,"are a rock-solid, bad-ass team of criminalists, and don't ever forget it."
-742,00:41:17,00:41:22,"We all just love you, Catherine."
-743,00:41:22,00:41:28,"And, you know, even though you're leaving, you'll always be here with us, always."
-744,00:41:28,00:41:30,Yeah.
-745,00:41:30,00:41:32,STOKES: We love you.
-746,00:41:32,00:41:35,"WILLOWS (sniffling): I love you, too."
-747,00:41:39,00:41:40,Go get 'em.
-748,00:41:50,00:41:54,I sat here...
-749,00:41:54,00:42:00,a very long time ago and talked about how solving a case can...
-750,00:42:00,00:42:03,make you feel like King Kong on cocaine.
-751,00:42:03,00:42:07,But just like any drug...
-752,00:42:07,00:42:10,it's got a dark side...
-753,00:42:10,00:42:13,and the rush is fleeting.
-754,00:42:13,00:42:16,Just like life.
-755,00:42:17,00:42:19,This is the only thing I'm good at.
-756,00:42:19,00:42:21,Then hang on to that.
-757,00:42:21,00:42:24,But not so tight that...
-758,00:42:24,00:42:26,you let the rest slip away.
-759,00:42:28,00:42:31,I know your dad would tell you the same thing.
-760,00:42:31,00:42:34,(phone buzzes)
-761,00:42:36,00:42:38,(beeps)
-762,00:42:38,00:42:40,(laughs): Back to work.
-763,00:42:40,00:42:42,Go ahead. I got this one.
-764,00:42:43,00:42:45,I got the next one.
-765,00:42:45,00:42:47,You got it.
+	start	end	text
+0	00:00:01	00:00:05	Previously on CSI... I talked to that lawyer-- he's arranging a meeting with the FBI.
+1	00:00:05	00:00:08	I haven't seen Laura in two weeks, since she talked to the lawyer you sent her to.
+2	00:00:08	00:00:10	The hit was professional.
+3	00:00:10	00:00:11	Clean-up was professional, too.
+4	00:00:11	00:00:13	You remember Special Agents Pratt and McQuaid?
+5	00:00:13	00:00:14	I'll be with her the whole time.
+6	00:00:14	00:00:16	You got my friend killed!
+7	00:00:16	00:00:18	How could you let this happen?
+8	00:00:20	00:00:21	Get in.
+9	00:00:43	00:00:45	Hey, Russell...
+10	00:00:51	00:00:53	Hey, D.B., it's Nick.
+11	00:00:53	00:00:59	Listen, I got a lead on the money trail from Mark Gabriel's company to his hit squad via the Swiss bank account.
+12	00:00:59	00:01:03	So, you need to call me back so I can fill you in, all right?
+13	00:01:03	00:01:05	(beeps) Hey, Sara.
+14	00:01:05	00:01:08	You seen Catherine? No. You probably won't for a few days.
+15	00:01:08	00:01:09	What do you mean? You haven't heard?
+16	00:01:09	00:01:12	Heard what? Laura Gabriel was murdered in FBI custody.
+17	00:01:12	00:01:14	Well, how'd that happen?
+18	00:01:14	00:01:16	One of Mark Gabriel's hit squad infiltrated the protection detail.
+19	00:01:16	00:01:18	McQuaid and three other agents were killed.
+20	00:01:18	00:01:23	Catherine went off on Agent Pratt at the crime scene, and Russell sent her home to cool off. Yeah, where is Russell?
+21	00:01:23	00:01:27	(phone rings) Call out, downtown motel-- I saw him hightail it out of here.
+22	00:01:27	00:01:29	Stokes.
+23	00:01:29	00:01:30	Yeah, yeah, we're looking for him right now.
+24	00:01:30	00:01:32	Okay, we'll handle it.
+25	00:01:32	00:01:36	What now? Got a 434, shots fired at the corner of Jupiter and Fairwick.
+26	00:01:36	00:01:37	20 minutes ago.
+27	00:01:37	00:01:40	Southern Highlands? That's Catherine's neighborhood.
+28	00:01:40	00:01:44	I got a bad feeling about this.
+29	00:01:47	00:01:48	Hey.
+30	00:01:48	00:01:50	Why'd you guys call me over to Catherine's house?
+31	00:01:50	00:01:52	434 is five blocks that way.
+32	00:01:52	00:01:55	We've been trying to reach her. She's MIA.
+33	00:01:55	00:01:56	Nick...
+34	00:01:59	00:02:05	Five-point-seven. That's the same caliber Gabriel's guys use. What do you want to bet somebody called in the wrong address, bought themselves some time?
+35	00:02:12	00:02:14	Catherine?
+36	00:02:15	00:02:17	Hey, Catherine?
+37	00:02:21	00:02:22	Doorknob's been wiped clean.
+38	00:02:22	00:02:24	There's not a speck of dust.
+39	00:02:24	00:02:25	I smell ethanol.
+40	00:02:25	00:02:28	Just like Malcolm Turner's law office.
+41	00:02:34	00:02:36	Bullet hole.
+42	00:02:36	00:02:38	Frame's been repaired.
+43	00:02:38	00:02:40	So has the bookcase here.
+44	00:02:49	00:02:51	Catherine's backup gun is gone. Well, that's good.
+45	00:02:51	00:02:52	Right? I mean, that means that she had time to get it, right?
+46	00:02:52	00:02:55	(phone ringing) That she needs it is bad.
+47	00:02:55	00:02:57	Stokes.
+48	00:02:58	00:03:00	Oh, no.
+49	00:03:00	00:03:02	Okay, we're 10-39.
+50	00:03:02	00:03:06	Patrol spotted Russell's SUV abandoned near the 215.
+51	00:03:06	00:03:07	That's a couple of blocks from his motel call-out.
+52	00:03:07	00:03:09	And they said it's all shot to hell.
+53	00:03:16	00:03:17	Doesn't look good.
+54	00:03:17	00:03:19	There's blood in the backseat.
+55	00:03:19	00:03:20	A lot of it.
+56	00:03:23	00:03:26	Dispatch couldn't get Russell on his cell phone.
+57	00:03:26	00:03:28	The walkie's still in the car.
+58	00:03:28	00:03:30	Blood trail... heads off that way.
+59	00:03:30	00:03:34	Well, we found a 5.7 shell casing outside of Catherine's house.
+60	00:03:34	00:03:39	We also smelled ethanol inside-- evidence pointing to a shootout, but the place was cleaned up.
+61	00:03:39	00:03:41	It's got Gabriel's hit squad written all over it.
+62	00:03:41	00:03:43	There's no Catherine.
+63	00:03:43	00:03:44	Russell's unreachable.
+64	00:03:44	00:03:49	There's blood in the backseat, none in the front.
+65	00:03:49	00:03:51	Maybe Catherine was wounded.
+66	00:03:51	00:03:53	Russell was coming to her aid.
+67	00:03:53	00:03:54	But why didn't they call it in?
+68	00:03:54	00:03:58	On the run, guys shooting at them-- maybe they didn't have time.
+69	00:03:58	00:04:01	Maybe they didn't think it was safe to use their cell phones.
+70	00:04:01	00:04:08	If this is Gabriel's black ops boys, they have all kinds of toys to hack our communications and listen in.
+71	00:04:08	00:04:10	Who you calling?
+72	00:04:19	00:04:20	It's Catherine's cell.
+73	00:04:20	00:04:23	They ditched their phones.
+74	00:04:32	00:04:34	It's Russell's cell phone.
+75	00:04:37	00:04:39	Oh, man, it's his wife calling.
+76	00:04:42	00:04:43	I'll take that.
+77	00:04:43	00:04:48	(ringing continues) This is your crime scene...
+78	00:04:48	00:04:51	but this is my call.
+79	00:04:54	00:04:57	Mrs. Russell...
+80	00:04:57	00:04:59	this is Jim Brass.
+81	00:05:33	00:05:35	Yeah, and hey, get me a flatbed down here as soon as possible.
+82	00:05:35	00:05:38	I got to get this Denali back to the garage.
+83	00:05:38	00:05:40	Yeah.
+84	00:05:40	00:05:42	Hey, I got to take this.
+85	00:05:42	00:05:43	All right.
+86	00:05:45	00:05:47	Morgan, listen, there's been a little change of plans.
+87	00:05:47	00:05:49	The Denali scene is now Code Four.
+88	00:05:49	00:05:50	The blood trail went cold.
+89	00:05:50	00:05:52	I need you to redirect to Catherine's house.
+90	00:05:52	00:05:54	Greg's on the way.
+91	00:05:54	00:05:55	Start on the perimeter, we'll meet you there.
+92	00:05:55	00:05:57	Hey, Hodges.
+93	00:05:57	00:06:02	Yeah? Do me a favor and wait here for auto detail, then follow that Denali back to the lab, okay?
+94	00:06:02	00:06:04	I'm on it. Thanks.
+95	00:06:04	00:06:09	Henry, I'm gonna need you to run that blood against Catherine and Russell, okay?
+96	00:06:09	00:06:11	Hey, Henry, you with me?
+97	00:06:11	00:06:13	Yeah. I just can't help but think...
+98	00:06:13	00:06:15	Well, don't think, man, just do it.
+99	00:06:15	00:06:18	Okay? Hey, did Catherine say anything to you about quitting?
+100	00:06:18	00:06:25	No, why? She sent a resignation e-mail to Russell. Well, if she was gonna leave, she would've told us first.
+101	00:06:25	00:06:27	Right?
+102	00:06:27	00:06:29	Nothing's making sense right now.
+103	00:06:29	00:06:33	Okay, I'm sticking with the plan-- radio silence.
+104	00:06:33	00:06:35	If someone's listening in, they won't be hearing us.
+105	00:06:35	00:06:37	Now all communication will be face-to-face.
+106	00:06:37	00:06:40	The sheriff has agreed to wait an hour before she calls the Feds.
+107	00:06:40	00:06:42	That buys us some time; that's good.
+108	00:06:43	00:06:44	Stokes.
+109	00:06:44	00:06:46	I'm at Russell's crime scene.
+110	00:06:46	00:06:48	He was scheduled to meet me here an hour ago.
+111	00:06:48	00:06:49	Well, I got a situation here, man.
+112	00:06:49	00:06:51	I'll fill you in later.
+113	00:06:51	00:06:55	I'll see if I can get us some help from the day shift. Okay, well, roll 'em when you can.
+114	00:07:03	00:07:05	I thought you said this was the only D.B. here?
+115	00:07:05	00:07:07	Only one I know of, Doc.
+116	00:07:17	00:07:18	You must be the doctor.
+117	00:07:18	00:07:19	What the hell's going on here?
+118	00:07:19	00:07:21	Hey, Doc. Is that Catherine?
+119	00:07:21	00:07:23	You're gonna have to patch her up here.
+120	00:07:23	00:07:25	We can't take her to a hospital.
+121	00:07:25	00:07:28	She's been shot. Luckily, we ran into an old friend of hers.
+122	00:07:28	00:07:29	I'll fill you in later.
+123	00:07:29	00:07:32	Kitty, thank you.
+124	00:07:32	00:07:34	You gotta be the last doc in Vegas to make house calls.
+125	00:07:34	00:07:37	You got a card? Honey, you don't want me coming to your house.
+126	00:07:37	00:07:40	What do you think?
+127	00:07:40	00:07:43	I think she'd be better off in a hospital.
+128	00:07:43	00:07:47	You people waited an hour to call me?
+129	00:07:47	00:07:48	I thought we were all on the same team here.
+130	00:07:48	00:07:56	Seems to me, Agent Pratt, every time we call the FBI, Witnesses, your agents, my CSIs, all targeted, all on your watch.
+131	00:07:56	00:07:58	And now CSI Willows and Russell have gone missing?
+132	00:07:58	00:08:02	Okay, look, you forget that my partner, McQuaid, is dead, all right?
+133	00:08:02	00:08:07	You don't think I care about the safety of CSI Russell and Willows as much as you do? You sure about that?
+134	00:08:07	00:08:09	I'm sure of one thing-- I'm pulling rank.
+135	00:08:09	00:08:12	From now on, everything goes through me. Oh, God...
+136	00:08:12	00:08:13	Understood?
+137	00:08:13	00:08:16	Mark Gabriel's on his way down here demanding to see his wife's body.
+138	00:08:18	00:08:19	Don't worry, we got your back.
+139	00:08:19	00:08:22	We'll scrape you off of the floor after he runs you over.
+140	00:08:22	00:08:24	Hey, Greg.
+141	00:08:24	00:08:26	Got a blood drop.
+142	00:08:26	00:08:28	And I found blood on the driveway leading from the front door.
+143	00:08:30	00:08:33	Blood trail leads into the street.
+144	00:08:38	00:08:39	Blood pool.
+145	00:08:40	00:08:43	Car drove through it.
+146	00:08:43	00:08:46	Working theory...
+147	00:08:46	00:08:47	it's Catherine's.
+148	00:08:47	00:08:49	She's running from the shooters.
+149	00:08:49	00:08:52	Wounded. She gets to the street, her blood's pooling...
+150	00:08:52	00:08:54	Get in.
+151	00:08:54	00:08:55	Flags down a motorist...
+152	00:08:55	00:08:57	It's Russell.
+153	00:08:57	00:08:58	The shooters are closing in...
+154	00:09:01	00:09:04	Then she jumps in the backseat, and they take off.
+155	00:09:04	00:09:09	But if that's the case, whose blood is this over here?
+156	00:09:09	00:09:12	Trail leads down the embankment.
+157	00:09:12	00:09:15	Let's see what we find on the other end.
+158	00:09:28	00:09:29	I've seen these bugs before.
+159	00:09:29	00:09:34	They're the same supercharged hide beetles that Gabriel's guys used on those bodies at the law firm.
+160	00:09:34	00:09:37	Based on the timeline, it's only been here three or four hours.
+161	00:09:37	00:09:39	The question is, who was he?
+162	00:09:44	00:09:46	How bad is it?
+163	00:09:46	00:09:49	It's through and through, but it didn't hit anything vital.
+164	00:09:49	00:09:51	Well, that's good. Beats the alternative.
+165	00:09:51	00:09:55	You've lost a lot of blood, and there's only so much I can do.
+166	00:09:55	00:09:57	You're doing fine, Doc.
+167	00:09:57	00:10:00	Well, we've got to stop this bleeding.
+168	00:10:00	00:10:02	And the wound needs to be cauterized. Mm.
+169	00:10:05	00:10:09	Well, actually, you've got very beautiful hair, Miss Kitty.
+170	00:10:09	00:10:11	Thanks, but I'm not doing you-- you a cop.
+171	00:10:11	00:10:15	No. I just thought maybe you might have a curling iron in your purse.
+172	00:10:15	00:10:17	You some kind of Columbo or something?
+173	00:10:22	00:10:23	What do you think?
+174	00:10:23	00:10:25	Yeah. Well, it's only gonna hurt for a moment.
+175	00:10:25	00:10:26	Once you go into shock...
+176	00:10:26	00:10:28	Hell, y'all are serious.
+177	00:10:28	00:10:30	I guess if you need a hand or something...
+178	00:10:30	00:10:33	You're hired. Clean it with soap and water and warm it up.
+179	00:10:34	00:10:36	You got a bullet I can bite on?
+180	00:10:38	00:10:39	Got a bullet here.
+181	00:10:41	00:10:43	Looks like a .40 cal.
+182	00:10:43	00:10:48	That's the same caliber as the bullets that killed Laura Gabriel's cousin and her husband at the farmhouse.
+183	00:10:48	00:10:50	Same shooter maybe.
+184	00:10:50	00:10:52	I got a blood pool.
+185	00:10:52	00:10:58	Morgan thinks that Catherine wasn't hit until she was outside.
+186	00:10:58	00:11:00	Maybe Catherine got one of them.
+187	00:11:00	00:11:03	Cleaning crew missed the rug pad.
+188	00:11:03	00:11:05	Maybe we can get some DNA.
+189	00:11:08	00:11:10	You got any cash?
+190	00:11:10	00:11:11	Couple of hundred.
+191	00:11:11	00:11:12	Yeah. That'll do.
+192	00:11:12	00:11:14	Miss Kitty, thank you.
+193	00:11:14	00:11:16	You've earned that.
+194	00:11:16	00:11:17	You really, really hooked us up.
+195	00:11:17	00:11:20	Here, I'd like to give these to you, too.
+196	00:11:20	00:11:22	Oh.
+197	00:11:22	00:11:24	Thank you.
+198	00:11:24	00:11:25	You saved my life.
+199	00:11:25	00:11:27	Okay.
+200	00:11:27	00:11:29	This is a get-out-of-jail-free card.
+201	00:11:29	00:11:31	Don't abuse it.
+202	00:11:31	00:11:32	And please, don't talk to anyone.
+203	00:11:32	00:11:35	These lips are sealed.
+204	00:11:35	00:11:36	Didn't see nothing, don't know nothing.
+205	00:11:36	00:11:40	And you can hang me by my feet and pull out my acrylic nails with pliers.
+206	00:11:40	00:11:41	All right.
+207	00:11:41	00:11:43	Let's go. Bye.
+208	00:11:43	00:11:45	Bye.
+209	00:11:45	00:11:48	D.B., Catherine's gonna need to sleep for a while.
+210	00:11:48	00:11:50	I need you to get a message to Brass, okay?
+211	00:11:50	00:11:53	Tell him to... tell him to bring us in.
+212	00:12:00	00:12:01	Mitch?
+213	00:12:01	00:12:02	CSI is finished.
+214	00:12:02	00:12:04	They said we can release the scene.
+215	00:12:04	00:12:05	The body's been transported?
+216	00:12:05	00:12:07	Ten minutes ago.
+217	00:12:07	00:12:08	Well, then, I am done, too.
+218	00:12:08	00:12:10	Take care. Take care, Doc.
+219	00:12:39	00:12:42	Mr. Gabriel, Undersheriff Ecklie. I believe you know...
+220	00:12:42	00:12:44	Get him the hell out of here.
+221	00:12:44	00:12:46	You killed my wife, you son of a bitch.
+222	00:12:46	00:12:48	And don't think being FBI will save you.
+223	00:12:48	00:12:50	I've got the director on my speed dial.
+224	00:12:50	00:12:52	You're the one who killed your wife and my partner.
+225	00:12:52	00:12:55	If you think you can play the victim-- If this man remains, then I'm leaving.
+226	00:12:55	00:13:00	And then, you, Undersheriff and Captain Brass, will speak to my attorneys while I speak to the press.
+227	00:13:00	00:13:03	Agent Pratt, it looks like this one goes through us.
+228	00:13:03	00:13:05	I'm going to nail your ass.
+229	00:13:05	00:13:08	Don't try and hide behind that frigging mirror, Boy Scout.
+230	00:13:10	00:13:12	I came here to see my wife.
+231	00:13:12	00:13:15	Understood, but first, we'd like to ask you a few questions.
+232	00:13:15	00:13:17	I wasn't making a request.
+233	00:13:17	00:13:19	Neither were we. (knocking)
+234	00:13:19	00:13:20	Jim, I need to see you...
+235	00:13:20	00:13:22	Doc, whatever it is, it's got to wait.
+236	00:13:22	00:13:24	It can't.
+237	00:13:46	00:13:47	We're too late.
+238	00:13:47	00:13:49	What the hell happened?
+239	00:13:54	00:13:56	We're still maintaining radio silence, right? Yeah.
+240	00:13:56	00:13:59	So how'd the bad guys get here before we did? I don't know.
+241	00:13:59	00:14:01	Maybe they showed up late for the party, too.
+242	00:14:01	00:14:03	The screen's off.
+243	00:14:03	00:14:06	Scuff marks.
+244	00:14:09	00:14:10	Maybe Catherine and Russell made a quick exit.
+245	00:14:10	00:14:13	I'm gonna go talk to the manager, see if he saw something.
+246	00:14:13	00:14:15	I hope they made it out of here.
+247	00:14:18	00:14:21	Yeah, that get-out-of-jail-free card-- that work for me, too?
+248	00:14:21	00:14:23	Don't ask that when my friends are running for their lives.
+249	00:14:23	00:14:24	Oh, well, let me rephrase then.
+250	00:14:24	00:14:27	When y'all stop running, can a brother get one?
+251	00:14:27	00:14:31	If we get out of this alive, I'll get you one with revolving credit.
+252	00:14:31	00:14:33	Yeah, I like the sound of that.
+253	00:14:33	00:14:34	Hey, if there's any revolving credit, it's mine.
+254	00:14:34	00:14:37	I'm the one who spotted that guy in that raincoat.
+255	00:14:37	00:14:39	Knew his ass was up to no good.
+256	00:14:39	00:14:40	Yeah, thank you for that call.
+257	00:14:40	00:14:42	What tipped you off?
+258	00:14:42	00:14:47	Honey, in that neighborhood, the only suit a man wears under his trench coat is his birthday suit.
+259	00:14:47	00:14:50	Spoken like a trained observer.
+260	00:14:50	00:14:55	In a couple of blocks, there's gonna be an alley on your right.
+261	00:14:56	00:14:57	Hey, Doc.
+262	00:14:57	00:14:59	Hey. How's Catherine?
+263	00:14:59	00:15:00	She should be on some heavy-duty antibiotics.
+264	00:15:00	00:15:02	You don't know, do you?
+265	00:15:02	00:15:05	What? She and Russell are still out there, man.
+266	00:15:05	00:15:07	When Brass got to the motel, they were gone.
+267	00:15:07	00:15:09	He said it looked like they went out a bathroom window.
+268	00:15:09	00:15:11	Catherine's in no condition to be on the run. I know that.
+269	00:15:11	00:15:13	Certainly not with a hit team chasing her.
+270	00:15:13	00:15:15	Well, let's hope that we get to them before they do.
+271	00:15:15	00:15:18	What can this stiff tell us about the guys who might be after them?
+272	00:15:18	00:15:21	Uh, he appears to be a middle-aged, white male.
+273	00:15:21	00:15:24	Hide beetles consumed all of his skin and most of his tissue.
+274	00:15:24	00:15:27	He was shot four times. Check this out.
+275	00:15:27	00:15:32	Three of the shots entered the mid-back, the fourth shot penetrated the frontal lobe.
+276	00:15:32	00:15:34	These look like 5.7's.
+277	00:15:34	00:15:36	I was thinking Catherine was the one who hit this guy.
+278	00:15:36	00:15:37	You were thinking wrong.
+279	00:15:37	00:15:42	Five-sevens suggest friendly fire from one of the other hit men.
+280	00:15:48	00:15:49	Yeah, the coup de grâce to finish him off.
+281	00:15:53	00:15:56	Cloak and dagger is a little bit outside my area of expertise.
+282	00:15:56	00:16:01	But if these black ops guys were so good at cleaning up crime scenes, why didn't they just take him with them?
+283	00:16:01	00:16:03	A wounded man would only slow them down, I guess.
+284	00:16:03	00:16:09	But still, for pros, they sure have been making a lot of mistakes.
+285	00:16:09	00:16:10	Here, put this on.
+286	00:16:10	00:16:12	You're gonna need to cover all that up.
+287	00:16:12	00:16:13	Thank you.
+288	00:16:13	00:16:18	Hey, Jackory, hate to ask you for another favor, but I need a cell phone.
+289	00:16:18	00:16:19	Can I borrow one?
+290	00:16:19	00:16:21	Swear to God, I'll get it back to you.
+291	00:16:25	00:16:26	Oh.
+292	00:16:26	00:16:28	Take your pick.
+293	00:16:28	00:16:31	Disposable, can't be traced. (laughs)
+294	00:16:31	00:16:33	Thank you.
+295	00:16:33	00:16:36	And I got a feeling you're going to be needing this, too.
+296	00:16:36	00:16:40	Yeah, that's more, uh, Annie Oakley here.
+297	00:16:46	00:16:48	You may not be getting that back.
+298	00:16:48	00:16:50	Darling, the way you're handling that piece, I think I will.
+299	00:16:52	00:16:55	Thank you, guys.
+300	00:16:55	00:16:56	Thank you.
+301	00:16:56	00:16:58	You two take care.
+302	00:17:00	00:17:03	This is your idea of a safe place to hide out?
+303	00:17:03	00:17:06	When we're in Seattle, we can go to your coffeehouse.
+304	00:17:06	00:17:07	Yeah?
+305	00:17:07	00:17:09	Yeah, I need to see Teddy Jr.
+306	00:17:09	00:17:10	You got a name?
+307	00:17:10	00:17:14	Just, uh, tell him it's... Goldilocks.
+308	00:17:34	00:17:36	Hey, Teddy. Goldilocks!
+309	00:17:36	00:17:38	Oh, God, it's been too long.
+310	00:17:38	00:17:41	It sure has. Mm.
+311	00:17:41	00:17:42	Wish the old man was still with us.
+312	00:17:42	00:17:44	He always loved when you stopped by.
+313	00:17:44	00:17:50	Even after you became a cop. Teddy, listen, um... I'm in kind of a jam.
+314	00:17:50	00:17:52	You need a doctor? No, I'm fine.
+315	00:17:52	00:17:58	It actually looks worse than it is, but my friend Russell and I need to disappear for a while.
+316	00:17:59	00:18:01	No problem.
+317	00:18:01	00:18:04	The old man would have rolled out the red carpet for you.
+318	00:18:04	00:18:06	Sit down.
+319	00:18:06	00:18:07	Thanks, Teddy.
+320	00:18:07	00:18:08	I'll get you some sandwiches.
+321	00:18:14	00:18:16	So... Goldilocks?
+322	00:18:18	00:18:29	Uh, well, there was a time when the only thing I cared more about than having fun was getting attention, and a girl gets a lot of attention on a pole.
+323	00:18:29	00:18:35	But the thing is-- thank you-- working a pole is about working guys.
+324	00:18:35	00:18:38	Lonely guys with money who just want to forget their problems.
+325	00:18:38	00:18:46	Well, one night, right here at this bar, I met a guy who had a problem, but he wasn't trying to forget it.
+326	00:18:46	00:18:47	He was trying to solve it.
+327	00:18:47	00:18:49	Who was the guy?
+328	00:18:49	00:18:52	Jimmy Tadero. Detective.
+329	00:18:52	00:18:56	Well, he was working a case, and we started talking.
+330	00:18:56	00:19:01	For once, someone saw me as more than just a pretty face.
+331	00:19:01	00:19:03	And a few other attributes.
+332	00:19:03	00:19:05	Jimmy sounds like a very wise man.
+333	00:19:05	00:19:13	After that night, between dances, we would, uh, sit here at this bar, and...
+334	00:19:13	00:19:17	he'd run cases, and he'd ask my opinion.
+335	00:19:17	00:19:20	So, this is where you became a CSI.
+336	00:19:20	00:19:22	Yeah.
+337	00:19:22	00:19:23	Well, how about...
+338	00:19:23	00:19:27	how about you run this case with me right now?
+339	00:19:27	00:19:30	Don't you think you should make a phone call first, to your wife?
+340	00:19:30	00:19:34	Oh. When was the last time you went 24 hours without talking to her?
+341	00:19:36	00:19:37	Hey, doll. No, I'm sorry.
+342	00:19:37	00:19:39	I, um... I'm okay.
+343	00:19:39	00:19:41	I just lost my phone out in the field.
+344	00:19:41	00:19:44	I'm at a strip club with Catherine.
+345	00:19:46	00:19:49	Why do you always assume that I'm out on a job or something?
+346	00:19:49	00:19:53	You know, I could have come here just for myself, you know.
+347	00:19:53	00:19:56	We still don't know where they are?
+348	00:19:56	00:19:58	I would assume they're out there on the move.
+349	00:19:58	00:20:00	It's a lot safer than coming in here. Can't blame them.
+350	00:20:00	00:20:01	What do we have?
+351	00:20:01	00:20:03	First blush-- a hit team gone wild.
+352	00:20:03	00:20:04	But more miss than hit lately.
+353	00:20:04	00:20:06	I don't get it.
+354	00:20:06	00:20:08	These guys are supposed to be the best in the world.
+355	00:20:08	00:20:10	At least that's what you keep telling us, right?
+356	00:20:10	00:20:12	That's their rep.
+357	00:20:12	00:20:16	And we saw that at Malcolm Turner's law office-- covert, efficient, clean, A-plus.
+358	00:20:16	00:20:19	Yeah, but it wasn't perfect. We found the bodies.
+359	00:20:19	00:20:21	With 5.7-caliber bullets in them.
+360	00:20:21	00:20:24	Yeah, and picked clean by those bioengineered bugs.
+361	00:20:24	00:20:27	All of which strongly suggests Mark Gabriel's hand in the killings.
+362	00:20:27	00:20:28	Exactly.
+363	00:20:28	00:20:30	Which is just the start of the screwups.
+364	00:20:30	00:20:33	Since then, these A students have been turning in B work.
+365	00:20:33	00:20:38	Two days ago, Laura Gabriel's cousin's house, husband and wife murdered, and there was no attempt to clean up.
+366	00:20:38	00:20:42	And the world's greatest hit team couldn't even find Laura Gabriel hiding under the floorboards.
+367	00:20:42	00:20:44	Yeah.
+368	00:20:44	00:20:45	And made a total mess of it.
+369	00:20:45	00:20:48	That FBI convoy hit was on a public street in broad daylight.
+370	00:20:48	00:20:51	Not to mention, two hours later, Catherine's targeted.
+371	00:20:51	00:20:54	Even with the element of surprise, they missed.
+372	00:20:54	00:20:56	And hit one of their own. Friendly fire.
+373	00:20:56	00:21:00	They finished him off, left him in a culvert with Mark Gabriel's superbugs on him.
+374	00:21:00	00:21:02	Might as well have left a calling card.
+375	00:21:02	00:21:05	These guys sanitize some scenes and muck up others.
+376	00:21:05	00:21:07	Why the inconsistencies?
+377	00:21:07	00:21:08	I know Mark Gabriel.
+378	00:21:08	00:21:09	He doesn't make these kinds of mistakes.
+379	00:21:09	00:21:11	Maybe they aren't mistakes.
+380	00:21:11	00:21:12	Maybe it's all intentional.
+381	00:21:12	00:21:16	You think that Mark Gabriel's guys are leaving evidence behind on purpose?
+382	00:21:16	00:21:17	Not just any evidence.
+383	00:21:17	00:21:19	Evidence that points to Mark Gabriel.
+384	00:21:19	00:21:23	If what you're suggesting is true...
+385	00:21:23	00:21:25	then Mark Gabriel's not the one calling the shots.
+386	00:21:25	00:21:27	He's... he's being set up.
+387	00:21:27	00:21:29	By who?
+388	00:21:29	00:21:31	And why?
+389	00:21:33	00:21:34	Thank you very much.
+390	00:21:34	00:21:36	How you doing?
+391	00:21:36	00:21:37	You all right?
+392	00:21:37	00:21:42	Well, considering I've been shot in my side and cauterized by a hooker's curling iron, yeah, I guess so.
+393	00:21:42	00:21:45	So, you said you wanted to talk about the case? Yeah.
+394	00:21:45	00:21:49	I want to talk about how Mark Gabriel is not our guy.
+395	00:21:49	00:21:50	Excuse me?
+396	00:21:50	00:21:53	The resignation letter-- you didn't send it, did you?
+397	00:21:53	00:21:55	What resignation letter?
+398	00:21:55	00:21:57	This one.
+399	00:21:57	00:22:02	I, uh, printed it out before I drove over to see you.
+400	00:22:02	00:22:06	Uh, effective immediately, I tender my resignation.
+401	00:22:06	00:22:09	It's a decision I've been considering for a while...
+402	00:22:09	00:22:11	it's best for the team...
+403	00:22:11	00:22:12	I didn't write that.
+404	00:22:12	00:22:14	But wait, it gets better; here you go.
+405	00:22:14	00:22:20	I've made the decision to go away for a while, but first, I have to do something.
+406	00:22:20	00:22:24	I have one last bit of unfinished business to clear my desk.
+407	00:22:24	00:22:26	I hope you'll understand.
+408	00:22:26	00:22:27	What the hell?
+409	00:22:27	00:22:31	Listen, I think you need to read this whole email resignation you sent.
+410	00:22:31	00:22:33	I think you'll find it's not that far off the mark.
+411	00:22:33	00:22:36	For 19 years, I've dedicated myself to this lab.
+412	00:22:36	00:22:38	My authority has been questioned.
+413	00:22:38	00:22:40	My professional objectivity doubted.
+414	00:22:40	00:22:51	Though I graciously accepted an unwanted demotion, I now find my lesser role unsatisfying and untenable.
+415	00:22:51	00:22:53	Little close to the bone, I imagine.
+416	00:22:54	00:22:56	How did they know?
+417	00:22:56	00:23:01	Well, if they were able to hack into your account to send that email, I imagine they've been reading them all.
+418	00:23:01	00:23:02	All to manufacture a resignation letter?
+419	00:23:02	00:23:04	I-I don't think so.
+420	00:23:04	00:23:06	I think it's more of a... like, a cover story, right?
+421	00:23:06	00:23:09	CSI seeks revenge for the murder of her friend.
+422	00:23:09	00:23:12	Goes nuts, goes home, resigns.
+423	00:23:12	00:23:15	But not before she commits one last crazy act.
+424	00:23:15	00:23:17	And who does she direct her rage against?
+425	00:23:17	00:23:19	Mark Gabriel.
+426	00:23:19	00:23:22	Then that's gotta be why they took my backup gun.
+427	00:23:22	00:23:25	They were planning to use it on-on Gabriel.
+428	00:23:25	00:23:26	To make you the patsy.
+429	00:23:26	00:23:30	I go postal, I kill Gabriel and then... get disappeared.
+430	00:23:30	00:23:33	Yeah, but you screwed up their plans-- you survived.
+431	00:23:33	00:23:37	All I know is that with you still alive, they've got no play.
+432	00:23:37	00:23:42	So, safest thing for you to do right now is to come in out of the cold.
+433	00:23:42	00:23:48	Well, safe for me, maybe, but then they'll go underground and we'll never catch them.
+434	00:23:48	00:23:49	Hey, Teddy.
+435	00:23:49	00:23:51	Maybe we can have it both ways.
+436	00:23:51	00:23:52	I need one more favor. No problem.
+437	00:23:52	00:23:56	Can you call the coroner and tell him that you got two stiffs here that need picking up.
+438	00:23:56	00:23:59	And make sure to bring two body bags.
+439	00:23:59	00:24:00	One extra long.
+440	00:24:00	00:24:04	You got it.
+441	00:24:14	00:24:15	Welcome back to the living.
+442	00:24:15	00:24:18	Heard you been hitting the strip clubs.
+443	00:24:18	00:24:21	Yeah, why is that so hard for everyone to believe?
+444	00:24:21	00:24:23	Coming through.
+445	00:24:29	00:24:30	Aren't you a sight for sore eyes.
+446	00:24:30	00:24:32	For a second we thought you were...
+447	00:24:32	00:24:37	That you ran off to a Caribbean island and left us with your caseload.
+448	00:24:37	00:24:39	No, I'm not running anymore.
+449	00:24:39	00:24:40	That's 'cause we're on the hunt now.
+450	00:24:40	00:24:42	I'm going to need to redress that wound.
+451	00:24:42	00:24:44	And I'm going to need to redress.
+452	00:24:50	00:24:54	So that, uh, resignation letter was a fake.
+453	00:24:54	00:24:56	Yeah, a good one.
+454	00:24:56	00:24:57	They hacked your computer.
+455	00:24:57	00:24:59	They've been reading your email.
+456	00:24:59	00:25:01	Getting inside my head.
+457	00:25:01	00:25:04	So, you really feel that way?
+458	00:25:04	00:25:07	Something's missing in your life?
+459	00:25:09	00:25:13	Since Lindsey's left home, yeah.
+460	00:25:13	00:25:15	I mean, I'm not sure what I'm missing.
+461	00:25:15	00:25:21	Some days, I... I think it's a man to share my life with, and... then, other days, I'm good.
+462	00:25:21	00:25:23	I'm good to be alone.
+463	00:25:23	00:25:26	I mean, look at my friend Laura.
+464	00:25:26	00:25:28	(groans) She had everything.
+465	00:25:28	00:25:32	Appeared to have a perfect life.
+466	00:25:32	00:25:36	And it all turned out to be a lie.
+467	00:25:38	00:25:40	And then she turned out dead.
+468	00:25:40	00:25:44	I thought for sure Mark Gabriel killed her, tried to kill me.
+469	00:25:44	00:25:46	Now we know it was all a setup.
+470	00:25:46	00:25:47	Yeah, who's pulling the strings?
+471	00:25:47	00:25:50	It's gotta be someone in his operation, right?
+472	00:25:50	00:25:52	I'm going with Occam's razor.
+473	00:25:52	00:25:59	Sometimes the simplest answer is the right answer, and the one that's right in front of you.
+474	00:26:01	00:26:04	Until a couple weeks ago, you didn't even know who Mark Gabriel was.
+475	00:26:04	00:26:09	And you hadn't seen your good friend Laura since you were kids.
+476	00:26:09	00:26:11	What are you saying?
+477	00:26:11	00:26:14	I'm saying, maybe you didn't just run into your friend.
+478	00:26:16	00:26:18	I think that Sara might be right.
+479	00:26:18	00:26:24	I see Laura after all these years in reception at PD, waiting for her husband.
+480	00:26:24	00:26:33	She allows me to see her in a controlling, abusive relationship; she then comes to me, says she's got information on her husband that can put him away.
+481	00:26:33	00:26:36	She's afraid, I send her to a lawyer.
+482	00:26:36	00:26:38	Who ends up dead. Yes.
+483	00:26:38	00:26:43	All signs pointing to her husband, Mark Gabriel, as the guy who hired the killers.
+484	00:26:43	00:26:47	Yes, but if it's not Gabriel, and he's being set up to look guilty...
+485	00:26:47	00:26:48	And to die by your hand.
+486	00:26:48	00:26:50	Who stands to benefit?
+487	00:26:50	00:26:51	The wife...
+488	00:26:51	00:26:54	who is dead and burned beyond recognition.
+489	00:26:54	00:26:58	You know, like everything else in this damn case, all is not what it seems.
+490	00:26:58	00:27:00	Hey, Henry.
+491	00:27:00	00:27:01	Henry, where...
+492	00:27:01	00:27:02	(thumps) Ow.
+493	00:27:02	00:27:04	Aw, I'm sorry, did we wake you up?
+494	00:27:04	00:27:06	It's been a rough 48.
+495	00:27:06	00:27:12	You think? Hey, what did you use as an exemplar to identify the burned bodies in the FBI sedan?
+496	00:27:12	00:27:13	Well, the agents were easy.
+497	00:27:13	00:27:15	I just ran their DNA against the FBI database.
+498	00:27:15	00:27:20	What about Laura Gabriel? I had exemplars from the Gabriels' condo here in Vegas.
+499	00:27:20	00:27:22	What do you think?
+500	00:27:22	00:27:26	Plenty of opportunity to plant someone else's comb or toothbrush in that condo.
+501	00:27:29	00:27:31	We have another exemplar.
+502	00:27:31	00:27:35	Laura's clothes were bagged at the hospital after we found her at her cousin's house.
+503	00:27:35	00:27:40	Okay, so run those clothes, and then compare the new exemplar to our female DB.
+504	00:27:40	00:27:45	And I want to run all the DNA in this case against every known database.
+505	00:27:45	00:27:46	Got it.
+506	00:28:38	00:28:45	We compared a secondary exemplar for Laura Gabriel against the female who died in your protective custody.
+507	00:28:45	00:28:47	No match.
+508	00:28:47	00:28:48	Body wasn't Laura Gabriel.
+509	00:28:48	00:28:49	What are you talking about?
+510	00:28:49	00:28:57	We ran the DNA from all the bodies in that car against every known database under the sun, including U.S. military.
+511	00:28:57	00:28:58	We were able to identify the female body.
+512	00:28:58	00:29:01	She was one of the assassins who hit the law firm.
+513	00:29:01	00:29:05	She infiltrated your protection detail yesterday.
+514	00:29:05	00:29:07	Well, how did she end up dead in the back of the FBI sedan?
+515	00:29:07	00:29:11	My guess, shot by someone she trusted when she wasn't looking.
+516	00:29:11	00:29:15	And then somebody took a torch to her, because they wanted us to believe she was Laura Gabriel.
+517	00:29:15	00:29:22	For the same reason they wanted us to believe the guy sitting next to her was your partner, Agent McQuaid.
+518	00:29:22	00:29:25	No, no, McQuaid died in that car.
+519	00:29:25	00:29:27	He was identified by the FBI database.
+520	00:29:27	00:29:32	Which McQuaid updated with a new exemplar one month ago.
+521	00:29:32	00:29:38	Same military database identified the McQuaid body as a Geoffrey Krueger.
+522	00:29:38	00:29:43	Like our female assassin-- ex-Army, and now former Ceressus employee.
+523	00:29:43	00:29:45	Wait a second-- no, no, no, I don't believe any of this.
+524	00:29:45	00:29:48	You're telling me that, uh, McQuaid is...
+525	00:29:48	00:29:50	Dirty.
+526	00:29:50	00:29:54	And that he and Laura are the ones behind this whole thing.
+527	00:29:54	00:29:56	Three other agents died in that ambush.
+528	00:29:56	00:30:01	Not to mention, the couple from the farmhouse, those people from the law firm-- why would he do that?
+529	00:30:01	00:30:03	Sex, money...
+530	00:30:03	00:30:05	...maybe both. We know your team was compromised.
+531	00:30:05	00:30:09	And to be honest, until now, I thought it was you.
+532	00:30:09	00:30:13	I'm sorry, is that supposed to make me feel better?
+533	00:30:19	00:30:21	Hey, come on.
+534	00:30:21	00:30:22	None of us saw this coming.
+535	00:30:22	00:30:25	Yeah, but I worked with the guy, ten hours a days, for the past year.
+536	00:30:25	00:30:28	I mean, it's not like we were best friends, but...
+537	00:30:30	00:30:34	You know, I should've known when McQuaid said he was quitting, that something was up.
+538	00:30:34	00:30:36	And he...
+539	00:30:36	00:30:38	he always had this weakness when it came to beautiful women.
+540	00:30:38	00:30:40	Well, they're still out there.
+541	00:30:40	00:30:44	And like you said, they left a trail of bodies behind them.
+542	00:30:44	00:30:45	So what do we do?
+543	00:30:45	00:30:51	When she was playing the victim, Laura Gabriel gave us her husband's banking connection to his hit team.
+544	00:30:51	00:30:53	She was gonna use it to set him up.
+545	00:30:53	00:30:54	Why don't we use it to set her up?
+546	00:30:54	00:30:56	That sounds good.
+547	00:30:56	00:30:58	Good, 'cause the next part won't.
+548	00:31:09	00:31:11	So now you want my help?
+549	00:31:11	00:31:14	That's right.
+550	00:31:14	00:31:16	Interesting choice of venue.
+551	00:31:16	00:31:19	You've been watching too many movies.
+552	00:31:19	00:31:21	I wanted to make sure your people weren't listening.
+553	00:31:21	00:31:24	Does that go for LVPD, too?
+554	00:31:26	00:31:28	We're the least of your problems.
+555	00:31:28	00:31:34	I understand I'm no longer a person of interest, but I'd be interested in knowing who is now.
+556	00:31:34	00:31:36	So?
+557	00:31:36	00:31:37	Your wife.
+558	00:31:37	00:31:40	With help from my former partner.
+559	00:31:40	00:31:43	Laura and Agent McQuaid are dead.
+560	00:31:43	00:31:45	She played you.
+561	00:31:47	00:31:50	Impressive.
+562	00:31:50	00:31:53	Clearly my wife learned a few things over the years.
+563	00:31:53	00:31:56	She set your own dogs on you, and you know who they are.
+564	00:31:56	00:31:57	And how to bring them to heel.
+565	00:31:58	00:32:00	She betrayed us both.
+566	00:32:01	00:32:03	But you want this bad.
+567	00:32:03	00:32:05	I assume that's why you're keeping company with the Boy Scout.
+568	00:32:05	00:32:07	Like the man said, we need your help.
+569	00:32:07	00:32:08	Look...
+570	00:32:08	00:32:11	someone on your payroll knows where Laura and McQuaid are.
+571	00:32:15	00:32:17	This has been a helpful conversation.
+572	00:32:17	00:32:21	But I prefer to settle my own affairs.
+573	00:32:21	00:32:23	Good evening.
+574	00:32:27	00:32:28	That went well.
+575	00:32:30	00:32:32	I hope so.
+576	00:32:32	00:32:36	Just hope he's not as smart as he thinks he is.
+577	00:34:14	00:34:17	I won't miss next time.
+578	00:34:17	00:34:21	Put the gun on the floor, and keep the hands where we can see them.
+579	00:34:24	00:34:26	How did you find me?
+580	00:34:26	00:34:27	We just followed the money.
+581	00:34:27	00:34:29	Mark Gabriel made you a better offer.
+582	00:34:29	00:34:32	Double the money to take the contract off his head and put it on his wife's.
+583	00:34:32	00:34:34	And Laura Gabriel...
+584	00:34:34	00:34:35	was very cooperative.
+585	00:34:35	00:34:40	When things become personal, business always suffers.
+586	00:34:40	00:34:42	Well, our business isn't concluded.
+587	00:34:42	00:34:43	Where's McQuaid?
+588	00:34:43	00:34:44	You don't know?
+589	00:34:46	00:34:47	You already have him.
+590	00:34:53	00:34:55	Talked to McQuaid's ex-wife.
+591	00:34:55	00:34:58	She still had some of his things in the garage, including a shaving kit.
+592	00:34:58	00:35:02	Ran the DNA, and Obrecht was right-- we do have McQuaid.
+593	00:35:02	00:35:05	Where? In the morgue.
+594	00:35:05	00:35:07	Wha...? No, no.
+595	00:35:07	00:35:12	We... we identified the burned body in the FBI sedan, and it wasn't him.
+596	00:35:12	00:35:13	That's not the body I'm talking about.
+597	00:35:13	00:35:17	I'm talking about the body that your guys found in the culvert by her house.
+598	00:35:17	00:35:23	He was there, at my house? The bullet that missed you was a .40-caliber-- that's the only kind of gun McQuaid ever carried.
+599	00:35:23	00:35:29	Great. Not only did he set me up, Now, wait a second.
+600	00:35:29	00:35:32	The autopsy said he was hit in the back with 5.7's, right?
+601	00:35:32	00:35:35	So he was running towards you.
+602	00:35:35	00:35:39	You know, maybe he didn't miss; maybe he was firing a warning shot.
+603	00:35:39	00:35:41	He was trying to protect you.
+604	00:35:41	00:35:44	Yeah, McQuaid got a lot of people killed, but maybe that night, he was trying to save someone.
+605	00:35:44	00:35:47	Why?
+606	00:35:47	00:35:49	Well, obviously, he cared for you.
+607	00:35:55	00:35:58	Hey, wait up.
+608	00:35:58	00:36:01	I never got a chance to say this, but you really kicked ass last night.
+609	00:36:02	00:36:04	Thanks.
+610	00:36:04	00:36:06	Listen, Russell's right.
+611	00:36:06	00:36:07	McQuaid had feelings for you.
+612	00:36:07	00:36:09	But I think there was something else, too.
+613	00:36:09	00:36:13	I think that he saw in you what he used to be.
+614	00:36:13	00:36:15	What was that?
+615	00:36:15	00:36:17	Someone with integrity.
+616	00:36:17	00:36:19	Someone who wouldn't give up.
+617	00:36:19	00:36:21	The kind of agent that the Bureau needs.
+618	00:36:25	00:36:28	Are you asking me out on a date, or offering me a job?
+619	00:36:28	00:36:31	No, it was a job offer, but I...
+620	00:36:31	00:36:34	but it's one that I really think that you should consider.
+621	00:36:36	00:36:38	Well, I'm still on this job right now.
+622	00:36:39	00:36:41	But thanks.
+623	00:36:52	00:36:55	I already gave my statement to the other detectives.
+624	00:36:55	00:36:57	I just have one question.
+625	00:36:58	00:37:00	Why me?
+626	00:37:00	00:37:02	You really have to ask?
+627	00:37:02	00:37:03	Why do you think I chose you?
+628	00:37:04	00:37:06	I know you.
+629	00:37:06	00:37:08	Really.
+630	00:37:08	00:37:09	How do you figure that?
+631	00:37:15	00:37:22	When we were kids, you always went for the boy who needed you; I always went for the boy who would give me something.
+632	00:37:22	00:37:25	Are you talking about your husband?
+633	00:37:25	00:37:26	Or McQuaid?
+634	00:37:26	00:37:28	Both.
+635	00:37:28	00:37:31	Mark gave me a lifestyle.
+636	00:37:31	00:37:33	Worked for a while.
+637	00:37:33	00:37:34	Then it didn't.
+638	00:37:36	00:37:38	Then I met McQuaid.
+639	00:37:38	00:37:41	Investigating the gunrunning case here in Vegas.
+640	00:37:41	00:37:44	And you saw an opportunity... to set your husband up.
+641	00:37:46	00:37:47	To set me up.
+642	00:37:47	00:37:51	I take what I want.
+643	00:37:51	00:37:55	You put everyone else first, because that's the easier way.
+644	00:37:55	00:37:58	You'd rather accept the life you have...
+645	00:37:58	00:38:00	than risk having the life you want.
+646	00:38:03	00:38:05	You're never gonna see the outside world again, Laura.
+647	00:38:07	00:38:10	Tell me whose life you'd rather have now.
+648	00:38:12	00:38:13	Oh, and...
+649	00:38:13	00:38:20	you do know me-- but not as well as you think, because when you chose me, you should've known it was gonna end like this.
+650	00:38:30	00:38:33	Well, we picked up Mark Gabriel on conspiracy to murder his wife.
+651	00:38:33	00:38:36	Oh, raincoat guy sold him out.
+652	00:38:36	00:38:38	Wanted to dodge the needle. Wow.
+653	00:38:38	00:38:40	Guy had no problem dealing death.
+654	00:38:40	00:38:42	It's a different story when it's his own life on the line, huh?
+655	00:39:01	00:39:03	Did you call a family meeting?
+656	00:39:03	00:39:06	No. No, I... No, I didn't.
+657	00:39:06	00:39:07	Catherine did.
+658	00:39:07	00:39:08	So...
+659	00:39:08	00:39:10	what's going on?
+660	00:39:11	00:39:15	I just wanted to say how...
+661	00:39:15	00:39:18	brilliant I think you all are...
+662	00:39:19	00:39:29	...what a great team this is, how much I respect all of you, both as coworkers...
+663	00:39:29	00:39:30	and as friends.
+664	00:39:32	00:39:38	Well, as you all know, there were a few changes made, a couple of months ago, which, uh...
+665	00:39:38	00:39:42	(sighs) initially hurt me...
+666	00:39:42	00:39:45	but, um, ultimately...
+667	00:39:45	00:39:47	ended up being a great thing.
+668	00:39:49	00:39:51	And, Nicky...
+669	00:39:51	00:39:56	I was so wrong when I said that...
+670	00:39:56	00:40:01	it's been a long 19 years here in this lab...
+671	00:40:01	00:40:03	in this town.
+672	00:40:03	00:40:05	I mean, the truth is...
+673	00:40:07	00:40:09	...it's just gone by too fast.
+674	00:40:09	00:40:12	But...
+675	00:40:12	00:40:16	there comes a point in one's life in which...
+676	00:40:16	00:40:19	one feels compelled to make a change.
+677	00:40:20	00:40:22	What are you saying?
+678	00:40:22	00:40:27	That I've been offered another job.
+679	00:40:27	00:40:28	With the FBI.
+680	00:40:30	00:40:31	I've decided to take it.
+681	00:40:31	00:40:33	When?
+682	00:40:33	00:40:35	Well, it's effective immediately.
+683	00:40:35	00:40:37	I...
+684	00:40:37	00:40:41	tendered my resignation.
+685	00:40:41	00:40:44	For real this time.
+686	00:40:45	00:40:49	You are all family...
+687	00:40:49	00:40:53	which is why...
+688	00:40:53	00:40:56	this is the hardest decision I've ever made.
+689	00:40:56	00:41:00	I mean, how could I leave this place?
+690	00:41:00	00:41:04	How could I leave all of you?
+691	00:41:04	00:41:09	But not only are you in great hands...
+692	00:41:09	00:41:11	but you...
+693	00:41:11	00:41:17	are a rock-solid, bad-ass team of criminalists, and don't ever forget it.
+694	00:41:17	00:41:22	We all just love you, Catherine.
+695	00:41:22	00:41:28	And, you know, even though you're leaving, you'll always be here with us, always.
+696	00:41:28	00:41:30	Yeah.
+697	00:41:30	00:41:32	We love you.
+698	00:41:32	00:41:35	I love you, too.
+699	00:41:39	00:41:40	Go get 'em.
+700	00:41:50	00:41:54	I sat here...
+701	00:41:54	00:42:00	a very long time ago and talked about how solving a case can...
+702	00:42:00	00:42:03	make you feel like King Kong on cocaine.
+703	00:42:03	00:42:07	But just like any drug...
+704	00:42:07	00:42:10	it's got a dark side...
+705	00:42:10	00:42:13	and the rush is fleeting.
+706	00:42:13	00:42:16	Just like life.
+707	00:42:17	00:42:19	This is the only thing I'm good at.
+708	00:42:19	00:42:21	Then hang on to that.
+709	00:42:21	00:42:24	But not so tight that...
+710	00:42:24	00:42:26	you let the rest slip away.
+711	00:42:28	00:42:31	I know your dad would tell you the same thing.
+712	00:42:38	00:42:40	Back to work.
+713	00:42:40	00:42:42	Go ahead. I got this one.
+714	00:42:43	00:42:45	I got the next one.
+715	00:42:45	00:42:47	You got it.

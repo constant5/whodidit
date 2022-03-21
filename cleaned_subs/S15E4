@@ -1,812 +1,811 @@
-,start,end,text
-0,00:00:01,00:00:05,"Welcome to Jefferson High, home of the Pelicans."
-1,00:00:05,00:00:07,Pelican pride.
-2,00:00:07,00:00:11,"Pelicans are, by the way, a shore bird-- Pelecanus occidentalis."
-3,00:00:11,00:00:13,A water bird mascot in the desert?
-4,00:00:13,00:00:16,"Ooh, here comes Principal Meadows."
-5,00:00:16,00:00:19,"(laughs) Hi. Did you have a good weekend, Mason? Mm-hmm."
-6,00:00:19,00:00:21,"Um, what about that football game?"
-7,00:00:21,00:00:23,"Ah, Turk was fantastic."
-8,00:00:23,00:00:25,"Oh, go... Pelicans!"
-9,00:00:25,00:00:26,Wait!
-10,00:00:28,00:00:30,Turk can't name the vice president.
-11,00:00:30,00:00:31,No joke.
-12,00:00:31,00:00:33,And he's one failed test away from flunking out.
-13,00:00:33,00:00:35,"Ooh, but don't take my word for it."
-14,00:00:35,00:00:37,"Hey, Turk."
-15,00:00:37,00:00:39,"70 yards passing, not bad!"
-16,00:00:39,00:00:40,"Oh, Chugga-Brew. I want to talk to you."
-17,00:00:40,00:00:42,"Uh, I'm busy, Turk."
-18,00:00:42,00:00:44,"Come on, man. This vertex of the para-boola is driving me nuts."
-19,00:00:44,00:00:46,You're the only one who can explain it to me.
-20,00:00:46,00:00:47,Maybe next time.
-21,00:00:47,00:00:50,I almost feel sorry for him.
-22,00:00:50,00:00:52,"GIRL: What up, boy?"
-23,00:00:52,00:00:57,"Aw, is Mason making a little selfie video for his mommy?"
-24,00:00:57,00:00:58,"Hi, Mason."
-25,00:00:58,00:01:00,"Come on, Hannah, give it back."
-26,00:01:00,00:01:05,"Wow, this thing is, like, five generations old."
-27,00:01:05,00:01:08,Pretty lame for a tech geek.
-28,00:01:08,00:01:09,What do you want?
-29,00:01:09,00:01:12,"World peace, Mason. World peace."
-30,00:01:14,00:01:15,Great talk.
-31,00:01:15,00:01:18,"You know, I still can't believe you don't have a girlfriend."
-32,00:01:19,00:01:22,"Right here, Mason..."
-33,00:01:22,00:01:23,Hannah's my next-door neighbor.
-34,00:01:23,00:01:27,"We used to play kick the can and hang out, but then she got her braces off."
-35,00:01:27,00:01:29,"Hey, sweetie."
-36,00:01:29,00:01:32,Remember to take the car in after school-- oil change.
-37,00:01:32,00:01:33,I know.
-38,00:01:33,00:01:35,You told me a billion times.
-39,00:01:35,00:01:36,(sighs) That's my mom.
-40,00:01:36,00:01:38,She teaches earth science here.
-41,00:01:38,00:01:41,"Ah, famous Pelican cheerleaders."
-42,00:01:41,00:01:43,"Good news, bad news."
-43,00:01:43,00:01:45,Bad news-- it's eighth period.
-44,00:01:45,00:01:48,Good news-- it's eighth period. (booming)
-45,00:01:49,00:01:51,(screaming)
-46,00:01:51,00:01:53,"Holy crap, he's..."
-47,00:01:53,00:01:55,"My God, someone call 911!"
-48,00:01:55,00:01:57,"Grab a blanket, get some water! Call 911!"
-49,00:01:57,00:02:00,"I got you, Chet, I got you."
-50,00:02:00,00:02:01,Call an ambulance! Now!
-51,00:02:07,00:02:09,Ed...
-52,00:02:09,00:02:10,is he...?
-53,00:02:14,00:02:16,"PRINCIPAL: Everybody, report to your homerooms."
-54,00:02:16,00:02:18,"ED: Everybody, go back to class, come on."
-55,00:02:18,00:02:20,(indistinct chatter)
-56,00:02:36,00:02:37,"SANDERS: Hey, Dave."
-57,00:02:37,00:02:38,Hey.
-58,00:02:38,00:02:40,Any I.D. on our burning man?
-59,00:02:40,00:02:42,Chet Messner.
-60,00:02:42,00:02:44,Taught chemistry.
-61,00:02:44,00:02:48,"Sadly appropriate, given his extreme thermal and chemical burns."
-62,00:02:48,00:02:50,Fourth degree charring.
-63,00:02:50,00:02:51,No one's gonna survive that.
-64,00:02:51,00:02:52,Nope.
-65,00:02:52,00:02:53,Any luck retracing his steps?
-66,00:02:53,00:02:55,Yeah.
-67,00:02:55,00:02:58,"Uh, looks like the vic was in the classroom when something went wrong."
-68,00:02:58,00:03:00,That's an understatement.
-69,00:03:00,00:03:02,Clearly there was an explosion.
-70,00:03:02,00:03:04,It appears he was doing some prep work for an experiment.
-71,00:03:04,00:03:07,"So, we're looking at an accident."
-72,00:03:07,00:03:09,"Maybe not, actually."
-73,00:03:09,00:03:11,"Look, I, um, I found his cell phone."
-74,00:03:11,00:03:13,He received an anonymous text this morning.
-75,00:03:13,00:03:15,"""Epic fail, Messner."
-76,00:03:15,00:03:19,"""Do the right thing, or suffer the consequences."" So much for an accident."
-77,00:03:19,00:03:22,"Well, looks like Messner did the wrong thing."
-78,00:03:24,00:03:25,And got burned.
-79,00:04:01,00:04:03,PRINCIPAL: I still can't believe it.
-80,00:04:03,00:04:05,"I mean, my goodness, Chet's always been so careful."
-81,00:04:05,00:04:08,Makes an explosion in his lab all the more puzzling.
-82,00:04:08,00:04:10,"So, I understand it was eighth period."
-83,00:04:10,00:04:12,Wasn't he teaching a class?
-84,00:04:12,00:04:16,"Uh, no. He normally grades papers then, or makes his lesson plans."
-85,00:04:16,00:04:18,Did you know Mr. Messner well?
-86,00:04:18,00:04:20,"Oh, yeah."
-87,00:04:20,00:04:22,About five years now.
-88,00:04:22,00:04:24,He'd always throw great barbecues on the Fourth.
-89,00:04:24,00:04:26,The whole faculty would go.
-90,00:04:26,00:04:27,And what about his students?
-91,00:04:27,00:04:28,Did he get along with them?
-92,00:04:28,00:04:31,You don't think someone deliberately hurt Chet?
-93,00:04:31,00:04:32,We don't know yet.
-94,00:04:32,00:04:35,But I am going to need a list of all of his students' names.
-95,00:04:35,00:04:36,The students loved Chet.
-96,00:04:36,00:04:38,He put in a lot of time here.
-97,00:04:38,00:04:45,"In fact, right now he would be setting up for tomorrow's Pelican rally if... he hadn't..."
-98,00:04:46,00:04:48,"Well, I'm sorry for your loss, Ms. Meadows."
-99,00:04:48,00:04:50,Thanks for your time. Yeah.
-100,00:04:52,00:04:55,How was your meeting with the principal?
-101,00:04:55,00:04:58,"According to her, everyone just loved good old Mr. Messner."
-102,00:04:58,00:05:00,Until someone didn't.
-103,00:05:00,00:05:01,"We need our, uh, bunny suits?"
-104,00:05:01,00:05:03,I did a sweep.
-105,00:05:03,00:05:06,Air samples are clear of hazardous chemicals.
-106,00:05:06,00:05:08,So you get to be bunny-free.
-107,00:05:08,00:05:10,"Well, I guess that means we're late for class."
-108,00:05:10,00:05:12,Aren't you gonna carry my kit?
-109,00:05:14,00:05:15,No.
-110,00:05:21,00:05:23,First responders said the sprinklers put out the fire.
-111,00:05:23,00:05:26,"The gas was still on, so they shut it off."
-112,00:05:26,00:05:30,And it didn't look like the gas line had been tampered with at all.
-113,00:05:30,00:05:32,But take a look at this.
-114,00:05:32,00:05:33,Bunsen burner...
-115,00:05:33,00:05:36,says that Mr. Messner was working on one of his lesson plans.
-116,00:05:36,00:05:41,The burn marks that are radiating outwards say that this may be the point of origin.
-117,00:05:41,00:05:43,Question is-- what set it off?
-118,00:05:43,00:05:45,Fire needs an accelerant.
-119,00:05:45,00:05:47,"So, what are you thinking?"
-120,00:05:48,00:05:50,The scorching marks...
-121,00:05:50,00:05:52,are going this way.
-122,00:05:57,00:06:00,I think I might have found our accelerant.
-123,00:06:04,00:06:09,Whatever was in here must have shot across the table like a rocket.
-124,00:06:09,00:06:12,"Yep, singed and blackened."
-125,00:06:12,00:06:14,How am I doing so far?
-126,00:06:15,00:06:17,Ms. Brody?
-127,00:06:19,00:06:20,"Hey, you're not paying attention."
-128,00:06:20,00:06:23,"It's 'cause I'm forming my own theory, professor."
-129,00:06:23,00:06:25,It's here-- gummy bears.
-130,00:06:25,00:06:28,On his crazy-tidy shelf.
-131,00:06:28,00:06:31,"You know the saying that, uh, sugar gives you energy?"
-132,00:06:31,00:06:32,Yeah.
-133,00:06:32,00:06:34,I think that Messner was gonna try to prove that.
-134,00:06:34,00:06:36,It's on his whiteboard there.
-135,00:06:36,00:06:37,Tomorrow's lesson plan.
-136,00:06:37,00:06:39,That's what he was prepping.
-137,00:06:39,00:06:43,Molten potassium chlorate combined with glucose.
-138,00:06:43,00:06:47,"Potassium chlorate-- that's an accelerant, used in fireworks."
-139,00:06:47,00:06:48,Makes for quite a show.
-140,00:06:50,00:06:57,"BRODY: In fact, it's such a powerful oxidizer, that when you add the gummy bear or the sugar, it reacts violently."
-141,00:06:57,00:06:59,"Makes a loud noise, causes lots of flames."
-142,00:06:59,00:07:01,It's kind of like a Roman candle.
-143,00:07:02,00:07:05,"Well, like a Roman candle, there should be no explosion."
-144,00:07:05,00:07:07,It was supposed to be a controlled experiment.
-145,00:07:07,00:07:10,Until you add the X factor to the equation.
-146,00:07:10,00:07:11,The killer.
-147,00:07:17,00:07:19,(screams)
-148,00:07:20,00:07:22,"""Epic fail, Messner."
-149,00:07:22,00:07:32,"Do the right thing, or suffer the consequences."" We traced this text to your phone, Mason."
-150,00:07:32,00:07:34,I-I'm sorry.
-151,00:07:34,00:07:36,I was just... venting.
-152,00:07:36,00:07:37,"I didn't really mean it, I swear."
-153,00:07:37,00:07:40,"You sent a threatening text, Mason."
-154,00:07:40,00:07:43,"In this day and age, these things are taken very seriously."
-155,00:07:43,00:07:45,"Look, Mom, it was stupid. I know."
-156,00:07:46,00:07:49,"Mr. Russell, this is really unlike him."
-157,00:07:49,00:07:52,"I'm not just speaking as a mom, I'm speaking as a faculty member."
-158,00:07:52,00:07:54,Mason's on the honor roll.
-159,00:07:54,00:07:55,He is a good kid.
-160,00:07:55,00:07:58,"You good at chemistry, too, Mason?"
-161,00:07:58,00:08:00,"I sent a text, all right?"
-162,00:08:00,00:08:03,But I did not inferno Mr. Messner.
-163,00:08:04,00:08:06,I-I was mad.
-164,00:08:06,00:08:08,He gave me a B+ for the semester.
-165,00:08:08,00:08:10,I missed a few days here and there.
-166,00:08:11,00:08:13,I was sick.
-167,00:08:13,00:08:15,And he wouldn't give me a break.
-168,00:08:15,00:08:16,Why didn't you talk to him?
-169,00:08:16,00:08:18,I did.
-170,00:08:18,00:08:22,"Like a lot of people around here, he held me to a higher standard."
-171,00:08:22,00:08:25,Chet could be very stubborn.
-172,00:08:25,00:08:27,And that does not justify what you did.
-173,00:08:27,00:08:31,"The consequences you said that Mr. Messner would suffer, what'd you mean by that?"
-174,00:08:31,00:08:35,"I heard those lines from a movie, it was... it was just a bluff."
-175,00:08:35,00:08:40,"I just wanted my ""A."" Because people expect big things from me."
-176,00:08:42,00:08:45,(choking up): And I didn't want to let you down.
-177,00:08:45,00:08:49,And I know... I know how much all this means to you.
-178,00:08:49,00:08:51,And... Mason.
-179,00:08:51,00:08:53,You could never let me down.
-180,00:08:56,00:08:58,"Mr. Russell, does my son need a lawyer?"
-181,00:08:58,00:09:00,"No, not at the moment."
-182,00:09:08,00:09:11,"Doc, can you explain this text I got from Hodges?"
-183,00:09:11,00:09:24,"Okay, ""Nobody knows what the nose knows until the nose knows it. See Doc."" Our friend, Hodges, has the gene that allows him to smell the bitter almond odor of cyanide."
-184,00:09:24,00:09:25,It's a gift.
-185,00:09:25,00:09:26,"Mmm, he has so many gifts."
-186,00:09:26,00:09:27,"Oh, yeah."
-187,00:09:27,00:09:30,Note this pink lividity.
-188,00:09:30,00:09:34,Indicative of cyanide poisoning.
-189,00:09:34,00:09:36,"Mr. Messner would have been a goner, fire or no fire."
-190,00:09:36,00:09:40,"So, Messner was poisoned before the explosion."
-191,00:09:40,00:09:44,"Killer did not push him into the flames, but he did dose him with cyanide."
-192,00:09:44,00:09:48,In sufficient quantity to cause him to seize at a most inopportune time.
-193,00:09:54,00:09:57,(screams)
-194,00:09:57,00:09:59,"Well, that changes everything."
-195,00:09:59,00:10:02,Killer didn't have to be in the classroom.
-196,00:10:03,00:10:04,Do you know how he was dosed?
-197,00:10:04,00:10:07,Normally cyanide presents in the stomach lining and nasal passages.
-198,00:10:07,00:10:09,But I found no signs of this.
-199,00:10:09,00:10:11,"So he didn't eat it, and he didn't snort it."
-200,00:10:11,00:10:13,What else do you know about him?
-201,00:10:13,00:10:18,"Uh, he was single, been in Vegas for about five years, no record. Why?"
-202,00:10:18,00:10:20,"Well, he was wearing this."
-203,00:10:20,00:10:22,It's called a life rune.
-204,00:10:22,00:10:24,It's a gang symbol.
-205,00:10:24,00:10:27,"Two weeks ago, I saw the same symbol."
-206,00:10:27,00:10:29,It was tattooed on a dead biker's ass.
-207,00:10:29,00:10:31,Blended nicely with his swastikas.
-208,00:10:31,00:10:35,"So, our lovable teacher, Chet Messner, may have had a dark secret."
-209,00:10:46,00:10:48,"This a bad time, Russ?"
-210,00:10:48,00:10:49,I got something for you.
-211,00:10:49,00:10:50,Come on in.
-212,00:10:51,00:10:52,I ran Messner's credit cards.
-213,00:10:52,00:10:54,"Now, one thing really popped out."
-214,00:10:54,00:10:57,He's been ordering monthly shipments of red phosphorus powder.
-215,00:10:57,00:10:59,"Man's a chemistry teacher, though, right?"
-216,00:10:59,00:11:02,He got it from some shady supplier online.
-217,00:11:02,00:11:04,And he got it delivered to his house.
-218,00:11:04,00:11:07,Some little place out on Sloan Canyon. What are you thinking?
-219,00:11:07,00:11:09,We both know what red phosphorus powder is used for.
-220,00:11:09,00:11:12,Chemistry teacher dealing meth.
-221,00:11:12,00:11:13,Good show.
-222,00:11:13,00:11:17,"I'm just saying, Messner may have some enemies we haven't considered."
-223,00:11:17,00:11:19,Maybe he stepped on the wrong dealer's turf.
-224,00:11:19,00:11:23,"Yeah, and then that dealer goes back to that school, and gives Messner a big old fat ""F"" in meth class."
-225,00:11:23,00:11:25,Go get 'em.
-226,00:11:25,00:11:27,(siren wailing)
-227,00:11:29,00:11:31,Main house is clear.
-228,00:11:31,00:11:33,Really?
-229,00:11:33,00:11:35,"All right, we'll check the shed."
-230,00:11:55,00:11:57,STOKES: There's a knife.
-231,00:11:57,00:12:00,With what looks like blood on it right there.
-232,00:12:00,00:12:03,This doesn't look like a meth lab to me.
-233,00:12:03,00:12:06,"Man, these are some creepy-ass tapestries."
-234,00:12:08,00:12:11,CRAWFORD: I think it might be more than just that.
-235,00:12:12,00:12:15,I've seen this stuff before.
-236,00:12:15,00:12:17,Double in the Alphabets.
-237,00:12:17,00:12:20,"This, uh, this whack-job..."
-238,00:12:20,00:12:23,he killed a couple as a sacrifice.
-239,00:12:23,00:12:25,To the moon god.
-240,00:12:25,00:12:27,"So, what is this, devil worship?"
-241,00:12:27,00:12:29,"No, not exactly."
-242,00:12:29,00:12:30,Stokes.
-243,00:12:32,00:12:34,Book of Shadows. What's that?
-244,00:12:34,00:12:35,It's like a book of spells.
-245,00:12:35,00:12:37,This is a ceremonial altar and a cauldron.
-246,00:12:37,00:12:40,The only thing that's missing is a broom.
-247,00:12:41,00:12:43,Our chemistry teacher's a witch.
-248,00:12:48,00:12:57,"Air, fire, water, earth, elements of astral birth, I call on thee, and offer these gifts."
-249,00:12:58,00:13:00,"RUSSELL: ""I call you now..."
-250,00:13:00,00:13:01,"""Attend to me."
-251,00:13:01,00:13:02,"""This is my will."
-252,00:13:02,00:13:08,"So mote it be."" What happens next?"
-253,00:13:08,00:13:09,"No, wait."
-254,00:13:09,00:13:10,Don't tell me.
-255,00:13:10,00:13:12,Let me guess.
-256,00:13:12,00:13:13,"Lightning strikes, right?"
-257,00:13:13,00:13:16,"No, coven meeting starts."
-258,00:13:16,00:13:18,Sounds like you've been to one.
-259,00:13:18,00:13:22,"Actually, my parents befriended a Wiccan couple back in the '60s."
-260,00:13:22,00:13:24,So I know a little bit about it.
-261,00:13:24,00:13:25,It's a pagan religion.
-262,00:13:25,00:13:30,They use spells to harness the earth's energy to grant positive wishes.
-263,00:13:32,00:13:35,That's the sign of the devil right there.
-264,00:13:35,00:13:36,The five-pointed star?
-265,00:13:36,00:13:40,"No, that's a sign of balance and strength, actually."
-266,00:13:40,00:13:42,It's a protective symbol.
-267,00:13:42,00:13:44,I always thought it was a sign of the devil.
-268,00:13:44,00:13:45,"Well, you're wrong."
-269,00:13:51,00:13:52,Yeah.
-270,00:13:52,00:13:54,This is our red phosphorus right here.
-271,00:13:54,00:13:58,"I think Messner was making magic, not meth, in here."
-272,00:13:58,00:14:01,"Yes, the question is-- did magic lead to murder?"
-273,00:14:01,00:14:03,"Well, they were in here mixing up potions."
-274,00:14:03,00:14:04,Maybe one of them...
-275,00:14:04,00:14:06,made a cyanide spell.
-276,00:14:07,00:14:08,There's a singed hair in here.
-277,00:14:08,00:14:11,Looks human.
-278,00:14:11,00:14:13,A burnt human hair in a cauldron?
-279,00:14:13,00:14:17,How does that work in the hocus-pocus business?
-280,00:14:17,00:14:20,"Well, that's a little disturbing, actually."
-281,00:14:20,00:14:24,"Why don't we turn this place upside down, see if they left more than a human hair behind."
-282,00:14:48,00:14:50,And he's wearing a robe.
-283,00:14:52,00:14:53,Helps me get into it.
-284,00:14:53,00:14:55,"Come on, this is Vegas."
-285,00:14:55,00:14:56,Anything goes.
-286,00:14:56,00:14:57,Where can't you find a relic Druid robe?
-287,00:14:57,00:15:00,"Well, did the robe help? It did."
-288,00:15:00,00:15:04,I think I know what our witches were cooking in the Wiccan kitchen.
-289,00:15:04,00:15:06,"And if you'll step into my Wiccan kitchen, I'll be happy to explain."
-290,00:15:09,00:15:12,Using a two-quart cast-iron cauldron...
-291,00:15:12,00:15:20,"you add human blood, a teaspoon of red phosphorus, then garnish with human hair. You heat it all up until there is a gloomy smoke, and then you have..."
-292,00:15:20,00:15:24,A group of sad lost people inhaling toxic fumes?
-293,00:15:24,00:15:26,No.
-294,00:15:26,00:15:28,A banishment spell.
-295,00:15:28,00:15:31,ALL (chanting): Charge this by your powers.
-296,00:15:31,00:15:33,Break this circle.
-297,00:15:33,00:15:35,Banish the leper.
-298,00:15:35,00:15:36,Let us be reborn.
-299,00:15:36,00:15:38,Since when are you a Wicca expert?
-300,00:15:38,00:15:40,Dated one in college.
-301,00:15:40,00:15:41,"Uh, she was intense."
-302,00:15:41,00:15:42,Perhaps too natural?
-303,00:15:42,00:15:47,"Truth be told, uh, she didn't have a bathing spell in her Book of Shadows."
-304,00:15:47,00:15:50,"Okay, okay, let's just get back to this... spell."
-305,00:15:50,00:15:53,Are you saying that Messner was being banished?
-306,00:15:53,00:15:55,Thou art correct.
-307,00:15:55,00:15:58,I found one drop of unburned blood on the lip of the cauldron.
-308,00:15:58,00:16:00,"Now, per the spell, it means that Messner was the target."
-309,00:16:01,00:16:03,Suggests motive.
-310,00:16:03,00:16:07,Maybe Messner wasn't willing to go quietly into that witchy night.
-311,00:16:07,00:16:10,"So, another witch concocts a deadly brew to silence him."
-312,00:16:11,00:16:14,"Toil and trouble, let the cyanide bubble."
-313,00:16:14,00:16:17,Any luck with the hair in the cauldron?
-314,00:16:17,00:16:19,Henry found DNA on the follicle.
-315,00:16:19,00:16:21,"Unknown female, no hits in CODIS."
-316,00:16:21,00:16:25,But the prints on the candle... shed more light.
-317,00:16:27,00:16:30,"In fact, I.D.'s four of our witches."
-318,00:16:30,00:16:33,Turns out that Wiccans come from all walks of life.
-319,00:16:33,00:16:37,"Our first witch is a postal worker, currently on vacation in Florida."
-320,00:16:37,00:16:39,"Okay, postal worker's out."
-321,00:16:39,00:16:43,Witch number two is a pharmaceutical saleswoman with a DUI on her record.
-322,00:16:43,00:16:45,She's on the road this week.
-323,00:16:45,00:16:46,Alibis her.
-324,00:16:46,00:16:49,But school was in session for two of our other witches.
-325,00:16:49,00:16:52,"Requiring that their fingerprints, too, were in the system."
-326,00:16:54,00:16:56,Witch number three is our own Ms. Brewer.
-327,00:16:56,00:16:58,"Earth science teacher, spell caster."
-328,00:16:58,00:17:00,Ms. Brewer?
-329,00:17:00,00:17:02,Didn't see that coming.
-330,00:17:02,00:17:04,How about the man who tried to save Chet Messner?
-331,00:17:05,00:17:06,I call on thee...
-332,00:17:06,00:17:08,SANDERS: The janitor's a witch?
-333,00:17:08,00:17:14,Why didn't you tell us that you and Chet Messner were part of a secret society?
-334,00:17:14,00:17:16,There you go.
-335,00:17:16,00:17:17,It's a secret.
-336,00:17:17,00:17:21,"Yeah, but secret-time kind of goes away when it's a homicide."
-337,00:17:21,00:17:24,Our religion had nothing to do with what happened to Chet.
-338,00:17:24,00:17:25,Maybe it did.
-339,00:17:25,00:17:31,"Could be a nervous witch, you know, makes a cyanide potion to stop a fellow witch from outing your gang."
-340,00:17:31,00:17:33,Isn't that what you guys are really about?
-341,00:17:33,00:17:34,Curses and revenge?
-342,00:17:34,00:17:37,You have a wrong idea about us.
-343,00:17:37,00:17:39,"Okay. Well, give me the right one."
-344,00:17:39,00:17:41,"Wicca saved me, Detective."
-345,00:17:41,00:17:43,Saved you?
-346,00:17:43,00:17:46,I came to Vegas to hustle cards.
-347,00:17:46,00:17:47,It ate me up.
-348,00:17:48,00:17:51,Left me a broke alcoholic.
-349,00:17:51,00:17:54,I found serenity in the power of nature.
-350,00:17:54,00:17:58,"Fact is, peace is at the core of our belief."
-351,00:17:58,00:17:59,That's what we're about.
-352,00:17:59,00:18:03,"If someone hurt Chet, it came from the outside."
-353,00:18:03,00:18:05,The whole thing was a shock to me.
-354,00:18:05,00:18:06,It was my second gathering.
-355,00:18:06,00:18:08,"Oh, so you're new to the craft."
-356,00:18:08,00:18:10,"Yes, Chet asked me to join."
-357,00:18:10,00:18:12,And then he's banished.
-358,00:18:12,00:18:15,"I didn't think that it was fair, but I was new."
-359,00:18:15,00:18:16,And who was I to question the coven?
-360,00:18:16,00:18:18,They all wanted him gone.
-361,00:18:18,00:18:21,Chet had been speaking publically about coven activities.
-362,00:18:21,00:18:24,Shoot his mouth off to complete strangers.
-363,00:18:24,00:18:28,He thought it was a way of getting out the message.
-364,00:18:28,00:18:30,How'd that make you feel?
-365,00:18:30,00:18:31,Not good.
-366,00:18:33,00:18:35,But not bad enough to kill.
-367,00:18:36,00:18:40,Talking out of school is why Chet was banished; it's not why he was murdered.
-368,00:18:42,00:18:44,A Wiccan doesn't kill.
-369,00:18:45,00:18:49,"We have one unidentified female member of the coven, but I need some names."
-370,00:18:49,00:18:51,I'm not allowed to divulge names.
-371,00:18:51,00:18:52,I'm sorry.
-372,00:18:52,00:18:54,Oh.
-373,00:18:54,00:18:55,"Well, I'm sorry, too."
-374,00:18:55,00:19:03,"Because talking to members of the coven, people who knew Chet well-- that's our best shot at figuring out who hurt your friend."
-375,00:19:04,00:19:07,I have been lost...
-376,00:19:07,00:19:09,since my husband passed.
-377,00:19:09,00:19:15,"And this might sound corny, but there is a holiness to the cosmos."
-378,00:19:15,00:19:17,A harmony.
-379,00:19:17,00:19:20,It helps me get through the bad days.
-380,00:19:20,00:19:23,I owe it to them to protect their privacy.
-381,00:19:25,00:19:27,I can't break a sacred oath.
-382,00:19:27,00:19:28,RUSSELL: What did you think?
-383,00:19:28,00:19:31,You're asking me-- do I think they're protecting themselves or someone else?
-384,00:19:31,00:19:33,Yeah.
-385,00:19:33,00:19:35,(sighs) I'm not sure.
-386,00:19:35,00:19:37,"Well, they could be telling the truth, right?"
-387,00:19:37,00:19:40,"I mean, I like to think that society's a little more tolerant nowadays."
-388,00:19:40,00:19:46,Do we really think that a member of a coven would be willing to kill another member for fear of being exposed?
-389,00:19:46,00:19:49,"I don't know, a banishment spell for loose lips?"
-390,00:19:49,00:19:55,"I mean, that tells me the first rule of witch club is, ""Don't talk about witch club."" Greg."
-391,00:19:55,00:20:00,"""Hop off the broom, join me back on Planet Earth."" He's very funny today."
-392,00:20:00,00:20:01,Hilarious.
-393,00:20:03,00:20:05,"Hey, what do you got?"
-394,00:20:05,00:20:10,"Well, I think Messner was making more than just Roman candles in his classroom."
-395,00:20:10,00:20:12,He was also making a synthetic brew.
-396,00:20:12,00:20:16,"I took a Dumpster dive behind the school-- you're welcome-- and I, uh, found this vial."
-397,00:20:16,00:20:20,"Now, it's got to be from Messner's lab because his prints are all over it."
-398,00:20:20,00:20:24,Also found traces of androstenedione and clostebol in it.
-399,00:20:24,00:20:26,So he was making drugs.
-400,00:20:26,00:20:27,Just not meth.
-401,00:20:27,00:20:28,"Nope, steroids."
-402,00:20:28,00:20:32,I also found this dosing schedule.
-403,00:20:32,00:20:38,"His own ""book of steroids."" He was supplying PEDs to a lot of Jefferson student-athletes."
-404,00:20:38,00:20:40,He even used code names.
-405,00:20:40,00:20:42,"Note the, uh, most popular client."
-406,00:20:42,00:20:43,"""QB""?"
-407,00:20:43,00:20:45,Not very subtle.
-408,00:20:45,00:20:47,"No, apparently code names weren't his strong suit."
-409,00:20:47,00:20:49,"""Quarterback"" is Rob Turkla."
-410,00:20:49,00:20:55,Now this is Mason Brewer's selfie video of Messner's last seconds.
-411,00:21:01,00:21:04,"Now, check out the QB's locker."
-412,00:21:06,00:21:08,"What is that, a traveling medical kit?"
-413,00:21:08,00:21:11,Complete with syringes for your exotic destinations.
-414,00:21:11,00:21:15,"Yeah, I'm thinking that Turk doesn't travel much beyond the football field."
-415,00:21:16,00:21:18,"I, uh, pulled Messner's phone records."
-416,00:21:18,00:21:20,Was he talking with Turk?
-417,00:21:20,00:21:22,Every Friday.
-418,00:21:22,00:21:27,"So, we have a teacher and a student involved in a highly illicit scheme."
-419,00:21:27,00:21:29,Could have been bad for either one of them if it had come out.
-420,00:21:29,00:21:32,"But Messner had other student clients, so why Turk?"
-421,00:21:32,00:21:34,"Well, first off, Messner was broke."
-422,00:21:34,00:21:37,"He had big credit card problems, five cards he couldn't pay."
-423,00:21:37,00:21:41,"Teacher's salary-- selling drugs solves the problem, right."
-424,00:21:41,00:21:47,"Well, two days ago, Messner sent Turk an e-mail, threatening to expose him."
-425,00:21:47,00:21:51,"""No cash, no college career for you ""if this comes out."
-426,00:21:51,00:21:58,"Be smart for once."" I think QB was stiffing Messner, and Messner wasn't having it."
-427,00:21:58,00:21:59,So he called an audible.
-428,00:21:59,00:22:01,Okay.
-429,00:22:01,00:22:03,Nice work. I'll have Crawford pick Turk up.
-430,00:22:06,00:22:08,(indistinct radio chatter)
-431,00:22:13,00:22:15,Got your text.
-432,00:22:15,00:22:17,I got your suspect.
-433,00:22:17,00:22:19,I don't think he's gonna be talking much.
-434,00:22:27,00:22:28,"Hey, Dave..."
-435,00:22:28,00:22:30,how's his head look?
-436,00:22:30,00:22:33,"Well, I'm seeing blunt force trauma to the back of the skull."
-437,00:22:33,00:22:36,I'd say about 15 pounds' worth.
-438,00:22:36,00:22:37,PHILLIPS: Yeah.
-439,00:22:37,00:22:38,That would do it.
-440,00:22:40,00:22:41,"Well, the weight room's just over there."
-441,00:22:41,00:22:48,"I'm thinking that the killer grabbed the murder weapon from there, followed Turk from the weight room, then clocked him here by the pool."
-442,00:22:48,00:22:50,PHILLIPS: I think he was alive when he went in the pool.
-443,00:22:50,00:22:53,There's a thin band of foam at his mouth.
-444,00:22:53,00:22:54,Suggests drowning.
-445,00:22:54,00:22:55,One-two punch.
-446,00:22:55,00:22:59,Blunt force trauma knocked him down...
-447,00:23:01,00:23:03,...pool finished him off.
-448,00:23:03,00:23:06,Cleaning crew found the body shortly after 6:00 a.m.
-449,00:23:06,00:23:09,Are there any security cameras around here? No.
-450,00:23:09,00:23:13,"Swim team, they have the pool, uh, up until 7:00, so nobody saw anything."
-451,00:23:13,00:23:15,We have a suspect turned vic.
-452,00:23:15,00:23:17,So what do you think?
-453,00:23:17,00:23:20,"Two murders, two days, one high school..."
-454,00:23:20,00:23:23,Maybe the QB knew something about the Messner murder.
-455,00:23:23,00:23:25,And drowned men tell no tales.
-456,00:23:27,00:23:32,BRODY: This is one sheet of 92 that were exposed to the fire in Mr. Messner's classroom.
-457,00:23:32,00:23:36,I processed every single one.
-458,00:23:36,00:23:38,Okay. Why is this one special?
-459,00:23:38,00:23:39,It's the murder weapon.
-460,00:23:41,00:23:46,This is getting fun. The one thing we still haven't been able to deduce is how the cyanide got into Mr. Messner's body.
-461,00:23:46,00:23:48,But I have an idea.
-462,00:23:48,00:23:50,Contact... with the paper.
-463,00:23:50,00:23:56,This paper is coated with a combination of cyanide and dimethyl sulfoxide.
-464,00:23:56,00:23:57,DMSO.
-465,00:23:57,00:23:59,A solvent.
-466,00:23:59,00:24:01,One that can carry substances into the skin.
-467,00:24:01,00:24:02,"In this case, cyanide."
-468,00:24:02,00:24:04,A massive dose.
-469,00:24:04,00:24:06,Kind of like a chemical hypodermic needle.
-470,00:24:06,00:24:09,I don't think Messner was the intended target.
-471,00:24:09,00:24:11,This isn't just any piece of paper.
-472,00:24:11,00:24:18,"This is the answer key to Mr. Messner's Chem IV final, which was left in a drawer for his worst student, Rob Turkla."
-473,00:24:18,00:24:19,Wait a minute.
-474,00:24:19,00:24:20,How do you know that part?
-475,00:24:20,00:24:26,I found a very suspicious VidTree image buried in Turk's deleted phone data.
-476,00:24:26,00:24:31,"RUSSELL: ""Touchdown. Your A+ is in Messner's top drawer."" Sent the day he died."
-477,00:24:31,00:24:33,Do we know by whom?
-478,00:24:33,00:24:37,VidTree snapshots disappear after a couple seconds.
-479,00:24:37,00:24:40,"Kids use them, 'cause they think that they can send something without their parents ever finding out."
-480,00:24:40,00:24:46,"But in reality, all the data is still saved up in the cloud, where we can eventually find it."
-481,00:24:46,00:24:49,I'm... doing a search on the sender as we speak.
-482,00:24:49,00:24:54,"RUSSELL: So, if you're right, then this answer key was left in Messner's classroom for Turk to find."
-483,00:24:54,00:24:56,BRODY: And Messner found it first.
-484,00:24:56,00:24:58,Messner was a neat freak.
-485,00:24:58,00:25:00,"If anything was out of place, he would've noticed."
-486,00:25:00,00:25:05,With DMSO acting as a skin absorbent for the cyanide...
-487,00:25:05,00:25:09,anybody who touched that answer key was doomed.
-488,00:25:13,00:25:15,"Always better to study, kids."
-489,00:25:15,00:25:16,BRODY: Oop.
-490,00:25:16,00:25:18,Got a hit on the sender.
-491,00:25:20,00:25:21,"Oh, my gosh."
-492,00:25:23,00:25:24,"BRODY: Nice résumé, Hannah."
-493,00:25:24,00:25:26,National Honor Roll.
-494,00:25:26,00:25:27,President of the French Club.
-495,00:25:27,00:25:29,Literacy Volunteer of the Year.
-496,00:25:29,00:25:31,Captain of the swim team.
-497,00:25:31,00:25:32,Is that right?
-498,00:25:32,00:25:34,That's right.
-499,00:25:34,00:25:35,Your specialty is the butterfly?
-500,00:25:35,00:25:37,"Yeah, how'd you know?"
-501,00:25:37,00:25:39,"This here is, um..."
-502,00:25:39,00:25:42,Mr. Messner's steroid dosing schedule.
-503,00:25:42,00:25:43,See the code there?
-504,00:25:44,00:25:45,"""B-fly""?"
-505,00:25:47,00:25:50,"Look, I swear, I only took the drugs once."
-506,00:25:50,00:25:52,"You'd do anything to win, right?"
-507,00:25:52,00:25:55,"On the field, in the classroom..."
-508,00:25:55,00:25:57,I looked at your e-mail.
-509,00:25:57,00:26:03,Looked like you and Turk and a few other kids were planning on stealing Mr. Messner's Chem IV final.
-510,00:26:03,00:26:04,That-that was all talk.
-511,00:26:04,00:26:05,Not for Turk.
-512,00:26:05,00:26:06,And not for you.
-513,00:26:06,00:26:08,"In fact, you..."
-514,00:26:08,00:26:09,used it as a murder weapon.
-515,00:26:09,00:26:11,What are you saying?
-516,00:26:11,00:26:17,"The message you sent to lure Turk to Mr. Messner's classroom, where you left an answer sheet laced with cyanide."
-517,00:26:17,00:26:19,"Bad luck for you, Messner touched it first."
-518,00:26:19,00:26:22,So you scheduled a make-up with Turk.
-519,00:26:22,00:26:24,At the pool.
-520,00:26:24,00:26:26,I didn't kill Turk.
-521,00:26:26,00:26:27,And I didn't kill Mr. Messner.
-522,00:26:27,00:26:29,"Look, I didn't... I didn't send this."
-523,00:26:29,00:26:30,It's from your account.
-524,00:26:30,00:26:32,Someone must've hacked me.
-525,00:26:32,00:26:35,"I mean, it's-it's not like it hasn't happened before."
-526,00:26:35,00:26:36,Why would somebody do that to you?
-527,00:26:40,00:26:43,"Hannah, you have to talk to me."
-528,00:26:47,00:26:50,You want to know why...
-529,00:26:50,00:26:53,"someone would hack my account, and kill Turk at the pool?"
-530,00:26:53,00:26:55,Because...
-531,00:26:55,00:26:57,I am your best suspect.
-532,00:27:00,00:27:02,I wanted him dead.
-533,00:27:02,00:27:03,Why?
-534,00:27:03,00:27:05,Because of what he...
-535,00:27:05,00:27:06,(clears throat)
-536,00:27:06,00:27:08,Because of what he did to me.
-537,00:27:10,00:27:12,He...
-538,00:27:15,00:27:17,...a-attacked me.
-539,00:27:23,00:27:24,Why didn't you report it?
-540,00:27:24,00:27:25,To who?
-541,00:27:25,00:27:27,The cops?
-542,00:27:27,00:27:31,"What, because they're gonna believe my word over Mr. Friday Night Football?"
-543,00:27:35,00:27:38,Turk was the best class I ever took.
-544,00:27:38,00:27:41,Taught me what the world's really like.
-545,00:27:41,00:27:44,You wouldn't understand.
-546,00:27:44,00:27:49,"Just so you know, I leave early on Thursday nights from practice."
-547,00:27:49,00:27:52,Coach thinks I'm at tutoring.
-548,00:27:54,00:27:56,But really I'm at a women's shelter...
-549,00:27:58,00:28:00,...for counseling.
-550,00:28:00,00:28:02,(sniffs)
-551,00:28:02,00:28:03,I'll look into that.
-552,00:28:03,00:28:04,Go ahead.
-553,00:28:04,00:28:06,They'll tell you I was there.
-554,00:28:14,00:28:18,"ROBBINS: QB's lungs are overinflated, heavy with fluid."
-555,00:28:18,00:28:20,Confirms drowning was C.O.D.
-556,00:28:22,00:28:27,Jaundice and liver damage are consistent with chronic anabolic steroid use.
-557,00:28:27,00:28:29,All to score a bunch of touchdowns.
-558,00:28:29,00:28:33,"Well, as expected, I found syringe marks on this QB's posterior."
-559,00:28:33,00:28:36,Usual target for injecting PEDs.
-560,00:28:36,00:28:39,Right. But I can't explain this target.
-561,00:28:39,00:28:41,Another injection site. Why is that different?
-562,00:28:41,00:28:43,"Well, it's not his usual injection site."
-563,00:28:43,00:28:46,Needle hit the median cubital vein.
-564,00:28:46,00:28:49,Take a look here.
-565,00:28:49,00:28:54,What's even more unusual is this two-inch section of vein leading away from the puncture site.
-566,00:28:54,00:28:55,It's devoid of blood.
-567,00:28:55,00:28:58,The killer withdrew blood from Turk after he died.
-568,00:28:58,00:29:03,"There was no blood pumping, otherwise the vein would have refilled."
-569,00:29:05,00:29:06,That's crazy.
-570,00:29:06,00:29:08,The median cubital vein tells no lies.
-571,00:29:08,00:29:11,Can it tell us why somebody took the blood of a dead man?
-572,00:29:11,00:29:13,Afraid not.
-573,00:29:17,00:29:19,Hey.
-574,00:29:19,00:29:23,"So I, uh, I made some calls, and..."
-575,00:29:23,00:29:25,your story checks out.
-576,00:29:25,00:29:26,About the counseling.
-577,00:29:26,00:29:29,I'm so sorry for what Turk did to you.
-578,00:29:29,00:29:31,You have every right to be angry.
-579,00:29:31,00:29:34,I'm not angry.
-580,00:29:34,00:29:35,Anymore.
-581,00:29:36,00:29:38,My eyes are just open now.
-582,00:29:38,00:29:40,For what it's worth...
-583,00:29:40,00:29:46,there are far more good people out there than there are... Rob Turklas.
-584,00:29:47,00:29:50,Don't close your eyes to that.
-585,00:29:52,00:29:55,STOKES: Did you hear about Turk's body?
-586,00:29:55,00:29:55,RUSSELL: Yeah.
-587,00:29:55,00:29:57,"I know these folks are your people, okay... (laughs)"
-588,00:29:57,00:30:01,...but this hocus-pocus stuff isn't sitting well with me.
-589,00:30:01,00:30:02,"Well, what are you thinking?"
-590,00:30:02,00:30:04,"Well, it's not what I'm thinking, it's what I know."
-591,00:30:04,00:30:06,I processed Turk's car in the garage.
-592,00:30:06,00:30:08,Found a used condom in the backseat.
-593,00:30:08,00:30:12,The DNA from the vaginal fluid was a match to the hair in the cauldron in Messner's shed.
-594,00:30:12,00:30:14,"Well, that-that's... that's great."
-595,00:30:14,00:30:15,That's our unknown female.
-596,00:30:15,00:30:18,I think so.
-597,00:30:18,00:30:21,So our quarterback was boffing somebody in the coven.
-598,00:30:21,00:30:24,Our mystery witch didn't just leave behind her DNA.
-599,00:30:24,00:30:28,"She, uh, also left her prints all over Turk's window."
-600,00:30:28,00:30:30,"Well, that begs the question..."
-601,00:30:30,00:30:31,which witch?
-602,00:30:33,00:30:34,This is just dandy.
-603,00:30:34,00:30:36,You actually think I hurt Turk?
-604,00:30:36,00:30:37,Nonsense.
-605,00:30:37,00:30:39,Really? Yeah.
-606,00:30:39,00:30:44,You were sleeping with a student who's now dead.
-607,00:30:44,00:30:45,Murdered in your school.
-608,00:30:45,00:30:47,I was not sleeping with Turk.
-609,00:30:47,00:30:55,My gosh. We have your fingerprints on the inside of his car windows and your DNA on his condom from the backseat.
-610,00:30:55,00:30:57,Do-do I need to go on?
-611,00:30:57,00:30:59,Turk was 18.
-612,00:30:59,00:31:01,He was perfectly legal.
-613,00:31:02,00:31:04,What we had was real.
-614,00:31:04,00:31:05,Did your husband find it real?
-615,00:31:05,00:31:07,"Your marriage, your job..."
-616,00:31:07,00:31:08,you had a lot to lose.
-617,00:31:08,00:31:10,Mr. Russell...
-618,00:31:10,00:31:12,"every day, I play pretend. Mm-hmm."
-619,00:31:12,00:31:16,I pretend that Pelican sports matter.
-620,00:31:16,00:31:19,I pretend not to resent the fact that I'm a failed interior decorator.
-621,00:31:19,00:31:20,Mm-hmm.
-622,00:31:20,00:31:25,"But mostly, I pretend to not know that my husband's having a weekly tryst with a stripper named Tangerine."
-623,00:31:25,00:31:26,Mm-hmm.
-624,00:31:26,00:31:29,"Now, I did not kill Turk."
-625,00:31:29,00:31:31,But I can tell you this...
-626,00:31:31,00:31:35,I would kill to bring him back.
-627,00:31:35,00:31:39,Did you know that-that Turk's blood was removed from his body after he was murdered?
-628,00:31:39,00:31:47,"And that suggests a Wiccan ritual or a spell, and that suggests you."
-629,00:31:48,00:31:50,Golly.
-630,00:31:50,00:31:53,"When you people secret-shovel, you sure dig deep."
-631,00:31:53,00:31:55,The coven said that we'd be persecuted.
-632,00:31:55,00:31:57,"No, slow-slow down."
-633,00:31:57,00:32:01,"I don't care who or what you worship, I just care about the truth."
-634,00:32:01,00:32:02,I didn't kill Turk.
-635,00:32:04,00:32:06,You said that the killer took Turk's blood.
-636,00:32:06,00:32:09,"Yes, that's right."
-637,00:32:09,00:32:13,Our high priest thought that my relationship with Turk was-was a threat to the coven.
-638,00:32:13,00:32:15,Your-your high priest?
-639,00:32:18,00:32:19,Ed.
-640,00:32:19,00:32:21,"Ed, Ed Lusk?"
-641,00:32:21,00:32:22,The janitor?
-642,00:32:22,00:32:24,He doesn't have power in this life.
-643,00:32:24,00:32:26,He's determined to find power within the coven.
-644,00:32:26,00:32:28,Turk was a threat to that power.
-645,00:32:28,00:32:31,"By having sex with you, he could create a-a scandal."
-646,00:32:31,00:32:33,Ed said I was a bit...
-647,00:32:33,00:32:34,reckless.
-648,00:32:34,00:32:40,"He would do anything to protect the coven, but I'm afraid if he took Turk's blood, that this goes way beyond that."
-649,00:32:40,00:32:41,How so?
-650,00:32:41,00:32:48,"There's an ancient power spell called ""the Kratos."" It uses the blood of a sacrificed youth."
-651,00:32:48,00:32:49,It goes back to the Druids.
-652,00:32:49,00:32:58,"To perform this-this ""Kratos"" spell, Ed would have to take Turk's blood to an altar, if-if I'm right. Yes."
-653,00:32:58,00:32:59,The timing is very important.
-654,00:32:59,00:33:02,"The quicker the offering, the more powerful the spell."
-655,00:33:02,00:33:09,"The two attempts on Turk's life came at the school, so maybe Ed had a-an altar at the school?"
-656,00:33:09,00:33:11,Mm-hmm.
-657,00:33:11,00:33:12,Do you know where it is?
-658,00:33:17,00:33:19,Ed Lusk hasn't been seen since lunch.
-659,00:33:19,00:33:20,(school bell rings)
-660,00:33:20,00:33:24,"Well, his ride's here, so he's probably around here somewhere."
-661,00:33:24,00:33:26,(chuckles)
-662,00:33:26,00:33:29,SANDERS: All we have is an altar to the cleaning gods.
-663,00:33:29,00:33:31,Not a Wiccan candle in sight.
-664,00:33:31,00:33:33,(grunts)
-665,00:33:34,00:33:36,Looks like our janitor missed something.
-666,00:33:36,00:33:38,Directional blood drop.
-667,00:33:38,00:33:41,Maybe a drip from the needle he used to draw Turk's blood.
-668,00:33:42,00:33:44,I got another one here.
-669,00:33:44,00:33:46,And here.
-670,00:33:58,00:33:59,(sighs)
-671,00:34:00,00:34:01,You don't belong here!
-672,00:34:02,00:34:04,LVPD. Put down the knife.
-673,00:34:04,00:34:07,"We need you to come with us, Ed."
-674,00:34:07,00:34:10,Put the knife down and no one gets hurt.
-675,00:34:10,00:34:11,We just want to talk to you.
-676,00:34:13,00:34:18,May the blackest of darkness smite you down into the ground.
-677,00:34:18,00:34:19,Try me.
-678,00:34:24,00:34:26,(knife clatters)
-679,00:34:31,00:34:33,"So, Ed Lusk has lawyered up."
-680,00:34:33,00:34:35,"High priest is not talking, huh?"
-681,00:34:35,00:34:36,The blood drops in his closet are.
-682,00:34:36,00:34:38,DNA matches Turk.
-683,00:34:38,00:34:39,Hope he's got a good lawyer.
-684,00:34:39,00:34:40,"Yeah, really. (rattling)"
-685,00:34:42,00:34:44,"Ah, my brethren."
-686,00:34:44,00:34:48,I was about to use the foul modern text device to summon you. What are you doing?
-687,00:34:50,00:34:53,I beseech you to enter my sacred domain.
-688,00:34:57,00:35:00,I welcome you on the day of the Mabon Moon...
-689,00:35:00,00:35:01,David... ...whence we...
-690,00:35:01,00:35:02,I'm tired.
-691,00:35:02,00:35:04,I'm spell-casting to prove a point. Please.
-692,00:35:04,00:35:05,Please.
-693,00:35:05,00:35:07,Fine.
-694,00:35:07,00:35:11,"I understand that our high priest is mum, but his cauldron isn't."
-695,00:35:11,00:35:17,"I ran the ingredients found in it, discovered trace amounts of cherry opal gemstone."
-696,00:35:18,00:35:23,Wiccans believe the cherry opal amplifies vibrational energies within the bloodstream.
-697,00:35:23,00:35:30,"We have been assuming that this is a power spell, but the truth is this soup's a healing spell."
-698,00:35:30,00:35:31,"So, what are you saying?"
-699,00:35:31,00:35:33,That Ed Lusk is sick?
-700,00:35:33,00:35:35,"No, but someone else is."
-701,00:35:35,00:35:40,Someone who borrowed Turk's blood and availed themselves to Lusk's altar.
-702,00:35:40,00:35:45,"As I expected, I found Turk's blood in the cauldron."
-703,00:35:45,00:35:50,"But unexpectedly, I found a second blood contributor."
-704,00:35:50,00:35:56,"Not Lusk, but someone whose blood contains traces of methotrexate."
-705,00:35:56,00:35:59,That's a chemo drug used to treat blood cancers.
-706,00:35:59,00:36:01,Thou art correct.
-707,00:36:01,00:36:03,And Henry hath run said blood.
-708,00:36:03,00:36:10,He found a male familial match to touch DNA from a candle recovered from Messner's altar.
-709,00:36:10,00:36:14,"The match was not to Ed Lusk, but to a different wicked witch."
-710,00:36:21,00:36:22,Ms. Brewer?
-711,00:36:22,00:36:26,Haven't you asked my son enough questions?
-712,00:36:26,00:36:26,Enough is enough.
-713,00:36:26,00:36:30,We asked you to bring Mason here because we're concerned.
-714,00:36:30,00:36:34,Concerned? About what will happen to him.
-715,00:36:35,00:36:36,I don't understand.
-716,00:36:38,00:36:41,"You need to come with me, Mrs. Brewer."
-717,00:36:42,00:36:43,Now.
-718,00:36:49,00:36:51,"We know that your son, Mason, is sick, Rebecca."
-719,00:36:51,00:36:55,That he has Langerhans cell histiocytosis.
-720,00:36:55,00:36:58,The blood cancer that affects children.
-721,00:36:58,00:37:01,He missed a lot of school last semester.
-722,00:37:01,00:37:04,His grades started to falter.
-723,00:37:04,00:37:10,"We know that he was receiving treatment, but you were seeking help of a higher power."
-724,00:37:10,00:37:13,I'm not following.
-725,00:37:13,00:37:14,We found Ed Lusk's cauldron.
-726,00:37:14,00:37:18,We know that you're the one who prepared the ritual with your son's blood.
-727,00:37:18,00:37:19,BRODY: And Turk's.
-728,00:37:19,00:37:20,You needed it to save Mason.
-729,00:37:20,00:37:24,CRAWFORD: You're the one who killed Turk and Messner.
-730,00:37:24,00:37:25,Your original plan wasn't too bad.
-731,00:37:25,00:37:30,"I mean, you heard the rumblings around school that Turk was looking for the Chem IV test answers."
-732,00:37:30,00:37:32,"It's pretty easy, setting him up."
-733,00:37:32,00:37:36,This is you entering the school library at 1:16.
-734,00:37:36,00:37:39,That's the same day that Chet Messner was killed.
-735,00:37:39,00:37:44,"And at 1:19, you logged on to a computer using Hannah Hunt's password."
-736,00:37:44,00:37:49,"You logged on to VidTree, and you sent a message to Rob Turkla."
-737,00:37:49,00:37:53,"Telling him where to find the cheat sheet, but Messner found it instead."
-738,00:37:53,00:37:56,CRAWFORD: And so you had to try and kill Rob again.
-739,00:37:56,00:37:58,You knew Turk's schedule.
-740,00:37:58,00:38:00,You knew where to find him.
-741,00:38:08,00:38:11,"Why, Rebecca?"
-742,00:38:11,00:38:13,Was Mason getting worse?
-743,00:38:13,00:38:15,Why?
-744,00:38:15,00:38:17,The cancer spread to his bones.
-745,00:38:17,00:38:21,The doctor found vertical lesions and gave him six months to live.
-746,00:38:21,00:38:25,So you were running out of time.
-747,00:38:25,00:38:27,We get it.
-748,00:38:27,00:38:30,Why does a piece of crap like Turk get to live?
-749,00:38:30,00:38:32,Why does a good boy...
-750,00:38:32,00:38:34,Why does your Mason have to die?
-751,00:38:34,00:38:35,Where's the harmony in that?
-752,00:38:35,00:38:37,We searched your car.
-753,00:38:37,00:38:39,We found your Book of Shadows.
-754,00:38:39,00:38:43,Inside there was a healing spell dedicated to Mason.
-755,00:38:44,00:38:50,The spell's materials were all the same items that we found in Ed Lusk's cauldron.
-756,00:38:50,00:38:52,I can...
-757,00:38:52,00:38:56,"Please. Listen, I know that you love your son."
-758,00:38:56,00:38:57,No doubt.
-759,00:38:57,00:38:58,It's all right here.
-760,00:39:01,00:39:10,"""If I could set my own soul free ""to save you, I would, ""but I'm earthbound, ""so I can call on thee, gods."
-761,00:39:10,00:39:31,"Let the rising sun sear the cold serpent of disease."" BOTH: ""My child..."" ""...let the wind carry your pain away."" ""Let the waxing moon alight the darkness within you."" And let this blood of the powerful allow you to heal."
-762,00:39:31,00:39:33,"My son, you shall be reborn."
-763,00:39:33,00:39:34,You shall be reborn.
-764,00:39:34,00:39:38,My son doesn't deserve to die.
-765,00:39:38,00:39:41,(sniffles) I'm not an evil person.
-766,00:39:41,00:39:43,Ed told us that they were healing spells.
-767,00:39:43,00:39:48,"And-and medicine hadn't worked, and I was desperate to try anything."
-768,00:39:48,00:39:50,Two people died because of this.
-769,00:39:50,00:39:52,"The Book of Shadows is very, very clear."
-770,00:39:52,00:40:00,It says that a spell will only work if the sacrificed dies so that the other one can live.
-771,00:40:02,00:40:04,I had to save my boy.
-772,00:40:05,00:40:08,And you ended up losing him anyway.
-773,00:40:13,00:40:15,Mason?
-774,00:40:15,00:40:16,I'm so sorry.
-775,00:40:16,00:40:17,Yeah.
-776,00:40:17,00:40:20,There anybody I can call?
-777,00:40:21,00:40:22,Any family?
-778,00:40:22,00:40:25,"Ever since my dad died, it's just been me and Mom."
-779,00:40:25,00:40:31,"This is when I get dumped in an orphanage with Oliver Twist, right?"
-780,00:40:31,00:40:33,"No, that's not gonna happen."
-781,00:40:33,00:40:35,Sure.
-782,00:40:35,00:40:37,You still getting your treatments?
-783,00:40:37,00:40:39,(sighs) Yeah.
-784,00:40:39,00:40:41,I start a new round of chemo next month.
-785,00:40:41,00:40:44,Doctors said they're gonna be tweaking the protocols.
-786,00:40:44,00:40:46,(sighs)
-787,00:40:46,00:40:49,Think maybe things might turn around.
-788,00:40:52,00:40:57,"I'm homeless, but I'm not hopeless."
-789,00:40:57,00:41:00,HANNAH: He can stay with my family.
-790,00:41:02,00:41:04,My parents already said it was okay.
-791,00:41:06,00:41:08,"Hannah, what..."
-792,00:41:08,00:41:09,What are you doing here?
-793,00:41:12,00:41:13,I heard about your mom.
-794,00:41:17,00:41:18,I'm really sorry.
-795,00:41:18,00:41:20,"Yeah, me, too."
-796,00:41:22,00:41:29,"You've always been really sweet to me, even when I was so mean to you."
-797,00:41:34,00:41:36,And I couldn't be more sorry.
-798,00:41:38,00:41:39,So...
-799,00:41:39,00:41:42,if you want to play kick the can or something...
-800,00:41:45,00:41:47,"We're not little kids anymore, Hannah."
-801,00:41:47,00:41:51,"I know that, but..."
-802,00:41:51,00:41:53,what do you say?
-803,00:42:00,00:42:02,"(laughs, sniffles)"
-804,00:42:04,00:42:05,"Come on, let's go."
-805,00:42:09,00:42:10,(sighs)
-806,00:42:13,00:42:14,Poor kid.
-807,00:42:14,00:42:18,How could a mother's love get so twisted?
-808,00:42:18,00:42:21,"Well, at least Hannah stepped up."
-809,00:42:22,00:42:24,"Kind of gives you hope, right?"
-810,00:42:27,00:42:28,That'd be nice.
+	start	end	text
+0	00:00:01	00:00:05	Welcome to Jefferson High, home of the Pelicans.
+1	00:00:05	00:00:07	Pelican pride.
+2	00:00:07	00:00:11	Pelicans are, by the way, a shore bird-- Pelecanus occidentalis.
+3	00:00:11	00:00:13	A water bird mascot in the desert?
+4	00:00:13	00:00:16	Ooh, here comes Principal Meadows.
+5	00:00:16	00:00:19	(laughs) Hi. Did you have a good weekend, Mason? Mm-hmm.
+6	00:00:19	00:00:21	Um, what about that football game?
+7	00:00:21	00:00:23	Ah, Turk was fantastic.
+8	00:00:23	00:00:25	Oh, go... Pelicans!
+9	00:00:25	00:00:26	Wait!
+10	00:00:28	00:00:30	Turk can't name the vice president.
+11	00:00:30	00:00:31	No joke.
+12	00:00:31	00:00:33	And he's one failed test away from flunking out.
+13	00:00:33	00:00:35	Ooh, but don't take my word for it.
+14	00:00:35	00:00:37	Hey, Turk.
+15	00:00:37	00:00:39	70 yards passing, not bad!
+16	00:00:39	00:00:40	Oh, Chugga-Brew. I want to talk to you.
+17	00:00:40	00:00:42	Uh, I'm busy, Turk.
+18	00:00:42	00:00:44	Come on, man. This vertex of the para-boola is driving me nuts.
+19	00:00:44	00:00:46	You're the only one who can explain it to me.
+20	00:00:46	00:00:47	Maybe next time.
+21	00:00:47	00:00:50	I almost feel sorry for him.
+22	00:00:50	00:00:52	What up, boy?
+23	00:00:52	00:00:57	Aw, is Mason making a little selfie video for his mommy?
+24	00:00:57	00:00:58	Hi, Mason.
+25	00:00:58	00:01:00	Come on, Hannah, give it back.
+26	00:01:00	00:01:05	Wow, this thing is, like, five generations old.
+27	00:01:05	00:01:08	Pretty lame for a tech geek.
+28	00:01:08	00:01:09	What do you want?
+29	00:01:09	00:01:12	World peace, Mason. World peace.
+30	00:01:14	00:01:15	Great talk.
+31	00:01:15	00:01:18	You know, I still can't believe you don't have a girlfriend.
+32	00:01:19	00:01:22	Right here, Mason...
+33	00:01:22	00:01:23	Hannah's my next-door neighbor.
+34	00:01:23	00:01:27	We used to play kick the can and hang out, but then she got her braces off.
+35	00:01:27	00:01:29	Hey, sweetie.
+36	00:01:29	00:01:32	Remember to take the car in after school-- oil change.
+37	00:01:32	00:01:33	I know.
+38	00:01:33	00:01:35	You told me a billion times.
+39	00:01:35	00:01:36	(sighs) That's my mom.
+40	00:01:36	00:01:38	She teaches earth science here.
+41	00:01:38	00:01:41	Ah, famous Pelican cheerleaders.
+42	00:01:41	00:01:43	Good news, bad news.
+43	00:01:43	00:01:45	Bad news-- it's eighth period.
+44	00:01:45	00:01:48	Good news-- it's eighth period. (booming)
+45	00:01:51	00:01:53	Holy crap, he's...
+46	00:01:53	00:01:55	My God, someone call 911!
+47	00:01:55	00:01:57	Grab a blanket, get some water! Call 911!
+48	00:01:57	00:02:00	I got you, Chet, I got you.
+49	00:02:00	00:02:01	Call an ambulance! Now!
+50	00:02:07	00:02:09	Ed...
+51	00:02:09	00:02:10	is he...?
+52	00:02:14	00:02:16	Everybody, report to your homerooms.
+53	00:02:16	00:02:18	Everybody, go back to class, come on.
+54	00:02:36	00:02:37	Hey, Dave.
+55	00:02:37	00:02:38	Hey.
+56	00:02:38	00:02:40	Any I.D. on our burning man?
+57	00:02:40	00:02:42	Chet Messner.
+58	00:02:42	00:02:44	Taught chemistry.
+59	00:02:44	00:02:48	Sadly appropriate, given his extreme thermal and chemical burns.
+60	00:02:48	00:02:50	Fourth degree charring.
+61	00:02:50	00:02:51	No one's gonna survive that.
+62	00:02:51	00:02:52	Nope.
+63	00:02:52	00:02:53	Any luck retracing his steps?
+64	00:02:53	00:02:55	Yeah.
+65	00:02:55	00:02:58	Uh, looks like the vic was in the classroom when something went wrong.
+66	00:02:58	00:03:00	That's an understatement.
+67	00:03:00	00:03:02	Clearly there was an explosion.
+68	00:03:02	00:03:04	It appears he was doing some prep work for an experiment.
+69	00:03:04	00:03:07	So, we're looking at an accident.
+70	00:03:07	00:03:09	Maybe not, actually.
+71	00:03:09	00:03:11	Look, I, um, I found his cell phone.
+72	00:03:11	00:03:13	He received an anonymous text this morning.
+73	00:03:13	00:03:15	Epic fail, Messner.
+74	00:03:15	00:03:18	Do the right thing, or suffer the consequences.
+75	00:03:18	00:03:19	So much for an accident.
+76	00:03:19	00:03:22	Well, looks like Messner did the wrong thing.
+77	00:03:24	00:03:25	And got burned.
+78	00:04:01	00:04:03	I still can't believe it.
+79	00:04:03	00:04:05	I mean, my goodness, Chet's always been so careful.
+80	00:04:05	00:04:08	Makes an explosion in his lab all the more puzzling.
+81	00:04:08	00:04:10	So, I understand it was eighth period.
+82	00:04:10	00:04:12	Wasn't he teaching a class?
+83	00:04:12	00:04:16	Uh, no. He normally grades papers then, or makes his lesson plans.
+84	00:04:16	00:04:18	Did you know Mr. Messner well?
+85	00:04:18	00:04:20	Oh, yeah.
+86	00:04:20	00:04:22	About five years now.
+87	00:04:22	00:04:24	He'd always throw great barbecues on the Fourth.
+88	00:04:24	00:04:26	The whole faculty would go.
+89	00:04:26	00:04:27	And what about his students?
+90	00:04:27	00:04:28	Did he get along with them?
+91	00:04:28	00:04:31	You don't think someone deliberately hurt Chet?
+92	00:04:31	00:04:32	We don't know yet.
+93	00:04:32	00:04:35	But I am going to need a list of all of his students' names.
+94	00:04:35	00:04:36	The students loved Chet.
+95	00:04:36	00:04:38	He put in a lot of time here.
+96	00:04:38	00:04:45	In fact, right now he would be setting up for tomorrow's Pelican rally if... he hadn't...
+97	00:04:46	00:04:48	Well, I'm sorry for your loss, Ms. Meadows.
+98	00:04:48	00:04:50	Thanks for your time. Yeah.
+99	00:04:52	00:04:55	How was your meeting with the principal?
+100	00:04:55	00:04:58	According to her, everyone just loved good old Mr. Messner.
+101	00:04:58	00:05:00	Until someone didn't.
+102	00:05:00	00:05:01	We need our, uh, bunny suits?
+103	00:05:01	00:05:03	I did a sweep.
+104	00:05:03	00:05:06	Air samples are clear of hazardous chemicals.
+105	00:05:06	00:05:08	So you get to be bunny-free.
+106	00:05:08	00:05:10	Well, I guess that means we're late for class.
+107	00:05:10	00:05:12	Aren't you gonna carry my kit?
+108	00:05:14	00:05:15	No.
+109	00:05:21	00:05:23	First responders said the sprinklers put out the fire.
+110	00:05:23	00:05:26	The gas was still on, so they shut it off.
+111	00:05:26	00:05:30	And it didn't look like the gas line had been tampered with at all.
+112	00:05:30	00:05:32	But take a look at this.
+113	00:05:32	00:05:33	Bunsen burner...
+114	00:05:33	00:05:36	says that Mr. Messner was working on one of his lesson plans.
+115	00:05:36	00:05:41	The burn marks that are radiating outwards say that this may be the point of origin.
+116	00:05:41	00:05:43	Question is-- what set it off?
+117	00:05:43	00:05:45	Fire needs an accelerant.
+118	00:05:45	00:05:47	So, what are you thinking?
+119	00:05:48	00:05:50	The scorching marks...
+120	00:05:50	00:05:52	are going this way.
+121	00:05:57	00:06:00	I think I might have found our accelerant.
+122	00:06:04	00:06:09	Whatever was in here must have shot across the table like a rocket.
+123	00:06:09	00:06:12	Yep, singed and blackened.
+124	00:06:12	00:06:14	How am I doing so far?
+125	00:06:15	00:06:17	Ms. Brody?
+126	00:06:19	00:06:20	Hey, you're not paying attention.
+127	00:06:20	00:06:23	It's 'cause I'm forming my own theory, professor.
+128	00:06:23	00:06:25	It's here-- gummy bears.
+129	00:06:25	00:06:28	On his crazy-tidy shelf.
+130	00:06:28	00:06:31	You know the saying that, uh, sugar gives you energy?
+131	00:06:31	00:06:32	Yeah.
+132	00:06:32	00:06:34	I think that Messner was gonna try to prove that.
+133	00:06:34	00:06:36	It's on his whiteboard there.
+134	00:06:36	00:06:37	Tomorrow's lesson plan.
+135	00:06:37	00:06:39	That's what he was prepping.
+136	00:06:39	00:06:43	Molten potassium chlorate combined with glucose.
+137	00:06:43	00:06:47	Potassium chlorate-- that's an accelerant, used in fireworks.
+138	00:06:47	00:06:48	Makes for quite a show.
+139	00:06:50	00:06:57	In fact, it's such a powerful oxidizer, that when you add the gummy bear or the sugar, it reacts violently.
+140	00:06:57	00:06:59	Makes a loud noise, causes lots of flames.
+141	00:06:59	00:07:01	It's kind of like a Roman candle.
+142	00:07:02	00:07:05	Well, like a Roman candle, there should be no explosion.
+143	00:07:05	00:07:07	It was supposed to be a controlled experiment.
+144	00:07:07	00:07:10	Until you add the X factor to the equation.
+145	00:07:10	00:07:11	The killer.
+146	00:07:20	00:07:22	Epic fail, Messner.
+147	00:07:22	00:07:25	Do the right thing, or suffer the consequences.
+148	00:07:27	00:07:32	We traced this text to your phone, Mason.
+149	00:07:32	00:07:34	I-I'm sorry.
+150	00:07:34	00:07:36	I was just... venting.
+151	00:07:36	00:07:37	I didn't really mean it, I swear.
+152	00:07:37	00:07:40	You sent a threatening text, Mason.
+153	00:07:40	00:07:43	In this day and age, these things are taken very seriously.
+154	00:07:43	00:07:45	Look, Mom, it was stupid. I know.
+155	00:07:46	00:07:49	Mr. Russell, this is really unlike him.
+156	00:07:49	00:07:52	I'm not just speaking as a mom, I'm speaking as a faculty member.
+157	00:07:52	00:07:54	Mason's on the honor roll.
+158	00:07:54	00:07:55	He is a good kid.
+159	00:07:55	00:07:58	You good at chemistry, too, Mason?
+160	00:07:58	00:08:00	I sent a text, all right?
+161	00:08:00	00:08:03	But I did not inferno Mr. Messner.
+162	00:08:04	00:08:06	I-I was mad.
+163	00:08:06	00:08:08	He gave me a B+ for the semester.
+164	00:08:08	00:08:10	I missed a few days here and there.
+165	00:08:11	00:08:13	I was sick.
+166	00:08:13	00:08:15	And he wouldn't give me a break.
+167	00:08:15	00:08:16	Why didn't you talk to him?
+168	00:08:16	00:08:18	I did.
+169	00:08:18	00:08:22	Like a lot of people around here, he held me to a higher standard.
+170	00:08:22	00:08:25	Chet could be very stubborn.
+171	00:08:25	00:08:27	And that does not justify what you did.
+172	00:08:27	00:08:31	The consequences you said that Mr. Messner would suffer, what'd you mean by that?
+173	00:08:31	00:08:35	I heard those lines from a movie, it was... it was just a bluff.
+174	00:08:35	00:08:37	I just wanted my A.
+175	00:08:37	00:08:40	Because people expect big things from me.
+176	00:08:42	00:08:45	And I didn't want to let you down.
+177	00:08:45	00:08:49	And I know... I know how much all this means to you.
+178	00:08:49	00:08:51	And... Mason.
+179	00:08:51	00:08:53	You could never let me down.
+180	00:08:56	00:08:58	Mr. Russell, does my son need a lawyer?
+181	00:08:58	00:09:00	No, not at the moment.
+182	00:09:08	00:09:11	Doc, can you explain this text I got from Hodges?
+183	00:09:11	00:09:19	Okay, Nobody knows what the nose knows until the nose knows it. See Doc.
+184	00:09:19	00:09:24	Our friend, Hodges, has the gene that allows him to smell the bitter almond odor of cyanide.
+185	00:09:24	00:09:25	It's a gift.
+186	00:09:25	00:09:26	Mmm, he has so many gifts.
+187	00:09:26	00:09:27	Oh, yeah.
+188	00:09:27	00:09:30	Note this pink lividity.
+189	00:09:30	00:09:34	Indicative of cyanide poisoning.
+190	00:09:34	00:09:36	Mr. Messner would have been a goner, fire or no fire.
+191	00:09:36	00:09:40	So, Messner was poisoned before the explosion.
+192	00:09:40	00:09:44	Killer did not push him into the flames, but he did dose him with cyanide.
+193	00:09:44	00:09:48	In sufficient quantity to cause him to seize at a most inopportune time.
+194	00:09:57	00:09:59	Well, that changes everything.
+195	00:09:59	00:10:02	Killer didn't have to be in the classroom.
+196	00:10:03	00:10:04	Do you know how he was dosed?
+197	00:10:04	00:10:07	Normally cyanide presents in the stomach lining and nasal passages.
+198	00:10:07	00:10:09	But I found no signs of this.
+199	00:10:09	00:10:11	So he didn't eat it, and he didn't snort it.
+200	00:10:11	00:10:13	What else do you know about him?
+201	00:10:13	00:10:18	Uh, he was single, been in Vegas for about five years, no record. Why?
+202	00:10:18	00:10:20	Well, he was wearing this.
+203	00:10:20	00:10:22	It's called a life rune.
+204	00:10:22	00:10:24	It's a gang symbol.
+205	00:10:24	00:10:27	Two weeks ago, I saw the same symbol.
+206	00:10:27	00:10:29	It was tattooed on a dead biker's ass.
+207	00:10:29	00:10:31	Blended nicely with his swastikas.
+208	00:10:31	00:10:35	So, our lovable teacher, Chet Messner, may have had a dark secret.
+209	00:10:46	00:10:48	This a bad time, Russ?
+210	00:10:48	00:10:49	I got something for you.
+211	00:10:49	00:10:50	Come on in.
+212	00:10:51	00:10:52	I ran Messner's credit cards.
+213	00:10:52	00:10:54	Now, one thing really popped out.
+214	00:10:54	00:10:57	He's been ordering monthly shipments of red phosphorus powder.
+215	00:10:57	00:10:59	Man's a chemistry teacher, though, right?
+216	00:10:59	00:11:02	He got it from some shady supplier online.
+217	00:11:02	00:11:04	And he got it delivered to his house.
+218	00:11:04	00:11:07	Some little place out on Sloan Canyon. What are you thinking?
+219	00:11:07	00:11:09	We both know what red phosphorus powder is used for.
+220	00:11:09	00:11:12	Chemistry teacher dealing meth.
+221	00:11:12	00:11:13	Good show.
+222	00:11:13	00:11:17	I'm just saying, Messner may have some enemies we haven't considered.
+223	00:11:17	00:11:19	Maybe he stepped on the wrong dealer's turf.
+224	00:11:19	00:11:23	Yeah, and then that dealer goes back to that school, and gives Messner a big old fat F in meth class.
+225	00:11:23	00:11:25	Go get 'em.
+226	00:11:29	00:11:31	Main house is clear.
+227	00:11:31	00:11:33	Really?
+228	00:11:33	00:11:35	All right, we'll check the shed.
+229	00:11:55	00:11:57	There's a knife.
+230	00:11:57	00:12:00	With what looks like blood on it right there.
+231	00:12:00	00:12:03	This doesn't look like a meth lab to me.
+232	00:12:03	00:12:06	Man, these are some creepy-ass tapestries.
+233	00:12:08	00:12:11	I think it might be more than just that.
+234	00:12:12	00:12:15	I've seen this stuff before.
+235	00:12:15	00:12:17	Double in the Alphabets.
+236	00:12:17	00:12:20	This, uh, this whack-job...
+237	00:12:20	00:12:23	he killed a couple as a sacrifice.
+238	00:12:23	00:12:25	To the moon god.
+239	00:12:25	00:12:27	So, what is this, devil worship?
+240	00:12:27	00:12:29	No, not exactly.
+241	00:12:29	00:12:30	Stokes.
+242	00:12:32	00:12:34	Book of Shadows. What's that?
+243	00:12:34	00:12:35	It's like a book of spells.
+244	00:12:35	00:12:37	This is a ceremonial altar and a cauldron.
+245	00:12:37	00:12:40	The only thing that's missing is a broom.
+246	00:12:41	00:12:43	Our chemistry teacher's a witch.
+247	00:12:48	00:12:57	Air, fire, water, earth, elements of astral birth, I call on thee, and offer these gifts.
+248	00:12:58	00:13:00	I call you now...
+249	00:13:00	00:13:01	Attend to me.
+250	00:13:01	00:13:02	This is my will.
+251	00:13:02	00:13:05	So mote it be.
+252	00:13:07	00:13:08	What happens next?
+253	00:13:08	00:13:09	No, wait.
+254	00:13:09	00:13:10	Don't tell me.
+255	00:13:10	00:13:12	Let me guess.
+256	00:13:12	00:13:13	Lightning strikes, right?
+257	00:13:13	00:13:16	No, coven meeting starts.
+258	00:13:16	00:13:18	Sounds like you've been to one.
+259	00:13:18	00:13:22	Actually, my parents befriended a Wiccan couple back in the '60s.
+260	00:13:22	00:13:24	So I know a little bit about it.
+261	00:13:24	00:13:25	It's a pagan religion.
+262	00:13:25	00:13:30	They use spells to harness the earth's energy to grant positive wishes.
+263	00:13:32	00:13:35	That's the sign of the devil right there.
+264	00:13:35	00:13:36	The five-pointed star?
+265	00:13:36	00:13:40	No, that's a sign of balance and strength, actually.
+266	00:13:40	00:13:42	It's a protective symbol.
+267	00:13:42	00:13:44	I always thought it was a sign of the devil.
+268	00:13:44	00:13:45	Well, you're wrong.
+269	00:13:51	00:13:52	Yeah.
+270	00:13:52	00:13:54	This is our red phosphorus right here.
+271	00:13:54	00:13:58	I think Messner was making magic, not meth, in here.
+272	00:13:58	00:14:01	Yes, the question is-- did magic lead to murder?
+273	00:14:01	00:14:03	Well, they were in here mixing up potions.
+274	00:14:03	00:14:04	Maybe one of them...
+275	00:14:04	00:14:06	made a cyanide spell.
+276	00:14:07	00:14:08	There's a singed hair in here.
+277	00:14:08	00:14:11	Looks human.
+278	00:14:11	00:14:13	A burnt human hair in a cauldron?
+279	00:14:13	00:14:17	How does that work in the hocus-pocus business?
+280	00:14:17	00:14:20	Well, that's a little disturbing, actually.
+281	00:14:20	00:14:24	Why don't we turn this place upside down, see if they left more than a human hair behind.
+282	00:14:48	00:14:50	And he's wearing a robe.
+283	00:14:52	00:14:53	Helps me get into it.
+284	00:14:53	00:14:55	Come on, this is Vegas.
+285	00:14:55	00:14:56	Anything goes.
+286	00:14:56	00:14:57	Where can't you find a relic Druid robe?
+287	00:14:57	00:15:00	Well, did the robe help? It did.
+288	00:15:00	00:15:04	I think I know what our witches were cooking in the Wiccan kitchen.
+289	00:15:04	00:15:06	And if you'll step into my Wiccan kitchen, I'll be happy to explain.
+290	00:15:09	00:15:12	Using a two-quart cast-iron cauldron...
+291	00:15:12	00:15:20	you add human blood, a teaspoon of red phosphorus, then garnish with human hair. You heat it all up until there is a gloomy smoke, and then you have...
+292	00:15:20	00:15:24	A group of sad lost people inhaling toxic fumes?
+293	00:15:24	00:15:26	No.
+294	00:15:26	00:15:28	A banishment spell.
+295	00:15:28	00:15:31	Charge this by your powers.
+296	00:15:31	00:15:33	Break this circle.
+297	00:15:33	00:15:35	Banish the leper.
+298	00:15:35	00:15:36	Let us be reborn.
+299	00:15:36	00:15:38	Since when are you a Wicca expert?
+300	00:15:38	00:15:40	Dated one in college.
+301	00:15:40	00:15:41	Uh, she was intense.
+302	00:15:41	00:15:42	Perhaps too natural?
+303	00:15:42	00:15:47	Truth be told, uh, she didn't have a bathing spell in her Book of Shadows.
+304	00:15:47	00:15:50	Okay, okay, let's just get back to this... spell.
+305	00:15:50	00:15:53	Are you saying that Messner was being banished?
+306	00:15:53	00:15:55	Thou art correct.
+307	00:15:55	00:15:58	I found one drop of unburned blood on the lip of the cauldron.
+308	00:15:58	00:16:00	Now, per the spell, it means that Messner was the target.
+309	00:16:01	00:16:03	Suggests motive.
+310	00:16:03	00:16:07	Maybe Messner wasn't willing to go quietly into that witchy night.
+311	00:16:07	00:16:10	So, another witch concocts a deadly brew to silence him.
+312	00:16:11	00:16:14	Toil and trouble, let the cyanide bubble.
+313	00:16:14	00:16:17	Any luck with the hair in the cauldron?
+314	00:16:17	00:16:19	Henry found DNA on the follicle.
+315	00:16:19	00:16:21	Unknown female, no hits in CODIS.
+316	00:16:21	00:16:25	But the prints on the candle... shed more light.
+317	00:16:27	00:16:30	In fact, I.D.'s four of our witches.
+318	00:16:30	00:16:33	Turns out that Wiccans come from all walks of life.
+319	00:16:33	00:16:37	Our first witch is a postal worker, currently on vacation in Florida.
+320	00:16:37	00:16:39	Okay, postal worker's out.
+321	00:16:39	00:16:43	Witch number two is a pharmaceutical saleswoman with a DUI on her record.
+322	00:16:43	00:16:45	She's on the road this week.
+323	00:16:45	00:16:46	Alibis her.
+324	00:16:46	00:16:49	But school was in session for two of our other witches.
+325	00:16:49	00:16:52	Requiring that their fingerprints, too, were in the system.
+326	00:16:54	00:16:56	Witch number three is our own Ms. Brewer.
+327	00:16:56	00:16:58	Earth science teacher, spell caster.
+328	00:16:58	00:17:00	Ms. Brewer?
+329	00:17:00	00:17:02	Didn't see that coming.
+330	00:17:02	00:17:04	How about the man who tried to save Chet Messner?
+331	00:17:05	00:17:06	I call on thee...
+332	00:17:06	00:17:08	The janitor's a witch?
+333	00:17:08	00:17:14	Why didn't you tell us that you and Chet Messner were part of a secret society?
+334	00:17:14	00:17:16	There you go.
+335	00:17:16	00:17:17	It's a secret.
+336	00:17:17	00:17:21	Yeah, but secret-time kind of goes away when it's a homicide.
+337	00:17:21	00:17:24	Our religion had nothing to do with what happened to Chet.
+338	00:17:24	00:17:25	Maybe it did.
+339	00:17:25	00:17:31	Could be a nervous witch, you know, makes a cyanide potion to stop a fellow witch from outing your gang.
+340	00:17:31	00:17:33	Isn't that what you guys are really about?
+341	00:17:33	00:17:34	Curses and revenge?
+342	00:17:34	00:17:37	You have a wrong idea about us.
+343	00:17:37	00:17:39	Okay. Well, give me the right one.
+344	00:17:39	00:17:41	Wicca saved me, Detective.
+345	00:17:41	00:17:43	Saved you?
+346	00:17:43	00:17:46	I came to Vegas to hustle cards.
+347	00:17:46	00:17:47	It ate me up.
+348	00:17:48	00:17:51	Left me a broke alcoholic.
+349	00:17:51	00:17:54	I found serenity in the power of nature.
+350	00:17:54	00:17:58	Fact is, peace is at the core of our belief.
+351	00:17:58	00:17:59	That's what we're about.
+352	00:17:59	00:18:03	If someone hurt Chet, it came from the outside.
+353	00:18:03	00:18:05	The whole thing was a shock to me.
+354	00:18:05	00:18:06	It was my second gathering.
+355	00:18:06	00:18:08	Oh, so you're new to the craft.
+356	00:18:08	00:18:10	Yes, Chet asked me to join.
+357	00:18:10	00:18:12	And then he's banished.
+358	00:18:12	00:18:15	I didn't think that it was fair, but I was new.
+359	00:18:15	00:18:16	And who was I to question the coven?
+360	00:18:16	00:18:18	They all wanted him gone.
+361	00:18:18	00:18:21	Chet had been speaking publically about coven activities.
+362	00:18:21	00:18:24	Shoot his mouth off to complete strangers.
+363	00:18:24	00:18:28	He thought it was a way of getting out the message.
+364	00:18:28	00:18:30	How'd that make you feel?
+365	00:18:30	00:18:31	Not good.
+366	00:18:33	00:18:35	But not bad enough to kill.
+367	00:18:36	00:18:40	Talking out of school is why Chet was banished; it's not why he was murdered.
+368	00:18:42	00:18:44	A Wiccan doesn't kill.
+369	00:18:45	00:18:49	We have one unidentified female member of the coven, but I need some names.
+370	00:18:49	00:18:51	I'm not allowed to divulge names.
+371	00:18:51	00:18:52	I'm sorry.
+372	00:18:52	00:18:54	Oh.
+373	00:18:54	00:18:55	Well, I'm sorry, too.
+374	00:18:55	00:19:03	Because talking to members of the coven, people who knew Chet well-- that's our best shot at figuring out who hurt your friend.
+375	00:19:04	00:19:07	I have been lost...
+376	00:19:07	00:19:09	since my husband passed.
+377	00:19:09	00:19:15	And this might sound corny, but there is a holiness to the cosmos.
+378	00:19:15	00:19:17	A harmony.
+379	00:19:17	00:19:20	It helps me get through the bad days.
+380	00:19:20	00:19:23	I owe it to them to protect their privacy.
+381	00:19:25	00:19:27	I can't break a sacred oath.
+382	00:19:27	00:19:28	What did you think?
+383	00:19:28	00:19:31	You're asking me-- do I think they're protecting themselves or someone else?
+384	00:19:31	00:19:33	Yeah.
+385	00:19:33	00:19:35	(sighs) I'm not sure.
+386	00:19:35	00:19:37	Well, they could be telling the truth, right?
+387	00:19:37	00:19:40	I mean, I like to think that society's a little more tolerant nowadays.
+388	00:19:40	00:19:46	Do we really think that a member of a coven would be willing to kill another member for fear of being exposed?
+389	00:19:46	00:19:49	I don't know, a banishment spell for loose lips?
+390	00:19:49	00:19:53	I mean, that tells me the first rule of witch club is, Don't talk about witch club.
+391	00:19:54	00:19:55	Greg.
+392	00:19:55	00:19:58	Hop off the broom, join me back on Planet Earth.
+393	00:19:59	00:20:00	He's very funny today.
+394	00:20:00	00:20:01	Hilarious.
+395	00:20:03	00:20:05	Hey, what do you got?
+396	00:20:05	00:20:10	Well, I think Messner was making more than just Roman candles in his classroom.
+397	00:20:10	00:20:12	He was also making a synthetic brew.
+398	00:20:12	00:20:16	I took a Dumpster dive behind the school-- you're welcome-- and I, uh, found this vial.
+399	00:20:16	00:20:20	Now, it's got to be from Messner's lab because his prints are all over it.
+400	00:20:20	00:20:24	Also found traces of androstenedione and clostebol in it.
+401	00:20:24	00:20:26	So he was making drugs.
+402	00:20:26	00:20:27	Just not meth.
+403	00:20:27	00:20:28	Nope, steroids.
+404	00:20:28	00:20:32	I also found this dosing schedule.
+405	00:20:32	00:20:34	His own book of steroids.
+406	00:20:34	00:20:38	He was supplying PEDs to a lot of Jefferson student-athletes.
+407	00:20:38	00:20:40	He even used code names.
+408	00:20:40	00:20:42	Note the, uh, most popular client.
+409	00:20:42	00:20:43	QB?
+410	00:20:43	00:20:45	Not very subtle.
+411	00:20:45	00:20:47	No, apparently code names weren't his strong suit.
+412	00:20:47	00:20:49	Quarterback is Rob Turkla.
+413	00:20:49	00:20:55	Now this is Mason Brewer's selfie video of Messner's last seconds.
+414	00:21:01	00:21:04	Now, check out the QB's locker.
+415	00:21:06	00:21:08	What is that, a traveling medical kit?
+416	00:21:08	00:21:11	Complete with syringes for your exotic destinations.
+417	00:21:11	00:21:15	Yeah, I'm thinking that Turk doesn't travel much beyond the football field.
+418	00:21:16	00:21:18	I, uh, pulled Messner's phone records.
+419	00:21:18	00:21:20	Was he talking with Turk?
+420	00:21:20	00:21:22	Every Friday.
+421	00:21:22	00:21:27	So, we have a teacher and a student involved in a highly illicit scheme.
+422	00:21:27	00:21:29	Could have been bad for either one of them if it had come out.
+423	00:21:29	00:21:32	But Messner had other student clients, so why Turk?
+424	00:21:32	00:21:34	Well, first off, Messner was broke.
+425	00:21:34	00:21:37	He had big credit card problems, five cards he couldn't pay.
+426	00:21:37	00:21:41	Teacher's salary-- selling drugs solves the problem, right.
+427	00:21:41	00:21:47	Well, two days ago, Messner sent Turk an e-mail, threatening to expose him.
+428	00:21:47	00:21:51	No cash, no college career for you if this comes out.
+429	00:21:51	00:21:53	Be smart for once.
+430	00:21:53	00:21:58	I think QB was stiffing Messner, and Messner wasn't having it.
+431	00:21:58	00:21:59	So he called an audible.
+432	00:21:59	00:22:01	Okay.
+433	00:22:01	00:22:03	Nice work. I'll have Crawford pick Turk up.
+434	00:22:13	00:22:15	Got your text.
+435	00:22:15	00:22:17	I got your suspect.
+436	00:22:17	00:22:19	I don't think he's gonna be talking much.
+437	00:22:27	00:22:28	Hey, Dave...
+438	00:22:28	00:22:30	how's his head look?
+439	00:22:30	00:22:33	Well, I'm seeing blunt force trauma to the back of the skull.
+440	00:22:33	00:22:36	I'd say about 15 pounds' worth.
+441	00:22:36	00:22:37	Yeah.
+442	00:22:37	00:22:38	That would do it.
+443	00:22:40	00:22:41	Well, the weight room's just over there.
+444	00:22:41	00:22:48	I'm thinking that the killer grabbed the murder weapon from there, followed Turk from the weight room, then clocked him here by the pool.
+445	00:22:48	00:22:50	I think he was alive when he went in the pool.
+446	00:22:50	00:22:53	There's a thin band of foam at his mouth.
+447	00:22:53	00:22:54	Suggests drowning.
+448	00:22:54	00:22:55	One-two punch.
+449	00:22:55	00:22:59	Blunt force trauma knocked him down...
+450	00:23:01	00:23:03	...pool finished him off.
+451	00:23:03	00:23:06	00 a.m.
+452	00:23:06	00:23:09	Are there any security cameras around here? No.
+453	00:23:09	00:23:13	00, so nobody saw anything.
+454	00:23:13	00:23:15	We have a suspect turned vic.
+455	00:23:15	00:23:17	So what do you think?
+456	00:23:17	00:23:20	Two murders, two days, one high school...
+457	00:23:20	00:23:23	Maybe the QB knew something about the Messner murder.
+458	00:23:23	00:23:25	And drowned men tell no tales.
+459	00:23:27	00:23:32	This is one sheet of 92 that were exposed to the fire in Mr. Messner's classroom.
+460	00:23:32	00:23:36	I processed every single one.
+461	00:23:36	00:23:38	Okay. Why is this one special?
+462	00:23:38	00:23:39	It's the murder weapon.
+463	00:23:41	00:23:46	This is getting fun. The one thing we still haven't been able to deduce is how the cyanide got into Mr. Messner's body.
+464	00:23:46	00:23:48	But I have an idea.
+465	00:23:48	00:23:50	Contact... with the paper.
+466	00:23:50	00:23:56	This paper is coated with a combination of cyanide and dimethyl sulfoxide.
+467	00:23:56	00:23:57	DMSO.
+468	00:23:57	00:23:59	A solvent.
+469	00:23:59	00:24:01	One that can carry substances into the skin.
+470	00:24:01	00:24:02	In this case, cyanide.
+471	00:24:02	00:24:04	A massive dose.
+472	00:24:04	00:24:06	Kind of like a chemical hypodermic needle.
+473	00:24:06	00:24:09	I don't think Messner was the intended target.
+474	00:24:09	00:24:11	This isn't just any piece of paper.
+475	00:24:11	00:24:18	This is the answer key to Mr. Messner's Chem IV final, which was left in a drawer for his worst student, Rob Turkla.
+476	00:24:18	00:24:19	Wait a minute.
+477	00:24:19	00:24:20	How do you know that part?
+478	00:24:20	00:24:26	I found a very suspicious VidTree image buried in Turk's deleted phone data.
+479	00:24:26	00:24:30	Touchdown. Your A+ is in Messner's top drawer.
+480	00:24:30	00:24:31	Sent the day he died.
+481	00:24:31	00:24:33	Do we know by whom?
+482	00:24:33	00:24:37	VidTree snapshots disappear after a couple seconds.
+483	00:24:37	00:24:40	Kids use them, 'cause they think that they can send something without their parents ever finding out.
+484	00:24:40	00:24:46	But in reality, all the data is still saved up in the cloud, where we can eventually find it.
+485	00:24:46	00:24:49	I'm... doing a search on the sender as we speak.
+486	00:24:49	00:24:54	So, if you're right, then this answer key was left in Messner's classroom for Turk to find.
+487	00:24:54	00:24:56	And Messner found it first.
+488	00:24:56	00:24:58	Messner was a neat freak.
+489	00:24:58	00:25:00	If anything was out of place, he would've noticed.
+490	00:25:00	00:25:05	With DMSO acting as a skin absorbent for the cyanide...
+491	00:25:05	00:25:09	anybody who touched that answer key was doomed.
+492	00:25:13	00:25:15	Always better to study, kids.
+493	00:25:15	00:25:16	Oop.
+494	00:25:16	00:25:18	Got a hit on the sender.
+495	00:25:20	00:25:21	Oh, my gosh.
+496	00:25:23	00:25:24	Nice résumé, Hannah.
+497	00:25:24	00:25:26	National Honor Roll.
+498	00:25:26	00:25:27	President of the French Club.
+499	00:25:27	00:25:29	Literacy Volunteer of the Year.
+500	00:25:29	00:25:31	Captain of the swim team.
+501	00:25:31	00:25:32	Is that right?
+502	00:25:32	00:25:34	That's right.
+503	00:25:34	00:25:35	Your specialty is the butterfly?
+504	00:25:35	00:25:37	Yeah, how'd you know?
+505	00:25:37	00:25:39	This here is, um...
+506	00:25:39	00:25:42	Mr. Messner's steroid dosing schedule.
+507	00:25:42	00:25:43	See the code there?
+508	00:25:44	00:25:45	B-fly?
+509	00:25:47	00:25:50	Look, I swear, I only took the drugs once.
+510	00:25:50	00:25:52	You'd do anything to win, right?
+511	00:25:52	00:25:55	On the field, in the classroom...
+512	00:25:55	00:25:57	I looked at your e-mail.
+513	00:25:57	00:26:03	Looked like you and Turk and a few other kids were planning on stealing Mr. Messner's Chem IV final.
+514	00:26:03	00:26:04	That-that was all talk.
+515	00:26:04	00:26:05	Not for Turk.
+516	00:26:05	00:26:06	And not for you.
+517	00:26:06	00:26:08	In fact, you...
+518	00:26:08	00:26:09	used it as a murder weapon.
+519	00:26:09	00:26:11	What are you saying?
+520	00:26:11	00:26:17	The message you sent to lure Turk to Mr. Messner's classroom, where you left an answer sheet laced with cyanide.
+521	00:26:17	00:26:19	Bad luck for you, Messner touched it first.
+522	00:26:19	00:26:22	So you scheduled a make-up with Turk.
+523	00:26:22	00:26:24	At the pool.
+524	00:26:24	00:26:26	I didn't kill Turk.
+525	00:26:26	00:26:27	And I didn't kill Mr. Messner.
+526	00:26:27	00:26:29	Look, I didn't... I didn't send this.
+527	00:26:29	00:26:30	It's from your account.
+528	00:26:30	00:26:32	Someone must've hacked me.
+529	00:26:32	00:26:35	I mean, it's-it's not like it hasn't happened before.
+530	00:26:35	00:26:36	Why would somebody do that to you?
+531	00:26:40	00:26:43	Hannah, you have to talk to me.
+532	00:26:47	00:26:50	You want to know why...
+533	00:26:50	00:26:53	someone would hack my account, and kill Turk at the pool?
+534	00:26:53	00:26:55	Because...
+535	00:26:55	00:26:57	I am your best suspect.
+536	00:27:00	00:27:02	I wanted him dead.
+537	00:27:02	00:27:03	Why?
+538	00:27:03	00:27:05	Because of what he...
+539	00:27:06	00:27:08	Because of what he did to me.
+540	00:27:10	00:27:12	He...
+541	00:27:15	00:27:17	...a-attacked me.
+542	00:27:23	00:27:24	Why didn't you report it?
+543	00:27:24	00:27:25	To who?
+544	00:27:25	00:27:27	The cops?
+545	00:27:27	00:27:31	What, because they're gonna believe my word over Mr. Friday Night Football?
+546	00:27:35	00:27:38	Turk was the best class I ever took.
+547	00:27:38	00:27:41	Taught me what the world's really like.
+548	00:27:41	00:27:44	You wouldn't understand.
+549	00:27:44	00:27:49	Just so you know, I leave early on Thursday nights from practice.
+550	00:27:49	00:27:52	Coach thinks I'm at tutoring.
+551	00:27:54	00:27:56	But really I'm at a women's shelter...
+552	00:27:58	00:28:00	...for counseling.
+553	00:28:02	00:28:03	I'll look into that.
+554	00:28:03	00:28:04	Go ahead.
+555	00:28:04	00:28:06	They'll tell you I was there.
+556	00:28:14	00:28:18	QB's lungs are overinflated, heavy with fluid.
+557	00:28:18	00:28:20	Confirms drowning was C.O.D.
+558	00:28:22	00:28:27	Jaundice and liver damage are consistent with chronic anabolic steroid use.
+559	00:28:27	00:28:29	All to score a bunch of touchdowns.
+560	00:28:29	00:28:33	Well, as expected, I found syringe marks on this QB's posterior.
+561	00:28:33	00:28:36	Usual target for injecting PEDs.
+562	00:28:36	00:28:39	Right. But I can't explain this target.
+563	00:28:39	00:28:41	Another injection site. Why is that different?
+564	00:28:41	00:28:43	Well, it's not his usual injection site.
+565	00:28:43	00:28:46	Needle hit the median cubital vein.
+566	00:28:46	00:28:49	Take a look here.
+567	00:28:49	00:28:54	What's even more unusual is this two-inch section of vein leading away from the puncture site.
+568	00:28:54	00:28:55	It's devoid of blood.
+569	00:28:55	00:28:58	The killer withdrew blood from Turk after he died.
+570	00:28:58	00:29:03	There was no blood pumping, otherwise the vein would have refilled.
+571	00:29:05	00:29:06	That's crazy.
+572	00:29:06	00:29:08	The median cubital vein tells no lies.
+573	00:29:08	00:29:11	Can it tell us why somebody took the blood of a dead man?
+574	00:29:11	00:29:13	Afraid not.
+575	00:29:17	00:29:19	Hey.
+576	00:29:19	00:29:23	So I, uh, I made some calls, and...
+577	00:29:23	00:29:25	your story checks out.
+578	00:29:25	00:29:26	About the counseling.
+579	00:29:26	00:29:29	I'm so sorry for what Turk did to you.
+580	00:29:29	00:29:31	You have every right to be angry.
+581	00:29:31	00:29:34	I'm not angry.
+582	00:29:34	00:29:35	Anymore.
+583	00:29:36	00:29:38	My eyes are just open now.
+584	00:29:38	00:29:40	For what it's worth...
+585	00:29:40	00:29:46	there are far more good people out there than there are... Rob Turklas.
+586	00:29:47	00:29:50	Don't close your eyes to that.
+587	00:29:52	00:29:55	Did you hear about Turk's body?
+588	00:29:55	00:29:55	Yeah.
+589	00:29:55	00:29:57	I know these folks are your people, okay... (laughs)
+590	00:29:57	00:30:01	...but this hocus-pocus stuff isn't sitting well with me.
+591	00:30:01	00:30:02	Well, what are you thinking?
+592	00:30:02	00:30:04	Well, it's not what I'm thinking, it's what I know.
+593	00:30:04	00:30:06	I processed Turk's car in the garage.
+594	00:30:06	00:30:08	Found a used condom in the backseat.
+595	00:30:08	00:30:12	The DNA from the vaginal fluid was a match to the hair in the cauldron in Messner's shed.
+596	00:30:12	00:30:14	Well, that-that's... that's great.
+597	00:30:14	00:30:15	That's our unknown female.
+598	00:30:15	00:30:18	I think so.
+599	00:30:18	00:30:21	So our quarterback was boffing somebody in the coven.
+600	00:30:21	00:30:24	Our mystery witch didn't just leave behind her DNA.
+601	00:30:24	00:30:28	She, uh, also left her prints all over Turk's window.
+602	00:30:28	00:30:30	Well, that begs the question...
+603	00:30:30	00:30:31	which witch?
+604	00:30:33	00:30:34	This is just dandy.
+605	00:30:34	00:30:36	You actually think I hurt Turk?
+606	00:30:36	00:30:37	Nonsense.
+607	00:30:37	00:30:39	Really? Yeah.
+608	00:30:39	00:30:44	You were sleeping with a student who's now dead.
+609	00:30:44	00:30:45	Murdered in your school.
+610	00:30:45	00:30:47	I was not sleeping with Turk.
+611	00:30:47	00:30:55	My gosh. We have your fingerprints on the inside of his car windows and your DNA on his condom from the backseat.
+612	00:30:55	00:30:57	Do-do I need to go on?
+613	00:30:57	00:30:59	Turk was 18.
+614	00:30:59	00:31:01	He was perfectly legal.
+615	00:31:02	00:31:04	What we had was real.
+616	00:31:04	00:31:05	Did your husband find it real?
+617	00:31:05	00:31:07	Your marriage, your job...
+618	00:31:07	00:31:08	you had a lot to lose.
+619	00:31:08	00:31:10	Mr. Russell...
+620	00:31:10	00:31:12	every day, I play pretend. Mm-hmm.
+621	00:31:12	00:31:16	I pretend that Pelican sports matter.
+622	00:31:16	00:31:19	I pretend not to resent the fact that I'm a failed interior decorator.
+623	00:31:19	00:31:20	Mm-hmm.
+624	00:31:20	00:31:25	But mostly, I pretend to not know that my husband's having a weekly tryst with a stripper named Tangerine.
+625	00:31:25	00:31:26	Mm-hmm.
+626	00:31:26	00:31:29	Now, I did not kill Turk.
+627	00:31:29	00:31:31	But I can tell you this...
+628	00:31:31	00:31:35	I would kill to bring him back.
+629	00:31:35	00:31:39	Did you know that-that Turk's blood was removed from his body after he was murdered?
+630	00:31:39	00:31:47	And that suggests a Wiccan ritual or a spell, and that suggests you.
+631	00:31:48	00:31:50	Golly.
+632	00:31:50	00:31:53	When you people secret-shovel, you sure dig deep.
+633	00:31:53	00:31:55	The coven said that we'd be persecuted.
+634	00:31:55	00:31:57	No, slow-slow down.
+635	00:31:57	00:32:01	I don't care who or what you worship, I just care about the truth.
+636	00:32:01	00:32:02	I didn't kill Turk.
+637	00:32:04	00:32:06	You said that the killer took Turk's blood.
+638	00:32:06	00:32:09	Yes, that's right.
+639	00:32:09	00:32:13	Our high priest thought that my relationship with Turk was-was a threat to the coven.
+640	00:32:13	00:32:15	Your-your high priest?
+641	00:32:18	00:32:19	Ed.
+642	00:32:19	00:32:21	Ed, Ed Lusk?
+643	00:32:21	00:32:22	The janitor?
+644	00:32:22	00:32:24	He doesn't have power in this life.
+645	00:32:24	00:32:26	He's determined to find power within the coven.
+646	00:32:26	00:32:28	Turk was a threat to that power.
+647	00:32:28	00:32:31	By having sex with you, he could create a-a scandal.
+648	00:32:31	00:32:33	Ed said I was a bit...
+649	00:32:33	00:32:34	reckless.
+650	00:32:34	00:32:40	He would do anything to protect the coven, but I'm afraid if he took Turk's blood, that this goes way beyond that.
+651	00:32:40	00:32:41	How so?
+652	00:32:41	00:32:46	There's an ancient power spell called the Kratos.
+653	00:32:46	00:32:48	It uses the blood of a sacrificed youth.
+654	00:32:48	00:32:49	It goes back to the Druids.
+655	00:32:49	00:32:58	To perform this-this Kratos spell, Ed would have to take Turk's blood to an altar, if-if I'm right. Yes.
+656	00:32:58	00:32:59	The timing is very important.
+657	00:32:59	00:33:02	The quicker the offering, the more powerful the spell.
+658	00:33:02	00:33:09	The two attempts on Turk's life came at the school, so maybe Ed had a-an altar at the school?
+659	00:33:09	00:33:11	Mm-hmm.
+660	00:33:11	00:33:12	Do you know where it is?
+661	00:33:17	00:33:19	Ed Lusk hasn't been seen since lunch.
+662	00:33:20	00:33:24	Well, his ride's here, so he's probably around here somewhere.
+663	00:33:26	00:33:29	All we have is an altar to the cleaning gods.
+664	00:33:29	00:33:31	Not a Wiccan candle in sight.
+665	00:33:34	00:33:36	Looks like our janitor missed something.
+666	00:33:36	00:33:38	Directional blood drop.
+667	00:33:38	00:33:41	Maybe a drip from the needle he used to draw Turk's blood.
+668	00:33:42	00:33:44	I got another one here.
+669	00:33:44	00:33:46	And here.
+670	00:34:00	00:34:01	You don't belong here!
+671	00:34:02	00:34:04	LVPD. Put down the knife.
+672	00:34:04	00:34:07	We need you to come with us, Ed.
+673	00:34:07	00:34:10	Put the knife down and no one gets hurt.
+674	00:34:10	00:34:11	We just want to talk to you.
+675	00:34:13	00:34:18	May the blackest of darkness smite you down into the ground.
+676	00:34:18	00:34:19	Try me.
+677	00:34:31	00:34:33	So, Ed Lusk has lawyered up.
+678	00:34:33	00:34:35	High priest is not talking, huh?
+679	00:34:35	00:34:36	The blood drops in his closet are.
+680	00:34:36	00:34:38	DNA matches Turk.
+681	00:34:38	00:34:39	Hope he's got a good lawyer.
+682	00:34:39	00:34:40	Yeah, really. (rattling)
+683	00:34:42	00:34:44	Ah, my brethren.
+684	00:34:44	00:34:48	I was about to use the foul modern text device to summon you. What are you doing?
+685	00:34:50	00:34:53	I beseech you to enter my sacred domain.
+686	00:34:57	00:35:00	I welcome you on the day of the Mabon Moon...
+687	00:35:00	00:35:01	David... ...whence we...
+688	00:35:01	00:35:02	I'm tired.
+689	00:35:02	00:35:04	I'm spell-casting to prove a point. Please.
+690	00:35:04	00:35:05	Please.
+691	00:35:05	00:35:07	Fine.
+692	00:35:07	00:35:11	I understand that our high priest is mum, but his cauldron isn't.
+693	00:35:11	00:35:17	I ran the ingredients found in it, discovered trace amounts of cherry opal gemstone.
+694	00:35:18	00:35:23	Wiccans believe the cherry opal amplifies vibrational energies within the bloodstream.
+695	00:35:23	00:35:30	We have been assuming that this is a power spell, but the truth is this soup's a healing spell.
+696	00:35:30	00:35:31	So, what are you saying?
+697	00:35:31	00:35:33	That Ed Lusk is sick?
+698	00:35:33	00:35:35	No, but someone else is.
+699	00:35:35	00:35:40	Someone who borrowed Turk's blood and availed themselves to Lusk's altar.
+700	00:35:40	00:35:45	As I expected, I found Turk's blood in the cauldron.
+701	00:35:45	00:35:50	But unexpectedly, I found a second blood contributor.
+702	00:35:50	00:35:56	Not Lusk, but someone whose blood contains traces of methotrexate.
+703	00:35:56	00:35:59	That's a chemo drug used to treat blood cancers.
+704	00:35:59	00:36:01	Thou art correct.
+705	00:36:01	00:36:03	And Henry hath run said blood.
+706	00:36:03	00:36:10	He found a male familial match to touch DNA from a candle recovered from Messner's altar.
+707	00:36:10	00:36:14	The match was not to Ed Lusk, but to a different wicked witch.
+708	00:36:21	00:36:22	Ms. Brewer?
+709	00:36:22	00:36:26	Haven't you asked my son enough questions?
+710	00:36:26	00:36:26	Enough is enough.
+711	00:36:26	00:36:30	We asked you to bring Mason here because we're concerned.
+712	00:36:30	00:36:34	Concerned? About what will happen to him.
+713	00:36:35	00:36:36	I don't understand.
+714	00:36:38	00:36:41	You need to come with me, Mrs. Brewer.
+715	00:36:42	00:36:43	Now.
+716	00:36:49	00:36:51	We know that your son, Mason, is sick, Rebecca.
+717	00:36:51	00:36:55	That he has Langerhans cell histiocytosis.
+718	00:36:55	00:36:58	The blood cancer that affects children.
+719	00:36:58	00:37:01	He missed a lot of school last semester.
+720	00:37:01	00:37:04	His grades started to falter.
+721	00:37:04	00:37:10	We know that he was receiving treatment, but you were seeking help of a higher power.
+722	00:37:10	00:37:13	I'm not following.
+723	00:37:13	00:37:14	We found Ed Lusk's cauldron.
+724	00:37:14	00:37:18	We know that you're the one who prepared the ritual with your son's blood.
+725	00:37:18	00:37:19	And Turk's.
+726	00:37:19	00:37:20	You needed it to save Mason.
+727	00:37:20	00:37:24	You're the one who killed Turk and Messner.
+728	00:37:24	00:37:25	Your original plan wasn't too bad.
+729	00:37:25	00:37:30	I mean, you heard the rumblings around school that Turk was looking for the Chem IV test answers.
+730	00:37:30	00:37:32	It's pretty easy, setting him up.
+731	00:37:32	00:37:36	This is you 16.
+732	00:37:36	00:37:39	That's the same day that Chet Messner was killed.
+733	00:37:39	00:37:44	19, you logged on to a computer using Hannah Hunt's password.
+734	00:37:44	00:37:49	You logged on to VidTree, and you sent a message to Rob Turkla.
+735	00:37:49	00:37:53	Telling him where to find the cheat sheet, but Messner found it instead.
+736	00:37:53	00:37:56	And so you had to try and kill Rob again.
+737	00:37:56	00:37:58	You knew Turk's schedule.
+738	00:37:58	00:38:00	You knew where to find him.
+739	00:38:08	00:38:11	Why, Rebecca?
+740	00:38:11	00:38:13	Was Mason getting worse?
+741	00:38:13	00:38:15	Why?
+742	00:38:15	00:38:17	The cancer spread to his bones.
+743	00:38:17	00:38:21	The doctor found vertical lesions and gave him six months to live.
+744	00:38:21	00:38:25	So you were running out of time.
+745	00:38:25	00:38:27	We get it.
+746	00:38:27	00:38:30	Why does a piece of crap like Turk get to live?
+747	00:38:30	00:38:32	Why does a good boy...
+748	00:38:32	00:38:34	Why does your Mason have to die?
+749	00:38:34	00:38:35	Where's the harmony in that?
+750	00:38:35	00:38:37	We searched your car.
+751	00:38:37	00:38:39	We found your Book of Shadows.
+752	00:38:39	00:38:43	Inside there was a healing spell dedicated to Mason.
+753	00:38:44	00:38:50	The spell's materials were all the same items that we found in Ed Lusk's cauldron.
+754	00:38:50	00:38:52	I can...
+755	00:38:52	00:38:56	Please. Listen, I know that you love your son.
+756	00:38:56	00:38:57	No doubt.
+757	00:38:57	00:38:58	It's all right here.
+758	00:39:01	00:39:10	If I could set my own soul free to save you, I would, but I'm earthbound, so I can call on thee, gods.
+759	00:39:10	00:39:15	Let the rising sun sear the cold serpent of disease.
+760	00:39:15	00:39:16	My child...
+761	00:39:18	00:39:20	...let the wind carry your pain away.
+762	00:39:22	00:39:27	Let the waxing moon alight the darkness within you.
+763	00:39:27	00:39:31	And let this blood of the powerful allow you to heal.
+764	00:39:31	00:39:33	My son, you shall be reborn.
+765	00:39:33	00:39:34	You shall be reborn.
+766	00:39:34	00:39:38	My son doesn't deserve to die.
+767	00:39:38	00:39:41	(sniffles) I'm not an evil person.
+768	00:39:41	00:39:43	Ed told us that they were healing spells.
+769	00:39:43	00:39:48	And-and medicine hadn't worked, and I was desperate to try anything.
+770	00:39:48	00:39:50	Two people died because of this.
+771	00:39:50	00:39:52	The Book of Shadows is very, very clear.
+772	00:39:52	00:40:00	It says that a spell will only work if the sacrificed dies so that the other one can live.
+773	00:40:02	00:40:04	I had to save my boy.
+774	00:40:05	00:40:08	And you ended up losing him anyway.
+775	00:40:13	00:40:15	Mason?
+776	00:40:15	00:40:16	I'm so sorry.
+777	00:40:16	00:40:17	Yeah.
+778	00:40:17	00:40:20	There anybody I can call?
+779	00:40:21	00:40:22	Any family?
+780	00:40:22	00:40:25	Ever since my dad died, it's just been me and Mom.
+781	00:40:25	00:40:31	This is when I get dumped in an orphanage with Oliver Twist, right?
+782	00:40:31	00:40:33	No, that's not gonna happen.
+783	00:40:33	00:40:35	Sure.
+784	00:40:35	00:40:37	You still getting your treatments?
+785	00:40:37	00:40:39	(sighs) Yeah.
+786	00:40:39	00:40:41	I start a new round of chemo next month.
+787	00:40:41	00:40:44	Doctors said they're gonna be tweaking the protocols.
+788	00:40:46	00:40:49	Think maybe things might turn around.
+789	00:40:52	00:40:57	I'm homeless, but I'm not hopeless.
+790	00:40:57	00:41:00	He can stay with my family.
+791	00:41:02	00:41:04	My parents already said it was okay.
+792	00:41:06	00:41:08	Hannah, what...
+793	00:41:08	00:41:09	What are you doing here?
+794	00:41:12	00:41:13	I heard about your mom.
+795	00:41:17	00:41:18	I'm really sorry.
+796	00:41:18	00:41:20	Yeah, me, too.
+797	00:41:22	00:41:29	You've always been really sweet to me, even when I was so mean to you.
+798	00:41:34	00:41:36	And I couldn't be more sorry.
+799	00:41:38	00:41:39	So...
+800	00:41:39	00:41:42	if you want to play kick the can or something...
+801	00:41:45	00:41:47	We're not little kids anymore, Hannah.
+802	00:41:47	00:41:51	I know that, but...
+803	00:41:51	00:41:53	what do you say?
+804	00:42:04	00:42:05	Come on, let's go.
+805	00:42:13	00:42:14	Poor kid.
+806	00:42:14	00:42:18	How could a mother's love get so twisted?
+807	00:42:18	00:42:21	Well, at least Hannah stepped up.
+808	00:42:22	00:42:24	Kind of gives you hope, right?
+809	00:42:27	00:42:28	That'd be nice.

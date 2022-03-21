@@ -1,752 +1,714 @@
-,start,end,text
-0,00:00:21,00:00:22,My name is Royce Harmon.
-1,00:00:22,00:00:27,"I reside at 7642 Carpenter Street, Las Vegas, Nevada."
-2,00:00:27,00:00:30,I am 41 years of age...
-3,00:00:30,00:00:33,...and I'm going to kill myself.
-4,00:00:35,00:00:40,"I'd like to say ""I love you"" to my mother Paige and my sister Gina."
-5,00:00:40,00:00:42,I'm so sorry.
-6,00:00:42,00:00:44,I never wanted to put you through this.
-7,00:00:44,00:00:47,I just can't do it anymore.
-8,00:00:47,00:00:48,"I love you, Mom..."
-9,00:00:48,00:00:49,(gunshot)
-10,00:00:49,00:00:52,(helicopter flying overhead)
-11,00:00:52,00:00:53,(siren flipping on and off)
-12,00:00:58,00:01:00,Here comes the nerd squad.
-13,00:01:00,00:01:02,I hate the legwork.
-14,00:01:02,00:01:06,"I'm telling you, that Deputy Chief job better come in soon."
-15,00:01:06,00:01:10,I don't know how much longer I can put up with these damn public appearances.
-16,00:01:12,00:01:13,Gentlemen...
-17,00:01:13,00:01:14,"Hey, guys, take a break, huh?"
-18,00:01:37,00:01:39,Suicide.
-19,00:01:39,00:01:40,"You think so, huh?"
-20,00:01:40,00:01:46,You got the sleeping bag for easy cleanup the bathtub to catch the bullet open window so the stench alerts the neighbors...
-21,00:01:46,00:01:48,God bless him.
-22,00:01:50,00:01:52,(coughs)
-23,00:01:53,00:01:55,"Oh, geez..."
-24,00:01:56,00:01:59,(clears throat)
-25,00:02:06,00:02:08,"Pupa, stage three."
-26,00:02:08,00:02:10,English. I'm not an entomologist.
-27,00:02:11,00:02:14,It's the third stage of larva metamorphosis.
-28,00:02:14,00:02:16,This guy's been dead seven days.
-29,00:02:16,00:02:19,"That's a maggot, and he stinks."
-30,00:02:19,00:02:20,"Oh, good, it's almost 11:00."
-31,00:02:21,00:02:26,Maybe if I'm lucky I can break out of here in time for a shot at the first rack of the Krispy Kreme.
-32,00:02:29,00:02:31,I think we may have our suicide note.
-33,00:02:33,00:02:36,Harmon: I never wanted to put you through this.
-34,00:02:36,00:02:37,I just can't do it anymore.
-35,00:02:37,00:02:39,I've lost hope.
-36,00:02:39,00:02:41,"I love you, Mom..."
-37,00:02:41,00:02:42,(gunshot)
-38,00:02:42,00:02:43,(both gasp)
-39,00:02:43,00:02:44,"Oh, my God!"
-40,00:02:44,00:02:46,"Go upstairs, Gina."
-41,00:02:47,00:02:50,This can't be happening.
-42,00:02:50,00:02:52,"We're so sorry about this, Ms. Harmon."
-43,00:02:52,00:02:55,I can only imagine how difficult this must be for you.
-44,00:02:55,00:02:59,"No, you don't understand."
-45,00:02:59,00:03:01,This is his picture...
-46,00:03:02,00:03:05,but that's not my son's voice.
-47,00:04:04,00:04:05,Hello?
-48,00:04:06,00:04:08,Ooh...
-49,00:04:08,00:04:10,My God.
-50,00:04:24,00:04:25,Hi.
-51,00:04:25,00:04:27,(gasps)
-52,00:04:27,00:04:28,Sorry.
-53,00:04:28,00:04:29,Welcome to Forensics.
-54,00:04:29,00:04:32,Gil Grissom. I'm your supervisor on graveyard.
-55,00:04:32,00:04:33,Holly Gribbs.
-56,00:04:34,00:04:35,Nice office.
-57,00:04:35,00:04:40,Thanks. Would you mind taking off your jacket and rolling up your sleeve?
-58,00:04:40,00:04:41,For what?
-59,00:04:41,00:04:43,I need a pint of your blood.
-60,00:04:43,00:04:45,It's customary for all new hires.
-61,00:04:45,00:04:46,Why?
-62,00:04:46,00:04:48,So many reasons.
-63,00:04:49,00:04:52,I-I haven't even clocked in yet.
-64,00:04:52,00:04:53,(people laughing in background)
-65,00:04:53,00:04:59,"Attention, Command One more, baby, one more."
-66,00:04:59,00:05:00,Hey.
-67,00:05:00,00:05:02,There he is. What's up?
-68,00:05:04,00:05:09,"99. You and me, dead heat."
-69,00:05:09,00:05:12,"Next crime solved gets promoted to CSI III, man."
-70,00:05:13,00:05:20,"Yeah, yeah, choice of shift, $8,000 raise extra week vacation-- oh-ho, it's all about Cabo, bro."
-71,00:05:20,00:05:24,"Twenty bucks, by the end of shift, I'm the man."
-72,00:05:24,00:05:26,Is there anything you won't bet on? Nah.
-73,00:05:26,00:05:28,"It's college football season, man."
-74,00:05:28,00:05:30,I won eight of ten this weekend.
-75,00:05:30,00:05:35,Kilt 'em. Outside the Huskers and them punk-ass Irish I'm up about four G's.
-76,00:05:35,00:05:37,"Hmm, what's the line on us?"
-77,00:05:37,00:05:39,On us?
-78,00:05:39,00:05:42,"I'm like Tiger, man-- I'm heavily favored."
-79,00:05:42,00:05:45,"Come on, give me a winner for tomorrow."
-80,00:05:45,00:05:49,"Ah... Green Bay, minus seven and a half over Niners."
-81,00:05:49,00:05:52,Always go with the better quarterback.
-82,00:05:52,00:05:53,Uh-huh.
-83,00:05:53,00:05:57,"Cool. Hey, good luck tonight, man."
-84,00:05:57,00:05:59,"Thanks. You, too, Nick."
-85,00:06:00,00:06:01,"I hope you get that ""trick roll"" noise."
-86,00:06:01,00:06:03,"You'll never crack that in a shift, never."
-87,00:06:03,00:06:09,"Yeah, well, we'll see, and I hope the Pack wins by seven."
-88,00:06:09,00:06:14,"We scrutinize the crime scene, collect the evidence recreate what happened without ever having been there."
-89,00:06:14,00:06:16,"Pretty cool, actually."
-90,00:06:16,00:06:19,I just got out of the Academy-- I already know this.
-91,00:06:19,00:06:20,Of course you do.
-92,00:06:20,00:06:28,"Then if you'll just sign these waivers for personal injury or death while in the line of duty, we can begin our shift."
-93,00:06:29,00:06:31,Mmm...
-94,00:06:31,00:06:32,What's the matter?
-95,00:06:32,00:06:34,Um... I'm kind of light-headed.
-96,00:06:34,00:06:35,"Sit down, sit down."
-97,00:06:35,00:06:37,You're probably low on blood sugar.
-98,00:06:37,00:06:39,I've got just the thing.
-99,00:06:41,00:06:43,"Here, try one of these."
-100,00:06:43,00:06:49,"No offense, but I don't think I want to eat anything that's been in this office."
-101,00:06:59,00:07:01,Is there a grasshopper in here?
-102,00:07:03,00:07:04,(crunching)
-103,00:07:06,00:07:08,"When we get some free time, try and catch up on your reports."
-104,00:07:08,00:07:10,I'm getting a lot of heat from the Sheriff's Office.
-105,00:07:10,00:07:11,There I said it.
-106,00:07:11,00:07:13,"Administration, not my favorite thing."
-107,00:07:13,00:07:15,"All right, here we go."
-108,00:07:15,00:07:17,"Nick Stokes, 414, trick roll."
-109,00:07:17,00:07:19,Victim found drugged and robbed at the scene.
-110,00:07:19,00:07:22,"Warrick Brown, 407, home invasion, forced entry."
-111,00:07:22,00:07:26,Person reporting crime fired multiple rounds at the suspect.
-112,00:07:26,00:07:28,Suspect's condition is unknown.
-113,00:07:30,00:07:31,Anyone seen Catherine Willows?
-114,00:07:35,00:07:37,"Okay, give me a kiss."
-115,00:07:37,00:07:39,Mommy's got to go catch some bad guys.
-116,00:07:39,00:07:41,I'll pick her up in the morning.
-117,00:07:41,00:07:43,"Bye, sis. Bye."
-118,00:07:43,00:07:44,I love you!
-119,00:07:47,00:07:51,"Brass: So your mother is Lieutenant Jane Gribbs from Traffic, is that right?"
-120,00:07:51,00:07:52,"Yes, sir."
-121,00:07:52,00:07:54,"Well, congratulations, Gribbs."
-122,00:07:54,00:07:55,You're the...
-123,00:07:55,00:07:59,You're the fifth person I've been forced to hire.
-124,00:07:59,00:08:00,We're the number two crime lab in the country.
-125,00:08:00,00:08:03,We solve crimes most labs render unsolvable.
-126,00:08:03,00:08:05,Now what makes you think you belong here?
-127,00:08:06,00:08:15,"Sir, with all due respect I thought the key to being a lucid crime scene investigator was to reserve judgment until the evidence vindicates or eliminates assumption."
-128,00:08:16,00:08:17,You're prejudging me.
-129,00:08:17,00:08:20,I graduated with honors in criminal justice at UNLV.
-130,00:08:21,00:08:21,"Yeah, so?"
-131,00:08:22,00:08:22,That's not fair.
-132,00:08:22,00:08:27,"Fair? Well, you think putting a juiced-in lieutenant's daughter on this shift is fair?"
-133,00:08:27,00:08:28,"You know, I've been in the field 22 years."
-134,00:08:28,00:08:29,I've seen it all.
-135,00:08:29,00:08:32,"I've seen people like you come and go, and you know what?"
-136,00:08:32,00:08:35,They're nothing but headaches and bad press.
-137,00:08:37,00:08:39,Dismissed.
-138,00:08:40,00:08:42,Fine.
-139,00:08:46,00:08:48,Think you got through to her?
-140,00:08:48,00:08:50,You're scheduled to appear at an autopsy at 12:30 a.m.
-141,00:08:50,00:08:52,They're cutting up that bozo put a hole in his chest.
-142,00:08:52,00:08:54,Take her with.
-143,00:08:54,00:08:58,I think every new hire should experience an autopsy on their first night.
-144,00:08:59,00:09:02,(siren wailing)
-145,00:09:17,00:09:18,(child crying)
-146,00:09:28,00:09:30,"Woman: It's okay, shh."
-147,00:09:31,00:09:33,Willows: Ma'am...
-148,00:09:33,00:09:34,are you all right?
-149,00:09:34,00:09:35,She's fine.
-150,00:09:35,00:09:37,She's just a little shook up is all.
-151,00:09:37,00:09:39,Somebody want to tell us what happened here tonight?
-152,00:09:39,00:09:45,My wife invited her drunk friend to stay here so he could get back on his feet.
-153,00:09:45,00:09:47,"Two weeks tops, she says."
-154,00:09:47,00:09:50,That was six months ago.
-155,00:09:50,00:09:51,(child screaming)
-156,00:09:52,00:09:53,"Jimmy, Jimmy!"
-157,00:09:53,00:09:56,Please take your sweaty feet off the head pillow.
-158,00:09:56,00:09:58,They stink.
-159,00:09:58,00:09:59,(glass breaking)
-160,00:10:05,00:10:08,Here's a 20-- twice as much as you came with. Hit the road.
-161,00:10:08,00:10:10,(yelling)
-162,00:10:10,00:10:11,Open up!
-163,00:10:18,00:10:20,(wife screaming)
-164,00:10:22,00:10:23,Call 911.
-165,00:10:23,00:10:25,(child crying)
-166,00:10:25,00:10:26,That was it.
-167,00:10:26,00:10:29,I feared for my wife and my baby.
-168,00:10:31,00:10:34,Let's put the baby to bed.
-169,00:10:38,00:10:40,What do you think?
-170,00:10:40,00:10:42,"Oh, he's lying. That's why I took this job."
-171,00:10:42,00:10:45,I can always tell when whitey's talking out his ass.
-172,00:10:45,00:10:46,It's a gift.
-173,00:10:46,00:10:48,It's also your 100th.
-174,00:10:48,00:10:51,"Yeah, that, too."
-175,00:10:51,00:10:54,So tonight you might say I'm extra suspicious.
-176,00:10:56,00:10:58,Why don't you print that tread and see how good you are?
-177,00:11:13,00:11:15,Why are you doing that?
-178,00:11:15,00:11:16,"It's just procedure, sir."
-179,00:11:16,00:11:21,We just want to make sure the shoe on the suspect is the same shoe that kicked down your door.
-180,00:11:21,00:11:23,Wait... Wait a minute.
-181,00:11:23,00:11:24,What's the matter?
-182,00:11:24,00:11:31,"Sir, after you shot the deceased, did you move re-dress, or alter the body in any way?"
-183,00:11:31,00:11:33,"No, why?"
-184,00:11:33,00:11:34,Talk to me.
-185,00:11:34,00:11:36,The left shoe's tied differently.
-186,00:11:36,00:11:41,"Sir, in the six months that the victim lived with you did you ever wear his shoes?"
-187,00:11:41,00:11:43,"No, why would I do that?"
-188,00:11:43,00:11:46,You willing to sign a statement to that effect?
-189,00:11:46,00:11:47,Sure.
-190,00:11:48,00:11:52,"Sir, what happened to your pinkie toe?"
-191,00:11:53,00:11:55,I tripped over a rattle.
-192,00:12:00,00:12:02,"You got to breathe through your ears, Gribbs."
-193,00:12:02,00:12:04,"First dead body, ma'am?"
-194,00:12:04,00:12:06,"Yes, sir, but I'll be okay."
-195,00:12:06,00:12:08,"To tell you the truth, he looks fake."
-196,00:12:08,00:12:14,"I hate to put a damper on your night, Grissom but it looks like we got ourselves a homicide after all."
-197,00:12:14,00:12:17,"You see, if the victim had extended his arms like..."
-198,00:12:18,00:12:19,"Here, I'll show you. Give me your hands."
-199,00:12:19,00:12:22,"And pushed the trigger with his thumbs, like so..."
-200,00:12:22,00:12:24,(echoing gunshot)
-201,00:12:24,00:12:26,The wound would look like this.
-202,00:12:26,00:12:27,"He's right, honey."
-203,00:12:27,00:12:28,This wound's too big.
-204,00:12:29,00:12:32,This person was shot from six to seven feet away.
-205,00:12:32,00:12:35,"It's like somebody stood over him and, bam!"
-206,00:12:35,00:12:37,(echoing gunshot)
-207,00:12:37,00:12:38,Criminal homicide.
-208,00:12:38,00:12:41,Let's see what God would have to say.
-209,00:12:46,00:12:47,Are you okay?
-210,00:12:47,00:12:48,"I'm sorry, sir."
-211,00:12:48,00:12:50,I can't take the smell.
-212,00:12:50,00:12:52,"Oh, God, restroom?"
-213,00:12:52,00:12:54,Right down the hall to your right.
-214,00:12:56,00:12:58,She is cute.
-215,00:13:22,00:13:25,How soon does the Captain want that one out?
-216,00:13:25,00:13:27,Eight hours.
-217,00:13:27,00:13:29,Whoo!
-218,00:13:33,00:13:35,(gasping)
-219,00:13:35,00:13:37,Help! Help me!
-220,00:13:37,00:13:39,(pounding on door)
-221,00:13:41,00:13:43,There were bodies.
-222,00:13:43,00:13:45,I could feel them breathing.
-223,00:13:46,00:13:47,"Oh, God!"
-224,00:13:47,00:13:49,"It's okay, Holly, it's all right."
-225,00:13:52,00:13:54,You assholes!!
-226,00:13:55,00:13:57,There.
-227,00:13:57,00:13:58,Okay?
-228,00:14:11,00:14:12,"What's up, fellas?"
-229,00:14:12,00:14:14,We got a call about a trick roll.
-230,00:14:14,00:14:15,Right there. Room 1413.
-231,00:14:20,00:14:22,Hey.
-232,00:14:24,00:14:26,Mr. Laferty?
-233,00:14:26,00:14:29,"Well, what's left of him, anyway."
-234,00:14:31,00:14:34,"I'm Nick Stokes, with Criminalistics."
-235,00:14:34,00:14:36,You mind if I ask you a few questions?
-236,00:14:36,00:14:39,"She got everything-- my wallet, my ID..."
-237,00:14:39,00:14:41,"Hell, she even got my wedding ring."
-238,00:14:41,00:14:43,Did you two have a nightcap?
-239,00:14:43,00:14:45,You think she could've slipped you something?
-240,00:14:45,00:14:47,"Nah, I can't drink. I got this bum ticker."
-241,00:14:47,00:14:49,"Look, Officer, I..."
-242,00:14:49,00:14:50,Nick.
-243,00:14:50,00:14:53,You can call me Nick.
-244,00:14:53,00:14:55,"Nick, I..."
-245,00:14:55,00:14:57,I love my wife.
-246,00:14:57,00:14:59,We've been married 31 years now.
-247,00:14:59,00:15:01,I've never cheated on her before.
-248,00:15:01,00:15:09,"I come into town for this convention and I'm setting in the lounge minding my own business, when this..."
-249,00:15:09,00:15:12,sweet-smelling brunette came up to me and...
-250,00:15:13,00:15:16,"Next thing I know, she's nibbling on my earlobe and..."
-251,00:15:16,00:15:20,(laughing)
-252,00:15:22,00:15:24,"Well, my goodness. Look at you."
-253,00:15:32,00:15:36,"For a second there, I thought I was your age again."
-254,00:15:36,00:15:39,We've been seeing more and more of these the past 48 hours.
-255,00:15:39,00:15:41,Let's take a look.
-256,00:15:41,00:15:43,Open your eyes wide for me.
-257,00:15:43,00:15:45,Sunny side up.
-258,00:15:48,00:15:51,"Now say ""ah."" Ah."
-259,00:15:51,00:15:52,Was she hot?
-260,00:15:52,00:15:54,(chuckling moan)
-261,00:15:54,00:15:55,Attaboy.
-262,00:15:55,00:16:01,"Mr. Laferty, your eyes look okay but I notice some discoloration around the inside of your lips."
-263,00:16:01,00:16:03,Have you always had that?
-264,00:16:03,00:16:05,No. What the hell is that?
-265,00:16:05,00:16:10,I'll swab your gums see if we can find out what made you pass out.
-266,00:16:15,00:16:18,"Grissom: You know, my first robbery solved was a store like this."
-267,00:16:18,00:16:23,"When we caught the guy, the owner was so happy that he gave me a dozen farm fresh eggs out of his cooler."
-268,00:16:23,00:16:25,"You're trying to cheer me up, aren't you?"
-269,00:16:25,00:16:27,"Yes, I am. How am I doing?"
-270,00:16:27,00:16:29,Pretty good.
-271,00:16:29,00:16:30,Good.
-272,00:16:30,00:16:33,"Okay, look, this was a routine robbery."
-273,00:16:33,00:16:36,"Dust for prints, check the videotape take lots of fun photos."
-274,00:16:36,00:16:39,I'll be back in about an hour to pick you up.
-275,00:16:39,00:16:41,Okay.
-276,00:16:41,00:16:45,If you get done early use channel seven on your walkie.
-277,00:16:52,00:16:53,What's up?
-278,00:16:53,00:16:55,"Hey, rookie."
-279,00:16:55,00:16:57,Hair fibers from the home invasion.
-280,00:16:57,00:16:58,Take a look.
-281,00:16:58,00:17:00,Tell me what you see.
-282,00:17:04,00:17:06,I see a lot of things.
-283,00:17:06,00:17:08,Look at the end of the follicles.
-284,00:17:09,00:17:14,"Oh, yeah, you know, I see, like little tiny seeds or sacs or something."
-285,00:17:14,00:17:17,That's pulp when the human hair is yanked out like this.
-286,00:17:17,00:17:19,"Ow! Damn, man."
-287,00:17:19,00:17:21,"Look, you see the seeds?"
-288,00:17:21,00:17:27,Hair only comes out in that form when it's yanked or pulled signifying a struggle.
-289,00:17:27,00:17:29,You know what? I got to go.
-290,00:17:29,00:17:33,"Tell Grissom, when he gets back I went to Homicide to do a follow-up on the husband."
-291,00:17:33,00:17:34,Peace.
-292,00:17:34,00:17:35,Yeah.
-293,00:17:35,00:17:38,"Now, how long is this gonna take?"
-294,00:17:38,00:17:42,I'm losing business because of you.
-295,00:17:42,00:17:45,"Ma'am, I told you, if you let them in it will contaminate the scene."
-296,00:17:45,00:17:46,"Oh, contaminate, my ass!"
-297,00:17:46,00:17:48,What the hell difference does it make?
-298,00:17:48,00:17:50,You ain't gonna catch 'em.
-299,00:17:50,00:17:52,You never do.
-300,00:17:52,00:17:54,"Sir, I'm on your side."
-301,00:17:54,00:17:57,I just want to clear you.
-302,00:17:57,00:17:59,Then clear me. I already told you everything.
-303,00:17:59,00:18:00,I understand that.
-304,00:18:00,00:18:02,The evidence tells us something different.
-305,00:18:02,00:18:09,"So I'm going to ask you again, just one more time-- before you shot the deceased did a struggle ensue?"
-306,00:18:09,00:18:11,(woman shrieks)
-307,00:18:11,00:18:12,I've got a gun.
-308,00:18:13,00:18:14,Woman: What are you doing?
-309,00:18:17,00:18:17,(shrieking)
-310,00:18:18,00:18:18,(gunshots)
-311,00:18:18,00:18:20,Call 911.
-312,00:18:20,00:18:23,(child crying)
-313,00:18:29,00:18:33,I must've tied the laces wrong.
-314,00:18:33,00:18:37,"I'm sorry, I..."
-315,00:18:37,00:18:39,I know I should've told you earlier but...
-316,00:18:39,00:18:41,I was nervous.
-317,00:18:41,00:18:43,I mean...
-318,00:18:43,00:18:47,I took a man's life here.
-319,00:18:49,00:18:52,"You don't believe me, do you?"
-320,00:18:53,00:18:58,"This is Holly Gribbs requesting backup at Junk's on West Owens, over."
-321,00:18:58,00:19:00,This is Catherine Willows. Are you in danger?
-322,00:19:00,00:19:03,"Uh, we're getting there."
-323,00:19:03,00:19:07,This is my popsicle stand-- I'll defend it to the hilt if I have to!
-324,00:19:07,00:19:09,"So, this is it, huh?"
-325,00:19:09,00:19:11,"The $8,000 Q-Tip."
-326,00:19:11,00:19:14,"Well, you're the chemist."
-327,00:19:14,00:19:16,I just need to knowwhat knocked the old man out.
-328,00:19:16,00:19:21,"In 20 seconds, this'll give us a complete chemical breakdown right down to the atom."
-329,00:19:21,00:19:26,"But I'm going to warn you, though These mouth swabs don't always read."
-330,00:19:27,00:19:29,"Vaginal swabs, no problem."
-331,00:19:29,00:19:32,Anal swabs-- money.
-332,00:19:32,00:19:33,Anal swabs?
-333,00:19:33,00:19:34,Anal swabs.
-334,00:19:34,00:19:38,Ouch.
-335,00:19:38,00:19:40,(beeps)
-336,00:19:40,00:19:45,(machine whirs quietly)
-337,00:19:45,00:19:47,"Dude, you get NFL-2K for Dreamcast?"
-338,00:19:47,00:19:49,Yeah. Bought it the day it came out.
-339,00:19:49,00:19:52,"Those graphics are killer, aren't they?"
-340,00:19:52,00:19:53,My team's the Falcons.
-341,00:19:53,00:19:54,Who do you use?
-342,00:19:54,00:19:56,Randy Moss.
-343,00:19:58,00:20:00,(whirs and beeps)
-344,00:20:00,00:20:02,(whirring slows)
-345,00:20:02,00:20:04,"It didn't take, did it?"
-346,00:20:04,00:20:06,A hint of saliva; some denture adhesive...
-347,00:20:06,00:20:08,That's it.
-348,00:20:08,00:20:11,"Sorry, man."
-349,00:20:12,00:20:14,"All right, put the gun down."
-350,00:20:14,00:20:15,What?
-351,00:20:15,00:20:17,We're getting robbed again now?
-352,00:20:17,00:20:18,Everything okay here?
-353,00:20:19,00:20:20,"Yes, ma'am."
-354,00:20:21,00:20:23,"Control, Junk's is a Code Four."
-355,00:20:23,00:20:25,Officer: Copy that.
-356,00:20:25,00:20:26,You the new girl?
-357,00:20:26,00:20:28,"Yeah. Hi, I'm Holly Gribbs."
-358,00:20:28,00:20:30,Thanks. I'm Catherine Willows.
-359,00:20:30,00:20:31,And I'm Lesley Stahl.
-360,00:20:31,00:20:33,"Look, let's forget the formalities."
-361,00:20:33,00:20:35,Which one of you people's gonna clean my counter here?
-362,00:20:35,00:20:40,"Let me tell you something, lady-- if you don't care about catching the suspect neither do we."
-363,00:20:40,00:20:41,We're out of here.
-364,00:20:41,00:20:43,You can pick your gun up tomorrow.
-365,00:20:43,00:20:45,You can do that?
-366,00:20:45,00:20:47,No.
-367,00:20:49,00:20:51,Ow!
-368,00:20:53,00:20:55,Damn!
-369,00:20:55,00:20:56,Blunt force trauma case.
-370,00:20:56,00:20:58,Bermuda Hills Country Club.
-371,00:20:58,00:21:02,Pregnant wife caught her husband in bed with another girl.
-372,00:21:02,00:21:05,What do you think? Malicious intent?
-373,00:21:05,00:21:06,"Little bit, yeah. (camera clicks)"
-374,00:21:06,00:21:08,How's it coming?
-375,00:21:08,00:21:09,It's coming.
-376,00:21:11,00:21:13,Whose blood is that?
-377,00:21:13,00:21:14,The new girl's.
-378,00:21:14,00:21:15,Would you like to donate?
-379,00:21:15,00:21:17,"Hell, no."
-380,00:21:17,00:21:19,How'd the follow-up go with the husband?
-381,00:21:19,00:21:22,Boe tells me you were onto something.
-382,00:21:22,00:21:23,The story's changed a bit.
-383,00:21:23,00:21:25,Now he says therewasa struggle.
-384,00:21:25,00:21:28,Said he stepped on his shoe while they were fighting.
-385,00:21:28,00:21:29,You believe him?
-386,00:21:29,00:21:33,"At first, no but now..."
-387,00:21:33,00:21:35,"Hell, I don't know what to think."
-388,00:21:35,00:21:37,You ever see the movie The Exorcist?
-389,00:21:37,00:21:39,Yeah.
-390,00:21:39,00:21:43,The old priest and Father Karras are about to exorcise the demon.
-391,00:21:43,00:21:51,Father Karras explains that he's recorded the little girl's voice and he's broken down the spirit into three distinct personalities.
-392,00:21:51,00:22:00,"But the old priest quickly corrects him-- ""There is only one."" Forget about the husband, Warrick."
-393,00:22:00,00:22:02,Forget about the assumptions.
-394,00:22:02,00:22:04,Forget about your promotion.
-395,00:22:04,00:22:06,These things will only confuse you.
-396,00:22:06,00:22:11,Concentrate on what cannot lie-- the evidence.
-397,00:22:11,00:22:14,Follow...
-398,00:22:14,00:22:16,the reason we're having this conversation.
-399,00:22:18,00:22:21,Follow the shoe.
-400,00:22:38,00:22:40,(sighs)
-401,00:22:59,00:23:00,"Well, I'll be damned."
-402,00:23:08,00:23:11,"Tripped over a rattle, my ass."
-403,00:23:13,00:23:15,Remember this from your suicide case?
-404,00:23:15,00:23:17,"Minute I pulled it, I knew something wasn't right."
-405,00:23:18,00:23:21,The impression's perfect-- maybe too perfect.
-406,00:23:23,00:23:25,Take a gander.
-407,00:23:29,00:23:32,What are those red particles?
-408,00:23:32,00:23:33,Latex flakes.
-409,00:23:33,00:23:35,From what?
-410,00:23:35,00:23:42,"Protective gloves, maybe but the way I figure it, this son of a bitch is smart-- probably planted the damn prints."
-411,00:23:42,00:23:44,"So on a hunch, I chemically tested the flakes."
-412,00:23:44,00:23:46,Guess what it was laced with?
-413,00:23:46,00:23:47,Lecithin.
-414,00:23:47,00:23:51,That chemical's found in cooking spray isn't it?
-415,00:23:51,00:23:57,"If latex rubber and cooking spray went on a blind date, how would the night end?"
-416,00:23:57,00:23:58,A lot better than ours did.
-417,00:23:58,00:24:02,"I know, Pink Floyd's not your thing."
-418,00:24:02,00:24:03,I have on cowboy boots.
-419,00:24:03,00:24:05,I work in a lab.
-420,00:24:05,00:24:11,What makes you think Dark Side of the Moon synched toThe Wizard of Oz is going to warm my damn barn?
-421,00:24:11,00:24:13,I just thought it'd be something different.
-422,00:24:13,00:24:14,You want to be different?
-423,00:24:14,00:24:17,Pin me up against a wall; lay one on me like you mean it.
-424,00:24:21,00:24:22,"You're slacking, pal."
-425,00:24:29,00:24:30,How long till we get a hit?
-426,00:24:30,00:24:35,"It could be four minutes, could be four days but you can bet your ass she'll give you something."
-427,00:24:35,00:24:37,She always does.
-428,00:24:38,00:24:40,Pin you against a wall?
-429,00:24:44,00:24:48,"Look, um, I got to be honest."
-430,00:24:49,00:24:51,This isn't me.
-431,00:24:51,00:24:55,I was pushed into it by my mom.
-432,00:24:55,00:24:57,She's a lieutenant in Traffic.
-433,00:24:57,00:25:04,"She's never going to get out of Traffic. so, um-- I'm fulfilling her dreams, not mine."
-434,00:25:04,00:25:12,"I can sit here and I can baby you and I can tell you to quit but I'm not going to do that, because I really love my job."
-435,00:25:12,00:25:16,We're just a bunch of kids that are gettingpaid to work on puzzles.
-436,00:25:17,00:25:19,Sometimes there's a piece that's missing.
-437,00:25:19,00:25:22,Sometimes we solve it in one night.
-438,00:25:23,00:25:25,So you think I should stick with it?
-439,00:25:25,00:25:27,Stick with it?
-440,00:25:27,00:25:29,The cops?
-441,00:25:29,00:25:31,Forget it.
-442,00:25:31,00:25:36,They wouldn't know fingerprints from paw prints and the detectives...
-443,00:25:36,00:25:37,chase the lie.
-444,00:25:38,00:25:44,"We solve. We restore peace of mind and when you're a victim, that's everything."
-445,00:25:45,00:25:47,Stick with it.
-446,00:25:47,00:25:52,At least until you solve your first and if after that you don't feel like King Kong on cocaine...
-447,00:25:52,00:26:00,"then you can quit but if you stay with it my hand to God, you will never regret it."
-448,00:26:00,00:26:04,"Dispatcher: Catherine Willows, cut your lunch short."
-449,00:26:04,00:26:06,You got a 428.
-450,00:26:06,00:26:09,Copy.
-451,00:26:11,00:26:16,Brass: If you want me to call Judge Cohen at 4:00 in the morning you'd better bring me something more than a damn toenail.
-452,00:26:16,00:26:17,"Captain, you've got to make that call."
-453,00:26:17,00:26:18,"If you don't, he'll walk."
-454,00:26:19,00:26:20,And what do you got? Hair fibers. Big deal.
-455,00:26:21,00:26:23,"So there was a struggle. I mean, who gives a corn cob?"
-456,00:26:23,00:26:25,The guy was protecting his wife and kid.
-457,00:26:25,00:26:26,I've got the toenail.
-458,00:26:26,00:26:32,If I can get a warrant and match the husband's shaving to his toe I can prove that the suspect's foot was inside the victim's shoe.
-459,00:26:32,00:26:34,That alone will establish it was murder.
-460,00:26:34,00:26:38,"The guy lived there, Warrick. Maybe he put on the victim's sneaker and fetched the paper one morning."
-461,00:26:38,00:26:42,I have a sworn statement stating he never wore the victim's shoe.
-462,00:26:42,00:26:43,You don't even know the toenail was the vic's.
-463,00:26:44,00:26:45,It can't be. He was wearing socks.
-464,00:26:45,00:26:46,Not good enough.
-465,00:26:46,00:26:46,Not good enough?
-466,00:26:46,00:26:48,"Look, I said no, Brown, damn it!"
-467,00:26:49,00:26:50,(phone rings)
-468,00:26:50,00:26:52,"Hey, we're not done, Warrick."
-469,00:26:52,00:26:53,You stay right there.
-470,00:26:54,00:26:55,"Criminalistics, Brass."
-471,00:26:55,00:26:58,"Grissom: We've got a name on the suicide case, sir. He's local."
-472,00:26:58,00:26:59,"He's local, good."
-473,00:26:59,00:27:01,I'll phone the judge for a warrant.
-474,00:27:03,00:27:05,"Hey, Warrick, I guess we're all done now."
-475,00:27:05,00:27:07,"Hey, do you mind closing the door behind you?"
-476,00:27:07,00:27:09,I got to make an important call.
-477,00:27:09,00:27:12,We'll talk about your little foot fetish later.
-478,00:27:12,00:27:14,"Judge Cohen, please."
-479,00:27:16,00:27:18,"Officer: A white female, mid-20s."
-480,00:27:18,00:27:20,Said she passed out behind the wheel.
-481,00:27:20,00:27:21,Thought you might want to check it out.
-482,00:27:22,00:27:24,"All right. Thanks, brother."
-483,00:27:26,00:27:27,Hi.
-484,00:27:27,00:27:29,"Nick Stokes, Criminalistics."
-485,00:27:29,00:27:31,Mind if I take a look?
-486,00:27:31,00:27:32,I don't know what happened.
-487,00:27:32,00:27:34,I remember this song that was playing on the radio.
-488,00:27:34,00:27:38,I just don't remember passing out.
-489,00:27:38,00:27:43,"Say ""ahhh..."" What?"
-490,00:27:43,00:27:44,"You know, ahhh..."
-491,00:27:44,00:27:45,Ahhh...
-492,00:27:49,00:27:51,Ahhh...
-493,00:27:54,00:27:56,No discoloration.
-494,00:27:58,00:28:02,I don't see anything criminal here.
-495,00:28:02,00:28:06,Take her to the hospital have her checked out.
-496,00:28:10,00:28:14,"Well, might as well roll the dice; take that ass-whooping."
-497,00:28:22,00:28:23,(siren whooping)
-498,00:28:24,00:28:26,Police!
-499,00:28:26,00:28:29,Put your hands on top of your head and walk backwards towards me.
-500,00:28:30,00:28:31,I'm ID. Check the badge.
-501,00:28:31,00:28:32,I'm from Criminalistics.
-502,00:28:32,00:28:36,Keep your mouth shut and follow my instructions. Now get down on your knees.
-503,00:28:36,00:28:38,I won't get down on my knees for anybody. You can shoot me.
-504,00:28:39,00:28:42,I said get down on your knees!
-505,00:28:42,00:28:43,Hey!
-506,00:28:43,00:28:45,What the hell are you doing?
-507,00:28:45,00:28:47,That's Warrick Brown from ID.
-508,00:28:47,00:28:48,Put those guns away.
-509,00:28:48,00:28:52,"Sorry, Judge, we got a call from a neighbor about a black man outside your house."
-510,00:28:52,00:28:54,We responded.
-511,00:28:54,00:28:55,"All right, you caught him."
-512,00:28:55,00:28:57,Congratulations.
-513,00:28:57,00:29:01,Clear out of here before you wake the neighbors.
-514,00:29:01,00:29:03,"Yes, sir."
-515,00:29:03,00:29:09,"Dispatch, please be advised Judge Cohen's residence, a Code 4: false alarm."
-516,00:29:09,00:29:11,"Brown, what the hell are you doing?"
-517,00:29:11,00:29:12,"I'm sorry, Judge."
-518,00:29:12,00:29:14,Captain Brass wouldn't call you for a search warrant.
-519,00:29:14,00:29:16,I got a whopper on the line with a 100-pound test.
-520,00:29:16,00:29:19,You got a winner for me?
-521,00:29:19,00:29:22,"I'll make it worth your while, you give me a name."
-522,00:29:22,00:29:24,Favre.
-523,00:29:24,00:29:27,"Oh, I knew it. Listen, kid, I'll make a deal with you."
-524,00:29:28,00:29:32,"You put $5,000 down on the Pack for me I'll give you a blank warrant."
-525,00:29:32,00:29:37,All I ask is that you have the ticket in my chambers before kickoff.
-526,00:29:37,00:29:40,"You do that, I'll square it with your Captain."
-527,00:29:40,00:29:42,"No problem, Judge."
-528,00:29:43,00:29:46,A staged suicide.
-529,00:29:46,00:29:48,"You're kidding, right?"
-530,00:29:49,00:29:54,I swear on my kids I've never seen that man before in my life.
-531,00:29:54,00:29:57,Then how the hell did your fingerprints wind up at the scene?
-532,00:29:57,00:30:01,We talked to the family. The deceased didn't even know any Paul Millanders.
-533,00:30:02,00:30:04,"Oh, I..."
-534,00:30:04,00:30:05,"Hi, Sergeant."
-535,00:30:05,00:30:08,"Would you mind if I, uh...?"
-536,00:30:08,00:30:11,"Oh, you want a whack at him, Grissom be my guest."
-537,00:30:12,00:30:16,"Hi, Mr. Millander, my name's Gil Grissom."
-538,00:30:16,00:30:17,I work in Criminalistics.
-539,00:30:17,00:30:19,May I ask you a few questions?
-540,00:30:19,00:30:20,Sure.
-541,00:30:20,00:30:22,Do you have any hobbies?
-542,00:30:22,00:30:27,"Make model airplanes, make toys wind chimes for the backyard, that sort of thing?"
-543,00:30:27,00:30:30,"No, why?"
-544,00:30:30,00:30:35,"Well, we found some particles of latex on your thumbprint."
-545,00:30:35,00:30:40,Would you have any reason to have access to that particular substance?
-546,00:30:40,00:30:42,"Well, yeah."
-547,00:30:42,00:30:45,"Yeah, sure. At-at my job."
-548,00:30:57,00:31:00,"Wow, you made all these?"
-549,00:31:00,00:31:03,"Yes, sir, everything from scratch."
-550,00:31:03,00:31:08,"We mold, carve, shape, paint and authenticate."
-551,00:31:08,00:31:10,Excellent work.
-552,00:31:10,00:31:11,These seem very real.
-553,00:31:12,00:31:13,Thanks.
-554,00:31:13,00:31:16,You ever make any rubber hands?
-555,00:31:16,00:31:19,"Sure we do, uh..."
-556,00:31:24,00:31:27,This is our best seller right here.
-557,00:31:27,00:31:33,"Sold 10,000 of those units last Halloween. Even used my own hand for the mold."
-558,00:31:33,00:31:35,These are your prints.
-559,00:31:35,00:31:38,"Yeah, why? What does that mean?"
-560,00:31:38,00:31:40,It means you're free to go.
-561,00:31:40,00:31:41,He's not the guy.
-562,00:31:41,00:31:43,"Grissom, are you sure?"
-563,00:31:43,00:31:45,This explains the latex and the lecithin.
-564,00:31:46,00:31:48,You need oil to make a print.
-565,00:31:48,00:31:56,"Anyone who purchased one of these hands could be the killer and what's worse, he's proficient in forensics."
-566,00:31:59,00:32:01,"Hey, Dr. Leever!"
-567,00:32:01,00:32:03,"Hey, what's up, man? I got your page."
-568,00:32:03,00:32:05,Have you had any trick rolls lately?
-569,00:32:05,00:32:06,A ton of 'em. Why?
-570,00:32:06,00:32:10,I've had six pros come through the ER in the past two nights all with two distinct similarities.
-571,00:32:10,00:32:15,Every girl has been mysteriously knocked unconscious and we found some skin discoloration.
-572,00:32:15,00:32:17,Skin discoloration?
-573,00:32:17,00:32:18,Where? Their lips?
-574,00:32:18,00:32:20,"No, their nipples."
-575,00:32:24,00:32:25,We meet again...
-576,00:32:25,00:32:27,May I see your discoloration?
-577,00:32:27,00:32:29,You wanna give me 20 bucks?
-578,00:32:29,00:32:31,You wanna do time?
-579,00:32:43,00:32:46,"You know, I just came from a trick roll downtown."
-580,00:32:46,00:32:48,The victim's mouth had similar blotching.
-581,00:32:49,00:32:55,"Chances are, whatever he ingested orally you absorbed through your nipples knocking you both out."
-582,00:32:55,00:32:58,So I'll give you a choice.
-583,00:32:58,00:33:07,You give back the old man his belongings you tell me what you girls are using and I won't have you charged with attempted murder.
-584,00:33:07,00:33:09,Which is it?
-585,00:33:18,00:33:19,Eyedrops?
-586,00:33:19,00:33:22,"No, it's scopolamine."
-587,00:33:22,00:33:24,It's a chemical used for motion sickness.
-588,00:33:24,00:33:25,This eyedrop bottle's a front.
-589,00:33:25,00:33:28,One drop of this stuff and she's out cold.
-590,00:34:01,00:34:03,We're ruling out suicide.
-591,00:34:03,00:34:07,The evidence leads us to believe that it was in fact a homicide.
-592,00:34:10,00:34:11,Then he was murdered?
-593,00:34:11,00:34:13,I believe so.
-594,00:34:18,00:34:20,You know...
-595,00:34:20,00:34:28,this may sound funny but I feel better knowing that he didn't take his own life.
-596,00:34:28,00:34:30,To me that would never sit right.
-597,00:34:30,00:34:32,He was such a good man...
-598,00:34:32,00:34:35,"We'll find him, Ms. Harmon."
-599,00:34:35,00:34:37,I promise you.
-600,00:34:37,00:34:39,There is always a clue.
-601,00:34:39,00:34:41,I'll find him.
-602,00:34:45,00:34:46,(phone ringing)
-603,00:34:46,00:34:48,"Nurse, excuse me."
-604,00:34:48,00:34:51,I'm Catherine Willows from Criminalistics and I'm here for the 428.
-605,00:34:56,00:34:58,"Hi, Laura."
-606,00:34:58,00:35:00,I'm Catherine.
-607,00:35:04,00:35:07,"How you doin', kiddo?"
-608,00:35:07,00:35:09,What's that?
-609,00:35:09,00:35:12,"Well, that is a camera."
-610,00:35:12,00:35:14,I'm gonna take a few photographs.
-611,00:35:14,00:35:19,"Before I do that, though, could you do me a favor?"
-612,00:35:21,00:35:27,Could you take a look at this drawing and point out to me...
-613,00:35:27,00:35:29,where he touched you?
-614,00:35:33,00:35:35,(whispers): Can you just show me?
-615,00:35:42,00:35:45,Can you hold my dolly for me?
-616,00:35:45,00:35:48,I'd love to.
-617,00:35:48,00:35:49,Not just hold her.
-618,00:35:50,00:35:52,Take her away to your house.
-619,00:35:52,00:35:55,To my house? Why?
-620,00:35:55,00:36:00,Because I don't want the same thing that happened to me to happen to dolly.
-621,00:36:09,00:36:10,It's okay.
-622,00:36:13,00:36:15,"It's gonna be okay, sweetheart."
-623,00:36:17,00:36:19,You're off the case.
-624,00:36:19,00:36:20,What? Why?
-625,00:36:20,00:36:22,"Why? you deliberately went over my head, Brown."
-626,00:36:22,00:36:25,"The phone call from the judge saved your job, but not your ass!"
-627,00:36:25,00:36:26,I want you shadowing Gribbs.
-628,00:36:27,00:36:28,A robbery just came in.
-629,00:36:28,00:36:29,You can't do that. Me and Nick are tied!
-630,00:36:29,00:36:31,Tough!
-631,00:36:31,00:36:37,"Grissom! Have Warrick shadow Gribbs for the next three weeks or until Nickie makes his hundredth, whatever comes first."
-632,00:36:37,00:36:38,"I hate your ass, you know that?"
-633,00:36:38,00:36:41,People walk every day because of you-- every day!
-634,00:36:41,00:36:43,"That's enough, Warrick. Let's go!"
-635,00:36:43,00:36:44,"Damn it, Gris."
-636,00:36:44,00:36:45,I had his ass too!
-637,00:36:45,00:36:50,"Yes, you had him and the minute you started thinking about yourself instead of the case, you lost him."
-638,00:36:50,00:36:54,"There is no room for subjectivity in this department, Warrick."
-639,00:36:54,00:37:02,"You know that we handle each case objectively without presupposition regardless of race, color, creed, or bubble gum flavor."
-640,00:37:02,00:37:04,Okay?
-641,00:37:17,00:37:19,Let's go.
-642,00:37:23,00:37:26,(Indistinct police radio transmission)
-643,00:37:27,00:37:29,Sorry you gotta baby-sit.
-644,00:37:29,00:37:30,"Yeah, I'm sorry too."
-645,00:37:30,00:37:32,"Control, P-4442 arrive."
-646,00:37:32,00:37:33,"Okay, go inside."
-647,00:37:33,00:37:35,Dust for prints.
-648,00:37:35,00:37:37,Make sure you take plenty of photographs...
-649,00:37:37,00:37:38,Photographs. Be thorough. Don't worry.
-650,00:37:38,00:37:39,I got the same speech from Mr. Grissom.
-651,00:37:39,00:37:42,"Good. Look, I gotta run an errand."
-652,00:37:42,00:37:43,You'll be okay on your own?
-653,00:37:43,00:37:45,"You kidding? I'm fired up, ready to go."
-654,00:37:45,00:37:46,"Besides, there's an officer here."
-655,00:37:57,00:37:59,(knocking)
-656,00:37:59,00:38:01,"Morning. Gil Grissom, Forensics."
-657,00:38:01,00:38:03,I'm taking over the case for Warrick Brown.
-658,00:38:04,00:38:05,Mind if I come in?
-659,00:38:05,00:38:07,How can I help you?
-660,00:38:07,00:38:09,I need to give you a pedicure.
-661,00:38:09,00:38:10,Come again?
-662,00:38:10,00:38:13,I have a warrant for your toenails.
-663,00:38:14,00:38:15,A warrant?
-664,00:38:15,00:38:18,What? Am I a suspect?
-665,00:38:19,00:38:21,I already gave you a sworn statement.
-666,00:38:21,00:38:24,A statement's just a public record of your version.
-667,00:38:24,00:38:25,We still need proof.
-668,00:38:30,00:38:34,"Well, I'd love to help you, but I already cut them."
-669,00:38:34,00:38:36,May I see where you discarded the clippings?
-670,00:38:36,00:38:38,I flushed them down the toilet.
-671,00:38:38,00:38:40,May I see your toilet?
-672,00:39:06,00:39:09,I'll be right back.
-673,00:39:16,00:39:18,Excuse me.
-674,00:39:54,00:39:57,"Control, this is P-3901."
-675,00:39:57,00:40:00,I'm going to be on break for about 15 minutes.
-676,00:40:00,00:40:02,Mommy?
-677,00:40:02,00:40:05,Shh. We don't want to wake up Jeremy.
-678,00:40:09,00:40:10,"Mommy, what's wrong?"
-679,00:40:10,00:40:13,Mommy just kind had a rough night.
-680,00:40:13,00:40:17,I couldn't drive here fast enough to tell you how much I love you.
-681,00:40:17,00:40:20,"I know, Mommy. I love you, too."
-682,00:40:28,00:40:30,"Nope, loser."
-683,00:40:30,00:40:33,Give me the next item up for bid.
-684,00:40:35,00:40:36,It's nasty.
-685,00:40:37,00:40:38,"No, striation."
-686,00:40:38,00:40:44,Whenever two objects are broken there occurs what we call striae-- two unique connecting points.
-687,00:40:44,00:40:48,If I can match the nail in the sneaker to the suspect's clippings...
-688,00:40:51,00:40:52,Alcatraz!
-689,00:40:53,00:40:54,"The brother was right, wasn't he?!"
-690,00:40:54,00:40:55,Uh-huh!
-691,00:40:55,00:40:58,Yeah!
-692,00:40:58,00:41:00,"Careful, Boe, you'll hurt your back."
-693,00:41:05,00:41:07,"What's up, man?"
-694,00:41:07,00:41:09,Gimme Packers. One second...
-695,00:41:09,00:41:12,"Man (over radio): Warrick, come in."
-696,00:41:12,00:41:14,This is Warrick. Go ahead.
-697,00:41:14,00:41:16,It's Grissom. We got him.
-698,00:41:16,00:41:18,"Whoo-hoo-hoo-hoo, yeah!"
-699,00:41:18,00:41:20,I'll be right there.
-700,00:41:20,00:41:21,Who do you want now?
-701,00:41:22,00:41:24,Gimmie Niners for five dimes.
-702,00:41:34,00:41:36,(man yelling outside): Open up!
-703,00:41:36,00:41:38,Open the door...
-704,00:41:38,00:41:40,What are you gonna do? Don't ask questions.
-705,00:41:40,00:41:41,Just open the door.
-706,00:41:41,00:41:44,You son of a bitch!
-707,00:41:44,00:41:47,(three gunshots)
-708,00:41:47,00:41:49,(baby crying in background)
-709,00:42:06,00:42:09,Call 911.
-710,00:42:09,00:42:11,(echoing): Do it!
-711,00:42:27,00:42:30,"Hey, weren't you supposed to be shadowing Holly?"
-712,00:42:30,00:42:32,"Oh, she's cool."
-713,00:42:32,00:42:34,She's doing prints on that 407.
-714,00:42:34,00:42:36,There's an officer there.
-715,00:42:36,00:42:38,I'm out.
-716,00:42:54,00:42:55,"Excuse me, ma'am."
-717,00:42:58,00:43:00,Hi. Uh... can I help you?
-718,00:43:00,00:43:05,I'm the neighbor from across the way and I just saw a cop car leave.
-719,00:43:05,00:43:06,Is everything okay?
-720,00:43:07,00:43:09,"Yeah, we had a robbery, but everything's fine."
-721,00:43:10,00:43:11,"Oh, okay."
-722,00:43:19,00:43:21,(knocking)
-723,00:43:21,00:43:23,Room service.
-724,00:43:23,00:43:25,You're kidding me.
-725,00:43:30,00:43:33,My stuff!
-726,00:43:33,00:43:34,You found my stuff!
-727,00:43:34,00:43:38,"Yeah, yeah, your wallet, your cash, credit cards..."
-728,00:43:38,00:43:39,wedding ring...
-729,00:43:39,00:43:41,"Oh, thank God."
-730,00:43:41,00:43:45,"Okay, next time you wanna take a shot go to the dice table."
-731,00:43:46,00:43:50,"At least if you crap out, you can go home broke instead of busted, you know what I mean?"
-732,00:43:50,00:43:52,I sure do.
-733,00:43:53,00:43:54,Thank you.
-734,00:43:54,00:43:56,"Congratulations, Nickie my boy."
-735,00:43:56,00:43:57,You are now a C.S.I. Level III.
-736,00:43:57,00:43:58,Whoo!
-737,00:43:58,00:44:00,(clapping)
-738,00:44:00,00:44:01,"Good job, Nick."
-739,00:44:01,00:44:06,"Thanks. Uh, hey, Warrick, listen I heard about the whole thing with the shoe and..."
-740,00:44:06,00:44:07,"Forget it, man. It's all you."
-741,00:44:07,00:44:09,Thanks.
-742,00:44:09,00:44:11,Let's get some breakfast. It's on me!
-743,00:44:11,00:44:15,Sorry to break up your party but I need grave to pull a double.
-744,00:44:15,00:44:17,Holly Gribbs has been shot.
-745,00:44:17,00:44:19,She's in surgery now.
-746,00:44:19,00:44:23,Apparently the suspect returned to the scene.
-747,00:44:25,00:44:27,They don't think she's gonna make it.
-748,00:44:27,00:44:32,"Brown, I'm putting you on administrative leave pending a full report of your whereabouts."
-749,00:44:33,00:44:34,So wash your faces; change your socks.
-750,00:44:34,00:44:35,You have a long day ahead of you.
+	start	end	text
+0	00:00:21	00:00:22	My name is Royce Harmon.
+1	00:00:22	00:00:27	I reside at 7642 Carpenter Street, Las Vegas, Nevada.
+2	00:00:27	00:00:30	I am 41 years of age...
+3	00:00:30	00:00:33	...and I'm going to kill myself.
+4	00:00:35	00:00:40	I'd like to say I love you to my mother Paige and my sister Gina.
+5	00:00:40	00:00:42	I'm so sorry.
+6	00:00:42	00:00:44	I never wanted to put you through this.
+7	00:00:44	00:00:47	I just can't do it anymore.
+8	00:00:47	00:00:48	I love you, Mom...
+9	00:00:58	00:01:00	Here comes the nerd squad.
+10	00:01:00	00:01:02	I hate the legwork.
+11	00:01:02	00:01:06	I'm telling you, that Deputy Chief job better come in soon.
+12	00:01:06	00:01:10	I don't know how much longer I can put up with these damn public appearances.
+13	00:01:12	00:01:13	Gentlemen...
+14	00:01:13	00:01:14	Hey, guys, take a break, huh?
+15	00:01:37	00:01:39	Suicide.
+16	00:01:39	00:01:40	You think so, huh?
+17	00:01:40	00:01:46	You got the sleeping bag for easy cleanup the bathtub to catch the bullet open window so the stench alerts the neighbors...
+18	00:01:46	00:01:48	God bless him.
+19	00:01:53	00:01:55	Oh, geez...
+20	00:02:06	00:02:08	Pupa, stage three.
+21	00:02:08	00:02:10	English. I'm not an entomologist.
+22	00:02:11	00:02:14	It's the third stage of larva metamorphosis.
+23	00:02:14	00:02:16	This guy's been dead seven days.
+24	00:02:16	00:02:19	That's a maggot, and he stinks.
+25	00:02:19	00:02:20	00.
+26	00:02:21	00:02:26	Maybe if I'm lucky I can break out of here in time for a shot at the first rack of the Krispy Kreme.
+27	00:02:29	00:02:31	I think we may have our suicide note.
+28	00:02:33	00:02:36	I never wanted to put you through this.
+29	00:02:36	00:02:37	I just can't do it anymore.
+30	00:02:37	00:02:39	I've lost hope.
+31	00:02:39	00:02:41	I love you, Mom...
+32	00:02:43	00:02:44	Oh, my God!
+33	00:02:44	00:02:46	Go upstairs, Gina.
+34	00:02:47	00:02:50	This can't be happening.
+35	00:02:50	00:02:52	We're so sorry about this, Ms. Harmon.
+36	00:02:52	00:02:55	I can only imagine how difficult this must be for you.
+37	00:02:55	00:02:59	No, you don't understand.
+38	00:02:59	00:03:01	This is his picture...
+39	00:03:02	00:03:05	but that's not my son's voice.
+40	00:04:04	00:04:05	Hello?
+41	00:04:06	00:04:08	Ooh...
+42	00:04:08	00:04:10	My God.
+43	00:04:24	00:04:25	Hi.
+44	00:04:27	00:04:28	Sorry.
+45	00:04:28	00:04:29	Welcome to Forensics.
+46	00:04:29	00:04:32	Gil Grissom. I'm your supervisor on graveyard.
+47	00:04:32	00:04:33	Holly Gribbs.
+48	00:04:34	00:04:35	Nice office.
+49	00:04:35	00:04:40	Thanks. Would you mind taking off your jacket and rolling up your sleeve?
+50	00:04:40	00:04:41	For what?
+51	00:04:41	00:04:43	I need a pint of your blood.
+52	00:04:43	00:04:45	It's customary for all new hires.
+53	00:04:45	00:04:46	Why?
+54	00:04:46	00:04:48	So many reasons.
+55	00:04:49	00:04:52	I-I haven't even clocked in yet.
+56	00:04:53	00:04:59	Attention, Command One more, baby, one more.
+57	00:04:59	00:05:00	Hey.
+58	00:05:00	00:05:02	There he is. What's up?
+59	00:05:04	00:05:09	99. You and me, dead heat.
+60	00:05:09	00:05:12	Next crime solved gets promoted to CSI III, man.
+61	00:05:13	00:05:20	Yeah, yeah, choice of shift, $8,000 raise extra week vacation-- oh-ho, it's all about Cabo, bro.
+62	00:05:20	00:05:24	Twenty bucks, by the end of shift, I'm the man.
+63	00:05:24	00:05:26	Is there anything you won't bet on? Nah.
+64	00:05:26	00:05:28	It's college football season, man.
+65	00:05:28	00:05:30	I won eight of ten this weekend.
+66	00:05:30	00:05:35	Kilt 'em. Outside the Huskers and them punk-ass Irish I'm up about four G's.
+67	00:05:35	00:05:37	Hmm, what's the line on us?
+68	00:05:37	00:05:39	On us?
+69	00:05:39	00:05:42	I'm like Tiger, man-- I'm heavily favored.
+70	00:05:42	00:05:45	Come on, give me a winner for tomorrow.
+71	00:05:45	00:05:49	Ah... Green Bay, minus seven and a half over Niners.
+72	00:05:49	00:05:52	Always go with the better quarterback.
+73	00:05:52	00:05:53	Uh-huh.
+74	00:05:53	00:05:57	Cool. Hey, good luck tonight, man.
+75	00:05:57	00:05:59	Thanks. You, too, Nick.
+76	00:06:00	00:06:01	I hope you get that trick roll noise.
+77	00:06:01	00:06:03	You'll never crack that in a shift, never.
+78	00:06:03	00:06:09	Yeah, well, we'll see, and I hope the Pack wins by seven.
+79	00:06:09	00:06:14	We scrutinize the crime scene, collect the evidence recreate what happened without ever having been there.
+80	00:06:14	00:06:16	Pretty cool, actually.
+81	00:06:16	00:06:19	I just got out of the Academy-- I already know this.
+82	00:06:19	00:06:20	Of course you do.
+83	00:06:20	00:06:28	Then if you'll just sign these waivers for personal injury or death while in the line of duty, we can begin our shift.
+84	00:06:29	00:06:31	Mmm...
+85	00:06:31	00:06:32	What's the matter?
+86	00:06:32	00:06:34	Um... I'm kind of light-headed.
+87	00:06:34	00:06:35	Sit down, sit down.
+88	00:06:35	00:06:37	You're probably low on blood sugar.
+89	00:06:37	00:06:39	I've got just the thing.
+90	00:06:41	00:06:43	Here, try one of these.
+91	00:06:43	00:06:49	No offense, but I don't think I want to eat anything that's been in this office.
+92	00:06:59	00:07:01	Is there a grasshopper in here?
+93	00:07:06	00:07:08	When we get some free time, try and catch up on your reports.
+94	00:07:08	00:07:10	I'm getting a lot of heat from the Sheriff's Office.
+95	00:07:10	00:07:11	There I said it.
+96	00:07:11	00:07:13	Administration, not my favorite thing.
+97	00:07:13	00:07:15	All right, here we go.
+98	00:07:15	00:07:17	Nick Stokes, 414, trick roll.
+99	00:07:17	00:07:19	Victim found drugged and robbed at the scene.
+100	00:07:19	00:07:22	Warrick Brown, 407, home invasion, forced entry.
+101	00:07:22	00:07:26	Person reporting crime fired multiple rounds at the suspect.
+102	00:07:26	00:07:28	Suspect's condition is unknown.
+103	00:07:30	00:07:31	Anyone seen Catherine Willows?
+104	00:07:35	00:07:37	Okay, give me a kiss.
+105	00:07:37	00:07:39	Mommy's got to go catch some bad guys.
+106	00:07:39	00:07:41	I'll pick her up in the morning.
+107	00:07:41	00:07:43	Bye, sis. Bye.
+108	00:07:43	00:07:44	I love you!
+109	00:07:47	00:07:51	So your mother is Lieutenant Jane Gribbs from Traffic, is that right?
+110	00:07:51	00:07:52	Yes, sir.
+111	00:07:52	00:07:54	Well, congratulations, Gribbs.
+112	00:07:54	00:07:55	You're the...
+113	00:07:55	00:07:59	You're the fifth person I've been forced to hire.
+114	00:07:59	00:08:00	We're the number two crime lab in the country.
+115	00:08:00	00:08:03	We solve crimes most labs render unsolvable.
+116	00:08:03	00:08:05	Now what makes you think you belong here?
+117	00:08:06	00:08:15	Sir, with all due respect I thought the key to being a lucid crime scene investigator was to reserve judgment until the evidence vindicates or eliminates assumption.
+118	00:08:16	00:08:17	You're prejudging me.
+119	00:08:17	00:08:20	I graduated with honors in criminal justice at UNLV.
+120	00:08:21	00:08:21	Yeah, so?
+121	00:08:22	00:08:22	That's not fair.
+122	00:08:22	00:08:27	Fair? Well, you think putting a juiced-in lieutenant's daughter on this shift is fair?
+123	00:08:27	00:08:28	You know, I've been in the field 22 years.
+124	00:08:28	00:08:29	I've seen it all.
+125	00:08:29	00:08:32	I've seen people like you come and go, and you know what?
+126	00:08:32	00:08:35	They're nothing but headaches and bad press.
+127	00:08:37	00:08:39	Dismissed.
+128	00:08:40	00:08:42	Fine.
+129	00:08:46	00:08:48	Think you got through to her?
+130	00:08:48	00:08:50	30 a.m.
+131	00:08:50	00:08:52	They're cutting up that bozo put a hole in his chest.
+132	00:08:52	00:08:54	Take her with.
+133	00:08:54	00:08:58	I think every new hire should experience an autopsy on their first night.
+134	00:09:28	00:09:30	It's okay, shh.
+135	00:09:31	00:09:33	Ma'am...
+136	00:09:33	00:09:34	are you all right?
+137	00:09:34	00:09:35	She's fine.
+138	00:09:35	00:09:37	She's just a little shook up is all.
+139	00:09:37	00:09:39	Somebody want to tell us what happened here tonight?
+140	00:09:39	00:09:45	My wife invited her drunk friend to stay here so he could get back on his feet.
+141	00:09:45	00:09:47	Two weeks tops, she says.
+142	00:09:47	00:09:50	That was six months ago.
+143	00:09:52	00:09:53	Jimmy, Jimmy!
+144	00:09:53	00:09:56	Please take your sweaty feet off the head pillow.
+145	00:09:56	00:09:58	They stink.
+146	00:10:05	00:10:08	Here's a 20-- twice as much as you came with. Hit the road.
+147	00:10:10	00:10:11	Open up!
+148	00:10:22	00:10:23	Call 911.
+149	00:10:25	00:10:26	That was it.
+150	00:10:26	00:10:29	I feared for my wife and my baby.
+151	00:10:31	00:10:34	Let's put the baby to bed.
+152	00:10:38	00:10:40	What do you think?
+153	00:10:40	00:10:42	Oh, he's lying. That's why I took this job.
+154	00:10:42	00:10:45	I can always tell when whitey's talking out his ass.
+155	00:10:45	00:10:46	It's a gift.
+156	00:10:46	00:10:48	It's also your 100th.
+157	00:10:48	00:10:51	Yeah, that, too.
+158	00:10:51	00:10:54	So tonight you might say I'm extra suspicious.
+159	00:10:56	00:10:58	Why don't you print that tread and see how good you are?
+160	00:11:13	00:11:15	Why are you doing that?
+161	00:11:15	00:11:16	It's just procedure, sir.
+162	00:11:16	00:11:21	We just want to make sure the shoe on the suspect is the same shoe that kicked down your door.
+163	00:11:21	00:11:23	Wait... Wait a minute.
+164	00:11:23	00:11:24	What's the matter?
+165	00:11:24	00:11:31	Sir, after you shot the deceased, did you move re-dress, or alter the body in any way?
+166	00:11:31	00:11:33	No, why?
+167	00:11:33	00:11:34	Talk to me.
+168	00:11:34	00:11:36	The left shoe's tied differently.
+169	00:11:36	00:11:41	Sir, in the six months that the victim lived with you did you ever wear his shoes?
+170	00:11:41	00:11:43	No, why would I do that?
+171	00:11:43	00:11:46	You willing to sign a statement to that effect?
+172	00:11:46	00:11:47	Sure.
+173	00:11:48	00:11:52	Sir, what happened to your pinkie toe?
+174	00:11:53	00:11:55	I tripped over a rattle.
+175	00:12:00	00:12:02	You got to breathe through your ears, Gribbs.
+176	00:12:02	00:12:04	First dead body, ma'am?
+177	00:12:04	00:12:06	Yes, sir, but I'll be okay.
+178	00:12:06	00:12:08	To tell you the truth, he looks fake.
+179	00:12:08	00:12:14	I hate to put a damper on your night, Grissom but it looks like we got ourselves a homicide after all.
+180	00:12:14	00:12:17	You see, if the victim had extended his arms like...
+181	00:12:18	00:12:19	Here, I'll show you. Give me your hands.
+182	00:12:19	00:12:22	And pushed the trigger with his thumbs, like so...
+183	00:12:24	00:12:26	The wound would look like this.
+184	00:12:26	00:12:27	He's right, honey.
+185	00:12:27	00:12:28	This wound's too big.
+186	00:12:29	00:12:32	This person was shot from six to seven feet away.
+187	00:12:32	00:12:35	It's like somebody stood over him and, bam!
+188	00:12:37	00:12:38	Criminal homicide.
+189	00:12:38	00:12:41	Let's see what God would have to say.
+190	00:12:46	00:12:47	Are you okay?
+191	00:12:47	00:12:48	I'm sorry, sir.
+192	00:12:48	00:12:50	I can't take the smell.
+193	00:12:50	00:12:52	Oh, God, restroom?
+194	00:12:52	00:12:54	Right down the hall to your right.
+195	00:12:56	00:12:58	She is cute.
+196	00:13:22	00:13:25	How soon does the Captain want that one out?
+197	00:13:25	00:13:27	Eight hours.
+198	00:13:27	00:13:29	Whoo!
+199	00:13:35	00:13:37	Help! Help me!
+200	00:13:41	00:13:43	There were bodies.
+201	00:13:43	00:13:45	I could feel them breathing.
+202	00:13:46	00:13:47	Oh, God!
+203	00:13:47	00:13:49	It's okay, Holly, it's all right.
+204	00:13:52	00:13:54	You assholes!!
+205	00:13:55	00:13:57	There.
+206	00:13:57	00:13:58	Okay?
+207	00:14:11	00:14:12	What's up, fellas?
+208	00:14:12	00:14:14	We got a call about a trick roll.
+209	00:14:14	00:14:15	Right there. Room 1413.
+210	00:14:20	00:14:22	Hey.
+211	00:14:24	00:14:26	Mr. Laferty?
+212	00:14:26	00:14:29	Well, what's left of him, anyway.
+213	00:14:31	00:14:34	I'm Nick Stokes, with Criminalistics.
+214	00:14:34	00:14:36	You mind if I ask you a few questions?
+215	00:14:36	00:14:39	She got everything-- my wallet, my ID...
+216	00:14:39	00:14:41	Hell, she even got my wedding ring.
+217	00:14:41	00:14:43	Did you two have a nightcap?
+218	00:14:43	00:14:45	You think she could've slipped you something?
+219	00:14:45	00:14:47	Nah, I can't drink. I got this bum ticker.
+220	00:14:47	00:14:49	Look, Officer, I...
+221	00:14:49	00:14:50	Nick.
+222	00:14:50	00:14:53	You can call me Nick.
+223	00:14:53	00:14:55	Nick, I...
+224	00:14:55	00:14:57	I love my wife.
+225	00:14:57	00:14:59	We've been married 31 years now.
+226	00:14:59	00:15:01	I've never cheated on her before.
+227	00:15:01	00:15:09	I come into town for this convention and I'm setting in the lounge minding my own business, when this...
+228	00:15:09	00:15:12	sweet-smelling brunette came up to me and...
+229	00:15:13	00:15:16	Next thing I know, she's nibbling on my earlobe and...
+230	00:15:22	00:15:24	Well, my goodness. Look at you.
+231	00:15:32	00:15:36	For a second there, I thought I was your age again.
+232	00:15:36	00:15:39	We've been seeing more and more of these the past 48 hours.
+233	00:15:39	00:15:41	Let's take a look.
+234	00:15:41	00:15:43	Open your eyes wide for me.
+235	00:15:43	00:15:45	Sunny side up.
+236	00:15:48	00:15:49	Now say ah.
+237	00:15:49	00:15:51	Ah.
+238	00:15:51	00:15:52	Was she hot?
+239	00:15:54	00:15:55	Attaboy.
+240	00:15:55	00:16:01	Mr. Laferty, your eyes look okay but I notice some discoloration around the inside of your lips.
+241	00:16:01	00:16:03	Have you always had that?
+242	00:16:03	00:16:05	No. What the hell is that?
+243	00:16:05	00:16:10	I'll swab your gums see if we can find out what made you pass out.
+244	00:16:15	00:16:18	You know, my first robbery solved was a store like this.
+245	00:16:18	00:16:23	When we caught the guy, the owner was so happy that he gave me a dozen farm fresh eggs out of his cooler.
+246	00:16:23	00:16:25	You're trying to cheer me up, aren't you?
+247	00:16:25	00:16:27	Yes, I am. How am I doing?
+248	00:16:27	00:16:29	Pretty good.
+249	00:16:29	00:16:30	Good.
+250	00:16:30	00:16:33	Okay, look, this was a routine robbery.
+251	00:16:33	00:16:36	Dust for prints, check the videotape take lots of fun photos.
+252	00:16:36	00:16:39	I'll be back in about an hour to pick you up.
+253	00:16:39	00:16:41	Okay.
+254	00:16:41	00:16:45	If you get done early use channel seven on your walkie.
+255	00:16:52	00:16:53	What's up?
+256	00:16:53	00:16:55	Hey, rookie.
+257	00:16:55	00:16:57	Hair fibers from the home invasion.
+258	00:16:57	00:16:58	Take a look.
+259	00:16:58	00:17:00	Tell me what you see.
+260	00:17:04	00:17:06	I see a lot of things.
+261	00:17:06	00:17:08	Look at the end of the follicles.
+262	00:17:09	00:17:14	Oh, yeah, you know, I see, like little tiny seeds or sacs or something.
+263	00:17:14	00:17:17	That's pulp when the human hair is yanked out like this.
+264	00:17:17	00:17:19	Ow! Damn, man.
+265	00:17:19	00:17:21	Look, you see the seeds?
+266	00:17:21	00:17:27	Hair only comes out in that form when it's yanked or pulled signifying a struggle.
+267	00:17:27	00:17:29	You know what? I got to go.
+268	00:17:29	00:17:33	Tell Grissom, when he gets back I went to Homicide to do a follow-up on the husband.
+269	00:17:33	00:17:34	Peace.
+270	00:17:34	00:17:35	Yeah.
+271	00:17:35	00:17:38	Now, how long is this gonna take?
+272	00:17:38	00:17:42	I'm losing business because of you.
+273	00:17:42	00:17:45	Ma'am, I told you, if you let them in it will contaminate the scene.
+274	00:17:45	00:17:46	Oh, contaminate, my ass!
+275	00:17:46	00:17:48	What the hell difference does it make?
+276	00:17:48	00:17:50	You ain't gonna catch 'em.
+277	00:17:50	00:17:52	You never do.
+278	00:17:52	00:17:54	Sir, I'm on your side.
+279	00:17:54	00:17:57	I just want to clear you.
+280	00:17:57	00:17:59	Then clear me. I already told you everything.
+281	00:17:59	00:18:00	I understand that.
+282	00:18:00	00:18:02	The evidence tells us something different.
+283	00:18:02	00:18:09	So I'm going to ask you again, just one more time-- before you shot the deceased did a struggle ensue?
+284	00:18:11	00:18:12	I've got a gun.
+285	00:18:13	00:18:14	What are you doing?
+286	00:18:18	00:18:20	Call 911.
+287	00:18:29	00:18:33	I must've tied the laces wrong.
+288	00:18:33	00:18:37	I'm sorry, I...
+289	00:18:37	00:18:39	I know I should've told you earlier but...
+290	00:18:39	00:18:41	I was nervous.
+291	00:18:41	00:18:43	I mean...
+292	00:18:43	00:18:47	I took a man's life here.
+293	00:18:49	00:18:52	You don't believe me, do you?
+294	00:18:53	00:18:58	This is Holly Gribbs requesting backup at Junk's on West Owens, over.
+295	00:18:58	00:19:00	This is Catherine Willows. Are you in danger?
+296	00:19:00	00:19:03	Uh, we're getting there.
+297	00:19:03	00:19:07	This is my popsicle stand-- I'll defend it to the hilt if I have to!
+298	00:19:07	00:19:09	So, this is it, huh?
+299	00:19:09	00:19:11	The $8,000 Q-Tip.
+300	00:19:11	00:19:14	Well, you're the chemist.
+301	00:19:14	00:19:16	I just need to know what knocked the old man out.
+302	00:19:16	00:19:21	In 20 seconds, this'll give us a complete chemical breakdown right down to the atom.
+303	00:19:21	00:19:26	But I'm going to warn you, though These mouth swabs don't always read.
+304	00:19:27	00:19:29	Vaginal swabs, no problem.
+305	00:19:29	00:19:32	Anal swabs-- money.
+306	00:19:32	00:19:33	Anal swabs?
+307	00:19:33	00:19:34	Anal swabs.
+308	00:19:34	00:19:38	Ouch.
+309	00:19:45	00:19:47	Dude, you get NFL-2K for Dreamcast?
+310	00:19:47	00:19:49	Yeah. Bought it the day it came out.
+311	00:19:49	00:19:52	Those graphics are killer, aren't they?
+312	00:19:52	00:19:53	My team's the Falcons.
+313	00:19:53	00:19:54	Who do you use?
+314	00:19:54	00:19:56	Randy Moss.
+315	00:20:02	00:20:04	It didn't take, did it?
+316	00:20:04	00:20:06	A hint of saliva; some denture adhesive...
+317	00:20:06	00:20:08	That's it.
+318	00:20:08	00:20:11	Sorry, man.
+319	00:20:12	00:20:14	All right, put the gun down.
+320	00:20:14	00:20:15	What?
+321	00:20:15	00:20:17	We're getting robbed again now?
+322	00:20:17	00:20:18	Everything okay here?
+323	00:20:19	00:20:20	Yes, ma'am.
+324	00:20:21	00:20:23	Control, Junk's is a Code Four.
+325	00:20:23	00:20:25	Copy that.
+326	00:20:25	00:20:26	You the new girl?
+327	00:20:26	00:20:28	Yeah. Hi, I'm Holly Gribbs.
+328	00:20:28	00:20:30	Thanks. I'm Catherine Willows.
+329	00:20:30	00:20:31	And I'm Lesley Stahl.
+330	00:20:31	00:20:33	Look, let's forget the formalities.
+331	00:20:33	00:20:35	Which one of you people's gonna clean my counter here?
+332	00:20:35	00:20:40	Let me tell you something, lady-- if you don't care about catching the suspect neither do we.
+333	00:20:40	00:20:41	We're out of here.
+334	00:20:41	00:20:43	You can pick your gun up tomorrow.
+335	00:20:43	00:20:45	You can do that?
+336	00:20:45	00:20:47	No.
+337	00:20:49	00:20:51	Ow!
+338	00:20:53	00:20:55	Damn!
+339	00:20:55	00:20:56	Blunt force trauma case.
+340	00:20:56	00:20:58	Bermuda Hills Country Club.
+341	00:20:58	00:21:02	Pregnant wife caught her husband in bed with another girl.
+342	00:21:02	00:21:05	What do you think? Malicious intent?
+343	00:21:05	00:21:06	Little bit, yeah. ( camera clicks )
+344	00:21:06	00:21:08	How's it coming?
+345	00:21:08	00:21:09	It's coming.
+346	00:21:11	00:21:13	Whose blood is that?
+347	00:21:13	00:21:14	The new girl's.
+348	00:21:14	00:21:15	Would you like to donate?
+349	00:21:15	00:21:17	Hell, no.
+350	00:21:17	00:21:19	How'd the follow-up go with the husband?
+351	00:21:19	00:21:22	Boe tells me you were onto something.
+352	00:21:22	00:21:23	The story's changed a bit.
+353	00:21:23	00:21:25	Now he says there was a struggle.
+354	00:21:25	00:21:28	Said he stepped on his shoe while they were fighting.
+355	00:21:28	00:21:29	You believe him?
+356	00:21:29	00:21:33	At first, no but now...
+357	00:21:33	00:21:35	Hell, I don't know what to think.
+358	00:21:35	00:21:37	You ever see the movie The Exorcist?
+359	00:21:37	00:21:39	Yeah.
+360	00:21:39	00:21:43	The old priest and Father Karras are about to exorcise the demon.
+361	00:21:43	00:21:51	Father Karras explains that he's recorded the little girl's voice and he's broken down the spirit into three distinct personalities.
+362	00:21:51	00:21:58	But the old priest quickly corrects him-- There is only one.
+363	00:21:58	00:22:00	Forget about the husband, Warrick.
+364	00:22:00	00:22:02	Forget about the assumptions.
+365	00:22:02	00:22:04	Forget about your promotion.
+366	00:22:04	00:22:06	These things will only confuse you.
+367	00:22:06	00:22:11	Concentrate on what cannot lie-- the evidence.
+368	00:22:11	00:22:14	Follow...
+369	00:22:14	00:22:16	the reason we're having this conversation.
+370	00:22:18	00:22:21	Follow the shoe.
+371	00:22:59	00:23:00	Well, I'll be damned.
+372	00:23:08	00:23:11	Tripped over a rattle, my ass.
+373	00:23:13	00:23:15	Remember this from your suicide case?
+374	00:23:15	00:23:17	Minute I pulled it, I knew something wasn't right.
+375	00:23:18	00:23:21	The impression's perfect-- maybe too perfect.
+376	00:23:23	00:23:25	Take a gander.
+377	00:23:29	00:23:32	What are those red particles?
+378	00:23:32	00:23:33	Latex flakes.
+379	00:23:33	00:23:35	From what?
+380	00:23:35	00:23:42	Protective gloves, maybe but the way I figure it, this son of a bitch is smart-- probably planted the damn prints.
+381	00:23:42	00:23:44	So on a hunch, I chemically tested the flakes.
+382	00:23:44	00:23:46	Guess what it was laced with?
+383	00:23:46	00:23:47	Lecithin.
+384	00:23:47	00:23:51	That chemical's found in cooking spray isn't it?
+385	00:23:51	00:23:57	If latex rubber and cooking spray went on a blind date, how would the night end?
+386	00:23:57	00:23:58	A lot better than ours did.
+387	00:23:58	00:24:02	I know, Pink Floyd's not your thing.
+388	00:24:02	00:24:03	I have on cowboy boots.
+389	00:24:03	00:24:05	I work in a lab.
+390	00:24:05	00:24:11	What makes you think Dark Side of the Moon synched to The Wizard of Oz is going to warm my damn barn?
+391	00:24:11	00:24:13	I just thought it'd be something different.
+392	00:24:13	00:24:14	You want to be different?
+393	00:24:14	00:24:17	Pin me up against a wall; lay one on me like you mean it.
+394	00:24:21	00:24:22	You're slacking, pal.
+395	00:24:29	00:24:30	How long till we get a hit?
+396	00:24:30	00:24:35	It could be four minutes, could be four days but you can bet your ass she'll give you something.
+397	00:24:35	00:24:37	She always does.
+398	00:24:38	00:24:40	Pin you against a wall?
+399	00:24:44	00:24:48	Look, um, I got to be honest.
+400	00:24:49	00:24:51	This isn't me.
+401	00:24:51	00:24:55	I was pushed into it by my mom.
+402	00:24:55	00:24:57	She's a lieutenant in Traffic.
+403	00:24:57	00:25:04	She's never going to get out of Traffic. so, um-- I'm fulfilling her dreams, not mine.
+404	00:25:04	00:25:12	I can sit here and I can baby you and I can tell you to quit but I'm not going to do that, because I really love my job.
+405	00:25:12	00:25:16	We're just a bunch of kids that are getting paid to work on puzzles.
+406	00:25:17	00:25:19	Sometimes there's a piece that's missing.
+407	00:25:19	00:25:22	Sometimes we solve it in one night.
+408	00:25:23	00:25:25	So you think I should stick with it?
+409	00:25:25	00:25:27	Stick with it?
+410	00:25:27	00:25:29	The cops?
+411	00:25:29	00:25:31	Forget it.
+412	00:25:31	00:25:36	They wouldn't know fingerprints from paw prints and the detectives...
+413	00:25:36	00:25:37	chase the lie.
+414	00:25:38	00:25:44	We solve. We restore peace of mind and when you're a victim, that's everything.
+415	00:25:45	00:25:47	Stick with it.
+416	00:25:47	00:25:52	At least until you solve your first and if after that you don't feel like King Kong on cocaine...
+417	00:25:52	00:26:00	then you can quit but if you stay with it my hand to God, you will never regret it.
+418	00:26:00	00:26:04	Catherine Willows, cut your lunch short.
+419	00:26:04	00:26:06	You got a 428.
+420	00:26:06	00:26:09	Copy.
+421	00:26:11	00:26:16	If you want me to call Judge Cohen at 4 you'd better bring me something more than a damn toenail.
+422	00:26:16	00:26:17	Captain, you've got to make that call.
+423	00:26:17	00:26:18	If you don't, he'll walk.
+424	00:26:19	00:26:20	And what do you got? Hair fibers. Big deal.
+425	00:26:21	00:26:23	So there was a struggle. I mean, who gives a corn cob?
+426	00:26:23	00:26:25	The guy was protecting his wife and kid.
+427	00:26:25	00:26:26	I've got the toenail.
+428	00:26:26	00:26:32	If I can get a warrant and match the husband's shaving to his toe I can prove that the suspect's foot was inside the victim's shoe.
+429	00:26:32	00:26:34	That alone will establish it was murder.
+430	00:26:34	00:26:38	The guy lived there, Warrick. Maybe he put on the victim's sneaker and fetched the paper one morning.
+431	00:26:38	00:26:42	I have a sworn statement stating he never wore the victim's shoe.
+432	00:26:42	00:26:43	You don't even know the toenail was the vic's.
+433	00:26:44	00:26:45	It can't be. He was wearing socks.
+434	00:26:45	00:26:46	Not good enough.
+435	00:26:46	00:26:46	Not good enough?
+436	00:26:46	00:26:48	Look, I said no, Brown, damn it!
+437	00:26:50	00:26:52	Hey, we're not done, Warrick.
+438	00:26:52	00:26:53	You stay right there.
+439	00:26:54	00:26:55	Criminalistics, Brass.
+440	00:26:55	00:26:58	We've got a name on the suicide case, sir. He's local.
+441	00:26:58	00:26:59	He's local, good.
+442	00:26:59	00:27:01	I'll phone the judge for a warrant.
+443	00:27:03	00:27:05	Hey, Warrick, I guess we're all done now.
+444	00:27:05	00:27:07	Hey, do you mind closing the door behind you?
+445	00:27:07	00:27:09	I got to make an important call.
+446	00:27:09	00:27:12	We'll talk about your little foot fetish later.
+447	00:27:12	00:27:14	Judge Cohen, please.
+448	00:27:16	00:27:18	A white female, mid-20s.
+449	00:27:18	00:27:20	Said she passed out behind the wheel.
+450	00:27:20	00:27:21	Thought you might want to check it out.
+451	00:27:22	00:27:24	All right. Thanks, brother.
+452	00:27:26	00:27:27	Hi.
+453	00:27:27	00:27:29	Nick Stokes, Criminalistics.
+454	00:27:29	00:27:31	Mind if I take a look?
+455	00:27:31	00:27:32	I don't know what happened.
+456	00:27:32	00:27:34	I remember this song that was playing on the radio.
+457	00:27:34	00:27:38	I just don't remember passing out.
+458	00:27:38	00:27:40	Say ahhh...
+459	00:27:40	00:27:43	What?
+460	00:27:43	00:27:44	You know, ahhh...
+461	00:27:44	00:27:45	Ahhh...
+462	00:27:49	00:27:51	Ahhh...
+463	00:27:54	00:27:56	No discoloration.
+464	00:27:58	00:28:02	I don't see anything criminal here.
+465	00:28:02	00:28:06	Take her to the hospital have her checked out.
+466	00:28:10	00:28:14	Well, might as well roll the dice; take that ass-whooping.
+467	00:28:24	00:28:26	Police!
+468	00:28:26	00:28:29	Put your hands on top of your head and walk backwards towards me.
+469	00:28:30	00:28:31	I'm ID. Check the badge.
+470	00:28:31	00:28:32	I'm from Criminalistics.
+471	00:28:32	00:28:36	Keep your mouth shut and follow my instructions. Now get down on your knees.
+472	00:28:36	00:28:38	I won't get down on my knees for anybody. You can shoot me.
+473	00:28:39	00:28:42	I said get down on your knees!
+474	00:28:42	00:28:43	Hey!
+475	00:28:43	00:28:45	What the hell are you doing?
+476	00:28:45	00:28:47	That's Warrick Brown from ID.
+477	00:28:47	00:28:48	Put those guns away.
+478	00:28:48	00:28:52	Sorry, Judge, we got a call from a neighbor about a black man outside your house.
+479	00:28:52	00:28:54	We responded.
+480	00:28:54	00:28:55	All right, you caught him.
+481	00:28:55	00:28:57	Congratulations.
+482	00:28:57	00:29:01	Clear out of here before you wake the neighbors.
+483	00:29:01	00:29:03	Yes, sir.
+484	00:29:03	00:29:09	Dispatch, please be advised false alarm.
+485	00:29:09	00:29:11	Brown, what the hell are you doing?
+486	00:29:11	00:29:12	I'm sorry, Judge.
+487	00:29:12	00:29:14	Captain Brass wouldn't call you for a search warrant.
+488	00:29:14	00:29:16	I got a whopper on the line with a 100-pound test.
+489	00:29:16	00:29:19	You got a winner for me?
+490	00:29:19	00:29:22	I'll make it worth your while, you give me a name.
+491	00:29:22	00:29:24	Favre.
+492	00:29:24	00:29:27	Oh, I knew it. Listen, kid, I'll make a deal with you.
+493	00:29:28	00:29:32	You put $5,000 down on the Pack for me I'll give you a blank warrant.
+494	00:29:32	00:29:37	All I ask is that you have the ticket in my chambers before kickoff.
+495	00:29:37	00:29:40	You do that, I'll square it with your Captain.
+496	00:29:40	00:29:42	No problem, Judge.
+497	00:29:43	00:29:46	A staged suicide.
+498	00:29:46	00:29:48	You're kidding, right?
+499	00:29:49	00:29:54	I swear on my kids I've never seen that man before in my life.
+500	00:29:54	00:29:57	Then how the hell did your fingerprints wind up at the scene?
+501	00:29:57	00:30:01	We talked to the family. The deceased didn't even know any Paul Millanders.
+502	00:30:02	00:30:04	Oh, I...
+503	00:30:04	00:30:05	Hi, Sergeant.
+504	00:30:05	00:30:08	Would you mind if I, uh...?
+505	00:30:08	00:30:11	Oh, you want a whack at him, Grissom be my guest.
+506	00:30:12	00:30:16	Hi, Mr. Millander, my name's Gil Grissom.
+507	00:30:16	00:30:17	I work in Criminalistics.
+508	00:30:17	00:30:19	May I ask you a few questions?
+509	00:30:19	00:30:20	Sure.
+510	00:30:20	00:30:22	Do you have any hobbies?
+511	00:30:22	00:30:27	Make model airplanes, make toys wind chimes for the backyard, that sort of thing?
+512	00:30:27	00:30:30	No, why?
+513	00:30:30	00:30:35	Well, we found some particles of latex on your thumbprint.
+514	00:30:35	00:30:40	Would you have any reason to have access to that particular substance?
+515	00:30:40	00:30:42	Well, yeah.
+516	00:30:42	00:30:45	Yeah, sure. At-at my job.
+517	00:30:57	00:31:00	Wow, you made all these?
+518	00:31:00	00:31:03	Yes, sir, everything from scratch.
+519	00:31:03	00:31:08	We mold, carve, shape, paint and authenticate.
+520	00:31:08	00:31:10	Excellent work.
+521	00:31:10	00:31:11	These seem very real.
+522	00:31:12	00:31:13	Thanks.
+523	00:31:13	00:31:16	You ever make any rubber hands?
+524	00:31:16	00:31:19	Sure we do, uh...
+525	00:31:24	00:31:27	This is our best seller right here.
+526	00:31:27	00:31:33	Sold 10,000 of those units last Halloween. Even used my own hand for the mold.
+527	00:31:33	00:31:35	These are your prints.
+528	00:31:35	00:31:38	Yeah, why? What does that mean?
+529	00:31:38	00:31:40	It means you're free to go.
+530	00:31:40	00:31:41	He's not the guy.
+531	00:31:41	00:31:43	Grissom, are you sure?
+532	00:31:43	00:31:45	This explains the latex and the lecithin.
+533	00:31:46	00:31:48	You need oil to make a print.
+534	00:31:48	00:31:56	Anyone who purchased one of these hands could be the killer and what's worse, he's proficient in forensics.
+535	00:31:59	00:32:01	Hey, Dr. Leever!
+536	00:32:01	00:32:03	Hey, what's up, man? I got your page.
+537	00:32:03	00:32:05	Have you had any trick rolls lately?
+538	00:32:05	00:32:06	A ton of 'em. Why?
+539	00:32:06	00:32:10	I've had six pros come through the ER in the past two nights all with two distinct similarities.
+540	00:32:10	00:32:15	Every girl has been mysteriously knocked unconscious and we found some skin discoloration.
+541	00:32:15	00:32:17	Skin discoloration?
+542	00:32:17	00:32:18	Where? Their lips?
+543	00:32:18	00:32:20	No, their nipples.
+544	00:32:24	00:32:25	We meet again...
+545	00:32:25	00:32:27	May I see your discoloration?
+546	00:32:27	00:32:29	You wanna give me 20 bucks?
+547	00:32:29	00:32:31	You wanna do time?
+548	00:32:43	00:32:46	You know, I just came from a trick roll downtown.
+549	00:32:46	00:32:48	The victim's mouth had similar blotching.
+550	00:32:49	00:32:55	Chances are, whatever he ingested orally you absorbed through your nipples knocking you both out.
+551	00:32:55	00:32:58	So I'll give you a choice.
+552	00:32:58	00:33:07	You give back the old man his belongings you tell me what you girls are using and I won't have you charged with attempted murder.
+553	00:33:07	00:33:09	Which is it?
+554	00:33:18	00:33:19	Eyedrops?
+555	00:33:19	00:33:22	No, it's scopolamine.
+556	00:33:22	00:33:24	It's a chemical used for motion sickness.
+557	00:33:24	00:33:25	This eyedrop bottle's a front.
+558	00:33:25	00:33:28	One drop of this stuff and she's out cold.
+559	00:34:01	00:34:03	We're ruling out suicide.
+560	00:34:03	00:34:07	The evidence leads us to believe that it was in fact a homicide.
+561	00:34:10	00:34:11	Then he was murdered?
+562	00:34:11	00:34:13	I believe so.
+563	00:34:18	00:34:20	You know...
+564	00:34:20	00:34:28	this may sound funny but I feel better knowing that he didn't take his own life.
+565	00:34:28	00:34:30	To me that would never sit right.
+566	00:34:30	00:34:32	He was such a good man...
+567	00:34:32	00:34:35	We'll find him, Ms. Harmon.
+568	00:34:35	00:34:37	I promise you.
+569	00:34:37	00:34:39	There is always a clue.
+570	00:34:39	00:34:41	I'll find him.
+571	00:34:46	00:34:48	Nurse, excuse me.
+572	00:34:48	00:34:51	I'm Catherine Willows from Criminalistics and I'm here for the 428.
+573	00:34:56	00:34:58	Hi, Laura.
+574	00:34:58	00:35:00	I'm Catherine.
+575	00:35:04	00:35:07	How you doin', kiddo?
+576	00:35:07	00:35:09	What's that?
+577	00:35:09	00:35:12	Well, that is a camera.
+578	00:35:12	00:35:14	I'm gonna take a few photographs.
+579	00:35:14	00:35:19	Before I do that, though, could you do me a favor?
+580	00:35:21	00:35:27	Could you take a look at this drawing and point out to me...
+581	00:35:27	00:35:29	where he touched you?
+582	00:35:33	00:35:35	Can you just show me?
+583	00:35:42	00:35:45	Can you hold my dolly for me?
+584	00:35:45	00:35:48	I'd love to.
+585	00:35:48	00:35:49	Not just hold her.
+586	00:35:50	00:35:52	Take her away to your house.
+587	00:35:52	00:35:55	To my house? Why?
+588	00:35:55	00:36:00	Because I don't want the same thing that happened to me to happen to dolly.
+589	00:36:09	00:36:10	It's okay.
+590	00:36:13	00:36:15	It's gonna be okay, sweetheart.
+591	00:36:17	00:36:19	You're off the case.
+592	00:36:19	00:36:20	What? Why?
+593	00:36:20	00:36:22	Why? you deliberately went over my head, Brown.
+594	00:36:22	00:36:25	The phone call from the judge saved your job, but not your ass!
+595	00:36:25	00:36:26	I want you shadowing Gribbs.
+596	00:36:27	00:36:28	A robbery just came in.
+597	00:36:28	00:36:29	You can't do that. Me and Nick are tied!
+598	00:36:29	00:36:31	Tough!
+599	00:36:31	00:36:37	Grissom! Have Warrick shadow Gribbs for the next three weeks or until Nickie makes his hundredth, whatever comes first.
+600	00:36:37	00:36:38	I hate your ass, you know that?
+601	00:36:38	00:36:41	People walk every day because of you-- every day!
+602	00:36:41	00:36:43	That's enough, Warrick. Let's go!
+603	00:36:43	00:36:44	Damn it, Gris.
+604	00:36:44	00:36:45	I had his ass too!
+605	00:36:45	00:36:50	Yes, you had him and the minute you started thinking about yourself instead of the case, you lost him.
+606	00:36:50	00:36:54	There is no room for subjectivity in this department, Warrick.
+607	00:36:54	00:37:02	You know that we handle each case objectively without presupposition regardless of race, color, creed, or bubble gum flavor.
+608	00:37:02	00:37:04	Okay?
+609	00:37:17	00:37:19	Let's go.
+610	00:37:27	00:37:29	Sorry you gotta baby-sit.
+611	00:37:29	00:37:30	Yeah, I'm sorry too.
+612	00:37:30	00:37:32	Control, P-4442 arrive.
+613	00:37:32	00:37:33	Okay, go inside.
+614	00:37:33	00:37:35	Dust for prints.
+615	00:37:35	00:37:37	Make sure you take plenty of photographs...
+616	00:37:37	00:37:38	Photographs. Be thorough. Don't worry.
+617	00:37:38	00:37:39	I got the same speech from Mr. Grissom.
+618	00:37:39	00:37:42	Good. Look, I gotta run an errand.
+619	00:37:42	00:37:43	You'll be okay on your own?
+620	00:37:43	00:37:45	You kidding? I'm fired up, ready to go.
+621	00:37:45	00:37:46	Besides, there's an officer here.
+622	00:37:59	00:38:01	Morning. Gil Grissom, Forensics.
+623	00:38:01	00:38:03	I'm taking over the case for Warrick Brown.
+624	00:38:04	00:38:05	Mind if I come in?
+625	00:38:05	00:38:07	How can I help you?
+626	00:38:07	00:38:09	I need to give you a pedicure.
+627	00:38:09	00:38:10	Come again?
+628	00:38:10	00:38:13	I have a warrant for your toenails.
+629	00:38:14	00:38:15	A warrant?
+630	00:38:15	00:38:18	What? Am I a suspect?
+631	00:38:19	00:38:21	I already gave you a sworn statement.
+632	00:38:21	00:38:24	A statement's just a public record of your version.
+633	00:38:24	00:38:25	We still need proof.
+634	00:38:30	00:38:34	Well, I'd love to help you, but I already cut them.
+635	00:38:34	00:38:36	May I see where you discarded the clippings?
+636	00:38:36	00:38:38	I flushed them down the toilet.
+637	00:38:38	00:38:40	May I see your toilet?
+638	00:39:06	00:39:09	I'll be right back.
+639	00:39:16	00:39:18	Excuse me.
+640	00:39:54	00:39:57	Control, this is P-3901.
+641	00:39:57	00:40:00	I'm going to be on break for about 15 minutes.
+642	00:40:00	00:40:02	Mommy?
+643	00:40:02	00:40:05	Shh. We don't want to wake up Jeremy.
+644	00:40:09	00:40:10	Mommy, what's wrong?
+645	00:40:10	00:40:13	Mommy just kind had a rough night.
+646	00:40:13	00:40:17	I couldn't drive here fast enough to tell you how much I love you.
+647	00:40:17	00:40:20	I know, Mommy. I love you, too.
+648	00:40:28	00:40:30	Nope, loser.
+649	00:40:30	00:40:33	Give me the next item up for bid.
+650	00:40:35	00:40:36	It's nasty.
+651	00:40:37	00:40:38	No, striation.
+652	00:40:38	00:40:44	Whenever two objects are broken there occurs what we call striae-- two unique connecting points.
+653	00:40:44	00:40:48	If I can match the nail in the sneaker to the suspect's clippings...
+654	00:40:51	00:40:52	Alcatraz!
+655	00:40:53	00:40:54	The brother was right, wasn't he?!
+656	00:40:54	00:40:55	Uh-huh!
+657	00:40:55	00:40:58	Yeah!
+658	00:40:58	00:41:00	Careful, Boe, you'll hurt your back.
+659	00:41:05	00:41:07	What's up, man?
+660	00:41:07	00:41:09	Gimme Packers. One second...
+661	00:41:09	00:41:12	Warrick, come in.
+662	00:41:12	00:41:14	This is Warrick. Go ahead.
+663	00:41:14	00:41:16	It's Grissom. We got him.
+664	00:41:16	00:41:18	Whoo-hoo-hoo-hoo, yeah!
+665	00:41:18	00:41:20	I'll be right there.
+666	00:41:20	00:41:21	Who do you want now?
+667	00:41:22	00:41:24	Gimmie Niners for five dimes.
+668	00:41:34	00:41:36	Open up!
+669	00:41:36	00:41:38	Open the door...
+670	00:41:38	00:41:40	What are you gonna do? Don't ask questions.
+671	00:41:40	00:41:41	Just open the door.
+672	00:41:41	00:41:44	You son of a bitch!
+673	00:42:06	00:42:09	Call 911.
+674	00:42:09	00:42:11	Do it!
+675	00:42:27	00:42:30	Hey, weren't you supposed to be shadowing Holly?
+676	00:42:30	00:42:32	Oh, she's cool.
+677	00:42:32	00:42:34	She's doing prints on that 407.
+678	00:42:34	00:42:36	There's an officer there.
+679	00:42:36	00:42:38	I'm out.
+680	00:42:54	00:42:55	Excuse me, ma'am.
+681	00:42:58	00:43:00	Hi. Uh... can I help you?
+682	00:43:00	00:43:05	I'm the neighbor from across the way and I just saw a cop car leave.
+683	00:43:05	00:43:06	Is everything okay?
+684	00:43:07	00:43:09	Yeah, we had a robbery, but everything's fine.
+685	00:43:10	00:43:11	Oh, okay.
+686	00:43:21	00:43:23	Room service.
+687	00:43:23	00:43:25	You're kidding me.
+688	00:43:30	00:43:33	My stuff!
+689	00:43:33	00:43:34	You found my stuff!
+690	00:43:34	00:43:38	Yeah, yeah, your wallet, your cash, credit cards...
+691	00:43:38	00:43:39	wedding ring...
+692	00:43:39	00:43:41	Oh, thank God.
+693	00:43:41	00:43:45	Okay, next time you wanna take a shot go to the dice table.
+694	00:43:46	00:43:50	At least if you crap out, you can go home broke instead of busted, you know what I mean?
+695	00:43:50	00:43:52	I sure do.
+696	00:43:53	00:43:54	Thank you.
+697	00:43:54	00:43:56	Congratulations, Nickie my boy.
+698	00:43:56	00:43:57	You are now a C.S.I. Level III.
+699	00:43:57	00:43:58	Whoo!
+700	00:44:00	00:44:01	Good job, Nick.
+701	00:44:01	00:44:06	Thanks. Uh, hey, Warrick, listen I heard about the whole thing with the shoe and...
+702	00:44:06	00:44:07	Forget it, man. It's all you.
+703	00:44:07	00:44:09	Thanks.
+704	00:44:09	00:44:11	Let's get some breakfast. It's on me!
+705	00:44:11	00:44:15	Sorry to break up your party but I need grave to pull a double.
+706	00:44:15	00:44:17	Holly Gribbs has been shot.
+707	00:44:17	00:44:19	She's in surgery now.
+708	00:44:19	00:44:23	Apparently the suspect returned to the scene.
+709	00:44:25	00:44:27	They don't think she's gonna make it.
+710	00:44:27	00:44:32	Brown, I'm putting you on administrative leave pending a full report of your whereabouts.
+711	00:44:33	00:44:34	So wash your faces; change your socks.
+712	00:44:34	00:44:35	You have a long day ahead of you.
