@@ -1,735 +1,719 @@
-,start,end,text
-0,00:00:08,00:00:11,I searched the vehicle at the CSI garage.
-1,00:00:11,00:00:13,I discovered the knife under the passenger's seat.
-2,00:00:13,00:00:17,"Now, is this the knife you found?"
-3,00:00:19,00:00:20,"Yes, it is."
-4,00:00:20,00:00:21,Hmm.
-5,00:00:21,00:00:24,Who was the registered owner of the vehicle?
-6,00:00:24,00:00:27,"Michael Fife, the defendant."
-7,00:00:27,00:00:32,Please describe the physical condition of the knife when you discovered it.
-8,00:00:33,00:00:35,The knife was wrapped in a white towel.
-9,00:00:35,00:00:38,Both the towel and the knife were caked with dried blood.
-10,00:00:39,00:00:42,And how did you process this evidence?
-11,00:00:42,00:00:45,I swabbed the blood and sent a sample to the DNA lab.
-12,00:00:45,00:00:48,The lab technician ran the sample through CODIS.
-13,00:00:48,00:00:53,"The DNA sample was a match to a recent rape and homicide victim, Rachel Lyford."
-14,00:00:53,00:00:59,Rachel Lyford who lived in unit seven of the Saturn Arms Apartment complex.
-15,00:00:59,00:01:02,The same complex as the defendant?
-16,00:01:02,00:01:03,That's correct.
-17,00:01:03,00:01:09,Is this knife consistent in size and shape to the fatal wounds sustained by Rachel Lyford?
-18,00:01:09,00:01:10,"Yes, it is."
-19,00:01:10,00:01:11,Thank you.
-20,00:01:11,00:01:14,"Your Honor, we have no further questions for CSI Brown."
-21,00:01:14,00:01:17,Mr. Matthews.
-22,00:01:17,00:01:22,"Mr. Brown, you stated that you found the knife in Mr. Fife's vehicle."
-23,00:01:22,00:01:23,Is that correct?
-24,00:01:23,00:01:24,"Yes, that's correct."
-25,00:01:24,00:01:26,Why did you search his vehicle?
-26,00:01:26,00:01:28,I received a call from Officer Watson.
-27,00:01:29,00:01:32,He informed me that he had pulled the defendant over to cite him for a broken taillight.
-28,00:01:33,00:01:37,"After running his plates, it was discovered that the defendant had an outstanding warrant for drugs."
-29,00:01:37,00:01:41,He then arrested Mr. Fife and ordered a respond and tow.
-30,00:01:41,00:01:44,"At which point, he asked me to search the vehicle for drugs."
-31,00:01:44,00:01:47,That's when I found the knife.
-32,00:01:47,00:01:48,Mm-hmm.
-33,00:01:48,00:01:53,At what point did you secure the warrant to search Mr. Fife's vehicle?
-34,00:01:57,00:02:01,Officer Watson would have secured the warrant prior to calling me.
-35,00:02:01,00:02:04,Officer Watson never secured a warrant.
-36,00:02:08,00:02:09,Did you?
-37,00:02:13,00:02:14,No.
-38,00:02:16,00:02:23,"Your Honor, the knife is a product of an unlawful search, and under NRS Chapter 179, we submit the knife and the towel be ruled inadmissible."
-39,00:02:23,00:02:27,"Furthermore, all evidence acquired as a result of the seizure must at this time be excluded."
-40,00:02:27,00:02:29,So ruled.
-41,00:02:29,00:02:31,Fruit of the poisonous tree.
-42,00:02:31,00:02:33,What else do you have?
-43,00:02:33,00:02:35,Additional evidence is pending.
-44,00:02:35,00:02:39,The knife would've been more than sufficient for the purpose of a prelim.
-45,00:02:39,00:02:42,You have no other evidence to present?
-46,00:02:44,00:02:46,Not at this time.
-47,00:02:48,00:02:52,I find insufficient evidence to hold the defendant over for trial.
-48,00:02:52,00:02:53,He's free to go.
-49,00:02:53,00:02:58,"Your Honor, the defendant is accused of raping and killing a 19-year-old woman."
-50,00:02:58,00:03:00,You can't just let him back on the street.
-51,00:03:00,00:03:03,"Are you suggesting that I violate his constitutional rights, Counselor?"
-52,00:03:03,00:03:05,Ask him for 24 hours.
-53,00:03:09,00:03:11,"Your Honor, we received no prior notice of this motion."
-54,00:03:11,00:03:12,Um...
-55,00:03:12,00:03:15,we would ask for a continuance and opportunity to reopen.
-56,00:03:17,00:03:20,We're only asking for 24 hours.
-57,00:03:25,00:03:27,Okay.
-58,00:03:27,00:03:30,"If you can't make your case, Mr. Fife walks."
-59,00:03:30,00:03:33,We will recess for 24 hours.
-60,00:03:41,00:03:43,"The murder weapon's been excluded, that's all."
-61,00:03:43,00:03:45,We still have a lab full of evidence we can process.
-62,00:03:45,00:03:47,We've been completely blind-sided here.
-63,00:03:47,00:03:49,"Brown, what is going on?"
-64,00:03:49,00:03:50,You got to be kidding me.
-65,00:03:50,00:03:52,You were unprepared.
-66,00:03:52,00:03:56,"All the evidence you CSIs collect, and all you bring into this courtroom is a knife? Come on."
-67,00:03:56,00:03:57,I found the knife.
-68,00:03:57,00:03:58,I processed the knife.
-69,00:03:58,00:04:00,I presented the knife.
-70,00:04:00,00:04:01,All you had to do was the paperwork.
-71,00:04:01,00:04:02,"Yeah, blame it on the cop, huh?"
-72,00:04:02,00:04:05,"Look, you wouldn't even have a suspect if I didn't pulled that guy over."
-73,00:04:05,00:04:07,"If you'd've followed protocol, our suspect would be going to trial."
-74,00:04:08,00:04:11,"If you have a problem with CSI, file a complaint-- we're busy."
-75,00:04:13,00:04:16,What about what you said about never rushing evidence?
-76,00:04:16,00:04:20,"Well, for the next 24 hours, we're breaking the rules."
-77,00:04:53,00:04:54,Grissom.
-78,00:04:55,00:04:56,Sheriff.
-79,00:04:56,00:04:57,We need to talk...
-80,00:04:57,00:04:59,...about him.
-81,00:04:59,00:05:01,"Nice to finally meet you, too, Sheriff."
-82,00:05:01,00:05:04,Why don't you go ahead and start the briefing?
-83,00:05:04,00:05:05,I'll be in in a minute.
-84,00:05:05,00:05:06,Yeah.
-85,00:05:06,00:05:08,Where to?
-86,00:05:21,00:05:23,Warrick Brown followed protocol.
-87,00:05:23,00:05:24,You cannot pin this mess on him.
-88,00:05:24,00:05:27,Warrick Brown was on the stand.
-89,00:05:27,00:05:29,He's the face of the case.
-90,00:05:29,00:05:30,It's all about perception.
-91,00:05:30,00:05:41,"If Fife walks, public only hears one thing-- ""Evidence against a killer was thrown out of court because CSI conducted an improper search."" You think I don't know that?"
-92,00:05:41,00:05:43,What the hell is this?
-93,00:05:43,00:05:45,It's irradiated fetal pig.
-94,00:05:45,00:05:47,I used the tissue to determine the effects of radiation...
-95,00:05:47,00:05:51,"Look, Grissom, you and your team have done exemplary work."
-96,00:05:51,00:05:54,"Thanks to the Crime Lab, some very difficult cases have gone our way."
-97,00:05:54,00:05:57,You've elevated the status of the whole Bureau.
-98,00:05:57,00:06:00,Uh-huh.
-99,00:06:00,00:06:01,Then why are you here?
-100,00:06:02,00:06:08,I'm holding a press conference in an hour where I'll be telling the media that this case is under your purview.
-101,00:06:10,00:06:12,(chuckles)
-102,00:06:12,00:06:14,"Oh, it is about perception, isn't it?"
-103,00:06:14,00:06:17,Glad we understand each other.
-104,00:06:19,00:06:22,Uh... why don't you call my office next week?
-105,00:06:22,00:06:25,"Put a little lunch on the books, hmm?"
-106,00:06:28,00:06:30,I work nights.
-107,00:06:32,00:06:34,So make it a dinner.
-108,00:06:39,00:06:41,BROWN: Impound towed the vehicle to the garage.
-109,00:06:41,00:06:46,"Michael Fife's outstanding warrant was for marijuana possession, so that's what I was looking for."
-110,00:06:53,00:06:57,I swabbed the knife and I sent the blood sample to Greg.
-111,00:06:57,00:07:00,I ran it through CODIS and matched it to another case.
-112,00:07:00,00:07:02,My case.
-113,00:07:02,00:07:04,"Rachel Lyford, 19."
-114,00:07:04,00:07:06,Murdered in her apartment.
-115,00:07:10,00:07:12,The Assistant Coroner examined the body.
-116,00:07:12,00:07:16,"Based on the vaginal introitus, he suspected rape."
-117,00:07:16,00:07:17,I processed the scene.
-118,00:07:17,00:07:19,There was nothing probative.
-119,00:07:19,00:07:20,"There were no prints, no DNA."
-120,00:07:20,00:07:22,Everything I collected is in the vault.
-121,00:07:22,00:07:28,"Now, once Warrick found the knife, the D.A. thought there was sufficient probable cause and rushed the prelim."
-122,00:07:28,00:07:32,"Further processing of the evidence became a low priority, pending the trial date."
-123,00:07:32,00:07:33,This is a RUSH case.
-124,00:07:34,00:07:35,Everyone's in the pool for 24 hours.
-125,00:07:35,00:07:37,"Warrick, you need to see Robbins."
-126,00:07:37,00:07:39,Have him walk you through his notes on the autopsy.
-127,00:07:39,00:07:42,"Nick, Sara, the judge issued a warrant for Fife's vehicle."
-128,00:07:42,00:07:44,Detail is towing it back to our garage.
-129,00:07:44,00:07:45,Hold on.
-130,00:07:45,00:07:48,Warrick's already searched the car and the knife's been excluded.
-131,00:07:48,00:07:49,What exactly are we hoping to find?
-132,00:07:49,00:07:50,GRISSOM: I don't know.
-133,00:07:50,00:07:53,But the knife and the towel are invisible evidence.
-134,00:07:53,00:07:55,The jury will never see them.
-135,00:07:55,00:07:57,So we have to find something that's visible.
-136,00:07:57,00:08:02,"Uh, listen, I recognize the importance of this, but I'm in the middle of my own homicide investigation."
-137,00:08:02,00:08:04,I'll talk to your detective. Explain the deal.
-138,00:08:04,00:08:05,"Well, it's not about the detective."
-139,00:08:05,00:08:06,It's about my own responsibility.
-140,00:08:06,00:08:08,"I'm handing out assignments, Sara."
-141,00:08:08,00:08:09,It's not a negotiation.
-142,00:08:13,00:08:15,I'll go back to the scene and look at it with fresh eyes.
-143,00:08:15,00:08:17,GRISSOM: Deadline's 4:00 P.M. tomorrow.
-144,00:08:17,00:08:19,Once more into the breach.
-145,00:08:24,00:08:25,STOKES: That was Auto Detail.
-146,00:08:25,00:08:27,There's a traffic jam on Flamingo.
-147,00:08:27,00:08:28,Tow truck should be here any second.
-148,00:08:29,00:08:31,You know what pisses me off?
-149,00:08:31,00:08:32,Lots of things.
-150,00:08:32,00:08:33,Victims aren't equal.
-151,00:08:33,00:08:35,High profile cases get priority.
-152,00:08:35,00:08:36,A ticking clock gets priority.
-153,00:08:36,00:08:38,Every case is a ticking clock.
-154,00:08:38,00:08:40,The only difference between a cold case and a hot case is time.
-155,00:08:40,00:08:43,I don't care if you're working on the hottest case of your career.
-156,00:08:43,00:08:47,"If your supervisor tells you to leave a scene to go wash his car, you do it."
-157,00:08:47,00:08:50,You don't have a career without a job.
-158,00:09:01,00:09:04,Heard you're on a RUSH. Sorry.
-159,00:09:04,00:09:05,"That's not the right car, man."
-160,00:09:07,00:09:10,"Uh, registered owner Michael Fife, BMW 325."
-161,00:09:10,00:09:12,Impounded ten days ago.
-162,00:09:12,00:09:13,What the hell happened?
-163,00:09:13,00:09:14,It's been pancaked.
-164,00:09:14,00:09:16,STOKES: We can see that.
-165,00:09:16,00:09:17,Why?
-166,00:09:17,00:09:19,"Hey, I just move 'em."
-167,00:09:19,00:09:21,This is evidence in an active investigation.
-168,00:09:22,00:09:23,Paperwork mix-up?
-169,00:09:23,00:09:25,Or some moron checked the wrong box.
-170,00:09:25,00:09:26,You can just unload it here.
-171,00:09:26,00:09:28,Sign here. I got to get back to the lot.
-172,00:09:30,00:09:31,Thanks.
-173,00:09:31,00:09:35,ROBBINS: Body was released last week. Cremated at Desert Haven.
-174,00:09:35,00:09:38,I.D.'d by the sister. Pretty girl.
-175,00:09:38,00:09:40,Couldn't stop crying.
-176,00:09:40,00:09:41,"Yeah, Rita."
-177,00:09:41,00:09:43,They were real close.
-178,00:09:43,00:09:45,Lived together up until a couple months ago.
-179,00:09:45,00:09:50,"These stab wounds look like they're limited to the neck and upper torso area, huh?"
-180,00:09:50,00:09:53,ROBBINS: Fatal stab was to the left side of the neck.
-181,00:09:53,00:10:00,"The blade traversed the subcutaneous tissue, sternocleido-mastoid muscle, jugular venous complex, the carotid artery and the Vagus nerve."
-182,00:10:00,00:10:02,She bled right out.
-183,00:10:02,00:10:05,Raped. No semen in the vaginal vault.
-184,00:10:05,00:10:09,"I don't know if it's relevant, but check out the abrasion."
-185,00:10:09,00:10:11,There was something around her neck.
-186,00:10:11,00:10:13,Noted.
-187,00:10:13,00:10:14,What is this foreign substance on her wrist?
-188,00:10:14,00:10:16,Pre-autopsy.
-189,00:10:16,00:10:19,David snapped the photo before he washed her body.
-190,00:10:19,00:10:20,He's in Clean Up.
-191,00:10:20,00:10:24,"Bringing your laundry to work again, David?"
-192,00:10:26,00:10:27,I'm cleaning a pelvis.
-193,00:10:27,00:10:28,Great.
-194,00:10:28,00:10:30,I'm here about one Rachel Lyford.
-195,00:10:30,00:10:32,You prepped her body?
-196,00:10:32,00:10:33,"Yeah, ten days ago."
-197,00:10:33,00:10:34,I thought it was Catherine's case.
-198,00:10:34,00:10:35,It's mine now.
-199,00:10:35,00:10:38,You notice this foreign substance on her wrists?
-200,00:10:38,00:10:39,It was flaky.
-201,00:10:39,00:10:41,Like the glaze on a doughnut?
-202,00:10:41,00:10:42,I sent a sample to Trace.
-203,00:10:42,00:10:43,Trace. Thanks.
-204,00:10:43,00:10:44,You're the man.
-205,00:10:45,00:10:46,Have fun.
-206,00:10:49,00:10:51,Sample's still running through the GCMS.
-207,00:10:51,00:10:52,I'll let you know.
-208,00:10:52,00:10:54,How'd you know that I was...
-209,00:10:54,00:10:56,4-1-1 from David.
-210,00:10:56,00:10:58,"Hey, I heard about court today."
-211,00:10:58,00:11:00,"Must have been embarrassing, huh?"
-212,00:11:00,00:11:03,"Hodges, why'd you leave L.A. again?"
-213,00:11:03,00:11:06,"Never mind, it's probably none of my business."
-214,00:11:06,00:11:07,"Hey, Rick, you okay?"
-215,00:11:07,00:11:10,'Cause I'm here to drop some more pressure on you.
-216,00:11:10,00:11:11,Yeah?
-217,00:11:11,00:11:13,Rachel Lyford's sister showed up at the police station.
-218,00:11:14,00:11:14,"Man, she was angry."
-219,00:11:15,00:11:16,She was firing on all cylinders.
-220,00:11:16,00:11:17,I don't blame her.
-221,00:11:17,00:11:20,"Apparently, Rachel wore a silver chain around her neck."
-222,00:11:20,00:11:22,It wasn't with her personal effects.
-223,00:11:22,00:11:25,Had her father's Army dog tags on it and the family wants it back.
-224,00:11:25,00:11:27,You came all the way over here for dog tags?
-225,00:11:27,00:11:29,Well...
-226,00:11:29,00:11:32,the Sheriff asked me to find it.
-227,00:11:32,00:11:35,"You know, Rory Atwater's been in office for-- what?-- four months, so it's political."
-228,00:11:35,00:11:38,He doesn't want the victim's sister bad-mouthing his department.
-229,00:11:38,00:11:39,Mm-hmm.
-230,00:11:39,00:11:40,Check it out.
-231,00:11:40,00:11:41,Mm-hmm.
-232,00:11:41,00:11:45,"Dr. Robbins found consistent abrasions on the back of her neck, so..."
-233,00:11:45,00:11:46,that's probably your chain.
-234,00:11:46,00:11:47,Uh-huh. Okay.
-235,00:11:47,00:11:48,Killer took a souvenir.
-236,00:11:48,00:11:50,I'll let the Sheriff know. Thanks.
-237,00:11:50,00:11:51,All right.
-238,00:11:59,00:12:00,What do you got?
-239,00:12:00,00:12:04,Got a print off this bottle I found in the garbage.
-240,00:12:04,00:12:05,It was the only bottle like it.
-241,00:12:05,00:12:07,None others in the apartment.
-242,00:12:07,00:12:09,Need a hand?
-243,00:12:09,00:12:10,You could do the sheets.
-244,00:12:17,00:12:21,"You know, the steak knife I found in that car matches that set."
-245,00:12:21,00:12:23,GRISSOM: We only found five knives in Rachel's kitchen.
-246,00:12:23,00:12:25,Five's an odd number of steak knives.
-247,00:12:25,00:12:27,Exactly.
-248,00:12:28,00:12:30,"Weapon of opportunity, perhaps?"
-249,00:12:30,00:12:32,Perhaps.
-250,00:12:52,00:12:54,"Grissom, what do you make of this?"
-251,00:12:54,00:12:59,We noted a similar type substance on the girl's wrists.
-252,00:12:59,00:13:03,GRISSOM: Doesn't look like it belongs on the victim or her sheets.
-253,00:13:12,00:13:12,Stop it.
-254,00:13:13,00:13:14,What?
-255,00:13:14,00:13:15,Watching the clock.
-256,00:13:15,00:13:19,It's just that new evidence is coming in and the old evidence hasn't even been processed yet.
-257,00:13:19,00:13:20,"We're running out of time here, you know?"
-258,00:13:21,00:13:23,"If you're watching the clock, you're not watching the case."
-259,00:13:23,00:13:26,"Well, not even you can stop time."
-260,00:13:37,00:13:38,Thank you.
-261,00:13:39,00:13:41,Oh... I remember now.
-262,00:14:02,00:14:03,I'm reading the same book.
-263,00:14:03,00:14:06,Really? Any good?
-264,00:14:06,00:14:07,"Yeah, so far."
-265,00:14:24,00:14:25,(phone rings)
-266,00:14:25,00:14:26,(answering machine beeps)
-267,00:14:26,00:14:28,"Hi, it's Rachel. Sorry I missed your call."
-268,00:14:28,00:14:30,I promise to get back to you as soon as I can.
-269,00:14:30,00:14:32,Have a great day.
-270,00:14:32,00:14:33,(machine beeps)
-271,00:14:33,00:14:34,"MAN: Hey, Rachel."
-272,00:14:34,00:14:35,It's Walter. Walter Burr.
-273,00:14:35,00:14:39,We exchanged numbers at Diane's party a few weeks ago.
-274,00:14:39,00:14:43,"Anyway, just thought you might want to grab a drink sometime."
-275,00:14:43,00:14:44,"So, give me a call."
-276,00:14:44,00:14:47,I processed this place for 12 straight hours.
-277,00:14:47,00:14:49,I never took a break.
-278,00:14:49,00:14:50,Couldn't eat.
-279,00:14:50,00:14:53,"Yeah, my sister calls that the CSI diet."
-280,00:14:53,00:14:55,She's a CSI out in Bakersfield.
-281,00:14:55,00:14:57,Whole family wears a badge.
-282,00:14:58,00:15:01,(sighs)
-283,00:15:01,00:15:02,"If you want to ALS again, I'll grab the lights."
-284,00:15:02,00:15:05,"No, I went over every square inch of this place."
-285,00:15:05,00:15:08,"I did the mattress, the sheets, the floors, the cabinets."
-286,00:15:08,00:15:11,"If the rapist ejaculated, he was smart enough to use a condom."
-287,00:15:12,00:15:16,"I'm no expert, but most guys can't wait to take off their rubber jacket."
-288,00:15:16,00:15:17,You check the wastebasket?
-289,00:15:17,00:15:20,"Yeah, I did, but..."
-290,00:15:20,00:15:23,not every guy uses the trash.
-291,00:15:49,00:15:50,Guy had sticky fingers.
-292,00:15:50,00:15:52,Semen?
-293,00:15:52,00:15:54,"Oh, yeah."
-294,00:16:00,00:16:02,"Fresh eyes, new evidence."
-295,00:17:24,00:17:26,I think we're done.
-296,00:17:26,00:17:28,Then let's get started.
-297,00:17:48,00:17:50,What do you got?
-298,00:17:50,00:17:53,"Parking placard. ""Saturn Arms."" It was affixed to the rearview mirror."
-299,00:17:53,00:17:56,It's the same kind of permit we use at my apartment building.
-300,00:17:56,00:17:57,Hmm.
-301,00:18:07,00:18:08,White threads...
-302,00:18:08,00:18:12,It is impossible to trace the source of a white thread.
-303,00:18:12,00:18:15,Reddish-brown stain consistent with blood.
-304,00:18:15,00:18:16,Really?
-305,00:18:16,00:18:19,Mmm. That could match the bloody towel that Warrick found.
-306,00:18:19,00:18:23,"Well, the towel is inadmissible, but the threads are still fair game."
-307,00:18:24,00:18:25,So...
-308,00:18:26,00:18:29,you still upset about your case being put on hold?
-309,00:18:31,00:18:33,(chuckles mischievously)
-310,00:18:35,00:18:36,Jacqui Franco.
-311,00:18:36,00:18:38,You responded to my page in under 45 seconds.
-312,00:18:38,00:18:39,Gotta be a record.
-313,00:18:39,00:18:41,Tell me you've found something probative.
-314,00:18:41,00:18:42,Extremely probative.
-315,00:18:42,00:18:47,Grissom lifted a print off a beer bottle Catherine found in Rachel Lyford's trash.
-316,00:18:47,00:18:48,Print matches your suspect.
-317,00:18:48,00:18:49,"Oh, wicked."
-318,00:18:49,00:18:54,"You know, in the pretrial interview, Fife denied ever being in the victim's apartment."
-319,00:18:54,00:18:56,Let him try to deny the print.
-320,00:18:56,00:18:58,Thank you. Mm-hmm.
-321,00:18:58,00:18:59,"Counselor, your client's rights..."
-322,00:18:59,00:19:00,"Detective, let me finish."
-323,00:19:00,00:19:05,...will not be violated. I want it on the record that my client has been advised not to take this meeting.
-324,00:19:05,00:19:06,I want to hear what they have to say.
-325,00:19:06,00:19:12,"WARRICK: Several hours ago, we found blood-stained threads in the back of your client's car."
-326,00:19:12,00:19:14,DNA ran the blood.
-327,00:19:14,00:19:16,It is consistent with Rachel Lyford's.
-328,00:19:17,00:19:18,It is admissible into evidence.
-329,00:19:20,00:19:22,"Now, what do you have to say?"
-330,00:19:22,00:19:25,I don't know anything about any threads.
-331,00:19:25,00:19:26,How well did you know the victim?
-332,00:19:26,00:19:27,That's an easy one.
-333,00:19:27,00:19:29,Rachel was a neighbor.
-334,00:19:29,00:19:32,"I'd say, ""Hi."" ""How are you?"" That's it."
-335,00:19:32,00:19:34,Were you ever in her apartment?
-336,00:19:34,00:19:35,We've been through that before.
-337,00:19:35,00:19:36,"Well, we're gonna go through it again."
-338,00:19:36,00:19:37,He's never been inside the victim's apartment.
-339,00:19:37,00:19:39,Were you ever in her apartment?
-340,00:19:39,00:19:44,Your client's fingerprints were on a beer bottle collected from the victim's trash.
-341,00:19:44,00:19:48,"You don't have to submit to this, Michael. Just say the word."
-342,00:19:48,00:19:49,"No, I got... I got this one."
-343,00:19:51,00:19:55,"The night before Rachel was killed, there was a party in the courtyard..."
-344,00:19:55,00:19:57,"(music playing, people talking)"
-345,00:20:09,00:20:12,She must've taken the trash back inside her unit.
-346,00:20:12,00:20:14,(Brass laughs)
-347,00:20:14,00:20:16,"What do I look like, Mike?"
-348,00:20:16,00:20:18,Listen to me.
-349,00:20:18,00:20:19,I don't know who killed Rachel.
-350,00:20:19,00:20:21,I don't know how that knife got in my car.
-351,00:20:22,00:20:25,I didn't even know my taillight was busted until that dumb-ass cop pulled me over.
-352,00:20:25,00:20:30,"I've been in jail for ten days on something I didn't do, and I am tired of this crap!"
-353,00:20:30,00:20:32,"You might want to control your temper, Mike."
-354,00:20:32,00:20:34,It can get you in a lot of trouble.
-355,00:20:34,00:20:40,"Detective Brass, if you were ready to make your case, we'd be back in court, not an interrogation room."
-356,00:20:40,00:20:47,"Assuming without the knife, you have nothing to directly connect my client to the attack, in 12 hours, he's going to be getting his street clothes."
-357,00:20:52,00:20:54,I'd like to speak to Mr. Brown.
-358,00:20:55,00:20:56,I don't mind waiting.
-359,00:20:56,00:20:58,"Oh, ma'am, he's at P.D."
-360,00:20:58,00:20:59,I can relay a message...
-361,00:21:00,00:21:01,That's okay.
-362,00:21:01,00:21:03,"I'm just... I need to talk to him, so..."
-363,00:21:03,00:21:04,Mr. Brown.
-364,00:21:04,00:21:05,Yeah. Hi.
-365,00:21:06,00:21:08,I know you must be extremely busy...
-366,00:21:08,00:21:10,but I need to know...
-367,00:21:10,00:21:16,I need you to tell me that Michael Fife is going to pay for what he did to my sister.
-368,00:21:16,00:21:18,I'm doing everything I can.
-369,00:21:18,00:21:22,"My mother's been medicated, and I can't sleep, and you're, what?"
-370,00:21:22,00:21:23,You're on a coffee break?
-371,00:21:23,00:21:29,"Actually, it's the first break I've had since court, so, if you'll excuse me, I have a lot of work to do."
-372,00:21:30,00:21:32,What's going on here?!
-373,00:21:32,00:21:35,Does anyone even care?!
-374,00:21:35,00:21:37,"Ms. Lyford? Ms. Lyford, I'm Nick Stokes."
-375,00:21:37,00:21:41,"I'm also a criminalist here in the lab, and I want you to know I understand."
-376,00:21:41,00:21:42,I understand your frustration.
-377,00:21:43,00:21:48,"This is not an easy thing to deal with, but I can assure you that this entire lab is on your sister's case."
-378,00:21:48,00:21:56,"Okay? I can't make any promises, but we're doing everything possible to keep this suspect behind bars, where he belongs."
-379,00:21:56,00:21:59,Thank you.
-380,00:21:59,00:22:01,That's all I needed to hear.
-381,00:22:01,00:22:04,Okay.
-382,00:22:04,00:22:05,Okay.
-383,00:22:05,00:22:06,Thank you.
-384,00:22:06,00:22:08,Hang in there.
-385,00:22:18,00:22:19,"What's up, Warrick?"
-386,00:22:20,00:22:21,What's up with what?
-387,00:22:21,00:22:22,With you.
-388,00:22:22,00:22:26,This job is hard enough without having victims' families up in your face.
-389,00:22:26,00:22:27,Her sister was raped and murdered.
-390,00:22:27,00:22:28,She watched the defense decimate your case.
-391,00:22:28,00:22:31,I think you could have given her five minutes.
-392,00:22:31,00:22:33,"You want to hold this girl's hand, that's fine by me."
-393,00:22:33,00:22:34,That seems to be your M.O.
-394,00:22:34,00:22:37,"But when you empathize instead of sympathize, I don't judge you."
-395,00:22:37,00:22:40,"She just wants to know that someone around here gives a damn, Warrick."
-396,00:22:40,00:22:42,You know what? Lunch is over.
-397,00:22:42,00:22:44,Time to go back to work.
-398,00:22:44,00:22:46,(kicks trash can over)
-399,00:23:09,00:23:11,"Hey, you."
-400,00:23:11,00:23:12,Hey.
-401,00:23:12,00:23:15,"How, uh, are you holding up?"
-402,00:23:15,00:23:17,I'm fine.
-403,00:23:17,00:23:19,You sure?
-404,00:23:19,00:23:20,Yeah.
-405,00:23:20,00:23:22,You're in the women's bathroom.
-406,00:23:26,00:23:27,"Oh, God, I'm sorry."
-407,00:23:27,00:23:28,"No, I..."
-408,00:23:28,00:23:30,I'm all for it.
-409,00:23:30,00:23:32,"Oh, God... (laughs)"
-410,00:23:32,00:23:34,Oh...
-411,00:23:37,00:23:40,This case is twisting me up.
-412,00:23:40,00:23:42,Interrogation room...
-413,00:23:42,00:23:44,was a bust.
-414,00:23:44,00:23:45,Fife can lie better than I can tell the truth.
-415,00:23:46,00:23:49,Better to know his lies before we go to trial.
-416,00:23:49,00:23:51,I don't think it's going to trial.
-417,00:23:51,00:23:52,We've got time.
-418,00:23:52,00:23:56,Seminal DNA's being processed as we speak.
-419,00:23:56,00:23:58,This case can break any minute.
-420,00:24:00,00:24:01,I'm not giving up.
-421,00:24:01,00:24:03,I'm just being realistic.
-422,00:24:03,00:24:07,"Come on, you know, Warrick, we don't just call these cases RUSH 'cause we're in a hurry."
-423,00:24:07,00:24:11,"It's a RUSH 'cause our pulse races, it's a rush when we nail the guy..."
-424,00:24:12,00:24:14,I like that.
-425,00:24:15,00:24:17,"Oh, hey! Hey, boss!"
-426,00:24:19,00:24:20,Yes?
-427,00:24:20,00:24:23,I Just ID'ed the substance from Rachel Lyford's wrist.
-428,00:24:23,00:24:25,Same substance found on the sheets.
-429,00:24:25,00:24:27,Have you told Warrick? He's the lead on this.
-430,00:24:27,00:24:30,"Yeah, about Warrick, what exactly happened in court today?"
-431,00:24:30,00:24:32,"I tried to talk to him, he just shut down."
-432,00:24:32,00:24:34,He just shut you down.
-433,00:24:34,00:24:36,What is the substance?
-434,00:24:36,00:24:38,Uh... wax.
-435,00:24:38,00:24:39,What kind of wax?
-436,00:24:39,00:24:43,"Uh, still working on that, but I can tell you that it does have a low melting point."
-437,00:24:43,00:24:45,The GCMS doesn't have a wax library.
-438,00:24:45,00:24:47,I've ordered up a reference from the New Jersey state lab.
-439,00:24:47,00:24:48,RUSH.
-440,00:24:48,00:24:50,Okay.
-441,00:24:51,00:24:54,Cross-check the product labels off the Internet.
-442,00:24:56,00:24:58,"And, uh, listen, if you need someone to talk to..."
-443,00:24:58,00:24:59,"Yeah, when's a good time?"
-444,00:24:59,00:25:02,We have a psychologist here on Tuesdays and Fridays.
-445,00:25:11,00:25:13,DNA on the toilet flusher.
-446,00:25:13,00:25:16,"On the Three-Ten, we're five seconds out."
-447,00:25:16,00:25:20,"Three, two, one."
-448,00:25:24,00:25:25,Sorry.
-449,00:25:27,00:25:30,Suspect's DNA is inconsistent with the semen found at the scene.
-450,00:25:30,00:25:32,Great.
-451,00:25:32,00:25:37,"Hey, Grissom, that sheriff's checked with just about every tech in the lab looking for you."
-452,00:25:37,00:25:39,He's bugging for an update.
-453,00:25:39,00:25:40,I suggest you avoid him.
-454,00:25:41,00:25:42,Why? What happened?
-455,00:25:42,00:25:44,Our only suspect may be innocent.
-456,00:25:48,00:25:56,"SIDLE: You're saying that the DNA results exclude our suspect, but couldn't the semen have come from a prior sexual encounter with another man? STOKES: Fife still could have raped and murdered Rachel."
-457,00:25:56,00:25:58,"WILLOWS: Well, the toilet bowl was clean."
-458,00:25:58,00:26:03,"The semen belongs to whoever flushed the toilet last, but there was a drop, not a smear."
-459,00:26:03,00:26:13,"GRISSOM: Look, we have no evidence that he raped her, no evidence that he killed her, and even if we consider the invisible evidence, it still doesn't give us enough to put him at the scene of the crime during the commission of the crime."
-460,00:26:13,00:26:16,Our trinity of evidence is incomplete.
-461,00:26:16,00:26:20,"WILLOWS: Okay, so, for argument's sake, let's assume that Fife didn't put the knife in the car."
-462,00:26:20,00:26:21,How did it get there?
-463,00:26:21,00:26:23,"Okay, um, does he live alone?"
-464,00:26:23,00:26:24,Yeah.
-465,00:26:25,00:26:26,Recently separated.
-466,00:26:26,00:26:27,His wife moved back to Albuquerque.
-467,00:26:27,00:26:29,And no one else had access to his vehicle.
-468,00:26:29,00:26:32,Was there any sign of forced entry?
-469,00:26:32,00:26:33,No sign of forced entry.
-470,00:26:33,00:26:35,And what evidence is still outstanding?
-471,00:26:35,00:26:36,GRISSOM: The wax.
-472,00:26:36,00:26:39,What's-his-name is still analyzing it.
-473,00:26:39,00:26:42,"WILLOWS: Well, I know that there was wax on the sheets and the victim's body."
-474,00:26:42,00:26:43,How about the murder weapon?
-475,00:26:44,00:26:45,"I didn't notice, but I wasn't looking."
-476,00:26:45,00:26:47,STOKES: Doesn't matter.
-477,00:26:47,00:26:48,Knife's excluded.
-478,00:26:48,00:26:52,GRISSOM: The exclusionary rule only applies to the person whose constitutional rights were violated.
-479,00:26:52,00:26:56,"If we have another suspect, then the knife is back in play. Grissom?"
-480,00:26:59,00:27:01,(heavy sigh)
-481,00:27:03,00:27:05,I'm sorry. You look lost.
-482,00:27:05,00:27:07,I've been calling your cell.
-483,00:27:07,00:27:11,"Well, we get bad reception at CSI. Listen, if this is about dinner, I'm free next week."
-484,00:27:11,00:27:12,I'll be having the fish.
-485,00:27:12,00:27:14,"We have nine hours left on the clock, Grissom."
-486,00:27:15,00:27:19,"Well, the investigation, which is under my purview, has taken an unexpected turn."
-487,00:27:19,00:27:21,"So, when I know something, you'll know something."
-488,00:27:21,00:27:23,I don't like surprises.
-489,00:27:23,00:27:25,"Me, neither."
-490,00:27:25,00:27:27,"What, you're not going to tell me anything?"
-491,00:27:27,00:27:29,No.
-492,00:27:31,00:27:33,Okay.
-493,00:27:34,00:27:35,For now.
-494,00:27:35,00:27:36,Mm-hmm.
-495,00:28:49,00:28:50,Checking my work?
-496,00:28:50,00:28:52,"Oh, I'm just looking around."
-497,00:28:55,00:28:57,What are you thinking?
-498,00:28:57,00:29:01,"Well, her body left behind this void."
-499,00:29:02,00:29:03,The attacker was on top.
-500,00:29:03,00:29:04,He held her down by her wrists.
-501,00:29:04,00:29:07,Which would explain the transfer of wax from him to her.
-502,00:29:07,00:29:08,Yes.
-503,00:29:09,00:29:11,Pin me down.
-504,00:29:16,00:29:19,She would have struggled.
-505,00:29:21,00:29:23,"Then, she gave up."
-506,00:29:25,00:29:30,"Afterward, when he got up, he put his hands on the sheet for leverage."
-507,00:29:33,00:29:35,Like this.
-508,00:29:35,00:29:39,Which explains how the wax got from him to the sheets.
-509,00:29:39,00:29:40,Yes.
-510,00:29:41,00:29:46,"Grissom, um, I, um, wanted to talk to you about something."
-511,00:29:47,00:29:49,Go ahead.
-512,00:29:49,00:29:52,"Well, you know, I applied for the promotion for the key position."
-513,00:29:52,00:29:53,Your application's on my desk.
-514,00:29:53,00:29:56,"About that-- I, um... I needed to know..."
-515,00:29:56,00:29:58,I...
-516,00:29:58,00:30:05,"I wanted to make sure, rather, that anything that happened or didn't happen between us won't be a factor."
-517,00:30:08,00:30:10,Never mind.
-518,00:30:10,00:30:12,I-I shouldn't have said anything.
-519,00:30:12,00:30:14,"I, um..."
-520,00:30:14,00:30:19,I'm always over-talking around you.
-521,00:30:25,00:30:26,Have you ever heard of body wax?
-522,00:30:26,00:30:29,"Made with soy, burns clean."
-523,00:30:29,00:30:31,Drip it all over your partner's body.
-524,00:30:31,00:30:35,I thought that we installed a fire-wall for sites like these.
-525,00:30:35,00:30:36,This is research.
-526,00:30:36,00:30:38,Body wax has been eliminated.
-527,00:30:38,00:30:39,What have you got?
-528,00:30:39,00:30:42,"Well, I've I.D.'d the wax."
-529,00:30:42,00:30:49,"But, per Grissom, I am not allowed to release any of my results except to the lead CSI, and that would be Warrick."
-530,00:30:49,00:30:50,I've already paged him.
-531,00:30:50,00:30:51,Give me.
-532,00:30:54,00:30:55,Axion Car Wax.
-533,00:30:55,00:31:00,"Contains carnuba wax, butyl cellusolve and cationic surfactant."
-534,00:31:00,00:31:02,Exact same ratio as the exemplars.
-535,00:31:02,00:31:03,Ah.
-536,00:31:03,00:31:05,There's a little souvenir for you.
-537,00:31:05,00:31:06,Thank you.
-538,00:31:06,00:31:09,GRISSOM: Axion Wax is industrial grade.
-539,00:31:09,00:31:12,It's sold to car washes for commercial use only.
-540,00:31:13,00:31:15,Yeah. Fife's an electrician.
-541,00:31:15,00:31:19,I doubt he would come into contact with that at work.
-542,00:31:19,00:31:21,"Then, we need to know where he gets his car washed."
-543,00:31:21,00:31:27,"WILLOWS: Except, if we ask him, we show our cards, and his lawyer will know that we're looking in another direction."
-544,00:31:27,00:31:31,"Yeah, then he'll petition Judge Brenner for Fife's immediate release."
-545,00:31:32,00:31:34,How do you feel about letting him walk?
-546,00:31:34,00:31:37,"We've got, what, less than seven hours."
-547,00:31:39,00:31:40,Let's not pull any punches.
-548,00:31:40,00:31:44,"If the evidence is leading us away from Fife, I say we go with it."
-549,00:31:49,00:31:53,"Mr. Fife, let's establish a sequence of events."
-550,00:31:53,00:32:00,Walk us through the night of the party at your apartment complex right up until your arrest the next day.
-551,00:32:00,00:32:02,Don't skip a beat.
-552,00:32:02,00:32:04,"Devil's in the details, huh?"
-553,00:32:04,00:32:05,Could be.
-554,00:32:08,00:32:11,I hung out until about midnight.
-555,00:32:11,00:32:13,Drank my six pack.
-556,00:32:13,00:32:15,Hit on a couple girls.
-557,00:32:15,00:32:17,Struck out.
-558,00:32:17,00:32:21,"Went back to my apartment, passed out."
-559,00:32:21,00:32:29,"In the morning, I drove up to Green Valley and installed a chandelier, two sconces."
-560,00:32:29,00:32:34,"At noon, I went back to my apartment, and I made a tuna fish sandwich."
-561,00:32:35,00:32:40,"Lettuce, tomato, spoon of relish."
-562,00:32:40,00:32:41,Wheat bread.
-563,00:32:41,00:32:47,Then... I took a leak.
-564,00:32:47,00:32:49,I don't want to skip a beat.
-565,00:32:49,00:32:50,Outstanding.
-566,00:32:50,00:32:53,"So, then what?"
-567,00:32:53,00:32:56,"So, I liked your tough act yesterday."
-568,00:32:56,00:33:00,Huh?
-569,00:33:00,00:33:01,"""I hand out the assignments."
-570,00:33:02,00:33:07,"This isn't a negotiation."" What, too much?"
-571,00:33:07,00:33:09,Not enough.
-572,00:33:09,00:33:12,"That afternoon, I had a job in Henderson."
-573,00:33:12,00:33:16,"On my way, I stopped, uh, at a car wash."
-574,00:33:16,00:33:18,It was a lunch-hour discount.
-575,00:33:18,00:33:19,What car wash?
-576,00:33:19,00:33:21,"Reliant, on Chardon Circle."
-577,00:33:21,00:33:22,It's about a block from my apartment.
-578,00:33:22,00:33:24,Why are you asking about a car wash?
-579,00:33:24,00:33:28,"At Reliant, did the attendant say anything about your broken taillight?"
-580,00:33:28,00:33:33,"No. Yeah, in fact, I mean, they should've said something."
-581,00:33:33,00:33:37,The tenor of these questions leads me to believe the focus of your investigation has shifted.
-582,00:33:37,00:33:38,"This conversation is over, Michael."
-583,00:33:45,00:33:47,WARRICK: I just talked to the manager.
-584,00:33:47,00:33:52,"Of course, he didn't recognize Fife from the six pack of photos."
-585,00:33:52,00:33:54,We're cleared to look around.
-586,00:33:54,00:33:59,"By bringing your car to a car wash, you pretty much open it up into the entire world, right?"
-587,00:33:59,00:34:01,Vehicles are most vulnerable down that tunnel.
-588,00:34:01,00:34:06,"So, I'm thinking that Michael Fife's taillight was intact when he arrived."
-589,00:34:06,00:34:08,I'm sure the attendant would have told him something.
-590,00:34:08,00:34:09,"They're liable, right?"
-591,00:34:09,00:34:21,"Exactly. So, his car proceeds on down the line, and then inside the tunnel, someone, presumably our killer, stashes the knife, breaks the taillight."
-592,00:34:21,00:34:23,Busted taillight's an equipment violation.
-593,00:34:23,00:34:24,NRS 485.511.
-594,00:34:25,00:34:27,"Yeah, you'd get pulled over for that pretty quickly."
-595,00:34:27,00:34:32,And the killer is banking on some ambitious cop searching the vehicle.
-596,00:34:32,00:34:34,"Okay, so, a broken taillight."
-597,00:34:34,00:34:38,The pieces fall into the water.
-598,00:34:38,00:34:41,WARRICK: The fragments have to run off through some kind of drain.
-599,00:34:41,00:34:43,"Uh, excuse me, sir."
-600,00:34:43,00:34:46,A-Are you the manager?
-601,00:34:46,00:34:48,Yeah.
-602,00:34:48,00:34:50,Does your drain have a filter?
-603,00:34:50,00:34:52,There's a screen trap behind the drain.
-604,00:34:52,00:34:55,Catches everything bigger than an ice cream sprinkle.
-605,00:34:55,00:34:58,"Well, when was the last time you had it cleaned?"
-606,00:34:58,00:34:59,About a month ago. Why?
-607,00:34:59,00:35:02,I'm going to have to clean your trap.
-608,00:35:05,00:35:06,"Sorry, lady."
-609,00:35:06,00:35:07,Can't just close down the shop.
-610,00:35:07,00:35:08,I got customers.
-611,00:35:08,00:35:12,"I understand, sir, but you know, just let us shut you down for about an hour or so."
-612,00:35:12,00:35:16,"Otherwise, we can get a search warrant, come back on Saturday, your busiest day, and, well..."
-613,00:35:16,00:35:17,it's up to you.
-614,00:35:17,00:35:22,Soon as that Porsche Cayenne works its way through the line...
-615,00:35:23,00:35:25,I'll shut her off.
-616,00:35:25,00:35:28,"The Crime Lab thanks you for your cooperation, sir."
-617,00:35:29,00:35:30,You're welcome.
-618,00:35:30,00:35:31,"All right, Sassy."
-619,00:35:46,00:35:49,Look what I found.
-620,00:35:49,00:35:52,A broken taillight.
-621,00:35:52,00:35:57,"Hey, could two cars get too close to each other and have an accident in here?"
-622,00:35:57,00:35:58,There's no way.
-623,00:35:58,00:35:59,Photocell technology.
-624,00:35:59,00:36:03,Whole system shuts down if the cars get within three feet of each other.
-625,00:36:03,00:36:07,"Believe me, in this tunnel, accidents do not happen."
-626,00:36:07,00:36:10,Which means the taillight was broken on purpose.
-627,00:36:13,00:36:19,"Okay, uh, thank you, thanks for coming down here and volunteering to give a DNA sample."
-628,00:36:19,00:36:26,"We know you work hard, so, in an effort to be nice, we've provided some lunch, some burgers and stuff, compliments of the Las Vegas Police Department."
-629,00:36:26,00:36:27,"Okay, let's form two lines now."
-630,00:36:27,00:36:32,"Everybody whose birthday is from January to June in this line, everybody else over here."
-631,00:36:33,00:36:35,How long is this crap going to take?
-632,00:36:36,00:36:38,"As long as it takes, okay?"
-633,00:36:38,00:36:39,Thank you.
-634,00:36:39,00:36:46,"All right, you guys, I'm going to be swabbing your left cheek, so, uh... try not to bite down."
-635,00:36:47,00:36:50,"Uh, ma'am, I got to take a leak."
-636,00:36:51,00:36:52,"Well, you just hold on there."
-637,00:36:52,00:36:54,It's only going to take a second.
-638,00:36:55,00:36:56,Open.
-639,00:37:02,00:37:04,Thank you.
-640,00:37:10,00:37:15,"Uh, Akers, do me a favor and escort this guy to the john."
-641,00:37:15,00:37:16,Let's go.
-642,00:37:16,00:37:18,(clearing throat)
-643,00:37:24,00:37:27,MAN: You guys are making a big mistake.
-644,00:37:27,00:37:30,"I don't know a Rachel Lyford, I swear."
-645,00:37:30,00:37:34,"Really? Well, I swear that you do."
-646,00:37:34,00:37:38,I found semen on the toilet in Rachel's apartment that matches your DNA.
-647,00:37:38,00:37:42,"You don't have to respond, but if you can explain the semen..."
-648,00:37:44,00:37:46,"I know a Rachel, okay?"
-649,00:37:46,00:37:47,I never knew her last name.
-650,00:37:47,00:37:52,Did the girl that you guys are looking for live at the Saturn Arms apartments?
-651,00:37:52,00:37:53,"So, you do know her."
-652,00:37:53,00:37:56,"I... here's the deal, okay?"
-653,00:37:56,00:37:59,"A car wax costs 60 bucks, okay?"
-654,00:37:59,00:38:00,We give you discounts sometimes.
-655,00:38:00,00:38:06,"I'll show up early and, you know, I'll go to a girl's apartment before work, or whatever, you know, and all the guys do this."
-656,00:38:06,00:38:09,"So, Rachel hired you to wax her car, is that it?"
-657,00:38:09,00:38:12,I only charged her 25.
-658,00:38:12,00:38:14,(laughing)
-659,00:38:14,00:38:16,Hi.
-660,00:38:16,00:38:18,Shiny as a new penny.
-661,00:38:19,00:38:21,(laughing)
-662,00:38:21,00:38:25,And your story is that Rachel came on to you?
-663,00:38:25,00:38:27,Yeah. She was all over me.
-664,00:38:27,00:38:31,"She answered the door in, like, this sexy little thing, and stuff."
-665,00:38:31,00:38:34,"Most of the time, when a woman answers the door, it's in sweats, they got the money ready."
-666,00:38:34,00:38:36,This was not like that.
-667,00:38:36,00:38:38,(laughing): What am I supposed to think?
-668,00:38:38,00:38:39,I don't think so.
-669,00:38:41,00:38:44,"Hey, I'm all done."
-670,00:38:46,00:38:48,"Uh, hold on a second."
-671,00:38:51,00:38:54,"Okay, here you go."
-672,00:38:55,00:38:57,(screaming)
-673,00:38:57,00:38:58,Stop it! Stop it!
-674,00:38:58,00:39:00,(screaming)
-675,00:39:00,00:39:05,"After raping her, you realized she had your name, knew where you worked."
-676,00:39:05,00:39:10,One call to the cops and you're looking at 25 to life.
-677,00:39:10,00:39:13,(terrified moaning)
-678,00:39:19,00:39:21,You freaked.
-679,00:39:21,00:39:23,"So, you killed her."
-680,00:39:29,00:39:30,(screaming)
-681,00:39:41,00:39:44,Forget life; you're looking at the death penalty.
-682,00:39:44,00:39:45,"Lady, you are whacked."
-683,00:39:45,00:39:50,You didn't find the murder weapon in my client's car.
-684,00:39:50,00:39:54,Your client went from Rachel's apartment to his job at the car wash.
-685,00:39:54,00:39:56,He took the knife with him.
-686,00:39:56,00:40:02,"A few hours later, Michael Fife drove in, and he planted the knife in his car."
-687,00:40:09,00:40:13,He just happened to hide the murder weapon in a car that belonged to one of Rachel's neighbors?
-688,00:40:13,00:40:14,It wasn't a coincidence.
-689,00:40:14,00:40:15,It was your lucky day.
-690,00:40:15,00:40:19,You recognized the parking permit in his car window.
-691,00:40:21,00:40:25,"You broke the taillight, you stashed the knife."
-692,00:40:25,00:40:28,Instant suspect.
-693,00:40:33,00:40:34,You recognize these?
-694,00:40:37,00:40:42,The name on the dog tags is Aaron Lyford.
-695,00:40:42,00:40:44,That's Rachel's father.
-696,00:40:48,00:40:50,She gave them to me.
-697,00:40:50,00:40:52,She gave them to you.
-698,00:40:53,00:40:55,Why did you try to hide them?
-699,00:40:55,00:40:57,Why did you take off to the bathroom with the dog tags on?
-700,00:40:57,00:41:00,And you came back with them missing.
-701,00:41:00,00:41:01,"So, I checked it out."
-702,00:41:14,00:41:16,This is an autopsy photo.
-703,00:41:18,00:41:20,The abrasions are evidence.
-704,00:41:21,00:41:23,Those dog tags were ripped from her neck.
-705,00:41:30,00:41:34,She gave them to you... over her dead body.
-706,00:41:38,00:41:41,The defendant arrived at the station on his own accord.
-707,00:41:42,00:41:46,"He provided us with a sample of his DNA, and we rushed that sample to our lab for analysis."
-708,00:41:46,00:41:52,"You compared Mr. Quinn's DNA to DNA from semen recovered at the crime scene, is that correct?"
-709,00:41:52,00:41:53,"Yes, that's correct."
-710,00:41:53,00:41:55,It was a match.
-711,00:41:55,00:41:57,"CHIEF DEPUTY D.A.: Judge, we have no further questions."
-712,00:41:59,00:42:01,Ms. Finn?
-713,00:42:01,00:42:05,"Your Honor, we have no questions for CSI Brown."
-714,00:42:05,00:42:17,"JUDGE BRENNER: Based on the evidence, I find sufficient probable cause to order the defendant to stand trial for the sexual assault and murder of Rachel Lyford."
-715,00:42:17,00:42:20,(pounds gavel)
-716,00:42:37,00:42:39,I'm terribly sorry for your loss.
-717,00:42:39,00:42:43,And your father's tags are in a safe place.
-718,00:42:43,00:42:45,I'll make sure they get back to you.
-719,00:42:45,00:42:46,Thank you for everything.
-720,00:42:46,00:42:48,You're more than welcome.
-721,00:42:48,00:42:50,"ATWATER: Hey, sorry I'm late."
-722,00:42:50,00:42:52,"GRISSOM: Well, I think you're right on time."
-723,00:42:52,00:42:55,"There must be a press conference nearby, huh?"
-724,00:42:55,00:42:56,(clearing throat)
-725,00:42:56,00:42:58,I wanted to include CSI Brown in this.
-726,00:42:58,00:43:01,There might be a few questions outside my...
-727,00:43:01,00:43:02,Purview?
-728,00:43:02,00:43:05,Want to meet me out in the corridor ASAP?
-729,00:43:05,00:43:09,"Sheriff, I'm not too good with cameras."
-730,00:43:10,00:43:11,You won't have to talk much.
-731,00:43:11,00:43:14,"Grissom, thanks."
-732,00:43:14,00:43:15,For what?
-733,00:43:15,00:43:18,See you back at the lab.
+	start	end	text
+0	00:00:08	00:00:11	I searched the vehicle at the CSI garage.
+1	00:00:11	00:00:13	I discovered the knife under the passenger's seat.
+2	00:00:13	00:00:17	Now, is this the knife you found?
+3	00:00:19	00:00:20	Yes, it is.
+4	00:00:20	00:00:21	Hmm.
+5	00:00:21	00:00:24	Who was the registered owner of the vehicle?
+6	00:00:24	00:00:27	Michael Fife, the defendant.
+7	00:00:27	00:00:32	Please describe the physical condition of the knife when you discovered it.
+8	00:00:33	00:00:35	The knife was wrapped in a white towel.
+9	00:00:35	00:00:38	Both the towel and the knife were caked with dried blood.
+10	00:00:39	00:00:42	And how did you process this evidence?
+11	00:00:42	00:00:45	I swabbed the blood and sent a sample to the DNA lab.
+12	00:00:45	00:00:48	The lab technician ran the sample through CODIS.
+13	00:00:48	00:00:53	The DNA sample was a match to a recent rape and homicide victim, Rachel Lyford.
+14	00:00:53	00:00:59	Rachel Lyford who lived in unit seven of the Saturn Arms Apartment complex.
+15	00:00:59	00:01:02	The same complex as the defendant?
+16	00:01:02	00:01:03	That's correct.
+17	00:01:03	00:01:09	Is this knife consistent in size and shape to the fatal wounds sustained by Rachel Lyford?
+18	00:01:09	00:01:10	Yes, it is.
+19	00:01:10	00:01:11	Thank you.
+20	00:01:11	00:01:14	Your Honor, we have no further questions for CSI Brown.
+21	00:01:14	00:01:17	Mr. Matthews.
+22	00:01:17	00:01:22	Mr. Brown, you stated that you found the knife in Mr. Fife's vehicle.
+23	00:01:22	00:01:23	Is that correct?
+24	00:01:23	00:01:24	Yes, that's correct.
+25	00:01:24	00:01:26	Why did you search his vehicle?
+26	00:01:26	00:01:28	I received a call from Officer Watson.
+27	00:01:29	00:01:32	He informed me that he had pulled the defendant over to cite him for a broken taillight.
+28	00:01:33	00:01:37	After running his plates, it was discovered that the defendant had an outstanding warrant for drugs.
+29	00:01:37	00:01:41	He then arrested Mr. Fife and ordered a respond and tow.
+30	00:01:41	00:01:44	At which point, he asked me to search the vehicle for drugs.
+31	00:01:44	00:01:47	That's when I found the knife.
+32	00:01:47	00:01:48	Mm-hmm.
+33	00:01:48	00:01:53	At what point did you secure the warrant to search Mr. Fife's vehicle?
+34	00:01:57	00:02:01	Officer Watson would have secured the warrant prior to calling me.
+35	00:02:01	00:02:04	Officer Watson never secured a warrant.
+36	00:02:08	00:02:09	Did you?
+37	00:02:13	00:02:14	No.
+38	00:02:16	00:02:23	Your Honor, the knife is a product of an unlawful search, and under NRS Chapter 179, we submit the knife and the towel be ruled inadmissible.
+39	00:02:23	00:02:27	Furthermore, all evidence acquired as a result of the seizure must at this time be excluded.
+40	00:02:27	00:02:29	So ruled.
+41	00:02:29	00:02:31	Fruit of the poisonous tree.
+42	00:02:31	00:02:33	What else do you have?
+43	00:02:33	00:02:35	Additional evidence is pending.
+44	00:02:35	00:02:39	The knife would've been more than sufficient for the purpose of a prelim.
+45	00:02:39	00:02:42	You have no other evidence to present?
+46	00:02:44	00:02:46	Not at this time.
+47	00:02:48	00:02:52	I find insufficient evidence to hold the defendant over for trial.
+48	00:02:52	00:02:53	He's free to go.
+49	00:02:53	00:02:58	Your Honor, the defendant is accused of raping and killing a 19-year-old woman.
+50	00:02:58	00:03:00	You can't just let him back on the street.
+51	00:03:00	00:03:03	Are you suggesting that I violate his constitutional rights, Counselor?
+52	00:03:03	00:03:05	Ask him for 24 hours.
+53	00:03:09	00:03:11	Your Honor, we received no prior notice of this motion.
+54	00:03:11	00:03:12	Um...
+55	00:03:12	00:03:15	we would ask for a continuance and opportunity to reopen.
+56	00:03:17	00:03:20	We're only asking for 24 hours.
+57	00:03:25	00:03:27	Okay.
+58	00:03:27	00:03:30	If you can't make your case, Mr. Fife walks.
+59	00:03:30	00:03:33	We will recess for 24 hours.
+60	00:03:41	00:03:43	The murder weapon's been excluded, that's all.
+61	00:03:43	00:03:45	We still have a lab full of evidence we can process.
+62	00:03:45	00:03:47	We've been completely blind-sided here.
+63	00:03:47	00:03:49	Brown, what is going on?
+64	00:03:49	00:03:50	You got to be kidding me.
+65	00:03:50	00:03:52	You were unprepared.
+66	00:03:52	00:03:56	All the evidence you CSIs collect, and all you bring into this courtroom is a knife? Come on.
+67	00:03:56	00:03:57	I found the knife.
+68	00:03:57	00:03:58	I processed the knife.
+69	00:03:58	00:04:00	I presented the knife.
+70	00:04:00	00:04:01	All you had to do was the paperwork.
+71	00:04:01	00:04:02	Yeah, blame it on the cop, huh?
+72	00:04:02	00:04:05	Look, you wouldn't even have a suspect if I didn't pulled that guy over.
+73	00:04:05	00:04:07	If you'd've followed protocol, our suspect would be going to trial.
+74	00:04:08	00:04:11	If you have a problem with CSI, file a complaint-- we're busy.
+75	00:04:13	00:04:16	What about what you said about never rushing evidence?
+76	00:04:16	00:04:20	Well, for the next 24 hours, we're breaking the rules.
+77	00:04:53	00:04:54	Grissom.
+78	00:04:55	00:04:56	Sheriff.
+79	00:04:56	00:04:57	We need to talk...
+80	00:04:57	00:04:59	...about him.
+81	00:04:59	00:05:01	Nice to finally meet you, too, Sheriff.
+82	00:05:01	00:05:04	Why don't you go ahead and start the briefing?
+83	00:05:04	00:05:05	I'll be in in a minute.
+84	00:05:05	00:05:06	Yeah.
+85	00:05:06	00:05:08	Where to?
+86	00:05:21	00:05:23	Warrick Brown followed protocol.
+87	00:05:23	00:05:24	You cannot pin this mess on him.
+88	00:05:24	00:05:27	Warrick Brown was on the stand.
+89	00:05:27	00:05:29	He's the face of the case.
+90	00:05:29	00:05:30	It's all about perception.
+91	00:05:30	00:05:39	If Fife walks, public only hears one thing-- Evidence against a killer was thrown out of court because CSI conducted an improper search.
+92	00:05:39	00:05:41	You think I don't know that?
+93	00:05:41	00:05:43	What the hell is this?
+94	00:05:43	00:05:45	It's irradiated fetal pig.
+95	00:05:45	00:05:47	I used the tissue to determine the effects of radiation...
+96	00:05:47	00:05:51	Look, Grissom, you and your team have done exemplary work.
+97	00:05:51	00:05:54	Thanks to the Crime Lab, some very difficult cases have gone our way.
+98	00:05:54	00:05:57	You've elevated the status of the whole Bureau.
+99	00:05:57	00:06:00	Uh-huh.
+100	00:06:00	00:06:01	Then why are you here?
+101	00:06:02	00:06:08	I'm holding a press conference in an hour where I'll be telling the media that this case is under your purview.
+102	00:06:12	00:06:14	Oh, it is about perception, isn't it?
+103	00:06:14	00:06:17	Glad we understand each other.
+104	00:06:19	00:06:22	Uh... why don't you call my office next week?
+105	00:06:22	00:06:25	Put a little lunch on the books, hmm?
+106	00:06:28	00:06:30	I work nights.
+107	00:06:32	00:06:34	So make it a dinner.
+108	00:06:39	00:06:41	Impound towed the vehicle to the garage.
+109	00:06:41	00:06:46	Michael Fife's outstanding warrant was for marijuana possession, so that's what I was looking for.
+110	00:06:53	00:06:57	I swabbed the knife and I sent the blood sample to Greg.
+111	00:06:57	00:07:00	I ran it through CODIS and matched it to another case.
+112	00:07:00	00:07:02	My case.
+113	00:07:02	00:07:04	Rachel Lyford, 19.
+114	00:07:04	00:07:06	Murdered in her apartment.
+115	00:07:10	00:07:12	The Assistant Coroner examined the body.
+116	00:07:12	00:07:16	Based on the vaginal introitus, he suspected rape.
+117	00:07:16	00:07:17	I processed the scene.
+118	00:07:17	00:07:19	There was nothing probative.
+119	00:07:19	00:07:20	There were no prints, no DNA.
+120	00:07:20	00:07:22	Everything I collected is in the vault.
+121	00:07:22	00:07:28	Now, once Warrick found the knife, the D.A. thought there was sufficient probable cause and rushed the prelim.
+122	00:07:28	00:07:32	Further processing of the evidence became a low priority, pending the trial date.
+123	00:07:32	00:07:33	This is a RUSH case.
+124	00:07:34	00:07:35	Everyone's in the pool for 24 hours.
+125	00:07:35	00:07:37	Warrick, you need to see Robbins.
+126	00:07:37	00:07:39	Have him walk you through his notes on the autopsy.
+127	00:07:39	00:07:42	Nick, Sara, the judge issued a warrant for Fife's vehicle.
+128	00:07:42	00:07:44	Detail is towing it back to our garage.
+129	00:07:44	00:07:45	Hold on.
+130	00:07:45	00:07:48	Warrick's already searched the car and the knife's been excluded.
+131	00:07:48	00:07:49	What exactly are we hoping to find?
+132	00:07:49	00:07:50	I don't know.
+133	00:07:50	00:07:53	But the knife and the towel are invisible evidence.
+134	00:07:53	00:07:55	The jury will never see them.
+135	00:07:55	00:07:57	So we have to find something that's visible.
+136	00:07:57	00:08:02	Uh, listen, I recognize the importance of this, but I'm in the middle of my own homicide investigation.
+137	00:08:02	00:08:04	I'll talk to your detective. Explain the deal.
+138	00:08:04	00:08:05	Well, it's not about the detective.
+139	00:08:05	00:08:06	It's about my own responsibility.
+140	00:08:06	00:08:08	I'm handing out assignments, Sara.
+141	00:08:08	00:08:09	It's not a negotiation.
+142	00:08:13	00:08:15	I'll go back to the scene and look at it with fresh eyes.
+143	00:08:15	00:08:19	Deadline's 4 Once more into the breach.
+144	00:08:24	00:08:25	That was Auto Detail.
+145	00:08:25	00:08:27	There's a traffic jam on Flamingo.
+146	00:08:27	00:08:28	Tow truck should be here any second.
+147	00:08:29	00:08:31	You know what pisses me off?
+148	00:08:31	00:08:32	Lots of things.
+149	00:08:32	00:08:33	Victims aren't equal.
+150	00:08:33	00:08:35	High profile cases get priority.
+151	00:08:35	00:08:36	A ticking clock gets priority.
+152	00:08:36	00:08:38	Every case is a ticking clock.
+153	00:08:38	00:08:40	The only difference between a cold case and a hot case is time.
+154	00:08:40	00:08:43	I don't care if you're working on the hottest case of your career.
+155	00:08:43	00:08:47	If your supervisor tells you to leave a scene to go wash his car, you do it.
+156	00:08:47	00:08:50	You don't have a career without a job.
+157	00:09:01	00:09:04	Heard you're on a RUSH. Sorry.
+158	00:09:04	00:09:05	That's not the right car, man.
+159	00:09:07	00:09:10	Uh, registered owner Michael Fife, BMW 325.
+160	00:09:10	00:09:12	Impounded ten days ago.
+161	00:09:12	00:09:13	What the hell happened?
+162	00:09:13	00:09:14	It's been pancaked.
+163	00:09:14	00:09:16	We can see that.
+164	00:09:16	00:09:17	Why?
+165	00:09:17	00:09:19	Hey, I just move 'em.
+166	00:09:19	00:09:21	This is evidence in an active investigation.
+167	00:09:22	00:09:23	Paperwork mix-up?
+168	00:09:23	00:09:25	Or some moron checked the wrong box.
+169	00:09:25	00:09:26	You can just unload it here.
+170	00:09:26	00:09:28	Sign here. I got to get back to the lot.
+171	00:09:30	00:09:31	Thanks.
+172	00:09:31	00:09:35	Body was released last week. Cremated at Desert Haven.
+173	00:09:35	00:09:38	I.D.'d by the sister. Pretty girl.
+174	00:09:38	00:09:40	Couldn't stop crying.
+175	00:09:40	00:09:41	Yeah, Rita.
+176	00:09:41	00:09:43	They were real close.
+177	00:09:43	00:09:45	Lived together up until a couple months ago.
+178	00:09:45	00:09:50	These stab wounds look like they're limited to the neck and upper torso area, huh?
+179	00:09:50	00:09:53	Fatal stab was to the left side of the neck.
+180	00:09:53	00:10:00	The blade traversed the subcutaneous tissue, sternocleido-mastoid muscle, jugular venous complex, the carotid artery and the Vagus nerve.
+181	00:10:00	00:10:02	She bled right out.
+182	00:10:02	00:10:05	Raped. No semen in the vaginal vault.
+183	00:10:05	00:10:09	I don't know if it's relevant, but check out the abrasion.
+184	00:10:09	00:10:11	There was something around her neck.
+185	00:10:11	00:10:13	Noted.
+186	00:10:13	00:10:14	What is this foreign substance on her wrist?
+187	00:10:14	00:10:16	Pre-autopsy.
+188	00:10:16	00:10:19	David snapped the photo before he washed her body.
+189	00:10:19	00:10:20	He's in Clean Up.
+190	00:10:20	00:10:24	Bringing your laundry to work again, David?
+191	00:10:26	00:10:27	I'm cleaning a pelvis.
+192	00:10:27	00:10:28	Great.
+193	00:10:28	00:10:30	I'm here about one Rachel Lyford.
+194	00:10:30	00:10:32	You prepped her body?
+195	00:10:32	00:10:33	Yeah, ten days ago.
+196	00:10:33	00:10:34	I thought it was Catherine's case.
+197	00:10:34	00:10:35	It's mine now.
+198	00:10:35	00:10:38	You notice this foreign substance on her wrists?
+199	00:10:38	00:10:39	It was flaky.
+200	00:10:39	00:10:41	Like the glaze on a doughnut?
+201	00:10:41	00:10:42	I sent a sample to Trace.
+202	00:10:42	00:10:43	Trace. Thanks.
+203	00:10:43	00:10:44	You're the man.
+204	00:10:45	00:10:46	Have fun.
+205	00:10:49	00:10:51	Sample's still running through the GCMS.
+206	00:10:51	00:10:52	I'll let you know.
+207	00:10:52	00:10:54	How'd you know that I was...
+208	00:10:54	00:10:56	4-1-1 from David.
+209	00:10:56	00:10:58	Hey, I heard about court today.
+210	00:10:58	00:11:00	Must have been embarrassing, huh?
+211	00:11:00	00:11:03	Hodges, why'd you leave L.A. again?
+212	00:11:03	00:11:06	Never mind, it's probably none of my business.
+213	00:11:06	00:11:07	Hey, Rick, you okay?
+214	00:11:07	00:11:10	'Cause I'm here to drop some more pressure on you.
+215	00:11:10	00:11:11	Yeah?
+216	00:11:11	00:11:13	Rachel Lyford's sister showed up at the police station.
+217	00:11:14	00:11:14	Man, she was angry.
+218	00:11:15	00:11:16	She was firing on all cylinders.
+219	00:11:16	00:11:17	I don't blame her.
+220	00:11:17	00:11:20	Apparently, Rachel wore a silver chain around her neck.
+221	00:11:20	00:11:22	It wasn't with her personal effects.
+222	00:11:22	00:11:25	Had her father's Army dog tags on it and the family wants it back.
+223	00:11:25	00:11:27	You came all the way over here for dog tags?
+224	00:11:27	00:11:29	Well...
+225	00:11:29	00:11:32	the Sheriff asked me to find it.
+226	00:11:32	00:11:35	You know, Rory Atwater's been in office for-- what?-- four months, so it's political.
+227	00:11:35	00:11:38	He doesn't want the victim's sister bad-mouthing his department.
+228	00:11:38	00:11:39	Mm-hmm.
+229	00:11:39	00:11:40	Check it out.
+230	00:11:40	00:11:41	Mm-hmm.
+231	00:11:41	00:11:45	Dr. Robbins found consistent abrasions on the back of her neck, so...
+232	00:11:45	00:11:46	that's probably your chain.
+233	00:11:46	00:11:47	Uh-huh. Okay.
+234	00:11:47	00:11:48	Killer took a souvenir.
+235	00:11:48	00:11:50	I'll let the Sheriff know. Thanks.
+236	00:11:50	00:11:51	All right.
+237	00:11:59	00:12:00	What do you got?
+238	00:12:00	00:12:04	Got a print off this bottle I found in the garbage.
+239	00:12:04	00:12:05	It was the only bottle like it.
+240	00:12:05	00:12:07	None others in the apartment.
+241	00:12:07	00:12:09	Need a hand?
+242	00:12:09	00:12:10	You could do the sheets.
+243	00:12:17	00:12:21	You know, the steak knife I found in that car matches that set.
+244	00:12:21	00:12:23	We only found five knives in Rachel's kitchen.
+245	00:12:23	00:12:25	Five's an odd number of steak knives.
+246	00:12:25	00:12:27	Exactly.
+247	00:12:28	00:12:30	Weapon of opportunity, perhaps?
+248	00:12:30	00:12:32	Perhaps.
+249	00:12:52	00:12:54	Grissom, what do you make of this?
+250	00:12:54	00:12:59	We noted a similar type substance on the girl's wrists.
+251	00:12:59	00:13:03	Doesn't look like it belongs on the victim or her sheets.
+252	00:13:12	00:13:12	Stop it.
+253	00:13:13	00:13:14	What?
+254	00:13:14	00:13:15	Watching the clock.
+255	00:13:15	00:13:19	It's just that new evidence is coming in and the old evidence hasn't even been processed yet.
+256	00:13:19	00:13:20	We're running out of time here, you know?
+257	00:13:21	00:13:23	If you're watching the clock, you're not watching the case.
+258	00:13:23	00:13:26	Well, not even you can stop time.
+259	00:13:37	00:13:38	Thank you.
+260	00:13:39	00:13:41	Oh... I remember now.
+261	00:14:02	00:14:03	I'm reading the same book.
+262	00:14:03	00:14:06	Really? Any good?
+263	00:14:06	00:14:07	Yeah, so far.
+264	00:14:26	00:14:28	Hi, it's Rachel. Sorry I missed your call.
+265	00:14:28	00:14:30	I promise to get back to you as soon as I can.
+266	00:14:30	00:14:32	Have a great day.
+267	00:14:33	00:14:34	Hey, Rachel.
+268	00:14:34	00:14:35	It's Walter. Walter Burr.
+269	00:14:35	00:14:39	We exchanged numbers at Diane's party a few weeks ago.
+270	00:14:39	00:14:43	Anyway, just thought you might want to grab a drink sometime.
+271	00:14:43	00:14:44	So, give me a call.
+272	00:14:44	00:14:47	I processed this place for 12 straight hours.
+273	00:14:47	00:14:49	I never took a break.
+274	00:14:49	00:14:50	Couldn't eat.
+275	00:14:50	00:14:53	Yeah, my sister calls that the CSI diet.
+276	00:14:53	00:14:55	She's a CSI out in Bakersfield.
+277	00:14:55	00:14:57	Whole family wears a badge.
+278	00:15:01	00:15:02	If you want to ALS again, I'll grab the lights.
+279	00:15:02	00:15:05	No, I went over every square inch of this place.
+280	00:15:05	00:15:08	I did the mattress, the sheets, the floors, the cabinets.
+281	00:15:08	00:15:11	If the rapist ejaculated, he was smart enough to use a condom.
+282	00:15:12	00:15:16	I'm no expert, but most guys can't wait to take off their rubber jacket.
+283	00:15:16	00:15:17	You check the wastebasket?
+284	00:15:17	00:15:20	Yeah, I did, but...
+285	00:15:20	00:15:23	not every guy uses the trash.
+286	00:15:49	00:15:50	Guy had sticky fingers.
+287	00:15:50	00:15:52	Semen?
+288	00:15:52	00:15:54	Oh, yeah.
+289	00:16:00	00:16:02	Fresh eyes, new evidence.
+290	00:17:24	00:17:26	I think we're done.
+291	00:17:26	00:17:28	Then let's get started.
+292	00:17:48	00:17:50	What do you got?
+293	00:17:50	00:17:52	Parking placard. Saturn Arms.
+294	00:17:52	00:17:53	It was affixed to the rearview mirror.
+295	00:17:53	00:17:56	It's the same kind of permit we use at my apartment building.
+296	00:17:56	00:17:57	Hmm.
+297	00:18:07	00:18:08	White threads...
+298	00:18:08	00:18:12	It is impossible to trace the source of a white thread.
+299	00:18:12	00:18:15	Reddish-brown stain consistent with blood.
+300	00:18:15	00:18:16	Really?
+301	00:18:16	00:18:19	Mmm. That could match the bloody towel that Warrick found.
+302	00:18:19	00:18:23	Well, the towel is inadmissible, but the threads are still fair game.
+303	00:18:24	00:18:25	So...
+304	00:18:26	00:18:29	you still upset about your case being put on hold?
+305	00:18:35	00:18:36	Jacqui Franco.
+306	00:18:36	00:18:38	You responded to my page in under 45 seconds.
+307	00:18:38	00:18:39	Gotta be a record.
+308	00:18:39	00:18:41	Tell me you've found something probative.
+309	00:18:41	00:18:42	Extremely probative.
+310	00:18:42	00:18:47	Grissom lifted a print off a beer bottle Catherine found in Rachel Lyford's trash.
+311	00:18:47	00:18:48	Print matches your suspect.
+312	00:18:48	00:18:49	Oh, wicked.
+313	00:18:49	00:18:54	You know, in the pretrial interview, Fife denied ever being in the victim's apartment.
+314	00:18:54	00:18:56	Let him try to deny the print.
+315	00:18:56	00:18:58	Thank you. Mm-hmm.
+316	00:18:58	00:18:59	Counselor, your client's rights...
+317	00:18:59	00:19:00	Detective, let me finish.
+318	00:19:00	00:19:05	...will not be violated. I want it on the record that my client has been advised not to take this meeting.
+319	00:19:05	00:19:06	I want to hear what they have to say.
+320	00:19:06	00:19:12	Several hours ago, we found blood-stained threads in the back of your client's car.
+321	00:19:12	00:19:14	DNA ran the blood.
+322	00:19:14	00:19:16	It is consistent with Rachel Lyford's.
+323	00:19:17	00:19:18	It is admissible into evidence.
+324	00:19:20	00:19:22	Now, what do you have to say?
+325	00:19:22	00:19:25	I don't know anything about any threads.
+326	00:19:25	00:19:26	How well did you know the victim?
+327	00:19:26	00:19:27	That's an easy one.
+328	00:19:27	00:19:29	Rachel was a neighbor.
+329	00:19:29	00:19:31	I'd say, Hi. How are you?
+330	00:19:31	00:19:32	That's it.
+331	00:19:32	00:19:34	Were you ever in her apartment?
+332	00:19:34	00:19:35	We've been through that before.
+333	00:19:35	00:19:36	Well, we're gonna go through it again.
+334	00:19:36	00:19:37	He's never been inside the victim's apartment.
+335	00:19:37	00:19:39	Were you ever in her apartment?
+336	00:19:39	00:19:44	Your client's fingerprints were on a beer bottle collected from the victim's trash.
+337	00:19:44	00:19:48	You don't have to submit to this, Michael. Just say the word.
+338	00:19:48	00:19:49	No, I got... I got this one.
+339	00:19:51	00:19:55	The night before Rachel was killed, there was a party in the courtyard...
+340	00:20:09	00:20:12	She must've taken the trash back inside her unit.
+341	00:20:14	00:20:16	What do I look like, Mike?
+342	00:20:16	00:20:18	Listen to me.
+343	00:20:18	00:20:19	I don't know who killed Rachel.
+344	00:20:19	00:20:21	I don't know how that knife got in my car.
+345	00:20:22	00:20:25	I didn't even know my taillight was busted until that dumb-ass cop pulled me over.
+346	00:20:25	00:20:30	I've been in jail for ten days on something I didn't do, and I am tired of this crap!
+347	00:20:30	00:20:32	You might want to control your temper, Mike.
+348	00:20:32	00:20:34	It can get you in a lot of trouble.
+349	00:20:34	00:20:40	Detective Brass, if you were ready to make your case, we'd be back in court, not an interrogation room.
+350	00:20:40	00:20:47	Assuming without the knife, you have nothing to directly connect my client to the attack, in 12 hours, he's going to be getting his street clothes.
+351	00:20:52	00:20:54	I'd like to speak to Mr. Brown.
+352	00:20:55	00:20:56	I don't mind waiting.
+353	00:20:56	00:20:58	Oh, ma'am, he's at P.D.
+354	00:20:58	00:20:59	I can relay a message...
+355	00:21:00	00:21:01	That's okay.
+356	00:21:01	00:21:03	I'm just... I need to talk to him, so...
+357	00:21:03	00:21:04	Mr. Brown.
+358	00:21:04	00:21:05	Yeah. Hi.
+359	00:21:06	00:21:08	I know you must be extremely busy...
+360	00:21:08	00:21:10	but I need to know...
+361	00:21:10	00:21:16	I need you to tell me that Michael Fife is going to pay for what he did to my sister.
+362	00:21:16	00:21:18	I'm doing everything I can.
+363	00:21:18	00:21:22	My mother's been medicated, and I can't sleep, and you're, what?
+364	00:21:22	00:21:23	You're on a coffee break?
+365	00:21:23	00:21:29	Actually, it's the first break I've had since court, so, if you'll excuse me, I have a lot of work to do.
+366	00:21:30	00:21:32	What's going on here?!
+367	00:21:32	00:21:35	Does anyone even care?!
+368	00:21:35	00:21:37	Ms. Lyford? Ms. Lyford, I'm Nick Stokes.
+369	00:21:37	00:21:41	I'm also a criminalist here in the lab, and I want you to know I understand.
+370	00:21:41	00:21:42	I understand your frustration.
+371	00:21:43	00:21:48	This is not an easy thing to deal with, but I can assure you that this entire lab is on your sister's case.
+372	00:21:48	00:21:56	Okay? I can't make any promises, but we're doing everything possible to keep this suspect behind bars, where he belongs.
+373	00:21:56	00:21:59	Thank you.
+374	00:21:59	00:22:01	That's all I needed to hear.
+375	00:22:01	00:22:04	Okay.
+376	00:22:04	00:22:05	Okay.
+377	00:22:05	00:22:06	Thank you.
+378	00:22:06	00:22:08	Hang in there.
+379	00:22:18	00:22:19	What's up, Warrick?
+380	00:22:20	00:22:21	What's up with what?
+381	00:22:21	00:22:22	With you.
+382	00:22:22	00:22:26	This job is hard enough without having victims' families up in your face.
+383	00:22:26	00:22:27	Her sister was raped and murdered.
+384	00:22:27	00:22:28	She watched the defense decimate your case.
+385	00:22:28	00:22:31	I think you could have given her five minutes.
+386	00:22:31	00:22:33	You want to hold this girl's hand, that's fine by me.
+387	00:22:33	00:22:34	That seems to be your M.O.
+388	00:22:34	00:22:37	But when you empathize instead of sympathize, I don't judge you.
+389	00:22:37	00:22:40	She just wants to know that someone around here gives a damn, Warrick.
+390	00:22:40	00:22:42	You know what? Lunch is over.
+391	00:22:42	00:22:44	Time to go back to work.
+392	00:23:09	00:23:11	Hey, you.
+393	00:23:11	00:23:12	Hey.
+394	00:23:12	00:23:15	How, uh, are you holding up?
+395	00:23:15	00:23:17	I'm fine.
+396	00:23:17	00:23:19	You sure?
+397	00:23:19	00:23:20	Yeah.
+398	00:23:20	00:23:22	You're in the women's bathroom.
+399	00:23:26	00:23:27	Oh, God, I'm sorry.
+400	00:23:27	00:23:28	No, I...
+401	00:23:28	00:23:30	I'm all for it.
+402	00:23:30	00:23:32	Oh, God... ( laughs )
+403	00:23:32	00:23:34	Oh...
+404	00:23:37	00:23:40	This case is twisting me up.
+405	00:23:40	00:23:42	Interrogation room...
+406	00:23:42	00:23:44	was a bust.
+407	00:23:44	00:23:45	Fife can lie better than I can tell the truth.
+408	00:23:46	00:23:49	Better to know his lies before we go to trial.
+409	00:23:49	00:23:51	I don't think it's going to trial.
+410	00:23:51	00:23:52	We've got time.
+411	00:23:52	00:23:56	Seminal DNA's being processed as we speak.
+412	00:23:56	00:23:58	This case can break any minute.
+413	00:24:00	00:24:01	I'm not giving up.
+414	00:24:01	00:24:03	I'm just being realistic.
+415	00:24:03	00:24:07	Come on, you know, Warrick, we don't just call these cases RUSH 'cause we're in a hurry.
+416	00:24:07	00:24:11	It's a RUSH 'cause our pulse races, it's a rush when we nail the guy...
+417	00:24:12	00:24:14	I like that.
+418	00:24:15	00:24:17	Oh, hey! Hey, boss!
+419	00:24:19	00:24:20	Yes?
+420	00:24:20	00:24:23	I Just ID'ed the substance from Rachel Lyford's wrist.
+421	00:24:23	00:24:25	Same substance found on the sheets.
+422	00:24:25	00:24:27	Have you told Warrick? He's the lead on this.
+423	00:24:27	00:24:30	Yeah, about Warrick, what exactly happened in court today?
+424	00:24:30	00:24:32	I tried to talk to him, he just shut down.
+425	00:24:32	00:24:34	He just shut you down.
+426	00:24:34	00:24:36	What is the substance?
+427	00:24:36	00:24:38	Uh... wax.
+428	00:24:38	00:24:39	What kind of wax?
+429	00:24:39	00:24:43	Uh, still working on that, but I can tell you that it does have a low melting point.
+430	00:24:43	00:24:45	The GCMS doesn't have a wax library.
+431	00:24:45	00:24:47	I've ordered up a reference from the New Jersey state lab.
+432	00:24:47	00:24:48	RUSH.
+433	00:24:48	00:24:50	Okay.
+434	00:24:51	00:24:54	Cross-check the product labels off the Internet.
+435	00:24:56	00:24:58	And, uh, listen, if you need someone to talk to...
+436	00:24:58	00:24:59	Yeah, when's a good time?
+437	00:24:59	00:25:02	We have a psychologist here on Tuesdays and Fridays.
+438	00:25:11	00:25:13	DNA on the toilet flusher.
+439	00:25:13	00:25:16	On the Three-Ten, we're five seconds out.
+440	00:25:16	00:25:20	Three, two, one.
+441	00:25:24	00:25:25	Sorry.
+442	00:25:27	00:25:30	Suspect's DNA is inconsistent with the semen found at the scene.
+443	00:25:30	00:25:32	Great.
+444	00:25:32	00:25:37	Hey, Grissom, that sheriff's checked with just about every tech in the lab looking for you.
+445	00:25:37	00:25:39	He's bugging for an update.
+446	00:25:39	00:25:40	I suggest you avoid him.
+447	00:25:41	00:25:42	Why? What happened?
+448	00:25:42	00:25:44	Our only suspect may be innocent.
+449	00:25:48	00:25:56	You're saying that the DNA results exclude our suspect, but couldn't the semen have come from a prior sexual encounter Fife still could have raped and murdered Rachel.
+450	00:25:56	00:25:58	Well, the toilet bowl was clean.
+451	00:25:58	00:26:03	The semen belongs to whoever flushed the toilet last, but there was a drop, not a smear.
+452	00:26:03	00:26:13	Look, we have no evidence that he raped her, no evidence that he killed her, and even if we consider the invisible evidence, it still doesn't give us enough to put him at the scene of the crime during the commission of the crime.
+453	00:26:13	00:26:16	Our trinity of evidence is incomplete.
+454	00:26:16	00:26:20	Okay, so, for argument's sake, let's assume that Fife didn't put the knife in the car.
+455	00:26:20	00:26:21	How did it get there?
+456	00:26:21	00:26:23	Okay, um, does he live alone?
+457	00:26:23	00:26:24	Yeah.
+458	00:26:25	00:26:26	Recently separated.
+459	00:26:26	00:26:27	His wife moved back to Albuquerque.
+460	00:26:27	00:26:29	And no one else had access to his vehicle.
+461	00:26:29	00:26:32	Was there any sign of forced entry?
+462	00:26:32	00:26:33	No sign of forced entry.
+463	00:26:33	00:26:35	And what evidence is still outstanding?
+464	00:26:35	00:26:36	The wax.
+465	00:26:36	00:26:39	What's-his-name is still analyzing it.
+466	00:26:39	00:26:42	Well, I know that there was wax on the sheets and the victim's body.
+467	00:26:42	00:26:43	How about the murder weapon?
+468	00:26:44	00:26:45	I didn't notice, but I wasn't looking.
+469	00:26:45	00:26:47	Doesn't matter.
+470	00:26:47	00:26:48	Knife's excluded.
+471	00:26:48	00:26:52	The exclusionary rule only applies to the person whose constitutional rights were violated.
+472	00:26:52	00:26:56	If we have another suspect, then the knife is back in play. Grissom?
+473	00:27:03	00:27:05	I'm sorry. You look lost.
+474	00:27:05	00:27:07	I've been calling your cell.
+475	00:27:07	00:27:11	Well, we get bad reception at CSI. Listen, if this is about dinner, I'm free next week.
+476	00:27:11	00:27:12	I'll be having the fish.
+477	00:27:12	00:27:14	We have nine hours left on the clock, Grissom.
+478	00:27:15	00:27:19	Well, the investigation, which is under my purview, has taken an unexpected turn.
+479	00:27:19	00:27:21	So, when I know something, you'll know something.
+480	00:27:21	00:27:23	I don't like surprises.
+481	00:27:23	00:27:25	Me, neither.
+482	00:27:25	00:27:27	What, you're not going to tell me anything?
+483	00:27:27	00:27:29	No.
+484	00:27:31	00:27:33	Okay.
+485	00:27:34	00:27:35	For now.
+486	00:27:35	00:27:36	Mm-hmm.
+487	00:28:49	00:28:50	Checking my work?
+488	00:28:50	00:28:52	Oh, I'm just looking around.
+489	00:28:55	00:28:57	What are you thinking?
+490	00:28:57	00:29:01	Well, her body left behind this void.
+491	00:29:02	00:29:03	The attacker was on top.
+492	00:29:03	00:29:04	He held her down by her wrists.
+493	00:29:04	00:29:07	Which would explain the transfer of wax from him to her.
+494	00:29:07	00:29:08	Yes.
+495	00:29:09	00:29:11	Pin me down.
+496	00:29:16	00:29:19	She would have struggled.
+497	00:29:21	00:29:23	Then, she gave up.
+498	00:29:25	00:29:30	Afterward, when he got up, he put his hands on the sheet for leverage.
+499	00:29:33	00:29:35	Like this.
+500	00:29:35	00:29:39	Which explains how the wax got from him to the sheets.
+501	00:29:39	00:29:40	Yes.
+502	00:29:41	00:29:46	Grissom, um, I, um, wanted to talk to you about something.
+503	00:29:47	00:29:49	Go ahead.
+504	00:29:49	00:29:52	Well, you know, I applied for the promotion for the key position.
+505	00:29:52	00:29:53	Your application's on my desk.
+506	00:29:53	00:29:56	About that-- I, um... I needed to know...
+507	00:29:56	00:29:58	I...
+508	00:29:58	00:30:05	I wanted to make sure, rather, that anything that happened or didn't happen between us won't be a factor.
+509	00:30:08	00:30:10	Never mind.
+510	00:30:10	00:30:12	I-I shouldn't have said anything.
+511	00:30:12	00:30:14	I, um...
+512	00:30:14	00:30:19	I'm always over-talking around you.
+513	00:30:25	00:30:26	Have you ever heard of body wax?
+514	00:30:26	00:30:29	Made with soy, burns clean.
+515	00:30:29	00:30:31	Drip it all over your partner's body.
+516	00:30:31	00:30:35	I thought that we installed a fire-wall for sites like these.
+517	00:30:35	00:30:36	This is research.
+518	00:30:36	00:30:38	Body wax has been eliminated.
+519	00:30:38	00:30:39	What have you got?
+520	00:30:39	00:30:42	Well, I've I.D.'d the wax.
+521	00:30:42	00:30:49	But, per Grissom, I am not allowed to release any of my results except to the lead CSI, and that would be Warrick.
+522	00:30:49	00:30:50	I've already paged him.
+523	00:30:50	00:30:51	Give me.
+524	00:30:54	00:30:55	Axion Car Wax.
+525	00:30:55	00:31:00	Contains carnuba wax, butyl cellusolve and cationic surfactant.
+526	00:31:00	00:31:02	Exact same ratio as the exemplars.
+527	00:31:02	00:31:03	Ah.
+528	00:31:03	00:31:05	There's a little souvenir for you.
+529	00:31:05	00:31:06	Thank you.
+530	00:31:06	00:31:09	Axion Wax is industrial grade.
+531	00:31:09	00:31:12	It's sold to car washes for commercial use only.
+532	00:31:13	00:31:15	Yeah. Fife's an electrician.
+533	00:31:15	00:31:19	I doubt he would come into contact with that at work.
+534	00:31:19	00:31:21	Then, we need to know where he gets his car washed.
+535	00:31:21	00:31:27	Except, if we ask him, we show our cards, and his lawyer will know that we're looking in another direction.
+536	00:31:27	00:31:31	Yeah, then he'll petition Judge Brenner for Fife's immediate release.
+537	00:31:32	00:31:34	How do you feel about letting him walk?
+538	00:31:34	00:31:37	We've got, what, less than seven hours.
+539	00:31:39	00:31:40	Let's not pull any punches.
+540	00:31:40	00:31:44	If the evidence is leading us away from Fife, I say we go with it.
+541	00:31:49	00:31:53	Mr. Fife, let's establish a sequence of events.
+542	00:31:53	00:32:00	Walk us through the night of the party at your apartment complex right up until your arrest the next day.
+543	00:32:00	00:32:02	Don't skip a beat.
+544	00:32:02	00:32:04	Devil's in the details, huh?
+545	00:32:04	00:32:05	Could be.
+546	00:32:08	00:32:11	I hung out until about midnight.
+547	00:32:11	00:32:13	Drank my six pack.
+548	00:32:13	00:32:15	Hit on a couple girls.
+549	00:32:15	00:32:17	Struck out.
+550	00:32:17	00:32:21	Went back to my apartment, passed out.
+551	00:32:21	00:32:29	In the morning, I drove up to Green Valley and installed a chandelier, two sconces.
+552	00:32:29	00:32:34	At noon, I went back to my apartment, and I made a tuna fish sandwich.
+553	00:32:35	00:32:40	Lettuce, tomato, spoon of relish.
+554	00:32:40	00:32:41	Wheat bread.
+555	00:32:41	00:32:47	Then... I took a leak.
+556	00:32:47	00:32:49	I don't want to skip a beat.
+557	00:32:49	00:32:50	Outstanding.
+558	00:32:50	00:32:53	So, then what?
+559	00:32:53	00:32:56	So, I liked your tough act yesterday.
+560	00:32:56	00:33:00	Huh?
+561	00:33:00	00:33:01	I hand out the assignments.
+562	00:33:02	00:33:04	This isn't a negotiation.
+563	00:33:04	00:33:07	What, too much?
+564	00:33:07	00:33:09	Not enough.
+565	00:33:09	00:33:12	That afternoon, I had a job in Henderson.
+566	00:33:12	00:33:16	On my way, I stopped, uh, at a car wash.
+567	00:33:16	00:33:18	It was a lunch-hour discount.
+568	00:33:18	00:33:19	What car wash?
+569	00:33:19	00:33:21	Reliant, on Chardon Circle.
+570	00:33:21	00:33:22	It's about a block from my apartment.
+571	00:33:22	00:33:24	Why are you asking about a car wash?
+572	00:33:24	00:33:28	At Reliant, did the attendant say anything about your broken taillight?
+573	00:33:28	00:33:33	No. Yeah, in fact, I mean, they should've said something.
+574	00:33:33	00:33:37	The tenor of these questions leads me to believe the focus of your investigation has shifted.
+575	00:33:37	00:33:38	This conversation is over, Michael.
+576	00:33:45	00:33:47	I just talked to the manager.
+577	00:33:47	00:33:52	Of course, he didn't recognize Fife from the six pack of photos.
+578	00:33:52	00:33:54	We're cleared to look around.
+579	00:33:54	00:33:59	By bringing your car to a car wash, you pretty much open it up into the entire world, right?
+580	00:33:59	00:34:01	Vehicles are most vulnerable down that tunnel.
+581	00:34:01	00:34:06	So, I'm thinking that Michael Fife's taillight was intact when he arrived.
+582	00:34:06	00:34:08	I'm sure the attendant would have told him something.
+583	00:34:08	00:34:09	They're liable, right?
+584	00:34:09	00:34:21	Exactly. So, his car proceeds on down the line, and then inside the tunnel, someone, presumably our killer, stashes the knife, breaks the taillight.
+585	00:34:21	00:34:23	Busted taillight's an equipment violation.
+586	00:34:23	00:34:24	NRS 485.511.
+587	00:34:25	00:34:27	Yeah, you'd get pulled over for that pretty quickly.
+588	00:34:27	00:34:32	And the killer is banking on some ambitious cop searching the vehicle.
+589	00:34:32	00:34:34	Okay, so, a broken taillight.
+590	00:34:34	00:34:38	The pieces fall into the water.
+591	00:34:38	00:34:41	The fragments have to run off through some kind of drain.
+592	00:34:41	00:34:43	Uh, excuse me, sir.
+593	00:34:43	00:34:46	A-Are you the manager?
+594	00:34:46	00:34:48	Yeah.
+595	00:34:48	00:34:50	Does your drain have a filter?
+596	00:34:50	00:34:52	There's a screen trap behind the drain.
+597	00:34:52	00:34:55	Catches everything bigger than an ice cream sprinkle.
+598	00:34:55	00:34:58	Well, when was the last time you had it cleaned?
+599	00:34:58	00:34:59	About a month ago. Why?
+600	00:34:59	00:35:02	I'm going to have to clean your trap.
+601	00:35:05	00:35:06	Sorry, lady.
+602	00:35:06	00:35:07	Can't just close down the shop.
+603	00:35:07	00:35:08	I got customers.
+604	00:35:08	00:35:12	I understand, sir, but you know, just let us shut you down for about an hour or so.
+605	00:35:12	00:35:16	Otherwise, we can get a search warrant, come back on Saturday, your busiest day, and, well...
+606	00:35:16	00:35:17	it's up to you.
+607	00:35:17	00:35:22	Soon as that Porsche Cayenne works its way through the line...
+608	00:35:23	00:35:25	I'll shut her off.
+609	00:35:25	00:35:28	The Crime Lab thanks you for your cooperation, sir.
+610	00:35:29	00:35:30	You're welcome.
+611	00:35:30	00:35:31	All right, Sassy.
+612	00:35:46	00:35:49	Look what I found.
+613	00:35:49	00:35:52	A broken taillight.
+614	00:35:52	00:35:57	Hey, could two cars get too close to each other and have an accident in here?
+615	00:35:57	00:35:58	There's no way.
+616	00:35:58	00:35:59	Photocell technology.
+617	00:35:59	00:36:03	Whole system shuts down if the cars get within three feet of each other.
+618	00:36:03	00:36:07	Believe me, in this tunnel, accidents do not happen.
+619	00:36:07	00:36:10	Which means the taillight was broken on purpose.
+620	00:36:13	00:36:19	Okay, uh, thank you, thanks for coming down here and volunteering to give a DNA sample.
+621	00:36:19	00:36:26	We know you work hard, so, in an effort to be nice, we've provided some lunch, some burgers and stuff, compliments of the Las Vegas Police Department.
+622	00:36:26	00:36:27	Okay, let's form two lines now.
+623	00:36:27	00:36:32	Everybody whose birthday is from January to June in this line, everybody else over here.
+624	00:36:33	00:36:35	How long is this crap going to take?
+625	00:36:36	00:36:38	As long as it takes, okay?
+626	00:36:38	00:36:39	Thank you.
+627	00:36:39	00:36:46	All right, you guys, I'm going to be swabbing your left cheek, so, uh... try not to bite down.
+628	00:36:47	00:36:50	Uh, ma'am, I got to take a leak.
+629	00:36:51	00:36:52	Well, you just hold on there.
+630	00:36:52	00:36:54	It's only going to take a second.
+631	00:36:55	00:36:56	Open.
+632	00:37:02	00:37:04	Thank you.
+633	00:37:10	00:37:15	Uh, Akers, do me a favor and escort this guy to the john.
+634	00:37:15	00:37:16	Let's go.
+635	00:37:24	00:37:27	You guys are making a big mistake.
+636	00:37:27	00:37:30	I don't know a Rachel Lyford, I swear.
+637	00:37:30	00:37:34	Really? Well, I swear that you do.
+638	00:37:34	00:37:38	I found semen on the toilet in Rachel's apartment that matches your DNA.
+639	00:37:38	00:37:42	You don't have to respond, but if you can explain the semen...
+640	00:37:44	00:37:46	I know a Rachel, okay?
+641	00:37:46	00:37:47	I never knew her last name.
+642	00:37:47	00:37:52	Did the girl that you guys are looking for live at the Saturn Arms apartments?
+643	00:37:52	00:37:53	So, you do know her.
+644	00:37:53	00:37:56	I... here's the deal, okay?
+645	00:37:56	00:37:59	A car wax costs 60 bucks, okay?
+646	00:37:59	00:38:00	We give you discounts sometimes.
+647	00:38:00	00:38:06	I'll show up early and, you know, I'll go to a girl's apartment before work, or whatever, you know, and all the guys do this.
+648	00:38:06	00:38:09	So, Rachel hired you to wax her car, is that it?
+649	00:38:09	00:38:12	I only charged her 25.
+650	00:38:14	00:38:16	Hi.
+651	00:38:16	00:38:18	Shiny as a new penny.
+652	00:38:21	00:38:25	And your story is that Rachel came on to you?
+653	00:38:25	00:38:27	Yeah. She was all over me.
+654	00:38:27	00:38:31	She answered the door in, like, this sexy little thing, and stuff.
+655	00:38:31	00:38:34	Most of the time, when a woman answers the door, it's in sweats, they got the money ready.
+656	00:38:34	00:38:36	This was not like that.
+657	00:38:36	00:38:38	What am I supposed to think?
+658	00:38:38	00:38:39	I don't think so.
+659	00:38:41	00:38:44	Hey, I'm all done.
+660	00:38:46	00:38:48	Uh, hold on a second.
+661	00:38:51	00:38:54	Okay, here you go.
+662	00:38:57	00:38:58	Stop it! Stop it!
+663	00:39:00	00:39:05	After raping her, you realized she had your name, knew where you worked.
+664	00:39:05	00:39:10	One call to the cops and you're looking at 25 to life.
+665	00:39:19	00:39:21	You freaked.
+666	00:39:21	00:39:23	So, you killed her.
+667	00:39:41	00:39:44	Forget life; you're looking at the death penalty.
+668	00:39:44	00:39:45	Lady, you are whacked.
+669	00:39:45	00:39:50	You didn't find the murder weapon in my client's car.
+670	00:39:50	00:39:54	Your client went from Rachel's apartment to his job at the car wash.
+671	00:39:54	00:39:56	He took the knife with him.
+672	00:39:56	00:40:02	A few hours later, Michael Fife drove in, and he planted the knife in his car.
+673	00:40:09	00:40:13	He just happened to hide the murder weapon in a car that belonged to one of Rachel's neighbors?
+674	00:40:13	00:40:14	It wasn't a coincidence.
+675	00:40:14	00:40:15	It was your lucky day.
+676	00:40:15	00:40:19	You recognized the parking permit in his car window.
+677	00:40:21	00:40:25	You broke the taillight, you stashed the knife.
+678	00:40:25	00:40:28	Instant suspect.
+679	00:40:33	00:40:34	You recognize these?
+680	00:40:37	00:40:42	The name on the dog tags is Aaron Lyford.
+681	00:40:42	00:40:44	That's Rachel's father.
+682	00:40:48	00:40:50	She gave them to me.
+683	00:40:50	00:40:52	She gave them to you.
+684	00:40:53	00:40:55	Why did you try to hide them?
+685	00:40:55	00:40:57	Why did you take off to the bathroom with the dog tags on?
+686	00:40:57	00:41:00	And you came back with them missing.
+687	00:41:00	00:41:01	So, I checked it out.
+688	00:41:14	00:41:16	This is an autopsy photo.
+689	00:41:18	00:41:20	The abrasions are evidence.
+690	00:41:21	00:41:23	Those dog tags were ripped from her neck.
+691	00:41:30	00:41:34	She gave them to you... over her dead body.
+692	00:41:38	00:41:41	The defendant arrived at the station on his own accord.
+693	00:41:42	00:41:46	He provided us with a sample of his DNA, and we rushed that sample to our lab for analysis.
+694	00:41:46	00:41:52	You compared Mr. Quinn's DNA to DNA from semen recovered at the crime scene, is that correct?
+695	00:41:52	00:41:53	Yes, that's correct.
+696	00:41:53	00:41:55	It was a match.
+697	00:41:55	00:41:57	Judge, we have no further questions.
+698	00:41:59	00:42:01	Ms. Finn?
+699	00:42:01	00:42:05	Your Honor, we have no questions for CSI Brown.
+700	00:42:05	00:42:17	Based on the evidence, I find sufficient probable cause to order the defendant to stand trial for the sexual assault and murder of Rachel Lyford.
+701	00:42:37	00:42:39	I'm terribly sorry for your loss.
+702	00:42:39	00:42:43	And your father's tags are in a safe place.
+703	00:42:43	00:42:45	I'll make sure they get back to you.
+704	00:42:45	00:42:46	Thank you for everything.
+705	00:42:46	00:42:48	You're more than welcome.
+706	00:42:48	00:42:50	Hey, sorry I'm late.
+707	00:42:50	00:42:52	Well, I think you're right on time.
+708	00:42:52	00:42:55	There must be a press conference nearby, huh?
+709	00:42:56	00:42:58	I wanted to include CSI Brown in this.
+710	00:42:58	00:43:01	There might be a few questions outside my...
+711	00:43:01	00:43:02	Purview?
+712	00:43:02	00:43:05	Want to meet me out in the corridor ASAP?
+713	00:43:05	00:43:09	Sheriff, I'm not too good with cameras.
+714	00:43:10	00:43:11	You won't have to talk much.
+715	00:43:11	00:43:14	Grissom, thanks.
+716	00:43:14	00:43:15	For what?
+717	00:43:15	00:43:18	See you back at the lab.

@@ -1,697 +1,683 @@
-,start,end,text
-0,00:00:17,00:00:19,Stop! Stop!
-1,00:00:19,00:00:22,CROWD: Stop!
-2,00:00:45,00:00:46,Why do we always come here?
-3,00:00:46,00:00:48,Open 24 hours.
-4,00:00:48,00:00:50,Everything in Vegas is open 24 hours.
-5,00:00:50,00:00:51,It's cheap.
-6,00:00:51,00:00:53,STOKES: Smells like bacon in here.
-7,00:00:53,00:00:54,Slide over.
-8,00:00:54,00:00:56,That scene took forever.
-9,00:00:56,00:00:58,"We were there like, what, nine hours?"
-10,00:00:58,00:00:59,Eleven.
-11,00:00:59,00:01:02,A dead lawyer and 200 eyewitnesses-- it's going to take a while.
-12,00:01:03,00:01:06,"Come for a wedding, stay for the funeral."
-13,00:01:06,00:01:08,Why do we always eat here?
-14,00:01:08,00:01:09,It's tradition.
-15,00:01:09,00:01:10,"SIDLE: Ah, tradition."
-16,00:01:10,00:01:14,Like becoming property exchange between your father and your husband?
-17,00:01:14,00:01:16,"Oh, that's not what a wedding is."
-18,00:01:16,00:01:18,It's a public declaration of love.
-19,00:01:18,00:01:19,I'm with Vince Vaughn on this one.
-20,00:01:19,00:01:23,"Dozens of horny, single women with access to an open bar and coupling on their mind."
-21,00:01:24,00:01:26,WAITRESS: Weddings are a Rorschach.
-22,00:01:26,00:01:28,Everybody sees what they want to see.
-23,00:01:28,00:01:29,My first five were good.
-24,00:01:29,00:01:33,"ANCHOR: Noted criminal defense attorney, Diane Chase was killed yesterday..."
-25,00:01:33,00:01:37,"SANDERS: We haven't even gone back to the lab yet, and we're already on TV."
-26,00:01:37,00:01:42,"In a tragic twist, Ms. Chase was killed while attending her son's wedding."
-27,00:01:42,00:01:51,"She was best known for taking on the toughest cases, and it was her defense of high-profile, organized crime associates that really made her a name in legal circles."
-28,00:01:51,00:01:54,"If it was an intelligent question, I'd stop to answer it."
-29,00:01:54,00:02:05,"ANCHOR: Most recently, she represented Dino Fatelli of the Fatelli crime family, who was sentenced to life last month for the brutal slaying of casino mogul Remy James."
-30,00:02:05,00:02:08,The stones on these guys-- to take her out at her son's wedding?
-31,00:02:08,00:02:10,"Pass the cream, will you?"
-32,00:02:17,00:02:20,"Dude, where's your car?"
-33,00:02:20,00:02:22,It's parked right...
-34,00:02:33,00:02:35,(tires screech)
-35,00:02:35,00:02:36,Incoming.
-36,00:02:36,00:02:39,I'll talk. You guys just look apologetic.
-37,00:02:41,00:02:45,"All right, let me see if I understand this correctly."
-38,00:02:45,00:03:05,"You let one of the members of your team drive his personal vehicle to a crime scene investigation; and then, even though there was a perfectly good crime scene vehicle there, that personal car was crammed with every bit of evidence collected at a major murder investigation, because two of you were maxed out on overtime."
-39,00:03:05,00:03:15,"And then the driver, of said car, instead of securing that evidence in the lab, gave priority to his need for runny eggs."
-40,00:03:15,00:03:22,And the aforementioned vehicle was stolen from a parking lot filled with police cars.
-41,00:03:23,00:03:25,Is there anything I missed?
-42,00:03:25,00:03:32,"GRISSOM: Just this: Even if we recover the vehicle, the chain of custody has been broken, so all the evidence has been compromised."
-43,00:03:32,00:03:35,No judge will allow any of it to be admitted into court.
-44,00:03:35,00:03:41,"Also, we released the crime scene, so it, too, is compromised, leaving us nothing to go back for."
-45,00:03:41,00:03:44,Thank you for clarifying the situation.
-46,00:03:46,00:03:48,(car door closes)
-47,00:03:48,00:03:49,It could've been worse.
-48,00:04:27,00:04:30,"We were seated at a booth, with clear visual access to the vehicle."
-49,00:04:30,00:04:32,"A delivery truck pulls up, blocks our view."
-50,00:04:32,00:04:34,For how long?
-51,00:04:34,00:04:36,"Two, three minutes, tops."
-52,00:04:36,00:04:37,What kind of truck?
-53,00:04:37,00:04:40,"Bread, dairy... I can't remember."
-54,00:04:40,00:04:42,BRASS: Did you have an alarm?
-55,00:04:42,00:04:44,"Yeah. Yeah, it didn't go off."
-56,00:04:44,00:04:45,Are you sure it was locked?
-57,00:04:45,00:04:46,"Yeah, absolutely."
-58,00:04:46,00:04:48,"And I have a tracking system on my truck, too."
-59,00:04:48,00:04:50,I called it in as soon as I realized it was missing.
-60,00:04:50,00:04:54,Okay. I'll follow up. There's about a dozen places to hide a tracking system on a car.
-61,00:04:54,00:04:55,I'm sure the Fatellis know 'em all.
-62,00:04:55,00:04:57,CURTIS: No broken glass.
-63,00:04:57,00:05:00,No bolts from a disengaged transmission.
-64,00:05:00,00:05:02,No tire treads or skid marks.
-65,00:05:02,00:05:04,"Hey, Jim."
-66,00:05:05,00:05:08,I need a ride.
-67,00:05:08,00:05:11,(chuckles)
-68,00:05:13,00:05:17,Internal Affairs Bureau is coming to take our statements.
-69,00:05:17,00:05:18,They'll want to know what's been lost.
-70,00:05:18,00:05:23,So let's not make ourselves look any worse than we already do.
-71,00:05:23,00:05:27,"Write down everything-- evidence collected, interview notes, etc... Every detail."
-72,00:05:27,00:05:30,No one leaves until they've given their account of the event.
-73,00:05:30,00:05:34,(rock music plays)
-74,00:05:35,00:05:37,(cell phone beeps off)
-75,00:05:42,00:05:43,(exhales)
-76,00:05:43,00:05:47,"So aside from the accident, Mrs. Lincoln, how was the show?"
-77,00:05:47,00:05:48,Not good.
-78,00:05:48,00:05:49,Fatelli was handled by the day shift.
-79,00:05:49,00:05:51,Let's pull the file.
-80,00:05:51,00:05:52,And compare it to what?
-81,00:05:52,00:05:53,We've got no crime scene photos.
-82,00:05:53,00:05:56,"I have mine, but they're only of the ballroom."
-83,00:05:56,00:05:58,But every wedding these days has a videographer.
-84,00:05:58,00:06:00,We got to get the video.
-85,00:06:37,00:06:39,(shutter clicks)
-86,00:06:50,00:06:52,(clippers buzzing)
-87,00:06:58,00:06:59,"Oh. Hey, Grissom."
-88,00:06:59,00:07:02,I'm sorry to hear about the setback.
-89,00:07:02,00:07:05,"Yeah, well, it's all about the body now, David."
-90,00:07:05,00:07:10,There was a vital response in the ligature marks around her ankles.
-91,00:07:10,00:07:14,"So she might have been unconscious, but she probably was still alive when she was tied to the car."
-92,00:07:14,00:07:17,"Yeah, all the significant trauma was to the back of her head."
-93,00:07:17,00:07:19,We'll know more after autopsy.
-94,00:07:19,00:07:22,UNDERSHERIFF: So you tell me how I'm going to spin this thing.
-95,00:07:22,00:07:27,"I've got a dead lawyer, a known enemy of the department, who made her career picking us apart."
-96,00:07:27,00:07:29,"And now, we've lost the evidence in her murder."
-97,00:07:29,00:07:31,Even I don't buy it.
-98,00:07:31,00:07:33,The Fatellis are on our radar.
-99,00:07:33,00:07:35,Press is going to eat us alive.
-100,00:07:35,00:07:38,"Six month trial, we finally get Fatelli shipped off to Lompoc."
-101,00:07:38,00:07:40,He's not even in the state.
-102,00:07:40,00:07:42,How long are his arms?
-103,00:07:42,00:07:43,I talked to the feds.
-104,00:07:43,00:07:45,"They're checking the call logs, visitors' logs."
-105,00:07:45,00:07:48,It's going to look like the CSIs were paid off.
-106,00:07:48,00:07:52,Nobody's going to believe that this was an unfortunate series of coincidences.
-107,00:07:52,00:07:55,"So my choices are: we're idiots, or we're dirty."
-108,00:07:55,00:07:57,So which are we?
-109,00:07:57,00:07:58,It was a big scene.
-110,00:07:58,00:08:02,I threw tons of stuff into the back of your truck.
-111,00:08:02,00:08:04,Figured I'd just sort it out later.
-112,00:08:04,00:08:06,"Print lifts, swabs, my camera."
-113,00:08:06,00:08:11,"Well, maybe if we talk it out, it will help."
-114,00:08:11,00:08:14,"I started with the ""Just Married"" convertible."
-115,00:08:14,00:08:17,"Well, thankfully, that didn't get stolen. Where is it?"
-116,00:08:17,00:08:23,"Because of possible Fatelli involvement, the undersheriff ordered it swept at the scene before they brought it back to the lab."
-117,00:08:23,00:08:24,It could be hours.
-118,00:08:24,00:08:26,Did you get anything from it?
-119,00:08:26,00:08:29,Prints...
-120,00:08:32,00:08:34,I remember David saying...
-121,00:08:34,00:08:47,"""You'd think she'd know better than to wear white on the bride's big day."" So there we were at Cupid's Kiss, a Nuptial Neverland where the cheese factor was dangerously high and the flowers were obviously fake."
-122,00:08:52,00:08:56,Can the love be real when the flowers aren't?
-123,00:09:04,00:09:07,(speaking gibberish)
-124,00:09:07,00:09:11,"Oh, you really have a thing about weddings, don't you?"
-125,00:09:11,00:09:13,"Hey, I didn't interview them."
-126,00:09:13,00:09:14,It was just my impression.
-127,00:09:20,00:09:22,"SIDLE: Hi, there. Hi."
-128,00:09:22,00:09:23,"I'm, uh, Sara Sidle."
-129,00:09:23,00:09:24,I'm with the crime lab.
-130,00:09:24,00:09:26,"Bryce Gundy, groom's side."
-131,00:09:26,00:09:30,Did you guys decorate the wedding car with those beer cans? Yep.
-132,00:09:30,00:09:31,Did you drink all the beer first?
-133,00:09:31,00:09:33,Yep. Awesome.
-134,00:09:33,00:09:35,Did you also tie the groom's mom to the bumper?
-135,00:09:35,00:09:36,Nope.
-136,00:09:36,00:09:41,"Um, I'm going to need to get your fingerprints so I can compare them to the prints that I got off the car."
-137,00:09:41,00:09:43,Cool.
-138,00:09:43,00:09:45,You are aware that someone has died?
-139,00:09:45,00:09:50,Nobody's going to miss her except her son and her cell phone provider.
-140,00:09:50,00:09:51,"Oh, what do you mean?"
-141,00:09:51,00:09:53,She's creepy close to Adam.
-142,00:09:53,00:09:55,Must have called him 15 times a day.
-143,00:09:55,00:09:56,Huh.
-144,00:09:56,00:09:59,Do you mind just putting your finger right here?
-145,00:09:59,00:10:00,"Oh! Okay, Mr. Gundy..."
-146,00:10:00,00:10:02,I think I love you.
-147,00:10:02,00:10:04,"Yeah, thank you. You need to sit down."
-148,00:10:04,00:10:05,Have a club soda.
-149,00:10:05,00:10:10,"Um, um, excuse me, you dropped this."
-150,00:10:10,00:10:11,Sorry about him. (laughing)
-151,00:10:11,00:10:13,Why do the jerks get all the tail?
-152,00:10:13,00:10:16,"Sara Sidle, crime lab."
-153,00:10:16,00:10:20,"I'm, uh, Mikey. Best man. Brother of the bride."
-154,00:10:20,00:10:22,"Yeah, it's, you know. Yeah."
-155,00:10:22,00:10:24,"Hey, this is a pretty crazy-ass situation, huh?"
-156,00:10:24,00:10:28,They say it's good luck if it rains on your wedding day.
-157,00:10:28,00:10:29,What do you think about a dead body?
-158,00:10:29,00:10:31,What do you think?
-159,00:10:31,00:10:33,I think my sister's better off.
-160,00:10:33,00:10:35,You ever think about getting married?
-161,00:10:35,00:10:39,"Um... I'm just saying, you know, I think Bryce could make an honest woman out of you."
-162,00:10:39,00:10:40,(laughing)
-163,00:10:40,00:10:42,"Oh, look at that-- your rejection broke his little heart."
-164,00:10:42,00:10:44,STOKES: Should I put flirting in the case file?
-165,00:10:44,00:10:47,I was printing.
-166,00:10:47,00:10:50,He was flirting.
-167,00:10:50,00:10:56,"Uni found the tracking device from Nick's car in a trash can, a couple blocks from the diner."
-168,00:10:56,00:10:57,Pro job.
-169,00:10:57,00:10:59,"Has it been to Prints? Well, no."
-170,00:10:59,00:11:02,"But if it was the Fatellis, it's going to be clean."
-171,00:11:02,00:11:06,Yeah. Nick's truck has no street value.
-172,00:11:06,00:11:08,The value was what was inside.
-173,00:11:22,00:11:23,Did you get a number?
-174,00:11:23,00:11:27,"No. No, I didn't get anything."
-175,00:11:27,00:11:28,She must have put it in my pocket.
-176,00:11:28,00:11:30,Mindy.
-177,00:11:31,00:11:35,You think she'd know better than to wear white on the bride's big day.
-178,00:11:40,00:11:43,STOKES: The perfume of American beauties was everywhere.
-179,00:11:43,00:11:50,Though a rose by any other name would have smelled just as sweet on a day with that much love in the air.
-180,00:12:03,00:12:05,"Ladies, hi, how you doing?"
-181,00:12:05,00:12:06,Hi. Hi.
-182,00:12:06,00:12:08,I'm with the crime lab. My name's Nick Stokes.
-183,00:12:08,00:12:10,"I'm going to need to print you both, okay?"
-184,00:12:10,00:12:14,Mindy Faberge. Bride's side.
-185,00:12:15,00:12:16,"Um, can we go in and change."
-186,00:12:16,00:12:19,I can't get warm.
-187,00:12:19,00:12:21,Cindy Jansen. I think she's still in shock.
-188,00:12:21,00:12:23,You were in the wedding party.
-189,00:12:23,00:12:26,Did you spend most of the day here with Ms. Chase?
-190,00:12:27,00:12:29,She was on her best behavior.
-191,00:12:29,00:12:31,Outside that toast she gave.
-192,00:12:31,00:12:33,There you go. Thank you.
-193,00:12:33,00:12:36,"Um, well, I think that was the alcohol talking."
-194,00:12:36,00:12:39,"So, she was a drinker?"
-195,00:12:39,00:12:45,"By the end of the toast, she was slurring her words and swaying all over the place."
-196,00:12:45,00:12:49,I almost felt bad for her.
-197,00:12:49,00:12:53,Anyone interested in the wedding DVD?
-198,00:12:53,00:12:54,Yeah. (all agreeing)
-199,00:12:54,00:13:00,"Courtesy of Frank Rosetti, owner of Cupid's Kiss."
-200,00:13:05,00:13:07,"All right, where do you want to start?"
-201,00:13:07,00:13:09,ALL: The toast.
-202,00:13:13,00:13:16,Everyone...
-203,00:13:16,00:13:18,Everyone.
-204,00:13:18,00:13:20,I want to thank your for coming.
-205,00:13:20,00:13:31,"You know, the Bible says, ""Love is strong as death,"" and as mother of the groom, a wedding is bittersweet."
-206,00:13:31,00:13:35,You are giving up as much as you are gaining.
-207,00:13:35,00:13:45,In some cases you are giving... Oh... up much more.
-208,00:13:49,00:13:51,To hell with it.
-209,00:13:51,00:13:53,I'll wing it.
-210,00:13:56,00:13:58,My Adam...
-211,00:13:58,00:14:01,He studied at Oxford.
-212,00:14:01,00:14:04,He went to Harvard School of Business.
-213,00:14:04,00:14:15,"And of all the intelligent, wonderful, beautiful women he met along the way, he ended up with Jill."
-214,00:14:15,00:14:19,"Plain, little Jill."
-215,00:14:22,00:14:24,There's nothing wrong with her.
-216,00:14:24,00:14:26,But what's right with her?
-217,00:14:26,00:14:28,"I mean, even her name is boring."
-218,00:14:28,00:14:30,(chuckles)
-219,00:14:30,00:14:35,"Adam, it's all right to take a lover."
-220,00:14:35,00:14:40,You just don't have to end up marrying her.
-221,00:14:40,00:14:45,"I mean, do you really want to shallow our gene pool like this?"
-222,00:14:45,00:14:47,Oh...
-223,00:14:47,00:14:51,"Oh, I want to thank you all so much for coming."
-224,00:14:51,00:14:53,"Oh, I love you, Adam."
-225,00:14:53,00:14:56,"MAN: Hey, hey, good comedy, Diane..."
-226,00:14:56,00:14:58,Justifiable homicide?
-227,00:14:58,00:15:00,(video continues indistinctly)
-228,00:15:03,00:15:04,Thank you all for coming.
-229,00:15:06,00:15:09,"I love you, Adam."
-230,00:15:09,00:15:11,You talked to the bride.
-231,00:15:11,00:15:13,This seems like motive.
-232,00:15:13,00:15:14,Do you think she did it?
-233,00:15:15,00:15:16,When would she have had the time?
-234,00:15:17,00:15:22,You'd think she'd know better than to wear white on the bride's big day.
-235,00:15:26,00:15:31,"GRISSOM: Spring is but a song, where love and laughter are not wrong."
-236,00:15:31,00:15:37,"The blossoms of desire do belong, and Harmonia axyridis fly along."
-237,00:15:43,00:15:48,"JILL: For the past six months, she made my life hell."
-238,00:15:48,00:15:54,And so I told anyone who'd listen that she should die a fiery death.
-239,00:15:54,00:15:57,So now everyone's going to think that I killed her.
-240,00:15:57,00:15:59,Would you like to be more specific?
-241,00:15:59,00:16:10,"Okay, well, when we got engaged, she ran into the backyard and she screamed, ""Why, God? Why me?"" Okay, she wore white today."
-242,00:16:10,00:16:18,"She invited Adam's very, very attractive, very, um, single ex-girlfriend."
-243,00:16:18,00:16:27,"When she found out that I had registered for sporting goods, she went behind my back and she changed the registry to housewares, saying that I'd better learn how to cook, okay?"
-244,00:16:27,00:16:31,"I'm a vegetarian, and she demanded roast beef."
-245,00:16:32,00:16:35,"Um... Oh, and then... then there's the toast."
-246,00:16:35,00:16:37,The... the toast.
-247,00:16:37,00:16:40,Are you trying to make me think that you didn't kill her?
-248,00:16:40,00:16:44,I would never do that to Adam.
-249,00:16:44,00:16:51,I honestly don't know how such an amazing man came from-from... that.
-250,00:16:51,00:16:53,"Look, it wasn't just me, okay?"
-251,00:16:53,00:16:56,She fought with everyone today.
-252,00:16:56,00:17:03,She fought with the valets and the bridesmaids and the waiters.
-253,00:17:03,00:17:06,The caterer-- I thought for sure he was going to poison her.
-254,00:17:06,00:17:07,Want to see a crime scene?
-255,00:17:08,00:17:10,I'll show you a crime scene. Come here. Come here.
-256,00:17:10,00:17:11,"Look at this, huh?"
-257,00:17:11,00:17:15,What this woman had against the color peach-- I've never seen anything like it.
-258,00:17:15,00:17:20,"""If you think you're serving that flesh-colored abomination, and I'm paying for it, you can think again!"" Boom!"
-259,00:17:20,00:17:22,I'm a 42-year-old paisan. She scared me.
-260,00:17:22,00:17:26,I wouldn't be surprised if her pantyhose rebelled against her and tied themselves to the car.
-261,00:17:26,00:17:28,The dame was a pill.
-262,00:17:28,00:17:32,"I swear to God, she may have taken two or three years off my own life."
-263,00:17:32,00:17:35,"Weddings are a blood, sweat and tears marathon, my friend."
-264,00:17:35,00:17:36,I'm on a tight schedule.
-265,00:17:36,00:17:38,"12:00 noon, I got first intro of the couple."
-266,00:17:38,00:17:39,"12:30, salad course."
-267,00:17:39,00:17:41,"12:45, first dance."
-268,00:17:41,00:17:45,"1:00, chair dance, chicken dance, broom dance-- I don't care. I'm equal opportunity."
-269,00:17:45,00:17:46,"1:30, main course."
-270,00:17:46,00:17:48,"2:15, first toast groom's side."
-271,00:17:48,00:17:53,"If the best man shuts his mouth, at 2:16 we have the first toast on the bride's side."
-272,00:17:53,00:17:55,"3:00, we cut the cake. 3:30, bouquet toss."
-273,00:17:55,00:17:56,That's a tight schedule.
-274,00:17:56,00:17:59,She would have barely had time to go to the bathroom.
-275,00:17:59,00:18:01,I don't sell bridal diapers for nothing.
-276,00:18:01,00:18:04,"He was kidding about the diapers, right?"
-277,00:18:06,00:18:09,You're way too pretty to be a cop.
-278,00:18:10,00:18:13,"I need to ask you about your brother, Dino Fatelli."
-279,00:18:14,00:18:16,Dino always was the bad seed.
-280,00:18:16,00:18:19,I heard you guys share the taste for blood.
-281,00:18:19,00:18:25,"I once was lost, but now I am found."
-282,00:18:25,00:18:26,You and your brother keep in touch?
-283,00:18:26,00:18:28,"Yeah, yeah."
-284,00:18:28,00:18:31,Last thing he said was he didn't like the food at Lompoc.
-285,00:18:31,00:18:33,I told him to call his lawyer.
-286,00:18:33,00:18:35,It's too late now.
-287,00:18:35,00:18:38,Where were you yesterday afternoon?
-288,00:18:38,00:18:40,You want to crawl up my ass?
-289,00:18:40,00:18:41,You can take a number.
-290,00:18:41,00:18:43,No thanks.
-291,00:18:43,00:18:47,"50-to-one, Freddie the Feddy is out there right now talking to you guys."
-292,00:18:47,00:18:49,UNDERSHERIFF: Did you know you were made?
-293,00:18:50,00:18:53,Yeah. Not even Diane Chase could keep these guys out of jail.
-294,00:18:53,00:18:57,And we figure it's just a matter of time before we get something on Sylvano.
-295,00:18:57,00:19:00,Like another murder?
-296,00:19:00,00:19:02,Sorry.
-297,00:19:02,00:19:04,He didn't kill the lawyer.
-298,00:19:04,00:19:06,Runs numbers out of his bar all day.
-299,00:19:06,00:19:08,Trying to pass a kidney stone.
-300,00:19:08,00:19:10,Hates his wife and his girlfriend.
-301,00:19:10,00:19:12,I hear everything.
-302,00:19:12,00:19:14,Could order one of his guys to do it.
-303,00:19:14,00:19:16,The brothers like to be hands-on.
-304,00:19:17,00:19:21,And all we're hearing is them bitching about how somebody snatched their M.O...
-305,00:19:23,00:19:27,"ROBBINS: Based on my dissection, I've detected two separate events."
-306,00:19:27,00:19:31,I believe that this puncture wound happened first.
-307,00:19:31,00:19:35,The object lacerated a cerebral artery creating a subdural hematoma.
-308,00:19:35,00:19:44,"Then subsequent blows to her skull, from a ride behind the car, created additional fractures which caused diffuse bleeding on the brain, resulting in her death."
-309,00:19:44,00:19:46,So punctured and bobbled?
-310,00:19:46,00:19:47,Yeah.
-311,00:19:47,00:19:49,I autopsied the Fatellis' original victim.
-312,00:19:49,00:19:50,They're sadists.
-313,00:19:50,00:19:56,"First Remy James is dragged behind the Cadillac, and when he wouldn't talk, they shot him in every joint."
-314,00:19:56,00:20:01,"And when he still wouldn't talk, they finished him off with a shot to the head."
-315,00:20:01,00:20:04,The Fatellis don't mostly kill someone.
-316,00:20:04,00:20:06,"So you took the perimeter of the scene, right?"
-317,00:20:07,00:20:08,Yeah.
-318,00:20:08,00:20:10,"Well, I saw this guy in the shadows."
-319,00:20:10,00:20:11,Archie blew it up.
-320,00:20:11,00:20:14,He looks more like a suspect than a guest.
-321,00:20:14,00:20:17,That face look familiar?
-322,00:20:19,00:20:21,"Oh, yeah."
-323,00:20:21,00:20:24,"Yeah, I caught that guy trying to sleep one off in the bushes."
-324,00:20:24,00:20:26,That's the groom's old man.
-325,00:20:26,00:20:30,"Wow, I thought my wedding was bad."
-326,00:20:30,00:20:31,Where is he?
-327,00:20:31,00:20:34,"I sent him to detox, in the tank."
-328,00:20:34,00:20:38,"BRASS: See, that's the problem with being a deadbeat dad."
-329,00:20:38,00:20:41,"If you're not around for the bad times, they don't want you around for the good times."
-330,00:20:41,00:20:43,I didn't... I'm not...
-331,00:20:43,00:20:50,"Let's just cut right through the lie-and-deny part of the chat, and I'll tell you what I know."
-332,00:20:50,00:20:52,My mother was a powerful woman; she had a lot of enemies.
-333,00:20:52,00:20:56,My mother and Joe worked so hard to make this day perfect.
-334,00:20:56,00:20:58,It seems silly now.
-335,00:20:58,00:21:00,"They had a fight about the gifts, then..."
-336,00:21:00,00:21:03,then there was a disagreement with the bridesmaids.
-337,00:21:03,00:21:05,And my mother accidentally brought the wrong dress.
-338,00:21:05,00:21:09,"Then the dinner was wrong, and the cake was wrong."
-339,00:21:10,00:21:12,And my father showed up.
-340,00:21:12,00:21:14,"What, he wasn't invited?"
-341,00:21:14,00:21:15,"Um, no."
-342,00:21:15,00:21:17,My parents are divorced.
-343,00:21:17,00:21:19,I think that's why today was so hard on her.
-344,00:21:19,00:21:22,The wedding brought up a lot of issues for her.
-345,00:21:22,00:21:25,She sacrificed so much for me.
-346,00:21:25,00:21:27,"Single parent, grad school."
-347,00:21:27,00:21:28,She was a champion.
-348,00:21:30,00:21:34,My father is... unstable.
-349,00:21:34,00:21:36,"For years, he's had a drug problem."
-350,00:21:36,00:21:38,FATHER: She told him that.
-351,00:21:38,00:21:40,I don't believe that bitch!
-352,00:21:40,00:21:44,You do or you don't have a drug problem? Which is it?
-353,00:21:44,00:21:46,Don't take everything you see at face value.
-354,00:21:49,00:21:55,"15 years ago, Diane decided she wanted to go back to work."
-355,00:21:55,00:21:59,And I encouraged her.
-356,00:21:59,00:22:04,But then she became... driven.
-357,00:22:04,00:22:06,And I was slowing her down.
-358,00:22:06,00:22:07,She got nasty.
-359,00:22:07,00:22:09,I got depressed.
-360,00:22:09,00:22:12,I started taking antidepressants.
-361,00:22:12,00:22:14,She was mortified.
-362,00:22:14,00:22:15,Said it wouldn't look good.
-363,00:22:15,00:22:17,"I said, ""Hey, I'm not one of your clients."
-364,00:22:17,00:22:22,"I'm your husband."" ""Not anymore,"" she said."
-365,00:22:22,00:22:25,She filed for divorce.
-366,00:22:25,00:22:30,And she said it was because the drugs affected my libido.
-367,00:22:30,00:22:37,We hadn't had sex for eight months before I started taking the drugs.
-368,00:22:37,00:22:40,Did you have an altercation with her at the wedding?
-369,00:22:40,00:22:43,Yeah. Yeah.
-370,00:22:44,00:22:47,"Because of the meds, I don't drink very much."
-371,00:22:49,00:22:52,I did today because I thought it would take the edge off.
-372,00:22:54,00:22:56,It put the edge on.
-373,00:22:58,00:23:00,Good to see you.
-374,00:23:00,00:23:02,Hi. How are you? It's great...
-375,00:23:03,00:23:04,Excuse me.
-376,00:23:07,00:23:09,You were not invited.
-377,00:23:09,00:23:11,"I read the papers, Diane."
-378,00:23:11,00:23:13,They teach literacy at the halfway house?
-379,00:23:13,00:23:15,I didn't come here to fight.
-380,00:23:15,00:23:16,You're not here at all.
-381,00:23:16,00:23:18,"He's my son, too."
-382,00:23:18,00:23:20,I wouldn't be so sure of that.
-383,00:23:20,00:23:24,I stuck around to see the ceremony.
-384,00:23:24,00:23:26,I even saw a little bit of the reception.
-385,00:23:26,00:23:29,I was sleeping it off when your guys found me.
-386,00:23:30,00:23:31,So you didn't kill her?
-387,00:23:31,00:23:39,"No. But you better check to see if she's really dead, because I don't think you can kill the devil."
-388,00:23:41,00:23:43,"Nick, you drew Mr. Chase's blood at the scene."
-389,00:23:43,00:23:44,His BAC was .28.
-390,00:23:45,00:23:46,That was at 4:00 p.m.
-391,00:23:46,00:23:50,And officers drew it again at the station an hour later. It was .22.
-392,00:23:50,00:23:52,So he was in the elimination phase.
-393,00:23:52,00:23:56,"That means, when the victim was tied to the car, his blood alcohol level was even higher."
-394,00:23:56,00:23:58,Mr. Chase was blotto.
-395,00:23:58,00:24:00,He couldn't have tied his own shoes.
-396,00:24:00,00:24:05,"Assuming whoever took your truck is the killer, Mr. Chase was in the tank. He couldn't have done it."
-397,00:24:05,00:24:07,One suspect down.
-398,00:24:07,00:24:12,"Speaking of downers, Ms. Chase liked her diazepam."
-399,00:24:12,00:24:15,Blood levels were somewhere between therapeutic and toxic.
-400,00:24:15,00:24:21,That's... that's weird. Her ex-husband told Brass she was very anti-psychopharmaceuticals.
-401,00:24:21,00:24:26,"As a toxicology tech, I'd say often those who adamantly oppose the D-train are its most frequent passengers."
-402,00:24:26,00:24:29,"But, since she is deceased, I was able to get her medical records."
-403,00:24:29,00:24:32,No diazepam scrip.
-404,00:24:32,00:24:35,So she got daffy on someone else's pills.
-405,00:24:35,00:24:38,That explains Mindy's account of her behavior.
-406,00:24:38,00:24:39,And the toast.
-407,00:24:39,00:24:43,"Doesn't explain how she was conked out, tied to a bumper."
-408,00:24:44,00:24:46,I might know what happened.
-409,00:24:46,00:24:50,You'd think she'd know better than to wear white on the bride's big day.
-410,00:24:52,00:24:56,"SANDERS: A dame was dead, but enough about her."
-411,00:24:56,00:25:00,"The air was hot and heavy with wrong, making me thirsty."
-412,00:25:00,00:25:02,Thirsty for a tall drink of water.
-413,00:25:02,00:25:07,That's when I saw her-- a flower-- but not the kind you pin on a lapel.
-414,00:25:07,00:25:09,She was long-stemmed.
-415,00:25:09,00:25:12,"SIDLE: All right, Raymond Chandler, we get it."
-416,00:25:16,00:25:18,SANDERS: And those weren't just Miracle Bras.
-417,00:25:18,00:25:20,They were creating four Wonders of the World.
-418,00:25:20,00:25:23,"I'm Greg Sanders, with the crime lab."
-419,00:25:24,00:25:26,I need to take your prints.
-420,00:25:27,00:25:30,That's quite a case you got there.
-421,00:25:30,00:25:31,Is that your magic kit?
-422,00:25:31,00:25:32,Or your toy box?
-423,00:25:32,00:25:35,You don't seem to be very upset about what happened.
-424,00:25:35,00:25:39,"Sweetheart, I've had so many martinis, I'm both shaken andstirred."
-425,00:25:39,00:25:40,Numbing the pain?
-426,00:25:40,00:25:43,"Look, we're not going to pretend to be all liquid and soft, okay?"
-427,00:25:43,00:25:45,All that's missing here are the striped socks.
-428,00:25:45,00:25:46,"Ding, dong, the witch is dead."
-429,00:25:46,00:25:48,So you're not a fan?
-430,00:25:48,00:25:50,Cruella made me wear underwear today.
-431,00:25:50,00:25:52,No one makes me wear underwear.
-432,00:25:52,00:25:55,I'll do you if you do me.
-433,00:25:57,00:25:59,SIDLE: They did not.
-434,00:26:00,00:26:03,So how does that help explain how Diane Chase died?
-435,00:26:03,00:26:04,I'm getting there.
-436,00:26:04,00:26:07,"Okay, ladies, let's slow it down."
-437,00:26:07,00:26:10,When was the last time you saw Diane?
-438,00:26:10,00:26:11,In the hospitality suite.
-439,00:26:11,00:26:13,I came in to fix my hair.
-440,00:26:13,00:26:14,She was complaining of a headache.
-441,00:26:14,00:26:17,"Next time I saw her, it was bottoms up, Mommie Dearest."
-442,00:26:22,00:26:26,"So I headed behind the pink curtain, where the girls go to get glossy."
-443,00:26:43,00:26:46,"A little shine here, a little pouf there."
-444,00:26:47,00:26:48,A little...
-445,00:26:48,00:26:54,"Well, I don't exactly know what that was, but I liked the feel."
-446,00:26:58,00:27:01,Marriage was looking like a lucrative endeavor.
-447,00:27:08,00:27:09,And that's when I saw it.
-448,00:27:13,00:27:15,Just a few drops.
-449,00:27:15,00:27:21,"I thought the blood could have been incidental-- nosebleed, shaving accident."
-450,00:27:29,00:27:37,"But, what if, high as a kite on a slipped Mickey, she slips-- and bam!-- straight to the back of the skull?"
-451,00:27:37,00:27:40,The arrow was four-sided.
-452,00:27:40,00:27:44,It would leave a diamond-shaped wound.
-453,00:27:44,00:27:46,They match.
-454,00:27:46,00:27:53,"If the initial wound was accidental, why was she panty-hosed to the back of a car?"
-455,00:27:53,00:27:54,Don't know yet.
-456,00:27:54,00:27:58,Narrows the field of suspects down to someone who had access to that suite.
-457,00:27:58,00:28:00,Where's the statue?
-458,00:28:00,00:28:01,In your car.
-459,00:28:01,00:28:03,Ah!
-460,00:28:10,00:28:20,"I know every piece of evidence regarding this case is precious, given the circumstances, so I just wanted to let you know that I've moved Ms. Chase's fingernail scrapings to the top of my extensive queue."
-461,00:28:20,00:28:24,Composite substance. You're never going to believe this.
-462,00:28:24,00:28:27,"Egg whites, sugar, butter, milk, food coloring."
-463,00:28:27,00:28:28,How did you know?
-464,00:28:28,00:28:30,Butter cream frosting.
-465,00:28:30,00:28:33,She had an incident with a wedding cake.
-466,00:28:36,00:28:38,Are you done?
-467,00:28:38,00:28:42,"You know, you and me, we're not the marrying kind."
-468,00:28:42,00:28:46,The intricacies of our nature can never be understood by just one woman.
-469,00:28:46,00:28:49,"Would you close the door, please?"
-470,00:28:56,00:28:58,From the other side.
-471,00:29:08,00:29:11,Sara? Sara?
-472,00:29:12,00:29:13,Are they here?
-473,00:29:13,00:29:18,"No. They're still held up with that officer-involved shooting, but the Bomb Squad has cleared the convertible."
-474,00:29:18,00:29:20,Oh. Finally.
-475,00:29:20,00:29:22,Something to process.
-476,00:29:25,00:29:28,I thought you said the snowboards were in the suite.
-477,00:29:28,00:29:30,I did.
-478,00:29:30,00:29:32,Then what's the case doing in the trunk?
-479,00:29:47,00:29:51,So you asked me to follow her comings and goings and her food and drink intake.
-480,00:29:51,00:29:55,"As far as I can tell, she didn't touch her soup or salad."
-481,00:29:55,00:29:57,And the main course?
-482,00:30:04,00:30:06,And what did Diane have to drink?
-483,00:30:06,00:30:12,"Um... I only saw her with two glasses, both champagne, first one around 2:00."
-484,00:30:12,00:30:19,"But maybe she was hitting the bar, because look: This is 15 minutes later."
-485,00:30:19,00:30:20,"Oh, my."
-486,00:30:20,00:30:25,"The waiter gave her a second glass for her toast, which I watched five times."
-487,00:30:26,00:30:28,And that was it.
-488,00:30:28,00:30:30,When was the last time she was on camera?
-489,00:30:31,00:30:36,"Well, her exit was neither polite nor discreet."
-490,00:30:36,00:30:43,"I know I may just be a grease monkey, but I drive a tow truck, and I think I know a little something about getting hitched."
-491,00:30:43,00:30:46,And these two... uh... there's more.
-492,00:30:46,00:30:51,Uh... I think these guys are in it for the long haul.
-493,00:30:51,00:30:53,Making friends over here.
-494,00:30:53,00:30:56,"No, but seriously, uh..."
-495,00:30:56,00:30:59,"I don't mean to get all sentimental or anything, but these two are going to have a lot of sex tonight."
-496,00:30:59,00:31:01,And.. what?
-497,00:31:01,00:31:03,What? Are you embarrassed?
-498,00:31:03,00:31:05,She's embarrassed. I'm her older brother.
-499,00:31:05,00:31:06,I changed her diapers.
-500,00:31:06,00:31:08,That was 2:25.
-501,00:31:08,00:31:10,Would you play that again?
-502,00:31:13,00:31:21,"I know I may just be a grease monkey, but I drive a tow truck, and I think I know a little something about getting hitched."
-503,00:31:25,00:31:29,"Yeah, Jim. Check into a Mikey Shoemaker, the bride's brother."
-504,00:31:29,00:31:31,Run his wants and warrants.
-505,00:31:31,00:31:33,And also look into the location of his tow yard.
-506,00:31:33,00:31:34,Thank you.
-507,00:31:43,00:31:44,So?
-508,00:31:44,00:31:47,Need your hands.
-509,00:31:47,00:31:49,I thought you'd never ask.
-510,00:31:49,00:31:52,I need you to reprint the bumper because the tape lifts were stolen.
-511,00:31:52,00:31:54,Anything to keep me awake.
-512,00:32:00,00:32:04,Uh-oh! Looks like we had some bride's little helper going on.
-513,00:32:04,00:32:06,Diazepam.
-514,00:32:06,00:32:11,Just filled. Rx calls for six ten-milligram pills.
-515,00:32:11,00:32:13,Two left.
-516,00:32:13,00:32:15,40 milligrams would match mom's blood level.
-517,00:32:15,00:32:23,"Jill gets some pills to calm herself, decides to calm her mother-in-law instead, and make everybody happy."
-518,00:32:23,00:32:26,"Okay, the blood from the snowboard bag was a match to Mother Chase."
-519,00:32:26,00:32:31,That could have been what they used to transport her from point A to point B.
-520,00:32:31,00:32:34,"Yeah, ""they"" is right, 'cause I also found two female epithelial contributions."
-521,00:32:34,00:32:40,"One on each handle of the bag, and then one of the same females was also a match to the DNA from the knot in the pantyhose."
-522,00:32:40,00:32:45,We could compare them to the buccal swabs we collected... if we still had them.
-523,00:32:45,00:32:47,"Well, we'll just have to recollect them."
-524,00:32:47,00:32:48,All 200 of them?
-525,00:32:48,00:32:53,"Yeah, and since we can't leave, someone else is gonna have to recollect them."
-526,00:32:53,00:32:54,This is crap!
-527,00:32:54,00:32:56,I've been waiting on I.A.B. for...(snaps gloves)
-528,00:32:56,00:32:57,...14 hours.
-529,00:32:57,00:32:59,I'm tired...
-530,00:32:59,00:33:03,"and I kind of smell, and I don't have a freakin' car."
-531,00:33:08,00:33:09,"Hey, buddy."
-532,00:33:09,00:33:11,Hey.
-533,00:33:11,00:33:12,How you doing?
-534,00:33:12,00:33:13,You all right?
-535,00:33:13,00:33:14,"Hey, this, this sucks, man."
-536,00:33:15,00:33:18,"I didn't do anything wrong, and everybody's looking at me like I'm the bad guy."
-537,00:33:18,00:33:20,"If I had to do it all over again, I'd do the exact same thing."
-538,00:33:20,00:33:21,"Nick, Nick..."
-539,00:33:21,00:33:23,"I mean, how do I fix the situation?"
-540,00:33:23,00:33:24,Nick!
-541,00:33:24,00:33:26,It was already screwed up to begin with. What?
-542,00:33:35,00:33:37,I loaned one of the bridesmaids my jacket.
-543,00:33:37,00:33:40,She was wearing black.
-544,00:33:40,00:33:42,There was no reason to ALS.
-545,00:33:42,00:33:49,"Blood must have transferred from her to my jacket, to me."
-546,00:33:49,00:33:51,"I didn't want to contaminate it by pulling it over my head, you know?"
-547,00:33:51,00:33:53,That was good thinking.
-548,00:33:59,00:34:01,"All right. Hey, Wendy, Uh-huh?"
-549,00:34:01,00:34:10,"I don't know if you'll be able to get anything off of this, but I want you to compare the female epithelials you found on the snowboard bag against the napkin that I have in my right front pocket."
-550,00:34:12,00:34:14,Come on.
-551,00:34:22,00:34:25,(laughs)
-552,00:34:25,00:34:28,"So that was a good call on the bride's brother, Mikey Shoemaker."
-553,00:34:28,00:34:30,He had a prior conviction for car theft.
-554,00:34:30,00:34:32,Where did you find Nick's truck?
-555,00:34:32,00:34:37,"In one of the paint bays of his auto body shop, right next to a delivery truck."
-556,00:34:37,00:34:38,We're looking for Mikey now.
-557,00:34:38,00:34:40,"Well, I watched the rest of the wedding video."
-558,00:34:40,00:34:46,"He may have stolen the car, but once Diane disappears, Mikey never leaves the party."
-559,00:34:46,00:34:47,Maybe he wasn't acting alone.
-560,00:34:47,00:34:50,"Hey, Pip. How you like your new ride?"
-561,00:34:53,00:34:55,"Hey, look. They fixed it."
-562,00:34:56,00:34:58,"Oh. Oh, that's not funny."
-563,00:34:58,00:34:59,"Oh, it's a little funny."
-564,00:35:16,00:35:18,Where did you get that?
-565,00:35:18,00:35:21,Unis found it in a Dumpster behind Mikey Shoemaker's body shop.
-566,00:35:21,00:35:24,He went through all that trouble to steal the car and that's where he ditches it?
-567,00:35:24,00:35:31,"Well, they didn't find any biological evidence, and he probably hocked the cameras, but at least I've been reunited with Love's deadly arrow."
-568,00:35:31,00:35:35,"You know that's not going to stand up in court, right?"
-569,00:35:35,00:35:39,"Well, Negative Nelly, I know that, and you know that, but the suspects might not."
-570,00:35:40,00:35:41,We have to convince them that we know what happened.
-571,00:35:41,00:35:43,Do we? We're close.
-572,00:35:43,00:35:45,Can you put the U.V. filter on the camera?
-573,00:35:45,00:35:46,Sure.
-574,00:36:01,00:36:02,How did you...?
-575,00:36:02,00:36:04,"I didn't, until I processed it."
-576,00:36:04,00:36:10,"But I was thinking the statue punctured her in the back of the head, which means one of three things might have happened."
-577,00:36:10,00:36:12,Either she was stabbed by it...
-578,00:36:12,00:36:14,"Well, the statue looks a little unwieldy."
-579,00:36:14,00:36:17,Or she accidentally fell on it.
-580,00:36:17,00:36:20,"But with no one to blame, why wouldn't someone just call 911?"
-581,00:36:20,00:36:25,Which leaves us with option number three: she was pushed.
-582,00:36:29,00:36:32,Lucky for us someone had something on their hands.
-583,00:36:32,00:36:35,Something that left good ridge detail I'll swab it for trace.
-584,00:36:35,00:36:38,"Prints are a match to a bridesmaid, Lacey Finn."
-585,00:36:38,00:36:39,She's in the system?
-586,00:36:39,00:36:42,"Yeah, she was a cocktail waitress for a short time."
-587,00:36:42,00:36:43,Of course she was.
-588,00:36:43,00:36:47,"And I pulled the prints off of this pill bottle, but I didn't find a match."
-589,00:36:47,00:36:51,"Which means the bride didn't do it because as a nurse, she'd also be in the system."
-590,00:36:51,00:36:53,"Correct. However, I did find something."
-591,00:36:53,00:36:55,Look at the prescribing doctor on that label.
-592,00:36:55,00:36:59,"I was cross-checking with the guest list, and guess who the good doctor's wife is."
-593,00:37:01,00:37:02,Mrs. Valerie Whitehall.
-594,00:37:02,00:37:03,She's also a bridesmaid.
-595,00:37:06,00:37:08,"Well, she knew where the pills were."
-596,00:37:08,00:37:13,"She had access to the suite, so maybe Jill didn't poison mom, Valerie did."
-597,00:37:13,00:37:15,A little bonus in the bubbly.
-598,00:37:15,00:37:18,I got the results from Mama Chase's suit jacket.
-599,00:37:18,00:37:19,What's the trace?
-600,00:37:19,00:37:21,Hair gel.
-601,00:37:24,00:37:27,Lacey said that she went to fix her hair.
-602,00:37:30,00:37:31,Where's that Sara chick?
-603,00:37:33,00:37:36,"Oh, Romeo, I don't think that you have time for romance."
-604,00:37:36,00:37:42,"You're being charged with grand theft auto, obstruction of justice and conspiracy to murder."
-605,00:37:42,00:37:45,"Okay, I will cop to everything but the murder."
-606,00:37:45,00:37:48,"Well, if you didn't commit the murder, why did you steal the car?"
-607,00:37:48,00:37:51,"Look, the lady was already dead, all right?"
-608,00:37:52,00:37:57,"And then, then you guys show up and this bridesmaid comes up to me and starts asking me all these questions about my tow truck."
-609,00:37:57,00:37:58,Which bridesmaid?
-610,00:37:58,00:38:00,The hot one.
-611,00:38:00,00:38:04,"Next thing I know, she wants to be the Bonnie to my Clyde."
-612,00:38:04,00:38:06,Asked me to steal this car and trash all the evidence.
-613,00:38:06,00:38:10,So you committed grand theft auto to get laid?
-614,00:38:11,00:38:14,Ever stolen a two-ton piece of machinery?
-615,00:38:14,00:38:17,It is way better than sex.
-616,00:38:18,00:38:20,And finding a girl that doesn't want to kick you to the curb for it?
-617,00:38:20,00:38:22,"I mean, come on. That is just hot."
-618,00:38:23,00:38:26,"Besides, I hadn't gotten a wedding gift for my sister yet."
-619,00:38:26,00:38:31,"So I don't have a match to one of the handles to the snowboard case, but, um, your napkin girl..."
-620,00:38:31,00:38:33,That Mindy Faberge?
-621,00:38:33,00:38:35,She got to be a bridesmaid. Yeah.
-622,00:38:36,00:38:37,She matches the other handle.
-623,00:38:37,00:38:40,"Well, she was in the suite with the gifts."
-624,00:38:40,00:38:42,She could have touched it then.
-625,00:38:44,00:38:46,You paged?
-626,00:38:46,00:38:49,We think that each of the bridesmaids is responsible for killing her.
-627,00:38:49,00:38:53,"Not individually, but working in cahoots."
-628,00:38:53,00:38:56,Each one played their part.
-629,00:38:56,00:39:02,Did you know the original role of the bridesmaid was to act as a human shield against the bride's enemies?
-630,00:39:02,00:39:09,Women would dress similar to the bride in an effort to confuse and outsmart evil spirits that might try to overtake her on her wedding day.
-631,00:39:10,00:39:14,"Wow, for somebody who's anti-wedding, you certainly know a lot about it."
-632,00:39:14,00:39:15,I'm not anti-wedding.
-633,00:39:15,00:39:20,"I'm just anti-stupid-- you know, people who do things for the sake of tradition with no clue as to why."
-634,00:39:20,00:39:25,"Anyway, let's start at the beginning, shall we?"
-635,00:39:27,00:39:30,Valerie kindly gets mom a drink.
-636,00:39:38,00:39:42,"Then during her toast, Diane starts to feel the effects."
-637,00:39:42,00:39:43,(chuckles)
-638,00:39:44,00:39:49,"By Mikey's toast, she decides that she's toast."
-639,00:39:49,00:39:51,...a little something about getting hitched.
-640,00:39:51,00:39:55,I know what you did.
-641,00:39:55,00:40:03,"I'm going to have your husband's medical license, and I'm going to have you put away for attempted murder."
-642,00:40:03,00:40:11,SANDERS: Lacey overhears Diane's paranoid yet correct ramblings and eventually follows her out.
-643,00:40:16,00:40:18,You okay?
-644,00:40:18,00:40:19,The gall of you to ask me that!
-645,00:40:19,00:40:21,"You know I'm not okay, you little tart."
-646,00:40:21,00:40:23,You're all just as bad as she is.
-647,00:40:23,00:40:24,Don't get mad.
-648,00:40:24,00:40:26,Valerie was just trying to make you feel better.
-649,00:40:26,00:40:30,"Oh, by giving me a controlled substance?"
-650,00:40:30,00:40:35,You are going down for conspiracy!
-651,00:40:35,00:40:36,All right!
-652,00:40:36,00:40:37,"You know what, lady?!"
-653,00:40:37,00:40:40,That's enough!
-654,00:40:40,00:40:44,SANDERS: Leaving her incapacitated but not dead.
-655,00:40:47,00:40:52,STOKES: At which point Lacey tells Mindy and Cindy.
-656,00:40:52,00:40:54,They formulate a plan.
-657,00:40:54,00:40:56,(flesh tearing)
-658,00:40:56,00:40:58,"Oh, God! Once we get her in there, what are we going to do with her?"
-659,00:40:59,00:41:02,"Oh, um, let's make it look like it was, um, Forelli..."
-660,00:41:02,00:41:04,Fratelli brothers?
-661,00:41:04,00:41:05,Fratelli brothers.
-662,00:41:05,00:41:08,We'll just make it look like they did it.
-663,00:41:08,00:41:09,"Oh, my God."
-664,00:41:15,00:41:20,"They tie her to the car, chuck the bag in the trunk, return to the party."
-665,00:41:20,00:41:21,(all clamoring)
-666,00:41:27,00:41:28,"Got it, yes!"
-667,00:41:29,00:41:35,SIDLE: And everyone just continues along with the joyous festivities until...
-668,00:41:35,00:41:38,(cheering)
-669,00:41:42,00:41:48,"I'm not a bad person, and we didn't exactly kill her."
-670,00:41:48,00:41:53,"I mean, I like to think she killed herself because she was crazy."
-671,00:41:53,00:41:56,She did crazy things to our friend.
-672,00:41:56,00:41:59,"I mean, who hates a pediatric nurse?"
-673,00:41:59,00:42:04,"Granted, we'd all been drinking, but she drove us to it."
-674,00:42:05,00:42:07,We did what we had to do.
-675,00:42:07,00:42:10,Sisterhood is powerful this and powerful that.
-676,00:42:10,00:42:12,She was on a total trip.
-677,00:42:12,00:42:15,There was no way Jill could endure a life of that.
-678,00:42:16,00:42:22,"I just... I wanted to shut her up with the drugs, but that backfired..."
-679,00:42:22,00:42:23,leaving us...
-680,00:42:23,00:42:24,...no choice.
-681,00:42:24,00:42:25,She was coming at me.
-682,00:42:25,00:42:28,"I just, I just defended myself."
-683,00:42:28,00:42:33,"I didn't mean to take her down, but once she was, I..."
-684,00:42:33,00:42:35,I felt nothing.
-685,00:42:35,00:42:41,"There she was just, just staring at me, and all I could think was..."
-686,00:42:41,00:42:57,"""Thank God."" Grissom?"
-687,00:42:59,00:43:01,I.A.B. is here.
-688,00:43:02,00:43:04,Lovely.
-689,00:43:04,00:43:08,"You should know that while waiting for I.A.B., we recovered the car and solved the case."
-690,00:43:08,00:43:12,"UNDERSHERIFF: Well, this is not a ""No harm, no foul"" situation."
-691,00:43:13,00:43:15,Disciplinary action may still be taken.
-692,00:43:15,00:43:18,Okay.
-693,00:43:20,00:43:22,So who wants to go first?
-694,00:43:25,00:43:26,I don't think it matters.
-695,00:43:26,00:43:29,I'm sure our stories are all the same.
+	start	end	text
+0	00:00:17	00:00:19	Stop! Stop!
+1	00:00:19	00:00:22	Stop!
+2	00:00:45	00:00:46	Why do we always come here?
+3	00:00:46	00:00:48	Open 24 hours.
+4	00:00:48	00:00:50	Everything in Vegas is open 24 hours.
+5	00:00:50	00:00:51	It's cheap.
+6	00:00:51	00:00:53	Smells like bacon in here.
+7	00:00:53	00:00:54	Slide over.
+8	00:00:54	00:00:56	That scene took forever.
+9	00:00:56	00:00:58	We were there like, what, nine hours?
+10	00:00:58	00:00:59	Eleven.
+11	00:00:59	00:01:02	A dead lawyer and 200 eyewitnesses-- it's going to take a while.
+12	00:01:03	00:01:06	Come for a wedding, stay for the funeral.
+13	00:01:06	00:01:08	Why do we always eat here?
+14	00:01:08	00:01:09	It's tradition.
+15	00:01:09	00:01:10	Ah, tradition.
+16	00:01:10	00:01:14	Like becoming property exchange between your father and your husband?
+17	00:01:14	00:01:16	Oh, that's not what a wedding is.
+18	00:01:16	00:01:18	It's a public declaration of love.
+19	00:01:18	00:01:19	I'm with Vince Vaughn on this one.
+20	00:01:19	00:01:23	Dozens of horny, single women with access to an open bar and coupling on their mind.
+21	00:01:24	00:01:26	Weddings are a Rorschach.
+22	00:01:26	00:01:28	Everybody sees what they want to see.
+23	00:01:28	00:01:29	My first five were good.
+24	00:01:29	00:01:33	Noted criminal defense attorney, Diane Chase was killed yesterday...
+25	00:01:33	00:01:37	We haven't even gone back to the lab yet, and we're already on TV.
+26	00:01:37	00:01:42	In a tragic twist, Ms. Chase was killed while attending her son's wedding.
+27	00:01:42	00:01:51	She was best known for taking on the toughest cases, and it was her defense of high-profile, organized crime associates that really made her a name in legal circles.
+28	00:01:51	00:01:54	If it was an intelligent question, I'd stop to answer it.
+29	00:01:54	00:02:05	Most recently, she represented Dino Fatelli of the Fatelli crime family, who was sentenced to life last month for the brutal slaying of casino mogul Remy James.
+30	00:02:05	00:02:08	The stones on these guys-- to take her out at her son's wedding?
+31	00:02:08	00:02:10	Pass the cream, will you?
+32	00:02:17	00:02:20	Dude, where's your car?
+33	00:02:20	00:02:22	It's parked right...
+34	00:02:35	00:02:36	Incoming.
+35	00:02:36	00:02:39	I'll talk. You guys just look apologetic.
+36	00:02:41	00:02:45	All right, let me see if I understand this correctly.
+37	00:02:45	00:03:05	You let one of the members of your team drive his personal vehicle to a crime scene investigation; and then, even though there was a perfectly good crime scene vehicle there, that personal car was crammed with every bit of evidence collected at a major murder investigation, because two of you were maxed out on overtime.
+38	00:03:05	00:03:15	And then the driver, of said car, instead of securing that evidence in the lab, gave priority to his need for runny eggs.
+39	00:03:15	00:03:22	And the aforementioned vehicle was stolen from a parking lot filled with police cars.
+40	00:03:23	00:03:25	Is there anything I missed?
+41	00:03:25	00:03:32	Just this Even if we recover the vehicle, the chain of custody has been broken, so all the evidence has been compromised.
+42	00:03:32	00:03:35	No judge will allow any of it to be admitted into court.
+43	00:03:35	00:03:41	Also, we released the crime scene, so it, too, is compromised, leaving us nothing to go back for.
+44	00:03:41	00:03:44	Thank you for clarifying the situation.
+45	00:03:48	00:03:49	It could've been worse.
+46	00:04:27	00:04:30	We were seated at a booth, with clear visual access to the vehicle.
+47	00:04:30	00:04:32	A delivery truck pulls up, blocks our view.
+48	00:04:32	00:04:34	For how long?
+49	00:04:34	00:04:36	Two, three minutes, tops.
+50	00:04:36	00:04:37	What kind of truck?
+51	00:04:37	00:04:40	Bread, dairy... I can't remember.
+52	00:04:40	00:04:42	Did you have an alarm?
+53	00:04:42	00:04:44	Yeah. Yeah, it didn't go off.
+54	00:04:44	00:04:45	Are you sure it was locked?
+55	00:04:45	00:04:46	Yeah, absolutely.
+56	00:04:46	00:04:48	And I have a tracking system on my truck, too.
+57	00:04:48	00:04:50	I called it in as soon as I realized it was missing.
+58	00:04:50	00:04:54	Okay. I'll follow up. There's about a dozen places to hide a tracking system on a car.
+59	00:04:54	00:04:55	I'm sure the Fatellis know 'em all.
+60	00:04:55	00:04:57	No broken glass.
+61	00:04:57	00:05:00	No bolts from a disengaged transmission.
+62	00:05:00	00:05:02	No tire treads or skid marks.
+63	00:05:02	00:05:04	Hey, Jim.
+64	00:05:05	00:05:08	I need a ride.
+65	00:05:13	00:05:17	Internal Affairs Bureau is coming to take our statements.
+66	00:05:17	00:05:18	They'll want to know what's been lost.
+67	00:05:18	00:05:23	So let's not make ourselves look any worse than we already do.
+68	00:05:23	00:05:27	Write down everything-- evidence collected, interview notes, etc... Every detail.
+69	00:05:27	00:05:30	No one leaves until they've given their account of the event.
+70	00:05:43	00:05:47	So aside from the accident, Mrs. Lincoln, how was the show?
+71	00:05:47	00:05:48	Not good.
+72	00:05:48	00:05:49	Fatelli was handled by the day shift.
+73	00:05:49	00:05:51	Let's pull the file.
+74	00:05:51	00:05:52	And compare it to what?
+75	00:05:52	00:05:53	We've got no crime scene photos.
+76	00:05:53	00:05:56	I have mine, but they're only of the ballroom.
+77	00:05:56	00:05:58	But every wedding these days has a videographer.
+78	00:05:58	00:06:00	We got to get the video.
+79	00:06:58	00:06:59	Oh. Hey, Grissom.
+80	00:06:59	00:07:02	I'm sorry to hear about the setback.
+81	00:07:02	00:07:05	Yeah, well, it's all about the body now, David.
+82	00:07:05	00:07:10	There was a vital response in the ligature marks around her ankles.
+83	00:07:10	00:07:14	So she might have been unconscious, but she probably was still alive when she was tied to the car.
+84	00:07:14	00:07:17	Yeah, all the significant trauma was to the back of her head.
+85	00:07:17	00:07:19	We'll know more after autopsy.
+86	00:07:19	00:07:22	So you tell me how I'm going to spin this thing.
+87	00:07:22	00:07:27	I've got a dead lawyer, a known enemy of the department, who made her career picking us apart.
+88	00:07:27	00:07:29	And now, we've lost the evidence in her murder.
+89	00:07:29	00:07:31	Even I don't buy it.
+90	00:07:31	00:07:33	The Fatellis are on our radar.
+91	00:07:33	00:07:35	Press is going to eat us alive.
+92	00:07:35	00:07:38	Six month trial, we finally get Fatelli shipped off to Lompoc.
+93	00:07:38	00:07:40	He's not even in the state.
+94	00:07:40	00:07:42	How long are his arms?
+95	00:07:42	00:07:43	I talked to the feds.
+96	00:07:43	00:07:45	They're checking the call logs, visitors' logs.
+97	00:07:45	00:07:48	It's going to look like the CSIs were paid off.
+98	00:07:48	00:07:52	Nobody's going to believe that this was an unfortunate series of coincidences.
+99	00:07:52	00:07:55	we're idiots, or we're dirty.
+100	00:07:55	00:07:57	So which are we?
+101	00:07:57	00:07:58	It was a big scene.
+102	00:07:58	00:08:02	I threw tons of stuff into the back of your truck.
+103	00:08:02	00:08:04	Figured I'd just sort it out later.
+104	00:08:04	00:08:06	Print lifts, swabs, my camera.
+105	00:08:06	00:08:11	Well, maybe if we talk it out, it will help.
+106	00:08:11	00:08:14	I started with the Just Married convertible.
+107	00:08:14	00:08:17	Well, thankfully, that didn't get stolen. Where is it?
+108	00:08:17	00:08:23	Because of possible Fatelli involvement, the undersheriff ordered it swept at the scene before they brought it back to the lab.
+109	00:08:23	00:08:24	It could be hours.
+110	00:08:24	00:08:26	Did you get anything from it?
+111	00:08:26	00:08:29	Prints...
+112	00:08:32	00:08:34	I remember David saying...
+113	00:08:34	00:08:40	You'd think she'd know better than to wear white on the bride's big day.
+114	00:08:40	00:08:47	So there we were at Cupid's Kiss, a Nuptial Neverland where the cheese factor was dangerously high and the flowers were obviously fake.
+115	00:08:52	00:08:56	Can the love be real when the flowers aren't?
+116	00:09:07	00:09:11	Oh, you really have a thing about weddings, don't you?
+117	00:09:11	00:09:13	Hey, I didn't interview them.
+118	00:09:13	00:09:14	It was just my impression.
+119	00:09:20	00:09:22	Hi, there. Hi.
+120	00:09:22	00:09:23	I'm, uh, Sara Sidle.
+121	00:09:23	00:09:24	I'm with the crime lab.
+122	00:09:24	00:09:26	Bryce Gundy, groom's side.
+123	00:09:26	00:09:30	Did you guys decorate the wedding car with those beer cans? Yep.
+124	00:09:30	00:09:31	Did you drink all the beer first?
+125	00:09:31	00:09:33	Yep. Awesome.
+126	00:09:33	00:09:35	Did you also tie the groom's mom to the bumper?
+127	00:09:35	00:09:36	Nope.
+128	00:09:36	00:09:41	Um, I'm going to need to get your fingerprints so I can compare them to the prints that I got off the car.
+129	00:09:41	00:09:43	Cool.
+130	00:09:43	00:09:45	You are aware that someone has died?
+131	00:09:45	00:09:50	Nobody's going to miss her except her son and her cell phone provider.
+132	00:09:50	00:09:51	Oh, what do you mean?
+133	00:09:51	00:09:53	She's creepy close to Adam.
+134	00:09:53	00:09:55	Must have called him 15 times a day.
+135	00:09:55	00:09:56	Huh.
+136	00:09:56	00:09:59	Do you mind just putting your finger right here?
+137	00:09:59	00:10:00	Oh! Okay, Mr. Gundy...
+138	00:10:00	00:10:02	I think I love you.
+139	00:10:02	00:10:04	Yeah, thank you. You need to sit down.
+140	00:10:04	00:10:05	Have a club soda.
+141	00:10:05	00:10:10	Um, um, excuse me, you dropped this.
+142	00:10:10	00:10:11	Sorry about him. ( laughing )
+143	00:10:11	00:10:13	Why do the jerks get all the tail?
+144	00:10:13	00:10:16	Sara Sidle, crime lab.
+145	00:10:16	00:10:20	I'm, uh, Mikey. Best man. Brother of the bride.
+146	00:10:20	00:10:22	Yeah, it's, you know. Yeah.
+147	00:10:22	00:10:24	Hey, this is a pretty crazy-ass situation, huh?
+148	00:10:24	00:10:28	They say it's good luck if it rains on your wedding day.
+149	00:10:28	00:10:29	What do you think about a dead body?
+150	00:10:29	00:10:31	What do you think?
+151	00:10:31	00:10:33	I think my sister's better off.
+152	00:10:33	00:10:35	You ever think about getting married?
+153	00:10:35	00:10:39	Um... I'm just saying, you know, I think Bryce could make an honest woman out of you.
+154	00:10:40	00:10:42	Oh, look at that-- your rejection broke his little heart.
+155	00:10:42	00:10:44	Should I put flirting in the case file?
+156	00:10:44	00:10:47	I was printing.
+157	00:10:47	00:10:50	He was flirting.
+158	00:10:50	00:10:56	Uni found the tracking device from Nick's car in a trash can, a couple blocks from the diner.
+159	00:10:56	00:10:57	Pro job.
+160	00:10:57	00:10:59	Has it been to Prints? Well, no.
+161	00:10:59	00:11:02	But if it was the Fatellis, it's going to be clean.
+162	00:11:02	00:11:06	Yeah. Nick's truck has no street value.
+163	00:11:06	00:11:08	The value was what was inside.
+164	00:11:22	00:11:23	Did you get a number?
+165	00:11:23	00:11:27	No. No, I didn't get anything.
+166	00:11:27	00:11:28	She must have put it in my pocket.
+167	00:11:28	00:11:30	Mindy.
+168	00:11:31	00:11:35	You think she'd know better than to wear white on the bride's big day.
+169	00:11:40	00:11:43	The perfume of American beauties was everywhere.
+170	00:11:43	00:11:50	Though a rose by any other name would have smelled just as sweet on a day with that much love in the air.
+171	00:12:03	00:12:05	Ladies, hi, how you doing?
+172	00:12:05	00:12:06	Hi. Hi.
+173	00:12:06	00:12:08	I'm with the crime lab. My name's Nick Stokes.
+174	00:12:08	00:12:10	I'm going to need to print you both, okay?
+175	00:12:10	00:12:14	Mindy Faberge. Bride's side.
+176	00:12:15	00:12:16	Um, can we go in and change.
+177	00:12:16	00:12:19	I can't get warm.
+178	00:12:19	00:12:21	Cindy Jansen. I think she's still in shock.
+179	00:12:21	00:12:23	You were in the wedding party.
+180	00:12:23	00:12:26	Did you spend most of the day here with Ms. Chase?
+181	00:12:27	00:12:29	She was on her best behavior.
+182	00:12:29	00:12:31	Outside that toast she gave.
+183	00:12:31	00:12:33	There you go. Thank you.
+184	00:12:33	00:12:36	Um, well, I think that was the alcohol talking.
+185	00:12:36	00:12:39	So, she was a drinker?
+186	00:12:39	00:12:45	By the end of the toast, she was slurring her words and swaying all over the place.
+187	00:12:45	00:12:49	I almost felt bad for her.
+188	00:12:49	00:12:53	Anyone interested in the wedding DVD?
+189	00:12:53	00:12:54	Yeah. ( all agreeing )
+190	00:12:54	00:13:00	Courtesy of Frank Rosetti, owner of Cupid's Kiss.
+191	00:13:05	00:13:07	All right, where do you want to start?
+192	00:13:07	00:13:09	The toast.
+193	00:13:13	00:13:16	Everyone...
+194	00:13:16	00:13:18	Everyone.
+195	00:13:18	00:13:20	I want to thank your for coming.
+196	00:13:20	00:13:31	You know, the Bible says, Love is strong as death, and as mother of the groom, a wedding is bittersweet.
+197	00:13:31	00:13:35	You are giving up as much as you are gaining.
+198	00:13:35	00:13:45	In some cases you are giving... Oh... up much more.
+199	00:13:49	00:13:51	To hell with it.
+200	00:13:51	00:13:53	I'll wing it.
+201	00:13:56	00:13:58	My Adam...
+202	00:13:58	00:14:01	He studied at Oxford.
+203	00:14:01	00:14:04	He went to Harvard School of Business.
+204	00:14:04	00:14:15	And of all the intelligent, wonderful, beautiful women he met along the way, he ended up with Jill.
+205	00:14:15	00:14:19	Plain, little Jill.
+206	00:14:22	00:14:24	There's nothing wrong with her.
+207	00:14:24	00:14:26	But what's right with her?
+208	00:14:26	00:14:28	I mean, even her name is boring.
+209	00:14:30	00:14:35	Adam, it's all right to take a lover.
+210	00:14:35	00:14:40	You just don't have to end up marrying her.
+211	00:14:40	00:14:45	I mean, do you really want to shallow our gene pool like this?
+212	00:14:45	00:14:47	Oh...
+213	00:14:47	00:14:51	Oh, I want to thank you all so much for coming.
+214	00:14:51	00:14:53	Oh, I love you, Adam.
+215	00:14:53	00:14:56	Hey, hey, good comedy, Diane...
+216	00:14:56	00:14:58	Justifiable homicide?
+217	00:15:03	00:15:04	Thank you all for coming.
+218	00:15:06	00:15:09	I love you, Adam.
+219	00:15:09	00:15:11	You talked to the bride.
+220	00:15:11	00:15:13	This seems like motive.
+221	00:15:13	00:15:14	Do you think she did it?
+222	00:15:15	00:15:16	When would she have had the time?
+223	00:15:17	00:15:22	You'd think she'd know better than to wear white on the bride's big day.
+224	00:15:26	00:15:31	Spring is but a song, where love and laughter are not wrong.
+225	00:15:31	00:15:37	The blossoms of desire do belong, and Harmonia axyridis fly along.
+226	00:15:43	00:15:48	For the past six months, she made my life hell.
+227	00:15:48	00:15:54	And so I told anyone who'd listen that she should die a fiery death.
+228	00:15:54	00:15:57	So now everyone's going to think that I killed her.
+229	00:15:57	00:15:59	Would you like to be more specific?
+230	00:15:59	00:16:08	Okay, well, when we got engaged, she ran into the backyard and she screamed, Why, God? Why me?
+231	00:16:08	00:16:10	Okay, she wore white today.
+232	00:16:10	00:16:18	She invited Adam's very, very attractive, very, um, single ex-girlfriend.
+233	00:16:18	00:16:27	When she found out that I had registered for sporting goods, she went behind my back and she changed the registry to housewares, saying that I'd better learn how to cook, okay?
+234	00:16:27	00:16:31	I'm a vegetarian, and she demanded roast beef.
+235	00:16:32	00:16:35	Um... Oh, and then... then there's the toast.
+236	00:16:35	00:16:37	The... the toast.
+237	00:16:37	00:16:40	Are you trying to make me think that you didn't kill her?
+238	00:16:40	00:16:44	I would never do that to Adam.
+239	00:16:44	00:16:51	I honestly don't know how such an amazing man came from-from... that.
+240	00:16:51	00:16:53	Look, it wasn't just me, okay?
+241	00:16:53	00:16:56	She fought with everyone today.
+242	00:16:56	00:17:03	She fought with the valets and the bridesmaids and the waiters.
+243	00:17:03	00:17:06	The caterer-- I thought for sure he was going to poison her.
+244	00:17:06	00:17:07	Want to see a crime scene?
+245	00:17:08	00:17:10	I'll show you a crime scene. Come here. Come here.
+246	00:17:10	00:17:11	Look at this, huh?
+247	00:17:11	00:17:15	What this woman had against the color peach-- I've never seen anything like it.
+248	00:17:15	00:17:20	If you think you're serving that flesh-colored abomination, and I'm paying for it, you can think again! Boom!
+249	00:17:20	00:17:22	I'm a 42-year-old paisan. She scared me.
+250	00:17:22	00:17:26	I wouldn't be surprised if her pantyhose rebelled against her and tied themselves to the car.
+251	00:17:26	00:17:28	The dame was a pill.
+252	00:17:28	00:17:32	I swear to God, she may have taken two or three years off my own life.
+253	00:17:32	00:17:35	Weddings are a blood, sweat and tears marathon, my friend.
+254	00:17:35	00:17:36	I'm on a tight schedule.
+255	00:17:36	00:17:38	00 noon, I got first intro of the couple.
+256	00:17:38	00:17:39	30, salad course.
+257	00:17:39	00:17:41	45, first dance.
+258	00:17:41	00:17:45	00, chair dance, chicken dance, broom dance-- I don't care. I'm equal opportunity.
+259	00:17:45	00:17:46	30, main course.
+260	00:17:46	00:17:48	15, first toast groom's side.
+261	00:17:48	00:17:53	16 we have the first toast on the bride's side.
+262	00:17:53	00:17:56	00, we cut the cake. 3 That's a tight schedule.
+263	00:17:56	00:17:59	She would have barely had time to go to the bathroom.
+264	00:17:59	00:18:01	I don't sell bridal diapers for nothing.
+265	00:18:01	00:18:04	He was kidding about the diapers, right?
+266	00:18:06	00:18:09	You're way too pretty to be a cop.
+267	00:18:10	00:18:13	I need to ask you about your brother, Dino Fatelli.
+268	00:18:14	00:18:16	Dino always was the bad seed.
+269	00:18:16	00:18:19	I heard you guys share the taste for blood.
+270	00:18:19	00:18:25	I once was lost, but now I am found.
+271	00:18:25	00:18:26	You and your brother keep in touch?
+272	00:18:26	00:18:28	Yeah, yeah.
+273	00:18:28	00:18:31	Last thing he said was he didn't like the food at Lompoc.
+274	00:18:31	00:18:33	I told him to call his lawyer.
+275	00:18:33	00:18:35	It's too late now.
+276	00:18:35	00:18:38	Where were you yesterday afternoon?
+277	00:18:38	00:18:40	You want to crawl up my ass?
+278	00:18:40	00:18:41	You can take a number.
+279	00:18:41	00:18:43	No thanks.
+280	00:18:43	00:18:47	50-to-one, Freddie the Feddy is out there right now talking to you guys.
+281	00:18:47	00:18:49	Did you know you were made?
+282	00:18:50	00:18:53	Yeah. Not even Diane Chase could keep these guys out of jail.
+283	00:18:53	00:18:57	And we figure it's just a matter of time before we get something on Sylvano.
+284	00:18:57	00:19:00	Like another murder?
+285	00:19:00	00:19:02	Sorry.
+286	00:19:02	00:19:04	He didn't kill the lawyer.
+287	00:19:04	00:19:06	Runs numbers out of his bar all day.
+288	00:19:06	00:19:08	Trying to pass a kidney stone.
+289	00:19:08	00:19:10	Hates his wife and his girlfriend.
+290	00:19:10	00:19:12	I hear everything.
+291	00:19:12	00:19:14	Could order one of his guys to do it.
+292	00:19:14	00:19:16	The brothers like to be hands-on.
+293	00:19:17	00:19:21	And all we're hearing is them bitching about how somebody snatched their M.O...
+294	00:19:23	00:19:27	Based on my dissection, I've detected two separate events.
+295	00:19:27	00:19:31	I believe that this puncture wound happened first.
+296	00:19:31	00:19:35	The object lacerated a cerebral artery creating a subdural hematoma.
+297	00:19:35	00:19:44	Then subsequent blows to her skull, from a ride behind the car, created additional fractures which caused diffuse bleeding on the brain, resulting in her death.
+298	00:19:44	00:19:46	So punctured and bobbled?
+299	00:19:46	00:19:47	Yeah.
+300	00:19:47	00:19:49	I autopsied the Fatellis' original victim.
+301	00:19:49	00:19:50	They're sadists.
+302	00:19:50	00:19:56	First Remy James is dragged behind the Cadillac, and when he wouldn't talk, they shot him in every joint.
+303	00:19:56	00:20:01	And when he still wouldn't talk, they finished him off with a shot to the head.
+304	00:20:01	00:20:04	The Fatellis don't mostly kill someone.
+305	00:20:04	00:20:06	So you took the perimeter of the scene, right?
+306	00:20:07	00:20:08	Yeah.
+307	00:20:08	00:20:10	Well, I saw this guy in the shadows.
+308	00:20:10	00:20:11	Archie blew it up.
+309	00:20:11	00:20:14	He looks more like a suspect than a guest.
+310	00:20:14	00:20:17	That face look familiar?
+311	00:20:19	00:20:21	Oh, yeah.
+312	00:20:21	00:20:24	Yeah, I caught that guy trying to sleep one off in the bushes.
+313	00:20:24	00:20:26	That's the groom's old man.
+314	00:20:26	00:20:30	Wow, I thought my wedding was bad.
+315	00:20:30	00:20:31	Where is he?
+316	00:20:31	00:20:34	I sent him to detox, in the tank.
+317	00:20:34	00:20:38	See, that's the problem with being a deadbeat dad.
+318	00:20:38	00:20:41	If you're not around for the bad times, they don't want you around for the good times.
+319	00:20:41	00:20:43	I didn't... I'm not...
+320	00:20:43	00:20:50	Let's just cut right through the lie-and-deny part of the chat, and I'll tell you what I know.
+321	00:20:50	00:20:52	My mother was a powerful woman; she had a lot of enemies.
+322	00:20:52	00:20:56	My mother and Joe worked so hard to make this day perfect.
+323	00:20:56	00:20:58	It seems silly now.
+324	00:20:58	00:21:00	They had a fight about the gifts, then...
+325	00:21:00	00:21:03	then there was a disagreement with the bridesmaids.
+326	00:21:03	00:21:05	And my mother accidentally brought the wrong dress.
+327	00:21:05	00:21:09	Then the dinner was wrong, and the cake was wrong.
+328	00:21:10	00:21:12	And my father showed up.
+329	00:21:12	00:21:14	What, he wasn't invited?
+330	00:21:14	00:21:15	Um, no.
+331	00:21:15	00:21:17	My parents are divorced.
+332	00:21:17	00:21:19	I think that's why today was so hard on her.
+333	00:21:19	00:21:22	The wedding brought up a lot of issues for her.
+334	00:21:22	00:21:25	She sacrificed so much for me.
+335	00:21:25	00:21:27	Single parent, grad school.
+336	00:21:27	00:21:28	She was a champion.
+337	00:21:30	00:21:34	My father is... unstable.
+338	00:21:34	00:21:36	For years, he's had a drug problem.
+339	00:21:36	00:21:38	She told him that.
+340	00:21:38	00:21:40	I don't believe that bitch!
+341	00:21:40	00:21:44	You do or you don't have a drug problem? Which is it?
+342	00:21:44	00:21:46	Don't take everything you see at face value.
+343	00:21:49	00:21:55	15 years ago, Diane decided she wanted to go back to work.
+344	00:21:55	00:21:59	And I encouraged her.
+345	00:21:59	00:22:04	But then she became... driven.
+346	00:22:04	00:22:06	And I was slowing her down.
+347	00:22:06	00:22:07	She got nasty.
+348	00:22:07	00:22:09	I got depressed.
+349	00:22:09	00:22:12	I started taking antidepressants.
+350	00:22:12	00:22:14	She was mortified.
+351	00:22:14	00:22:15	Said it wouldn't look good.
+352	00:22:15	00:22:17	I said, Hey, I'm not one of your clients.
+353	00:22:17	00:22:19	I'm your husband.
+354	00:22:19	00:22:22	Not anymore, she said.
+355	00:22:22	00:22:25	She filed for divorce.
+356	00:22:25	00:22:30	And she said it was because the drugs affected my libido.
+357	00:22:30	00:22:37	We hadn't had sex for eight months before I started taking the drugs.
+358	00:22:37	00:22:40	Did you have an altercation with her at the wedding?
+359	00:22:40	00:22:43	Yeah. Yeah.
+360	00:22:44	00:22:47	Because of the meds, I don't drink very much.
+361	00:22:49	00:22:52	I did today because I thought it would take the edge off.
+362	00:22:54	00:22:56	It put the edge on.
+363	00:22:58	00:23:00	Good to see you.
+364	00:23:00	00:23:02	Hi. How are you? It's great...
+365	00:23:03	00:23:04	Excuse me.
+366	00:23:07	00:23:09	You were not invited.
+367	00:23:09	00:23:11	I read the papers, Diane.
+368	00:23:11	00:23:13	They teach literacy at the halfway house?
+369	00:23:13	00:23:15	I didn't come here to fight.
+370	00:23:15	00:23:16	You're not here at all.
+371	00:23:16	00:23:18	He's my son, too.
+372	00:23:18	00:23:20	I wouldn't be so sure of that.
+373	00:23:20	00:23:24	I stuck around to see the ceremony.
+374	00:23:24	00:23:26	I even saw a little bit of the reception.
+375	00:23:26	00:23:29	I was sleeping it off when your guys found me.
+376	00:23:30	00:23:31	So you didn't kill her?
+377	00:23:31	00:23:39	No. But you better check to see if she's really dead, because I don't think you can kill the devil.
+378	00:23:41	00:23:43	Nick, you drew Mr. Chase's blood at the scene.
+379	00:23:43	00:23:44	His BAC was .28.
+380	00:23:45	00:23:46	00 p.m.
+381	00:23:46	00:23:50	And officers drew it again at the station an hour later. It was .22.
+382	00:23:50	00:23:52	So he was in the elimination phase.
+383	00:23:52	00:23:56	That means, when the victim was tied to the car, his blood alcohol level was even higher.
+384	00:23:56	00:23:58	Mr. Chase was blotto.
+385	00:23:58	00:24:00	He couldn't have tied his own shoes.
+386	00:24:00	00:24:05	Assuming whoever took your truck is the killer, Mr. Chase was in the tank. He couldn't have done it.
+387	00:24:05	00:24:07	One suspect down.
+388	00:24:07	00:24:12	Speaking of downers, Ms. Chase liked her diazepam.
+389	00:24:12	00:24:15	Blood levels were somewhere between therapeutic and toxic.
+390	00:24:15	00:24:21	That's... that's weird. Her ex-husband told Brass she was very anti-psychopharmaceuticals.
+391	00:24:21	00:24:26	As a toxicology tech, I'd say often those who adamantly oppose the D-train are its most frequent passengers.
+392	00:24:26	00:24:29	But, since she is deceased, I was able to get her medical records.
+393	00:24:29	00:24:32	No diazepam scrip.
+394	00:24:32	00:24:35	So she got daffy on someone else's pills.
+395	00:24:35	00:24:38	That explains Mindy's account of her behavior.
+396	00:24:38	00:24:39	And the toast.
+397	00:24:39	00:24:43	Doesn't explain how she was conked out, tied to a bumper.
+398	00:24:44	00:24:46	I might know what happened.
+399	00:24:46	00:24:50	You'd think she'd know better than to wear white on the bride's big day.
+400	00:24:52	00:24:56	A dame was dead, but enough about her.
+401	00:24:56	00:25:00	The air was hot and heavy with wrong, making me thirsty.
+402	00:25:00	00:25:02	Thirsty for a tall drink of water.
+403	00:25:02	00:25:07	That's when I saw her-- a flower-- but not the kind you pin on a lapel.
+404	00:25:07	00:25:09	She was long-stemmed.
+405	00:25:09	00:25:12	All right, Raymond Chandler, we get it.
+406	00:25:16	00:25:18	And those weren't just Miracle Bras.
+407	00:25:18	00:25:20	They were creating four Wonders of the World.
+408	00:25:20	00:25:23	I'm Greg Sanders, with the crime lab.
+409	00:25:24	00:25:26	I need to take your prints.
+410	00:25:27	00:25:30	That's quite a case you got there.
+411	00:25:30	00:25:31	Is that your magic kit?
+412	00:25:31	00:25:32	Or your toy box?
+413	00:25:32	00:25:35	You don't seem to be very upset about what happened.
+414	00:25:35	00:25:39	Sweetheart, I've had so many martinis, I'm both shaken and stirred.
+415	00:25:39	00:25:40	Numbing the pain?
+416	00:25:40	00:25:43	Look, we're not going to pretend to be all liquid and soft, okay?
+417	00:25:43	00:25:45	All that's missing here are the striped socks.
+418	00:25:45	00:25:46	Ding, dong, the witch is dead.
+419	00:25:46	00:25:48	So you're not a fan?
+420	00:25:48	00:25:50	Cruella made me wear underwear today.
+421	00:25:50	00:25:52	No one makes me wear underwear.
+422	00:25:52	00:25:55	I'll do you if you do me.
+423	00:25:57	00:25:59	They did not.
+424	00:26:00	00:26:03	So how does that help explain how Diane Chase died?
+425	00:26:03	00:26:04	I'm getting there.
+426	00:26:04	00:26:07	Okay, ladies, let's slow it down.
+427	00:26:07	00:26:10	When was the last time you saw Diane?
+428	00:26:10	00:26:11	In the hospitality suite.
+429	00:26:11	00:26:13	I came in to fix my hair.
+430	00:26:13	00:26:14	She was complaining of a headache.
+431	00:26:14	00:26:17	Next time I saw her, it was bottoms up, Mommie Dearest.
+432	00:26:22	00:26:26	So I headed behind the pink curtain, where the girls go to get glossy.
+433	00:26:43	00:26:46	A little shine here, a little pouf there.
+434	00:26:47	00:26:48	A little...
+435	00:26:48	00:26:54	Well, I don't exactly know what that was, but I liked the feel.
+436	00:26:58	00:27:01	Marriage was looking like a lucrative endeavor.
+437	00:27:08	00:27:09	And that's when I saw it.
+438	00:27:13	00:27:15	Just a few drops.
+439	00:27:15	00:27:21	I thought the blood could have been incidental-- nosebleed, shaving accident.
+440	00:27:29	00:27:37	But, what if, high as a kite on a slipped Mickey, she slips-- and bam!-- straight to the back of the skull?
+441	00:27:37	00:27:40	The arrow was four-sided.
+442	00:27:40	00:27:44	It would leave a diamond-shaped wound.
+443	00:27:44	00:27:46	They match.
+444	00:27:46	00:27:53	If the initial wound was accidental, why was she panty-hosed to the back of a car?
+445	00:27:53	00:27:54	Don't know yet.
+446	00:27:54	00:27:58	Narrows the field of suspects down to someone who had access to that suite.
+447	00:27:58	00:28:00	Where's the statue?
+448	00:28:00	00:28:01	In your car.
+449	00:28:01	00:28:03	Ah!
+450	00:28:10	00:28:20	I know every piece of evidence regarding this case is precious, given the circumstances, so I just wanted to let you know that I've moved Ms. Chase's fingernail scrapings to the top of my extensive queue.
+451	00:28:20	00:28:24	Composite substance. You're never going to believe this.
+452	00:28:24	00:28:27	Egg whites, sugar, butter, milk, food coloring.
+453	00:28:27	00:28:28	How did you know?
+454	00:28:28	00:28:30	Butter cream frosting.
+455	00:28:30	00:28:33	She had an incident with a wedding cake.
+456	00:28:36	00:28:38	Are you done?
+457	00:28:38	00:28:42	You know, you and me, we're not the marrying kind.
+458	00:28:42	00:28:46	The intricacies of our nature can never be understood by just one woman.
+459	00:28:46	00:28:49	Would you close the door, please?
+460	00:28:56	00:28:58	From the other side.
+461	00:29:08	00:29:11	Sara? Sara?
+462	00:29:12	00:29:13	Are they here?
+463	00:29:13	00:29:18	No. They're still held up with that officer-involved shooting, but the Bomb Squad has cleared the convertible.
+464	00:29:18	00:29:20	Oh. Finally.
+465	00:29:20	00:29:22	Something to process.
+466	00:29:25	00:29:28	I thought you said the snowboards were in the suite.
+467	00:29:28	00:29:30	I did.
+468	00:29:30	00:29:32	Then what's the case doing in the trunk?
+469	00:29:47	00:29:51	So you asked me to follow her comings and goings and her food and drink intake.
+470	00:29:51	00:29:55	As far as I can tell, she didn't touch her soup or salad.
+471	00:29:55	00:29:57	And the main course?
+472	00:30:04	00:30:06	And what did Diane have to drink?
+473	00:30:06	00:30:12	Um... I only saw her with two glasses, 00.
+474	00:30:15	00:30:19	This is 15 minutes later.
+475	00:30:19	00:30:20	Oh, my.
+476	00:30:20	00:30:25	The waiter gave her a second glass for her toast, which I watched five times.
+477	00:30:26	00:30:28	And that was it.
+478	00:30:28	00:30:30	When was the last time she was on camera?
+479	00:30:31	00:30:36	Well, her exit was neither polite nor discreet.
+480	00:30:36	00:30:43	I know I may just be a grease monkey, but I drive a tow truck, and I think I know a little something about getting hitched.
+481	00:30:43	00:30:46	And these two... uh... there's more.
+482	00:30:46	00:30:51	Uh... I think these guys are in it for the long haul.
+483	00:30:51	00:30:53	Making friends over here.
+484	00:30:53	00:30:56	No, but seriously, uh...
+485	00:30:56	00:30:59	I don't mean to get all sentimental or anything, but these two are going to have a lot of sex tonight.
+486	00:30:59	00:31:01	And.. what?
+487	00:31:01	00:31:03	What? Are you embarrassed?
+488	00:31:03	00:31:05	She's embarrassed. I'm her older brother.
+489	00:31:05	00:31:06	I changed her diapers.
+490	00:31:06	00:31:08	25.
+491	00:31:08	00:31:10	Would you play that again?
+492	00:31:13	00:31:21	I know I may just be a grease monkey, but I drive a tow truck, and I think I know a little something about getting hitched.
+493	00:31:25	00:31:29	Yeah, Jim. Check into a Mikey Shoemaker, the bride's brother.
+494	00:31:29	00:31:31	Run his wants and warrants.
+495	00:31:31	00:31:33	And also look into the location of his tow yard.
+496	00:31:33	00:31:34	Thank you.
+497	00:31:43	00:31:44	So?
+498	00:31:44	00:31:47	Need your hands.
+499	00:31:47	00:31:49	I thought you'd never ask.
+500	00:31:49	00:31:52	I need you to reprint the bumper because the tape lifts were stolen.
+501	00:31:52	00:31:54	Anything to keep me awake.
+502	00:32:00	00:32:04	Uh-oh! Looks like we had some bride's little helper going on.
+503	00:32:04	00:32:06	Diazepam.
+504	00:32:06	00:32:11	Just filled. Rx calls for six ten-milligram pills.
+505	00:32:11	00:32:13	Two left.
+506	00:32:13	00:32:15	40 milligrams would match mom's blood level.
+507	00:32:15	00:32:23	Jill gets some pills to calm herself, decides to calm her mother-in-law instead, and make everybody happy.
+508	00:32:23	00:32:26	Okay, the blood from the snowboard bag was a match to Mother Chase.
+509	00:32:26	00:32:31	That could have been what they used to transport her from point A to point B.
+510	00:32:31	00:32:34	Yeah, they is right, 'cause I also found two female epithelial contributions.
+511	00:32:34	00:32:40	One on each handle of the bag, and then one of the same females was also a match to the DNA from the knot in the pantyhose.
+512	00:32:40	00:32:45	We could compare them to the buccal swabs we collected... if we still had them.
+513	00:32:45	00:32:47	Well, we'll just have to recollect them.
+514	00:32:47	00:32:48	All 200 of them?
+515	00:32:48	00:32:53	Yeah, and since we can't leave, someone else is gonna have to recollect them.
+516	00:32:53	00:32:54	This is crap!
+517	00:32:54	00:32:56	I've been waiting on I.A.B. for...( snaps gloves )
+518	00:32:56	00:32:57	...14 hours.
+519	00:32:57	00:32:59	I'm tired...
+520	00:32:59	00:33:03	and I kind of smell, and I don't have a freakin' car.
+521	00:33:08	00:33:09	Hey, buddy.
+522	00:33:09	00:33:11	Hey.
+523	00:33:11	00:33:12	How you doing?
+524	00:33:12	00:33:13	You all right?
+525	00:33:13	00:33:14	Hey, this, this sucks, man.
+526	00:33:15	00:33:18	I didn't do anything wrong, and everybody's looking at me like I'm the bad guy.
+527	00:33:18	00:33:20	If I had to do it all over again, I'd do the exact same thing.
+528	00:33:20	00:33:21	Nick, Nick...
+529	00:33:21	00:33:23	I mean, how do I fix the situation?
+530	00:33:23	00:33:24	Nick!
+531	00:33:24	00:33:26	It was already screwed up to begin with. What?
+532	00:33:35	00:33:37	I loaned one of the bridesmaids my jacket.
+533	00:33:37	00:33:40	She was wearing black.
+534	00:33:40	00:33:42	There was no reason to ALS.
+535	00:33:42	00:33:49	Blood must have transferred from her to my jacket, to me.
+536	00:33:49	00:33:51	I didn't want to contaminate it by pulling it over my head, you know?
+537	00:33:51	00:33:53	That was good thinking.
+538	00:33:59	00:34:01	All right. Hey, Wendy, Uh-huh?
+539	00:34:01	00:34:10	I don't know if you'll be able to get anything off of this, but I want you to compare the female epithelials you found on the snowboard bag against the napkin that I have in my right front pocket.
+540	00:34:12	00:34:14	Come on.
+541	00:34:25	00:34:28	So that was a good call on the bride's brother, Mikey Shoemaker.
+542	00:34:28	00:34:30	He had a prior conviction for car theft.
+543	00:34:30	00:34:32	Where did you find Nick's truck?
+544	00:34:32	00:34:37	In one of the paint bays of his auto body shop, right next to a delivery truck.
+545	00:34:37	00:34:38	We're looking for Mikey now.
+546	00:34:38	00:34:40	Well, I watched the rest of the wedding video.
+547	00:34:40	00:34:46	He may have stolen the car, but once Diane disappears, Mikey never leaves the party.
+548	00:34:46	00:34:47	Maybe he wasn't acting alone.
+549	00:34:47	00:34:50	Hey, Pip. How you like your new ride?
+550	00:34:53	00:34:55	Hey, look. They fixed it.
+551	00:34:56	00:34:58	Oh. Oh, that's not funny.
+552	00:34:58	00:34:59	Oh, it's a little funny.
+553	00:35:16	00:35:18	Where did you get that?
+554	00:35:18	00:35:21	Unis found it in a Dumpster behind Mikey Shoemaker's body shop.
+555	00:35:21	00:35:24	He went through all that trouble to steal the car and that's where he ditches it?
+556	00:35:24	00:35:31	Well, they didn't find any biological evidence, and he probably hocked the cameras, but at least I've been reunited with Love's deadly arrow.
+557	00:35:31	00:35:35	You know that's not going to stand up in court, right?
+558	00:35:35	00:35:39	Well, Negative Nelly, I know that, and you know that, but the suspects might not.
+559	00:35:40	00:35:41	We have to convince them that we know what happened.
+560	00:35:41	00:35:43	Do we? We're close.
+561	00:35:43	00:35:45	Can you put the U.V. filter on the camera?
+562	00:35:45	00:35:46	Sure.
+563	00:36:01	00:36:02	How did you...?
+564	00:36:02	00:36:04	I didn't, until I processed it.
+565	00:36:04	00:36:10	But I was thinking the statue punctured her in the back of the head, which means one of three things might have happened.
+566	00:36:10	00:36:12	Either she was stabbed by it...
+567	00:36:12	00:36:14	Well, the statue looks a little unwieldy.
+568	00:36:14	00:36:17	Or she accidentally fell on it.
+569	00:36:17	00:36:20	But with no one to blame, why wouldn't someone just call 911?
+570	00:36:24	00:36:25	she was pushed.
+571	00:36:29	00:36:32	Lucky for us someone had something on their hands.
+572	00:36:32	00:36:35	Something that left good ridge detail I'll swab it for trace.
+573	00:36:35	00:36:38	Prints are a match to a bridesmaid, Lacey Finn.
+574	00:36:38	00:36:39	She's in the system?
+575	00:36:39	00:36:42	Yeah, she was a cocktail waitress for a short time.
+576	00:36:42	00:36:43	Of course she was.
+577	00:36:43	00:36:47	And I pulled the prints off of this pill bottle, but I didn't find a match.
+578	00:36:47	00:36:51	Which means the bride didn't do it because as a nurse, she'd also be in the system.
+579	00:36:51	00:36:53	Correct. However, I did find something.
+580	00:36:53	00:36:55	Look at the prescribing doctor on that label.
+581	00:36:55	00:36:59	I was cross-checking with the guest list, and guess who the good doctor's wife is.
+582	00:37:01	00:37:02	Mrs. Valerie Whitehall.
+583	00:37:02	00:37:03	She's also a bridesmaid.
+584	00:37:06	00:37:08	Well, she knew where the pills were.
+585	00:37:08	00:37:13	She had access to the suite, so maybe Jill didn't poison mom, Valerie did.
+586	00:37:13	00:37:15	A little bonus in the bubbly.
+587	00:37:15	00:37:18	I got the results from Mama Chase's suit jacket.
+588	00:37:18	00:37:19	What's the trace?
+589	00:37:19	00:37:21	Hair gel.
+590	00:37:24	00:37:27	Lacey said that she went to fix her hair.
+591	00:37:30	00:37:31	Where's that Sara chick?
+592	00:37:33	00:37:36	Oh, Romeo, I don't think that you have time for romance.
+593	00:37:36	00:37:42	You're being charged with grand theft auto, obstruction of justice and conspiracy to murder.
+594	00:37:42	00:37:45	Okay, I will cop to everything but the murder.
+595	00:37:45	00:37:48	Well, if you didn't commit the murder, why did you steal the car?
+596	00:37:48	00:37:51	Look, the lady was already dead, all right?
+597	00:37:52	00:37:57	And then, then you guys show up and this bridesmaid comes up to me and starts asking me all these questions about my tow truck.
+598	00:37:57	00:37:58	Which bridesmaid?
+599	00:37:58	00:38:00	The hot one.
+600	00:38:00	00:38:04	Next thing I know, she wants to be the Bonnie to my Clyde.
+601	00:38:04	00:38:06	Asked me to steal this car and trash all the evidence.
+602	00:38:06	00:38:10	So you committed grand theft auto to get laid?
+603	00:38:11	00:38:14	Ever stolen a two-ton piece of machinery?
+604	00:38:14	00:38:17	It is way better than sex.
+605	00:38:18	00:38:20	And finding a girl that doesn't want to kick you to the curb for it?
+606	00:38:20	00:38:22	I mean, come on. That is just hot.
+607	00:38:23	00:38:26	Besides, I hadn't gotten a wedding gift for my sister yet.
+608	00:38:26	00:38:31	So I don't have a match to one of the handles to the snowboard case, but, um, your napkin girl...
+609	00:38:31	00:38:33	That Mindy Faberge?
+610	00:38:33	00:38:35	She got to be a bridesmaid. Yeah.
+611	00:38:36	00:38:37	She matches the other handle.
+612	00:38:37	00:38:40	Well, she was in the suite with the gifts.
+613	00:38:40	00:38:42	She could have touched it then.
+614	00:38:44	00:38:46	You paged?
+615	00:38:46	00:38:49	We think that each of the bridesmaids is responsible for killing her.
+616	00:38:49	00:38:53	Not individually, but working in cahoots.
+617	00:38:53	00:38:56	Each one played their part.
+618	00:38:56	00:39:02	Did you know the original role of the bridesmaid was to act as a human shield against the bride's enemies?
+619	00:39:02	00:39:09	Women would dress similar to the bride in an effort to confuse and outsmart evil spirits that might try to overtake her on her wedding day.
+620	00:39:10	00:39:14	Wow, for somebody who's anti-wedding, you certainly know a lot about it.
+621	00:39:14	00:39:15	I'm not anti-wedding.
+622	00:39:15	00:39:20	I'm just anti-stupid-- you know, people who do things for the sake of tradition with no clue as to why.
+623	00:39:20	00:39:25	Anyway, let's start at the beginning, shall we?
+624	00:39:27	00:39:30	Valerie kindly gets mom a drink.
+625	00:39:38	00:39:42	Then during her toast, Diane starts to feel the effects.
+626	00:39:44	00:39:49	By Mikey's toast, she decides that she's toast.
+627	00:39:49	00:39:51	...a little something about getting hitched.
+628	00:39:51	00:39:55	I know what you did.
+629	00:39:55	00:40:03	I'm going to have your husband's medical license, and I'm going to have you put away for attempted murder.
+630	00:40:03	00:40:11	Lacey overhears Diane's paranoid yet correct ramblings and eventually follows her out.
+631	00:40:16	00:40:18	You okay?
+632	00:40:18	00:40:19	The gall of you to ask me that!
+633	00:40:19	00:40:21	You know I'm not okay, you little tart.
+634	00:40:21	00:40:23	You're all just as bad as she is.
+635	00:40:23	00:40:24	Don't get mad.
+636	00:40:24	00:40:26	Valerie was just trying to make you feel better.
+637	00:40:26	00:40:30	Oh, by giving me a controlled substance?
+638	00:40:30	00:40:35	You are going down for conspiracy!
+639	00:40:35	00:40:36	All right!
+640	00:40:36	00:40:37	You know what, lady?!
+641	00:40:37	00:40:40	That's enough!
+642	00:40:40	00:40:44	Leaving her incapacitated but not dead.
+643	00:40:47	00:40:52	At which point Lacey tells Mindy and Cindy.
+644	00:40:52	00:40:54	They formulate a plan.
+645	00:40:56	00:40:58	Oh, God! Once we get her in there, what are we going to do with her?
+646	00:40:59	00:41:02	Oh, um, let's make it look like it was, um, Forelli...
+647	00:41:02	00:41:04	Fratelli brothers?
+648	00:41:04	00:41:05	Fratelli brothers.
+649	00:41:05	00:41:08	We'll just make it look like they did it.
+650	00:41:08	00:41:09	Oh, my God.
+651	00:41:15	00:41:20	They tie her to the car, chuck the bag in the trunk, return to the party.
+652	00:41:27	00:41:28	Got it, yes!
+653	00:41:29	00:41:35	And everyone just continues along with the joyous festivities until...
+654	00:41:42	00:41:48	I'm not a bad person, and we didn't exactly kill her.
+655	00:41:48	00:41:53	I mean, I like to think she killed herself because she was crazy.
+656	00:41:53	00:41:56	She did crazy things to our friend.
+657	00:41:56	00:41:59	I mean, who hates a pediatric nurse?
+658	00:41:59	00:42:04	Granted, we'd all been drinking, but she drove us to it.
+659	00:42:05	00:42:07	We did what we had to do.
+660	00:42:07	00:42:10	Sisterhood is powerful this and powerful that.
+661	00:42:10	00:42:12	She was on a total trip.
+662	00:42:12	00:42:15	There was no way Jill could endure a life of that.
+663	00:42:16	00:42:22	I just... I wanted to shut her up with the drugs, but that backfired...
+664	00:42:22	00:42:23	leaving us...
+665	00:42:23	00:42:24	...no choice.
+666	00:42:24	00:42:25	She was coming at me.
+667	00:42:25	00:42:28	I just, I just defended myself.
+668	00:42:28	00:42:33	I didn't mean to take her down, but once she was, I...
+669	00:42:33	00:42:35	I felt nothing.
+670	00:42:35	00:42:41	There she was just, just staring at me, and all I could think was...
+671	00:42:41	00:42:44	Thank God.
+672	00:42:55	00:42:57	Grissom?
+673	00:42:59	00:43:01	I.A.B. is here.
+674	00:43:02	00:43:04	Lovely.
+675	00:43:04	00:43:08	You should know that while waiting for I.A.B., we recovered the car and solved the case.
+676	00:43:08	00:43:12	Well, this is not a No harm, no foul situation.
+677	00:43:13	00:43:15	Disciplinary action may still be taken.
+678	00:43:15	00:43:18	Okay.
+679	00:43:20	00:43:22	So who wants to go first?
+680	00:43:25	00:43:26	I don't think it matters.
+681	00:43:26	00:43:29	I'm sure our stories are all the same.

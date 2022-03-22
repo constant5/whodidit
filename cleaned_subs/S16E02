@@ -1,542 +1,501 @@
-,start,end,text
-0,00:00:01,00:00:03,"Previously, on CSI... Can I help you?"
-1,00:00:03,00:00:04,(gasps)
-2,00:00:06,00:00:07,SIDLE: You and I both know you can't be in here.
-3,00:00:07,00:00:10,There are bodies on the floor of my casino.
-4,00:00:10,00:00:11,I need to continue to work this case.
-5,00:00:11,00:00:14,ECKLIE: Lady Heather might have something to do with the bombing.
-6,00:00:14,00:00:16,Do you know where Grissom is? SIDLE: He could be anywhere.
-7,00:00:16,00:00:17,I'm back. I see that.
-8,00:00:21,00:00:23,Everyone thinks you're responsible for these bombings.
-9,00:00:23,00:00:24,I am.
-10,00:00:24,00:00:26,I'm here for Lady Heather.
-11,00:00:45,00:00:47,Thank you.
-12,00:00:48,00:00:53,"I haven't spoken to her about the case, but she's come in here voluntarily, so..."
-13,00:00:53,00:00:55,please treat her with respect.
-14,00:00:55,00:00:57,Of course.
-15,00:01:15,00:01:19,"RUSSELL: Dr. Kessler, thank you very much for coming in today."
-16,00:01:19,00:01:23,"Obviously, we have a lot of questions for you about the bombings."
-17,00:01:23,00:01:25,And hopefully I can provide answers.
-18,00:01:25,00:01:28,"SIDLE: I'll start, Dr. Kessler."
-19,00:01:28,00:01:37,"As much as I'd like to roll out the ""voluntary"" red carpet, and welcome you here to your own bombing party, I can't find it in my bones to overrule my gut, so I'm just gonna ask you the obvious question."
-20,00:01:37,00:01:40,Are you or are you not behind the bombings?
-21,00:01:40,00:01:43,Your hostility connotes jealousy and resentment.
-22,00:01:43,00:01:47,"It doesn't suit you, Sara. You know what, I'm not in the mood, Heather."
-23,00:01:47,00:01:49,I'd like you to answer my question.
-24,00:01:49,00:01:53,And I'd like some more tea.
-25,00:01:53,00:01:56,"RUSSELL: Dr. Kessler, we'll get you some more tea in a moment, but..."
-26,00:01:56,00:01:58,I do have a question for you.
-27,00:01:58,00:02:00,I came here to clear my name. Ask away.
-28,00:02:00,00:02:04,"At your residence, our CSIs found a lot of blood in your living room."
-29,00:02:04,00:02:06,Not a drop of it was yours.
-30,00:02:06,00:02:09,Can you explain that?
-31,00:02:09,00:02:13,I came home after a long day and was surprised by an intruder.
-32,00:02:13,00:02:15,(both grunting)
-33,00:02:20,00:02:22,And you didn't bother to call the cops?
-34,00:02:22,00:02:24,No.
-35,00:02:24,00:02:31,"After the death of my daughter Zoe and the vehicular murder of my granddaughter Alison, I've lost all faith in law enforcement."
-36,00:02:31,00:02:34,WILLOWS: What about the look-alike in your home?
-37,00:02:34,00:02:37,The lady who blew up in your car?
-38,00:02:37,00:02:39,I don't know who she was.
-39,00:02:39,00:02:42,I assume whoever's framing me sent her in to send Sara on a wild-goose chase.
-40,00:02:42,00:02:45,The only one sending us on a wild-goose chase is you.
-41,00:02:45,00:02:50,You only have your claws out because of the intimacy between your ex-husband and I.
-42,00:02:50,00:02:52,Now who's being hostile?
-43,00:02:52,00:02:55,"Needle away, Sara. After all, I've been on both sides of the pricking."
-44,00:02:55,00:02:57,"All right, okay."
-45,00:02:57,00:03:00,Clearly my presence here is distracting. I'm out of here.
-46,00:03:09,00:03:10,"(door opens, closes)"
-47,00:03:10,00:03:12,Ma'am...
-48,00:03:12,00:03:14,you mentioned being framed.
-49,00:03:14,00:03:18,Could that have anything to do with the missing client tapes?
-50,00:03:18,00:03:25,Sara found three months of mini cassettes missing from your office.
-51,00:03:25,00:03:26,Do you think whoever's framing you...
-52,00:03:26,00:03:28,Yes.
-53,00:03:28,00:03:34,How else would the bomber know about the gambling and mental issues of my patients?
-54,00:03:34,00:03:35,"WILLOWS: Just breathe, Sara."
-55,00:03:35,00:03:36,She's only trying to get a rise out of you.
-56,00:03:36,00:03:39,"And the more you let her get to you, the more control she has. I know."
-57,00:03:39,00:03:42,"I-I'm sorry, I..."
-58,00:03:42,00:03:43,I lost my cool.
-59,00:03:43,00:03:45,Damn it.
-60,00:03:45,00:03:46,Don't beat yourself up.
-61,00:03:46,00:03:51,"I don't feel the way you do about Grissom, and I want to kill the bitch with my bare hands."
-62,00:03:55,00:03:57,I'm a woman; I know it when I see it.
-63,00:03:57,00:03:59,So does she.
-64,00:03:59,00:04:01,Remember that.
-65,00:04:02,00:04:04,I'm going back in.
-66,00:04:07,00:04:11,I shut down my practice the day my granddaughter died.
-67,00:04:11,00:04:17,"The second she left this world, I lost everything that I ever cared about. I couldn't go on."
-68,00:04:17,00:04:20,I gave my patients three months notice and I retired.
-69,00:04:20,00:04:23,Is that why you sent your patient into my casino?
-70,00:04:23,00:04:25,To enact revenge on the world?
-71,00:04:25,00:04:28,You told Grissom that you were the one behind the bombings.
-72,00:04:28,00:04:29,I am.
-73,00:04:29,00:04:30,Is that a confession?
-74,00:04:30,00:04:34,I'm not implicating myself as the mastermind behind the bombings or the bombers.
-75,00:04:34,00:04:39,"My suspicion is someone is framing me, and may be a former Red Room client of mine."
-76,00:04:39,00:04:42,I just don't know who or why.
-77,00:04:42,00:04:44,Can you provide a list of names?
-78,00:04:45,00:04:48,Of course I can.
-79,00:04:51,00:04:53,That's everyone.
-80,00:04:53,00:04:56,All 13 gold key members.
-81,00:04:56,00:04:58,May I?
-82,00:05:00,00:05:02,HEATHER: What are you doing?
-83,00:05:02,00:05:04,The blood found in your home was male.
-84,00:05:04,00:05:07,I'm eliminating the female suspects for now.
-85,00:05:07,00:05:09,Oh.
-86,00:05:10,00:05:13,May I?
-87,00:05:31,00:05:33,Why are they eliminated? They're dead.
-88,00:05:33,00:05:38,"Heart attack, aneurysm, drug overdose, cancer."
-89,00:05:38,00:05:40,That leaves five.
-90,00:05:40,00:05:45,"In your opinion, do you think one of these five men is the mastermind behind the bombings?"
-91,00:05:46,00:05:48,I do.
-92,00:05:53,00:05:55,So...
-93,00:05:57,00:05:59,...who are you?
-94,00:06:38,00:06:39,That's my I.D. card.
-95,00:06:39,00:06:41,I'm a mechanic at McCarran International Airport.
-96,00:06:41,00:06:46,"We're the 11th-busiest airport in the world, with over a million surveillance cameras."
-97,00:06:46,00:06:49,"Mr. Schember, do I have your consent to swab your mouth for a DNA sample?"
-98,00:06:49,00:06:51,"Oh, yeah."
-99,00:06:51,00:06:58,MAN: ♪ Ah... ♪ (carrying note)
-100,00:06:58,00:07:01,"Mr. Wittington, I'm all done, sir."
-101,00:07:01,00:07:06,"Mr. Territo, you can open your mouth, or I can get a court order to get your DNA another way, but I don't think you're gonna like it."
-102,00:07:08,00:07:09,How are you gonna...
-103,00:07:10,00:07:11,Thank you. Next!
-104,00:07:11,00:07:15,"I was her first client, you know-- Lady Heather."
-105,00:07:15,00:07:17,"Congratulations. Open up, please."
-106,00:07:17,00:07:21,"When she got you into her bed, you didn't want anything else. You want to do me a favor?"
-107,00:07:21,00:07:23,Open your mouth and shut up.
-108,00:07:26,00:07:28,"Thank you, Mr. Rooney."
-109,00:07:28,00:07:29,Thank you.
-110,00:07:31,00:07:32,May I ask you a personal question?
-111,00:07:32,00:07:33,Please.
-112,00:07:33,00:07:36,How long have you been in that wheelchair?
-113,00:07:36,00:07:38,For as long as I can remember.
-114,00:07:39,00:07:44,Negative. None of the five suspects' DNA matches the blood we found at Lady Heather's.
-115,00:07:44,00:07:46,It's a dead end.
-116,00:07:46,00:07:48,"GRISSOM: Well, you won't be able to hold 'em. SIDLE: No."
-117,00:07:48,00:07:50,Just came from the hospital. Brass is gonna be fine.
-118,00:07:50,00:07:54,"Giving the nurses hell, of course, but keeping them entertained. (chuckles)"
-119,00:07:54,00:07:56,"Hey, you."
-120,00:07:56,00:07:57,What you got there?
-121,00:07:57,00:07:59,You going somewhere?
-122,00:07:59,00:08:00,Me? No.
-123,00:08:00,00:08:01,It's Mr. Grissom's.
-124,00:08:01,00:08:03,"Uh, did you forget your luggage?"
-125,00:08:03,00:08:05,I found it outside the front door.
-126,00:08:05,00:08:07,That's not mine.
-127,00:08:07,00:08:09,It's not?
-128,00:08:10,00:08:12,It says your name on it.
-129,00:08:15,00:08:16,Bomb!
-130,00:08:16,00:08:18,Everybody out! Now!
-131,00:08:18,00:08:20,OFFICER: Everybody! Out!
-132,00:08:26,00:08:28,(mechanical whirring)
-133,00:08:55,00:08:57,Is that a human body?
-134,00:09:06,00:09:09,"PHILLIPS: W-Wait a minute, Doc, hold up."
-135,00:09:11,00:09:14,I think there's something in his mouth.
-136,00:09:26,00:09:28,What is that?
-137,00:09:28,00:09:30,It's a micro SD card.
-138,00:09:30,00:09:32,"""SD"" as in secure digital."
-139,00:09:32,00:09:34,This is what you guys found inside the cadaver? Mm-hmm.
-140,00:09:38,00:09:39,What in the world is that?
-141,00:09:39,00:09:44,RUSSELL: Looks like some form of digital identity concealment.
-142,00:09:44,00:09:48,"MAN (distorted): If you're watching this video, I want you dead."
-143,00:09:48,00:09:51,"If you're not dead, you've been kept alive..."
-144,00:09:51,00:09:53,for the purpose of psychological torture.
-145,00:09:54,00:09:58,Human heads will rip off shoulders.
-146,00:09:58,00:10:00,Bones will snap and fly from flesh.
-147,00:10:00,00:10:04,Innocent blood will stain and spill.
-148,00:10:04,00:10:07,Casino man and teacher lady...
-149,00:10:07,00:10:10,were just the beginning.
-150,00:10:10,00:10:16,The grand finale is specifically designed for you.
-151,00:10:16,00:10:19,I have DNA results on torso man.
-152,00:10:19,00:10:25,A curious name popped up in CODIS. Do you guys remember a man named Jacob Wolfowitz?
-153,00:10:25,00:10:28,He was convicted of killing Lady Heather's daughter years ago.
-154,00:10:28,00:10:32,"He's also the man that Lady Heather almost killed, until you intervened."
-155,00:10:32,00:10:33,(groans loudly)
-156,00:10:34,00:10:36,Heather! Stop it!
-157,00:10:36,00:10:38,Let me finish!
-158,00:10:40,00:10:41,(grunting)
-159,00:10:41,00:10:43,You cannot do this!
-160,00:10:43,00:10:44,(crying): Please.
-161,00:10:44,00:10:47,I'm saying stop.
-162,00:10:47,00:10:49,"(gasping, sobbing)"
-163,00:10:49,00:10:52,It was Wolfowitz in that suitcase.
-164,00:10:52,00:10:54,Wasn't he sentenced to life in prison?
-165,00:10:54,00:10:56,"ANDREWS: Well, he's out."
-166,00:10:56,00:10:58,"Well, half of him, anyway."
-167,00:10:58,00:11:04,"So, clearly, somebody out there is obsessed with Lady Heather, and by the looks of what we found in the suitcase..."
-168,00:11:04,00:11:07,"somebody might be obsessed with you, too."
-169,00:11:22,00:11:25,"WILLOWS: Hard at work, I see."
-170,00:11:25,00:11:27,I am.
-171,00:11:27,00:11:29,Drawing sea creatures.
-172,00:11:29,00:11:31,Whales and sharks.
-173,00:11:31,00:11:34,"Metaphor for Vegas, if you think about it."
-174,00:11:34,00:11:38,"Whales bring the money in, the sharks take it away."
-175,00:11:38,00:11:42,"Whales are bigger in size and stature, but they're the submissive."
-176,00:11:42,00:11:46,"Sharks are smaller, but they're by far the more dominant."
-177,00:11:48,00:11:53,"I think someone's out there playing the dominant, but he's really the submissive."
-178,00:11:53,00:11:56,Okay.
-179,00:11:56,00:11:58,Listen... (clears throat)
-180,00:11:58,00:12:00,I need a favor.
-181,00:12:00,00:12:04,The new girl-- she's having a bit of a rough one.
-182,00:12:04,00:12:05,She thinks she let you down.
-183,00:12:05,00:12:10,"I was hoping you might be able to help her process the suitcase, give her a little of that Grissom TLC?"
-184,00:12:10,00:12:13,She could really use it. I'd rather not.
-185,00:12:13,00:12:15,I'm quite content here.
-186,00:12:15,00:12:18,"Where did that girl come from, anyway?"
-187,00:12:20,00:12:22,My vagina.
-188,00:12:24,00:12:26,You don't recognize her?
-189,00:12:27,00:12:29,"Grissom, that's Lindsey."
-190,00:12:29,00:12:31,That's my daughter.
-191,00:12:32,00:12:35,"RUSSELL: Oh, look at that."
-192,00:12:35,00:12:37,I got an ear.
-193,00:12:38,00:12:41,I got an ear!
-194,00:12:41,00:12:43,Wait. Did I... did I hear you right? You got an ear?
-195,00:12:43,00:12:46,"Yeah, come here. I got a... yeah, I got an ear."
-196,00:12:46,00:12:48,This stuff's amazing.
-197,00:12:48,00:12:53,"Whoever sent this video was using homemade software to swirl the image, right?"
-198,00:12:53,00:12:58,"So, pixel by pixel, I've been trying to reverse the digital concealment."
-199,00:12:58,00:13:06,"It's like, uh, unscrambling scrambled eggs or something, but I-I got an ear."
-200,00:13:06,00:13:09,And we know that our bomber is Caucasian.
-201,00:13:11,00:13:18,"SIDLE: From what we can surmise from the partially reassembled photo and the auditory voice analysis, the person in the video is Caucasian, 40's maybe."
-202,00:13:18,00:13:22,We also believe that the gender isn't female.
-203,00:13:23,00:13:25,Are you clearing me?
-204,00:13:25,00:13:28,I'm clearing you from being the person in the video.
-205,00:13:28,00:13:30,I've not ruled you out as a suspect.
-206,00:13:32,00:13:37,But you're not here alone without Grissom to show me a marbled face and shoddy audio.
-207,00:13:37,00:13:40,"You're here for another reason, aren't you?"
-208,00:13:40,00:13:46,"I'm here, based on what I've shown you, to ask you if you have any idea who's behind this."
-209,00:13:48,00:13:49,(sighs deeply)
-210,00:13:49,00:13:54,I've had thousands of clients and patients come through my domain throughout the years.
-211,00:13:54,00:13:57,Any one of them can be after me for a million unforeseeable reasons.
-212,00:13:57,00:14:00,"I'm not talking about you, Heather."
-213,00:14:00,00:14:02,This is about Grissom.
-214,00:14:02,00:14:06,Why would one of your clients or patients be after him?
-215,00:14:06,00:14:09,"If you're not behind this, then help me."
-216,00:14:09,00:14:11,Help him.
-217,00:14:13,00:14:17,"You're scared for him, aren't you?"
-218,00:14:17,00:14:19,I am.
-219,00:14:22,00:14:24,Do you love him?
-220,00:14:27,00:14:29,I do.
-221,00:14:31,00:14:33,I believe you.
-222,00:14:33,00:14:35,You should.
-223,00:14:37,00:14:38,Do you?
-224,00:14:41,00:14:43,Do I what?
-225,00:14:43,00:14:45,Love him.
-226,00:14:50,00:14:52,No.
-227,00:14:52,00:14:55,I'm afraid I can't help you.
-228,00:15:04,00:15:06,"That's the way, Lindsey."
-229,00:15:06,00:15:08,It's all in the wrist.
-230,00:15:08,00:15:10,What's our motto?
-231,00:15:10,00:15:13,"Too much dust, the evidence may rust."
-232,00:15:13,00:15:15,"Dust too lightly, it acts impolitely."
-233,00:15:15,00:15:18,Hmm.
-234,00:15:18,00:15:19,I got another one for you.
-235,00:15:19,00:15:21,Mm-hmm.
-236,00:15:21,00:15:24,"Evidence may bare, even if rare."
-237,00:15:25,00:15:30,But it's what's not there that gives you a scare.
-238,00:15:31,00:15:34,That's my favorite one yet.
-239,00:15:40,00:15:42,Hmm...
-240,00:15:42,00:15:43,Wow.
-241,00:15:43,00:15:48,I think I might have one for you.
-242,00:15:48,00:15:49,Go ahead.
-243,00:15:49,00:15:54,I think I found a clue to thicken the plot.
-244,00:15:54,00:15:57,What doesn't belong...
-245,00:15:57,00:15:59,"is ""X"" marks the spot."
-246,00:16:16,00:16:19,"LINDSEY: Hey, I know what those numbers are."
-247,00:16:19,00:16:22,Latitude and longitude.
-248,00:16:22,00:16:25,Hmm.
-249,00:16:25,00:16:27,Clever girl.
-250,00:16:47,00:16:50,You want some company?
-251,00:16:50,00:16:52,"I'm good, Mitch."
-252,00:17:02,00:17:05,(door creaks open)
-253,00:18:34,00:18:36,(sighs)
-254,00:18:38,00:18:46,"Dr. Grissom, meet Mr. SynDaver, the, uh, latest craze in the medical industry."
-255,00:18:46,00:18:53,"These, uh, synthetic cadavers were all the rage last year at the surgeons' conference held in Boston."
-256,00:18:53,00:18:58,They allow doctors to perform surgeries without having to use real bodies.
-257,00:18:58,00:19:01,"I prefer the real dead bodies. Me, too."
-258,00:19:02,00:19:03,(buzzing)
-259,00:19:03,00:19:05,Ow!
-260,00:19:05,00:19:07,"Don't move, Doc."
-261,00:19:07,00:19:08,(buzzing)
-262,00:19:23,00:19:27,"Sorry, my little Apis mellifera."
-263,00:19:27,00:19:28,"Good work, Doc."
-264,00:19:28,00:19:29,Hmm.
-265,00:19:32,00:19:34,So what do you think?
-266,00:19:34,00:19:36,Cell phone towers?
-267,00:19:36,00:19:38,Insecticides?
-268,00:19:38,00:19:39,(buzzing)
-269,00:19:39,00:19:46,"I mean, for you guys to bail on your queen like that, leaving her to fend for herself in the company of immature bees?"
-270,00:19:46,00:19:50,No wonder colony collapse disorder is an issue in your hive.
-271,00:19:52,00:19:54,Hi.
-272,00:19:54,00:19:55,I was talking to the bees.
-273,00:19:55,00:19:57,Shocker.
-274,00:20:01,00:20:02,I heard you were in here.
-275,00:20:02,00:20:05,I thought maybe you could use some help.
-276,00:20:05,00:20:06,I'd love some.
-277,00:20:08,00:20:11,I miss working side by side with you.
-278,00:20:14,00:20:16,You and the bees.
-279,00:20:18,00:20:21,"Question is, how did the bee get in the cadaver?"
-280,00:20:21,00:20:28,"I bee-lieve, Mr. Bee-- rest in peace-- hitched a ride from the woods."
-281,00:20:28,00:20:29,Taxonomy came back.
-282,00:20:29,00:20:34,"Insecta, Hymenoptera, Aprocrita, Apoidea..."
-283,00:20:34,00:20:37,Andrenidae.
-284,00:20:37,00:20:39,A mining bee.
-285,00:20:39,00:20:42,"Forest area, Mount Charleston."
-286,00:20:47,00:20:49,GRISSOM: Sniffer bees.
-287,00:20:49,00:20:49,(buzzing)
-288,00:20:49,00:20:52,The world's greatest bloodhounds.
-289,00:20:52,00:20:57,"So, you've already trained the bees with nectar, and each color-coded jar has its own individual recipe."
-290,00:20:57,00:21:05,"And we place the open jars into six different regions on Mount Charleston, so we cover the whole forest."
-291,00:21:05,00:21:08,"Okay, kids, take these and place them."
-292,00:21:08,00:21:09,Caps off.
-293,00:21:09,00:21:10,Use the maps.
-294,00:21:10,00:21:12,Follow your maps exactly.
-295,00:21:12,00:21:17,"Now, all we have to do is paint the bees to match the color region, so we know where they've been."
-296,00:21:17,00:21:20,"Green-- northwest part of the forest, orange-- southeast part of the forest."
-297,00:21:20,00:21:25,"Once they're painted, we simply bid them adieu, and the search is on."
-298,00:21:25,00:21:29,"When we release the colored bees, their first priority is to separate and find their nectar."
-299,00:21:29,00:21:39,"While in flight, they naturally inhale everything in the forest, so when they return to their colored boxes, we can test their hives for the presence of humans in high elevations."
-300,00:21:39,00:21:42,"So, if we get a hit, we'll know exactly where to look."
-301,00:21:45,00:21:47,First time for everything.
-302,00:21:50,00:21:51,GRISSOM: Excellent.
-303,00:21:51,00:21:53,Well done.
-304,00:22:07,00:22:08,Catherine...
-305,00:22:08,00:22:12,the swirl image-- it wasn't designed just to conceal the face.
-306,00:22:12,00:22:14,It has friction ridges.
-307,00:22:14,00:22:16,It's an ulnar loop.
-308,00:22:16,00:22:18,"No, no, this is a hidden fingerprint."
-309,00:23:00,00:23:01,(buzzing)
-310,00:23:01,00:23:04,Hey. Orange is back.
-311,00:23:04,00:23:06,Orange is region six.
-312,00:23:06,00:23:08,"Man, they're fast."
-313,00:23:15,00:23:18,(rapid beeping)
-314,00:23:18,00:23:19,(electronic chirp)
-315,00:23:19,00:23:20,Human presence negative.
-316,00:23:20,00:23:22,So he's not in the southeast corner.
-317,00:23:22,00:23:24,We can eliminate that region.
-318,00:23:28,00:23:29,Five more to go.
-319,00:23:30,00:23:31,"(taps keys, computer beeping)"
-320,00:23:47,00:23:48,(buzzing)
-321,00:23:48,00:23:50,"Hey, green is back."
-322,00:23:56,00:23:59,(rapid beeping)
-323,00:24:03,00:24:04,(electronic chirp)
-324,00:24:11,00:24:13,(computer beeping)
-325,00:24:20,00:24:22,"Oh, my."
-326,00:24:22,00:24:24,Here you are.
-327,00:24:24,00:24:27,(buzzing) GRISSOM: Red's here.
-328,00:24:27,00:24:30,(rapid beeping)
-329,00:24:33,00:24:34,(electronic chirp)
-330,00:24:34,00:24:36,"Finally, we got a hit."
-331,00:24:36,00:24:38,"Red, human presence."
-332,00:24:38,00:24:40,"Region two. 7,500 feet elevation."
-333,00:24:40,00:24:42,That's steep. Top of the mountain.
-334,00:24:42,00:24:44,"Due north, Mount Charleston."
-335,00:24:44,00:24:46,Could be a hiker.
-336,00:24:46,00:24:47,Yeah.
-337,00:24:47,00:24:50,Could be a killer.
-338,00:24:50,00:24:51,WILLOWS: I got here as soon as I could.
-339,00:24:51,00:24:53,Still searching.
-340,00:24:53,00:24:55,(computer blipping rapidly)
-341,00:24:58,00:25:00,It worked. We got a hit.
-342,00:25:00,00:25:02,Sara interrogated that guy.
-343,00:25:02,00:25:05,He's one of the five gold key suspects.
-344,00:25:05,00:25:06,"Greg, grab Morgan. We're heading out."
-345,00:25:06,00:25:10,We got a name and residence of the bomber: 1475 Coven Gardens Road.
-346,00:25:10,00:25:12,I'll meet you there.
-347,00:25:12,00:25:18,"WILLOWS: Suspect's apartment is clear, but we have reports of suspicious activity in the parking garage."
-348,00:25:18,00:25:21,(car alarms blaring)
-349,00:25:35,00:25:38,"(alarms continue blaring, horns honking)"
-350,00:25:54,00:25:55,You seeing this?!
-351,00:25:55,00:25:57,The timers are synchronized.
-352,00:25:57,00:25:59,We have less than five minutes to figure this out.
-353,00:25:59,00:26:01,(sighs)
-354,00:26:53,00:27:00,"WILLOWS: Dispatch, we are here at the Maggadino Apartments off of Coven Gardens. The entire garage is rigged with explosives on timers."
-355,00:27:00,00:27:02,The building is fully occupied.
-356,00:27:02,00:27:04,We are in grave danger.
-357,00:27:04,00:27:07,"Repeat, we are in grave danger."
-358,00:27:09,00:27:12,OFFICER: Hold your fire! He's wired!
-359,00:27:17,00:27:19,Dalton Betton?
-360,00:27:19,00:27:21,How is that possible?
-361,00:27:23,00:27:26,Mr. Grissom.
-362,00:27:26,00:27:28,His DNA wasn't a match.
-363,00:27:31,00:27:36,"I push this button, your friends die."
-364,00:27:36,00:27:41,"I pull this cord, we die."
-365,00:27:42,00:27:43,Finally...
-366,00:27:43,00:27:46,I have all the power.
-367,00:27:52,00:27:55,"I hate to break it, but we don't have time for the bomb squad."
-368,00:27:55,00:27:56,This is our problem now.
-369,00:27:56,00:27:59,What kind of bomb is this? SANDERS: Daisy chain bomb.
-370,00:27:59,00:28:01,"If one goes off, they all go off."
-371,00:28:01,00:28:05,"Not to mention, there's enough C-4 in here to take down this entire apartment complex."
-372,00:28:05,00:28:08,"Look, the only way out of this is we cut the wires at the same time."
-373,00:28:08,00:28:10,We each have to take a car. Cut on my verbal command.
-374,00:28:10,00:28:14,"If we're a millisecond early or late, the bombs will detonate."
-375,00:28:14,00:28:15,This building is filled with civilians.
-376,00:28:15,00:28:16,We can't walk away from this.
-377,00:28:16,00:28:18,This is all or nothing now.
-378,00:28:18,00:28:21,Do or die. You with me?
-379,00:28:21,00:28:22,Yeah.
-380,00:28:22,00:28:23,(car alarms blaring)
-381,00:28:32,00:28:38,"Mr. Betton, the illness you're concealing, is it cancer?"
-382,00:28:40,00:28:41,Lymphoma.
-383,00:28:41,00:28:53,"If one leaves his blood in Lady Heather's house while undergoing stem cell treatment, changing the genetic complexion of his DNA, does that make him two different people?"
-384,00:28:53,00:28:58,"Scientifically, I have two genetic makeups."
-385,00:28:58,00:29:01,Your cheek swab will tell you that.
-386,00:29:01,00:29:07,"Philosophically, I sent those people in to do my dirty work."
-387,00:29:07,00:29:13,All for the purpose of coming face-to-face with you.
-388,00:29:15,00:29:17,WILLOWS: Four colors here.
-389,00:29:17,00:29:20,"Orange, yellow, red, black."
-390,00:29:20,00:29:22,"Red, black."
-391,00:29:22,00:29:24,"Okay, we've got less than two minutes!"
-392,00:29:24,00:29:32,"I want you to carefully take out your wire cutters and steady the blades around the plastic coating of the red wire! I repeat, the red wire!"
-393,00:29:35,00:29:37,Ticktock...
-394,00:29:37,00:29:38,ticktock.
-395,00:29:38,00:29:41,What do you want? His life.
-396,00:29:41,00:29:43,He ruined her.
-397,00:29:43,00:29:49,He took her away from me the moment he stopped Lady Heather from killing Wolfowitz.
-398,00:29:49,00:29:52,I was the first client.
-399,00:29:52,00:29:56,I was the first man she slept with in the dungeon.
-400,00:29:56,00:30:01,And then you came along and you turned her heart.
-401,00:30:01,00:30:04,She quit role-playing because of you.
-402,00:30:04,00:30:07,She quit her practice because of you.
-403,00:30:09,00:30:12,She quit me...
-404,00:30:12,00:30:16,because of you.
-405,00:30:16,00:30:17,And now...
-406,00:30:17,00:30:24,everything Heather and I once had is gone.
-407,00:30:24,00:30:28,"You can't lose something you never had, Mr. Betton."
-408,00:30:28,00:30:31,Lady Heather never slept with you.
-409,00:30:31,00:30:35,She never slept with any of her clients or her patients.
-410,00:30:35,00:30:38,But you've been emotionally attached to her.
-411,00:30:38,00:30:41,Haven't you?
-412,00:30:41,00:30:44,Question now is...
-413,00:30:44,00:30:47,how attached are you to that bomb?
-414,00:30:47,00:30:49,(scoffs)
-415,00:30:49,00:30:52,"All right, listen to the sound of my voice!"
-416,00:30:52,00:30:56,"We snip on ""one."" I love you guys!"
-417,00:30:56,00:30:57,(shuddering sobs)
-418,00:30:57,00:30:59,Counting down from ten...
-419,00:30:59,00:31:01,nine... eight...
-420,00:31:01,00:31:02,"seven... Oh, shoot! Oh..."
-421,00:31:02,00:31:04,"six, five..."
-422,00:31:04,00:31:06,Got it? Yeah.
-423,00:31:06,00:31:08,Two...
-424,00:31:08,00:31:09,one!
-425,00:31:12,00:31:14,Boom.
-426,00:31:14,00:31:16,Your friends are dead.
-427,00:31:23,00:31:24,I don't think so.
-428,00:31:26,00:31:29,"You see, I know about bombs."
-429,00:31:29,00:31:32,"I know about oceans, too."
-430,00:31:32,00:31:37,There's a great mammal in the ocean known as the 52-hertz whale.
-431,00:31:37,00:31:41,"All year, he practices his love song for the female."
-432,00:31:41,00:31:44,Travels thousands of miles to find her.
-433,00:31:44,00:31:51,"But when he finally gets the chance to serenade her, she doesn't give him a call back."
-434,00:31:51,00:31:53,Why?
-435,00:31:53,00:32:02,"His love ballad is sung at 52 hertz, a sonic signature one note higher than the lowest sound of a tuba."
-436,00:32:03,00:32:08,The average female hears at ten to 15 hertz.
-437,00:32:10,00:32:12,So she never hears his song.
-438,00:32:14,00:32:17,They call him the lonely whale.
-439,00:32:17,00:32:26,"And year after year, for a hundred years, he works on a new love song and never, ever gets a call back."
-440,00:32:29,00:32:34,"Eventually, he dies off, forever alone..."
-441,00:32:35,00:32:38,...heart breaking.
-442,00:32:40,00:32:43,"But you've been calling out, too."
-443,00:32:43,00:32:45,You've been calling out for Lady Heather's love.
-444,00:32:45,00:32:46,(gasping sob)
-445,00:32:46,00:32:49,"But she's not calling back, is she?"
-446,00:32:52,00:32:55,"And the frightening part, for you, is..."
-447,00:32:55,00:32:57,she never will.
-448,00:32:57,00:32:59,(gasping sob)
-449,00:33:06,00:33:07,Don't.
-450,00:33:07,00:33:10,You don't have all the power.
-451,00:33:10,00:33:13,Do you?
-452,00:33:13,00:33:16,Go ahead.
-453,00:33:16,00:33:19,Pull it.
-454,00:33:30,00:33:31,"(cries, sniffles)"
-455,00:33:34,00:33:35,(sobs quietly)
-456,00:33:42,00:33:45,(sobbing deeply)
-457,00:33:46,00:33:48,"It's okay, it's okay."
-458,00:33:48,00:33:51,We did it. We did it.
-459,00:33:53,00:33:55,Okay.
-460,00:33:55,00:33:58,Good team. Yeah.
-461,00:34:06,00:34:08,"Ah, Jules."
-462,00:34:08,00:34:11,"Wherever I go, you go."
-463,00:34:11,00:34:13,(knocking on glass)
-464,00:34:13,00:34:13,Heading out?
-465,00:34:13,00:34:16,"Yeah. Yeah, I'm..."
-466,00:34:16,00:34:22,"not one for big good-byes-- cakes, candles and hullabaloo."
-467,00:34:22,00:34:24,Well...
-468,00:34:24,00:34:26,"I'm not one for good-byes, either."
-469,00:34:26,00:34:32,Which is why I'd like to put my hat in the ring for that director position.
-470,00:34:32,00:34:35,"I mean, if Sara doesn't take it."
-471,00:34:35,00:34:37,Really?
-472,00:34:37,00:34:39,"Yeah, I'm coming back home."
-473,00:34:39,00:34:41,Vegas is in my blood.
-474,00:34:41,00:34:43,I have my daughter Lindsey.
-475,00:34:43,00:34:48,And just... so much of what my father left behind is here.
-476,00:34:48,00:34:51,Not to mention those two little girls who don't have anyone.
-477,00:34:51,00:34:55,All reasons to come back where I belong.
-478,00:34:55,00:34:57,Home.
-479,00:34:57,00:34:59,"And you are heading east, yeah?"
-480,00:34:59,00:35:02,"Yeah, yeah. Opportunity knocked."
-481,00:35:02,00:35:05,"Never too late to start a new chapter, as they say."
-482,00:35:05,00:35:08,Nice.
-483,00:35:08,00:35:09,So...
-484,00:35:09,00:35:11,can I help you carry anything?
-485,00:35:11,00:35:14,"Uh, no, actually. I-I got it. Um..."
-486,00:35:16,00:35:19,Everything that's in my mind and...
-487,00:35:19,00:35:22,and in my heart is right here in this box.
-488,00:35:36,00:35:39,"ECKLIE: Okay, okay, one more, one more."
-489,00:35:48,00:35:52,"MAN: This way, Sheriff. WOMAN: Got enough. Thank you."
-490,00:35:52,00:35:54,"Great, great. Thanks, guys."
-491,00:35:56,00:35:57,"Congratulations, Sara."
-492,00:35:57,00:35:59,"Thanks, Conrad. Mm."
-493,00:35:59,00:36:00,Talk to you later.
-494,00:36:00,00:36:01,MAN: You guys might like that one better.
-495,00:36:01,00:36:03,"MAN 2: Good work, sir. MAN 3: Congratulations."
-496,00:36:03,00:36:07,(chuckles) Thank you.
-497,00:36:07,00:36:09,I never thought I'd see this day coming.
-498,00:36:09,00:36:10,But with D.B. out...
-499,00:36:10,00:36:12,You deserve it.
-500,00:36:12,00:36:14,Vegas is lucky to have you.
-501,00:36:14,00:36:17,The oceans are lucky to have you.
-502,00:36:19,00:36:22,"Ironic, isn't it?"
-503,00:36:22,00:36:29,"I'm the one that always wanted to get out of Vegas, and you're the one who thought you would never leave."
-504,00:36:29,00:36:30,Yeah.
-505,00:36:34,00:36:36,Well...
-506,00:36:39,00:36:43,So...
-507,00:36:43,00:36:46,I hope you find what you're looking for out there.
-508,00:36:48,00:36:51,"Bye, Gil."
-509,00:37:09,00:37:11,That's it.
-510,00:37:11,00:37:14,We're done.
-511,00:37:14,00:37:19,"Thanks for your statement. The D.A. may ask you to testify, but that's entirely up to you."
-512,00:37:19,00:37:21,Sure. Whatever helps.
-513,00:37:24,00:37:25,Heather...
-514,00:37:25,00:37:27,(sighs)
-515,00:37:27,00:37:31,...before I get back on my boat...
-516,00:37:31,00:37:34,...I wanted to thank you.
-517,00:37:34,00:37:36,Thank me for what?
-518,00:37:41,00:37:43,"When we first met, I-I..."
-519,00:37:43,00:37:48,had a shell around my heart.
-520,00:37:48,00:37:53,I'd lost my belief in humanity.
-521,00:37:53,00:37:55,The only truth I...
-522,00:37:55,00:37:59,I knew was empirical science.
-523,00:37:59,00:38:04,I-I just wanted to thank you for...
-524,00:38:04,00:38:08,...opening my heart.
-525,00:38:08,00:38:12,"Through you, I learned to love someone."
-526,00:38:14,00:38:16,Sara?
-527,00:38:21,00:38:26,She restores my faith in the human being.
-528,00:38:26,00:38:28,Plus...
-529,00:38:28,00:38:31,...she helped me with my crossword puzzles.
-530,00:38:34,00:38:37,She's been my best friend.
-531,00:38:40,00:38:43,I'll miss her.
-532,00:38:43,00:38:46,For the rest of my life.
-533,00:38:53,00:38:57,"LINDSEY: Hey, Sara, front desk asked me to deliver this."
-534,00:38:57,00:39:01,It's the videotape of Lady Heather's final interview before Grissom released her.
-535,00:39:01,00:39:04,"Oh, great. (wry laugh)"
-536,00:39:04,00:39:07,"Thanks, Lindsey."
-537,00:39:15,00:39:19,I... watched the whole interrogation.
-538,00:39:19,00:39:22,"Uh, I learned a lot."
-539,00:39:22,00:39:24,Especially the end.
-540,00:39:27,00:39:29,You should watch it.
+	start	end	text
+0	00:00:01	00:00:03	Previously, on CSI... Can I help you?
+1	00:00:06	00:00:07	You and I both know you can't be in here.
+2	00:00:07	00:00:10	There are bodies on the floor of my casino.
+3	00:00:10	00:00:11	I need to continue to work this case.
+4	00:00:11	00:00:14	Lady Heather might have something to do with the bombing.
+5	00:00:14	00:00:16	He could be anywhere.
+6	00:00:16	00:00:17	I'm back. I see that.
+7	00:00:21	00:00:23	Everyone thinks you're responsible for these bombings.
+8	00:00:23	00:00:24	I am.
+9	00:00:24	00:00:26	I'm here for Lady Heather.
+10	00:00:45	00:00:47	Thank you.
+11	00:00:48	00:00:53	I haven't spoken to her about the case, but she's come in here voluntarily, so...
+12	00:00:53	00:00:55	please treat her with respect.
+13	00:00:55	00:00:57	Of course.
+14	00:01:15	00:01:19	Dr. Kessler, thank you very much for coming in today.
+15	00:01:19	00:01:23	Obviously, we have a lot of questions for you about the bombings.
+16	00:01:23	00:01:25	And hopefully I can provide answers.
+17	00:01:25	00:01:28	I'll start, Dr. Kessler.
+18	00:01:28	00:01:37	As much as I'd like to roll out the voluntary red carpet, and welcome you here to your own bombing party, I can't find it in my bones to overrule my gut, so I'm just gonna ask you the obvious question.
+19	00:01:37	00:01:40	Are you or are you not behind the bombings?
+20	00:01:40	00:01:43	Your hostility connotes jealousy and resentment.
+21	00:01:43	00:01:47	It doesn't suit you, Sara. You know what, I'm not in the mood, Heather.
+22	00:01:47	00:01:49	I'd like you to answer my question.
+23	00:01:49	00:01:53	And I'd like some more tea.
+24	00:01:53	00:01:56	Dr. Kessler, we'll get you some more tea in a moment, but...
+25	00:01:56	00:01:58	I do have a question for you.
+26	00:01:58	00:02:00	I came here to clear my name. Ask away.
+27	00:02:00	00:02:04	At your residence, our CSIs found a lot of blood in your living room.
+28	00:02:04	00:02:06	Not a drop of it was yours.
+29	00:02:06	00:02:09	Can you explain that?
+30	00:02:09	00:02:13	I came home after a long day and was surprised by an intruder.
+31	00:02:20	00:02:22	And you didn't bother to call the cops?
+32	00:02:22	00:02:24	No.
+33	00:02:24	00:02:31	After the death of my daughter Zoe and the vehicular murder of my granddaughter Alison, I've lost all faith in law enforcement.
+34	00:02:31	00:02:34	What about the look-alike in your home?
+35	00:02:34	00:02:37	The lady who blew up in your car?
+36	00:02:37	00:02:39	I don't know who she was.
+37	00:02:39	00:02:42	I assume whoever's framing me sent her in to send Sara on a wild-goose chase.
+38	00:02:42	00:02:45	The only one sending us on a wild-goose chase is you.
+39	00:02:45	00:02:50	You only have your claws out because of the intimacy between your ex-husband and I.
+40	00:02:50	00:02:52	Now who's being hostile?
+41	00:02:52	00:02:55	Needle away, Sara. After all, I've been on both sides of the pricking.
+42	00:02:55	00:02:57	All right, okay.
+43	00:02:57	00:03:00	Clearly my presence here is distracting. I'm out of here.
+44	00:03:10	00:03:12	Ma'am...
+45	00:03:12	00:03:14	you mentioned being framed.
+46	00:03:14	00:03:18	Could that have anything to do with the missing client tapes?
+47	00:03:18	00:03:25	Sara found three months of mini cassettes missing from your office.
+48	00:03:25	00:03:26	Do you think whoever's framing you...
+49	00:03:26	00:03:28	Yes.
+50	00:03:28	00:03:34	How else would the bomber know about the gambling and mental issues of my patients?
+51	00:03:34	00:03:35	Just breathe, Sara.
+52	00:03:35	00:03:36	She's only trying to get a rise out of you.
+53	00:03:36	00:03:39	And the more you let her get to you, the more control she has. I know.
+54	00:03:39	00:03:42	I-I'm sorry, I...
+55	00:03:42	00:03:43	I lost my cool.
+56	00:03:43	00:03:45	Damn it.
+57	00:03:45	00:03:46	Don't beat yourself up.
+58	00:03:46	00:03:51	I don't feel the way you do about Grissom, and I want to kill the bitch with my bare hands.
+59	00:03:55	00:03:57	I'm a woman; I know it when I see it.
+60	00:03:57	00:03:59	So does she.
+61	00:03:59	00:04:01	Remember that.
+62	00:04:02	00:04:04	I'm going back in.
+63	00:04:07	00:04:11	I shut down my practice the day my granddaughter died.
+64	00:04:11	00:04:17	The second she left this world, I lost everything that I ever cared about. I couldn't go on.
+65	00:04:17	00:04:20	I gave my patients three months notice and I retired.
+66	00:04:20	00:04:23	Is that why you sent your patient into my casino?
+67	00:04:23	00:04:25	To enact revenge on the world?
+68	00:04:25	00:04:28	You told Grissom that you were the one behind the bombings.
+69	00:04:28	00:04:29	I am.
+70	00:04:29	00:04:30	Is that a confession?
+71	00:04:30	00:04:34	I'm not implicating myself as the mastermind behind the bombings or the bombers.
+72	00:04:34	00:04:39	My suspicion is someone is framing me, and may be a former Red Room client of mine.
+73	00:04:39	00:04:42	I just don't know who or why.
+74	00:04:42	00:04:44	Can you provide a list of names?
+75	00:04:45	00:04:48	Of course I can.
+76	00:04:51	00:04:53	That's everyone.
+77	00:04:53	00:04:56	All 13 gold key members.
+78	00:04:56	00:04:58	May I?
+79	00:05:00	00:05:02	What are you doing?
+80	00:05:02	00:05:04	The blood found in your home was male.
+81	00:05:04	00:05:07	I'm eliminating the female suspects for now.
+82	00:05:07	00:05:09	Oh.
+83	00:05:10	00:05:13	May I?
+84	00:05:31	00:05:33	Why are they eliminated? They're dead.
+85	00:05:33	00:05:38	Heart attack, aneurysm, drug overdose, cancer.
+86	00:05:38	00:05:40	That leaves five.
+87	00:05:40	00:05:45	In your opinion, do you think one of these five men is the mastermind behind the bombings?
+88	00:05:46	00:05:48	I do.
+89	00:05:53	00:05:55	So...
+90	00:05:57	00:05:59	...who are you?
+91	00:06:38	00:06:39	That's my I.D. card.
+92	00:06:39	00:06:41	I'm a mechanic at McCarran International Airport.
+93	00:06:41	00:06:46	We're the 11th-busiest airport in the world, with over a million surveillance cameras.
+94	00:06:46	00:06:49	Mr. Schember, do I have your consent to swab your mouth for a DNA sample?
+95	00:06:49	00:06:51	Oh, yeah.
+96	00:06:58	00:07:01	Mr. Wittington, I'm all done, sir.
+97	00:07:01	00:07:06	Mr. Territo, you can open your mouth, or I can get a court order to get your DNA another way, but I don't think you're gonna like it.
+98	00:07:08	00:07:09	How are you gonna...
+99	00:07:10	00:07:11	Thank you. Next!
+100	00:07:11	00:07:15	I was her first client, you know-- Lady Heather.
+101	00:07:15	00:07:17	Congratulations. Open up, please.
+102	00:07:17	00:07:21	When she got you into her bed, you didn't want anything else. You want to do me a favor?
+103	00:07:21	00:07:23	Open your mouth and shut up.
+104	00:07:26	00:07:28	Thank you, Mr. Rooney.
+105	00:07:28	00:07:29	Thank you.
+106	00:07:31	00:07:32	May I ask you a personal question?
+107	00:07:32	00:07:33	Please.
+108	00:07:33	00:07:36	How long have you been in that wheelchair?
+109	00:07:36	00:07:38	For as long as I can remember.
+110	00:07:39	00:07:44	Negative. None of the five suspects' DNA matches the blood we found at Lady Heather's.
+111	00:07:44	00:07:46	It's a dead end.
+112	00:07:46	00:07:50	Well, you won't be able to hold 'em. SIDLE Just came from the hospital. Brass is gonna be fine.
+113	00:07:50	00:07:54	Giving the nurses hell, of course, but keeping them entertained. (chuckles)
+114	00:07:54	00:07:56	Hey, you.
+115	00:07:56	00:07:57	What you got there?
+116	00:07:57	00:07:59	You going somewhere?
+117	00:07:59	00:08:00	Me? No.
+118	00:08:00	00:08:01	It's Mr. Grissom's.
+119	00:08:01	00:08:03	Uh, did you forget your luggage?
+120	00:08:03	00:08:05	I found it outside the front door.
+121	00:08:05	00:08:07	That's not mine.
+122	00:08:07	00:08:09	It's not?
+123	00:08:10	00:08:12	It says your name on it.
+124	00:08:15	00:08:16	Bomb!
+125	00:08:16	00:08:18	Everybody out! Now!
+126	00:08:18	00:08:20	Everybody! Out!
+127	00:08:55	00:08:57	Is that a human body?
+128	00:09:06	00:09:09	W-Wait a minute, Doc, hold up.
+129	00:09:11	00:09:14	I think there's something in his mouth.
+130	00:09:26	00:09:28	What is that?
+131	00:09:28	00:09:30	It's a micro SD card.
+132	00:09:30	00:09:32	SD as in secure digital.
+133	00:09:32	00:09:34	This is what you guys found inside the cadaver? Mm-hmm.
+134	00:09:38	00:09:39	What in the world is that?
+135	00:09:39	00:09:44	Looks like some form of digital identity concealment.
+136	00:09:44	00:09:48	If you're watching this video, I want you dead.
+137	00:09:48	00:09:51	If you're not dead, you've been kept alive...
+138	00:09:51	00:09:53	for the purpose of psychological torture.
+139	00:09:54	00:09:58	Human heads will rip off shoulders.
+140	00:09:58	00:10:00	Bones will snap and fly from flesh.
+141	00:10:00	00:10:04	Innocent blood will stain and spill.
+142	00:10:04	00:10:07	Casino man and teacher lady...
+143	00:10:07	00:10:10	were just the beginning.
+144	00:10:10	00:10:16	The grand finale is specifically designed for you.
+145	00:10:16	00:10:19	I have DNA results on torso man.
+146	00:10:19	00:10:25	A curious name popped up in CODIS. Do you guys remember a man named Jacob Wolfowitz?
+147	00:10:25	00:10:28	He was convicted of killing Lady Heather's daughter years ago.
+148	00:10:28	00:10:32	He's also the man that Lady Heather almost killed, until you intervened.
+149	00:10:34	00:10:36	Heather! Stop it!
+150	00:10:36	00:10:38	Let me finish!
+151	00:10:41	00:10:43	You cannot do this!
+152	00:10:43	00:10:44	Please.
+153	00:10:44	00:10:47	I'm saying stop.
+154	00:10:49	00:10:52	It was Wolfowitz in that suitcase.
+155	00:10:52	00:10:54	Wasn't he sentenced to life in prison?
+156	00:10:54	00:10:56	Well, he's out.
+157	00:10:56	00:10:58	Well, half of him, anyway.
+158	00:10:58	00:11:04	So, clearly, somebody out there is obsessed with Lady Heather, and by the looks of what we found in the suitcase...
+159	00:11:04	00:11:07	somebody might be obsessed with you, too.
+160	00:11:22	00:11:25	Hard at work, I see.
+161	00:11:25	00:11:27	I am.
+162	00:11:27	00:11:29	Drawing sea creatures.
+163	00:11:29	00:11:31	Whales and sharks.
+164	00:11:31	00:11:34	Metaphor for Vegas, if you think about it.
+165	00:11:34	00:11:38	Whales bring the money in, the sharks take it away.
+166	00:11:38	00:11:42	Whales are bigger in size and stature, but they're the submissive.
+167	00:11:42	00:11:46	Sharks are smaller, but they're by far the more dominant.
+168	00:11:48	00:11:53	I think someone's out there playing the dominant, but he's really the submissive.
+169	00:11:53	00:11:56	Okay.
+170	00:11:56	00:11:58	Listen... (clears throat)
+171	00:11:58	00:12:00	I need a favor.
+172	00:12:00	00:12:04	The new girl-- she's having a bit of a rough one.
+173	00:12:04	00:12:05	She thinks she let you down.
+174	00:12:05	00:12:10	I was hoping you might be able to help her process the suitcase, give her a little of that Grissom TLC?
+175	00:12:10	00:12:13	She could really use it. I'd rather not.
+176	00:12:13	00:12:15	I'm quite content here.
+177	00:12:15	00:12:18	Where did that girl come from, anyway?
+178	00:12:20	00:12:22	My vagina.
+179	00:12:24	00:12:26	You don't recognize her?
+180	00:12:27	00:12:29	Grissom, that's Lindsey.
+181	00:12:29	00:12:31	That's my daughter.
+182	00:12:32	00:12:35	Oh, look at that.
+183	00:12:35	00:12:37	I got an ear.
+184	00:12:38	00:12:41	I got an ear!
+185	00:12:41	00:12:43	Wait. Did I... did I hear you right? You got an ear?
+186	00:12:43	00:12:46	Yeah, come here. I got a... yeah, I got an ear.
+187	00:12:46	00:12:48	This stuff's amazing.
+188	00:12:48	00:12:53	Whoever sent this video was using homemade software to swirl the image, right?
+189	00:12:53	00:12:58	So, pixel by pixel, I've been trying to reverse the digital concealment.
+190	00:12:58	00:13:06	It's like, uh, unscrambling scrambled eggs or something, but I-I got an ear.
+191	00:13:06	00:13:09	And we know that our bomber is Caucasian.
+192	00:13:11	00:13:18	From what we can surmise from the partially reassembled photo and the auditory voice analysis, the person in the video is Caucasian, 40's maybe.
+193	00:13:18	00:13:22	We also believe that the gender isn't female.
+194	00:13:23	00:13:25	Are you clearing me?
+195	00:13:25	00:13:28	I'm clearing you from being the person in the video.
+196	00:13:28	00:13:30	I've not ruled you out as a suspect.
+197	00:13:32	00:13:37	But you're not here alone without Grissom to show me a marbled face and shoddy audio.
+198	00:13:37	00:13:40	You're here for another reason, aren't you?
+199	00:13:40	00:13:46	I'm here, based on what I've shown you, to ask you if you have any idea who's behind this.
+200	00:13:49	00:13:54	I've had thousands of clients and patients come through my domain throughout the years.
+201	00:13:54	00:13:57	Any one of them can be after me for a million unforeseeable reasons.
+202	00:13:57	00:14:00	I'm not talking about you, Heather.
+203	00:14:00	00:14:02	This is about Grissom.
+204	00:14:02	00:14:06	Why would one of your clients or patients be after him?
+205	00:14:06	00:14:09	If you're not behind this, then help me.
+206	00:14:09	00:14:11	Help him.
+207	00:14:13	00:14:17	You're scared for him, aren't you?
+208	00:14:17	00:14:19	I am.
+209	00:14:22	00:14:24	Do you love him?
+210	00:14:27	00:14:29	I do.
+211	00:14:31	00:14:33	I believe you.
+212	00:14:33	00:14:35	You should.
+213	00:14:37	00:14:38	Do you?
+214	00:14:41	00:14:43	Do I what?
+215	00:14:43	00:14:45	Love him.
+216	00:14:50	00:14:52	No.
+217	00:14:52	00:14:55	I'm afraid I can't help you.
+218	00:15:04	00:15:06	That's the way, Lindsey.
+219	00:15:06	00:15:08	It's all in the wrist.
+220	00:15:08	00:15:10	What's our motto?
+221	00:15:10	00:15:13	Too much dust, the evidence may rust.
+222	00:15:13	00:15:15	Dust too lightly, it acts impolitely.
+223	00:15:15	00:15:18	Hmm.
+224	00:15:18	00:15:19	I got another one for you.
+225	00:15:19	00:15:21	Mm-hmm.
+226	00:15:21	00:15:24	Evidence may bare, even if rare.
+227	00:15:25	00:15:30	But it's what's not there that gives you a scare.
+228	00:15:31	00:15:34	That's my favorite one yet.
+229	00:15:40	00:15:42	Hmm...
+230	00:15:42	00:15:43	Wow.
+231	00:15:43	00:15:48	I think I might have one for you.
+232	00:15:48	00:15:49	Go ahead.
+233	00:15:49	00:15:54	I think I found a clue to thicken the plot.
+234	00:15:54	00:15:57	What doesn't belong...
+235	00:15:57	00:15:59	is X marks the spot.
+236	00:16:16	00:16:19	Hey, I know what those numbers are.
+237	00:16:19	00:16:22	Latitude and longitude.
+238	00:16:22	00:16:25	Hmm.
+239	00:16:25	00:16:27	Clever girl.
+240	00:16:47	00:16:50	You want some company?
+241	00:16:50	00:16:52	I'm good, Mitch.
+242	00:18:38	00:18:46	Dr. Grissom, meet Mr. SynDaver, the, uh, latest craze in the medical industry.
+243	00:18:46	00:18:53	These, uh, synthetic cadavers were all the rage last year at the surgeons' conference held in Boston.
+244	00:18:53	00:18:58	They allow doctors to perform surgeries without having to use real bodies.
+245	00:18:58	00:19:01	I prefer the real dead bodies. Me, too.
+246	00:19:03	00:19:05	Ow!
+247	00:19:05	00:19:07	Don't move, Doc.
+248	00:19:23	00:19:27	Sorry, my little Apis mellifera.
+249	00:19:27	00:19:28	Good work, Doc.
+250	00:19:28	00:19:29	Hmm.
+251	00:19:32	00:19:34	So what do you think?
+252	00:19:34	00:19:36	Cell phone towers?
+253	00:19:36	00:19:38	Insecticides?
+254	00:19:39	00:19:46	I mean, for you guys to bail on your queen like that, leaving her to fend for herself in the company of immature bees?
+255	00:19:46	00:19:50	No wonder colony collapse disorder is an issue in your hive.
+256	00:19:52	00:19:54	Hi.
+257	00:19:54	00:19:55	I was talking to the bees.
+258	00:19:55	00:19:57	Shocker.
+259	00:20:01	00:20:02	I heard you were in here.
+260	00:20:02	00:20:05	I thought maybe you could use some help.
+261	00:20:05	00:20:06	I'd love some.
+262	00:20:08	00:20:11	I miss working side by side with you.
+263	00:20:14	00:20:16	You and the bees.
+264	00:20:18	00:20:21	Question is, how did the bee get in the cadaver?
+265	00:20:21	00:20:28	I bee-lieve, Mr. Bee-- rest in peace-- hitched a ride from the woods.
+266	00:20:28	00:20:29	Taxonomy came back.
+267	00:20:29	00:20:34	Insecta, Hymenoptera, Aprocrita, Apoidea...
+268	00:20:34	00:20:37	Andrenidae.
+269	00:20:37	00:20:39	A mining bee.
+270	00:20:39	00:20:42	Forest area, Mount Charleston.
+271	00:20:47	00:20:49	Sniffer bees.
+272	00:20:49	00:20:52	The world's greatest bloodhounds.
+273	00:20:52	00:20:57	So, you've already trained the bees with nectar, and each color-coded jar has its own individual recipe.
+274	00:20:57	00:21:05	And we place the open jars into six different regions on Mount Charleston, so we cover the whole forest.
+275	00:21:05	00:21:08	Okay, kids, take these and place them.
+276	00:21:08	00:21:09	Caps off.
+277	00:21:09	00:21:10	Use the maps.
+278	00:21:10	00:21:12	Follow your maps exactly.
+279	00:21:12	00:21:17	Now, all we have to do is paint the bees to match the color region, so we know where they've been.
+280	00:21:17	00:21:20	Green-- northwest part of the forest, orange-- southeast part of the forest.
+281	00:21:20	00:21:25	Once they're painted, we simply bid them adieu, and the search is on.
+282	00:21:25	00:21:29	When we release the colored bees, their first priority is to separate and find their nectar.
+283	00:21:29	00:21:39	While in flight, they naturally inhale everything in the forest, so when they return to their colored boxes, we can test their hives for the presence of humans in high elevations.
+284	00:21:39	00:21:42	So, if we get a hit, we'll know exactly where to look.
+285	00:21:45	00:21:47	First time for everything.
+286	00:21:50	00:21:51	Excellent.
+287	00:21:51	00:21:53	Well done.
+288	00:22:07	00:22:08	Catherine...
+289	00:22:08	00:22:12	the swirl image-- it wasn't designed just to conceal the face.
+290	00:22:12	00:22:14	It has friction ridges.
+291	00:22:14	00:22:16	It's an ulnar loop.
+292	00:22:16	00:22:18	No, no, this is a hidden fingerprint.
+293	00:23:01	00:23:04	Hey. Orange is back.
+294	00:23:04	00:23:06	Orange is region six.
+295	00:23:06	00:23:08	Man, they're fast.
+296	00:23:19	00:23:20	Human presence negative.
+297	00:23:20	00:23:22	So he's not in the southeast corner.
+298	00:23:22	00:23:24	We can eliminate that region.
+299	00:23:28	00:23:29	Five more to go.
+300	00:23:48	00:23:50	Hey, green is back.
+301	00:24:20	00:24:22	Oh, my.
+302	00:24:22	00:24:24	Here you are.
+303	00:24:24	00:24:27	Red's here.
+304	00:24:34	00:24:36	Finally, we got a hit.
+305	00:24:36	00:24:38	Red, human presence.
+306	00:24:38	00:24:40	Region two. 7,500 feet elevation.
+307	00:24:40	00:24:42	That's steep. Top of the mountain.
+308	00:24:42	00:24:44	Due north, Mount Charleston.
+309	00:24:44	00:24:46	Could be a hiker.
+310	00:24:46	00:24:47	Yeah.
+311	00:24:47	00:24:50	Could be a killer.
+312	00:24:50	00:24:51	I got here as soon as I could.
+313	00:24:51	00:24:53	Still searching.
+314	00:24:58	00:25:00	It worked. We got a hit.
+315	00:25:00	00:25:02	Sara interrogated that guy.
+316	00:25:02	00:25:05	He's one of the five gold key suspects.
+317	00:25:05	00:25:06	Greg, grab Morgan. We're heading out.
+318	00:25:06	00:25:10	We got a name and residence 1475 Coven Gardens Road.
+319	00:25:10	00:25:12	I'll meet you there.
+320	00:25:12	00:25:18	Suspect's apartment is clear, but we have reports of suspicious activity in the parking garage.
+321	00:25:54	00:25:55	You seeing this?!
+322	00:25:55	00:25:57	The timers are synchronized.
+323	00:25:57	00:25:59	We have less than five minutes to figure this out.
+324	00:26:53	00:27:00	Dispatch, we are here at the Maggadino Apartments off of Coven Gardens. The entire garage is rigged with explosives on timers.
+325	00:27:00	00:27:02	The building is fully occupied.
+326	00:27:02	00:27:04	We are in grave danger.
+327	00:27:04	00:27:07	Repeat, we are in grave danger.
+328	00:27:09	00:27:12	Hold your fire! He's wired!
+329	00:27:17	00:27:19	Dalton Betton?
+330	00:27:19	00:27:21	How is that possible?
+331	00:27:23	00:27:26	Mr. Grissom.
+332	00:27:26	00:27:28	His DNA wasn't a match.
+333	00:27:31	00:27:36	I push this button, your friends die.
+334	00:27:36	00:27:41	I pull this cord, we die.
+335	00:27:42	00:27:43	Finally...
+336	00:27:43	00:27:46	I have all the power.
+337	00:27:52	00:27:55	I hate to break it, but we don't have time for the bomb squad.
+338	00:27:55	00:27:56	This is our problem now.
+339	00:27:56	00:27:59	What kind of bomb Daisy chain bomb.
+340	00:27:59	00:28:01	If one goes off, they all go off.
+341	00:28:01	00:28:05	Not to mention, there's enough C-4 in here to take down this entire apartment complex.
+342	00:28:05	00:28:08	Look, the only way out of this is we cut the wires at the same time.
+343	00:28:08	00:28:10	We each have to take a car. Cut on my verbal command.
+344	00:28:10	00:28:14	If we're a millisecond early or late, the bombs will detonate.
+345	00:28:14	00:28:15	This building is filled with civilians.
+346	00:28:15	00:28:16	We can't walk away from this.
+347	00:28:16	00:28:18	This is all or nothing now.
+348	00:28:18	00:28:21	Do or die. You with me?
+349	00:28:21	00:28:22	Yeah.
+350	00:28:32	00:28:38	Mr. Betton, the illness you're concealing, is it cancer?
+351	00:28:40	00:28:41	Lymphoma.
+352	00:28:41	00:28:53	If one leaves his blood in Lady Heather's house while undergoing stem cell treatment, changing the genetic complexion of his DNA, does that make him two different people?
+353	00:28:53	00:28:58	Scientifically, I have two genetic makeups.
+354	00:28:58	00:29:01	Your cheek swab will tell you that.
+355	00:29:01	00:29:07	Philosophically, I sent those people in to do my dirty work.
+356	00:29:07	00:29:13	All for the purpose of coming face-to-face with you.
+357	00:29:15	00:29:17	Four colors here.
+358	00:29:17	00:29:20	Orange, yellow, red, black.
+359	00:29:20	00:29:22	Red, black.
+360	00:29:22	00:29:24	Okay, we've got less than two minutes!
+361	00:29:24	00:29:32	I want you to carefully take out your wire cutters and steady the blades around the plastic coating of the red wire! I repeat, the red wire!
+362	00:29:35	00:29:37	Ticktock...
+363	00:29:37	00:29:38	ticktock.
+364	00:29:38	00:29:41	What do you want? His life.
+365	00:29:41	00:29:43	He ruined her.
+366	00:29:43	00:29:49	He took her away from me the moment he stopped Lady Heather from killing Wolfowitz.
+367	00:29:49	00:29:52	I was the first client.
+368	00:29:52	00:29:56	I was the first man she slept with in the dungeon.
+369	00:29:56	00:30:01	And then you came along and you turned her heart.
+370	00:30:01	00:30:04	She quit role-playing because of you.
+371	00:30:04	00:30:07	She quit her practice because of you.
+372	00:30:09	00:30:12	She quit me...
+373	00:30:12	00:30:16	because of you.
+374	00:30:16	00:30:17	And now...
+375	00:30:17	00:30:24	everything Heather and I once had is gone.
+376	00:30:24	00:30:28	You can't lose something you never had, Mr. Betton.
+377	00:30:28	00:30:31	Lady Heather never slept with you.
+378	00:30:31	00:30:35	She never slept with any of her clients or her patients.
+379	00:30:35	00:30:38	But you've been emotionally attached to her.
+380	00:30:38	00:30:41	Haven't you?
+381	00:30:41	00:30:44	Question now is...
+382	00:30:44	00:30:47	how attached are you to that bomb?
+383	00:30:49	00:30:52	All right, listen to the sound of my voice!
+384	00:30:52	00:30:54	We snip on one.
+385	00:30:55	00:30:56	I love you guys!
+386	00:30:57	00:30:59	Counting down from ten...
+387	00:30:59	00:31:01	nine... eight...
+388	00:31:01	00:31:02	seven... Oh, shoot! Oh...
+389	00:31:02	00:31:04	six, five...
+390	00:31:04	00:31:06	Got it? Yeah.
+391	00:31:06	00:31:08	Two...
+392	00:31:08	00:31:09	one!
+393	00:31:12	00:31:14	Boom.
+394	00:31:14	00:31:16	Your friends are dead.
+395	00:31:23	00:31:24	I don't think so.
+396	00:31:26	00:31:29	You see, I know about bombs.
+397	00:31:29	00:31:32	I know about oceans, too.
+398	00:31:32	00:31:37	There's a great mammal in the ocean known as the 52-hertz whale.
+399	00:31:37	00:31:41	All year, he practices his love song for the female.
+400	00:31:41	00:31:44	Travels thousands of miles to find her.
+401	00:31:44	00:31:51	But when he finally gets the chance to serenade her, she doesn't give him a call back.
+402	00:31:51	00:31:53	Why?
+403	00:31:53	00:32:02	His love ballad is sung at 52 hertz, a sonic signature one note higher than the lowest sound of a tuba.
+404	00:32:03	00:32:08	The average female hears at ten to 15 hertz.
+405	00:32:10	00:32:12	So she never hears his song.
+406	00:32:14	00:32:17	They call him the lonely whale.
+407	00:32:17	00:32:26	And year after year, for a hundred years, he works on a new love song and never, ever gets a call back.
+408	00:32:29	00:32:34	Eventually, he dies off, forever alone...
+409	00:32:35	00:32:38	...heart breaking.
+410	00:32:40	00:32:43	But you've been calling out, too.
+411	00:32:43	00:32:45	You've been calling out for Lady Heather's love.
+412	00:32:46	00:32:49	But she's not calling back, is she?
+413	00:32:52	00:32:55	And the frightening part, for you, is...
+414	00:32:55	00:32:57	she never will.
+415	00:33:06	00:33:07	Don't.
+416	00:33:07	00:33:10	You don't have all the power.
+417	00:33:10	00:33:13	Do you?
+418	00:33:13	00:33:16	Go ahead.
+419	00:33:16	00:33:19	Pull it.
+420	00:33:46	00:33:48	It's okay, it's okay.
+421	00:33:48	00:33:51	We did it. We did it.
+422	00:33:53	00:33:55	Okay.
+423	00:33:55	00:33:58	Good team. Yeah.
+424	00:34:06	00:34:08	Ah, Jules.
+425	00:34:08	00:34:11	Wherever I go, you go.
+426	00:34:13	00:34:13	Heading out?
+427	00:34:13	00:34:16	Yeah. Yeah, I'm...
+428	00:34:16	00:34:22	not one for big good-byes-- cakes, candles and hullabaloo.
+429	00:34:22	00:34:24	Well...
+430	00:34:24	00:34:26	I'm not one for good-byes, either.
+431	00:34:26	00:34:32	Which is why I'd like to put my hat in the ring for that director position.
+432	00:34:32	00:34:35	I mean, if Sara doesn't take it.
+433	00:34:35	00:34:37	Really?
+434	00:34:37	00:34:39	Yeah, I'm coming back home.
+435	00:34:39	00:34:41	Vegas is in my blood.
+436	00:34:41	00:34:43	I have my daughter Lindsey.
+437	00:34:43	00:34:48	And just... so much of what my father left behind is here.
+438	00:34:48	00:34:51	Not to mention those two little girls who don't have anyone.
+439	00:34:51	00:34:55	All reasons to come back where I belong.
+440	00:34:55	00:34:57	Home.
+441	00:34:57	00:34:59	And you are heading east, yeah?
+442	00:34:59	00:35:02	Yeah, yeah. Opportunity knocked.
+443	00:35:02	00:35:05	Never too late to start a new chapter, as they say.
+444	00:35:05	00:35:08	Nice.
+445	00:35:08	00:35:09	So...
+446	00:35:09	00:35:11	can I help you carry anything?
+447	00:35:11	00:35:14	Uh, no, actually. I-I got it. Um...
+448	00:35:16	00:35:19	Everything that's in my mind and...
+449	00:35:19	00:35:22	and in my heart is right here in this box.
+450	00:35:36	00:35:39	Okay, okay, one more, one more.
+451	00:35:48	00:35:54	This way, Sheriff. WOMAN Great, great. Thanks, guys.
+452	00:35:56	00:35:57	Congratulations, Sara.
+453	00:35:57	00:35:59	Thanks, Conrad. Mm.
+454	00:35:59	00:36:00	Talk to you later.
+455	00:36:00	00:36:01	You guys might like that one better.
+456	00:36:01	00:36:07	Good work, sir. MAN 3 (chuckles) Thank you.
+457	00:36:07	00:36:09	I never thought I'd see this day coming.
+458	00:36:09	00:36:10	But with D.B. out...
+459	00:36:10	00:36:12	You deserve it.
+460	00:36:12	00:36:14	Vegas is lucky to have you.
+461	00:36:14	00:36:17	The oceans are lucky to have you.
+462	00:36:19	00:36:22	Ironic, isn't it?
+463	00:36:22	00:36:29	I'm the one that always wanted to get out of Vegas, and you're the one who thought you would never leave.
+464	00:36:29	00:36:30	Yeah.
+465	00:36:34	00:36:36	Well...
+466	00:36:39	00:36:43	So...
+467	00:36:43	00:36:46	I hope you find what you're looking for out there.
+468	00:36:48	00:36:51	Bye, Gil.
+469	00:37:09	00:37:11	That's it.
+470	00:37:11	00:37:14	We're done.
+471	00:37:14	00:37:19	Thanks for your statement. The D.A. may ask you to testify, but that's entirely up to you.
+472	00:37:19	00:37:21	Sure. Whatever helps.
+473	00:37:24	00:37:25	Heather...
+474	00:37:27	00:37:31	...before I get back on my boat...
+475	00:37:31	00:37:34	...I wanted to thank you.
+476	00:37:34	00:37:36	Thank me for what?
+477	00:37:41	00:37:43	When we first met, I-I...
+478	00:37:43	00:37:48	had a shell around my heart.
+479	00:37:48	00:37:53	I'd lost my belief in humanity.
+480	00:37:53	00:37:55	The only truth I...
+481	00:37:55	00:37:59	I knew was empirical science.
+482	00:37:59	00:38:04	I-I just wanted to thank you for...
+483	00:38:04	00:38:08	...opening my heart.
+484	00:38:08	00:38:12	Through you, I learned to love someone.
+485	00:38:14	00:38:16	Sara?
+486	00:38:21	00:38:26	She restores my faith in the human being.
+487	00:38:26	00:38:28	Plus...
+488	00:38:28	00:38:31	...she helped me with my crossword puzzles.
+489	00:38:34	00:38:37	She's been my best friend.
+490	00:38:40	00:38:43	I'll miss her.
+491	00:38:43	00:38:46	For the rest of my life.
+492	00:38:53	00:38:57	Hey, Sara, front desk asked me to deliver this.
+493	00:38:57	00:39:01	It's the videotape of Lady Heather's final interview before Grissom released her.
+494	00:39:01	00:39:04	Oh, great. (wry laugh)
+495	00:39:04	00:39:07	Thanks, Lindsey.
+496	00:39:15	00:39:19	I... watched the whole interrogation.
+497	00:39:19	00:39:22	Uh, I learned a lot.
+498	00:39:22	00:39:24	Especially the end.
+499	00:39:27	00:39:29	You should watch it.

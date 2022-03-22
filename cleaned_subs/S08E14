@@ -1,707 +1,643 @@
-,start,end,text
-0,00:00:40,00:00:41,(shutter whirring)
-1,00:00:45,00:00:48,We've got two entry wounds...
-2,00:00:52,00:00:53,...and two exit wounds.
-3,00:00:54,00:00:55,Through-and-throughs.
-4,00:00:56,00:00:57,Any ID on her?
-5,00:00:57,00:01:00,"No wallet, no purse, no cell."
-6,00:01:00,00:01:01,Brass is tracking down the lease.
-7,00:01:01,00:01:03,None of the neighbors seem to know her.
-8,00:01:03,00:01:06,Buildings like these get a lot of transients.
-9,00:01:06,00:01:09,People who tend to keep to themselves.
-10,00:01:12,00:01:15,Looks like the drawers have been rifled through.
-11,00:01:15,00:01:18,Maybe she walked in on a robbery in progress.
-12,00:01:18,00:01:20,"Yeah, except there's no sign of forced entry."
-13,00:01:22,00:01:31,"One, two, three, four, five, six, seven casings, which means there's seven bullets to look for."
-14,00:01:43,00:01:46,Got a strange blood drop.
-15,00:01:46,00:01:49,It's pretty far from the vic.
-16,00:01:49,00:01:50,Could belong to the suspect.
-17,00:01:50,00:01:53,It's circular.
-18,00:01:53,00:01:55,No directionality.
-19,00:01:55,00:01:59,Suspect would have had to be standing perfectly still.
-20,00:02:01,00:02:02,It's gravitational.
-21,00:02:20,00:02:24,"Greg, could you get the Hawkeye, please?"
-22,00:02:24,00:02:27,Here you go.
-23,00:02:27,00:02:30,"Mitch, could you check the apartment immediately above this one?"
-24,00:02:30,00:02:32,"You got it, Doc."
-25,00:02:32,00:02:35,"Mack, James, upstairs."
-26,00:02:35,00:02:37,(footsteps on stairs)
-27,00:02:56,00:02:58,MITCHELL: LVPD. Open up!
-28,00:02:58,00:02:59,(banging)
-29,00:02:59,00:03:01,Open the door!
-30,00:03:01,00:03:03,Get the ram.
-31,00:03:03,00:03:06,(door crashes open)
-32,00:03:08,00:03:10,It looks like this crime has a second story.
-33,00:04:06,00:04:09,(garbled radio transmission)
-34,00:04:09,00:04:13,"Maria Espinosa, organ donor."
-35,00:04:13,00:04:14,Heart was in the right place.
-36,00:04:14,00:04:16,"Unfortunately, her head was in the wrong place."
-37,00:04:16,00:04:18,No exit wound.
-38,00:04:18,00:04:20,Bullet probably hit bone and fragmented.
-39,00:04:20,00:04:22,Okay.
-40,00:04:22,00:04:27,So a stray bullet rips through the floor and Mrs. Espinosa winds up collateral damage.
-41,00:04:29,00:04:31,"SANDERS: Hey, guys."
-42,00:04:31,00:04:33,I found something.
-43,00:04:33,00:04:34,"What do you got, Greg?"
-44,00:04:40,00:04:43,I said what do you got?
-45,00:04:43,00:04:47,Urine.
-46,00:04:47,00:04:49,There's no sign of any pets in here.
-47,00:04:56,00:04:58,(flashlight beeps)
-48,00:05:00,00:05:05,Maybe the shooter freaked out and wet himself.
-49,00:05:07,00:05:09,Not exactly a hardened criminal.
-50,00:05:57,00:06:04,"You know, the bullet trajectory and the location of the facial wound suggest that she was in this position when she was shot."
-51,00:06:04,00:06:08,She was probably trying to hear what was going on downstairs.
-52,00:06:09,00:06:11,MAN: Shut up!
-53,00:06:18,00:06:20,Guess it doesn't pay to be a nosy neighbor.
-54,00:06:20,00:06:25,"Yeah, but Brass said that the neighbors heard the gunshots, but they didn't hear any raised voices or arguing."
-55,00:06:27,00:06:30,What was she listening to?
-56,00:06:42,00:06:43,Tramp stamp.
-57,00:06:43,00:06:45,Looks more like a tramp belt.
-58,00:06:46,00:06:48,Help me roll her.
-59,00:06:51,00:06:56,"So, hot girl with dollar-sign tats and a mostly empty apartment."
-60,00:06:56,00:06:57,"Prostitute, right?"
-61,00:06:57,00:06:58,Maybe.
-62,00:06:58,00:07:00,Maybe she just loves money.
-63,00:07:00,00:07:06,"You know, it's the love of money that is the root of all evil."
-64,00:07:06,00:07:09,Most people think it's just the money.
-65,00:07:09,00:07:11,"Oh, sage."
-66,00:07:11,00:07:13,(phone rings)
-67,00:07:13,00:07:16,Washroom.
-68,00:07:16,00:07:18,"Hey, Catherine, are you collecting trace from Blondie's body?"
-69,00:07:18,00:07:20,As we speak.
-70,00:07:20,00:07:26,So I've collected seven bullets and seven shell casings from the apartment where she was shot.
-71,00:07:26,00:07:28,So what's the problem?
-72,00:07:28,00:07:31,One of these bullets is supposed to be in Mrs. Espinosa.
-73,00:07:33,00:07:35,"Well, maybe you recovered a bullet from a different event."
-74,00:07:35,00:07:37,Maybe.
-75,00:07:37,00:07:40,Have you checked Blondie for GSR?
-76,00:07:40,00:07:42,Hang on-- not yet.
-77,00:07:53,00:07:58,Sodium rhodizonate test on right hand.
-78,00:08:03,00:08:05,Positive for GSR.
-79,00:08:05,00:08:07,She had a gun of her own.
-80,00:08:07,00:08:10,(siren wails in distance)
-81,00:08:10,00:08:20,"Ballistics confirms that all these nine-millimeter casings were fired in the same weapon, but Doc Robbins pulled this bullet fragment from Mrs. Espinosa."
-82,00:08:21,00:08:25,It's cannelured.
-83,00:08:25,00:08:26,So...
-84,00:08:26,00:08:28,Blondie had a revolver.
-85,00:08:28,00:08:29,Hence no shell casings.
-86,00:08:29,00:08:36,"Okay, so she goes back to her apartment packing heat, and somebody's already there waiting to light her up. (two gunshots)"
-87,00:08:36,00:08:39,She gets off a couple of desperate rounds and...
-88,00:08:39,00:08:44,"one shot goes through the ceiling, accidentally killing Mrs. Espinosa."
-89,00:08:44,00:08:46,Welcome to the O.K. Corral. (phone rings)
-90,00:08:47,00:08:48,"Yeah, Jim?"
-91,00:08:49,00:08:50,I just got off the phone with the apartment manager.
-92,00:08:50,00:08:51,Yeah? Did you get an ID on Blondie?
-93,00:08:52,00:08:53,It's not her apartment.
-94,00:08:53,00:08:55,The name on the lease is Kellen Tyford.
-95,00:08:55,00:08:56,Drops?
-96,00:08:56,00:08:58,The nightclub promoter?
-97,00:08:58,00:08:59,"Yeah, and get this."
-98,00:08:59,00:09:02,"He leases the upstairs apartment, too."
-99,00:09:02,00:09:05,That's a lot of apartments for a guy who's getting free room and board.
-100,00:09:10,00:09:12,"Well, well, well."
-101,00:09:12,00:09:13,What's a convict to do?
-102,00:09:29,00:09:31,Check and mate.
-103,00:09:31,00:09:32,Whoo!
-104,00:09:32,00:09:33,He played right into it.
-105,00:09:33,00:09:34,(chuckles)
-106,00:09:34,00:09:35,"MAN: Oh, man, that was..."
-107,00:09:35,00:09:36,Did you see that?
-108,00:09:36,00:09:38,I totally got him.
-109,00:09:49,00:09:52,Looks like something more than forensics be jamming a brother up in here.
-110,00:09:52,00:09:54,"Man, y'all some jinxes, man."
-111,00:09:54,00:09:55,"You know, this is a setup."
-112,00:09:55,00:09:56,Don't you get it?
-113,00:09:56,00:10:01,Ivy League college student versus a high school dropout convict.
-114,00:10:01,00:10:03,You got no chance.
-115,00:10:03,00:10:05,And so said a jury of your peers.
-116,00:10:05,00:10:08,"Look, eight months on a weak-ass weapons charge?"
-117,00:10:08,00:10:09,It's a vacation.
-118,00:10:09,00:10:10,"Vacation, huh?"
-119,00:10:11,00:10:12,So who's this?
-120,00:10:12,00:10:14,Your house-sitter?
-121,00:10:14,00:10:17,We found her at your apartment over on Vegas Valley.
-122,00:10:17,00:10:19,What's her name?
-123,00:10:19,00:10:20,Jessica Jaynes.
-124,00:10:21,00:10:22,J.J. everybody calls her.
-125,00:10:22,00:10:24,But what happened to her?
-126,00:10:24,00:10:25,She drowned.
-127,00:10:25,00:10:27,So what was she doing at your apartment?
-128,00:10:27,00:10:29,Don't know.
-129,00:10:29,00:10:30,"You pimping her out, Superfly?"
-130,00:10:30,00:10:32,Pimping her out?
-131,00:10:32,00:10:35,"Nah, pimping ain't easy, and you know I'm all about the easy, okay?"
-132,00:10:35,00:10:37,J.J. used to come to my club.
-133,00:10:37,00:10:39,She was a club rat.
-134,00:10:39,00:10:41,Sometimes she worked atmosphere.
-135,00:10:41,00:10:44,"Oh, atmosphere. What's that, like turning into a smoke machine?"
-136,00:10:44,00:10:46,"No, more like an ATM machine."
-137,00:10:46,00:10:50,"You sit her on a couch, tourists start to buy her drinks, she makes me money."
-138,00:10:50,00:10:53,"Yeah, especially when the tourist leaves with her."
-139,00:10:53,00:10:54,"So what's your cut, Easy?"
-140,00:10:54,00:10:58,"Look, if the customers like the atmosphere..."
-141,00:10:58,00:10:59,(chuckles)
-142,00:10:59,00:11:00,...then I try to Chuck Woolery that.
-143,00:11:00,00:11:01,Okay?
-144,00:11:01,00:11:03,I want my customers happy.
-145,00:11:03,00:11:05,"You know any unhappy customers, Chuck?"
-146,00:11:05,00:11:07,Look at her.
-147,00:11:07,00:11:09,She even looks good in that picture.
-148,00:11:11,00:11:17,"Yeah, I admit, she looks a whole lot better than Mrs. Espinosa upstairs."
-149,00:11:19,00:11:20,Who did it?
-150,00:11:20,00:11:25,"If I knew that, I wouldn't have driven all the way out here to this frying pan in the desert to ask you."
-151,00:11:25,00:11:29,This woman took care of me when I was a kid.
-152,00:11:29,00:11:32,Went homeless a couple of years ago...
-153,00:11:33,00:11:35,...so I moved her into my house.
-154,00:11:35,00:11:38,"When the tax dudes took that, I had to rent the apartments."
-155,00:11:38,00:11:41,"Top bunk was hers, bottom was mine..."
-156,00:11:41,00:11:46,"Figured it was the least I can do, being as she had to wipe my snot nose all the time."
-157,00:11:46,00:11:49,What was J.J. doing downstairs?
-158,00:11:49,00:11:51,I told you.
-159,00:11:51,00:11:53,"I don't know, so unless you want me to start lying..."
-160,00:11:53,00:11:54,You never stop.
-161,00:11:54,00:11:59,"If that's the way you feel, I'm out."
-162,00:12:14,00:12:19,"Mr. Jaynes, we'd be happy to have someone watch your son while you're doing this, you know?"
-163,00:12:19,00:12:21,He stays with me.
-164,00:12:28,00:12:30,"Mr. Jaynes, is that your wife?"
-165,00:12:31,00:12:33,"Yeah, and his mommy."
-166,00:12:33,00:12:36,Do you have any idea what your wife was doing at the Glanville Apartments?
-167,00:12:36,00:12:37,She has lots of friends.
-168,00:12:37,00:12:39,She always came home every night... to me.
-169,00:12:40,00:12:41,To our baby.
-170,00:12:43,00:12:45,Sir.
-171,00:12:56,00:12:57,"We almost got all the way around, girl."
-172,00:12:58,00:13:00,(baby cries)
-173,00:13:08,00:13:09,Maybe these will help out a little?
-174,00:13:11,00:13:13,Or would you two prefer to be alone?
-175,00:13:13,00:13:15,"Ah, very funny."
-176,00:13:15,00:13:21,"So, Grissom comes up with a theory, and we get to do the reenactments and the photo docs."
-177,00:13:21,00:13:23,Yeah.
-178,00:13:23,00:13:25,"Well, it's..."
-179,00:13:25,00:13:28,"good to be the king, I suppose."
-180,00:13:28,00:13:29,Sure is.
-181,00:13:29,00:13:31,Perfect. Mm-hmm.
-182,00:13:33,00:13:35,Oops. Damn it.
-183,00:13:40,00:13:42,"Hey, Nick, hang on."
-184,00:13:44,00:13:46,What?
-185,00:13:57,00:13:59,That look like a bullet hole to you?
-186,00:13:59,00:14:02,Yeah. It sure does.
-187,00:14:03,00:14:05,(shutter clicks and beeps)
-188,00:14:31,00:14:34,.38 cannelured revolver round.
-189,00:14:36,00:14:37,I like it when the king gets it wrong.
-190,00:14:37,00:14:39,Keeps him human.
-191,00:14:39,00:14:46,STOKES: The bullet we found in Mrs. Espinosa's ceiling was fired from the same revolver as the bullet that went into her cheek.
-192,00:14:47,00:14:49,"Yeah, but there were two bullets in the apartment."
-193,00:14:49,00:14:52,And only one hole in her floor.
-194,00:14:52,00:14:56,Which means the kill shot had to be a separate event.
-195,00:14:59,00:15:01,I think we got the timeline backwards.
-196,00:15:02,00:15:05,Looks to me like J.J. shot Mrs. Espinosa first.
-197,00:15:10,00:15:12,Then went downstairs where somebody returned the favor.
-198,00:15:15,00:15:17,(multiple gunshots)
-199,00:15:20,00:15:22,Yeah. Who's the somebody?
-200,00:15:22,00:15:28,"'Cause the only name on the lease is Drops, and he has a really good alibi."
-201,00:15:28,00:15:31,"Yeah and even if he knew who it was, he's not going to just give them up."
-202,00:15:32,00:15:34,He may not have to.
-203,00:15:34,00:15:38,"So that urine sample that Greg found in the downstairs apartment, had female epithelials in it."
-204,00:15:38,00:15:40,"Now, I ran it through CODIS."
-205,00:15:40,00:15:44,"I didn't get any hits, but the suspect has half her DNA in common at every marker with Mrs. Espinosa."
-206,00:15:44,00:15:46,It's her daughter?
-207,00:15:46,00:15:48,"Mm-hmm, Dana Espinosa."
-208,00:15:48,00:15:49,Dana's got a record.
-209,00:15:49,00:16:01,"She was charged with attempted murder for something involving a Japanese businessman with his nose full of blow, skydiving out of the eighth story of The Palms without a parachute, but the point is this: there was a defense witness whose testimony exonerated her."
-210,00:16:01,00:16:02,Care to guess who?
-211,00:16:03,00:16:04,Drops. Drops.
-212,00:16:05,00:16:06,"I don't know, Kellen."
-213,00:16:06,00:16:09,I'm having trouble with this idea that you're such a nice guy.
-214,00:16:09,00:16:13,"I mean, renting your apartment to a little, old lady andher daughter?"
-215,00:16:13,00:16:14,You're right.
-216,00:16:14,00:16:16,I'm not a nice guy.
-217,00:16:16,00:16:19,"But you plant your seed in a woman, you got to take care of it."
-218,00:16:19,00:16:20,Dana's pregnant?
-219,00:16:20,00:16:25,Due next month. That explains the urine at the scene.
-220,00:16:25,00:16:26,"No bladder control, especially in a gunfight."
-221,00:16:26,00:16:28,So make a ho a housewife.
-222,00:16:28,00:16:29,I saw that movie.
-223,00:16:29,00:16:32,"Look, man, first of all, Dana was no ho."
-224,00:16:32,00:16:35,I scooped her out the atmosphere before she could get touched.
-225,00:16:35,00:16:37,You sure about that?
-226,00:16:37,00:16:42,STOKES: Why would J.J. kill Mrs. Espinosa and then try to kill Dana?
-227,00:16:42,00:16:44,"I mean, they roll in the same clique."
-228,00:16:44,00:16:46,I-I can't explain these women.
-229,00:16:46,00:16:52,"One minute, they're sending each other cupcakes on Facebook, the next, they're trying to kill each other over a broken curling iron."
-230,00:16:52,00:16:56,But I do know...
-231,00:16:56,00:16:59,"that if J.J. tried to creep on Dana, Dana ain't just gonna just sit there."
-232,00:17:00,00:17:01,She a bad bitch.
-233,00:17:01,00:17:04,"If someone's gunning for her or she's gunning for somebody else, we need to find her."
-234,00:17:05,00:17:06,You ain't gonna get her.
-235,00:17:06,00:17:09,"She badder, sneakier, more dangerous."
-236,00:17:10,00:17:11,I'll warn the SWAT team.
-237,00:17:11,00:17:12,Let's give her a call.
-238,00:17:12,00:17:14,What's her phone number? Phone call?
-239,00:17:14,00:17:15,Yeah. From your cop phone number?
-240,00:17:15,00:17:17,Yeah. No chance.
-241,00:17:17,00:17:20,And she won't answer an unknown caller either.
-242,00:17:20,00:17:25,"I'll text in ""sugar daddy."" No, this is the kind of girl you have to find in person."
-243,00:17:25,00:17:26,Then give us some addresses.
-244,00:17:26,00:17:29,What are you going to do? MapQuest her ass?
-245,00:17:29,00:17:30,That's not going to work.
-246,00:17:30,00:17:34,There's only one way to find this girl.
-247,00:17:34,00:17:35,Let me out.
-248,00:17:35,00:17:36,(laughing)
-249,00:17:36,00:17:38,"No, for real."
-250,00:17:38,00:17:40,"I mean, I can have her to you today."
-251,00:17:40,00:17:42,You think we can just pop you out of jail?
-252,00:17:42,00:17:45,Yeah. Like48 Hours.
-253,00:17:45,00:17:46,"You know, the flick."
-254,00:17:46,00:17:48,Nolte busts Eddie out of jail.
-255,00:17:48,00:17:49,They get the bad guy. Everything's cool.
-256,00:17:49,00:17:51,"You think this is a joke, man?"
-257,00:17:51,00:17:54,Dead bodies are piling up around your new family.
-258,00:17:54,00:17:55,"Now, that would worry me."
-259,00:17:56,00:18:01,"But if you want to angle for some weekend pass instead of helping us out, that's fine, man. I understand."
-260,00:18:01,00:18:02,Let's get out of here.
-261,00:18:02,00:18:04,"Hey, we out."
-262,00:18:14,00:18:16,Are these the text messages that came from Jessica Jaynes phone?
-263,00:18:16,00:18:19,Yep. No physical phone required.
-264,00:18:19,00:18:21,Everything's stored on the server.
-265,00:18:21,00:18:24,You ever worry that you could be replaced by a computer?
-266,00:18:24,00:18:26,Every day of my life.
-267,00:18:26,00:18:31,"Last text she sent was to her husband's number, about a half hour before the apartment shootings."
-268,00:18:32,00:18:35,"""Wit Val she knows where D stashed our money."
-269,00:18:35,00:18:37,"""Yay! Be back soon wit phat pockets."
-270,00:18:37,00:18:42,"Kisses to you and Bebe."" Sounds like this girl was looking for a big score."
-271,00:18:42,00:18:45,We didn't find any money in either of those apartments.
-272,00:18:45,00:18:48,"Well, maybe that's what got the old lady killed."
-273,00:18:50,00:18:52,"""D"" for Dana or Drops?"
-274,00:18:52,00:18:54,Pull up her voice calls.
-275,00:18:54,00:18:56,Yep.
-276,00:18:58,00:19:02,"Okay, the last call she got was from Valinda Carlisle."
-277,00:19:02,00:19:03,Val.
-278,00:19:05,00:19:07,Let's see what Val has to say.
-279,00:19:08,00:19:10,(touch tone dialing)
-280,00:19:10,00:19:11,(line rings)
-281,00:19:11,00:19:14,MAN (on phone): Hello?
-282,00:19:14,00:19:15,"Uh, yeah."
-283,00:19:15,00:19:18,"Hey, uh, is Val around?"
-284,00:19:18,00:19:20,Catherine?
-285,00:19:20,00:19:22,Warrick?
-286,00:19:22,00:19:25,I'm afraid she's unable to come to the phone now.
-287,00:19:25,00:19:27,Permanently.
-288,00:19:27,00:19:28,How'd you get this number?
-289,00:19:28,00:19:31,Valinda called my apartment homicide vic last night.
-290,00:19:33,00:19:34,Are there any witnesses?
-291,00:19:34,00:19:37,Unis talked to a couple of guys that went to the strip club across the street.
-292,00:19:37,00:19:42,I think they said they saw a pregnant woman getting into the vic's car from the passenger side.
-293,00:19:42,00:19:46,We've got a BOLO out on Dana Espinosa in connection with the apartment homicides.
-294,00:19:46,00:19:49,"She's considered armed, dangerous and pregnant."
-295,00:19:49,00:19:51,"Ooh, raging hormones and a gun?"
-296,00:19:51,00:19:53,We've got to get that off the streets fast.
-297,00:19:53,00:19:54,What's the plan?
-298,00:20:23,00:20:26,Look who it is.
-299,00:20:26,00:20:28,Mom and Dad.
-300,00:20:30,00:20:32,(handcuffs tightening)
-301,00:20:33,00:20:35,(clicking)
-302,00:20:38,00:20:40,"One big happy family, huh?"
-303,00:20:41,00:20:43,"Yeah, sort of."
-304,00:20:46,00:20:48,Get in the car.
-305,00:20:50,00:20:53,I got a feeling I'm going to regret this.
-306,00:20:53,00:20:55,I already do.
-307,00:21:06,00:21:08,(phone line ringing)
-308,00:21:08,00:21:11,"You have reached the voice mail of Bruce Zagberg, Registered Financial Planner."
-309,00:21:12,00:21:13,Please leave a message.
-310,00:21:13,00:21:14,(phone beeps)
-311,00:21:14,00:21:15,Voice mail again.
-312,00:21:15,00:21:18,DROPS: It's 'cause you don't call Zig-Zag Bruce.
-313,00:21:18,00:21:19,"He calls you, man."
-314,00:21:19,00:21:22,Is there a burger joint or something around here?
-315,00:21:22,00:21:26,"No, but what makes you so sure Dana would go to this guy Bruce anyway?"
-316,00:21:26,00:21:29,"If Dana's on the run, she gonna need some on-the-run money."
-317,00:21:29,00:21:34,Let's say Zig-Zag handles certain aspects of my finances.
-318,00:21:34,00:21:35,"What, like laundering the street vig?"
-319,00:21:35,00:21:38,"No. Actually, my 401k."
-320,00:21:38,00:21:41,"Why are you always tossing the pimp card at me, man?"
-321,00:21:41,00:21:45,"I guess to you, a black man in a suitisa pimp."
-322,00:21:45,00:21:47,Oh. Did I hurt your feelings?
-323,00:21:55,00:21:57,"So, is this the place?"
-324,00:21:57,00:21:58,What?
-325,00:21:58,00:22:00,You just gonna leave me here?
-326,00:22:00,00:22:01,BRASS: Yup.
-327,00:22:01,00:22:04,Zig-Zag Bruce ain't gonna tell you squat.
-328,00:22:07,00:22:11,Wonder what the schools are like around here.
-329,00:22:11,00:22:12,What?
-330,00:22:12,00:22:16,"DROPS: You know, seems like a nice neighborhood."
-331,00:22:16,00:22:22,"Yeah, probably some sweet little foreclosures coming up soon, too."
-332,00:22:22,00:22:24,Sounds like you're thinking about settling down.
-333,00:22:24,00:22:27,Looks like you were finally right about something.
-334,00:22:28,00:22:30,(garbled radio transmission)
-335,00:22:30,00:22:32,Single nine-millimeter shell casing.
-336,00:22:32,00:22:34,Consistent with the other murders.
-337,00:22:34,00:22:36,GRISSOM: How about the neighbors?
-338,00:22:36,00:22:37,Nobody at home.
-339,00:22:37,00:22:40,"Parents at work, kids at school, and nannies don't like talking to cops."
-340,00:22:40,00:22:42,What about Drops?
-341,00:22:42,00:22:44,He give us anything besides more bodies?
-342,00:22:44,00:22:45,"STOKES: No, not yet."
-343,00:22:46,00:22:49,I'll process.
-344,00:22:49,00:22:51,Okay.
-345,00:22:53,00:22:55,(garbled radio transmission)
-346,00:22:55,00:22:58,"So, who else would Dana go to for help?"
-347,00:22:58,00:23:00,Zig-Zag doesn't seem to be a very big talker.
-348,00:23:00,00:23:04,"You're a lot funnier than I remember, Crime-Lab."
-349,00:23:04,00:23:06,You been going to cop comedy school?
-350,00:23:06,00:23:09,"BRASS: Answer the question, Kellen."
-351,00:23:10,00:23:11,"I got a stepsister, Sherry."
-352,00:23:12,00:23:13,Her and Dana are pretty tight.
-353,00:23:13,00:23:17,"If Dana's not with her, Sherry should at least know something."
-354,00:23:18,00:23:19,Jackson and D.
-355,00:23:19,00:23:21,Let's go.
-356,00:23:21,00:23:23,Jackson and D. Yippee.
-357,00:23:24,00:23:25,We're going to the hood.
-358,00:23:42,00:23:44,"Yeah, that's her right there."
-359,00:23:44,00:23:45,The round one.
-360,00:23:45,00:23:48,"Check this out here, fellas."
-361,00:23:48,00:23:51,Y'all gonna have to let me do this one solo.
-362,00:23:51,00:23:53,Sherry's allergic to badges.
-363,00:23:53,00:23:55,"Okay, look at this."
-364,00:23:55,00:23:57,Instant antihistamine.
-365,00:23:57,00:24:01,"Look, man, the cop entourage just ain't gonna cut it. Nah."
-366,00:24:01,00:24:03,I need to be alone.
-367,00:24:03,00:24:05,"I mean, come on."
-368,00:24:05,00:24:06,Where am I going?
-369,00:24:06,00:24:08,You got your game boy on me.
-370,00:24:10,00:24:13,"Okay, check it out."
-371,00:24:13,00:24:15,I'll cover the street.
-372,00:24:24,00:24:27,"What about the cuffs, yo? Cuff?"
-373,00:24:27,00:24:31,"(sighs) Now, why the hell would anybody talk to someone that's already arrested?"
-374,00:24:31,00:24:32,Okay.
-375,00:24:32,00:24:34,"Okay, Kellen, give me that. Give me that."
-376,00:24:37,00:24:38,(laughs) What about a business card?
-377,00:24:38,00:24:42,"You know, just in case Dana ain't around, Sherry can get in contact with us, you know?"
-378,00:24:42,00:24:43,Okay.
-379,00:24:43,00:24:45,Don't make me look bad.
-380,00:24:45,00:24:48,Do the right thing.
-381,00:24:48,00:24:49,(laughs) Cool.
-382,00:24:49,00:24:51,The Church on the Move.
-383,00:24:52,00:24:53,(car door closes)
-384,00:24:53,00:24:54,(sighs)
-385,00:25:05,00:25:06,"Hey, Sher."
-386,00:25:06,00:25:08,"Oh, uh-uh."
-387,00:25:08,00:25:09,You escape from jail?!
-388,00:25:09,00:25:11,"No.Hell,no..."
-389,00:25:11,00:25:13,"Oh, so they just let you out, huh?"
-390,00:25:13,00:25:15,"Well, I mean..."
-391,00:25:15,00:25:16,Lying sack!
-392,00:25:16,00:25:18,You don't think I see 'em?
-393,00:25:19,00:25:22,"You trying to get everybody you know arrested, or maimed, or killed?"
-394,00:25:22,00:25:25,Huh?! You a snake now?! A rat?!
-395,00:25:25,00:25:26,Wait a minute.
-396,00:25:26,00:25:28,"Miss me with the BS, all right, Sher?"
-397,00:25:29,00:25:31,I'm just looking for... For what?! For another damn shortcut?!
-398,00:25:31,00:25:33,Dana's mother was killed.
-399,00:25:33,00:25:36,"J.J. was killed, too, and Dana's missing."
-400,00:25:37,00:25:39,"Now, the cops got me out to help find her."
-401,00:25:39,00:25:42,I thought maybe you might know where she is.
-402,00:25:42,00:25:44,Last time I talked to her was the night before last.
-403,00:25:44,00:25:47,She wasn't feeling too good.
-404,00:25:47,00:25:51,Had to cancel her regular Bingo night with her mama.
-405,00:25:51,00:25:52,"Well, listen, all right?"
-406,00:25:52,00:25:59,"If she does come around here, or calls you, I need you to call Captain Jim Brass, or Nick Stokes..."
-407,00:26:01,00:26:03,...at the Crime Lab.
-408,00:26:04,00:26:08,"Don't look at me like that, Sherry, please, all right? Just do it."
-409,00:26:08,00:26:10,SHERRY: Hold on.
-410,00:26:37,00:26:39,"Stop where you are, Kellen, and drop the bag!"
-411,00:26:40,00:26:41,Why?! Drop the bag!
-412,00:26:41,00:26:42,What did I do...? Drop it!
-413,00:26:42,00:26:43,I didn't even do nothing.
-414,00:26:43,00:26:44,Drops. Okay.
-415,00:26:44,00:26:45,Hands above your head.
-416,00:26:45,00:26:47,Don't move.
-417,00:26:47,00:26:49,"Oh, that is funky."
-418,00:26:49,00:26:50,What is that nasty stuff?!
-419,00:26:50,00:26:51,Chicken gizzards!
-420,00:26:51,00:26:53,"Hey, we're not on a lunch break here."
-421,00:26:53,00:26:54,"At least in jail, I got one."
-422,00:26:55,00:26:57,What'd she tell you? Nothing. She told him nothing.
-423,00:26:57,00:26:58,"All right, come on, Kellen. We're going to jail."
-424,00:26:58,00:26:59,"Whoa, whoa, whoa, wait a minute."
-425,00:26:59,00:27:01,"No, no, no, no, no!"
-426,00:27:01,00:27:02,There's one more place to go. Where?
-427,00:27:02,00:27:03,The office at my after-hours spot.
-428,00:27:03,00:27:04,Why would Dana go there?
-429,00:27:05,00:27:06,Maybe to check out the big-ass safe I got.
-430,00:27:07,00:27:09,Let's go. Ugh!
-431,00:28:03,00:28:05,AUTOMATED MALE VOICE: Display last destination.
-432,00:28:05,00:28:06,Huh.
-433,00:28:06,00:28:09,(beeps)
-434,00:28:09,00:28:10,Hey!
-435,00:28:10,00:28:12,Hey.
-436,00:28:12,00:28:14,Got the autopsy report on Valinda Carlisle.
-437,00:28:14,00:28:16,Thought I'd save you a trip to the morgue.
-438,00:28:16,00:28:17,Nice.
-439,00:28:17,00:28:22,I found Jessica Jayne's purse in the glove compartment.
-440,00:28:22,00:28:24,Really?
-441,00:28:24,00:28:26,And address to the Glanville Apartments on the GPS.
-442,00:28:27,00:28:28,Okay.
-443,00:28:28,00:28:29,(sighs)
-444,00:28:29,00:28:31,So they were in it together.
-445,00:28:33,00:28:37,Valinda drives J.J. to shake down Drops' family for some cash.
-446,00:28:38,00:28:40,It goes bad.
-447,00:28:40,00:28:54,"J.J. kills the mother, Dana kills J.J., Valinda flees the scene, and, the next night, the pissed-off pregnant chick tracks down Valinda and pays her back."
-448,00:28:54,00:28:58,"That seems plausible, but there's something still off."
-449,00:28:58,00:29:05,"The bullet entered through the back of the skull, and it exited through the forehead, and..."
-450,00:29:05,00:29:07,(grunts)
-451,00:29:07,00:29:09,...out through the open window.
-452,00:29:16,00:29:18,I think you got lucky.
-453,00:29:18,00:29:22,The bullet grazed the window frame on its way out.
-454,00:29:22,00:29:25,Gives you a trajectory.
-455,00:29:25,00:29:41,"Well, that's good, but the witnesses say that Valinda was in the driver's seat when Dana got in the car, and if that's true, then, Dana had to shoot Valinda like this, not like this."
-456,00:29:41,00:29:45,"(gunshot) That seems kind of awkward, don't you think?"
-457,00:29:45,00:29:48,"Yeah, but awkward or not, it definitely lines up the shot."
-458,00:29:48,00:29:52,"Well, it seems to me that the shot came from the back seat."
-459,00:29:54,00:29:56,There was someone else in the car.
-460,00:29:56,00:29:58,(upbeat pop music plays)
-461,00:29:58,00:30:00,"(woman singing, loud crowd chatter)"
-462,00:30:06,00:30:08,"Yeah, Dana was here about an hour ago."
-463,00:30:08,00:30:10,She was with some NASCAR-looking dude.
-464,00:30:10,00:30:13,STOKES: And what exactly does a NASCAR-looking dude look like?
-465,00:30:13,00:30:14,Kind of like you.
-466,00:30:14,00:30:16,But this guy's all inked up.
-467,00:30:16,00:30:19,He's got that loco look.
-468,00:30:19,00:30:21,You just let a complete stranger into your boss' office?
-469,00:30:21,00:30:23,I thought you were a smart businessman.
-470,00:30:23,00:30:25,"I mean, it was Dana, your girl."
-471,00:30:25,00:30:27,I didn't ask questions.
-472,00:30:30,00:30:32,What is this?
-473,00:30:32,00:30:34,And where's the DJ?
-474,00:30:34,00:30:35,That's Mini-Britney.
-475,00:30:35,00:30:36,It's what the people want.
-476,00:30:40,00:30:42,Anybody hungry?
-477,00:30:43,00:30:45,I'm going on a sandwich run.
-478,00:30:45,00:30:48,At least let me get that.
-479,00:30:50,00:30:52,Fine. Fine.
-480,00:30:52,00:30:55,"Warwick, take me back to jail."
-481,00:30:58,00:31:02,"Yeah, see, I got cameras all over this place, man."
-482,00:31:02,00:31:04,Let's see who she's with.
-483,00:31:06,00:31:07,Let's run this back an hour.
-484,00:31:15,00:31:17,"Looks like Dana cleaned you out, man."
-485,00:31:17,00:31:19,"Nah, wasn't nothing in that safe, man."
-486,00:31:19,00:31:21,Only Dana didn't know that.
-487,00:31:21,00:31:23,"So, how come you never told us that before?"
-488,00:31:23,00:31:27,"You guys sprung me to help find her, and that's what I'm doing."
-489,00:31:29,00:31:30,There she is.
-490,00:31:30,00:31:32,(typing)
-491,00:31:32,00:31:33,(tape whirring)
-492,00:31:33,00:31:35,BRASS: Wait a minute.
-493,00:31:35,00:31:36,"That's Jessica Jaynes' husband, Walter."
-494,00:31:36,00:31:38,What's Dana doing with him?
-495,00:31:38,00:31:39,Beats the hell out of me.
-496,00:31:40,00:31:41,Walter's J.J.'s pimp.
-497,00:31:41,00:31:43,Your favorite word.
-498,00:31:43,00:31:44,(sighs)
-499,00:31:44,00:31:46,He all about the cash.
-500,00:31:46,00:31:48,Dude's a man-bitch.
-501,00:31:48,00:31:51,Takes care of the kid while she goes out and makes the money.
-502,00:31:51,00:31:55,Even tattoos her waist every time she pulls a high-roller trick.
-503,00:31:55,00:31:57,"(typing, tape whirring)"
-504,00:31:57,00:31:58,"Another notch on her belt, I guess."
-505,00:31:58,00:32:01,STOKES: I think he's got a gun on her.
-506,00:32:02,00:32:04,J.J. was after your money.
-507,00:32:04,00:32:07,"Now Walter's after it, and he's taken your girlfriend hostage to get it."
-508,00:32:07,00:32:09,"BRASS: Where's the money, Kellen?"
-509,00:32:09,00:32:12,'Cause I'm betting that's where we're going to find the both of them.
-510,00:32:12,00:32:14,"Well, talk to my lawyers."
-511,00:32:14,00:32:15,"Better yet, talk to the tax dudes."
-512,00:32:15,00:32:17,They know where it is.
-513,00:32:17,00:32:19,"House special, times three."
-514,00:32:19,00:32:21,"BRASS: Oh, come on, get out of here, man."
-515,00:32:21,00:32:23,"What's this look like, a party?"
-516,00:32:23,00:32:28,"STOKES: Okay, I'll check the outside cameras, see if we can see where they went."
-517,00:32:30,00:32:32,(beep)
-518,00:32:32,00:32:33,(trilling)
-519,00:32:33,00:32:35,(beeping)
-520,00:32:35,00:32:37,I need to put a BOLO out on Walter Jaynes.
-521,00:32:37,00:32:40,I'm gonna put some more mayonnaise on this dry-ass sandwich.
-522,00:32:40,00:32:42,(woman singing in club)
-523,00:32:58,00:33:01,(grunts)
-524,00:33:01,00:33:03,(grunts)
-525,00:33:06,00:33:09,Kellen!
-526,00:33:25,00:33:27,LVPD.
-527,00:33:27,00:33:28,Move! Move!
-528,00:33:31,00:33:33,Move! Move!
-529,00:33:34,00:33:37,"(tires squealing, car horn toots)"
-530,00:33:40,00:33:42,(tires squealing)
-531,00:33:51,00:33:53,"Suspect was seen leaving the scene in a, uh..."
-532,00:33:53,00:33:55,A piece-of-crap blue station wagon.
-533,00:33:55,00:33:58,"Nevada plates, K-C-Z. That's all I got."
-534,00:33:58,00:34:01,"A blue station wagon, partial plates, Kilo-Charlie-Zebra."
-535,00:34:01,00:34:03,(garbled radio transmission)
-536,00:34:03,00:34:05,Dale?!
-537,00:34:07,00:34:08,What did you give Drops?
-538,00:34:08,00:34:10,Turkey sandwich.
-539,00:34:10,00:34:11,"You want to play around with me, huh?"
-540,00:34:11,00:34:12,You're under arrest.
-541,00:34:12,00:34:14,"For what, serving sandwiches?"
-542,00:34:14,00:34:15,Aiding and abetting. Cuff him.
-543,00:34:15,00:34:18,"Hey, man. Hey, hey, hey, hey, hey, hey, hey."
-544,00:34:18,00:34:21,"Look... Look, um..."
-545,00:34:21,00:34:23,"Look, it was a GPS jammer melt."
-546,00:34:23,00:34:25,A what?
-547,00:34:29,00:34:31,(garbled radio transmission)
-548,00:34:32,00:34:39,"DROPS: I need you to call Captain Jim Brass, or Nick Stokes at the Crime Lab."
-549,00:34:39,00:34:42,"Don't look at me like that, Sherry, please, all right? Just do it!"
-550,00:34:42,00:34:44,Get him out of here.
-551,00:34:44,00:34:46,"Come on, man. I told you everything."
-552,00:34:46,00:34:48,(phone rings) You still gonna arrest me?
-553,00:34:48,00:34:50,"I was just taking orders, man."
-554,00:34:50,00:34:51,(phone beeps)
-555,00:34:51,00:34:52,"Hey, Grissom, don't worry."
-556,00:34:52,00:34:53,We're gonna get him.
-557,00:34:53,00:34:55,The undersheriff will be pleased to know that.
-558,00:34:55,00:35:03,"The nine-millimeter casing found at the business manager's apartment, and the one from Valinda Carlisle's car were fired in the same gun."
-559,00:35:03,00:35:04,No surprises there.
-560,00:35:04,00:35:08,"Yeah, but it's not the gun that was used to kill Jessica Jaynes."
-561,00:35:08,00:35:12,"I think Walter Jaynes is the one who's on a rampage here, and he's dragging Dana Espinosa with him."
-562,00:35:13,00:35:14,Any idea where?
-563,00:35:14,00:35:15,"No. No, not yet."
-564,00:35:15,00:35:17,"You might want to work on that, Nick."
-565,00:35:17,00:35:20,We got a lead on the station wagon that scooped up Drops.
-566,00:35:20,00:35:21,The registered owner is Walter Jaynes.
-567,00:35:21,00:35:24,He must have had Dana in the car with him.
-568,00:35:24,00:35:27,Walter wouldn't just let him in the car to protect the girl.
-569,00:35:27,00:35:28,Drops must have something he wants.
-570,00:35:28,00:35:30,The money.
-571,00:35:30,00:35:35,What we have here... is a misunderstanding.
-572,00:35:35,00:35:38,Hmm. I understand it just fine.
-573,00:35:38,00:35:45,"My J.J. bangs one of your whales 24-7 from Christmas to New Year's, and you stiff us."
-574,00:35:45,00:35:47,Wait. Wait. Stiff you?
-575,00:35:47,00:35:48,I got busted.
-576,00:35:48,00:35:50,I went to jail.
-577,00:35:50,00:35:51,"Technically, I'm still in jail."
-578,00:35:51,00:35:54,And my baby doesn't have a mother.
-579,00:35:54,00:35:55,Neither does Dana.
-580,00:35:55,00:35:57,"I'm sorry. I thought she was gonna kill me, too."
-581,00:35:57,00:35:59,Shut up! DROPS: Calm down.
-582,00:35:59,00:36:01,"Look, look, look at me. Walter, look at me."
-583,00:36:01,00:36:03,Don't even listen to her. Walter!
-584,00:36:03,00:36:04,"Walter, look at me! See this here? Look."
-585,00:36:05,00:36:07,"50 Gs, baby."
-586,00:36:07,00:36:08,I won't even take my cut.
-587,00:36:08,00:36:11,That's very generous.
-588,00:36:11,00:36:15,"So, uh, we good to go?"
-589,00:36:15,00:36:17,You owe me something else.
-590,00:36:17,00:36:19,What? The vig?
-591,00:36:19,00:36:21,"What's that, 25 more?"
-592,00:36:21,00:36:24,You can take the whole couch if you want to.
-593,00:36:24,00:36:25,"No, no, no, no."
-594,00:36:25,00:36:28,I got my pay.
-595,00:36:28,00:36:30,I need my payback.
-596,00:36:32,00:36:34,I lost my wife.
-597,00:36:34,00:36:38,I'm going to let you choose which one you lose.
-598,00:36:38,00:36:40,Either your girl...
-599,00:36:42,00:36:44,...or your baby.
-600,00:36:44,00:36:45,(sobbing)
-601,00:36:45,00:36:47,(panting)
-602,00:36:51,00:36:53,(beep)
-603,00:36:53,00:36:55,"(beeping, sirens blaring)"
-604,00:36:56,00:36:57,Drops' GPS just came back up.
-605,00:36:57,00:36:58,(trilling and beeps)
-606,00:36:59,00:37:00,He's definitely at the apartment.
-607,00:37:00,00:37:01,"Well, either the jammer died, or..."
-608,00:37:01,00:37:04,"Yeah, or he's calling for help. Okay, listen up."
-609,00:37:04,00:37:07,"We got a hostage situation at the Glanville apartment, 6555 Vegas Valley."
-610,00:37:07,00:37:08,We're gonna make a silent approach.
-611,00:37:08,00:37:09,Everybody copy?
-612,00:37:09,00:37:11,(trilling)
-613,00:37:12,00:37:15,Look... I can't choose.
-614,00:37:15,00:37:19,"Either you choose, or I choose."
-615,00:37:19,00:37:20,Choose!
-616,00:37:36,00:37:38,(fussing)
-617,00:37:43,00:37:45,Okay.
-618,00:37:46,00:37:49,The choice is made. (sobbing): No!
-619,00:37:51,00:37:53,(approaching footsteps running)
-620,00:37:53,00:37:54,"(Drops grunts, Dana cries)"
-621,00:37:54,00:37:57,(grunting)
-622,00:37:57,00:37:59,(gun cocking)
-623,00:38:00,00:38:02,"(gunshot, Dana screaming)"
-624,00:38:02,00:38:05,Get that scumbag out of here!
-625,00:38:05,00:38:06,(groaning)
-626,00:38:06,00:38:09,"Oh, man! Oh, Damn!"
-627,00:38:09,00:38:13,BRASS: We have two gunshot victims at the Glanville Apartments. Code Three.
-628,00:38:13,00:38:14,"(groans) Whoa, whoa, whoa."
-629,00:38:14,00:38:15,Damn. Her water broke.
-630,00:38:15,00:38:17,Trauma from the shot.
-631,00:38:17,00:38:18,One of the victims is a pregnant woman.
-632,00:38:18,00:38:20,She's going into labor.
-633,00:38:20,00:38:22,That's all I got right there.
-634,00:38:22,00:38:24,"Oh, the baby's coming!"
-635,00:38:24,00:38:25,"Just keeping breathing, Dana."
-636,00:38:25,00:38:27,"Just keep breathing, okay?"
-637,00:38:27,00:38:28,Paramedics are on their way.
-638,00:38:29,00:38:30,Here. Relax.
-639,00:38:30,00:38:31,That's it. That's it.
-640,00:38:31,00:38:33,(Dana whimpers)
-641,00:38:33,00:38:35,(panting)
-642,00:38:35,00:38:37,(sirens blaring)
-643,00:38:40,00:38:42,"(rhythmic beeping, machine whooshing)"
-644,00:38:50,00:38:52,(baby crying)
-645,00:39:04,00:39:07,He looks healthy.
-646,00:39:07,00:39:09,How are you? You good?
-647,00:39:09,00:39:10,Sore.
-648,00:39:10,00:39:13,I want to hold him.
-649,00:39:14,00:39:16,No.
-650,00:39:17,00:39:19,No?
-651,00:39:19,00:39:21,That's my son.
-652,00:39:21,00:39:23,"I don't want you to hold him, Kellen."
-653,00:39:23,00:39:30,"Because of you, I heard my mother die."
-654,00:39:30,00:39:31,J.J.: Where's the money?! MARIA: What money?
-655,00:39:31,00:39:33,I don't have anything! Drops' money!
-656,00:39:33,00:39:37,"MARIA: Who?! Just take what you want and leave, or I'm calling the police!"
-657,00:39:37,00:39:40,(gunshot) DANA: I didn't even know it was J.J.
-658,00:39:40,00:39:42,What was I supposed to do?
-659,00:39:42,00:39:43,(gun chamber cocking)
-660,00:39:43,00:39:45,"I shot her and ran, and then Valinda called."
-661,00:39:45,00:39:47,She said she heard what happened.
-662,00:39:47,00:39:51,Said she wanted to help me.
-663,00:39:53,00:39:54,"Thank you, Val."
-664,00:39:54,00:39:56,I am so freaked out right now.
-665,00:39:56,00:39:57,I am so sorry.
-666,00:39:57,00:39:59,DANA: Walter made Val call me.
-667,00:39:59,00:40:00,She was just bait.
-668,00:40:00,00:40:02,"(gunshot, Dana screams)"
-669,00:40:02,00:40:04,(rhythmic beeping)
-670,00:40:04,00:40:06,Walter said you owed him some money.
-671,00:40:06,00:40:11,You told me you didn't have anything.
-672,00:40:11,00:40:15,"So I took Walter to Zig-Zag, thinking he would help."
-673,00:40:15,00:40:21,"And when he didn't, he killed him, too."
-674,00:40:21,00:40:23,And for what?
-675,00:40:23,00:40:27,So that you could hide all the money and keep it for yourself?
-676,00:40:27,00:40:29,I had to.
-677,00:40:29,00:40:31,The tax dudes would have taken it.
-678,00:40:31,00:40:35,"And, technically, I didn't hide it."
-679,00:40:35,00:40:37,I left it with your mother.
-680,00:40:37,00:40:38,"Don't BS me, Kellen."
-681,00:40:38,00:40:40,"Babe, listen, okay, seriously."
-682,00:40:40,00:40:43,"Seriously, you would have spent it."
-683,00:40:43,00:40:45,"Then, where would we be?"
-684,00:40:45,00:40:48,Hmm? Hmm?
-685,00:40:48,00:40:50,"That was for our future, Mommy."
-686,00:40:50,00:40:52,We don't have a future.
-687,00:40:54,00:40:57,"When you get out, we'll be gone."
-688,00:40:57,00:40:59,You can't do that.
-689,00:40:59,00:41:02,"We're not married, and you're a convict."
-690,00:41:02,00:41:04,I can do what I want.
-691,00:41:07,00:41:09,"STOKES: Okay, Drops, that's it."
-692,00:41:09,00:41:10,"Time to go, man."
-693,00:41:10,00:41:14,"We got to get you transferred back to the prison hospital, okay?"
-694,00:41:23,00:41:25,Is Dana gonna do any time for offing J.J.?
-695,00:41:25,00:41:27,"Oh, I doubt it."
-696,00:41:27,00:41:29,Sounds like a pretty good case of self-defense to me.
-697,00:41:29,00:41:31,What about the money?
-698,00:41:31,00:41:32,I'm not expecting anything. Just wondering.
-699,00:41:32,00:41:34,"Well, technically, it's the mother's."
-700,00:41:34,00:41:35,It was her apartment.
-701,00:41:35,00:41:38,"Dana's the only beneficiary, so the money's really hers."
-702,00:41:38,00:41:41,And my kid's. Yeah.
-703,00:41:41,00:41:44,"For once, I did something good in my life."
-704,00:41:44,00:41:47,"Oh, your life ain't over yet, Kellen."
-705,00:41:47,00:41:49,It ain't over yet.
+	start	end	text
+0	00:00:45	00:00:48	We've got two entry wounds...
+1	00:00:52	00:00:53	...and two exit wounds.
+2	00:00:54	00:00:55	Through-and-throughs.
+3	00:00:56	00:00:57	Any ID on her?
+4	00:00:57	00:01:00	No wallet, no purse, no cell.
+5	00:01:00	00:01:01	Brass is tracking down the lease.
+6	00:01:01	00:01:03	None of the neighbors seem to know her.
+7	00:01:03	00:01:06	Buildings like these get a lot of transients.
+8	00:01:06	00:01:09	People who tend to keep to themselves.
+9	00:01:12	00:01:15	Looks like the drawers have been rifled through.
+10	00:01:15	00:01:18	Maybe she walked in on a robbery in progress.
+11	00:01:18	00:01:20	Yeah, except there's no sign of forced entry.
+12	00:01:22	00:01:31	One, two, three, four, five, six, seven casings, which means there's seven bullets to look for.
+13	00:01:43	00:01:46	Got a strange blood drop.
+14	00:01:46	00:01:49	It's pretty far from the vic.
+15	00:01:49	00:01:50	Could belong to the suspect.
+16	00:01:50	00:01:53	It's circular.
+17	00:01:53	00:01:55	No directionality.
+18	00:01:55	00:01:59	Suspect would have had to be standing perfectly still.
+19	00:02:01	00:02:02	It's gravitational.
+20	00:02:20	00:02:24	Greg, could you get the Hawkeye, please?
+21	00:02:24	00:02:27	Here you go.
+22	00:02:27	00:02:30	Mitch, could you check the apartment immediately above this one?
+23	00:02:30	00:02:32	You got it, Doc.
+24	00:02:32	00:02:35	Mack, James, upstairs.
+25	00:02:56	00:02:58	LVPD. Open up!
+26	00:02:59	00:03:01	Open the door!
+27	00:03:01	00:03:03	Get the ram.
+28	00:03:08	00:03:10	It looks like this crime has a second story.
+29	00:04:09	00:04:13	Maria Espinosa, organ donor.
+30	00:04:13	00:04:14	Heart was in the right place.
+31	00:04:14	00:04:16	Unfortunately, her head was in the wrong place.
+32	00:04:16	00:04:18	No exit wound.
+33	00:04:18	00:04:20	Bullet probably hit bone and fragmented.
+34	00:04:20	00:04:22	Okay.
+35	00:04:22	00:04:27	So a stray bullet rips through the floor and Mrs. Espinosa winds up collateral damage.
+36	00:04:29	00:04:31	Hey, guys.
+37	00:04:31	00:04:33	I found something.
+38	00:04:33	00:04:34	What do you got, Greg?
+39	00:04:40	00:04:43	I said what do you got?
+40	00:04:43	00:04:47	Urine.
+41	00:04:47	00:04:49	There's no sign of any pets in here.
+42	00:05:00	00:05:05	Maybe the shooter freaked out and wet himself.
+43	00:05:07	00:05:09	Not exactly a hardened criminal.
+44	00:05:57	00:06:04	You know, the bullet trajectory and the location of the facial wound suggest that she was in this position when she was shot.
+45	00:06:04	00:06:08	She was probably trying to hear what was going on downstairs.
+46	00:06:09	00:06:11	Shut up!
+47	00:06:18	00:06:20	Guess it doesn't pay to be a nosy neighbor.
+48	00:06:20	00:06:25	Yeah, but Brass said that the neighbors heard the gunshots, but they didn't hear any raised voices or arguing.
+49	00:06:27	00:06:30	What was she listening to?
+50	00:06:42	00:06:43	Tramp stamp.
+51	00:06:43	00:06:45	Looks more like a tramp belt.
+52	00:06:46	00:06:48	Help me roll her.
+53	00:06:51	00:06:56	So, hot girl with dollar-sign tats and a mostly empty apartment.
+54	00:06:56	00:06:57	Prostitute, right?
+55	00:06:57	00:06:58	Maybe.
+56	00:06:58	00:07:00	Maybe she just loves money.
+57	00:07:00	00:07:06	You know, it's the love of money that is the root of all evil.
+58	00:07:06	00:07:09	Most people think it's just the money.
+59	00:07:09	00:07:11	Oh, sage.
+60	00:07:13	00:07:16	Washroom.
+61	00:07:16	00:07:18	Hey, Catherine, are you collecting trace from Blondie's body?
+62	00:07:18	00:07:20	As we speak.
+63	00:07:20	00:07:26	So I've collected seven bullets and seven shell casings from the apartment where she was shot.
+64	00:07:26	00:07:28	So what's the problem?
+65	00:07:28	00:07:31	One of these bullets is supposed to be in Mrs. Espinosa.
+66	00:07:33	00:07:35	Well, maybe you recovered a bullet from a different event.
+67	00:07:35	00:07:37	Maybe.
+68	00:07:37	00:07:40	Have you checked Blondie for GSR?
+69	00:07:40	00:07:42	Hang on-- not yet.
+70	00:07:53	00:07:58	Sodium rhodizonate test on right hand.
+71	00:08:03	00:08:05	Positive for GSR.
+72	00:08:05	00:08:07	She had a gun of her own.
+73	00:08:10	00:08:20	Ballistics confirms that all these nine-millimeter casings were fired in the same weapon, but Doc Robbins pulled this bullet fragment from Mrs. Espinosa.
+74	00:08:21	00:08:25	It's cannelured.
+75	00:08:25	00:08:26	So...
+76	00:08:26	00:08:28	Blondie had a revolver.
+77	00:08:28	00:08:29	Hence no shell casings.
+78	00:08:29	00:08:36	Okay, so she goes back to her apartment packing heat, and somebody's already there waiting to light her up. (two gunshots)
+79	00:08:36	00:08:39	She gets off a couple of desperate rounds and...
+80	00:08:39	00:08:44	one shot goes through the ceiling, accidentally killing Mrs. Espinosa.
+81	00:08:44	00:08:46	Welcome to the O.K. Corral. (phone rings)
+82	00:08:47	00:08:48	Yeah, Jim?
+83	00:08:49	00:08:50	I just got off the phone with the apartment manager.
+84	00:08:50	00:08:51	Yeah? Did you get an ID on Blondie?
+85	00:08:52	00:08:53	It's not her apartment.
+86	00:08:53	00:08:55	The name on the lease is Kellen Tyford.
+87	00:08:55	00:08:56	Drops?
+88	00:08:56	00:08:58	The nightclub promoter?
+89	00:08:58	00:08:59	Yeah, and get this.
+90	00:08:59	00:09:02	He leases the upstairs apartment, too.
+91	00:09:02	00:09:05	That's a lot of apartments for a guy who's getting free room and board.
+92	00:09:10	00:09:12	Well, well, well.
+93	00:09:12	00:09:13	What's a convict to do?
+94	00:09:29	00:09:31	Check and mate.
+95	00:09:31	00:09:32	Whoo!
+96	00:09:32	00:09:33	He played right into it.
+97	00:09:34	00:09:35	Oh, man, that was...
+98	00:09:35	00:09:36	Did you see that?
+99	00:09:36	00:09:38	I totally got him.
+100	00:09:49	00:09:52	Looks like something more than forensics be jamming a brother up in here.
+101	00:09:52	00:09:54	Man, y'all some jinxes, man.
+102	00:09:54	00:09:55	You know, this is a setup.
+103	00:09:55	00:09:56	Don't you get it?
+104	00:09:56	00:10:01	Ivy League college student versus a high school dropout convict.
+105	00:10:01	00:10:03	You got no chance.
+106	00:10:03	00:10:05	And so said a jury of your peers.
+107	00:10:05	00:10:08	Look, eight months on a weak-ass weapons charge?
+108	00:10:08	00:10:09	It's a vacation.
+109	00:10:09	00:10:10	Vacation, huh?
+110	00:10:11	00:10:12	So who's this?
+111	00:10:12	00:10:14	Your house-sitter?
+112	00:10:14	00:10:17	We found her at your apartment over on Vegas Valley.
+113	00:10:17	00:10:19	What's her name?
+114	00:10:19	00:10:20	Jessica Jaynes.
+115	00:10:21	00:10:22	J.J. everybody calls her.
+116	00:10:22	00:10:24	But what happened to her?
+117	00:10:24	00:10:25	She drowned.
+118	00:10:25	00:10:27	So what was she doing at your apartment?
+119	00:10:27	00:10:29	Don't know.
+120	00:10:29	00:10:30	You pimping her out, Superfly?
+121	00:10:30	00:10:32	Pimping her out?
+122	00:10:32	00:10:35	Nah, pimping ain't easy, and you know I'm all about the easy, okay?
+123	00:10:35	00:10:37	J.J. used to come to my club.
+124	00:10:37	00:10:39	She was a club rat.
+125	00:10:39	00:10:41	Sometimes she worked atmosphere.
+126	00:10:41	00:10:44	Oh, atmosphere. What's that, like turning into a smoke machine?
+127	00:10:44	00:10:46	No, more like an ATM machine.
+128	00:10:46	00:10:50	You sit her on a couch, tourists start to buy her drinks, she makes me money.
+129	00:10:50	00:10:53	Yeah, especially when the tourist leaves with her.
+130	00:10:53	00:10:54	So what's your cut, Easy?
+131	00:10:54	00:10:58	Look, if the customers like the atmosphere...
+132	00:10:59	00:11:00	...then I try to Chuck Woolery that.
+133	00:11:00	00:11:01	Okay?
+134	00:11:01	00:11:03	I want my customers happy.
+135	00:11:03	00:11:05	You know any unhappy customers, Chuck?
+136	00:11:05	00:11:07	Look at her.
+137	00:11:07	00:11:09	She even looks good in that picture.
+138	00:11:11	00:11:17	Yeah, I admit, she looks a whole lot better than Mrs. Espinosa upstairs.
+139	00:11:19	00:11:20	Who did it?
+140	00:11:20	00:11:25	If I knew that, I wouldn't have driven all the way out here to this frying pan in the desert to ask you.
+141	00:11:25	00:11:29	This woman took care of me when I was a kid.
+142	00:11:29	00:11:32	Went homeless a couple of years ago...
+143	00:11:33	00:11:35	...so I moved her into my house.
+144	00:11:35	00:11:38	When the tax dudes took that, I had to rent the apartments.
+145	00:11:38	00:11:41	Top bunk was hers, bottom was mine...
+146	00:11:41	00:11:46	Figured it was the least I can do, being as she had to wipe my snot nose all the time.
+147	00:11:46	00:11:49	What was J.J. doing downstairs?
+148	00:11:49	00:11:51	I told you.
+149	00:11:51	00:11:53	I don't know, so unless you want me to start lying...
+150	00:11:53	00:11:54	You never stop.
+151	00:11:54	00:11:59	If that's the way you feel, I'm out.
+152	00:12:14	00:12:19	Mr. Jaynes, we'd be happy to have someone watch your son while you're doing this, you know?
+153	00:12:19	00:12:21	He stays with me.
+154	00:12:28	00:12:30	Mr. Jaynes, is that your wife?
+155	00:12:31	00:12:33	Yeah, and his mommy.
+156	00:12:33	00:12:36	Do you have any idea what your wife was doing at the Glanville Apartments?
+157	00:12:36	00:12:37	She has lots of friends.
+158	00:12:37	00:12:39	She always came home every night... to me.
+159	00:12:40	00:12:41	To our baby.
+160	00:12:43	00:12:45	Sir.
+161	00:12:56	00:12:57	We almost got all the way around, girl.
+162	00:13:08	00:13:09	Maybe these will help out a little?
+163	00:13:11	00:13:13	Or would you two prefer to be alone?
+164	00:13:13	00:13:15	Ah, very funny.
+165	00:13:15	00:13:21	So, Grissom comes up with a theory, and we get to do the reenactments and the photo docs.
+166	00:13:21	00:13:23	Yeah.
+167	00:13:23	00:13:25	Well, it's...
+168	00:13:25	00:13:28	good to be the king, I suppose.
+169	00:13:28	00:13:29	Sure is.
+170	00:13:29	00:13:31	Perfect. Mm-hmm.
+171	00:13:33	00:13:35	Oops. Damn it.
+172	00:13:40	00:13:42	Hey, Nick, hang on.
+173	00:13:44	00:13:46	What?
+174	00:13:57	00:13:59	That look like a bullet hole to you?
+175	00:13:59	00:14:02	Yeah. It sure does.
+176	00:14:31	00:14:34	.38 cannelured revolver round.
+177	00:14:36	00:14:37	I like it when the king gets it wrong.
+178	00:14:37	00:14:39	Keeps him human.
+179	00:14:39	00:14:46	The bullet we found in Mrs. Espinosa's ceiling was fired from the same revolver as the bullet that went into her cheek.
+180	00:14:47	00:14:49	Yeah, but there were two bullets in the apartment.
+181	00:14:49	00:14:52	And only one hole in her floor.
+182	00:14:52	00:14:56	Which means the kill shot had to be a separate event.
+183	00:14:59	00:15:01	I think we got the timeline backwards.
+184	00:15:02	00:15:05	Looks to me like J.J. shot Mrs. Espinosa first.
+185	00:15:10	00:15:12	Then went downstairs where somebody returned the favor.
+186	00:15:20	00:15:22	Yeah. Who's the somebody?
+187	00:15:22	00:15:28	'Cause the only name on the lease is Drops, and he has a really good alibi.
+188	00:15:28	00:15:31	Yeah and even if he knew who it was, he's not going to just give them up.
+189	00:15:32	00:15:34	He may not have to.
+190	00:15:34	00:15:38	So that urine sample that Greg found in the downstairs apartment, had female epithelials in it.
+191	00:15:38	00:15:40	Now, I ran it through CODIS.
+192	00:15:40	00:15:44	I didn't get any hits, but the suspect has half her DNA in common at every marker with Mrs. Espinosa.
+193	00:15:44	00:15:46	It's her daughter?
+194	00:15:46	00:15:48	Mm-hmm, Dana Espinosa.
+195	00:15:48	00:15:49	Dana's got a record.
+196	00:15:49	00:16:01	She was charged with attempted murder for something involving a Japanese businessman with his nose full of blow, skydiving out of the eighth story of The Palms there was a defense witness whose testimony exonerated her.
+197	00:16:01	00:16:02	Care to guess who?
+198	00:16:03	00:16:04	Drops. Drops.
+199	00:16:05	00:16:06	I don't know, Kellen.
+200	00:16:06	00:16:09	I'm having trouble with this idea that you're such a nice guy.
+201	00:16:09	00:16:13	I mean, renting your apartment to a little, old lady and her daughter?
+202	00:16:13	00:16:14	You're right.
+203	00:16:14	00:16:16	I'm not a nice guy.
+204	00:16:16	00:16:19	But you plant your seed in a woman, you got to take care of it.
+205	00:16:19	00:16:20	Dana's pregnant?
+206	00:16:20	00:16:25	Due next month. That explains the urine at the scene.
+207	00:16:25	00:16:26	No bladder control, especially in a gunfight.
+208	00:16:26	00:16:28	So make a ho a housewife.
+209	00:16:28	00:16:29	I saw that movie.
+210	00:16:29	00:16:32	Look, man, first of all, Dana was no ho.
+211	00:16:32	00:16:35	I scooped her out the atmosphere before she could get touched.
+212	00:16:35	00:16:37	You sure about that?
+213	00:16:37	00:16:42	Why would J.J. kill Mrs. Espinosa and then try to kill Dana?
+214	00:16:42	00:16:44	I mean, they roll in the same clique.
+215	00:16:44	00:16:46	I-I can't explain these women.
+216	00:16:46	00:16:52	One minute, they're sending each other cupcakes on Facebook, the next, they're trying to kill each other over a broken curling iron.
+217	00:16:52	00:16:56	But I do know...
+218	00:16:56	00:16:59	that if J.J. tried to creep on Dana, Dana ain't just gonna just sit there.
+219	00:17:00	00:17:01	She a bad bitch.
+220	00:17:01	00:17:04	If someone's gunning for her or she's gunning for somebody else, we need to find her.
+221	00:17:05	00:17:06	You ain't gonna get her.
+222	00:17:06	00:17:09	She badder, sneakier, more dangerous.
+223	00:17:10	00:17:11	I'll warn the SWAT team.
+224	00:17:11	00:17:12	Let's give her a call.
+225	00:17:12	00:17:14	What's her phone number? Phone call?
+226	00:17:14	00:17:15	Yeah. From your cop phone number?
+227	00:17:15	00:17:17	Yeah. No chance.
+228	00:17:17	00:17:20	And she won't answer an unknown caller either.
+229	00:17:20	00:17:21	I'll text in sugar daddy.
+230	00:17:22	00:17:25	No, this is the kind of girl you have to find in person.
+231	00:17:25	00:17:26	Then give us some addresses.
+232	00:17:26	00:17:29	What are you going to do? MapQuest her ass?
+233	00:17:29	00:17:30	That's not going to work.
+234	00:17:30	00:17:34	There's only one way to find this girl.
+235	00:17:34	00:17:35	Let me out.
+236	00:17:36	00:17:38	No, for real.
+237	00:17:38	00:17:40	I mean, I can have her to you today.
+238	00:17:40	00:17:42	You think we can just pop you out of jail?
+239	00:17:42	00:17:45	Yeah. Like 48 Hours.
+240	00:17:45	00:17:46	You know, the flick.
+241	00:17:46	00:17:48	Nolte busts Eddie out of jail.
+242	00:17:48	00:17:49	They get the bad guy. Everything's cool.
+243	00:17:49	00:17:51	You think this is a joke, man?
+244	00:17:51	00:17:54	Dead bodies are piling up around your new family.
+245	00:17:54	00:17:55	Now, that would worry me.
+246	00:17:56	00:18:01	But if you want to angle for some weekend pass instead of helping us out, that's fine, man. I understand.
+247	00:18:01	00:18:02	Let's get out of here.
+248	00:18:02	00:18:04	Hey, we out.
+249	00:18:14	00:18:16	Are these the text messages that came from Jessica Jaynes phone?
+250	00:18:16	00:18:19	Yep. No physical phone required.
+251	00:18:19	00:18:21	Everything's stored on the server.
+252	00:18:21	00:18:24	You ever worry that you could be replaced by a computer?
+253	00:18:24	00:18:26	Every day of my life.
+254	00:18:26	00:18:31	Last text she sent was to her husband's number, about a half hour before the apartment shootings.
+255	00:18:32	00:18:35	Wit Val she knows where D stashed our money.
+256	00:18:35	00:18:37	Yay! Be back soon wit phat pockets.
+257	00:18:37	00:18:40	Kisses to you and Bebe.
+258	00:18:40	00:18:42	Sounds like this girl was looking for a big score.
+259	00:18:42	00:18:45	We didn't find any money in either of those apartments.
+260	00:18:45	00:18:48	Well, maybe that's what got the old lady killed.
+261	00:18:50	00:18:52	D for Dana or Drops?
+262	00:18:52	00:18:54	Pull up her voice calls.
+263	00:18:54	00:18:56	Yep.
+264	00:18:58	00:19:02	Okay, the last call she got was from Valinda Carlisle.
+265	00:19:02	00:19:03	Val.
+266	00:19:05	00:19:07	Let's see what Val has to say.
+267	00:19:11	00:19:14	Hello?
+268	00:19:14	00:19:15	Uh, yeah.
+269	00:19:15	00:19:18	Hey, uh, is Val around?
+270	00:19:18	00:19:20	Catherine?
+271	00:19:20	00:19:22	Warrick?
+272	00:19:22	00:19:25	I'm afraid she's unable to come to the phone now.
+273	00:19:25	00:19:27	Permanently.
+274	00:19:27	00:19:28	How'd you get this number?
+275	00:19:28	00:19:31	Valinda called my apartment homicide vic last night.
+276	00:19:33	00:19:34	Are there any witnesses?
+277	00:19:34	00:19:37	Unis talked to a couple of guys that went to the strip club across the street.
+278	00:19:37	00:19:42	I think they said they saw a pregnant woman getting into the vic's car from the passenger side.
+279	00:19:42	00:19:46	We've got a BOLO out on Dana Espinosa in connection with the apartment homicides.
+280	00:19:46	00:19:49	She's considered armed, dangerous and pregnant.
+281	00:19:49	00:19:51	Ooh, raging hormones and a gun?
+282	00:19:51	00:19:53	We've got to get that off the streets fast.
+283	00:19:53	00:19:54	What's the plan?
+284	00:20:23	00:20:26	Look who it is.
+285	00:20:26	00:20:28	Mom and Dad.
+286	00:20:38	00:20:40	One big happy family, huh?
+287	00:20:41	00:20:43	Yeah, sort of.
+288	00:20:46	00:20:48	Get in the car.
+289	00:20:50	00:20:53	I got a feeling I'm going to regret this.
+290	00:20:53	00:20:55	I already do.
+291	00:21:08	00:21:11	You have reached the voice mail of Bruce Zagberg, Registered Financial Planner.
+292	00:21:12	00:21:13	Please leave a message.
+293	00:21:14	00:21:15	Voice mail again.
+294	00:21:15	00:21:18	It's 'cause you don't call Zig-Zag Bruce.
+295	00:21:18	00:21:19	He calls you, man.
+296	00:21:19	00:21:22	Is there a burger joint or something around here?
+297	00:21:22	00:21:26	No, but what makes you so sure Dana would go to this guy Bruce anyway?
+298	00:21:26	00:21:29	If Dana's on the run, she gonna need some on-the-run money.
+299	00:21:29	00:21:34	Let's say Zig-Zag handles certain aspects of my finances.
+300	00:21:34	00:21:35	What, like laundering the street vig?
+301	00:21:35	00:21:38	No. Actually, my 401k.
+302	00:21:38	00:21:41	Why are you always tossing the pimp card at me, man?
+303	00:21:41	00:21:45	I guess to you, a black man in a suit is a pimp.
+304	00:21:45	00:21:47	Oh. Did I hurt your feelings?
+305	00:21:55	00:21:57	So, is this the place?
+306	00:21:57	00:21:58	What?
+307	00:21:58	00:22:00	You just gonna leave me here?
+308	00:22:00	00:22:01	Yup.
+309	00:22:01	00:22:04	Zig-Zag Bruce ain't gonna tell you squat.
+310	00:22:07	00:22:11	Wonder what the schools are like around here.
+311	00:22:11	00:22:12	What?
+312	00:22:12	00:22:16	You know, seems like a nice neighborhood.
+313	00:22:16	00:22:22	Yeah, probably some sweet little foreclosures coming up soon, too.
+314	00:22:22	00:22:24	Sounds like you're thinking about settling down.
+315	00:22:24	00:22:27	Looks like you were finally right about something.
+316	00:22:30	00:22:32	Single nine-millimeter shell casing.
+317	00:22:32	00:22:34	Consistent with the other murders.
+318	00:22:34	00:22:36	How about the neighbors?
+319	00:22:36	00:22:37	Nobody at home.
+320	00:22:37	00:22:40	Parents at work, kids at school, and nannies don't like talking to cops.
+321	00:22:40	00:22:42	What about Drops?
+322	00:22:42	00:22:44	He give us anything besides more bodies?
+323	00:22:44	00:22:45	No, not yet.
+324	00:22:46	00:22:49	I'll process.
+325	00:22:49	00:22:51	Okay.
+326	00:22:55	00:22:58	So, who else would Dana go to for help?
+327	00:22:58	00:23:00	Zig-Zag doesn't seem to be a very big talker.
+328	00:23:00	00:23:04	You're a lot funnier than I remember, Crime-Lab.
+329	00:23:04	00:23:06	You been going to cop comedy school?
+330	00:23:06	00:23:09	Answer the question, Kellen.
+331	00:23:10	00:23:11	I got a stepsister, Sherry.
+332	00:23:12	00:23:13	Her and Dana are pretty tight.
+333	00:23:13	00:23:17	If Dana's not with her, Sherry should at least know something.
+334	00:23:18	00:23:19	Jackson and D.
+335	00:23:19	00:23:21	Let's go.
+336	00:23:21	00:23:23	Jackson and D. Yippee.
+337	00:23:24	00:23:25	We're going to the hood.
+338	00:23:42	00:23:44	Yeah, that's her right there.
+339	00:23:44	00:23:45	The round one.
+340	00:23:45	00:23:48	Check this out here, fellas.
+341	00:23:48	00:23:51	Y'all gonna have to let me do this one solo.
+342	00:23:51	00:23:53	Sherry's allergic to badges.
+343	00:23:53	00:23:55	Okay, look at this.
+344	00:23:55	00:23:57	Instant antihistamine.
+345	00:23:57	00:24:01	Look, man, the cop entourage just ain't gonna cut it. Nah.
+346	00:24:01	00:24:03	I need to be alone.
+347	00:24:03	00:24:05	I mean, come on.
+348	00:24:05	00:24:06	Where am I going?
+349	00:24:06	00:24:08	You got your game boy on me.
+350	00:24:10	00:24:13	Okay, check it out.
+351	00:24:13	00:24:15	I'll cover the street.
+352	00:24:24	00:24:27	What about the cuffs, yo? Cuff?
+353	00:24:27	00:24:31	(sighs) Now, why the hell would anybody talk to someone that's already arrested?
+354	00:24:31	00:24:32	Okay.
+355	00:24:32	00:24:34	Okay, Kellen, give me that. Give me that.
+356	00:24:37	00:24:38	(laughs) What about a business card?
+357	00:24:38	00:24:42	You know, just in case Dana ain't around, Sherry can get in contact with us, you know?
+358	00:24:42	00:24:43	Okay.
+359	00:24:43	00:24:45	Don't make me look bad.
+360	00:24:45	00:24:48	Do the right thing.
+361	00:24:48	00:24:49	(laughs) Cool.
+362	00:24:49	00:24:51	The Church on the Move.
+363	00:25:05	00:25:06	Hey, Sher.
+364	00:25:06	00:25:08	Oh, uh-uh.
+365	00:25:08	00:25:09	You escape from jail?!
+366	00:25:09	00:25:11	No. Hell, no...
+367	00:25:11	00:25:13	Oh, so they just let you out, huh?
+368	00:25:13	00:25:15	Well, I mean...
+369	00:25:15	00:25:16	Lying sack!
+370	00:25:16	00:25:18	You don't think I see 'em?
+371	00:25:19	00:25:22	You trying to get everybody you know arrested, or maimed, or killed?
+372	00:25:22	00:25:25	Huh?! You a snake now?! A rat?!
+373	00:25:25	00:25:26	Wait a minute.
+374	00:25:26	00:25:28	Miss me with the BS, all right, Sher?
+375	00:25:29	00:25:31	I'm just looking for... For what?! For another damn shortcut?!
+376	00:25:31	00:25:33	Dana's mother was killed.
+377	00:25:33	00:25:36	J.J. was killed, too, and Dana's missing.
+378	00:25:37	00:25:39	Now, the cops got me out to help find her.
+379	00:25:39	00:25:42	I thought maybe you might know where she is.
+380	00:25:42	00:25:44	Last time I talked to her was the night before last.
+381	00:25:44	00:25:47	She wasn't feeling too good.
+382	00:25:47	00:25:51	Had to cancel her regular Bingo night with her mama.
+383	00:25:51	00:25:52	Well, listen, all right?
+384	00:25:52	00:25:59	If she does come around here, or calls you, I need you to call Captain Jim Brass, or Nick Stokes...
+385	00:26:01	00:26:03	...at the Crime Lab.
+386	00:26:04	00:26:08	Don't look at me like that, Sherry, please, all right? Just do it.
+387	00:26:08	00:26:10	Hold on.
+388	00:26:37	00:26:39	Stop where you are, Kellen, and drop the bag!
+389	00:26:40	00:26:41	Why?! Drop the bag!
+390	00:26:41	00:26:42	What did I do...? Drop it!
+391	00:26:42	00:26:43	I didn't even do nothing.
+392	00:26:43	00:26:44	Drops. Okay.
+393	00:26:44	00:26:45	Hands above your head.
+394	00:26:45	00:26:47	Don't move.
+395	00:26:47	00:26:49	Oh, that is funky.
+396	00:26:49	00:26:50	What is that nasty stuff?!
+397	00:26:50	00:26:51	Chicken gizzards!
+398	00:26:51	00:26:53	Hey, we're not on a lunch break here.
+399	00:26:53	00:26:54	At least in jail, I got one.
+400	00:26:55	00:26:57	What'd she tell you? Nothing. She told him nothing.
+401	00:26:57	00:26:58	All right, come on, Kellen. We're going to jail.
+402	00:26:58	00:26:59	Whoa, whoa, whoa, wait a minute.
+403	00:26:59	00:27:01	No, no, no, no, no!
+404	00:27:01	00:27:02	There's one more place to go. Where?
+405	00:27:02	00:27:03	The office at my after-hours spot.
+406	00:27:03	00:27:04	Why would Dana go there?
+407	00:27:05	00:27:06	Maybe to check out the big-ass safe I got.
+408	00:27:07	00:27:09	Let's go. Ugh!
+409	00:28:03	00:28:05	Display last destination.
+410	00:28:05	00:28:06	Huh.
+411	00:28:09	00:28:10	Hey!
+412	00:28:10	00:28:12	Hey.
+413	00:28:12	00:28:14	Got the autopsy report on Valinda Carlisle.
+414	00:28:14	00:28:16	Thought I'd save you a trip to the morgue.
+415	00:28:16	00:28:17	Nice.
+416	00:28:17	00:28:22	I found Jessica Jayne's purse in the glove compartment.
+417	00:28:22	00:28:24	Really?
+418	00:28:24	00:28:26	And address to the Glanville Apartments on the GPS.
+419	00:28:27	00:28:28	Okay.
+420	00:28:29	00:28:31	So they were in it together.
+421	00:28:33	00:28:37	Valinda drives J.J. to shake down Drops' family for some cash.
+422	00:28:38	00:28:40	It goes bad.
+423	00:28:40	00:28:54	J.J. kills the mother, Dana kills J.J., Valinda flees the scene, and, the next night, the pissed-off pregnant chick tracks down Valinda and pays her back.
+424	00:28:54	00:28:58	That seems plausible, but there's something still off.
+425	00:28:58	00:29:05	The bullet entered through the back of the skull, and it exited through the forehead, and...
+426	00:29:07	00:29:09	...out through the open window.
+427	00:29:16	00:29:18	I think you got lucky.
+428	00:29:18	00:29:22	The bullet grazed the window frame on its way out.
+429	00:29:22	00:29:25	Gives you a trajectory.
+430	00:29:25	00:29:41	Well, that's good, but the witnesses say that Valinda was in the driver's seat when Dana got in the car, and if that's true, then, Dana had to shoot Valinda like this, not like this.
+431	00:29:41	00:29:45	(gunshot) That seems kind of awkward, don't you think?
+432	00:29:45	00:29:48	Yeah, but awkward or not, it definitely lines up the shot.
+433	00:29:48	00:29:52	Well, it seems to me that the shot came from the back seat.
+434	00:29:54	00:29:56	There was someone else in the car.
+435	00:30:06	00:30:08	Yeah, Dana was here about an hour ago.
+436	00:30:08	00:30:10	She was with some NASCAR-looking dude.
+437	00:30:10	00:30:13	And what exactly does a NASCAR-looking dude look like?
+438	00:30:13	00:30:14	Kind of like you.
+439	00:30:14	00:30:16	But this guy's all inked up.
+440	00:30:16	00:30:19	He's got that loco look.
+441	00:30:19	00:30:21	You just let a complete stranger into your boss' office?
+442	00:30:21	00:30:23	I thought you were a smart businessman.
+443	00:30:23	00:30:25	I mean, it was Dana, your girl.
+444	00:30:25	00:30:27	I didn't ask questions.
+445	00:30:30	00:30:32	What is this?
+446	00:30:32	00:30:34	And where's the DJ?
+447	00:30:34	00:30:35	That's Mini-Britney.
+448	00:30:35	00:30:36	It's what the people want.
+449	00:30:40	00:30:42	Anybody hungry?
+450	00:30:43	00:30:45	I'm going on a sandwich run.
+451	00:30:45	00:30:48	At least let me get that.
+452	00:30:50	00:30:52	Fine. Fine.
+453	00:30:52	00:30:55	Warwick, take me back to jail.
+454	00:30:58	00:31:02	Yeah, see, I got cameras all over this place, man.
+455	00:31:02	00:31:04	Let's see who she's with.
+456	00:31:06	00:31:07	Let's run this back an hour.
+457	00:31:15	00:31:17	Looks like Dana cleaned you out, man.
+458	00:31:17	00:31:19	Nah, wasn't nothing in that safe, man.
+459	00:31:19	00:31:21	Only Dana didn't know that.
+460	00:31:21	00:31:23	So, how come you never told us that before?
+461	00:31:23	00:31:27	You guys sprung me to help find her, and that's what I'm doing.
+462	00:31:29	00:31:30	There she is.
+463	00:31:33	00:31:35	Wait a minute.
+464	00:31:35	00:31:36	That's Jessica Jaynes' husband, Walter.
+465	00:31:36	00:31:38	What's Dana doing with him?
+466	00:31:38	00:31:39	Beats the hell out of me.
+467	00:31:40	00:31:41	Walter's J.J.'s pimp.
+468	00:31:41	00:31:43	Your favorite word.
+469	00:31:44	00:31:46	He all about the cash.
+470	00:31:46	00:31:48	Dude's a man-bitch.
+471	00:31:48	00:31:51	Takes care of the kid while she goes out and makes the money.
+472	00:31:51	00:31:55	Even tattoos her waist every time she pulls a high-roller trick.
+473	00:31:57	00:31:58	Another notch on her belt, I guess.
+474	00:31:58	00:32:01	I think he's got a gun on her.
+475	00:32:02	00:32:04	J.J. was after your money.
+476	00:32:04	00:32:07	Now Walter's after it, and he's taken your girlfriend hostage to get it.
+477	00:32:07	00:32:09	Where's the money, Kellen?
+478	00:32:09	00:32:12	'Cause I'm betting that's where we're going to find the both of them.
+479	00:32:12	00:32:14	Well, talk to my lawyers.
+480	00:32:14	00:32:15	Better yet, talk to the tax dudes.
+481	00:32:15	00:32:17	They know where it is.
+482	00:32:17	00:32:19	House special, times three.
+483	00:32:19	00:32:21	Oh, come on, get out of here, man.
+484	00:32:21	00:32:23	What's this look like, a party?
+485	00:32:23	00:32:28	Okay, I'll check the outside cameras, see if we can see where they went.
+486	00:32:35	00:32:37	I need to put a BOLO out on Walter Jaynes.
+487	00:32:37	00:32:40	I'm gonna put some more mayonnaise on this dry-ass sandwich.
+488	00:33:06	00:33:09	Kellen!
+489	00:33:25	00:33:27	LVPD.
+490	00:33:27	00:33:28	Move! Move!
+491	00:33:31	00:33:33	Move! Move!
+492	00:33:51	00:33:53	Suspect was seen leaving the scene in a, uh...
+493	00:33:53	00:33:55	A piece-of-crap blue station wagon.
+494	00:33:55	00:33:58	Nevada plates, K-C-Z. That's all I got.
+495	00:33:58	00:34:01	A blue station wagon, partial plates, Kilo-Charlie-Zebra.
+496	00:34:03	00:34:05	Dale?!
+497	00:34:07	00:34:08	What did you give Drops?
+498	00:34:08	00:34:10	Turkey sandwich.
+499	00:34:10	00:34:11	You want to play around with me, huh?
+500	00:34:11	00:34:12	You're under arrest.
+501	00:34:12	00:34:14	For what, serving sandwiches?
+502	00:34:14	00:34:15	Aiding and abetting. Cuff him.
+503	00:34:15	00:34:18	Hey, man. Hey, hey, hey, hey, hey, hey, hey.
+504	00:34:18	00:34:21	Look... Look, um...
+505	00:34:21	00:34:23	Look, it was a GPS jammer melt.
+506	00:34:23	00:34:25	A what?
+507	00:34:32	00:34:39	I need you to call Captain Jim Brass, or Nick Stokes at the Crime Lab.
+508	00:34:39	00:34:42	Don't look at me like that, Sherry, please, all right? Just do it!
+509	00:34:42	00:34:44	Get him out of here.
+510	00:34:44	00:34:46	Come on, man. I told you everything.
+511	00:34:46	00:34:48	(phone rings) You still gonna arrest me?
+512	00:34:48	00:34:50	I was just taking orders, man.
+513	00:34:51	00:34:52	Hey, Grissom, don't worry.
+514	00:34:52	00:34:53	We're gonna get him.
+515	00:34:53	00:34:55	The undersheriff will be pleased to know that.
+516	00:34:55	00:35:03	The nine-millimeter casing found at the business manager's apartment, and the one from Valinda Carlisle's car were fired in the same gun.
+517	00:35:03	00:35:04	No surprises there.
+518	00:35:04	00:35:08	Yeah, but it's not the gun that was used to kill Jessica Jaynes.
+519	00:35:08	00:35:12	I think Walter Jaynes is the one who's on a rampage here, and he's dragging Dana Espinosa with him.
+520	00:35:13	00:35:14	Any idea where?
+521	00:35:14	00:35:15	No. No, not yet.
+522	00:35:15	00:35:17	You might want to work on that, Nick.
+523	00:35:17	00:35:20	We got a lead on the station wagon that scooped up Drops.
+524	00:35:20	00:35:21	The registered owner is Walter Jaynes.
+525	00:35:21	00:35:24	He must have had Dana in the car with him.
+526	00:35:24	00:35:27	Walter wouldn't just let him in the car to protect the girl.
+527	00:35:27	00:35:28	Drops must have something he wants.
+528	00:35:28	00:35:30	The money.
+529	00:35:30	00:35:35	What we have here... is a misunderstanding.
+530	00:35:35	00:35:38	Hmm. I understand it just fine.
+531	00:35:38	00:35:45	My J.J. bangs one of your whales 24-7 from Christmas to New Year's, and you stiff us.
+532	00:35:45	00:35:47	Wait. Wait. Stiff you?
+533	00:35:47	00:35:48	I got busted.
+534	00:35:48	00:35:50	I went to jail.
+535	00:35:50	00:35:51	Technically, I'm still in jail.
+536	00:35:51	00:35:54	And my baby doesn't have a mother.
+537	00:35:54	00:35:55	Neither does Dana.
+538	00:35:55	00:35:57	I'm sorry. I thought she was gonna kill me, too.
+539	00:35:57	00:35:59	Calm down.
+540	00:35:59	00:36:01	Look, look, look at me. Walter, look at me.
+541	00:36:01	00:36:03	Don't even listen to her. Walter!
+542	00:36:03	00:36:04	Walter, look at me! See this here? Look.
+543	00:36:05	00:36:07	50 Gs, baby.
+544	00:36:07	00:36:08	I won't even take my cut.
+545	00:36:08	00:36:11	That's very generous.
+546	00:36:11	00:36:15	So, uh, we good to go?
+547	00:36:15	00:36:17	You owe me something else.
+548	00:36:17	00:36:19	What? The vig?
+549	00:36:19	00:36:21	What's that, 25 more?
+550	00:36:21	00:36:24	You can take the whole couch if you want to.
+551	00:36:24	00:36:25	No, no, no, no.
+552	00:36:25	00:36:28	I got my pay.
+553	00:36:28	00:36:30	I need my payback.
+554	00:36:32	00:36:34	I lost my wife.
+555	00:36:34	00:36:38	I'm going to let you choose which one you lose.
+556	00:36:38	00:36:40	Either your girl...
+557	00:36:42	00:36:44	...or your baby.
+558	00:36:56	00:36:57	Drops' GPS just came back up.
+559	00:36:59	00:37:00	He's definitely at the apartment.
+560	00:37:00	00:37:01	Well, either the jammer died, or...
+561	00:37:01	00:37:04	Yeah, or he's calling for help. Okay, listen up.
+562	00:37:04	00:37:07	We got a hostage situation at the Glanville apartment, 6555 Vegas Valley.
+563	00:37:07	00:37:08	We're gonna make a silent approach.
+564	00:37:08	00:37:09	Everybody copy?
+565	00:37:12	00:37:15	Look... I can't choose.
+566	00:37:15	00:37:19	Either you choose, or I choose.
+567	00:37:19	00:37:20	Choose!
+568	00:37:43	00:37:45	Okay.
+569	00:37:46	00:37:49	No!
+570	00:38:02	00:38:05	Get that scumbag out of here!
+571	00:38:06	00:38:09	Oh, man! Oh, Damn!
+572	00:38:09	00:38:13	We have two gunshot victims at the Glanville Apartments. Code Three.
+573	00:38:13	00:38:14	(groans) Whoa, whoa, whoa.
+574	00:38:14	00:38:15	Damn. Her water broke.
+575	00:38:15	00:38:17	Trauma from the shot.
+576	00:38:17	00:38:18	One of the victims is a pregnant woman.
+577	00:38:18	00:38:20	She's going into labor.
+578	00:38:20	00:38:22	That's all I got right there.
+579	00:38:22	00:38:24	Oh, the baby's coming!
+580	00:38:24	00:38:25	Just keeping breathing, Dana.
+581	00:38:25	00:38:27	Just keep breathing, okay?
+582	00:38:27	00:38:28	Paramedics are on their way.
+583	00:38:29	00:38:30	Here. Relax.
+584	00:38:30	00:38:31	That's it. That's it.
+585	00:39:04	00:39:07	He looks healthy.
+586	00:39:07	00:39:09	How are you? You good?
+587	00:39:09	00:39:10	Sore.
+588	00:39:10	00:39:13	I want to hold him.
+589	00:39:14	00:39:16	No.
+590	00:39:17	00:39:19	No?
+591	00:39:19	00:39:21	That's my son.
+592	00:39:21	00:39:23	I don't want you to hold him, Kellen.
+593	00:39:23	00:39:30	Because of you, I heard my mother die.
+594	00:39:30	00:39:33	Where's the money?! MARIA I don't have anything! Drops' money!
+595	00:39:33	00:39:37	Who?! Just take what you want and leave, or I'm calling the police!
+596	00:39:37	00:39:40	I didn't even know it was J.J.
+597	00:39:40	00:39:42	What was I supposed to do?
+598	00:39:43	00:39:45	I shot her and ran, and then Valinda called.
+599	00:39:45	00:39:47	She said she heard what happened.
+600	00:39:47	00:39:51	Said she wanted to help me.
+601	00:39:53	00:39:54	Thank you, Val.
+602	00:39:54	00:39:56	I am so freaked out right now.
+603	00:39:56	00:39:57	I am so sorry.
+604	00:39:57	00:39:59	Walter made Val call me.
+605	00:39:59	00:40:00	She was just bait.
+606	00:40:04	00:40:06	Walter said you owed him some money.
+607	00:40:06	00:40:11	You told me you didn't have anything.
+608	00:40:11	00:40:15	So I took Walter to Zig-Zag, thinking he would help.
+609	00:40:15	00:40:21	And when he didn't, he killed him, too.
+610	00:40:21	00:40:23	And for what?
+611	00:40:23	00:40:27	So that you could hide all the money and keep it for yourself?
+612	00:40:27	00:40:29	I had to.
+613	00:40:29	00:40:31	The tax dudes would have taken it.
+614	00:40:31	00:40:35	And, technically, I didn't hide it.
+615	00:40:35	00:40:37	I left it with your mother.
+616	00:40:37	00:40:38	Don't BS me, Kellen.
+617	00:40:38	00:40:40	Babe, listen, okay, seriously.
+618	00:40:40	00:40:43	Seriously, you would have spent it.
+619	00:40:43	00:40:45	Then, where would we be?
+620	00:40:45	00:40:48	Hmm? Hmm?
+621	00:40:48	00:40:50	That was for our future, Mommy.
+622	00:40:50	00:40:52	We don't have a future.
+623	00:40:54	00:40:57	When you get out, we'll be gone.
+624	00:40:57	00:40:59	You can't do that.
+625	00:40:59	00:41:02	We're not married, and you're a convict.
+626	00:41:02	00:41:04	I can do what I want.
+627	00:41:07	00:41:09	Okay, Drops, that's it.
+628	00:41:09	00:41:10	Time to go, man.
+629	00:41:10	00:41:14	We got to get you transferred back to the prison hospital, okay?
+630	00:41:23	00:41:25	Is Dana gonna do any time for offing J.J.?
+631	00:41:25	00:41:27	Oh, I doubt it.
+632	00:41:27	00:41:29	Sounds like a pretty good case of self-defense to me.
+633	00:41:29	00:41:31	What about the money?
+634	00:41:31	00:41:32	I'm not expecting anything. Just wondering.
+635	00:41:32	00:41:34	Well, technically, it's the mother's.
+636	00:41:34	00:41:35	It was her apartment.
+637	00:41:35	00:41:38	Dana's the only beneficiary, so the money's really hers.
+638	00:41:38	00:41:41	And my kid's. Yeah.
+639	00:41:41	00:41:44	For once, I did something good in my life.
+640	00:41:44	00:41:47	Oh, your life ain't over yet, Kellen.
+641	00:41:47	00:41:49	It ain't over yet.

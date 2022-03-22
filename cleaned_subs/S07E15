@@ -1,763 +1,722 @@
-,start,end,text
-0,00:00:01,00:00:02,"(sobbing): You got the wrong guy, man!"
-1,00:00:03,00:00:03,I didn't do it.
-2,00:00:04,00:00:06,"I didn't do it, man."
-3,00:00:07,00:00:08,(gunshot)
-4,00:00:32,00:00:34,"(distorted, dream-like): I love you, Mikey."
-5,00:00:40,00:00:43,(amplified heartbeat)
-6,00:00:50,00:00:52,(heartbeat fades)
-7,00:01:14,00:01:16,That is what I love about this town.
-8,00:01:16,00:01:18,They've got good eggs Benedict 24 hours a day.
-9,00:01:18,00:01:20,"Just getting off shift? No, I'm going in early."
-10,00:01:20,00:01:23,Thank you.
-11,00:01:23,00:01:26,Do you ever eat dinner?
-12,00:01:26,00:01:28,You're looking at it.
-13,00:01:28,00:01:30,"Okay, I'll see you at the lab."
-14,00:01:30,00:01:32,Bye.
-15,00:01:35,00:01:36,Can I get a check please?
-16,00:01:36,00:01:39,That guy over there already paid and tipped.
-17,00:01:39,00:01:41,Says he's your friend.
-18,00:01:52,00:01:54,"How's it going, Mike?"
-19,00:01:54,00:01:56,"What are you doing here, Frank?"
-20,00:01:56,00:01:58,What do you want me to do?
-21,00:01:58,00:02:00,You don't return my calls.
-22,00:02:00,00:02:04,"I tried calling you, but I've been, uh... busy."
-23,00:02:04,00:02:07,You didn't make it to Amy's memorial Mass.
-24,00:02:07,00:02:08,"Yeah, I know."
-25,00:02:08,00:02:12,I got the card from Father Anthony.
-26,00:02:12,00:02:13,Couldn't get away this year.
-27,00:02:13,00:02:15,It's okay.
-28,00:02:15,00:02:20,"Dennis Graves and I decided to come to Vegas for a few days, blow off some steam."
-29,00:02:20,00:02:22,You like standing? Sit down.
-30,00:02:22,00:02:24,I can't.
-31,00:02:24,00:02:25,"Look, Frank, I got to run."
-32,00:02:25,00:02:27,"We'll get dinner later in the week, all right? I'll call you."
-33,00:02:27,00:02:30,Mike.
-34,00:02:30,00:02:36,"Listen, I, uh... I'm in a bit of a fix; I need you to do me a favor."
-35,00:02:36,00:02:38,I can't do it this time. Okay?
-36,00:02:38,00:02:40,"Don't ask me to do it, Frank."
-37,00:02:40,00:02:42,Things are just starting to...
-38,00:02:42,00:02:44,Hey.
-39,00:02:44,00:02:46,What are you getting so excited about?
-40,00:02:46,00:02:47,(chuckling): I didn't say anything.
-41,00:02:49,00:02:52,"I'm just getting the lay of the land here, you know?"
-42,00:02:52,00:02:54,Trying to move on.
-43,00:02:54,00:02:57,"I got it, bad timing."
-44,00:02:58,00:03:00,You all right?
-45,00:03:00,00:03:02,Don't you worry about it.
-46,00:03:02,00:03:04,I'll sort it out.
-47,00:03:16,00:03:18,"Looks like it's you and me again, Hoss."
-48,00:03:18,00:03:19,You got a problem with that?
-49,00:03:19,00:03:21,"No, no, I like your style."
-50,00:03:21,00:03:23,It's just the whole suit thing you got to work on a little bit.
-51,00:03:23,00:03:26,"Yeah, yeah, what do we got?"
-52,00:03:26,00:03:27,Two gunshot victims.
-53,00:03:27,00:03:31,"Male, shot two times in the chest."
-54,00:03:31,00:03:36,"Female shot in the back, and her hand is missing."
-55,00:03:36,00:03:38,Why take just one hand?
-56,00:03:38,00:03:40,KEPPLER: Maybe there was something on it he wanted.
-57,00:03:47,00:03:50,"Boxer shorts, socks."
-58,00:03:50,00:03:51,I'm guessing this is his.
-59,00:03:51,00:03:53,You see another suitcase?
-60,00:03:53,00:03:56,"No, no, I did not."
-61,00:03:57,00:04:00,Looks like she was just visiting.
-62,00:04:02,00:04:04,.45 automatic.
-63,00:04:04,00:04:06,No purse...
-64,00:04:06,00:04:09,no valuables.
-65,00:04:09,00:04:10,Did you see a safe?
-66,00:04:11,00:04:14,No.
-67,00:04:20,00:04:22,"No, no safe in here."
-68,00:04:22,00:04:24,Looks like a robbery.
-69,00:04:24,00:04:30,"Hey, this guy has a bunch of law enforcement logo shirts hanging up in here."
-70,00:04:31,00:04:32,Check the Bible drawer.
-71,00:04:52,00:04:54,Anything?
-72,00:04:56,00:04:59,Nine millimeter service pistol?
-73,00:04:59,00:05:04,"Stamped ""T.P.D."" Could be any city starting with T."
-74,00:05:04,00:05:08,"I didn't find any nine millimeter casing, so this weapon was never fired."
-75,00:05:08,00:05:11,"The room is registered to a Dennis Graves Trenton, New Jersey."
-76,00:05:11,00:05:13,"He's a cop, Trenton, PD."
-77,00:05:13,00:05:15,"Hey, you're from Trenton. Do you know him?"
-78,00:05:15,00:05:16,No.
-79,00:05:16,00:05:18,Who found them?
-80,00:05:18,00:05:24,"His buddy, Frank McCarty."
-81,00:05:59,00:06:01,BRASS: So what were you two guys doing in Vegas?
-82,00:06:01,00:06:04,"Playing a little golf, indulging in the buffets."
-83,00:06:05,00:06:08,BRASS: Is that all you indulged in?
-84,00:06:08,00:06:10,"We were down in the bar, Dennis picked up a date."
-85,00:06:10,00:06:11,Is she the date?
-86,00:06:11,00:06:13,I didn't get a name.
-87,00:06:13,00:06:15,"Anyway, they went upstairs, I played a little blackjack."
-88,00:06:15,00:06:19,"Then what? Then, I pulled some strings and got us a tee time at the Wynn."
-89,00:06:19,00:06:21,Dennis didn't answer his phone.
-90,00:06:21,00:06:24,I figured he was busy going around the world.
-91,00:06:24,00:06:26,"After a while, I..."
-92,00:06:26,00:06:27,I knew something was wrong.
-93,00:06:27,00:06:29,I got hotel security to open the door.
-94,00:06:29,00:06:31,Excuse me. Yeah?
-95,00:06:31,00:06:33,"Captain, we got press all over the place."
-96,00:06:33,00:06:35,Can you stick around? I'll be right back.
-97,00:06:35,00:06:36,"Yeah, sure."
-98,00:06:37,00:06:39,Okay.
-99,00:06:39,00:06:42,Mr. McCarty?
-100,00:06:42,00:06:44,If you don't mind.
-101,00:06:48,00:06:51,"You want to tell me what I'm seeing here, Frank?"
-102,00:06:51,00:06:52,Could be anything.
-103,00:06:52,00:06:54,Pimp went off on his whore.
-104,00:06:54,00:06:56,Robbery gone bad.
-105,00:06:56,00:06:57,It's a dangerous town.
-106,00:07:01,00:07:02,Have a seat.
-107,00:07:02,00:07:04,Yeah.
-108,00:07:05,00:07:07,Heard we have a dead out-of-town cop.
-109,00:07:07,00:07:09,"Yeah, Detective Dennis Graves."
-110,00:07:09,00:07:11,Trenton PD.
-111,00:07:11,00:07:12,Trenton? Yeah.
-112,00:07:16,00:07:17,"David, you got the T.O.D.?"
-113,00:07:17,00:07:19,About four hours ago.
-114,00:07:19,00:07:22,"KEPPLER: Male was shot twice, both frontal."
-115,00:07:22,00:07:24,No exits.
-116,00:07:25,00:07:28,The girl was shot once in the back.
-117,00:07:28,00:07:29,Did you find the hand?
-118,00:07:29,00:07:34,"I'm guessing the killer's got it, along with the rest of their valuables."
-119,00:07:34,00:07:36,"Hey, Catherine, check this out."
-120,00:07:36,00:07:39,I've got an uncapped bottle of mouthwash here.
-121,00:07:41,00:07:45,"Probably come back to the hooker. Yeah, but I've got something else, and this is good."
-122,00:07:46,00:07:53,"There are quite a few long, light-colored hairs snagged in the soap dish right there."
-123,00:07:53,00:07:55,Not a match to either victim.
-124,00:07:55,00:07:57,Sloppy housekeeping?
-125,00:07:57,00:07:59,I doubt the maid would miss this.
-126,00:07:59,00:08:04,"What appear to be high heel shoe impressions-- I checked, again, no match to the working girl."
-127,00:08:04,00:08:07,Bath towels haven't been used.
-128,00:08:07,00:08:09,So who was in the tub with her shoes on?
-129,00:08:09,00:08:12,"Keppler, do me a favor."
-130,00:08:12,00:08:14,"Go over by the body, will you?"
-131,00:08:18,00:08:20,Yeah?
-132,00:08:20,00:08:22,I can see you; can you see me?
-133,00:08:22,00:08:24,Yep.
-134,00:08:24,00:08:25,What about if I get low?
-135,00:08:26,00:08:28,Not anymore.
-136,00:08:28,00:08:31,So either she was lying in wait...
-137,00:08:31,00:08:34,Or an eyewitness tried to hide from a killer.
-138,00:08:37,00:08:39,Let's pull the elevator surveillance.
-139,00:08:39,00:08:43,Maybe we can find a blonde who got off on this floor.
-140,00:08:46,00:08:48,"Welcome back, Dr. Grissom."
-141,00:08:48,00:08:51,"It's good to be back, Judy."
-142,00:08:51,00:08:54,There are no words to describe how glad I am you're back.
-143,00:08:54,00:08:56,But I'm sure you'll find some.
-144,00:08:56,00:08:59,The lab almost went to hell in a handbag while you were sabbaticalling.
-145,00:09:00,00:09:03,"I'm sure you talked to Catherine, but just in case you didn't..."
-146,00:09:03,00:09:05,"lot of hurt feelings, so in case you talk to Nick..."
-147,00:09:05,00:09:08,"I'd rather hear it from Catherine, thanks."
-148,00:09:08,00:09:17,"Fair enough, but, uh, permit me to say that the ""Seasonal Behaviors of the Walden Pond Swamp Mosquito"" was an incredibly stimulating seminar."
-149,00:09:17,00:09:19,And you know this how?
-150,00:09:19,00:09:21,I took your course online.
-151,00:09:21,00:09:23,It's free to alumni.
-152,00:09:23,00:09:26,"Oh, you're Spanky."
-153,00:09:26,00:09:28,Seven-four-three.
-154,00:09:29,00:09:31,"I aced the final, didn't I?"
-155,00:09:36,00:09:38,(computer beeping)
-156,00:09:46,00:09:47,Post-mortem tool marks to the left wrist.
-157,00:09:48,00:09:51,No vital reactions from the tissue.
-158,00:09:51,00:09:55,"Cuts are scalloped, definitely a serrated blade."
-159,00:09:55,00:09:57,Not a bad job.
-160,00:09:57,00:09:59,Anything to help us identify her?
-161,00:09:59,00:10:00,David printed the right hand.
-162,00:10:00,00:10:02,No hits on AFIS.
-163,00:10:02,00:10:07,"Lucky for you, like many young ladies her age, she had some surgical work done."
-164,00:10:07,00:10:09,Feel these.
-165,00:10:09,00:10:11,What do you think?
-166,00:10:11,00:10:13,Implants.
-167,00:10:13,00:10:16,"Kind of big for my taste, really."
-168,00:10:16,00:10:17,The other end.
-169,00:10:17,00:10:19,"Oh, they're for the butt?"
-170,00:10:19,00:10:21,KEPPLER: Implants are serialized.
-171,00:10:21,00:10:23,We can get an ID from those.
-172,00:10:23,00:10:26,"STOKES: You know, I spent 12 hours on a court bench last week."
-173,00:10:26,00:10:29,I could have used a pair of these bad boys.
-174,00:10:29,00:10:30,What about C.O.D.?
-175,00:10:30,00:10:34,"ROBBINS: Single gunshot to the back, just to the right of the spinal column."
-176,00:10:34,00:10:38,"Bullet severed the aorta, lodged inside the sternum."
-177,00:10:38,00:10:39,And the cop?
-178,00:10:39,00:10:42,I removed these from Detective Graves.
-179,00:10:42,00:10:44,"Large caliber, too."
-180,00:10:44,00:10:46,I'll get those to Ballistics.
-181,00:10:46,00:10:48,"Okay, so I'll run the serials?"
-182,00:10:48,00:10:51,Yeah.
-183,00:10:51,00:10:53,I am an ass man.
-184,00:10:53,00:10:55,(chuckles)
-185,00:10:58,00:10:59,GRISSOM: Michael Keppler.
-186,00:10:59,00:11:02,"Hi, Gil Grissom."
-187,00:11:02,00:11:03,How's everybody been treating you?
-188,00:11:03,00:11:06,"No complaints, you've got a great team."
-189,00:11:06,00:11:08,"Yeah, thanks."
-190,00:11:08,00:11:10,Does Ecklie still have you slotted for days?
-191,00:11:10,00:11:12,As far as I know.
-192,00:11:12,00:11:15,I hear you're working the double homicide at The Olympia.
-193,00:11:15,00:11:16,What have you got?
-194,00:11:16,00:11:18,"Oh, it's uh, bullets from Doc Robbins."
-195,00:11:18,00:11:20,I was going to run them through IBIS.
-196,00:11:20,00:11:22,"The dead cop was from your hometown, huh?"
-197,00:11:22,00:11:25,Yeah. Retired.
-198,00:11:25,00:11:26,Did you know him?
-199,00:11:26,00:11:29,You know how many retired cops there are in Trenton?
-200,00:11:32,00:11:33,"Well, it's great to finally meet you."
-201,00:11:33,00:11:35,Same.
-202,00:11:43,00:11:45,"I love you, Mikey."
-203,00:12:09,00:12:11,Hey.
-204,00:12:11,00:12:14,Hey.
-205,00:12:14,00:12:19,"I said, ""How do you feel about butt implants?"" You don't need them?"
-206,00:12:19,00:12:20,Thank you.
-207,00:12:21,00:12:23,"I wasn't really talking about me, but..."
-208,00:12:23,00:12:25,"Oh, right."
-209,00:12:25,00:12:26,Sorry.
-210,00:12:27,00:12:30,You got something on the dead cop case?
-211,00:12:30,00:12:34,The blond hair from the tub does match the saliva left in the mouthwash bottle.
-212,00:12:34,00:12:38,"And it's female, but not from the dead hooker with the big back seat."
-213,00:12:38,00:12:42,Second female in the room uses mouthwash.
-214,00:12:44,00:12:46,More than likely another hooker.
-215,00:12:46,00:12:49,Looks like we got a witness.
-216,00:12:51,00:12:55,Dennis should've lived long enough to spoil his grandkids.
-217,00:12:55,00:12:57,"He was a good man, good cop."
-218,00:12:57,00:12:59,Good enough to spot a hooker when he saw one?
-219,00:13:00,00:13:02,You don't have to be a cop to have that radar.
-220,00:13:02,00:13:03,So tell me about Dennis.
-221,00:13:03,00:13:04,Did he major in French?
-222,00:13:04,00:13:06,Maybe liked ménage à trois?
-223,00:13:06,00:13:09,"You know, two's company, three's a party?"
-224,00:13:09,00:13:11,'Cause there was another girl in the room with him.
-225,00:13:11,00:13:12,Really? Mm-hmm.
-226,00:13:12,00:13:15,I only saw him leave with one girl.
-227,00:13:15,00:13:18,"So as far as you know, there wasn't a blond in there with him?"
-228,00:13:18,00:13:19,(chuckling): Dennis?
-229,00:13:19,00:13:21,He could barely handle one.
-230,00:13:21,00:13:25,"Besides, he was a little tight with the buck."
-231,00:13:25,00:13:27,"MAN: Hey, Brown."
-232,00:13:27,00:13:29,I'm looking at the over- under in the Suns game.
-233,00:13:29,00:13:31,What do you think?
-234,00:13:31,00:13:34,I don't bet sports anymore.
-235,00:13:34,00:13:35,Not what I hear.
-236,00:13:35,00:13:38,"According to Stokes, you're at the top of your game."
-237,00:13:38,00:13:43,"Well, why don't you get your picks from him with his fat Texas mouth."
-238,00:13:43,00:13:46,I'd take the over.
-239,00:13:46,00:13:47,Hey.
-240,00:13:47,00:13:49,Want some help?
-241,00:13:49,00:13:50,Welcome back.
-242,00:13:50,00:13:51,What do you got?
-243,00:13:51,00:13:55,"Well, I'm just following a lead off some serialized butt implants."
-244,00:13:55,00:13:56,I missed Las Vegas.
-245,00:13:56,00:13:57,(laughs)
-246,00:13:58,00:14:00,What are you doing here?
-247,00:14:00,00:14:03,I'm avoiding the paperwork and mail that's piled up on my desk.
-248,00:14:03,00:14:06,"Well... we got a, uh, dead prostitute's apartment."
-249,00:14:07,00:14:09,It's obvious that it's been ransacked and robbed.
-250,00:14:09,00:14:13,I'm thinking that she was the target of the double and the cop was collateral.
-251,00:14:13,00:14:15,Where would you like me to start?
-252,00:14:15,00:14:17,You can hit the dinette.
-253,00:14:18,00:14:19,I haven't taken that yet.
-254,00:14:19,00:14:21,"Unless you're avoiding her paperwork, too."
-255,00:14:21,00:14:24,There's a lot of it.
-256,00:14:29,00:14:33,"Well, she was past due on her electric bill."
-257,00:14:33,00:14:37,But seems to have paid her telephone bill on time.
-258,00:14:37,00:14:40,Telephone. Hooker's lifeline.
-259,00:14:41,00:14:47,"I'm telling you, whoever hit this place left a lot of prints."
-260,00:14:47,00:14:51,"I, uh, heard there was some friction in the lab while I was gone."
-261,00:14:51,00:14:54,"You ever hear of ""reverse forensics""?"
-262,00:15:06,00:15:08,(phone rings)
-263,00:15:08,00:15:09,Keppler.
-264,00:15:09,00:15:11,MCCARTY: There was someone else in that hotel room.
-265,00:15:11,00:15:13,I know.
-266,00:15:13,00:15:15,I need a name.
-267,00:15:15,00:15:18,I don't have one.
-268,00:15:18,00:15:20,"Don't let me down, kid."
-269,00:15:20,00:15:22,You got to help me here; I'm counting on you.
-270,00:15:24,00:15:27,You okay?
-271,00:15:28,00:15:30,Yeah.
-272,00:15:30,00:15:35,"Well, I tracked down the plastic surgeon that augmented Courtney Evans' glutes."
-273,00:15:35,00:15:40,"Probably the only implants ever paid for in cash by, get this..."
-274,00:15:40,00:15:44,"her pimp, a guy named Eric Hong, aka..."
-275,00:15:44,00:15:46,"""Precious Ricky,"" huh?"
-276,00:15:46,00:15:49,"Yeah, that's what my mama calls me."
-277,00:15:49,00:15:50,"Precious ""Licky""."
-278,00:15:50,00:15:51,(chuckles)
-279,00:15:51,00:15:54,Is she one of yours?
-280,00:15:56,00:15:58,"No, ain't seen her before."
-281,00:15:58,00:16:00,You bought her butt cheek implants.
-282,00:16:00,00:16:04,Is that something you normally do for girls you don't know?
-283,00:16:04,00:16:05,"Oh, see, that's the problem."
-284,00:16:05,00:16:07,You're showing me the wrong end.
-285,00:16:07,00:16:08,Okay.
-286,00:16:08,00:16:12,"So, then she is one of yours, right?"
-287,00:16:12,00:16:15,"Hey, I run an escort service."
-288,00:16:15,00:16:16,Strictly legal.
-289,00:16:16,00:16:18,I'm sure it is.
-290,00:16:18,00:16:20,"So what did she do, Precious?"
-291,00:16:20,00:16:22,She make you mad?
-292,00:16:22,00:16:23,No.
-293,00:16:23,00:16:25,"No, I don't get mad, man."
-294,00:16:25,00:16:27,I'm blissed out.
-295,00:16:27,00:16:28,I'm a Buddhist.
-296,00:16:28,00:16:30,I let the anger flow right through me.
-297,00:16:30,00:16:34,"Sentient beings are numberless, and I vow to save them."
-298,00:16:34,00:16:36,I didn't do nothing to her.
-299,00:16:36,00:16:37,Nothing?
-300,00:16:37,00:16:40,"Like cut off her hand, and you kill the cop she was with?"
-301,00:16:40,00:16:42,We know Courtney was with a blond last night.
-302,00:16:42,00:16:43,Long hair.
-303,00:16:44,00:16:46,You got anyone who matches that description?
-304,00:16:46,00:16:48,"Jenny, Coco, Lani..."
-305,00:16:48,00:16:50,"April, May and June, too."
-306,00:16:50,00:16:52,But you know what?
-307,00:16:52,00:16:55,"The cuffs don't always match the collars, you know what I... (grunts)"
-308,00:16:55,00:17:03,"Now, look, Ricky, maybe you're a nice guy, maybe you're not, but right now I really don't care, because I think you're lying to me."
-309,00:17:03,00:17:06,And that could go very badly for you.
-310,00:17:06,00:17:08,(gasps)
-311,00:17:08,00:17:09,Do you understand what I'm saying?
-312,00:17:09,00:17:11,"Okay, okay."
-313,00:17:11,00:17:13,They were all on the clock last night.
-314,00:17:13,00:17:15,It was a bachelor party.
-315,00:17:18,00:17:20,(knock at door)
-316,00:17:20,00:17:22,"CURTIS: Nick, Mike, can you step out a minute?"
-317,00:17:27,00:17:31,"Miss McFarland is a baby-sitter, of sorts."
-318,00:17:31,00:17:32,I wouldn't leave her with my cat.
-319,00:17:33,00:17:34,I think she likes the pipe.
-320,00:17:34,00:17:37,She claims that that baby belongs to Courtney Evans.
-321,00:17:37,00:17:40,She had a baby? Damn.
-322,00:17:40,00:17:42,I'm going to call Child Services.
-323,00:17:42,00:17:44,Yeah.
-324,00:17:47,00:17:50,"Ma'am, I'm Nick Stokes; this is Mike Keppler."
-325,00:17:50,00:17:51,We're with the Crime Lab.
-326,00:17:51,00:17:53,You mind if we ask you a few questions?
-327,00:17:53,00:17:56,"Um, look, Courtney was supposed to come in the morning to pick up Lila, okay."
-328,00:17:56,00:17:57,I got to work.
-329,00:17:57,00:17:58,"You know, real work."
-330,00:17:58,00:18:01,"Okay, look, my own problems, okay?"
-331,00:18:01,00:18:07,"Otherwise, I would have taken her myself, but, um, I ain't in no shape, okay?"
-332,00:18:07,00:18:10,"So, uh, you can find her a family, right?"
-333,00:18:12,00:18:14,What about the father?
-334,00:18:14,00:18:15,Heard he was in prison or something like that.
-335,00:18:15,00:18:17,I ain't never seen him.
-336,00:18:17,00:18:19,"When she left the baby with you, was Courtney with anyone?"
-337,00:18:19,00:18:21,A friend maybe?
-338,00:18:21,00:18:23,"No, no, she ain't got no friends."
-339,00:18:23,00:18:24,What about enemies?
-340,00:18:24,00:18:26,You know what?
-341,00:18:26,00:18:28,I got to go. I can't take this.
-342,00:18:28,00:18:29,"Mm-mm, please take her."
-343,00:18:29,00:18:30,Thank you.
-344,00:18:30,00:18:31,Please.
-345,00:18:31,00:18:33,Go with her. I got to go.
-346,00:18:36,00:18:37,Oh.
-347,00:18:37,00:18:40,"Looks like we have another victim, huh?"
-348,00:18:43,00:18:45,"It's gonna be okay, baby."
-349,00:18:57,00:18:59,"We got to talk, Frank."
-350,00:18:59,00:19:01,"Hold on, hold on, I'm on a streak here."
-351,00:19:01,00:19:03,"Now, do I keep the ace or draw the inside straight?"
-352,00:19:03,00:19:05,I'm gonna draw to the straight.
-353,00:19:05,00:19:08,She had a kid.
-354,00:19:08,00:19:10,"Oh, God."
-355,00:19:12,00:19:14,Why don't you tell me about the hand?
-356,00:19:16,00:19:18,Why?
-357,00:19:18,00:19:21,"She scratched me, Mike."
-358,00:19:21,00:19:23,"Come on, what was I supposed to do?"
-359,00:19:23,00:19:28,I couldn't take the chance that one of your guys would find my DNA under her nails.
-360,00:19:30,00:19:31,"Why, Frank?"
-361,00:19:31,00:19:33,You know why.
-362,00:19:33,00:19:35,That was a long time ago; Dennis never said a word.
-363,00:19:35,00:19:37,"Yeah, but he was going to."
-364,00:19:38,00:19:39,He was about to be indicted.
-365,00:19:39,00:19:40,"Wife, three kids."
-366,00:19:40,00:19:42,There was no way he was doing time.
-367,00:19:42,00:19:45,"He was going down, Mikey, and he was taking us with him."
-368,00:19:45,00:19:47,"He was a cop, Frank."
-369,00:19:47,00:19:50,Yeah. You told me that.
-370,00:19:50,00:19:53,"You don't do that, not even to save your own ass. Yeah?"
-371,00:19:53,00:19:55,What about yours? Hey!
-372,00:19:55,00:19:56,Give me another vodka and tonic.
-373,00:19:56,00:19:59,And give my boy here a scotch.
-374,00:19:59,00:20:00,"Neat, right?"
-375,00:20:00,00:20:01,Make it a double.
-376,00:20:01,00:20:04,We got to loosen him up.
-377,00:20:04,00:20:05,(chuckles)
-378,00:20:05,00:20:06,Look at her.
-379,00:20:06,00:20:08,Just like catnip.
-380,00:20:10,00:20:12,"Don't look at me like that, Mike."
-381,00:20:12,00:20:14,"We did the right thing, all of us."
-382,00:20:14,00:20:18,But do you think the grand jury's gonna see it like that?
-383,00:20:18,00:20:25,"They're gonna see a white cop turned ""Dirty Harry"" goes across the river to take out some Puerto Rican drug dealer."
-384,00:20:25,00:20:26,Shoots him in the back.
-385,00:20:26,00:20:28,They don't understand.
-386,00:20:28,00:20:33,"Every time we take one step outside the box for public safety, they nail our asses to the wall."
-387,00:20:33,00:20:36,"Sit down, Frank. Hey, Mikey, there's no turning back."
-388,00:20:36,00:20:37,You did the right thing.
-389,00:20:37,00:20:39,If you hadn't taken care of that evidence...
-390,00:20:39,00:20:41,"Keep your voice down, all right?"
-391,00:20:41,00:20:43,"Come on, I need some help here."
-392,00:20:44,00:20:47,Or you're gonna lose everything.
-393,00:20:47,00:20:48,And that isn't what Amy would have wanted.
-394,00:20:48,00:20:49,She loved you.
-395,00:20:49,00:20:51,Don't do that.
-396,00:20:51,00:20:52,What?
-397,00:20:52,00:20:55,Don't bring her into this. You think you're the only one who cared for her?
-398,00:20:55,00:20:56,"I was her father, Mikey."
-399,00:20:56,00:20:58,Don't ever forget that.
-400,00:21:02,00:21:08,"I would've killed that the scumbag who raped her with these bare hands, but you got to him first."
-401,00:21:09,00:21:12,I love you for that.
-402,00:21:13,00:21:15,"Yeah, I made compromises for you."
-403,00:21:15,00:21:18,You wouldn't be here now if it wasn't for me.
-404,00:21:20,00:21:22,Yeah.
-405,00:21:22,00:21:23,Yeah.
-406,00:21:25,00:21:26,"You're out of line, Frank."
-407,00:21:26,00:21:32,"Hey, Mikey, there is no statute of limitations for murder."
-408,00:21:32,00:21:36,"The kid you shot, his mother's still crying."
-409,00:21:36,00:21:39,And I got the gun...
-410,00:21:39,00:21:41,with your prints and his blood on it.
-411,00:21:44,00:21:51,"You go down now, you take every case you ever worked on with you."
-412,00:21:51,00:21:56,"Trenton, Philly, Baltimore, Vegas."
-413,00:21:56,00:21:58,All those killers go free.
-414,00:21:58,00:22:01,All on your hands.
-415,00:22:03,00:22:08,"So, pin it on the blond in the bathroom or the pimp."
-416,00:22:08,00:22:11,"Just do it, I don't care how, just do it."
-417,00:22:18,00:22:20,(sniffs)
-418,00:22:24,00:22:26,I don't even know Courtney what's-her-name.
-419,00:22:26,00:22:30,BROWN: So how is it that your prints ended up all over her apartment?
-420,00:22:30,00:22:32,I've never been to her apartment.
-421,00:22:32,00:22:34,Did I mention she was dead?
-422,00:22:34,00:22:36,What?
-423,00:22:36,00:22:38,"Yo, I don't even know no dead person."
-424,00:22:39,00:22:41,"PJ, you know what I think?"
-425,00:22:42,00:22:43,I think you killed her.
-426,00:22:43,00:22:47,"You took her purse, went to her apartment and stole all her stuff."
-427,00:22:47,00:22:48,"No, no, no. I didn't kill nobody."
-428,00:22:49,00:22:50,"Well, she's dead."
-429,00:22:50,00:22:52,And so is the cop she was with.
-430,00:22:52,00:22:54,That's the death penalty.
-431,00:22:54,00:22:56,"Here's what happened-- I swear, this-- this is the truth."
-432,00:22:57,00:22:58,I was minding my own business.
-433,00:22:58,00:23:04,"I was checking out the Dumpsters behind, behind the Strip, and lo and behold, I find this lady's purse."
-434,00:23:04,00:23:07,"Right there in the Dumpster? Yeah, like pennies from heaven."
-435,00:23:07,00:23:10,"It had a wallet, it had keys, it had a cell phone."
-436,00:23:10,00:23:14,"So I checked for her license, I got her address and went to her house."
-437,00:23:14,00:23:16,"I was going to return the purse, I swear."
-438,00:23:16,00:23:18,"Oh, like a Good Samaritan?"
-439,00:23:18,00:23:20,"Yeah, but, when I got here, no one was there."
-440,00:23:20,00:23:22,So what'd you do?
-441,00:23:22,00:23:23,I used the key.
-442,00:23:23,00:23:24,I was going to leave the purse inside.
-443,00:23:25,00:23:28,"But you didn't do that, did you?"
-444,00:23:28,00:23:30,I might have taken a couple of things.
-445,00:23:30,00:23:32,Where was the Dumpster?
-446,00:23:32,00:23:33,Behind the Palermo.
-447,00:23:33,00:23:36,(phone rings) Behind the Palermo.
-448,00:23:36,00:23:37,This is Catherine.
-449,00:23:37,00:23:38,"Catherine, it's Mike."
-450,00:23:38,00:23:39,Mike.
-451,00:23:39,00:23:41,Where have you been?
-452,00:23:41,00:23:43,I had to take care of something.
-453,00:23:43,00:23:45,How's it going? Any I.D. on the blonde yet?
-454,00:23:45,00:23:50,"No, but we got some info from the deadbeat who burgled the hooker's apartment."
-455,00:23:50,00:23:52,Claims he found her purse in a Dumpster behind the Palermo.
-456,00:23:52,00:23:55,I'm just off the Strip now; I'll take care of it for you.
-457,00:23:55,00:23:58,"Mike, are you okay?"
-458,00:23:58,00:24:00,"Yeah, yeah. I'm fine."
-459,00:24:00,00:24:02,I'll see you in a little bit.
-460,00:24:03,00:24:05,(tires screeching lightly)
-461,00:25:26,00:25:28,"Hey, Mike."
-462,00:25:28,00:25:29,Hey.
-463,00:25:29,00:25:32,Did you get anything from the Dumpster?
-464,00:25:32,00:25:33,Yeah...
-465,00:25:33,00:25:36,a bad smell.
-466,00:25:36,00:25:38,So...
-467,00:25:39,00:25:41,"Ecklie wants you on days now that Grissom's back, but..."
-468,00:25:42,00:25:46,"I could talk to them, get you to stay with us."
-469,00:25:46,00:25:49,"Oh, I'm sure you guys will do just fine without me."
-470,00:25:49,00:25:50,(chuckles)
-471,00:25:50,00:25:55,"Yeah, usually transfers don't fit in, but... think about it."
-472,00:25:57,00:25:58,Catherine.
-473,00:26:01,00:26:04,Thanks.
-474,00:26:21,00:26:22,Keppler.
-475,00:26:22,00:26:24,Archie found the mystery blonde.
-476,00:26:24,00:26:29,"Before she was in Dennis Graves' room, she was with that cop, Frank McCarty."
-477,00:26:29,00:26:31,"They got on in the lobby, got off on 11."
-478,00:26:31,00:26:34,Around the time McCarty said Dennis picked up his hooker.
-479,00:26:34,00:26:39,"STOKES: Hey, he never mentioned he had company, and he knew we were looking for another hooker."
-480,00:26:39,00:26:42,Now I'm starting to think we're looking at a dirty cop.
-481,00:26:42,00:26:44,Who knows about this? PD's about to.
-482,00:26:45,00:26:47,I'm calling them right now.
-483,00:26:47,00:26:51,"JOHNSON: You'd think a cop would know he's on camera, huh?"
-484,00:26:54,00:26:57,CURTIS: McCarty's phone keeps going to voice mail.
-485,00:26:57,00:27:00,"And, according to the receptionist, he didn't check out."
-486,00:27:02,00:27:05,LVPD. Open up.
-487,00:27:06,00:27:07,Give me the card.
-488,00:27:36,00:27:40,(sobbing fading in)
-489,00:27:40,00:27:43,"I didn't do it... I didn't do it, man."
-490,00:27:43,00:27:45,"Come on, man; I didn't do it."
-491,00:27:45,00:27:47,"You got the wrong guy, man."
-492,00:27:49,00:27:50,(gunfire)
-493,00:27:50,00:27:51,No!
-494,00:27:51,00:27:53,CURTIS: It's a .45 auto.
-495,00:27:56,00:27:59,Same caliber as the gun that killed the cop and the hooker.
-496,00:27:59,00:28:01,With blood stains.
-497,00:28:01,00:28:04,STOKES: This this is practically gift-wrapped.
-498,00:28:04,00:28:10,"If the guy wants to get caught so bad, just confess, make it easy on all of us."
-499,00:28:10,00:28:12,I can't wait to get this back to Ballistics.
-500,00:28:12,00:28:14,I'll see you.
-501,00:28:16,00:28:18,I'll finish up here.
-502,00:28:33,00:28:36,(phone rings)
-503,00:28:36,00:28:37,(recording): You've reached Frank.
-504,00:28:38,00:28:39,Leave me a message after the tone.
-505,00:28:39,00:28:41,(beeping)
-506,00:28:44,00:28:47,Sara.
-507,00:28:47,00:28:49,Hey. You're back.
-508,00:28:49,00:28:50,Yeah.
-509,00:28:50,00:28:52,"Uh, I've-- I've been out at a, um..."
-510,00:28:52,00:28:54,I've been at... A garbage dump? Yeah.
-511,00:28:54,00:28:56,"It's so obvious, isn't it?"
-512,00:28:56,00:28:58,"Nice, um..."
-513,00:28:59,00:29:00,You look good.
-514,00:29:00,00:29:04,"Did you, uh, put the cocoon in my office?"
-515,00:29:04,00:29:06,"Cool, dry, not a lot of light."
-516,00:29:06,00:29:07,It seemed like the right place for it.
-517,00:29:07,00:29:09,I think you're going to be surprised when it hatches.
-518,00:29:09,00:29:11,I have no doubt.
-519,00:29:11,00:29:13,I'm gonna...
-520,00:29:13,00:29:14,go clean up now.
-521,00:29:16,00:29:17,I'll see you later.
-522,00:29:18,00:29:21,"Yeah, you will."
-523,00:29:23,00:29:26,McCarty's mystery blonde knew the dead hooker.
-524,00:29:26,00:29:27,How do you know that?
-525,00:29:28,00:29:29,(typing)
-526,00:29:29,00:29:31,Check out the time code.
-527,00:29:31,00:29:32,1:10.
-528,00:29:32,00:29:36,"We recovered the hooker's cell phone, thanks to a Dumpster diver."
-529,00:29:36,00:29:39,"These are all her voice mails, the last couple hours before she died."
-530,00:29:40,00:29:44,"At the same time the blond was making this call, Courtney Evans received a voice mail."
-531,00:29:44,00:29:47,"So, I synched up the audio to the video."
-532,00:29:50,00:29:53,"Yeah, Courty, it's me, Suzy Q. Got your message."
-533,00:29:53,00:29:56,"What are you, too busy to answer me back?"
-534,00:29:56,00:29:57,"Uh, so anyway, I just left my guy."
-535,00:29:57,00:30:00,"Eh, it went all right."
-536,00:30:00,00:30:03,"Usual ""Call me Daddy"" crap."
-537,00:30:03,00:30:04,(laughs)
-538,00:30:04,00:30:07,"You know, he actually wanted me to whimper. Whatever."
-539,00:30:07,00:30:14,"He kept calling me ""Amy."" (woman whimpering)"
-540,00:30:15,00:30:16,KEPPLER: Amy?
-541,00:30:16,00:30:18,...that three-way...
-542,00:30:18,00:30:22,"I don't know, I don't know. I think I'm gonna have to-- Do we have an I.D. on the blonde?"
-543,00:30:22,00:30:24,Just now.
-544,00:30:24,00:30:28,I just finished running names off Courtney Evans' incoming calls. Yeah?
-545,00:30:28,00:30:30,JOHNSON: We're looking for Suzy Gibbons.
-546,00:30:30,00:30:31,WILLOWS: Here it is.
-547,00:30:33,00:30:37,Priors for prostitution and a last known.
-548,00:30:37,00:30:38,Can I see that?
-549,00:30:38,00:30:40,JOHNSON: She knew the vic.
-550,00:30:42,00:30:44,She's the blonde in the bathtub.
-551,00:30:44,00:30:45,"Well, if we can find Suzy, so can a retired cop."
-552,00:30:45,00:30:47,He needs her dead.
-553,00:30:47,00:30:51,"KEPPLER: If she's dumb enough to hide out in her own house, she already is."
-554,00:30:51,00:30:52,Mike?
-555,00:30:52,00:30:54,"Mike, where are you going?!"
-556,00:31:37,00:31:38,(device beeping)
-557,00:32:00,00:32:02,Amy?
-558,00:32:24,00:32:30,(distorted): Daddy said never tell you.
-559,00:32:33,00:32:35,(car horn honking)
-560,00:32:42,00:32:45,"Why would McCarty have a bloody gun with Keppler's prints on it, in his hotel room?"
-561,00:32:45,00:32:46,Doesn't make any sense.
-562,00:32:46,00:32:47,No.
-563,00:32:47,00:32:49,Could Mike have touched it when he found it?
-564,00:32:49,00:32:50,"No, no way."
-565,00:32:50,00:32:51,I was right there.
-566,00:32:51,00:32:53,"Besides, the blood was already dry."
-567,00:32:53,00:32:55,You don't leave fingerprints in dried blood.
-568,00:32:55,00:32:59,I compared the .45 ammo evidence to the dead cop and the hooker.
-569,00:32:59,00:33:05,"It's the correct make, model and caliber, but I'm telling you, it's a different gun."
-570,00:33:05,00:33:06,Maybe he's being set up.
-571,00:33:06,00:33:07,GRISSOM: Why?
-572,00:33:07,00:33:08,By whom?
-573,00:33:09,00:33:10,Keppler told me that he didn't know Frank McCarty.
-574,00:33:10,00:33:12,He also said he didn't know the victim.
-575,00:33:12,00:33:15,"Maybe he's lying about that, too."
-576,00:33:15,00:33:18,"I'm sorry, Catherine. I like the guy, too, but I'm just following the evidence here."
-577,00:33:19,00:33:21,We should be talking to Keppler about this.
-578,00:33:21,00:33:23,Where is he?
-579,00:33:23,00:33:24,He was with me in A/V.
-580,00:33:24,00:33:27,"Nobody has seen him since, and he's not answering his cell."
-581,00:33:27,00:33:29,STOKES: He knows where the eyewitness lives.
-582,00:33:29,00:33:31,"What are you saying, Nick?"
-583,00:33:31,00:33:38,"I'm saying that if he had something to do with these two murders, then Frank McCarty's not the only one we need to worry about."
-584,00:33:38,00:33:41,PD's on their way to Suzy Gibbons' apartment now.
-585,00:33:41,00:33:45,"GRISSOM: Okay, grab Sara and go over there, and I'll have Brass call Trenton PD, see who knows who."
-586,00:33:45,00:33:47,Welcome home.
-587,00:33:50,00:33:54,"What other evidence did, uh, Keppler handle?"
-588,00:33:54,00:33:59,"STOKES: He brought back the three bullets from Autopsy, which didn't match the gun with his prints on it."
-589,00:33:59,00:34:01,Could he have swapped the bullets?
-590,00:34:02,00:34:03,Anything's possible.
-591,00:34:03,00:34:08,BROWN: He also searched the Dumpster where the homeless guy found the hooker's purse and cell phone.
-592,00:34:08,00:34:10,He told Catherine he didn't find anything.
-593,00:34:10,00:34:16,"I got your DNA results, and the blood on the gun from Frank McCarty's hotel room, it doesn't match either victim."
-594,00:34:16,00:34:21,"There were no hits in CODIS, and the DNA print ancestry markers say that it's from a black male."
-595,00:34:21,00:34:23,Keppler and McCarty were both Jersey boys.
-596,00:34:23,00:34:25,Expand the search to the East Coast.
-597,00:34:25,00:34:27,Will do.
-598,00:34:27,00:34:29,I really hope he's clean.
-599,00:34:30,00:34:33,We have to treat him like a suspect.
-600,00:34:33,00:34:34,I'll tell Ecklie.
-601,00:34:34,00:34:36,(cell phone ringing)
-602,00:34:42,00:34:44,Still no answer on his cell.
-603,00:34:44,00:34:45,Hey.
-604,00:34:45,00:34:47,Got a fix on the GPS in his Denali.
-605,00:34:49,00:34:50,He's near Henderson.
-606,00:34:50,00:34:51,What's he doing there?
-607,00:35:03,00:35:04,(beeping)
-608,00:35:04,00:35:06,He just disabled his GPS.
-609,00:35:06,00:35:07,Smart guy.
-610,00:35:07,00:35:08,Guilty guy.
-611,00:35:08,00:35:10,Try tracking his cell.
-612,00:35:10,00:35:11,"PD-issued phones have GPS, too."
-613,00:35:11,00:35:13,Yeah.
-614,00:35:15,00:35:17,Got him.
-615,00:35:24,00:35:27,(speaking Asian language)
-616,00:35:27,00:35:29,Okay?
-617,00:35:33,00:35:34,I'll take that.
-618,00:35:34,00:35:36,(grunts) Suzy Gibbons-- how do I find her?
-619,00:35:36,00:35:37,"Okay, you know what?"
-620,00:35:37,00:35:39,"First off, you're gonna get your freakin' hands off me."
-621,00:35:40,00:35:43,"I don't have time, Ricky."
-622,00:35:43,00:35:46,Why should I tell you?
-623,00:35:46,00:35:47,Because if you don't...
-624,00:35:47,00:35:49,(cocks gun)
-625,00:35:49,00:35:52,I'm the last face you're gonna see alive.
-626,00:35:56,00:35:59,I don't think Suzy works out of here.
-627,00:35:59,00:36:01,"Me, either."
-628,00:36:01,00:36:02,(cell phone ringing)
-629,00:36:05,00:36:06,Jim?
-630,00:36:06,00:36:09,BRASS: So I finally got through to the Homicide captain in Trenton.
-631,00:36:09,00:36:11,"Anyway, here's the story."
-632,00:36:11,00:36:13,Keppler not only knew McCarty.
-633,00:36:13,00:36:18,"Not only did he know him, he was like a son to him."
-634,00:36:18,00:36:23,"Keppler had a close relationship with his daughter, and McCarty was the one who got Keppler his job as a CSI."
-635,00:36:23,00:36:27,And what about the victim-- Detective Graves?
-636,00:36:27,00:36:28,"Yeah, he knew him, too."
-637,00:36:28,00:36:30,Graves was being indicted.
-638,00:36:30,00:36:34,Seems like too many of his suspects were showing up dead before the trial.
-639,00:36:34,00:36:36,"Catherine, I think all three of them are dirty."
-640,00:36:36,00:36:38,Okay.
-641,00:36:39,00:36:42,"You know, some women..."
-642,00:36:42,00:36:45,live out of their purses.
-643,00:36:45,00:36:48,I know a lot of working girls operate out of the Siren.
-644,00:36:48,00:36:50,I think we just found her office.
-645,00:36:50,00:36:51,(cell phone ringing)
-646,00:36:51,00:36:53,I'll see you back at the lab?
-647,00:36:53,00:36:54,Okay.
-648,00:36:57,00:36:58,Hello.
-649,00:36:58,00:37:00,It's Mike.
-650,00:37:00,00:37:01,Where have you been?
-651,00:37:01,00:37:02,Everybody is looking for you.
-652,00:37:02,00:37:04,I know.
-653,00:37:04,00:37:05,I'm sorry.
-654,00:37:05,00:37:08,Then come back in.
-655,00:37:08,00:37:09,I can't.
-656,00:37:09,00:37:10,It's kind of complicated.
-657,00:37:11,00:37:14,I... made a mistake a long time ago.
-658,00:37:14,00:37:16,Let me help you.
-659,00:37:16,00:37:19,It's too late.
-660,00:37:19,00:37:23,"You're gonna end up looking into my cases, Catherine."
-661,00:37:23,00:37:24,(sighs)
-662,00:37:24,00:37:26,They're clean.
-663,00:37:26,00:37:29,"I promise, every one of them."
-664,00:37:29,00:37:31,Except the Alvarez homicide in Philly.
-665,00:37:31,00:37:36,"If you run the ballistics again, it'll come back to Dennis Graves."
-666,00:37:36,00:37:39,"Your guys are smart, they'll figure it out."
-667,00:37:39,00:37:43,"Mike, don't do anything stupid."
-668,00:37:43,00:37:44,I got to go.
-669,00:37:44,00:37:45,(phone beeps)
-670,00:37:48,00:37:49,(line ringing)
-671,00:37:49,00:37:50,"McCARTY: Hey, you've reached Frank."
-672,00:37:50,00:37:52,Leave me a message after the tone. (beep)
-673,00:37:52,00:37:56,"If you still want to fix this, Frank, you got 20 minutes."
-674,00:37:56,00:38:00,"Blue Siren Motel, Third, below Fremont."
-675,00:38:16,00:38:18,(cell phone rings)
-676,00:38:24,00:38:24,Grissom.
-677,00:38:25,00:38:28,"He just called, sounded desperate."
-678,00:38:28,00:38:31,Like a man with nothing to live for and nothing to lose.
-679,00:38:31,00:38:33,"Well, he's not your priority."
-680,00:38:33,00:38:35,Find the witness.
-681,00:38:35,00:38:37,Yeah. I'm on my way.
-682,00:38:37,00:38:39,Just wanted you to know.
-683,00:38:47,00:38:49,(knock at door) It's open.
-684,00:38:53,00:38:55,(gasps)
-685,00:38:57,00:39:00,"Drop it, Frank."
-686,00:39:00,00:39:02,Put the gun down.
-687,00:39:04,00:39:07,"Look, Mike..."
-688,00:39:07,00:39:09,"about the bar, you were right."
-689,00:39:09,00:39:11,I was out of line.
-690,00:39:11,00:39:13,You know how I get-- come on.
-691,00:39:13,00:39:14,Put the gun down.
-692,00:39:14,00:39:16,You're not gonna shoot me.
-693,00:39:16,00:39:19,"Suzy, I want you to get up and walk out of the room, all right?"
-694,00:39:19,00:39:20,I can't let that happen.
-695,00:39:20,00:39:22,Sit down. (sobbing)
-696,00:39:23,00:39:25,"It's over, Frank."
-697,00:39:25,00:39:27,I know what you did.
-698,00:39:27,00:39:29,What are you talking about?
-699,00:39:29,00:39:31,I know what you did to Amy.
-700,00:39:36,00:39:39,I killed an innocent man.
-701,00:39:39,00:39:42,"Mikey, you're talking crazy."
-702,00:39:42,00:39:43,"She was your daughter, Frank."
-703,00:39:43,00:39:44,You watch your frickin' mouth.
-704,00:39:44,00:39:47,"All right, okay! Put the gun down. (Gibbons sobbing)"
-705,00:39:47,00:39:48,Shut up!
-706,00:39:51,00:39:54,"I loved her, Mike, more than you know."
-707,00:39:54,00:39:56,"All right, okay."
-708,00:39:58,00:40:01,"I'm a dirty cop, rotten to the core."
-709,00:40:01,00:40:03,What do you want from me?
-710,00:40:07,00:40:11,(siren approaching)
-711,00:40:21,00:40:24,"I want you to tell me why, Frank."
-712,00:40:25,00:40:29,Why you would do that to your own daughter.
-713,00:40:29,00:40:30,"Come on, Mike."
-714,00:40:30,00:40:31,You're all I've got.
-715,00:40:32,00:40:33,(sobbing): No! No!
-716,00:40:35,00:40:36,(screaming)
-717,00:40:42,00:40:43,Mike!
-718,00:40:45,00:40:46,Mike.
-719,00:40:49,00:40:52,(gunshots)
-720,00:40:53,00:40:55,(grunting)
-721,00:40:57,00:40:58,Mike.
-722,00:40:59,00:41:00,Mike.
-723,00:41:00,00:41:01,"Mike, hang in there."
-724,00:41:02,00:41:03,Call the paramedics.
-725,00:41:03,00:41:05,"Dispatch, got a Code 44."
-726,00:41:05,00:41:06,You're gonna be okay.
-727,00:41:06,00:41:08,Just stay with me.
-728,00:41:09,00:41:12,I'm sorry.
-729,00:41:12,00:41:13,I just know they both had guns.
-730,00:41:13,00:41:16,Move it. Pupils still fixed and dilated.
-731,00:41:16,00:41:17,He's moving into V-fib! Let's go! I'm here.
-732,00:41:17,00:41:19,"Stay with me, Mike. Place him into the back of the rig."
-733,00:41:20,00:41:21,Mike?
-734,00:41:21,00:41:23,"Let's go, let's go. Hang on, Mike."
-735,00:41:26,00:41:28,"Charging, 300. (high-pitched electrical whine)"
-736,00:41:28,00:41:29,Two placement's good. Clear.
-737,00:41:29,00:41:30,Clear.
-738,00:41:30,00:41:31,(electrical thud)
-739,00:41:31,00:41:33,No response. Hitting him again.
-740,00:41:33,00:41:34,(high-pitched electrical whine) Copy. Clear.
-741,00:41:34,00:41:35,(electrical thud)
-742,00:41:35,00:41:38,"Yeah, I've got nothing."
-743,00:41:38,00:41:41,"Still in V-fib. Come on, come on."
-744,00:41:41,00:41:43,(high-pitched electrical whine) (electrical thud)
-745,00:41:47,00:41:48,No pulse.
-746,00:41:48,00:41:50,What?
-747,00:41:50,00:41:51,He's gone.
-748,00:42:19,00:42:21,"BROWN: Talk to me, Archie."
-749,00:42:21,00:42:25,JOHNSON: The signal's 20 yards north of your position.
-750,00:42:25,00:42:27,I don't see anything.
-751,00:42:27,00:42:29,I'm dialing the phone now.
-752,00:42:29,00:42:31,All right.
-753,00:42:31,00:42:33,(faint cell phone ringing)
-754,00:42:33,00:42:35,"Hey, wait, wait, wait, wait!"
-755,00:42:35,00:42:37,I got something.
-756,00:42:37,00:42:38,I'll call you back.
-757,00:42:38,00:42:40,(faint cell phone ringing)
-758,00:42:55,00:42:58,(cell phone ringing)
-759,00:43:00,00:43:03,Keppler left his phone so we'd find the hand.
-760,00:43:08,00:43:09,"""Check under the nails."
-761,00:43:09,00:43:12,You'll find Frank McCarty's DNA.
+	start	end	text
+0	00:00:01	00:00:02	You got the wrong guy, man!
+1	00:00:03	00:00:03	I didn't do it.
+2	00:00:04	00:00:06	I didn't do it, man.
+3	00:00:32	00:00:34	I love you, Mikey.
+4	00:01:14	00:01:16	That is what I love about this town.
+5	00:01:16	00:01:18	They've got good eggs Benedict 24 hours a day.
+6	00:01:18	00:01:20	Just getting off shift? No, I'm going in early.
+7	00:01:20	00:01:23	Thank you.
+8	00:01:23	00:01:26	Do you ever eat dinner?
+9	00:01:26	00:01:28	You're looking at it.
+10	00:01:28	00:01:30	Okay, I'll see you at the lab.
+11	00:01:30	00:01:32	Bye.
+12	00:01:35	00:01:36	Can I get a check please?
+13	00:01:36	00:01:39	That guy over there already paid and tipped.
+14	00:01:39	00:01:41	Says he's your friend.
+15	00:01:52	00:01:54	How's it going, Mike?
+16	00:01:54	00:01:56	What are you doing here, Frank?
+17	00:01:56	00:01:58	What do you want me to do?
+18	00:01:58	00:02:00	You don't return my calls.
+19	00:02:00	00:02:04	I tried calling you, but I've been, uh... busy.
+20	00:02:04	00:02:07	You didn't make it to Amy's memorial Mass.
+21	00:02:07	00:02:08	Yeah, I know.
+22	00:02:08	00:02:12	I got the card from Father Anthony.
+23	00:02:12	00:02:13	Couldn't get away this year.
+24	00:02:13	00:02:15	It's okay.
+25	00:02:15	00:02:20	Dennis Graves and I decided to come to Vegas for a few days, blow off some steam.
+26	00:02:20	00:02:22	You like standing? Sit down.
+27	00:02:22	00:02:24	I can't.
+28	00:02:24	00:02:25	Look, Frank, I got to run.
+29	00:02:25	00:02:27	We'll get dinner later in the week, all right? I'll call you.
+30	00:02:27	00:02:30	Mike.
+31	00:02:30	00:02:36	Listen, I, uh... I'm in a bit of a fix; I need you to do me a favor.
+32	00:02:36	00:02:38	I can't do it this time. Okay?
+33	00:02:38	00:02:40	Don't ask me to do it, Frank.
+34	00:02:40	00:02:42	Things are just starting to...
+35	00:02:42	00:02:44	Hey.
+36	00:02:44	00:02:46	What are you getting so excited about?
+37	00:02:46	00:02:47	I didn't say anything.
+38	00:02:49	00:02:52	I'm just getting the lay of the land here, you know?
+39	00:02:52	00:02:54	Trying to move on.
+40	00:02:54	00:02:57	I got it, bad timing.
+41	00:02:58	00:03:00	You all right?
+42	00:03:00	00:03:02	Don't you worry about it.
+43	00:03:02	00:03:04	I'll sort it out.
+44	00:03:16	00:03:18	Looks like it's you and me again, Hoss.
+45	00:03:18	00:03:19	You got a problem with that?
+46	00:03:19	00:03:21	No, no, I like your style.
+47	00:03:21	00:03:23	It's just the whole suit thing you got to work on a little bit.
+48	00:03:23	00:03:26	Yeah, yeah, what do we got?
+49	00:03:26	00:03:27	Two gunshot victims.
+50	00:03:27	00:03:31	Male, shot two times in the chest.
+51	00:03:31	00:03:36	Female shot in the back, and her hand is missing.
+52	00:03:36	00:03:38	Why take just one hand?
+53	00:03:38	00:03:40	Maybe there was something on it he wanted.
+54	00:03:47	00:03:50	Boxer shorts, socks.
+55	00:03:50	00:03:51	I'm guessing this is his.
+56	00:03:51	00:03:53	You see another suitcase?
+57	00:03:53	00:03:56	No, no, I did not.
+58	00:03:57	00:04:00	Looks like she was just visiting.
+59	00:04:02	00:04:04	.45 automatic.
+60	00:04:04	00:04:06	No purse...
+61	00:04:06	00:04:09	no valuables.
+62	00:04:09	00:04:10	Did you see a safe?
+63	00:04:11	00:04:14	No.
+64	00:04:20	00:04:22	No, no safe in here.
+65	00:04:22	00:04:24	Looks like a robbery.
+66	00:04:24	00:04:30	Hey, this guy has a bunch of law enforcement logo shirts hanging up in here.
+67	00:04:31	00:04:32	Check the Bible drawer.
+68	00:04:52	00:04:54	Anything?
+69	00:04:56	00:04:59	Nine millimeter service pistol?
+70	00:04:59	00:05:01	Stamped T.P.D.
+71	00:05:01	00:05:04	Could be any city starting with T.
+72	00:05:04	00:05:08	I didn't find any nine millimeter casing, so this weapon was never fired.
+73	00:05:08	00:05:11	The room is registered to a Dennis Graves Trenton, New Jersey.
+74	00:05:11	00:05:13	He's a cop, Trenton, PD.
+75	00:05:13	00:05:15	Hey, you're from Trenton. Do you know him?
+76	00:05:15	00:05:16	No.
+77	00:05:16	00:05:18	Who found them?
+78	00:05:18	00:05:24	His buddy, Frank McCarty.
+79	00:05:59	00:06:01	So what were you two guys doing in Vegas?
+80	00:06:01	00:06:04	Playing a little golf, indulging in the buffets.
+81	00:06:05	00:06:08	Is that all you indulged in?
+82	00:06:08	00:06:10	We were down in the bar, Dennis picked up a date.
+83	00:06:10	00:06:11	Is she the date?
+84	00:06:11	00:06:13	I didn't get a name.
+85	00:06:13	00:06:15	Anyway, they went upstairs, I played a little blackjack.
+86	00:06:15	00:06:19	Then what? Then, I pulled some strings and got us a tee time at the Wynn.
+87	00:06:19	00:06:21	Dennis didn't answer his phone.
+88	00:06:21	00:06:24	I figured he was busy going around the world.
+89	00:06:24	00:06:26	After a while, I...
+90	00:06:26	00:06:27	I knew something was wrong.
+91	00:06:27	00:06:29	I got hotel security to open the door.
+92	00:06:29	00:06:31	Excuse me. Yeah?
+93	00:06:31	00:06:33	Captain, we got press all over the place.
+94	00:06:33	00:06:35	Can you stick around? I'll be right back.
+95	00:06:35	00:06:36	Yeah, sure.
+96	00:06:37	00:06:39	Okay.
+97	00:06:39	00:06:42	Mr. McCarty?
+98	00:06:42	00:06:44	If you don't mind.
+99	00:06:48	00:06:51	You want to tell me what I'm seeing here, Frank?
+100	00:06:51	00:06:52	Could be anything.
+101	00:06:52	00:06:54	Pimp went off on his whore.
+102	00:06:54	00:06:56	Robbery gone bad.
+103	00:06:56	00:06:57	It's a dangerous town.
+104	00:07:01	00:07:02	Have a seat.
+105	00:07:02	00:07:04	Yeah.
+106	00:07:05	00:07:07	Heard we have a dead out-of-town cop.
+107	00:07:07	00:07:09	Yeah, Detective Dennis Graves.
+108	00:07:09	00:07:11	Trenton PD.
+109	00:07:11	00:07:12	Trenton? Yeah.
+110	00:07:16	00:07:17	David, you got the T.O.D.?
+111	00:07:17	00:07:19	About four hours ago.
+112	00:07:19	00:07:22	Male was shot twice, both frontal.
+113	00:07:22	00:07:24	No exits.
+114	00:07:25	00:07:28	The girl was shot once in the back.
+115	00:07:28	00:07:29	Did you find the hand?
+116	00:07:29	00:07:34	I'm guessing the killer's got it, along with the rest of their valuables.
+117	00:07:34	00:07:36	Hey, Catherine, check this out.
+118	00:07:36	00:07:39	I've got an uncapped bottle of mouthwash here.
+119	00:07:41	00:07:45	Probably come back to the hooker. Yeah, but I've got something else, and this is good.
+120	00:07:46	00:07:53	There are quite a few long, light-colored hairs snagged in the soap dish right there.
+121	00:07:53	00:07:55	Not a match to either victim.
+122	00:07:55	00:07:57	Sloppy housekeeping?
+123	00:07:57	00:07:59	I doubt the maid would miss this.
+124	00:07:59	00:08:04	What appear to be high heel shoe impressions-- I checked, again, no match to the working girl.
+125	00:08:04	00:08:07	Bath towels haven't been used.
+126	00:08:07	00:08:09	So who was in the tub with her shoes on?
+127	00:08:09	00:08:12	Keppler, do me a favor.
+128	00:08:12	00:08:14	Go over by the body, will you?
+129	00:08:18	00:08:20	Yeah?
+130	00:08:20	00:08:22	I can see you; can you see me?
+131	00:08:22	00:08:24	Yep.
+132	00:08:24	00:08:25	What about if I get low?
+133	00:08:26	00:08:28	Not anymore.
+134	00:08:28	00:08:31	So either she was lying in wait...
+135	00:08:31	00:08:34	Or an eyewitness tried to hide from a killer.
+136	00:08:37	00:08:39	Let's pull the elevator surveillance.
+137	00:08:39	00:08:43	Maybe we can find a blonde who got off on this floor.
+138	00:08:46	00:08:48	Welcome back, Dr. Grissom.
+139	00:08:48	00:08:51	It's good to be back, Judy.
+140	00:08:51	00:08:54	There are no words to describe how glad I am you're back.
+141	00:08:54	00:08:56	But I'm sure you'll find some.
+142	00:08:56	00:08:59	The lab almost went to hell in a handbag while you were sabbaticalling.
+143	00:09:00	00:09:03	I'm sure you talked to Catherine, but just in case you didn't...
+144	00:09:03	00:09:05	lot of hurt feelings, so in case you talk to Nick...
+145	00:09:05	00:09:08	I'd rather hear it from Catherine, thanks.
+146	00:09:08	00:09:17	Fair enough, but, uh, permit me to say that the Seasonal Behaviors of the Walden Pond Swamp Mosquito was an incredibly stimulating seminar.
+147	00:09:17	00:09:19	And you know this how?
+148	00:09:19	00:09:21	I took your course online.
+149	00:09:21	00:09:23	It's free to alumni.
+150	00:09:23	00:09:26	Oh, you're Spanky.
+151	00:09:26	00:09:28	Seven-four-three.
+152	00:09:29	00:09:31	I aced the final, didn't I?
+153	00:09:46	00:09:47	Post-mortem tool marks to the left wrist.
+154	00:09:48	00:09:51	No vital reactions from the tissue.
+155	00:09:51	00:09:55	Cuts are scalloped, definitely a serrated blade.
+156	00:09:55	00:09:57	Not a bad job.
+157	00:09:57	00:09:59	Anything to help us identify her?
+158	00:09:59	00:10:00	David printed the right hand.
+159	00:10:00	00:10:02	No hits on AFIS.
+160	00:10:02	00:10:07	Lucky for you, like many young ladies her age, she had some surgical work done.
+161	00:10:07	00:10:09	Feel these.
+162	00:10:09	00:10:11	What do you think?
+163	00:10:11	00:10:13	Implants.
+164	00:10:13	00:10:16	Kind of big for my taste, really.
+165	00:10:16	00:10:17	The other end.
+166	00:10:17	00:10:19	Oh, they're for the butt?
+167	00:10:19	00:10:21	Implants are serialized.
+168	00:10:21	00:10:23	We can get an ID from those.
+169	00:10:23	00:10:26	You know, I spent 12 hours on a court bench last week.
+170	00:10:26	00:10:29	I could have used a pair of these bad boys.
+171	00:10:29	00:10:30	What about C.O.D.?
+172	00:10:30	00:10:34	Single gunshot to the back, just to the right of the spinal column.
+173	00:10:34	00:10:38	Bullet severed the aorta, lodged inside the sternum.
+174	00:10:38	00:10:39	And the cop?
+175	00:10:39	00:10:42	I removed these from Detective Graves.
+176	00:10:42	00:10:44	Large caliber, too.
+177	00:10:44	00:10:46	I'll get those to Ballistics.
+178	00:10:46	00:10:48	Okay, so I'll run the serials?
+179	00:10:48	00:10:51	Yeah.
+180	00:10:51	00:10:53	I am an ass man.
+181	00:10:58	00:10:59	Michael Keppler.
+182	00:10:59	00:11:02	Hi, Gil Grissom.
+183	00:11:02	00:11:03	How's everybody been treating you?
+184	00:11:03	00:11:06	No complaints, you've got a great team.
+185	00:11:06	00:11:08	Yeah, thanks.
+186	00:11:08	00:11:10	Does Ecklie still have you slotted for days?
+187	00:11:10	00:11:12	As far as I know.
+188	00:11:12	00:11:15	I hear you're working the double homicide at The Olympia.
+189	00:11:15	00:11:16	What have you got?
+190	00:11:16	00:11:18	Oh, it's uh, bullets from Doc Robbins.
+191	00:11:18	00:11:20	I was going to run them through IBIS.
+192	00:11:20	00:11:22	The dead cop was from your hometown, huh?
+193	00:11:22	00:11:25	Yeah. Retired.
+194	00:11:25	00:11:26	Did you know him?
+195	00:11:26	00:11:29	You know how many retired cops there are in Trenton?
+196	00:11:32	00:11:33	Well, it's great to finally meet you.
+197	00:11:33	00:11:35	Same.
+198	00:11:43	00:11:45	I love you, Mikey.
+199	00:12:09	00:12:11	Hey.
+200	00:12:11	00:12:14	Hey.
+201	00:12:14	00:12:17	I said, How do you feel about butt implants?
+202	00:12:17	00:12:19	You don't need them?
+203	00:12:19	00:12:20	Thank you.
+204	00:12:21	00:12:23	I wasn't really talking about me, but...
+205	00:12:23	00:12:25	Oh, right.
+206	00:12:25	00:12:26	Sorry.
+207	00:12:27	00:12:30	You got something on the dead cop case?
+208	00:12:30	00:12:34	The blond hair from the tub does match the saliva left in the mouthwash bottle.
+209	00:12:34	00:12:38	And it's female, but not from the dead hooker with the big back seat.
+210	00:12:38	00:12:42	Second female in the room uses mouthwash.
+211	00:12:44	00:12:46	More than likely another hooker.
+212	00:12:46	00:12:49	Looks like we got a witness.
+213	00:12:51	00:12:55	Dennis should've lived long enough to spoil his grandkids.
+214	00:12:55	00:12:57	He was a good man, good cop.
+215	00:12:57	00:12:59	Good enough to spot a hooker when he saw one?
+216	00:13:00	00:13:02	You don't have to be a cop to have that radar.
+217	00:13:02	00:13:03	So tell me about Dennis.
+218	00:13:03	00:13:04	Did he major in French?
+219	00:13:04	00:13:06	Maybe liked ménage à trois?
+220	00:13:06	00:13:09	You know, two's company, three's a party?
+221	00:13:09	00:13:11	'Cause there was another girl in the room with him.
+222	00:13:11	00:13:12	Really? Mm-hmm.
+223	00:13:12	00:13:15	I only saw him leave with one girl.
+224	00:13:15	00:13:18	So as far as you know, there wasn't a blond in there with him?
+225	00:13:18	00:13:19	Dennis?
+226	00:13:19	00:13:21	He could barely handle one.
+227	00:13:21	00:13:25	Besides, he was a little tight with the buck.
+228	00:13:25	00:13:27	Hey, Brown.
+229	00:13:27	00:13:29	I'm looking at the over- under in the Suns game.
+230	00:13:29	00:13:31	What do you think?
+231	00:13:31	00:13:34	I don't bet sports anymore.
+232	00:13:34	00:13:35	Not what I hear.
+233	00:13:35	00:13:38	According to Stokes, you're at the top of your game.
+234	00:13:38	00:13:43	Well, why don't you get your picks from him with his fat Texas mouth.
+235	00:13:43	00:13:46	I'd take the over.
+236	00:13:46	00:13:47	Hey.
+237	00:13:47	00:13:49	Want some help?
+238	00:13:49	00:13:50	Welcome back.
+239	00:13:50	00:13:51	What do you got?
+240	00:13:51	00:13:55	Well, I'm just following a lead off some serialized butt implants.
+241	00:13:55	00:13:56	I missed Las Vegas.
+242	00:13:58	00:14:00	What are you doing here?
+243	00:14:00	00:14:03	I'm avoiding the paperwork and mail that's piled up on my desk.
+244	00:14:03	00:14:06	Well... we got a, uh, dead prostitute's apartment.
+245	00:14:07	00:14:09	It's obvious that it's been ransacked and robbed.
+246	00:14:09	00:14:13	I'm thinking that she was the target of the double and the cop was collateral.
+247	00:14:13	00:14:15	Where would you like me to start?
+248	00:14:15	00:14:17	You can hit the dinette.
+249	00:14:18	00:14:19	I haven't taken that yet.
+250	00:14:19	00:14:21	Unless you're avoiding her paperwork, too.
+251	00:14:21	00:14:24	There's a lot of it.
+252	00:14:29	00:14:33	Well, she was past due on her electric bill.
+253	00:14:33	00:14:37	But seems to have paid her telephone bill on time.
+254	00:14:37	00:14:40	Telephone. Hooker's lifeline.
+255	00:14:41	00:14:47	I'm telling you, whoever hit this place left a lot of prints.
+256	00:14:47	00:14:51	I, uh, heard there was some friction in the lab while I was gone.
+257	00:14:51	00:14:54	You ever hear of reverse forensics?
+258	00:15:08	00:15:09	Keppler.
+259	00:15:09	00:15:11	There was someone else in that hotel room.
+260	00:15:11	00:15:13	I know.
+261	00:15:13	00:15:15	I need a name.
+262	00:15:15	00:15:18	I don't have one.
+263	00:15:18	00:15:20	Don't let me down, kid.
+264	00:15:20	00:15:22	You got to help me here; I'm counting on you.
+265	00:15:24	00:15:27	You okay?
+266	00:15:28	00:15:30	Yeah.
+267	00:15:30	00:15:35	Well, I tracked down the plastic surgeon that augmented Courtney Evans' glutes.
+268	00:15:35	00:15:40	Probably the only implants ever paid for in cash by, get this...
+269	00:15:40	00:15:44	her pimp, a guy named Eric Hong, aka...
+270	00:15:44	00:15:46	Precious Ricky, huh?
+271	00:15:46	00:15:49	Yeah, that's what my mama calls me.
+272	00:15:49	00:15:50	Precious Licky.
+273	00:15:51	00:15:54	Is she one of yours?
+274	00:15:56	00:15:58	No, ain't seen her before.
+275	00:15:58	00:16:00	You bought her butt cheek implants.
+276	00:16:00	00:16:04	Is that something you normally do for girls you don't know?
+277	00:16:04	00:16:05	Oh, see, that's the problem.
+278	00:16:05	00:16:07	You're showing me the wrong end.
+279	00:16:07	00:16:08	Okay.
+280	00:16:08	00:16:12	So, then she is one of yours, right?
+281	00:16:12	00:16:15	Hey, I run an escort service.
+282	00:16:15	00:16:16	Strictly legal.
+283	00:16:16	00:16:18	I'm sure it is.
+284	00:16:18	00:16:20	So what did she do, Precious?
+285	00:16:20	00:16:22	She make you mad?
+286	00:16:22	00:16:23	No.
+287	00:16:23	00:16:25	No, I don't get mad, man.
+288	00:16:25	00:16:27	I'm blissed out.
+289	00:16:27	00:16:28	I'm a Buddhist.
+290	00:16:28	00:16:30	I let the anger flow right through me.
+291	00:16:30	00:16:34	Sentient beings are numberless, and I vow to save them.
+292	00:16:34	00:16:36	I didn't do nothing to her.
+293	00:16:36	00:16:37	Nothing?
+294	00:16:37	00:16:40	Like cut off her hand, and you kill the cop she was with?
+295	00:16:40	00:16:42	We know Courtney was with a blond last night.
+296	00:16:42	00:16:43	Long hair.
+297	00:16:44	00:16:46	You got anyone who matches that description?
+298	00:16:46	00:16:48	Jenny, Coco, Lani...
+299	00:16:48	00:16:50	April, May and June, too.
+300	00:16:50	00:16:52	But you know what?
+301	00:16:52	00:16:55	The cuffs don't always match the collars, you know what I... (grunts)
+302	00:16:55	00:17:03	Now, look, Ricky, maybe you're a nice guy, maybe you're not, but right now I really don't care, because I think you're lying to me.
+303	00:17:03	00:17:06	And that could go very badly for you.
+304	00:17:08	00:17:09	Do you understand what I'm saying?
+305	00:17:09	00:17:11	Okay, okay.
+306	00:17:11	00:17:13	They were all on the clock last night.
+307	00:17:13	00:17:15	It was a bachelor party.
+308	00:17:20	00:17:22	Nick, Mike, can you step out a minute?
+309	00:17:27	00:17:31	Miss McFarland is a baby-sitter, of sorts.
+310	00:17:31	00:17:32	I wouldn't leave her with my cat.
+311	00:17:33	00:17:34	I think she likes the pipe.
+312	00:17:34	00:17:37	She claims that that baby belongs to Courtney Evans.
+313	00:17:37	00:17:40	She had a baby? Damn.
+314	00:17:40	00:17:42	I'm going to call Child Services.
+315	00:17:42	00:17:44	Yeah.
+316	00:17:47	00:17:50	Ma'am, I'm Nick Stokes; this is Mike Keppler.
+317	00:17:50	00:17:51	We're with the Crime Lab.
+318	00:17:51	00:17:53	You mind if we ask you a few questions?
+319	00:17:53	00:17:56	Um, look, Courtney was supposed to come in the morning to pick up Lila, okay.
+320	00:17:56	00:17:57	I got to work.
+321	00:17:57	00:17:58	You know, real work.
+322	00:17:58	00:18:01	Okay, look, my own problems, okay?
+323	00:18:01	00:18:07	Otherwise, I would have taken her myself, but, um, I ain't in no shape, okay?
+324	00:18:07	00:18:10	So, uh, you can find her a family, right?
+325	00:18:12	00:18:14	What about the father?
+326	00:18:14	00:18:15	Heard he was in prison or something like that.
+327	00:18:15	00:18:17	I ain't never seen him.
+328	00:18:17	00:18:19	When she left the baby with you, was Courtney with anyone?
+329	00:18:19	00:18:21	A friend maybe?
+330	00:18:21	00:18:23	No, no, she ain't got no friends.
+331	00:18:23	00:18:24	What about enemies?
+332	00:18:24	00:18:26	You know what?
+333	00:18:26	00:18:28	I got to go. I can't take this.
+334	00:18:28	00:18:29	Mm-mm, please take her.
+335	00:18:29	00:18:30	Thank you.
+336	00:18:30	00:18:31	Please.
+337	00:18:31	00:18:33	Go with her. I got to go.
+338	00:18:36	00:18:37	Oh.
+339	00:18:37	00:18:40	Looks like we have another victim, huh?
+340	00:18:43	00:18:45	It's gonna be okay, baby.
+341	00:18:57	00:18:59	We got to talk, Frank.
+342	00:18:59	00:19:01	Hold on, hold on, I'm on a streak here.
+343	00:19:01	00:19:03	Now, do I keep the ace or draw the inside straight?
+344	00:19:03	00:19:05	I'm gonna draw to the straight.
+345	00:19:05	00:19:08	She had a kid.
+346	00:19:08	00:19:10	Oh, God.
+347	00:19:12	00:19:14	Why don't you tell me about the hand?
+348	00:19:16	00:19:18	Why?
+349	00:19:18	00:19:21	She scratched me, Mike.
+350	00:19:21	00:19:23	Come on, what was I supposed to do?
+351	00:19:23	00:19:28	I couldn't take the chance that one of your guys would find my DNA under her nails.
+352	00:19:30	00:19:31	Why, Frank?
+353	00:19:31	00:19:33	You know why.
+354	00:19:33	00:19:35	That was a long time ago; Dennis never said a word.
+355	00:19:35	00:19:37	Yeah, but he was going to.
+356	00:19:38	00:19:39	He was about to be indicted.
+357	00:19:39	00:19:40	Wife, three kids.
+358	00:19:40	00:19:42	There was no way he was doing time.
+359	00:19:42	00:19:45	He was going down, Mikey, and he was taking us with him.
+360	00:19:45	00:19:47	He was a cop, Frank.
+361	00:19:47	00:19:50	Yeah. You told me that.
+362	00:19:50	00:19:53	You don't do that, not even to save your own ass. Yeah?
+363	00:19:53	00:19:55	What about yours? Hey!
+364	00:19:55	00:19:56	Give me another vodka and tonic.
+365	00:19:56	00:19:59	And give my boy here a scotch.
+366	00:19:59	00:20:00	Neat, right?
+367	00:20:00	00:20:01	Make it a double.
+368	00:20:01	00:20:04	We got to loosen him up.
+369	00:20:05	00:20:06	Look at her.
+370	00:20:06	00:20:08	Just like catnip.
+371	00:20:10	00:20:12	Don't look at me like that, Mike.
+372	00:20:12	00:20:14	We did the right thing, all of us.
+373	00:20:14	00:20:18	But do you think the grand jury's gonna see it like that?
+374	00:20:18	00:20:25	They're gonna see a white cop turned Dirty Harry goes across the river to take out some Puerto Rican drug dealer.
+375	00:20:25	00:20:26	Shoots him in the back.
+376	00:20:26	00:20:28	They don't understand.
+377	00:20:28	00:20:33	Every time we take one step outside the box for public safety, they nail our asses to the wall.
+378	00:20:33	00:20:36	Sit down, Frank. Hey, Mikey, there's no turning back.
+379	00:20:36	00:20:37	You did the right thing.
+380	00:20:37	00:20:39	If you hadn't taken care of that evidence...
+381	00:20:39	00:20:41	Keep your voice down, all right?
+382	00:20:41	00:20:43	Come on, I need some help here.
+383	00:20:44	00:20:47	Or you're gonna lose everything.
+384	00:20:47	00:20:48	And that isn't what Amy would have wanted.
+385	00:20:48	00:20:49	She loved you.
+386	00:20:49	00:20:51	Don't do that.
+387	00:20:51	00:20:52	What?
+388	00:20:52	00:20:55	Don't bring her into this. You think you're the only one who cared for her?
+389	00:20:55	00:20:56	I was her father, Mikey.
+390	00:20:56	00:20:58	Don't ever forget that.
+391	00:21:02	00:21:08	I would've killed that the scumbag who raped her with these bare hands, but you got to him first.
+392	00:21:09	00:21:12	I love you for that.
+393	00:21:13	00:21:15	Yeah, I made compromises for you.
+394	00:21:15	00:21:18	You wouldn't be here now if it wasn't for me.
+395	00:21:20	00:21:22	Yeah.
+396	00:21:22	00:21:23	Yeah.
+397	00:21:25	00:21:26	You're out of line, Frank.
+398	00:21:26	00:21:32	Hey, Mikey, there is no statute of limitations for murder.
+399	00:21:32	00:21:36	The kid you shot, his mother's still crying.
+400	00:21:36	00:21:39	And I got the gun...
+401	00:21:39	00:21:41	with your prints and his blood on it.
+402	00:21:44	00:21:51	You go down now, you take every case you ever worked on with you.
+403	00:21:51	00:21:56	Trenton, Philly, Baltimore, Vegas.
+404	00:21:56	00:21:58	All those killers go free.
+405	00:21:58	00:22:01	All on your hands.
+406	00:22:03	00:22:08	So, pin it on the blond in the bathroom or the pimp.
+407	00:22:08	00:22:11	Just do it, I don't care how, just do it.
+408	00:22:24	00:22:26	I don't even know Courtney what's-her-name.
+409	00:22:26	00:22:30	So how is it that your prints ended up all over her apartment?
+410	00:22:30	00:22:32	I've never been to her apartment.
+411	00:22:32	00:22:34	Did I mention she was dead?
+412	00:22:34	00:22:36	What?
+413	00:22:36	00:22:38	Yo, I don't even know no dead person.
+414	00:22:39	00:22:41	PJ, you know what I think?
+415	00:22:42	00:22:43	I think you killed her.
+416	00:22:43	00:22:47	You took her purse, went to her apartment and stole all her stuff.
+417	00:22:47	00:22:48	No, no, no. I didn't kill nobody.
+418	00:22:49	00:22:50	Well, she's dead.
+419	00:22:50	00:22:52	And so is the cop she was with.
+420	00:22:52	00:22:54	That's the death penalty.
+421	00:22:54	00:22:56	Here's what happened-- I swear, this-- this is the truth.
+422	00:22:57	00:22:58	I was minding my own business.
+423	00:22:58	00:23:04	I was checking out the Dumpsters behind, behind the Strip, and lo and behold, I find this lady's purse.
+424	00:23:04	00:23:07	Right there in the Dumpster? Yeah, like pennies from heaven.
+425	00:23:07	00:23:10	It had a wallet, it had keys, it had a cell phone.
+426	00:23:10	00:23:14	So I checked for her license, I got her address and went to her house.
+427	00:23:14	00:23:16	I was going to return the purse, I swear.
+428	00:23:16	00:23:18	Oh, like a Good Samaritan?
+429	00:23:18	00:23:20	Yeah, but, when I got here, no one was there.
+430	00:23:20	00:23:22	So what'd you do?
+431	00:23:22	00:23:23	I used the key.
+432	00:23:23	00:23:24	I was going to leave the purse inside.
+433	00:23:25	00:23:28	But you didn't do that, did you?
+434	00:23:28	00:23:30	I might have taken a couple of things.
+435	00:23:30	00:23:32	Where was the Dumpster?
+436	00:23:32	00:23:33	Behind the Palermo.
+437	00:23:33	00:23:36	(phone rings) Behind the Palermo.
+438	00:23:36	00:23:37	This is Catherine.
+439	00:23:37	00:23:38	Catherine, it's Mike.
+440	00:23:38	00:23:39	Mike.
+441	00:23:39	00:23:41	Where have you been?
+442	00:23:41	00:23:43	I had to take care of something.
+443	00:23:43	00:23:45	How's it going? Any I.D. on the blonde yet?
+444	00:23:45	00:23:50	No, but we got some info from the deadbeat who burgled the hooker's apartment.
+445	00:23:50	00:23:52	Claims he found her purse in a Dumpster behind the Palermo.
+446	00:23:52	00:23:55	I'm just off the Strip now; I'll take care of it for you.
+447	00:23:55	00:23:58	Mike, are you okay?
+448	00:23:58	00:24:00	Yeah, yeah. I'm fine.
+449	00:24:00	00:24:02	I'll see you in a little bit.
+450	00:25:26	00:25:28	Hey, Mike.
+451	00:25:28	00:25:29	Hey.
+452	00:25:29	00:25:32	Did you get anything from the Dumpster?
+453	00:25:32	00:25:33	Yeah...
+454	00:25:33	00:25:36	a bad smell.
+455	00:25:36	00:25:38	So...
+456	00:25:39	00:25:41	Ecklie wants you on days now that Grissom's back, but...
+457	00:25:42	00:25:46	I could talk to them, get you to stay with us.
+458	00:25:46	00:25:49	Oh, I'm sure you guys will do just fine without me.
+459	00:25:50	00:25:55	Yeah, usually transfers don't fit in, but... think about it.
+460	00:25:57	00:25:58	Catherine.
+461	00:26:01	00:26:04	Thanks.
+462	00:26:21	00:26:22	Keppler.
+463	00:26:22	00:26:24	Archie found the mystery blonde.
+464	00:26:24	00:26:29	Before she was in Dennis Graves' room, she was with that cop, Frank McCarty.
+465	00:26:29	00:26:31	They got on in the lobby, got off on 11.
+466	00:26:31	00:26:34	Around the time McCarty said Dennis picked up his hooker.
+467	00:26:34	00:26:39	Hey, he never mentioned he had company, and he knew we were looking for another hooker.
+468	00:26:39	00:26:42	Now I'm starting to think we're looking at a dirty cop.
+469	00:26:42	00:26:44	Who knows about this? PD's about to.
+470	00:26:45	00:26:47	I'm calling them right now.
+471	00:26:47	00:26:51	You'd think a cop would know he's on camera, huh?
+472	00:26:54	00:26:57	McCarty's phone keeps going to voice mail.
+473	00:26:57	00:27:00	And, according to the receptionist, he didn't check out.
+474	00:27:02	00:27:05	LVPD. Open up.
+475	00:27:06	00:27:07	Give me the card.
+476	00:27:40	00:27:43	I didn't do it... I didn't do it, man.
+477	00:27:43	00:27:45	Come on, man; I didn't do it.
+478	00:27:45	00:27:47	You got the wrong guy, man.
+479	00:27:50	00:27:51	No!
+480	00:27:51	00:27:53	It's a .45 auto.
+481	00:27:56	00:27:59	Same caliber as the gun that killed the cop and the hooker.
+482	00:27:59	00:28:01	With blood stains.
+483	00:28:01	00:28:04	This this is practically gift-wrapped.
+484	00:28:04	00:28:10	If the guy wants to get caught so bad, just confess, make it easy on all of us.
+485	00:28:10	00:28:12	I can't wait to get this back to Ballistics.
+486	00:28:12	00:28:14	I'll see you.
+487	00:28:16	00:28:18	I'll finish up here.
+488	00:28:36	00:28:37	You've reached Frank.
+489	00:28:38	00:28:39	Leave me a message after the tone.
+490	00:28:44	00:28:47	Sara.
+491	00:28:47	00:28:49	Hey. You're back.
+492	00:28:49	00:28:50	Yeah.
+493	00:28:50	00:28:52	Uh, I've-- I've been out at a, um...
+494	00:28:52	00:28:54	I've been at... A garbage dump? Yeah.
+495	00:28:54	00:28:56	It's so obvious, isn't it?
+496	00:28:56	00:28:58	Nice, um...
+497	00:28:59	00:29:00	You look good.
+498	00:29:00	00:29:04	Did you, uh, put the cocoon in my office?
+499	00:29:04	00:29:06	Cool, dry, not a lot of light.
+500	00:29:06	00:29:07	It seemed like the right place for it.
+501	00:29:07	00:29:09	I think you're going to be surprised when it hatches.
+502	00:29:09	00:29:11	I have no doubt.
+503	00:29:11	00:29:13	I'm gonna...
+504	00:29:13	00:29:14	go clean up now.
+505	00:29:16	00:29:17	I'll see you later.
+506	00:29:18	00:29:21	Yeah, you will.
+507	00:29:23	00:29:26	McCarty's mystery blonde knew the dead hooker.
+508	00:29:26	00:29:27	How do you know that?
+509	00:29:29	00:29:31	Check out the time code.
+510	00:29:31	00:29:32	10.
+511	00:29:32	00:29:36	We recovered the hooker's cell phone, thanks to a Dumpster diver.
+512	00:29:36	00:29:39	These are all her voice mails, the last couple hours before she died.
+513	00:29:40	00:29:44	At the same time the blond was making this call, Courtney Evans received a voice mail.
+514	00:29:44	00:29:47	So, I synched up the audio to the video.
+515	00:29:50	00:29:53	Yeah, Courty, it's me, Suzy Q. Got your message.
+516	00:29:53	00:29:56	What are you, too busy to answer me back?
+517	00:29:56	00:29:57	Uh, so anyway, I just left my guy.
+518	00:29:57	00:30:00	Eh, it went all right.
+519	00:30:00	00:30:03	Usual Call me Daddy crap.
+520	00:30:04	00:30:07	You know, he actually wanted me to whimper. Whatever.
+521	00:30:07	00:30:10	He kept calling me Amy.
+522	00:30:15	00:30:16	Amy?
+523	00:30:16	00:30:18	...that three-way...
+524	00:30:18	00:30:22	I don't know, I don't know. I think I'm gonna have to-- Do we have an I.D. on the blonde?
+525	00:30:22	00:30:24	Just now.
+526	00:30:24	00:30:28	I just finished running names off Courtney Evans' incoming calls. Yeah?
+527	00:30:28	00:30:30	We're looking for Suzy Gibbons.
+528	00:30:30	00:30:31	Here it is.
+529	00:30:33	00:30:37	Priors for prostitution and a last known.
+530	00:30:37	00:30:38	Can I see that?
+531	00:30:38	00:30:40	She knew the vic.
+532	00:30:42	00:30:44	She's the blonde in the bathtub.
+533	00:30:44	00:30:45	Well, if we can find Suzy, so can a retired cop.
+534	00:30:45	00:30:47	He needs her dead.
+535	00:30:47	00:30:51	If she's dumb enough to hide out in her own house, she already is.
+536	00:30:51	00:30:52	Mike?
+537	00:30:52	00:30:54	Mike, where are you going?!
+538	00:32:00	00:32:02	Amy?
+539	00:32:24	00:32:30	Daddy said never tell you.
+540	00:32:42	00:32:45	Why would McCarty have a bloody gun with Keppler's prints on it, in his hotel room?
+541	00:32:45	00:32:46	Doesn't make any sense.
+542	00:32:46	00:32:47	No.
+543	00:32:47	00:32:49	Could Mike have touched it when he found it?
+544	00:32:49	00:32:50	No, no way.
+545	00:32:50	00:32:51	I was right there.
+546	00:32:51	00:32:53	Besides, the blood was already dry.
+547	00:32:53	00:32:55	You don't leave fingerprints in dried blood.
+548	00:32:55	00:32:59	I compared the .45 ammo evidence to the dead cop and the hooker.
+549	00:32:59	00:33:05	It's the correct make, model and caliber, but I'm telling you, it's a different gun.
+550	00:33:05	00:33:06	Maybe he's being set up.
+551	00:33:06	00:33:07	Why?
+552	00:33:07	00:33:08	By whom?
+553	00:33:09	00:33:10	Keppler told me that he didn't know Frank McCarty.
+554	00:33:10	00:33:12	He also said he didn't know the victim.
+555	00:33:12	00:33:15	Maybe he's lying about that, too.
+556	00:33:15	00:33:18	I'm sorry, Catherine. I like the guy, too, but I'm just following the evidence here.
+557	00:33:19	00:33:21	We should be talking to Keppler about this.
+558	00:33:21	00:33:23	Where is he?
+559	00:33:23	00:33:24	He was with me in A/V.
+560	00:33:24	00:33:27	Nobody has seen him since, and he's not answering his cell.
+561	00:33:27	00:33:29	He knows where the eyewitness lives.
+562	00:33:29	00:33:31	What are you saying, Nick?
+563	00:33:31	00:33:38	I'm saying that if he had something to do with these two murders, then Frank McCarty's not the only one we need to worry about.
+564	00:33:38	00:33:41	PD's on their way to Suzy Gibbons' apartment now.
+565	00:33:41	00:33:45	Okay, grab Sara and go over there, and I'll have Brass call Trenton PD, see who knows who.
+566	00:33:45	00:33:47	Welcome home.
+567	00:33:50	00:33:54	What other evidence did, uh, Keppler handle?
+568	00:33:54	00:33:59	He brought back the three bullets from Autopsy, which didn't match the gun with his prints on it.
+569	00:33:59	00:34:01	Could he have swapped the bullets?
+570	00:34:02	00:34:03	Anything's possible.
+571	00:34:03	00:34:08	He also searched the Dumpster where the homeless guy found the hooker's purse and cell phone.
+572	00:34:08	00:34:10	He told Catherine he didn't find anything.
+573	00:34:10	00:34:16	I got your DNA results, and the blood on the gun from Frank McCarty's hotel room, it doesn't match either victim.
+574	00:34:16	00:34:21	There were no hits in CODIS, and the DNA print ancestry markers say that it's from a black male.
+575	00:34:21	00:34:23	Keppler and McCarty were both Jersey boys.
+576	00:34:23	00:34:25	Expand the search to the East Coast.
+577	00:34:25	00:34:27	Will do.
+578	00:34:27	00:34:29	I really hope he's clean.
+579	00:34:30	00:34:33	We have to treat him like a suspect.
+580	00:34:33	00:34:34	I'll tell Ecklie.
+581	00:34:42	00:34:44	Still no answer on his cell.
+582	00:34:44	00:34:45	Hey.
+583	00:34:45	00:34:47	Got a fix on the GPS in his Denali.
+584	00:34:49	00:34:50	He's near Henderson.
+585	00:34:50	00:34:51	What's he doing there?
+586	00:35:04	00:35:06	He just disabled his GPS.
+587	00:35:06	00:35:07	Smart guy.
+588	00:35:07	00:35:08	Guilty guy.
+589	00:35:08	00:35:10	Try tracking his cell.
+590	00:35:10	00:35:11	PD-issued phones have GPS, too.
+591	00:35:11	00:35:13	Yeah.
+592	00:35:15	00:35:17	Got him.
+593	00:35:27	00:35:29	Okay?
+594	00:35:33	00:35:34	I'll take that.
+595	00:35:34	00:35:36	(grunts) Suzy Gibbons-- how do I find her?
+596	00:35:36	00:35:37	Okay, you know what?
+597	00:35:37	00:35:39	First off, you're gonna get your freakin' hands off me.
+598	00:35:40	00:35:43	I don't have time, Ricky.
+599	00:35:43	00:35:46	Why should I tell you?
+600	00:35:46	00:35:47	Because if you don't...
+601	00:35:49	00:35:52	I'm the last face you're gonna see alive.
+602	00:35:56	00:35:59	I don't think Suzy works out of here.
+603	00:35:59	00:36:01	Me, either.
+604	00:36:05	00:36:06	Jim?
+605	00:36:06	00:36:09	So I finally got through to the Homicide captain in Trenton.
+606	00:36:09	00:36:11	Anyway, here's the story.
+607	00:36:11	00:36:13	Keppler not only knew McCarty.
+608	00:36:13	00:36:18	Not only did he know him, he was like a son to him.
+609	00:36:18	00:36:23	Keppler had a close relationship with his daughter, and McCarty was the one who got Keppler his job as a CSI.
+610	00:36:23	00:36:27	And what about the victim-- Detective Graves?
+611	00:36:27	00:36:28	Yeah, he knew him, too.
+612	00:36:28	00:36:30	Graves was being indicted.
+613	00:36:30	00:36:34	Seems like too many of his suspects were showing up dead before the trial.
+614	00:36:34	00:36:36	Catherine, I think all three of them are dirty.
+615	00:36:36	00:36:38	Okay.
+616	00:36:39	00:36:42	You know, some women...
+617	00:36:42	00:36:45	live out of their purses.
+618	00:36:45	00:36:48	I know a lot of working girls operate out of the Siren.
+619	00:36:48	00:36:50	I think we just found her office.
+620	00:36:51	00:36:53	I'll see you back at the lab?
+621	00:36:53	00:36:54	Okay.
+622	00:36:57	00:36:58	Hello.
+623	00:36:58	00:37:00	It's Mike.
+624	00:37:00	00:37:01	Where have you been?
+625	00:37:01	00:37:02	Everybody is looking for you.
+626	00:37:02	00:37:04	I know.
+627	00:37:04	00:37:05	I'm sorry.
+628	00:37:05	00:37:08	Then come back in.
+629	00:37:08	00:37:09	I can't.
+630	00:37:09	00:37:10	It's kind of complicated.
+631	00:37:11	00:37:14	I... made a mistake a long time ago.
+632	00:37:14	00:37:16	Let me help you.
+633	00:37:16	00:37:19	It's too late.
+634	00:37:19	00:37:23	You're gonna end up looking into my cases, Catherine.
+635	00:37:24	00:37:26	They're clean.
+636	00:37:26	00:37:29	I promise, every one of them.
+637	00:37:29	00:37:31	Except the Alvarez homicide in Philly.
+638	00:37:31	00:37:36	If you run the ballistics again, it'll come back to Dennis Graves.
+639	00:37:36	00:37:39	Your guys are smart, they'll figure it out.
+640	00:37:39	00:37:43	Mike, don't do anything stupid.
+641	00:37:43	00:37:44	I got to go.
+642	00:37:49	00:37:50	Hey, you've reached Frank.
+643	00:37:50	00:37:52	Leave me a message after the tone. (beep)
+644	00:37:52	00:37:56	If you still want to fix this, Frank, you got 20 minutes.
+645	00:37:56	00:38:00	Blue Siren Motel, Third, below Fremont.
+646	00:38:24	00:38:24	Grissom.
+647	00:38:25	00:38:28	He just called, sounded desperate.
+648	00:38:28	00:38:31	Like a man with nothing to live for and nothing to lose.
+649	00:38:31	00:38:33	Well, he's not your priority.
+650	00:38:33	00:38:35	Find the witness.
+651	00:38:35	00:38:37	Yeah. I'm on my way.
+652	00:38:37	00:38:39	Just wanted you to know.
+653	00:38:47	00:38:49	(knock at door) It's open.
+654	00:38:57	00:39:00	Drop it, Frank.
+655	00:39:00	00:39:02	Put the gun down.
+656	00:39:04	00:39:07	Look, Mike...
+657	00:39:07	00:39:09	about the bar, you were right.
+658	00:39:09	00:39:11	I was out of line.
+659	00:39:11	00:39:13	You know how I get-- come on.
+660	00:39:13	00:39:14	Put the gun down.
+661	00:39:14	00:39:16	You're not gonna shoot me.
+662	00:39:16	00:39:19	Suzy, I want you to get up and walk out of the room, all right?
+663	00:39:19	00:39:20	I can't let that happen.
+664	00:39:20	00:39:22	Sit down. (sobbing)
+665	00:39:23	00:39:25	It's over, Frank.
+666	00:39:25	00:39:27	I know what you did.
+667	00:39:27	00:39:29	What are you talking about?
+668	00:39:29	00:39:31	I know what you did to Amy.
+669	00:39:36	00:39:39	I killed an innocent man.
+670	00:39:39	00:39:42	Mikey, you're talking crazy.
+671	00:39:42	00:39:43	She was your daughter, Frank.
+672	00:39:43	00:39:44	You watch your frickin' mouth.
+673	00:39:44	00:39:47	All right, okay! Put the gun down. (Gibbons sobbing)
+674	00:39:47	00:39:48	Shut up!
+675	00:39:51	00:39:54	I loved her, Mike, more than you know.
+676	00:39:54	00:39:56	All right, okay.
+677	00:39:58	00:40:01	I'm a dirty cop, rotten to the core.
+678	00:40:01	00:40:03	What do you want from me?
+679	00:40:21	00:40:24	I want you to tell me why, Frank.
+680	00:40:25	00:40:29	Why you would do that to your own daughter.
+681	00:40:29	00:40:30	Come on, Mike.
+682	00:40:30	00:40:31	You're all I've got.
+683	00:40:32	00:40:33	No! No!
+684	00:40:42	00:40:43	Mike!
+685	00:40:45	00:40:46	Mike.
+686	00:40:57	00:40:58	Mike.
+687	00:40:59	00:41:00	Mike.
+688	00:41:00	00:41:01	Mike, hang in there.
+689	00:41:02	00:41:03	Call the paramedics.
+690	00:41:03	00:41:05	Dispatch, got a Code 44.
+691	00:41:05	00:41:06	You're gonna be okay.
+692	00:41:06	00:41:08	Just stay with me.
+693	00:41:09	00:41:12	I'm sorry.
+694	00:41:12	00:41:13	I just know they both had guns.
+695	00:41:13	00:41:16	Move it. Pupils still fixed and dilated.
+696	00:41:16	00:41:17	He's moving into V-fib! Let's go! I'm here.
+697	00:41:17	00:41:19	Stay with me, Mike. Place him into the back of the rig.
+698	00:41:20	00:41:21	Mike?
+699	00:41:21	00:41:23	Let's go, let's go. Hang on, Mike.
+700	00:41:26	00:41:28	Charging, 300. (high-pitched electrical whine)
+701	00:41:28	00:41:29	Two placement's good. Clear.
+702	00:41:29	00:41:30	Clear.
+703	00:41:31	00:41:33	No response. Hitting him again.
+704	00:41:33	00:41:34	(high-pitched electrical whine) Copy. Clear.
+705	00:41:35	00:41:38	Yeah, I've got nothing.
+706	00:41:38	00:41:41	Still in V-fib. Come on, come on.
+707	00:41:47	00:41:48	No pulse.
+708	00:41:48	00:41:50	What?
+709	00:41:50	00:41:51	He's gone.
+710	00:42:19	00:42:21	Talk to me, Archie.
+711	00:42:21	00:42:25	The signal's 20 yards north of your position.
+712	00:42:25	00:42:27	I don't see anything.
+713	00:42:27	00:42:29	I'm dialing the phone now.
+714	00:42:29	00:42:31	All right.
+715	00:42:33	00:42:35	Hey, wait, wait, wait, wait!
+716	00:42:35	00:42:37	I got something.
+717	00:42:37	00:42:38	I'll call you back.
+718	00:43:00	00:43:03	Keppler left his phone so we'd find the hand.
+719	00:43:08	00:43:09	Check under the nails.
+720	00:43:09	00:43:12	You'll find Frank McCarty's DNA.

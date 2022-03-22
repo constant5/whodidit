@@ -1,668 +1,631 @@
-,start,end,text
-0,00:00:19,00:00:21,(engine starts)
-1,00:00:30,00:00:31,(tires screeching)
-2,00:00:38,00:00:40,This is the best taco I ever had.
-3,00:00:40,00:00:42,I'm happy for you both.
-4,00:00:42,00:00:43,"What, did you piss off Ecklie again?"
-5,00:00:44,00:00:44,This is a hit-and-run.
-6,00:00:45,00:00:46,I was expecting Greg Sanders.
-7,00:00:46,00:00:50,We're slammed. Everybody's on a case.
-8,00:00:50,00:00:52,Is this a Fiero?
-9,00:00:52,00:00:53,"Yeah, the old Fiero."
-10,00:00:53,00:00:56,"Kind of makes you nostalgic for a ""Members Only"" jacket."
-11,00:00:56,00:00:59,"Anyway, the Hummer was going the wrong way on a one-way street."
-12,00:00:59,00:01:02,"The guy in the Fiero, lucky to be alive."
-13,00:01:02,00:01:04,Nobody saw the driver get out.
-14,00:01:04,00:01:09,"People who drive $100,000 vehicles don't usually run away from them."
-15,00:01:09,00:01:12,"Well, you obviously haven't met any paroled rappers."
-16,00:01:15,00:01:19,Tread mark shapes indicate acceleration.
-17,00:01:21,00:01:22,Pedal to the metal.
-18,00:01:22,00:01:23,Maybe a getaway.
-19,00:01:23,00:01:25,Or maybe a joyride.
-20,00:01:25,00:01:29,There's a red smear on the door.
-21,00:01:29,00:01:31,Somebody's got blood on their hands.
-22,00:01:37,00:01:40,"Well, at least we know one thing about the driver."
-23,00:01:43,00:01:45,He's had a face lift.
-24,00:02:18,00:02:19,(telephone rings)
-25,00:02:19,00:02:22,"TREMONT: Crime Lab, how can I help you?"
-26,00:02:23,00:02:27,"Sara, I just want you to know that when we were in the shower, I didn't see anything."
-27,00:02:27,00:02:28,"Really? Gosh, I saw everything."
-28,00:02:30,00:02:32,"TREMONT: Mr. Grissom, PD just called."
-29,00:02:32,00:02:37,"Apparently, the Humvee from your hit-and-run was carjacked earlier tonight."
-30,00:02:39,00:02:40,"Yeah, it was our Hummer..."
-31,00:02:41,00:02:42,for all of 20 minutes.
-32,00:02:42,00:02:44,We... We won it in a raffle.
-33,00:02:44,00:02:45,"So, what happened?"
-34,00:02:45,00:02:48,"All of a sudden, this fat guy comes out of nowhere and..."
-35,00:02:48,00:02:49,Fat guy?!
-36,00:02:50,00:02:51,"No, that's you."
-37,00:02:51,00:02:52,What's me?
-38,00:02:52,00:02:53,Fat guy...
-39,00:02:53,00:02:56,"Well, um, how do you see it, Mrs. Shaw?"
-40,00:02:56,00:02:58,The kid who took the car was skinny.
-41,00:02:58,00:03:01,"Well, maybe he wasn't as big as me, but he was definitely fat."
-42,00:03:01,00:03:03,I'm going to sock you one. He was not.
-43,00:03:03,00:03:05,He pulled me out of the car!
-44,00:03:05,00:03:07,He was as skinny as a stickman!
-45,00:03:08,00:03:10,Yeah...
-46,00:03:10,00:03:15,"According to the, uh, witness statement, the carjacker was hanging over there by the fence."
-47,00:03:16,00:03:18,"What are we, about three blocks from the crash site?"
-48,00:03:18,00:03:20,"Uh, yeah."
-49,00:03:20,00:03:23,Nice freakin' neighborhood.
-50,00:03:52,00:03:55,(sirens wailing in the distance)
-51,00:04:11,00:04:13,(tires screeching)
-52,00:04:13,00:04:15,"Come on, man! I didn't do nothing! Let me go!"
-53,00:04:15,00:04:17,"Try to steal from me, you miserable lowlife!"
-54,00:04:17,00:04:18,"This time, I get justice!"
-55,00:04:19,00:04:20,You're going to jail!
-56,00:04:20,00:04:21,You are going to jail!
-57,00:04:21,00:04:22,"Man, you just a damn racist."
-58,00:04:22,00:04:24,BRASS: Hold up.
-59,00:04:24,00:04:27,This guy matches the description of a suspect in a carjack hit-and-run.
-60,00:04:27,00:04:31,"Naw, dawgs, yo, I jacked a 40, not no car, a'ight?"
-61,00:04:31,00:04:34,"Yeah, a'ight... One Cent, let's go."
-62,00:04:38,00:04:39,So the kid denies jacking the Hummer.
-63,00:04:39,00:04:41,Says he's never even been in one.
-64,00:04:41,00:04:45,We matched his blood on the gearshift and on the headband I found in the alley.
-65,00:04:45,00:04:48,"And he's skinny, which matches one of the descriptions."
-66,00:04:48,00:04:49,I'm charging him.
-67,00:04:49,00:04:54,"HODGES: The oily stain you collected from the Hummer's airbag was, ironically enough, oil."
-68,00:04:54,00:04:56,"More specifically, lard."
-69,00:04:56,00:04:58,It looks like there's tissue fibers mixed into it.
-70,00:04:58,00:05:02,"Several different types, actually, so I ran an ELISA to differentiate."
-71,00:05:02,00:05:05,"Pork, beef, chicken and possibly human flesh."
-72,00:05:05,00:05:07,A real taste treat.
-73,00:05:07,00:05:10,"It's all been cooked up, so I doubt we'll get any DNA."
-74,00:05:11,00:05:13,What are you thinking about?
-75,00:05:14,00:05:15,Tacos.
-76,00:05:15,00:05:18,(sizzling)
-77,00:05:21,00:05:22,Hola.
-78,00:05:22,00:05:23,Hola.
-79,00:05:23,00:05:25,"Chicken, beef or pork, boss?"
-80,00:05:25,00:05:27,"Los carnitas, por favor."
-81,00:05:27,00:05:28,Carnitas.
-82,00:05:28,00:05:29,"Say, uh..."
-83,00:05:29,00:05:32,have you had any trouble around here recently?
-84,00:05:32,00:05:34,Just a little scuffle yesterday.
-85,00:05:35,00:05:36,Nothing I couldn't handle.
-86,00:05:37,00:05:39,"Yo, Pops, give me the loot!"
-87,00:05:41,00:05:44,(screaming)
-88,00:05:44,00:05:45,Why didn't you file a police report?
-89,00:05:45,00:05:47,Bother you guys with something like that?
-90,00:05:48,00:05:50,(scoffs): I was a kid once.
-91,00:05:50,00:05:53,Those guys just needed someone to set 'em straight.
-92,00:05:53,00:05:54,Here you go.
-93,00:05:55,00:05:56,Gracias.
-94,00:05:56,00:05:58,Denada.
-95,00:05:58,00:05:59,"Oh, it's on the house."
-96,00:05:59,00:06:01,Muchas gracias.
-97,00:06:05,00:06:07,(auto-dialing beeps)
-98,00:06:07,00:06:11,"Jim, we need to go back to the hospitals."
-99,00:06:11,00:06:13,We're looking for a burn patient.
-100,00:06:15,00:06:18,"Lawrence Lafontaine, you're under arrest. Vern rat me out?"
-101,00:06:19,00:06:20,"No, the taco did."
-102,00:06:21,00:06:24,Everyone around my hood knows that taco guy.
-103,00:06:24,00:06:27,To get whooped by his old ass and not do anything about it?
-104,00:06:27,00:06:29,"For real, stop, yo!"
-105,00:06:31,00:06:33,"Man, dawgs, it hurts for real, man."
-106,00:06:33,00:06:35,"Here, now, you straight?"
-107,00:06:35,00:06:36,Stop being such a little baby.
-108,00:06:36,00:06:38,"I need some medicine-- I ain't talking about going to no hospital, either."
-109,00:06:38,00:06:41,"Well, have fun then, man. I'm-a get me some payback."
-110,00:06:42,00:06:45,"Vern just bitched out, wanted to forget it ever happened."
-111,00:06:45,00:06:46,Not me.
-112,00:06:46,00:06:50,So you stole the Hummer for revenge.
-113,00:06:50,00:06:52,I knew we should've asked for directions.
-114,00:06:53,00:06:54,"Out of the car, man!"
-115,00:06:54,00:06:55,"Hey, hey, hey! Get the hell out of the car!"
-116,00:07:01,00:07:02,(tires screeching)
-117,00:07:06,00:07:08,"Let me get this straight, Larry."
-118,00:07:08,00:07:15,"An old man refuses to let you steal his money, so you jack a Hummer and try to run over his taco stand?"
-119,00:07:16,00:07:17,Maybe.
-120,00:07:18,00:07:22,I think this is the dumbest thing we've ever heard.
-121,00:07:27,00:07:30,(Sanders speaking in reverse)
-122,00:07:50,00:07:57,"It's a beach house, a ski lodge, a state-of-the-art office, your home on the road..."
-123,00:07:57,00:08:05,"Ladies and gentlemen, Daluca Motorcoaches is proud to present the G-4700!"
-124,00:08:05,00:08:08,(cheering)
-125,00:08:20,00:08:21,Gentlemen.
-126,00:08:21,00:08:23,Hey.
-127,00:08:23,00:08:25,What's going on here?
-128,00:08:25,00:08:28,"Lisa Schumacher, 29."
-129,00:08:28,00:08:33,"There's no surveillance on the floor, and none of the rent-a-cops remember the last time they saw her. A convention girl."
-130,00:08:33,00:08:35,A what?
-131,00:08:35,00:08:40,"You know, a model, stripper or a showgirl working the convention for extra cash."
-132,00:08:40,00:08:43,You got a T.O.D. yet?
-133,00:08:45,00:08:49,"Well, based on lividity, I'd say around 4:00 a.m."
-134,00:08:49,00:08:52,Laceration on the lower lip.
-135,00:08:52,00:08:53,Contusions on the neck.
-136,00:08:55,00:08:56,Petechiae in the eyes.
-137,00:08:56,00:08:58,"So she got slapped around, strangled."
-138,00:08:58,00:09:01,"Maybe somewhere in between, she was raped."
-139,00:09:01,00:09:02,These streaks right here.
-140,00:09:04,00:09:05,They don't look like blood.
-141,00:09:07,00:09:12,Possible hair fragments and some skin under her nails.
-142,00:09:12,00:09:13,She fought back.
-143,00:09:13,00:09:16,It'd be good for us.
-144,00:09:22,00:09:25,(indistinct radio communication)
-145,00:09:25,00:09:28,(crowd murmuring)
-146,00:10:25,00:10:27,(snaps swab)
-147,00:10:31,00:10:38,"So that's why they call it a ""recreational vehicle."" ROBBINS: C.O.D. is asphyxia due to manual strangulation."
-148,00:10:38,00:10:41,Whoever did this used a lot more force than they needed to.
-149,00:10:41,00:10:44,There's bleeding in the neck muscles.
-150,00:10:44,00:10:48,Fractures in the cornu of the thyroid cartilage and hyoid bone.
-151,00:10:48,00:10:49,Did you do a wet mount? Sure did.
-152,00:10:49,00:10:52,Found motile sperm in the vaginal cavity.
-153,00:10:52,00:10:54,"Well, Warrick found several used condoms at the scene."
-154,00:10:55,00:10:59,"Killer must have run out, and started riding bareback."
-155,00:10:59,00:11:01,"Eh, I'm not sure he rode anything at all."
-156,00:11:01,00:11:03,There's an absence of trauma in the vaginal cavity.
-157,00:11:03,00:11:04,Enough to rule out rape?
-158,00:11:04,00:11:05,Yeah.
-159,00:11:05,00:11:09,The semen was found at a depth not indicative of penile penetration.
-160,00:11:09,00:11:12,"In this case, only a couple inches in."
-161,00:11:12,00:11:15,Maybe that's all the killer had to work with.
-162,00:11:15,00:11:18,"WOMAN: And now, the moment that we've all been waiting for."
-163,00:11:18,00:11:20,The winner of the brand-new Humvee is...
-164,00:11:22,00:11:23,Kyle Shaw!
-165,00:11:23,00:11:25,"(screams) Oh! Oh, my God!"
-166,00:11:25,00:11:26,"Honey, we won."
-167,00:11:26,00:11:27,Whoa!
-168,00:11:27,00:11:30,"Hey, I got over 70 women working this convention, man."
-169,00:11:30,00:11:35,"Booth bimbos, crowd gatherers, hostesses, narrators, demonstrators, translators."
-170,00:11:35,00:11:38,"Whatever you need, I got it."
-171,00:11:38,00:11:40,"Well, we're only interested in Lisa Schumacher."
-172,00:11:40,00:11:42,She's one of my girls. I represent her.
-173,00:11:42,00:11:45,"They call her ""Cris,"" as in Cristal, the champagne."
-174,00:11:45,00:11:46,She can't get enough of it.
-175,00:11:46,00:11:47,She likes to party?
-176,00:11:47,00:11:49,She likes to make money.
-177,00:11:49,00:11:50,Girls who party make the money.
-178,00:11:50,00:11:53,"This ain't L.A., where you get up at 10:00 a.m. for an audition."
-179,00:11:53,00:11:57,"At 10:00 a.m., my girls are still at Drai's partying with the client."
-180,00:11:57,00:11:59,What's this about?
-181,00:11:59,00:12:01,She was found dead this morning.
-182,00:12:01,00:12:03,No.
-183,00:12:03,00:12:05,"Come on, she's over there working the Daluca account."
-184,00:12:05,00:12:06,You didn't hear?
-185,00:12:06,00:12:08,"There's two million square feet of exhibits here, man."
-186,00:12:08,00:12:10,"40,000 people."
-187,00:12:10,00:12:11,This place is a mini-city.
-188,00:12:11,00:12:13,That RV exhibit's across town.
-189,00:12:13,00:12:16,I was told that the doors close at 10:00.
-190,00:12:16,00:12:18,Any idea why she was here after hours?
-191,00:12:18,00:12:21,"Look, she worked behind a booth, yapping her mouth."
-192,00:12:21,00:12:23,Can't really throw her in a bikini no more.
-193,00:12:23,00:12:24,She's getting up there.
-194,00:12:24,00:12:26,"Three-oh, uh-oh. (chuckles)"
-195,00:12:26,00:12:28,I didn't really keep tabs.
-196,00:12:28,00:12:29,Donny. You're late.
-197,00:12:29,00:12:30,And you're not dressed.
-198,00:12:30,00:12:31,"What's the deal, girl?!"
-199,00:12:31,00:12:33,"Please, Donny, I just had the worst morning."
-200,00:12:33,00:12:34,"Oh, you think you had it bad?"
-201,00:12:34,00:12:36,"Well, Cris is dead."
-202,00:12:36,00:12:37,"Oh, my God."
-203,00:12:40,00:12:42,It's a tough business.
-204,00:12:46,00:12:48,Hodges... (clank)
-205,00:12:48,00:12:49,What do you want?
-206,00:12:49,00:12:51,What are you doing?
-207,00:12:51,00:12:53,I'm looking for leaks.
-208,00:12:53,00:12:54,Call Facilities.
-209,00:12:54,00:12:55,You got my results?
-210,00:12:55,00:12:59,"If you knew the kind of stuff that grows in these pipes, you'd be on your hands and knees with me."
-211,00:12:59,00:13:01,"The results, Hodges, from the swabs I gave you?"
-212,00:13:01,00:13:03,From Lisa Schumacher's fingertips?
-213,00:13:05,00:13:07,Fine.
-214,00:13:07,00:13:08,I found several substances.
-215,00:13:08,00:13:10,Nonoxynol-9 spermicide.
-216,00:13:10,00:13:12,Spermicide.
-217,00:13:12,00:13:14,So she did handle a condom.
-218,00:13:14,00:13:20,"Also found traces of PVP, sorbitol, carbomer, hydroxypropylcellulose-- Probably a hair gel."
-219,00:13:20,00:13:24,"Well, she did have skin under her fingernails, so she could've scratched her attacker's scalp."
-220,00:13:24,00:13:25,Not my job.
-221,00:13:25,00:13:31,"And last, the brownish-orange substance on the vic's fingers, chest and shoulders: instant tanning lotion."
-222,00:13:31,00:13:33,Hmm.
-223,00:13:33,00:13:35,Got four work card hits from the motor coach.
-224,00:13:35,00:13:42,"Dana Simmons, Candice Mosti, Lane Kelly, and your vic, Lisa Schumacher."
-225,00:13:42,00:13:44,29 and already over the hill.
-226,00:13:44,00:13:46,Please tell me you're kidding.
-227,00:13:46,00:13:47,(chuckles)
-228,00:13:47,00:13:49,This town has different standards.
-229,00:13:51,00:13:52,BROWN: Let me see something.
-230,00:13:52,00:13:54,(presses keys)
-231,00:13:59,00:14:01,Looks like Lisa had a roommate.
-232,00:14:03,00:14:04,So my prints are on the RV.
-233,00:14:04,00:14:06,"Okay, I work that display sometimes."
-234,00:14:06,00:14:10,"It's not just the print that makes you look bad, it's you."
-235,00:14:10,00:14:14,You're raffling off a Hummer hours after your roommate turns up dead.
-236,00:14:14,00:14:15,What am I supposed to do?
-237,00:14:15,00:14:18,I'm broke and my car insurance is due.
-238,00:14:18,00:14:20,What is that on your arm? Is that tanner?
-239,00:14:22,00:14:24,"Forgot to rub it in, I guess."
-240,00:14:24,00:14:28,Razor-tight girl like you forgetting to rub tanning lotion in?
-241,00:14:28,00:14:30,Doesn't sound right to me.
-242,00:14:30,00:14:34,"You know, the funny thing is, is your girlfriend Lisa had streaks of tanner on her body, too."
-243,00:14:34,00:14:37,Were you girls together last night?
-244,00:14:37,00:14:41,Donny asked us to hang out with Mr. Daluca after work.
-245,00:14:41,00:14:42,You and Lisa?
-246,00:14:42,00:14:43,"Me, Lisa, Dana, and Lane."
-247,00:14:45,00:14:47,"You guys just ""went out""?"
-248,00:14:47,00:14:48,Come on.
-249,00:14:48,00:14:49,"Look, I'm not a hooker."
-250,00:14:49,00:14:51,All I do is these conventions.
-251,00:14:51,00:14:56,"So when a big baller like Mr. Daluca comes into town and offers us a little cash to hang out, I'm with it."
-252,00:14:56,00:14:59,"""With it"" where?"
-253,00:14:59,00:15:02,We had dinner at Fix. Partied at Mix.
-254,00:15:02,00:15:03,Gambled a little.
-255,00:15:03,00:15:06,Then he took us back to the convention center.
-256,00:15:06,00:15:08,Hammered and horny.
-257,00:15:08,00:15:10,Oh!
-258,00:15:10,00:15:11,Okay.
-259,00:15:11,00:15:13,Who gets the first ride?
-260,00:15:13,00:15:14,(Daluca laughing)
-261,00:15:16,00:15:20,"If I wanted someone your age, I'd do my wife."
-262,00:15:21,00:15:23,(laughs)
-263,00:15:23,00:15:24,"Price of one, huh? Yeah."
-264,00:15:24,00:15:26,(sobbing)
-265,00:15:27,00:15:28,I left there as soon as I could.
-266,00:15:28,00:15:29,I took a cab home.
-267,00:15:29,00:15:31,Did Daluca get rough with her?
-268,00:15:31,00:15:32,Not that I saw.
-269,00:15:32,00:15:33,He didn't even want to touch her.
-270,00:15:33,00:15:36,Really? Because we found Lisa's DNA on a condom.
-271,00:15:36,00:15:40,"When I left, Daluca was busy with Dana and Lane, and Lisa locked herself in the bathroom."
-272,00:15:40,00:15:43,That was the last time I saw her.
-273,00:15:43,00:15:45,MAN: You want my prints?
-274,00:15:45,00:15:47,My DNA?
-275,00:15:47,00:15:49,"I mean, come on, guys. I'm on vacation here."
-276,00:15:49,00:15:52,Having a sample of your DNA would help exclude you as a suspect.
-277,00:15:52,00:15:55,"Voluntary or court order, it's your choice."
-278,00:15:55,00:15:59,"My DNA is gonna be all over that girl, but I didn't put it there, she did."
-279,00:16:00,00:16:04,"Now, this broad was expiring like spoiled milk, and she was looking for a way out."
-280,00:16:04,00:16:07,(sobbing)
-281,00:16:09,00:16:11,(music playing in distance)
-282,00:16:14,00:16:15,You still here?
-283,00:16:17,00:16:18,You bitch.
-284,00:16:18,00:16:20,(crying) ! You bitch!
-285,00:16:20,00:16:23,"She puts my baby inside her, hey, quickie retirement plan."
-286,00:16:23,00:16:26,"You know, I can't think of a better reason for a man to kill a woman."
-287,00:16:26,00:16:33,"If I'd have killed her, you think I'd put her in my own motorcoach, and then present it at an unveiling ceremony that I was announcing?"
-288,00:16:35,00:16:38,"You don't believe me, go ask the convention authorities."
-289,00:16:38,00:16:40,I told them what she was trying to do.
-290,00:16:40,00:16:44,It's the last time I ever hire those skanks to work a show.
-291,00:16:44,00:16:49,"Ye... Yes, yes, I'm very aware of Butterfield Academy's privacy policy, but this a homicide..."
-292,00:16:49,00:16:51,Daluca's all over the condoms.
-293,00:16:51,00:16:56,"Get this, on one of them, his DNA and her epithelials are on both sides."
-294,00:16:56,00:16:59,"Well, that's kind of like turning a sock inside out."
-295,00:16:59,00:17:00,"It does support his story, though."
-296,00:17:00,00:17:03,"Well, what about the epithelials under her nails?"
-297,00:17:03,00:17:04,It's not a match to Daluca.
-298,00:17:04,00:17:06,So where does that leave us?
-299,00:17:06,00:17:08,"Oh, I'm not quite done yet."
-300,00:17:10,00:17:12,"Have a seat, Donny."
-301,00:17:14,00:17:17,What kind of hair gel do you use?
-302,00:17:17,00:17:19,"Well, I don't think it would work with the texture of your hair."
-303,00:17:19,00:17:20,Real funny.
-304,00:17:20,00:17:22,What are you doing?
-305,00:17:22,00:17:24,Please stay still.
-306,00:17:27,00:17:28,How did you get these scratches in your head?
-307,00:17:28,00:17:30,Probably from scratching.
-308,00:17:30,00:17:32,I'm always thinking.
-309,00:17:32,00:17:34,I'll tell you what you were thinking.
-310,00:17:34,00:17:37,You were thinking about how Lisa pissed off your best client.
-311,00:17:37,00:17:39,And how much business it was gonna cost you.
-312,00:17:41,00:17:45,"You kill her, Daluca takes the fall."
-313,00:17:46,00:17:48,Win-win for you.
-314,00:17:48,00:17:50,Lisa was a nothing.
-315,00:17:50,00:17:52,Old news.
-316,00:17:52,00:17:54,Why would I risk everything for a zero like her?
-317,00:17:54,00:17:57,"For that exact reason, 'cause she was a ""nothing"" to you."
-318,00:17:57,00:17:59,That's a good story.
-319,00:17:59,00:18:01,You find that in one of your forensic journals?
-320,00:18:01,00:18:04,"No, but when I match your DNA, I'll make sure you're on the cover."
-321,00:18:04,00:18:05,Cuff him.
-322,00:18:12,00:18:16,(Brown speaking in reverse)
-323,00:18:16,00:18:19,(Stokes speaking in reverse)
-324,00:18:22,00:18:25,(cheering)
-325,00:18:38,00:18:40,(doorbell chimes)
-326,00:18:40,00:18:43,"Hey, Paul, it's Gwen."
-327,00:18:48,00:18:51,"Come on, babe. Let me in."
-328,00:18:51,00:18:54,Work me out.
-329,00:19:06,00:19:08,"MAN: Vic is Paul Charles, 28."
-330,00:19:08,00:19:10,Competition bodybuilder and personal trainer.
-331,00:19:10,00:19:14,"Doors were all locked, windows closed."
-332,00:19:14,00:19:17,No sign of forced entry.
-333,00:19:37,00:19:40,This guy's a poster child for self-love.
-334,00:19:43,00:19:45,Maybe that's why they went for the face.
-335,00:19:47,00:19:50,"Gwen, did you see anyone else near the house when you arrived?"
-336,00:19:50,00:19:51,"No, uh..."
-337,00:19:51,00:19:56,Paul cut down on clients so he could train for Mr. Las Vegas.
-338,00:19:56,00:19:58,"It's next month, and..."
-339,00:19:58,00:20:01,he really wanted to win this time.
-340,00:20:01,00:20:03,He canceled my last two workouts.
-341,00:20:03,00:20:05,"So, why didn't you get another trainer?"
-342,00:20:05,00:20:08,"If be canceled again, I was going to."
-343,00:20:08,00:20:11,Did you and Paul ever get physical?
-344,00:20:11,00:20:13,Just once.
-345,00:20:13,00:20:15,Last month.
-346,00:20:16,00:20:18,"Come on, feel it."
-347,00:20:18,00:20:19,"Come on, you got to want it."
-348,00:20:19,00:20:21,Come on.
-349,00:20:22,00:20:24,I'll tell you whatIwant.
-350,00:20:30,00:20:31,What's wrong?
-351,00:20:31,00:20:33,He said he had a headache.
-352,00:20:33,00:20:37,"But I mean, he was training really, really hard, so he was probably just tired."
-353,00:20:37,00:20:38,Or gay.
-354,00:20:38,00:20:39,I don't know.
-355,00:20:39,00:20:40,I don't care.
-356,00:20:40,00:20:47,"I mean, just lying back on that bench and sweating and pushing the weight with all of his muscle right there beside me..."
-357,00:20:47,00:20:51,"I mean, it, it was totally... motivating."
-358,00:20:51,00:20:56,"No matter how hard you work to get big, there's always someone bigger."
-359,00:20:56,00:20:59,It could be what keeps them going.
-360,00:21:00,00:21:08,"Like Freud said, ""Anatomy is destiny."" What do you think Freud would have to say about one of these being the murder weapon?"
-361,00:21:17,00:21:18,SIDLE: Killer didn't even have to be his size.
-362,00:21:19,00:21:21,"Could have been a little guy, or a woman."
-363,00:21:21,00:21:26,"All they would have needed was the right weapon, some leverage, the element of surprise."
-364,00:21:30,00:21:33,Victim is a well-developed Caucasian male.
-365,00:21:33,00:21:35,Musculature appears hypertrophied.
-366,00:21:35,00:21:36,Care to guess?
-367,00:21:39,00:21:40,Blunt-force trauma.
-368,00:21:40,00:21:41,Absence of bruising.
-369,00:21:42,00:21:43,Maybe it was a post-mortem blow.
-370,00:21:43,00:21:45,Let's find out.
-371,00:22:02,00:22:04,(shutter clicks)
-372,00:22:13,00:22:15,(shutter clicks)
-373,00:22:34,00:22:40,"Nine millimeter in the nightstand, and syringes next to the bed. Wow."
-374,00:22:40,00:22:47,"Maybe our vic was putting the smack in ""smackdown."" There was no blood on the poles or the weights."
-375,00:22:47,00:22:51,Rigor mortis is full and extremely rigid.
-376,00:22:51,00:22:55,Liver mortis is posterior and fixed.
-377,00:22:56,00:22:57,Let's roll him.
-378,00:22:58,00:23:00,That's good.
-379,00:23:00,00:23:07,"Present on the bilateral buttocks are multiple fine punctures, with some surrounding faint purple ecchymosis."
-380,00:23:11,00:23:16,Laceration noted at the base of the scalp.
-381,00:23:16,00:23:21,"Uh, loss of blood from that laceration is significant but non-fatal."
-382,00:24:03,00:24:06,(grinding)
-383,00:24:13,00:24:15,(bone snaps)
-384,00:24:27,00:24:29,Crime lab; how can we help you?
-385,00:24:33,00:24:37,"Sara, I just want you to know, when we were in the shower, I didn't see anything."
-386,00:24:37,00:24:39,"Really? Gosh, I saw everything."
-387,00:24:41,00:24:45,ROBBINS: The black pus suggested a possible infection from an airborne agent.
-388,00:24:45,00:24:49,I took the precaution to get you out until Hazmat cleared the scene.
-389,00:24:49,00:24:50,"Yeah, thanks a lot."
-390,00:24:50,00:24:51,(clearing throat)
-391,00:24:51,00:24:52,"Uh, what did they find?"
-392,00:24:53,00:25:00,"Actually, it's whatIfound-- mucormycosis, a disease caused by exposure to rhizopus oryzae, a kind of mold."
-393,00:25:00,00:25:01,Did you say rhizopus oryzae?
-394,00:25:01,00:25:02,Mm-hmm.
-395,00:25:02,00:25:03,We spent hours in that house.
-396,00:25:04,00:25:05,You're not at risk.
-397,00:25:05,00:25:07,You both have healthy immune systems.
-398,00:25:07,00:25:10,I suspect that's not the case with your vic.
-399,00:25:10,00:25:13,"Copy that. Trace on the syringes was Deca-Durabolin, Sustanon and Oxandrolone."
-400,00:25:13,00:25:14,Steroids.
-401,00:25:14,00:25:17,"That guy was ""stacking"" to get bigger."
-402,00:25:17,00:25:19,HODGES: Immune suppression is a common side effect.
-403,00:25:19,00:25:23,"So, how does a mold infection make it look like someone smashed him across the face?"
-404,00:25:23,00:25:25,His face collapsed from the inside.
-405,00:25:25,00:25:29,Mucor causes deterioration of the bones around the sinuses and eye sockets.
-406,00:25:29,00:25:31,You remember the swollen eyeball?
-407,00:25:31,00:25:37,"The pus was pushing it out, while the bones that held it in place were getting eaten away."
-408,00:25:37,00:25:45,The airborne mold spores enter the nasal cavity and they consume sinus tissue as they multiply.
-409,00:25:47,00:25:50,"So, his compromised immune system wasn't strong enough to fight the spread of the infection."
-410,00:25:50,00:25:52,That's right. Sick.
-411,00:25:52,00:25:57,And what's even more sick is that rhizopus oryzae likes to grow on human tissue.
-412,00:25:57,00:26:02,Mold grows outward as spores reproduce and are carried away from the source.
-413,00:26:03,00:26:08,"If we can pinpoint the source of the human tissue, that should tell you something."
-414,00:26:32,00:26:36,Whew! We havegotto be getting close to the source.
-415,00:26:36,00:26:37,Hit the lights.
-416,00:26:51,00:26:53,SANDERS: Here?
-417,00:26:53,00:26:56,A whole lot of blood.
-418,00:26:56,00:26:59,We're getting warmer.
-419,00:27:24,00:27:27,Looks like we found the source of the mold.
-420,00:27:28,00:27:29,SANDERS: Okay.
-421,00:27:29,00:27:31,"So, how does human tissue get inside a wall?"
-422,00:27:31,00:27:32,Good question.
-423,00:27:35,00:27:38,SIDLE: There's a hole in the air duct.
-424,00:27:41,00:27:44,Abullethole...
-425,00:27:46,00:27:47,Looks like a nine mil.
-426,00:27:47,00:27:50,Same as the handgun I found in the bedroom.
-427,00:27:50,00:27:52,Copper-jacketed.
-428,00:27:52,00:27:54,Good penetrating power.
-429,00:27:54,00:27:56,Somebody was shot here.
-430,00:27:56,00:27:57,(woman screaming)
-431,00:27:57,00:27:59,(gunshot)
-432,00:27:59,00:28:02,Bullet pushed blood and tissue through the wall.
-433,00:28:02,00:28:05,Water from the pipe leak fed the mold growth.
-434,00:28:05,00:28:13,"SANDERS: Eventually, the mold released spores, which spread through the house AC, and right on up into muscle-head's nose."
-435,00:28:13,00:28:16,We ran the phone numbers from the vic's planner.
-436,00:28:16,00:28:19,"Everybody checked out, except for a woman named Tiffany."
-437,00:28:19,00:28:20,No last name?
-438,00:28:20,00:28:24,"Well, Tiffany is actually a street name for Angela Wheeler, known prostitute."
-439,00:28:24,00:28:26,Her family reported her missing last month.
-440,00:28:26,00:28:33,"Well, anyone who appears this narcissistic may prefer paying for hookers rather than wasting his love on a girlfriend."
-441,00:28:33,00:28:47,"And as we know, in addition to immune suppression and heart and liver disease, steroid abuse can also cause shrunken testicles, impotence and aggression-- ""roid rage."" Oh, baby, looks like you have one muscle that isn't hard."
-442,00:28:47,00:28:49,"You think that's funny, bitch?!"
-443,00:28:52,00:28:56,"So, if the DNA from the tissue on the bullet matches Tiffany..."
-444,00:28:57,00:28:58,We have a sample?
-445,00:28:58,00:29:02,A DNA reference sample was collected from her apartment in the initial investigation.
-446,00:29:02,00:29:03,Mia's on it.
-447,00:29:05,00:29:06,Very good.
-448,00:29:06,00:29:12,This is just like that Edgar Allen Poe story where the victim's heart under the floorboards betrays the murder.
-449,00:29:12,00:29:15,"""The Tell-Tale Heart."" I thought you didn't like reading the classics."
-450,00:29:16,00:29:17,I do when they're about dismembered bodies.
-451,00:29:23,00:29:25,(Sidle speaking in reverse)
-452,00:29:26,00:29:28,(Sanders speaking in reverse)
-453,00:29:40,00:29:44,"Move over Chester, my dogs are barking."
-454,00:29:44,00:29:46,"Come on, now, move over a little bit."
-455,00:29:46,00:29:48,Let me sit down.
-456,00:29:48,00:29:50,"Chester, damn!"
-457,00:29:50,00:29:51,It's not me.
-458,00:29:51,00:29:53,Why don't you put your shoes back on?
-459,00:30:01,00:30:02,"Oh, sweet Lord."
-460,00:30:04,00:30:06,Kid can't be more than 12 or 13.
-461,00:30:06,00:30:08,You think he's homeless?
-462,00:30:08,00:30:10,Jeans are a little nice for a homeless kid.
-463,00:30:10,00:30:12,Check his veins and do a SART kit anyway.
-464,00:30:12,00:30:14,Can you ballpark a T.O.D.?
-465,00:30:14,00:30:16,Sure.
-466,00:30:19,00:30:26,"Well, he's just developing rigor, so, I'd say dead no more than eight hours."
-467,00:30:26,00:30:29,"This is a busy line-- buses, traffic..."
-468,00:30:29,00:30:30,And nobody noticed him?
-469,00:30:30,00:30:32,Maybe be hasn't been here the whole time.
-470,00:30:32,00:30:33,Could explain the blanket.
-471,00:30:33,00:30:35,Body dump.
-472,00:30:47,00:30:51,"Hey, Chester, you been taking that thing off road again?"
-473,00:30:51,00:30:53,"Nah, mud screws up the ride."
-474,00:30:53,00:30:58,"I bet you always get a bad cart at the store, huh?"
-475,00:30:58,00:31:00,Not me.
-476,00:31:00,00:31:02,"Thanks, guy."
-477,00:32:35,00:32:37,"Sir, all I'm asking for is your class roster."
-478,00:32:38,00:32:45,"Ye... Yes, yes, I'm very aware of Butterfield Academy's privacy policy, but this a homicide investigation."
-479,00:32:46,00:32:49,"Sir, please, court orders take time."
-480,00:32:49,00:32:51,You could help me identify this boy tonight.
-481,00:32:53,00:32:55,Okay.
-482,00:32:55,00:32:56,"No, no, no."
-483,00:32:56,00:32:57,I understand your position.
-484,00:32:57,00:32:59,Thanks.
-485,00:33:03,00:33:05,ROBBINS: Whatever happened to this boy wasn't pretty.
-486,00:33:05,00:33:09,First- and second-degree burns on several areas of exposed skin.
-487,00:33:09,00:33:10,What about the burn to the face?
-488,00:33:10,00:33:12,Could that be from an iron?
-489,00:33:12,00:33:14,ROBBINS: It's a possibility.
-490,00:33:14,00:33:19,"He sustained several hematomas along his arms, together with a nasty skull fracture."
-491,00:33:19,00:33:21,I'm thinking child abuse.
-492,00:33:21,00:33:23,Skull fracture what killed him?
-493,00:33:23,00:33:24,No. Positional asphyxia.
-494,00:33:24,00:33:25,Check out his eyes.
-495,00:33:25,00:33:27,Heat damage.
-496,00:33:27,00:33:29,"To all the respiratory mucosa, as well."
-497,00:33:29,00:33:33,"I'd say this kid was in a small, hot space for quite a while."
-498,00:33:33,00:33:36,"Closet with a radiator, boiler room..."
-499,00:33:36,00:33:39,Shake and bake.
-500,00:33:40,00:33:41,"WILLOWS: Oh, Nick?"
-501,00:33:41,00:33:42,Yeah.
-502,00:33:42,00:33:47,I heard you were looking for the student directory for Butterfield Academy.
-503,00:33:47,00:33:49,Yeah. Yeah. How'd you get this?
-504,00:33:49,00:33:50,I talked to the headmaster.
-505,00:33:50,00:33:52,He wouldn't give me jack.
-506,00:33:52,00:33:53,I pay tuition.
-507,00:33:53,00:33:55,Your daughter goes to Butterfield?
-508,00:33:55,00:33:57,Mm-hmm.
-509,00:33:57,00:33:58,Wow. That's a little pricy.
-510,00:33:58,00:34:04,"She was at a crossroads and I, uh, needed to put her in a school with tighter reins. You know, when it comes to your kids, you, uh, find the money."
-511,00:34:04,00:34:06,Yeah.
-512,00:34:06,00:34:07,You looking for a prom date?
-513,00:34:07,00:34:08,(laughs)
-514,00:34:08,00:34:11,No. I'm trying to I.D. a victim.
-515,00:34:11,00:34:12,Thanks for this.
-516,00:34:12,00:34:13,Good luck.
-517,00:34:13,00:34:15,Thank you.
-518,00:34:22,00:34:24,(birds singing)
-519,00:34:29,00:34:31,(doorbell chimes)
-520,00:34:33,00:34:34,STOKES: Oh. Hi there.
-521,00:34:34,00:34:36,I've been ringing the bell.
-522,00:34:37,00:34:38,Sorry. I was sleeping.
-523,00:34:38,00:34:39,No school today?
-524,00:34:39,00:34:41,I'm sick. The whole house is sick.
-525,00:34:41,00:34:42,"Oh, gosh. Okay."
-526,00:34:42,00:34:44,"Uh, well, my name's Nick Stokes."
-527,00:34:45,00:34:49,"I'm with the Las Vegas Police Department, and, uh, this is pretty important."
-528,00:34:49,00:34:50,Parents around?
-529,00:34:50,00:34:53,"No. Uh, they're not home."
-530,00:34:53,00:34:58,Do you have their cell phone or work numbers handy?
-531,00:35:02,00:35:03,"Okay, they're skiing in Vail."
-532,00:35:03,00:35:06,"What are you gonna do, arrest me for having a kegger?"
-533,00:35:06,00:35:07,"No, not exactly."
-534,00:35:07,00:35:09,Um...
-535,00:35:09,00:35:10,how old are you?
-536,00:35:11,00:35:13,"What's going on, babe?"
-537,00:35:13,00:35:14,Just go...
-538,00:35:14,00:35:15,What?
-539,00:35:15,00:35:17,How old is he?
-540,00:35:17,00:35:22,"My father's a lawyer, so I probably shouldn't be talking to you."
-541,00:35:22,00:35:24,You have a brother?
-542,00:35:24,00:35:25,Chase?
-543,00:35:25,00:35:26,"Yeah, Chase."
-544,00:35:26,00:35:27,"Is, uh... is he around?"
-545,00:35:27,00:35:30,"No, he spent the night at his friend Andy's house."
-546,00:35:30,00:35:31,Is that the last time you saw him?
-547,00:35:31,00:35:33,I don't know.
-548,00:35:33,00:35:36,Do you have a picture of your brother I can take a look at?
-549,00:35:36,00:35:37,Yeah.
-550,00:35:37,00:35:39,"Would you get that for me, please?"
-551,00:35:39,00:35:41,Thank you.
-552,00:35:52,00:35:54,Um...
-553,00:35:54,00:36:01,"I'm gonna need your parents' contact information if you don't mind, in Vail, okay?"
-554,00:36:03,00:36:05,"Your Chase's best friend, Andy."
-555,00:36:05,00:36:08,I need to know what happened last night.
-556,00:36:08,00:36:14,"Andy was supposed to sleep over at Chase's, but Chase wasn't feeling well, so Andy came home early instead."
-557,00:36:14,00:36:17,"Ma'am, please, I need to hear Andy's version."
-558,00:36:17,00:36:18,Okay?
-559,00:36:18,00:36:21,"Go ahead, Andy."
-560,00:36:21,00:36:29,"I told my mom I was sleeping at Chase's house, and he told his sister we were sleeping at my house."
-561,00:36:29,00:36:31,Where were the Ryans?
-562,00:36:32,00:36:33,They were in Vail.
-563,00:36:35,00:36:38,We just wanted to see a high school party.
-564,00:36:38,00:36:39,And did you?
-565,00:36:39,00:36:41,Some of it.
-566,00:36:41,00:36:43,(loud music and chatter)
-567,00:36:48,00:36:50,This tastes horrible.
-568,00:36:50,00:36:52,Just keep drinking. It must get better.
-569,00:36:52,00:36:53,Jackie caught us.
-570,00:36:53,00:36:55,Made us leave.
-571,00:36:55,00:36:57,We promised to go to my house.
-572,00:36:57,00:36:59,We didn't.
-573,00:36:59,00:37:03,"We went to this arcade, played a few games, and then I walked home."
-574,00:37:03,00:37:05,What about Chase?
-575,00:37:05,00:37:09,"He stayed there, playing the games."
-576,00:37:12,00:37:13,"Talk to me, Goose."
-577,00:37:13,00:37:15,"Well, according to tox, junior was a boozer."
-578,00:37:15,00:37:18,BAC three times the legal limit.
-579,00:37:18,00:37:21,"Yeah, the, uh, teenage sister had a kegger."
-580,00:37:21,00:37:22,How old were you when you first got drunk?
-581,00:37:22,00:37:25,"Oh, 16, 17."
-582,00:37:25,00:37:28,"Amortized over a generation, 12's about right?"
-583,00:37:29,00:37:33,"So your saying, two generations from now, four-year-olds are just gonna be getting trashed?"
-584,00:37:34,00:37:36,Pre-school graduation parties are going to be off the hook.
-585,00:37:36,00:37:37,Mm.
-586,00:37:37,00:37:39,But Chase's party was just getting started.
-587,00:37:39,00:37:41,Tape lifts were a cornucopia.
-588,00:37:41,00:37:44,"Hairs: Caucasoid, Mongoloid, Negroid."
-589,00:37:44,00:37:46,And feline and canine.
-590,00:37:46,00:37:51,"As for fibers, we have cotton, wool, polyester, and someone brought Lycra."
-591,00:37:51,00:37:52,Transfer from the blanket?
-592,00:37:52,00:37:54,No. I tested that.
-593,00:37:54,00:37:55,It came back clean.
-594,00:37:55,00:37:58,"Okay. What about the, uh, the gack in the guy's hair?"
-595,00:37:58,00:38:01,Melted vulcanized rubber and thermoplastic elastomers.
-596,00:38:01,00:38:04,From the sole of your average athletic shoe.
-597,00:38:04,00:38:05,Hmm.
-598,00:38:05,00:38:08,"What's hot, cramped, and full of other people's hair?"
-599,00:38:09,00:38:11,"As I've often said, that's your job."
-600,00:39:17,00:39:20,(mechanical whirring)
-601,00:39:29,00:39:30,Excuse me.
-602,00:39:30,00:39:32,You the manager?
-603,00:39:32,00:39:33,Yeah.
-604,00:39:34,00:39:38,"Yeah. Uh, I was taking my laundry to the car, and the cart locked up on me."
-605,00:39:38,00:39:41,Yup. We got this fancy system 'cause people steal 'em.
-606,00:39:43,00:39:45,I'm the only one with a remote.
-607,00:39:46,00:39:48,So...
-608,00:39:48,00:39:50,I spend all day unlocking 'em.
-609,00:39:50,00:39:52,(laughs)
-610,00:39:52,00:39:54,Which one is it?
-611,00:39:54,00:39:55,Murder?
-612,00:39:55,00:39:59,STOKES: A 12-year-old boy died in one of your dryers the other night.
-613,00:39:59,00:40:02,You trying to tell me you don't know anything about it?
-614,00:40:02,00:40:05,"Couple of kids were playing around the' mat, making trouble."
-615,00:40:05,00:40:07,I chased them out.
-616,00:40:07,00:40:09,What happened after that...
-617,00:40:09,00:40:11,I don't know.
-618,00:40:11,00:40:12,That's it?
-619,00:40:14,00:40:15,"I don't buy it, Jared."
-620,00:40:15,00:40:17,I don't.
-621,00:40:17,00:40:19,You know why?
-622,00:40:19,00:40:20,Your fancy carts.
-623,00:40:20,00:40:27,And I know that no cart leaves that parking lot unless somebody presses the magic button.
-624,00:40:28,00:40:31,And I also matched tires treads.
-625,00:40:31,00:40:33,Someone...
-626,00:40:33,00:40:35,wheeled one of your carts through wet grass...
-627,00:40:35,00:40:37,(clears throat)
-628,00:40:37,00:40:41,...and dumped a dead 12-year-old boy on a bus bench.
-629,00:40:41,00:40:45,"Okay, look, I'm supposed to be on duty the whole time."
-630,00:40:48,00:40:51,But this customer-- he was gettin' all pissed off.
-631,00:40:51,00:40:52,"Look at this, look at this!"
-632,00:40:52,00:40:53,See what it did to my vest.
-633,00:40:53,00:40:55,I have to go to work in this.
-634,00:40:55,00:40:56,I demand justice!
-635,00:40:56,00:40:58,"Hey, will you get the hell out of here?"
-636,00:40:58,00:40:59,So I went next door.
-637,00:40:59,00:41:02,Had to get the smell of detergent out of my nose.
-638,00:41:02,00:41:04,Bought a Yoo-hoo.
-639,00:41:04,00:41:06,I came back to check on things.
-640,00:41:15,00:41:18,I didn't know if he was dead or not.
-641,00:41:20,00:41:23,Bus bench. Hospital.
-642,00:41:23,00:41:26,I could see how you could make the mistake.
-643,00:41:26,00:41:30,You have any idea what the liability would be on something like that?
-644,00:41:30,00:41:31,Uh-uh.
-645,00:41:31,00:41:32,But I'll let you know.
-646,00:41:33,00:41:38,I was just hoping that somebody would find him and take care of him.
-647,00:41:38,00:41:40,Hey...
-648,00:41:40,00:41:42,youfound him.
-649,00:41:43,00:41:45,Youput him in the dryer.
-650,00:41:45,00:41:48,Mm-mm.
-651,00:41:48,00:41:49,Mm-hmm.
-652,00:41:49,00:41:52,Mm-hmm. Chase can't even lock himself inside those things.
-653,00:41:52,00:41:54,They lock from the outside.
-654,00:41:54,00:41:57,And I matched your print on the handle.
-655,00:41:57,00:41:59,I got it off your school's safe kit.
-656,00:42:02,00:42:05,He asked me to.
-657,00:42:05,00:42:08,(laughing): Whoa! Dude!
-658,00:42:13,00:42:15,"Come on, turn it on!"
-659,00:42:15,00:42:17,Turn it on!
-660,00:42:27,00:42:31,"And after that, it gets a little fuzzy."
-661,00:42:32,00:42:40,"You put your best friend in a... in a dryer, and you turned it on, and you just walked away?"
-662,00:42:40,00:42:43,What is wrong with you?
-663,00:43:09,00:43:11,"Tough shift, huh?"
-664,00:43:11,00:43:13,Just another day in paradise.
-665,00:43:17,00:43:19,(phone rings)
-666,00:43:19,00:43:21,Crime lab. How can we help you?
+	start	end	text
+0	00:00:38	00:00:40	This is the best taco I ever had.
+1	00:00:40	00:00:42	I'm happy for you both.
+2	00:00:42	00:00:43	What, did you piss off Ecklie again?
+3	00:00:44	00:00:44	This is a hit-and-run.
+4	00:00:45	00:00:46	I was expecting Greg Sanders.
+5	00:00:46	00:00:50	We're slammed. Everybody's on a case.
+6	00:00:50	00:00:52	Is this a Fiero?
+7	00:00:52	00:00:53	Yeah, the old Fiero.
+8	00:00:53	00:00:56	Kind of makes you nostalgic for a Members Only jacket.
+9	00:00:56	00:00:59	Anyway, the Hummer was going the wrong way on a one-way street.
+10	00:00:59	00:01:02	The guy in the Fiero, lucky to be alive.
+11	00:01:02	00:01:04	Nobody saw the driver get out.
+12	00:01:04	00:01:09	People who drive $100,000 vehicles don't usually run away from them.
+13	00:01:09	00:01:12	Well, you obviously haven't met any paroled rappers.
+14	00:01:15	00:01:19	Tread mark shapes indicate acceleration.
+15	00:01:21	00:01:22	Pedal to the metal.
+16	00:01:22	00:01:23	Maybe a getaway.
+17	00:01:23	00:01:25	Or maybe a joyride.
+18	00:01:25	00:01:29	There's a red smear on the door.
+19	00:01:29	00:01:31	Somebody's got blood on their hands.
+20	00:01:37	00:01:40	Well, at least we know one thing about the driver.
+21	00:01:43	00:01:45	He's had a face lift.
+22	00:02:19	00:02:22	Crime Lab, how can I help you?
+23	00:02:23	00:02:27	Sara, I just want you to know that when we were in the shower, I didn't see anything.
+24	00:02:27	00:02:28	Really? Gosh, I saw everything.
+25	00:02:30	00:02:32	Mr. Grissom, PD just called.
+26	00:02:32	00:02:37	Apparently, the Humvee from your hit-and-run was carjacked earlier tonight.
+27	00:02:39	00:02:40	Yeah, it was our Hummer...
+28	00:02:41	00:02:42	for all of 20 minutes.
+29	00:02:42	00:02:44	We... We won it in a raffle.
+30	00:02:44	00:02:45	So, what happened?
+31	00:02:45	00:02:48	All of a sudden, this fat guy comes out of nowhere and...
+32	00:02:48	00:02:49	Fat guy?!
+33	00:02:50	00:02:51	No, that's you.
+34	00:02:51	00:02:52	What's me?
+35	00:02:52	00:02:53	Fat guy...
+36	00:02:53	00:02:56	Well, um, how do you see it, Mrs. Shaw?
+37	00:02:56	00:02:58	The kid who took the car was skinny.
+38	00:02:58	00:03:01	Well, maybe he wasn't as big as me, but he was definitely fat.
+39	00:03:01	00:03:03	I'm going to sock you one. He was not.
+40	00:03:03	00:03:05	He pulled me out of the car!
+41	00:03:05	00:03:07	He was as skinny as a stickman!
+42	00:03:08	00:03:10	Yeah...
+43	00:03:10	00:03:15	According to the, uh, witness statement, the carjacker was hanging over there by the fence.
+44	00:03:16	00:03:18	What are we, about three blocks from the crash site?
+45	00:03:18	00:03:20	Uh, yeah.
+46	00:03:20	00:03:23	Nice freakin' neighborhood.
+47	00:04:13	00:04:15	Come on, man! I didn't do nothing! Let me go!
+48	00:04:15	00:04:17	Try to steal from me, you miserable lowlife!
+49	00:04:17	00:04:18	This time, I get justice!
+50	00:04:19	00:04:20	You're going to jail!
+51	00:04:20	00:04:21	You are going to jail!
+52	00:04:21	00:04:22	Man, you just a damn racist.
+53	00:04:22	00:04:24	Hold up.
+54	00:04:24	00:04:27	This guy matches the description of a suspect in a carjack hit-and-run.
+55	00:04:27	00:04:31	Naw, dawgs, yo, I jacked a 40, not no car, a'ight?
+56	00:04:31	00:04:34	Yeah, a'ight... One Cent, let's go.
+57	00:04:38	00:04:39	So the kid denies jacking the Hummer.
+58	00:04:39	00:04:41	Says he's never even been in one.
+59	00:04:41	00:04:45	We matched his blood on the gearshift and on the headband I found in the alley.
+60	00:04:45	00:04:48	And he's skinny, which matches one of the descriptions.
+61	00:04:48	00:04:49	I'm charging him.
+62	00:04:49	00:04:54	The oily stain you collected from the Hummer's airbag was, ironically enough, oil.
+63	00:04:54	00:04:56	More specifically, lard.
+64	00:04:56	00:04:58	It looks like there's tissue fibers mixed into it.
+65	00:04:58	00:05:02	Several different types, actually, so I ran an ELISA to differentiate.
+66	00:05:02	00:05:05	Pork, beef, chicken and possibly human flesh.
+67	00:05:05	00:05:07	A real taste treat.
+68	00:05:07	00:05:10	It's all been cooked up, so I doubt we'll get any DNA.
+69	00:05:11	00:05:13	What are you thinking about?
+70	00:05:14	00:05:15	Tacos.
+71	00:05:21	00:05:22	Hola.
+72	00:05:22	00:05:23	Hola.
+73	00:05:23	00:05:25	Chicken, beef or pork, boss?
+74	00:05:25	00:05:27	Los carnitas, por favor.
+75	00:05:27	00:05:28	Carnitas.
+76	00:05:28	00:05:29	Say, uh...
+77	00:05:29	00:05:32	have you had any trouble around here recently?
+78	00:05:32	00:05:34	Just a little scuffle yesterday.
+79	00:05:35	00:05:36	Nothing I couldn't handle.
+80	00:05:37	00:05:39	Yo, Pops, give me the loot!
+81	00:05:44	00:05:45	Why didn't you file a police report?
+82	00:05:45	00:05:47	Bother you guys with something like that?
+83	00:05:48	00:05:50	I was a kid once.
+84	00:05:50	00:05:53	Those guys just needed someone to set 'em straight.
+85	00:05:53	00:05:54	Here you go.
+86	00:05:55	00:05:56	Gracias.
+87	00:05:56	00:05:58	Denada.
+88	00:05:58	00:05:59	Oh, it's on the house.
+89	00:05:59	00:06:01	Muchas gracias.
+90	00:06:07	00:06:11	Jim, we need to go back to the hospitals.
+91	00:06:11	00:06:13	We're looking for a burn patient.
+92	00:06:15	00:06:18	Lawrence Lafontaine, you're under arrest. Vern rat me out?
+93	00:06:19	00:06:20	No, the taco did.
+94	00:06:21	00:06:24	Everyone around my hood knows that taco guy.
+95	00:06:24	00:06:27	To get whooped by his old ass and not do anything about it?
+96	00:06:27	00:06:29	For real, stop, yo!
+97	00:06:31	00:06:33	Man, dawgs, it hurts for real, man.
+98	00:06:33	00:06:35	Here, now, you straight?
+99	00:06:35	00:06:36	Stop being such a little baby.
+100	00:06:36	00:06:38	I need some medicine-- I ain't talking about going to no hospital, either.
+101	00:06:38	00:06:41	Well, have fun then, man. I'm-a get me some payback.
+102	00:06:42	00:06:45	Vern just bitched out, wanted to forget it ever happened.
+103	00:06:45	00:06:46	Not me.
+104	00:06:46	00:06:50	So you stole the Hummer for revenge.
+105	00:06:50	00:06:52	I knew we should've asked for directions.
+106	00:06:53	00:06:54	Out of the car, man!
+107	00:06:54	00:06:55	Hey, hey, hey! Get the hell out of the car!
+108	00:07:06	00:07:08	Let me get this straight, Larry.
+109	00:07:08	00:07:15	An old man refuses to let you steal his money, so you jack a Hummer and try to run over his taco stand?
+110	00:07:16	00:07:17	Maybe.
+111	00:07:18	00:07:22	I think this is the dumbest thing we've ever heard.
+112	00:07:50	00:07:57	It's a beach house, a ski lodge, a state-of-the-art office, your home on the road...
+113	00:07:57	00:08:05	Ladies and gentlemen, Daluca Motorcoaches is proud to present the G-4700!
+114	00:08:20	00:08:21	Gentlemen.
+115	00:08:21	00:08:23	Hey.
+116	00:08:23	00:08:25	What's going on here?
+117	00:08:25	00:08:28	Lisa Schumacher, 29.
+118	00:08:28	00:08:33	There's no surveillance on the floor, and none of the rent-a-cops remember the last time they saw her. A convention girl.
+119	00:08:33	00:08:35	A what?
+120	00:08:35	00:08:40	You know, a model, stripper or a showgirl working the convention for extra cash.
+121	00:08:40	00:08:43	You got a T.O.D. yet?
+122	00:08:45	00:08:49	00 a.m.
+123	00:08:49	00:08:52	Laceration on the lower lip.
+124	00:08:52	00:08:53	Contusions on the neck.
+125	00:08:55	00:08:56	Petechiae in the eyes.
+126	00:08:56	00:08:58	So she got slapped around, strangled.
+127	00:08:58	00:09:01	Maybe somewhere in between, she was raped.
+128	00:09:01	00:09:02	These streaks right here.
+129	00:09:04	00:09:05	They don't look like blood.
+130	00:09:07	00:09:12	Possible hair fragments and some skin under her nails.
+131	00:09:12	00:09:13	She fought back.
+132	00:09:13	00:09:16	It'd be good for us.
+133	00:10:31	00:10:34	So that's why they call it a recreational vehicle.
+134	00:10:34	00:10:38	C.O.D. is asphyxia due to manual strangulation.
+135	00:10:38	00:10:41	Whoever did this used a lot more force than they needed to.
+136	00:10:41	00:10:44	There's bleeding in the neck muscles.
+137	00:10:44	00:10:48	Fractures in the cornu of the thyroid cartilage and hyoid bone.
+138	00:10:48	00:10:49	Did you do a wet mount? Sure did.
+139	00:10:49	00:10:52	Found motile sperm in the vaginal cavity.
+140	00:10:52	00:10:54	Well, Warrick found several used condoms at the scene.
+141	00:10:55	00:10:59	Killer must have run out, and started riding bareback.
+142	00:10:59	00:11:01	Eh, I'm not sure he rode anything at all.
+143	00:11:01	00:11:03	There's an absence of trauma in the vaginal cavity.
+144	00:11:03	00:11:04	Enough to rule out rape?
+145	00:11:04	00:11:05	Yeah.
+146	00:11:05	00:11:09	The semen was found at a depth not indicative of penile penetration.
+147	00:11:09	00:11:12	In this case, only a couple inches in.
+148	00:11:12	00:11:15	Maybe that's all the killer had to work with.
+149	00:11:15	00:11:18	And now, the moment that we've all been waiting for.
+150	00:11:18	00:11:20	The winner of the brand-new Humvee is...
+151	00:11:22	00:11:23	Kyle Shaw!
+152	00:11:23	00:11:25	( screams ) Oh! Oh, my God!
+153	00:11:25	00:11:26	Honey, we won.
+154	00:11:26	00:11:27	Whoa!
+155	00:11:27	00:11:30	Hey, I got over 70 women working this convention, man.
+156	00:11:30	00:11:35	Booth bimbos, crowd gatherers, hostesses, narrators, demonstrators, translators.
+157	00:11:35	00:11:38	Whatever you need, I got it.
+158	00:11:38	00:11:40	Well, we're only interested in Lisa Schumacher.
+159	00:11:40	00:11:42	She's one of my girls. I represent her.
+160	00:11:42	00:11:45	They call her Cris, as in Cristal, the champagne.
+161	00:11:45	00:11:46	She can't get enough of it.
+162	00:11:46	00:11:47	She likes to party?
+163	00:11:47	00:11:49	She likes to make money.
+164	00:11:49	00:11:50	Girls who party make the money.
+165	00:11:50	00:11:53	This ain't L.A., 00 a.m. for an audition.
+166	00:11:53	00:11:57	00 a.m., my girls are still at Drai's partying with the client.
+167	00:11:57	00:11:59	What's this about?
+168	00:11:59	00:12:01	She was found dead this morning.
+169	00:12:01	00:12:03	No.
+170	00:12:03	00:12:05	Come on, she's over there working the Daluca account.
+171	00:12:05	00:12:06	You didn't hear?
+172	00:12:06	00:12:08	There's two million square feet of exhibits here, man.
+173	00:12:08	00:12:10	40,000 people.
+174	00:12:10	00:12:11	This place is a mini-city.
+175	00:12:11	00:12:13	That RV exhibit's across town.
+176	00:12:13	00:12:16	00.
+177	00:12:16	00:12:18	Any idea why she was here after hours?
+178	00:12:18	00:12:21	Look, she worked behind a booth, yapping her mouth.
+179	00:12:21	00:12:23	Can't really throw her in a bikini no more.
+180	00:12:23	00:12:24	She's getting up there.
+181	00:12:24	00:12:26	Three-oh, uh-oh. ( chuckles )
+182	00:12:26	00:12:28	I didn't really keep tabs.
+183	00:12:28	00:12:29	Donny. You're late.
+184	00:12:29	00:12:30	And you're not dressed.
+185	00:12:30	00:12:31	What's the deal, girl?!
+186	00:12:31	00:12:33	Please, Donny, I just had the worst morning.
+187	00:12:33	00:12:34	Oh, you think you had it bad?
+188	00:12:34	00:12:36	Well, Cris is dead.
+189	00:12:36	00:12:37	Oh, my God.
+190	00:12:40	00:12:42	It's a tough business.
+191	00:12:46	00:12:48	Hodges... ( clank )
+192	00:12:48	00:12:49	What do you want?
+193	00:12:49	00:12:51	What are you doing?
+194	00:12:51	00:12:53	I'm looking for leaks.
+195	00:12:53	00:12:54	Call Facilities.
+196	00:12:54	00:12:55	You got my results?
+197	00:12:55	00:12:59	If you knew the kind of stuff that grows in these pipes, you'd be on your hands and knees with me.
+198	00:12:59	00:13:01	The results, Hodges, from the swabs I gave you?
+199	00:13:01	00:13:03	From Lisa Schumacher's fingertips?
+200	00:13:05	00:13:07	Fine.
+201	00:13:07	00:13:08	I found several substances.
+202	00:13:08	00:13:10	Nonoxynol-9 spermicide.
+203	00:13:10	00:13:12	Spermicide.
+204	00:13:12	00:13:14	So she did handle a condom.
+205	00:13:14	00:13:20	Also found traces of PVP, sorbitol, carbomer, hydroxypropylcellulose-- Probably a hair gel.
+206	00:13:20	00:13:24	Well, she did have skin under her fingernails, so she could've scratched her attacker's scalp.
+207	00:13:24	00:13:25	Not my job.
+208	00:13:25	00:13:31	And last, the brownish-orange substance instant tanning lotion.
+209	00:13:31	00:13:33	Hmm.
+210	00:13:33	00:13:35	Got four work card hits from the motor coach.
+211	00:13:35	00:13:42	Dana Simmons, Candice Mosti, Lane Kelly, and your vic, Lisa Schumacher.
+212	00:13:42	00:13:44	29 and already over the hill.
+213	00:13:44	00:13:46	Please tell me you're kidding.
+214	00:13:47	00:13:49	This town has different standards.
+215	00:13:51	00:13:52	Let me see something.
+216	00:13:59	00:14:01	Looks like Lisa had a roommate.
+217	00:14:03	00:14:04	So my prints are on the RV.
+218	00:14:04	00:14:06	Okay, I work that display sometimes.
+219	00:14:06	00:14:10	It's not just the print that makes you look bad, it's you.
+220	00:14:10	00:14:14	You're raffling off a Hummer hours after your roommate turns up dead.
+221	00:14:14	00:14:15	What am I supposed to do?
+222	00:14:15	00:14:18	I'm broke and my car insurance is due.
+223	00:14:18	00:14:20	What is that on your arm? Is that tanner?
+224	00:14:22	00:14:24	Forgot to rub it in, I guess.
+225	00:14:24	00:14:28	Razor-tight girl like you forgetting to rub tanning lotion in?
+226	00:14:28	00:14:30	Doesn't sound right to me.
+227	00:14:30	00:14:34	You know, the funny thing is, is your girlfriend Lisa had streaks of tanner on her body, too.
+228	00:14:34	00:14:37	Were you girls together last night?
+229	00:14:37	00:14:41	Donny asked us to hang out with Mr. Daluca after work.
+230	00:14:41	00:14:42	You and Lisa?
+231	00:14:42	00:14:43	Me, Lisa, Dana, and Lane.
+232	00:14:45	00:14:47	You guys just went out?
+233	00:14:47	00:14:48	Come on.
+234	00:14:48	00:14:49	Look, I'm not a hooker.
+235	00:14:49	00:14:51	All I do is these conventions.
+236	00:14:51	00:14:56	So when a big baller like Mr. Daluca comes into town and offers us a little cash to hang out, I'm with it.
+237	00:14:56	00:14:59	With it where?
+238	00:14:59	00:15:02	We had dinner at Fix. Partied at Mix.
+239	00:15:02	00:15:03	Gambled a little.
+240	00:15:03	00:15:06	Then he took us back to the convention center.
+241	00:15:06	00:15:08	Hammered and horny.
+242	00:15:08	00:15:10	Oh!
+243	00:15:10	00:15:11	Okay.
+244	00:15:11	00:15:13	Who gets the first ride?
+245	00:15:16	00:15:20	If I wanted someone your age, I'd do my wife.
+246	00:15:23	00:15:24	Price of one, huh? Yeah.
+247	00:15:27	00:15:28	I left there as soon as I could.
+248	00:15:28	00:15:29	I took a cab home.
+249	00:15:29	00:15:31	Did Daluca get rough with her?
+250	00:15:31	00:15:32	Not that I saw.
+251	00:15:32	00:15:33	He didn't even want to touch her.
+252	00:15:33	00:15:36	Really? Because we found Lisa's DNA on a condom.
+253	00:15:36	00:15:40	When I left, Daluca was busy with Dana and Lane, and Lisa locked herself in the bathroom.
+254	00:15:40	00:15:43	That was the last time I saw her.
+255	00:15:43	00:15:45	You want my prints?
+256	00:15:45	00:15:47	My DNA?
+257	00:15:47	00:15:49	I mean, come on, guys. I'm on vacation here.
+258	00:15:49	00:15:52	Having a sample of your DNA would help exclude you as a suspect.
+259	00:15:52	00:15:55	Voluntary or court order, it's your choice.
+260	00:15:55	00:15:59	My DNA is gonna be all over that girl, but I didn't put it there, she did.
+261	00:16:00	00:16:04	Now, this broad was expiring like spoiled milk, and she was looking for a way out.
+262	00:16:14	00:16:15	You still here?
+263	00:16:17	00:16:18	You bitch.
+264	00:16:18	00:16:20	( crying ) ! You bitch!
+265	00:16:20	00:16:23	She puts my baby inside her, hey, quickie retirement plan.
+266	00:16:23	00:16:26	You know, I can't think of a better reason for a man to kill a woman.
+267	00:16:26	00:16:33	If I'd have killed her, you think I'd put her in my own motorcoach, and then present it at an unveiling ceremony that I was announcing?
+268	00:16:35	00:16:38	You don't believe me, go ask the convention authorities.
+269	00:16:38	00:16:40	I told them what she was trying to do.
+270	00:16:40	00:16:44	It's the last time I ever hire those skanks to work a show.
+271	00:16:44	00:16:49	Ye... Yes, yes, I'm very aware of Butterfield Academy's privacy policy, but this a homicide...
+272	00:16:49	00:16:51	Daluca's all over the condoms.
+273	00:16:51	00:16:56	Get this, on one of them, his DNA and her epithelials are on both sides.
+274	00:16:56	00:16:59	Well, that's kind of like turning a sock inside out.
+275	00:16:59	00:17:00	It does support his story, though.
+276	00:17:00	00:17:03	Well, what about the epithelials under her nails?
+277	00:17:03	00:17:04	It's not a match to Daluca.
+278	00:17:04	00:17:06	So where does that leave us?
+279	00:17:06	00:17:08	Oh, I'm not quite done yet.
+280	00:17:10	00:17:12	Have a seat, Donny.
+281	00:17:14	00:17:17	What kind of hair gel do you use?
+282	00:17:17	00:17:19	Well, I don't think it would work with the texture of your hair.
+283	00:17:19	00:17:20	Real funny.
+284	00:17:20	00:17:22	What are you doing?
+285	00:17:22	00:17:24	Please stay still.
+286	00:17:27	00:17:28	How did you get these scratches in your head?
+287	00:17:28	00:17:30	Probably from scratching.
+288	00:17:30	00:17:32	I'm always thinking.
+289	00:17:32	00:17:34	I'll tell you what you were thinking.
+290	00:17:34	00:17:37	You were thinking about how Lisa pissed off your best client.
+291	00:17:37	00:17:39	And how much business it was gonna cost you.
+292	00:17:41	00:17:45	You kill her, Daluca takes the fall.
+293	00:17:46	00:17:48	Win-win for you.
+294	00:17:48	00:17:50	Lisa was a nothing.
+295	00:17:50	00:17:52	Old news.
+296	00:17:52	00:17:54	Why would I risk everything for a zero like her?
+297	00:17:54	00:17:57	For that exact reason, 'cause she was a nothing to you.
+298	00:17:57	00:17:59	That's a good story.
+299	00:17:59	00:18:01	You find that in one of your forensic journals?
+300	00:18:01	00:18:04	No, but when I match your DNA, I'll make sure you're on the cover.
+301	00:18:04	00:18:05	Cuff him.
+302	00:18:40	00:18:43	Hey, Paul, it's Gwen.
+303	00:18:48	00:18:51	Come on, babe. Let me in.
+304	00:18:51	00:18:54	Work me out.
+305	00:19:06	00:19:08	Vic is Paul Charles, 28.
+306	00:19:08	00:19:10	Competition bodybuilder and personal trainer.
+307	00:19:10	00:19:14	Doors were all locked, windows closed.
+308	00:19:14	00:19:17	No sign of forced entry.
+309	00:19:37	00:19:40	This guy's a poster child for self-love.
+310	00:19:43	00:19:45	Maybe that's why they went for the face.
+311	00:19:47	00:19:50	Gwen, did you see anyone else near the house when you arrived?
+312	00:19:50	00:19:51	No, uh...
+313	00:19:51	00:19:56	Paul cut down on clients so he could train for Mr. Las Vegas.
+314	00:19:56	00:19:58	It's next month, and...
+315	00:19:58	00:20:01	he really wanted to win this time.
+316	00:20:01	00:20:03	He canceled my last two workouts.
+317	00:20:03	00:20:05	So, why didn't you get another trainer?
+318	00:20:05	00:20:08	If be canceled again, I was going to.
+319	00:20:08	00:20:11	Did you and Paul ever get physical?
+320	00:20:11	00:20:13	Just once.
+321	00:20:13	00:20:15	Last month.
+322	00:20:16	00:20:18	Come on, feel it.
+323	00:20:18	00:20:19	Come on, you got to want it.
+324	00:20:19	00:20:21	Come on.
+325	00:20:22	00:20:24	I'll tell you what I want.
+326	00:20:30	00:20:31	What's wrong?
+327	00:20:31	00:20:33	He said he had a headache.
+328	00:20:33	00:20:37	But I mean, he was training really, really hard, so he was probably just tired.
+329	00:20:37	00:20:38	Or gay.
+330	00:20:38	00:20:39	I don't know.
+331	00:20:39	00:20:40	I don't care.
+332	00:20:40	00:20:47	I mean, just lying back on that bench and sweating and pushing the weight with all of his muscle right there beside me...
+333	00:20:47	00:20:51	I mean, it, it was totally... motivating.
+334	00:20:51	00:20:56	No matter how hard you work to get big, there's always someone bigger.
+335	00:20:56	00:20:59	It could be what keeps them going.
+336	00:21:00	00:21:03	Like Freud said, Anatomy is destiny.
+337	00:21:03	00:21:08	What do you think Freud would have to say about one of these being the murder weapon?
+338	00:21:17	00:21:18	Killer didn't even have to be his size.
+339	00:21:19	00:21:21	Could have been a little guy, or a woman.
+340	00:21:21	00:21:26	All they would have needed was the right weapon, some leverage, the element of surprise.
+341	00:21:30	00:21:33	Victim is a well-developed Caucasian male.
+342	00:21:33	00:21:35	Musculature appears hypertrophied.
+343	00:21:35	00:21:36	Care to guess?
+344	00:21:39	00:21:40	Blunt-force trauma.
+345	00:21:40	00:21:41	Absence of bruising.
+346	00:21:42	00:21:43	Maybe it was a post-mortem blow.
+347	00:21:43	00:21:45	Let's find out.
+348	00:22:34	00:22:40	Nine millimeter in the nightstand, and syringes next to the bed. Wow.
+349	00:22:40	00:22:43	Maybe our vic was putting the smack in smackdown.
+350	00:22:43	00:22:47	There was no blood on the poles or the weights.
+351	00:22:47	00:22:51	Rigor mortis is full and extremely rigid.
+352	00:22:51	00:22:55	Liver mortis is posterior and fixed.
+353	00:22:56	00:22:57	Let's roll him.
+354	00:22:58	00:23:00	That's good.
+355	00:23:00	00:23:07	Present on the bilateral buttocks are multiple fine punctures, with some surrounding faint purple ecchymosis.
+356	00:23:11	00:23:16	Laceration noted at the base of the scalp.
+357	00:23:16	00:23:21	Uh, loss of blood from that laceration is significant but non-fatal.
+358	00:24:27	00:24:29	Crime lab; how can we help you?
+359	00:24:33	00:24:37	Sara, I just want you to know, when we were in the shower, I didn't see anything.
+360	00:24:37	00:24:39	Really? Gosh, I saw everything.
+361	00:24:41	00:24:45	The black pus suggested a possible infection from an airborne agent.
+362	00:24:45	00:24:49	I took the precaution to get you out until Hazmat cleared the scene.
+363	00:24:49	00:24:50	Yeah, thanks a lot.
+364	00:24:51	00:24:52	Uh, what did they find?
+365	00:24:53	00:25:00	Actually, it's what I found-- mucormycosis, a disease caused by exposure to rhizopus oryzae, a kind of mold.
+366	00:25:00	00:25:01	Did you say rhizopus oryzae?
+367	00:25:01	00:25:02	Mm-hmm.
+368	00:25:02	00:25:03	We spent hours in that house.
+369	00:25:04	00:25:05	You're not at risk.
+370	00:25:05	00:25:07	You both have healthy immune systems.
+371	00:25:07	00:25:10	I suspect that's not the case with your vic.
+372	00:25:10	00:25:13	Copy that. Trace on the syringes was Deca-Durabolin, Sustanon and Oxandrolone.
+373	00:25:13	00:25:14	Steroids.
+374	00:25:14	00:25:17	That guy was stacking to get bigger.
+375	00:25:17	00:25:19	Immune suppression is a common side effect.
+376	00:25:19	00:25:23	So, how does a mold infection make it look like someone smashed him across the face?
+377	00:25:23	00:25:25	His face collapsed from the inside.
+378	00:25:25	00:25:29	Mucor causes deterioration of the bones around the sinuses and eye sockets.
+379	00:25:29	00:25:31	You remember the swollen eyeball?
+380	00:25:31	00:25:37	The pus was pushing it out, while the bones that held it in place were getting eaten away.
+381	00:25:37	00:25:45	The airborne mold spores enter the nasal cavity and they consume sinus tissue as they multiply.
+382	00:25:47	00:25:50	So, his compromised immune system wasn't strong enough to fight the spread of the infection.
+383	00:25:50	00:25:52	That's right. Sick.
+384	00:25:52	00:25:57	And what's even more sick is that rhizopus oryzae likes to grow on human tissue.
+385	00:25:57	00:26:02	Mold grows outward as spores reproduce and are carried away from the source.
+386	00:26:03	00:26:08	If we can pinpoint the source of the human tissue, that should tell you something.
+387	00:26:32	00:26:36	Whew! We have got to be getting close to the source.
+388	00:26:36	00:26:37	Hit the lights.
+389	00:26:51	00:26:53	Here?
+390	00:26:53	00:26:56	A whole lot of blood.
+391	00:26:56	00:26:59	We're getting warmer.
+392	00:27:24	00:27:27	Looks like we found the source of the mold.
+393	00:27:28	00:27:29	Okay.
+394	00:27:29	00:27:31	So, how does human tissue get inside a wall?
+395	00:27:31	00:27:32	Good question.
+396	00:27:35	00:27:38	There's a hole in the air duct.
+397	00:27:41	00:27:44	A bullet hole...
+398	00:27:46	00:27:47	Looks like a nine mil.
+399	00:27:47	00:27:50	Same as the handgun I found in the bedroom.
+400	00:27:50	00:27:52	Copper-jacketed.
+401	00:27:52	00:27:54	Good penetrating power.
+402	00:27:54	00:27:56	Somebody was shot here.
+403	00:27:59	00:28:02	Bullet pushed blood and tissue through the wall.
+404	00:28:02	00:28:05	Water from the pipe leak fed the mold growth.
+405	00:28:05	00:28:13	Eventually, the mold released spores, which spread through the house AC, and right on up into muscle-head's nose.
+406	00:28:13	00:28:16	We ran the phone numbers from the vic's planner.
+407	00:28:16	00:28:19	Everybody checked out, except for a woman named Tiffany.
+408	00:28:19	00:28:20	No last name?
+409	00:28:20	00:28:24	Well, Tiffany is actually a street name for Angela Wheeler, known prostitute.
+410	00:28:24	00:28:26	Her family reported her missing last month.
+411	00:28:26	00:28:33	Well, anyone who appears this narcissistic may prefer paying for hookers rather than wasting his love on a girlfriend.
+412	00:28:33	00:28:42	And as we know, in addition to immune suppression and heart and liver disease, steroid abuse can also cause shrunken testicles, impotence and aggression-- roid rage.
+413	00:28:43	00:28:47	Oh, baby, looks like you have one muscle that isn't hard.
+414	00:28:47	00:28:49	You think that's funny, bitch?!
+415	00:28:52	00:28:56	So, if the DNA from the tissue on the bullet matches Tiffany...
+416	00:28:57	00:28:58	We have a sample?
+417	00:28:58	00:29:02	A DNA reference sample was collected from her apartment in the initial investigation.
+418	00:29:02	00:29:03	Mia's on it.
+419	00:29:05	00:29:06	Very good.
+420	00:29:06	00:29:12	This is just like that Edgar Allen Poe story where the victim's heart under the floorboards betrays the murder.
+421	00:29:12	00:29:13	The Tell-Tale Heart.
+422	00:29:13	00:29:15	I thought you didn't like reading the classics.
+423	00:29:16	00:29:17	I do when they're about dismembered bodies.
+424	00:29:40	00:29:44	Move over Chester, my dogs are barking.
+425	00:29:44	00:29:46	Come on, now, move over a little bit.
+426	00:29:46	00:29:48	Let me sit down.
+427	00:29:48	00:29:50	Chester, damn!
+428	00:29:50	00:29:51	It's not me.
+429	00:29:51	00:29:53	Why don't you put your shoes back on?
+430	00:30:01	00:30:02	Oh, sweet Lord.
+431	00:30:04	00:30:06	Kid can't be more than 12 or 13.
+432	00:30:06	00:30:08	You think he's homeless?
+433	00:30:08	00:30:10	Jeans are a little nice for a homeless kid.
+434	00:30:10	00:30:12	Check his veins and do a SART kit anyway.
+435	00:30:12	00:30:14	Can you ballpark a T.O.D.?
+436	00:30:14	00:30:16	Sure.
+437	00:30:19	00:30:26	Well, he's just developing rigor, so, I'd say dead no more than eight hours.
+438	00:30:26	00:30:29	This is a busy line-- buses, traffic...
+439	00:30:29	00:30:30	And nobody noticed him?
+440	00:30:30	00:30:32	Maybe be hasn't been here the whole time.
+441	00:30:32	00:30:33	Could explain the blanket.
+442	00:30:33	00:30:35	Body dump.
+443	00:30:47	00:30:51	Hey, Chester, you been taking that thing off road again?
+444	00:30:51	00:30:53	Nah, mud screws up the ride.
+445	00:30:53	00:30:58	I bet you always get a bad cart at the store, huh?
+446	00:30:58	00:31:00	Not me.
+447	00:31:00	00:31:02	Thanks, guy.
+448	00:32:35	00:32:37	Sir, all I'm asking for is your class roster.
+449	00:32:38	00:32:45	Ye... Yes, yes, I'm very aware of Butterfield Academy's privacy policy, but this a homicide investigation.
+450	00:32:46	00:32:49	Sir, please, court orders take time.
+451	00:32:49	00:32:51	You could help me identify this boy tonight.
+452	00:32:53	00:32:55	Okay.
+453	00:32:55	00:32:56	No, no, no.
+454	00:32:56	00:32:57	I understand your position.
+455	00:32:57	00:32:59	Thanks.
+456	00:33:03	00:33:05	Whatever happened to this boy wasn't pretty.
+457	00:33:05	00:33:09	First- and second-degree burns on several areas of exposed skin.
+458	00:33:09	00:33:10	What about the burn to the face?
+459	00:33:10	00:33:12	Could that be from an iron?
+460	00:33:12	00:33:14	It's a possibility.
+461	00:33:14	00:33:19	He sustained several hematomas along his arms, together with a nasty skull fracture.
+462	00:33:19	00:33:21	I'm thinking child abuse.
+463	00:33:21	00:33:23	Skull fracture what killed him?
+464	00:33:23	00:33:24	No. Positional asphyxia.
+465	00:33:24	00:33:25	Check out his eyes.
+466	00:33:25	00:33:27	Heat damage.
+467	00:33:27	00:33:29	To all the respiratory mucosa, as well.
+468	00:33:29	00:33:33	I'd say this kid was in a small, hot space for quite a while.
+469	00:33:33	00:33:36	Closet with a radiator, boiler room...
+470	00:33:36	00:33:39	Shake and bake.
+471	00:33:40	00:33:41	Oh, Nick?
+472	00:33:41	00:33:42	Yeah.
+473	00:33:42	00:33:47	I heard you were looking for the student directory for Butterfield Academy.
+474	00:33:47	00:33:49	Yeah. Yeah. How'd you get this?
+475	00:33:49	00:33:50	I talked to the headmaster.
+476	00:33:50	00:33:52	He wouldn't give me jack.
+477	00:33:52	00:33:53	I pay tuition.
+478	00:33:53	00:33:55	Your daughter goes to Butterfield?
+479	00:33:55	00:33:57	Mm-hmm.
+480	00:33:57	00:33:58	Wow. That's a little pricy.
+481	00:33:58	00:34:04	She was at a crossroads and I, uh, needed to put her in a school with tighter reins. You know, when it comes to your kids, you, uh, find the money.
+482	00:34:04	00:34:06	Yeah.
+483	00:34:06	00:34:07	You looking for a prom date?
+484	00:34:08	00:34:11	No. I'm trying to I.D. a victim.
+485	00:34:11	00:34:12	Thanks for this.
+486	00:34:12	00:34:13	Good luck.
+487	00:34:13	00:34:15	Thank you.
+488	00:34:33	00:34:34	Oh. Hi there.
+489	00:34:34	00:34:36	I've been ringing the bell.
+490	00:34:37	00:34:38	Sorry. I was sleeping.
+491	00:34:38	00:34:39	No school today?
+492	00:34:39	00:34:41	I'm sick. The whole house is sick.
+493	00:34:41	00:34:42	Oh, gosh. Okay.
+494	00:34:42	00:34:44	Uh, well, my name's Nick Stokes.
+495	00:34:45	00:34:49	I'm with the Las Vegas Police Department, and, uh, this is pretty important.
+496	00:34:49	00:34:50	Parents around?
+497	00:34:50	00:34:53	No. Uh, they're not home.
+498	00:34:53	00:34:58	Do you have their cell phone or work numbers handy?
+499	00:35:02	00:35:03	Okay, they're skiing in Vail.
+500	00:35:03	00:35:06	What are you gonna do, arrest me for having a kegger?
+501	00:35:06	00:35:07	No, not exactly.
+502	00:35:07	00:35:09	Um...
+503	00:35:09	00:35:10	how old are you?
+504	00:35:11	00:35:13	What's going on, babe?
+505	00:35:13	00:35:14	Just go...
+506	00:35:14	00:35:15	What?
+507	00:35:15	00:35:17	How old is he?
+508	00:35:17	00:35:22	My father's a lawyer, so I probably shouldn't be talking to you.
+509	00:35:22	00:35:24	You have a brother?
+510	00:35:24	00:35:25	Chase?
+511	00:35:25	00:35:26	Yeah, Chase.
+512	00:35:26	00:35:27	Is, uh... is he around?
+513	00:35:27	00:35:30	No, he spent the night at his friend Andy's house.
+514	00:35:30	00:35:31	Is that the last time you saw him?
+515	00:35:31	00:35:33	I don't know.
+516	00:35:33	00:35:36	Do you have a picture of your brother I can take a look at?
+517	00:35:36	00:35:37	Yeah.
+518	00:35:37	00:35:39	Would you get that for me, please?
+519	00:35:39	00:35:41	Thank you.
+520	00:35:52	00:35:54	Um...
+521	00:35:54	00:36:01	I'm gonna need your parents' contact information if you don't mind, in Vail, okay?
+522	00:36:03	00:36:05	Your Chase's best friend, Andy.
+523	00:36:05	00:36:08	I need to know what happened last night.
+524	00:36:08	00:36:14	Andy was supposed to sleep over at Chase's, but Chase wasn't feeling well, so Andy came home early instead.
+525	00:36:14	00:36:17	Ma'am, please, I need to hear Andy's version.
+526	00:36:17	00:36:18	Okay?
+527	00:36:18	00:36:21	Go ahead, Andy.
+528	00:36:21	00:36:29	I told my mom I was sleeping at Chase's house, and he told his sister we were sleeping at my house.
+529	00:36:29	00:36:31	Where were the Ryans?
+530	00:36:32	00:36:33	They were in Vail.
+531	00:36:35	00:36:38	We just wanted to see a high school party.
+532	00:36:38	00:36:39	And did you?
+533	00:36:39	00:36:41	Some of it.
+534	00:36:48	00:36:50	This tastes horrible.
+535	00:36:50	00:36:52	Just keep drinking. It must get better.
+536	00:36:52	00:36:53	Jackie caught us.
+537	00:36:53	00:36:55	Made us leave.
+538	00:36:55	00:36:57	We promised to go to my house.
+539	00:36:57	00:36:59	We didn't.
+540	00:36:59	00:37:03	We went to this arcade, played a few games, and then I walked home.
+541	00:37:03	00:37:05	What about Chase?
+542	00:37:05	00:37:09	He stayed there, playing the games.
+543	00:37:12	00:37:13	Talk to me, Goose.
+544	00:37:13	00:37:15	Well, according to tox, junior was a boozer.
+545	00:37:15	00:37:18	BAC three times the legal limit.
+546	00:37:18	00:37:21	Yeah, the, uh, teenage sister had a kegger.
+547	00:37:21	00:37:22	How old were you when you first got drunk?
+548	00:37:22	00:37:25	Oh, 16, 17.
+549	00:37:25	00:37:28	Amortized over a generation, 12's about right?
+550	00:37:29	00:37:33	So your saying, two generations from now, four-year-olds are just gonna be getting trashed?
+551	00:37:34	00:37:36	Pre-school graduation parties are going to be off the hook.
+552	00:37:36	00:37:37	Mm.
+553	00:37:37	00:37:39	But Chase's party was just getting started.
+554	00:37:39	00:37:41	Tape lifts were a cornucopia.
+555	00:37:41	00:37:44	Caucasoid, Mongoloid, Negroid.
+556	00:37:44	00:37:46	And feline and canine.
+557	00:37:46	00:37:51	As for fibers, we have cotton, wool, polyester, and someone brought Lycra.
+558	00:37:51	00:37:52	Transfer from the blanket?
+559	00:37:52	00:37:54	No. I tested that.
+560	00:37:54	00:37:55	It came back clean.
+561	00:37:55	00:37:58	Okay. What about the, uh, the gack in the guy's hair?
+562	00:37:58	00:38:01	Melted vulcanized rubber and thermoplastic elastomers.
+563	00:38:01	00:38:04	From the sole of your average athletic shoe.
+564	00:38:04	00:38:05	Hmm.
+565	00:38:05	00:38:08	What's hot, cramped, and full of other people's hair?
+566	00:38:09	00:38:11	As I've often said, that's your job.
+567	00:39:29	00:39:30	Excuse me.
+568	00:39:30	00:39:32	You the manager?
+569	00:39:32	00:39:33	Yeah.
+570	00:39:34	00:39:38	Yeah. Uh, I was taking my laundry to the car, and the cart locked up on me.
+571	00:39:38	00:39:41	Yup. We got this fancy system 'cause people steal 'em.
+572	00:39:43	00:39:45	I'm the only one with a remote.
+573	00:39:46	00:39:48	So...
+574	00:39:48	00:39:50	I spend all day unlocking 'em.
+575	00:39:52	00:39:54	Which one is it?
+576	00:39:54	00:39:55	Murder?
+577	00:39:55	00:39:59	A 12-year-old boy died in one of your dryers the other night.
+578	00:39:59	00:40:02	You trying to tell me you don't know anything about it?
+579	00:40:02	00:40:05	Couple of kids were playing around the' mat, making trouble.
+580	00:40:05	00:40:07	I chased them out.
+581	00:40:07	00:40:09	What happened after that...
+582	00:40:09	00:40:11	I don't know.
+583	00:40:11	00:40:12	That's it?
+584	00:40:14	00:40:15	I don't buy it, Jared.
+585	00:40:15	00:40:17	I don't.
+586	00:40:17	00:40:19	You know why?
+587	00:40:19	00:40:20	Your fancy carts.
+588	00:40:20	00:40:27	And I know that no cart leaves that parking lot unless somebody presses the magic button.
+589	00:40:28	00:40:31	And I also matched tires treads.
+590	00:40:31	00:40:33	Someone...
+591	00:40:33	00:40:35	wheeled one of your carts through wet grass...
+592	00:40:37	00:40:41	...and dumped a dead 12-year-old boy on a bus bench.
+593	00:40:41	00:40:45	Okay, look, I'm supposed to be on duty the whole time.
+594	00:40:48	00:40:51	But this customer-- he was gettin' all pissed off.
+595	00:40:51	00:40:52	Look at this, look at this!
+596	00:40:52	00:40:53	See what it did to my vest.
+597	00:40:53	00:40:55	I have to go to work in this.
+598	00:40:55	00:40:56	I demand justice!
+599	00:40:56	00:40:58	Hey, will you get the hell out of here?
+600	00:40:58	00:40:59	So I went next door.
+601	00:40:59	00:41:02	Had to get the smell of detergent out of my nose.
+602	00:41:02	00:41:04	Bought a Yoo-hoo.
+603	00:41:04	00:41:06	I came back to check on things.
+604	00:41:15	00:41:18	I didn't know if he was dead or not.
+605	00:41:20	00:41:23	Bus bench. Hospital.
+606	00:41:23	00:41:26	I could see how you could make the mistake.
+607	00:41:26	00:41:30	You have any idea what the liability would be on something like that?
+608	00:41:30	00:41:31	Uh-uh.
+609	00:41:31	00:41:32	But I'll let you know.
+610	00:41:33	00:41:38	I was just hoping that somebody would find him and take care of him.
+611	00:41:38	00:41:40	Hey...
+612	00:41:40	00:41:42	you found him.
+613	00:41:43	00:41:45	You put him in the dryer.
+614	00:41:45	00:41:48	Mm-mm.
+615	00:41:48	00:41:49	Mm-hmm.
+616	00:41:49	00:41:52	Mm-hmm. Chase can't even lock himself inside those things.
+617	00:41:52	00:41:54	They lock from the outside.
+618	00:41:54	00:41:57	And I matched your print on the handle.
+619	00:41:57	00:41:59	I got it off your school's safe kit.
+620	00:42:02	00:42:05	He asked me to.
+621	00:42:05	00:42:08	Whoa! Dude!
+622	00:42:13	00:42:15	Come on, turn it on!
+623	00:42:15	00:42:17	Turn it on!
+624	00:42:27	00:42:31	And after that, it gets a little fuzzy.
+625	00:42:32	00:42:40	You put your best friend in a... in a dryer, and you turned it on, and you just walked away?
+626	00:42:40	00:42:43	What is wrong with you?
+627	00:43:09	00:43:11	Tough shift, huh?
+628	00:43:11	00:43:13	Just another day in paradise.
+629	00:43:19	00:43:21	Crime lab. How can we help you?
