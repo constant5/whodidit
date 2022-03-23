@@ -1,0 +1,744 @@
+	Unnamed: 0	start	end	text	label
+0	0	00:00:13	00:00:14	Good afternoon, Mr. McGrath.	N
+1	1	00:00:14	00:00:15	How’s the golf?	N
+2	2	00:00:20	00:00:22	Hi.	N
+3	3	00:00:22	00:00:23	You look lost.	N
+4	4	00:00:23	00:00:28	Okay, the stairs are all the way back to the left and the real estate office is at the end of the hall.	N
+5	5	00:00:28	00:00:30	Okay? Bye.	N
+6	6	00:00:30	00:00:32	Ooh, are those for me?	N
+7	7	00:00:32	00:00:33	Hi, Dominic, sign here.	N
+8	8	00:00:33	00:00:34	Okay.	N
+9	9	00:00:34	00:00:37	I tell you, though this is going to be worth a lot of money someday.	N
+10	10	00:00:37	00:00:39	I know, Elvis.	N
+11	11	00:00:39	00:00:40	Okay.	N
+12	12	00:00:40	00:00:41	See you. Okay, bye-bye.	N
+13	13	00:00:42	00:00:44	Domino, it’s your turn to pick up dinner.	N
+14	14	00:00:44	00:00:45	Okay, Jake-o.	N
+15	15	00:00:45	00:00:47	Listen, uh, this goes to Cooley Real Estate.	N
+16	16	00:00:47	00:00:48	That’s on two, all right?	N
+17	17	00:00:48	00:00:51	And the Fed Ex is running a little bit late on the pick-up.	N
+18	18	00:00:51	00:00:52	I’ll be back in...	N
+19	19	00:00:52	00:00:54	hmm, about ten minutes, all right?	N
+20	20	00:00:54	00:00:55	You got it. All right, buddy.	N
+21	21	00:01:34	00:01:38	Oh, these fire guys really know how to trash a crime scene.	N
+22	22	00:01:38	00:01:39	That’s what they do.	N
+23	23	00:01:39	00:01:42	Put wet stuff on the red stuff.	N
+24	24	00:01:42	00:01:45	We’re all clear to go in, but here’s what we’ve got.	N
+25	25	00:01:45	00:01:46	Couple of head wounds.	N
+26	26	00:01:46	00:01:48	Elderly guy had his arm torn off.	N
+27	27	00:01:48	00:01:50	The only fatality so far is Jake Richards, a security guard.	N
+28	28	00:01:50	00:01:53	Body’s still inside.	N
+29	29	00:02:02	00:02:03	How big you think this bomb was?	N
+30	30	00:02:03	00:02:05	It’s not the size of the bomb.	N
+31	31	00:02:05	00:02:08	It’s the overpressure in the air around it.	N
+32	32	00:02:25	00:02:27	The Van Gogh effect.	N
+33	33	00:02:28	00:02:29	In stereo.	N
+34	34	00:02:29	00:02:31	Both ears gone.	N
+35	35	00:02:31	00:02:33	A perfectly symmetrical amputation.	N
+36	36	00:02:33	00:02:36	Means he was looking directly at the bomb when it went off.	N
+37	37	00:02:36	00:02:41	So either it drew his attention or it was contained in something that seemed benign.	N
+38	38	00:02:43	00:02:45	Smell the sulfur?	N
+39	39	00:02:45	00:02:47	Uh-huh.	N
+40	40	00:02:50	00:02:51	Got your lighter, Jim?	N
+41	41	00:02:51	00:02:53	Sure.	N
+42	42	00:02:58	00:02:59	Light this.	N
+43	43	00:03:02	00:03:04	Gunpowder.	N
+44	44	00:03:04	00:03:06	Well, we know the propellant.	N
+45	45	00:03:06	00:03:09	So would you care to make a preliminary call on this?	N
+46	46	00:03:09	00:03:10	I’d love to.	N
+47	47	00:03:12	00:03:14	Seat of the bomb is here.	N
+48	48	00:03:14	00:03:17	Victim was thrown...	N
+49	49	00:03:17	00:03:19	three meters.	Y
+50	50	00:03:19	00:03:24	His clothes are torn but not burnt, indicating a low-velocity propellant.	Y
+51	51	00:03:24	00:03:25	6,000-7,000 feet per second.	N
+52	52	00:03:25	00:03:28	Who? Why?	N
+53	53	00:03:28	00:03:31	Will he do it again?	N
+54	54	00:03:31	00:03:33	Time will tell.	N
+55	55	00:04:14	00:04:20	The dirty little secret of bombs is how easy they are to make and use.	N
+56	56	00:04:20	00:04:24	Our murder weapon’s here someplace in a thousand pieces.	N
+57	57	00:04:24	00:04:26	We have to find it and put it back together again.	N
+58	58	00:04:26	00:04:27	Where do we start?	N
+59	59	00:04:27	00:04:29	If it’s not growing pick it up.	N
+60	60	00:04:29	00:04:32	We cart everything we find back to the lab. And then what?	Y
+61	61	00:04:32	00:04:35	Stay curious.	N
+62	62	00:04:36	00:04:38	Can you fill in the blanks?	N
+63	63	00:04:38	00:04:39	Bombs explode.	N
+64	64	00:04:39	00:04:42	Weird thing is their components survive the explosion.	N
+65	65	00:04:42	00:04:45	If we can piece together this bomb we’re closer to finding who did this.	N
+66	66	00:04:45	00:04:49	So, Warrick, when you’re photographing this debris can you, uh...?	N
+67	67	00:04:49	00:04:52	Uh, I know, looky-loos.	N
+68	68	00:05:38	00:05:41	Come on, Nick, it’s my last night in Sin City.	N
+69	69	00:05:41	00:05:42	One more drink, man.	N
+70	70	00:05:42	00:05:43	Oh, no, I just pulled a double.	N
+71	71	00:05:43	00:05:45	And I still have to file my shift report.	N
+72	72	00:05:45	00:05:47	Man, you’re off the clock.	N
+73	73	00:05:47	00:05:50	You’d have never passed up a wild night back at A&amp;M.	N
+74	74	00:05:50	00:05:52	Well, I guess I grew up.	N
+75	75	00:05:52	00:05:53	Too bad, check that out.	N
+76	76	00:06:00	00:06:01	Enjoy.	Y
+77	77	00:06:01	00:06:03	You must really love your job, man.	Y
+78	78	00:06:05	00:06:06	Ladies...	Y
+79	79	00:06:14	00:06:16	Here you go. Thanks, man.	Y
+80	80	00:06:16	00:06:17	Get your hands off me!	Y
+81	81	00:06:17	00:06:19	Kristy, you’re not going anywhere.	Y
+82	82	00:06:19	00:06:21	You got that?	Y
+83	83	00:06:21	00:06:23	Come on. Relax a little bit.	N
+84	84	00:06:23	00:06:24	Settle down.	N
+85	85	00:06:24	00:06:26	Kristy? Kristy! You don’t own me, Jack.	Y
+86	86	00:06:26	00:06:27	Nobody does.	N
+87	87	00:06:27	00:06:28	Hey.	N
+88	88	00:06:28	00:06:29	Back off.	Y
+89	89	00:06:29	00:06:30	Hey, just mind your own business. Nick.	Y
+90	90	00:06:30	00:06:32	I know him. He’s a cop.	Y
+91	91	00:06:32	00:06:34	A crime scene investigator.	N
+92	92	00:06:34	00:06:36	Nick, tell him to leave me alone.	N
+93	93	00:06:36	00:06:39	Nobody tells me to do anything...	N
+94	94	00:06:39	00:06:40	Hey, are we going to have a problem?	N
+95	95	00:06:40	00:06:45	No, officer, we’re not going to have a problem.	N
+96	96	00:06:45	00:06:46	I’ll see you around, baby.	N
+97	97	00:06:55	00:06:57	You okay?	N
+98	98	00:06:57	00:06:58	Yeah.	N
+99	99	00:06:58	00:07:00	Yeah, I’m fine.	N
+100	100	00:07:00	00:07:02	That was good timing. Thanks.	N
+101	101	00:07:02	00:07:05	I suppose you need a ride.	Y
+102	102	00:07:05	00:07:07	Do you mind?	N
+103	103	00:07:07	00:07:09	No.	N
+104	104	00:07:09	00:07:11	Come on.	N
+105	105	00:07:11	00:07:12	Thanks.	N
+106	106	00:07:14	00:07:18	Seems like every time we run into each other I’m getting into trouble.	N
+107	107	00:07:18	00:07:22	Not that it’s any of my business but maybe you should think about changing careers.	N
+108	108	00:07:22	00:07:25	Not every john is like that guy.	N
+109	109	00:07:25	00:07:28	Besides, I’m making a change.	N
+110	110	00:07:28	00:07:30	I’m going back to school.	N
+111	111	00:07:30	00:07:32	Yeah?	N
+112	112	00:07:32	00:07:34	I’ve always wanted to study communications.	N
+113	113	00:07:34	00:07:35	I’m good with people.	N
+114	114	00:07:35	00:07:38	That’s good.	N
+115	115	00:07:38	00:07:40	You think so?	N
+116	116	00:07:40	00:07:42	Yeah, I do.	N
+117	117	00:07:42	00:07:45	Well, I’m going to go inside now.	N
+118	118	00:07:47	00:07:52	Unless, of course, you’d like to come in for a drink.	N
+119	119	00:07:52	00:07:55	I don’t think that’d be a good idea.	N
+120	120	00:07:55	00:07:56	Come on.	N
+121	121	00:07:56	00:08:00	Just ’cause you’re a crime scene analyst you don’t have to analyze everything.	N
+122	122	00:08:25	00:08:27	FP.	N
+123	123	00:08:33	00:08:36	Mr. Grissom.	N
+124	124	00:08:39	00:08:40	Oh, uh...	N
+125	125	00:08:40	00:08:42	Hi, I’ve...	N
+126	126	00:08:42	00:08:44	I’ve, um, I’ve seen you on TV before.	N
+127	127	00:08:44	00:08:46	I admire your work.	N
+128	128	00:08:46	00:08:47	Well, thank you.	N
+129	129	00:08:47	00:08:48	And your name is...?	N
+130	130	00:08:48	00:08:49	Dominic.	N
+131	131	00:08:49	00:08:53	Uh, i-c rather than with the i-c-k... uh, Kretzker.	N
+132	132	00:08:53	00:08:56	I’m the, uh, Hansen Building Security Detail.	N
+133	133	00:08:56	00:08:58	Did somebody from Homicide talk to you yet?	N
+134	134	00:08:58	00:09:01	Yeah, as a matter of fact, they said that I was going to be talking to you.	N
+135	135	00:09:01	00:09:02	Because, well, we are...	N
+136	136	00:09:02	00:09:04	you know, we’re both in law enforcement, and...	N
+137	137	00:09:04	00:09:06	Right.	N
+138	138	00:09:06	00:09:09	Did you know the victim-- the other security guard?	N
+139	139	00:09:09	00:09:11	Oh, yeah, he was one of my best buddies.	N
+140	140	00:09:11	00:09:16	As a matter of fact, you know, two minutes’ difference it would’ve been my face all over the news instead of his, right?	N
+141	141	00:09:16	00:09:19	Would you, uh, like to be on the news?	N
+142	142	00:09:19	00:09:19	Yeah.	N
+143	143	00:09:19	00:09:21	Yeah.	N
+144	144	00:09:21	00:09:23	I mean... only if I could help people, yes.	N
+145	145	00:09:23	00:09:24	No, no.	N
+146	146	00:09:24	00:09:26	I know what you’re thinking.	N
+147	147	00:09:26	00:09:30	Uh, you know, my building blows up I’m over at Arby’s sucking down some extra sauce.	N
+148	148	00:09:30	00:09:32	You know, how could I want to help people, right?	N
+149	149	00:09:32	00:09:34	Well, I mean, realistically, what could you have done?	N
+150	150	00:09:34	00:09:36	Well, I know a lot about bombs.	N
+151	151	00:09:36	00:09:38	You know, pipe, power, powder.	N
+152	152	00:09:38	00:09:41	The three Ps of mass destruction.	N
+153	153	00:09:41	00:09:42	Huh.	N
+154	154	00:09:42	00:09:44	Dominic...	N
+155	155	00:09:44	00:09:45	with an i-c, not i-c-k... Yes sir?	N
+156	156	00:09:45	00:09:48	Would you be interested in helping me in my investigation?	N
+157	157	00:09:48	00:09:51	Are you serious?	N
+158	158	00:09:52	00:09:54	Yeah, yes, sir.	N
+159	159	00:09:54	00:09:56	I’ll be honored, sir.	N
+160	160	00:09:56	00:09:58	Oh.	N
+161	161	00:09:58	00:10:02	But we can’t tell anybody on the day shift, though because they’re going to get real jealous.	N
+162	162	00:10:02	00:10:04	That’s good thinking.	N
+163	163	00:10:04	00:10:06	Would you excuse me a minute?	N
+164	164	00:10:06	00:10:08	Yes.	Y
+165	165	00:10:10	00:10:12	Keep an eye on that guy.	Y
+166	166	00:10:13	00:10:15	Oh, yes!	N
+167	167	00:10:15	00:10:18	Well, we got a live one out there.	N
+168	168	00:10:18	00:10:20	I got a cop babysitting him.	N
+169	169	00:10:20	00:10:22	How are you doing?	N
+170	170	00:10:22	00:10:25	Well, are his initials FP?	N
+171	171	00:10:25	00:10:29	No, Dominic Kretzker, why?	N
+172	172	00:10:29	00:10:32	I found this near the point of origin.	N
+173	173	00:10:33	00:10:37	Whoever did this is playing with us.	N
+174	174	00:10:37	00:10:39	Or he wants to get caught.	N
+175	175	00:10:45	00:10:47	Hey, it’s me.	N
+176	176	00:10:47	00:10:48	You in the shower? What are you doing?	N
+177	177	00:10:48	00:10:52	Anyway, if you check your messages I don’t have to work till later.	N
+178	178	00:10:52	00:10:56	So I thought since you’re between careers you might want to grab a late...	N
+179	179	00:10:56	00:10:58	breakfast.	N
+180	180	00:11:02	00:11:04	Hey, Nick, what’s up?	N
+181	181	00:11:04	00:11:06	Not a lot. What’s... what’s going on?	N
+182	182	00:11:06	00:11:07	It’s a 4-19.	N
+183	183	00:11:07	00:11:09	Dead prostitute.	N
+184	184	00:11:09	00:11:12	Who’s the decedent?	N
+185	185	00:11:12	00:11:14	Kristine Marie Hopkins.	N
+186	186	00:11:14	00:11:16	Day shift’s got it covered.	N
+187	187	00:11:18	00:11:19	You all right?	N
+188	188	00:11:19	00:11:20	Yeah, I must’ve, uh...	N
+189	189	00:11:20	00:11:21	I must’ve got my wires crossed.	N
+190	190	00:11:21	00:11:22	I’ll see you.	N
+191	191	00:11:22	00:11:24	All right, man.	N
+192	192	00:11:27	00:11:31	All right, you cram this thing here with gunpowder, all right?	N
+193	193	00:11:31	00:11:33	Then you cap it here, and you cap it here.	N
+194	194	00:11:33	00:11:36	Now, the grains inside, all right...	N
+195	195	00:11:36	00:11:39	they’re going to ignite and they’re gonna cause smoke.	N
+196	196	00:11:39	00:11:41	Lots and lots of smoke.	N
+197	197	00:11:41	00:11:44	Now, the problem is is all this smoke here, man, it’s got nowhere to go.	N
+198	198	00:11:44	00:11:47	Okay, it starts cooking, and then...	N
+199	199	00:11:47	00:11:49	Bob’s your uncle... Boom!	N
+200	200	00:11:49	00:11:52	you do know a lot about bombs.	N
+201	201	00:11:52	00:11:53	How’d you learn so much?	N
+202	202	00:11:53	00:11:55	Oh, they don’t teach this stuff at universities.	N
+203	203	00:11:55	00:11:56	You know, this is all trial and error.	N
+204	204	00:11:56	00:12:00	So what, you just, uh, blow up bombs and study them?	N
+205	205	00:12:00	00:12:01	Yeah. Yeah...	N
+206	206	00:12:02	00:12:04	Margaret Finn, Public Defender.	N
+207	207	00:12:04	00:12:06	Cease and desist any conversation with my client.	N
+208	208	00:12:06	00:12:08	I’ve been assigned to you.	N
+209	209	00:12:08	00:12:12	Guess the PD was thinking of all the lawsuits Richard Jewell brought when he was wrongfully accused.	N
+210	210	00:12:12	00:12:15	Someone died in that office building.	N
+211	211	00:12:15	00:12:19	Ma’am, you seem like a very nice person but these people--they’ve been very, very good to me.	N
+212	212	00:12:19	00:12:21	I’m sure they have.	N
+213	213	00:12:21	00:12:24	Dominic, I think you should roll with your attorney.	N
+214	214	00:12:24	00:12:26	Thanks for your help, though.	N
+215	215	00:12:26	00:12:27	All right.	N
+216	216	00:12:27	00:12:28	I’ll see you guys later.	N
+217	217	00:12:28	00:12:29	Listen, do me a favor.	N
+218	218	00:12:29	00:12:33	Will you tell Grissom that if he needs me just call me at home, okay? All right.	N
+219	219	00:12:33	00:12:34	Let’s roll.	Y
+220	220	00:12:36	00:12:40	So all this stuff is from a five-meter radius of the point of origin?	Y
+221	221	00:12:40	00:12:41	Yep.	N
+222	222	00:12:41	00:12:44	How could the victim possibly have been in one piece?	N
+223	223	00:12:44	00:12:46	Vacuum effect.	N
+224	224	00:12:46	00:12:49	The air is being pushed out so fast...	N
+225	225	00:12:49	00:12:52	and the bomb detonates...	N
+226	226	00:12:52	00:12:54	there’s a calm at the center...	N
+227	227	00:12:58	00:13:02	Calm, huh? Well, except for when he lost his ears.	N
+228	228	00:13:02	00:13:04	Did you figure out what this FP stands for?	N
+229	229	00:13:04	00:13:07	I ran it through ATF’s bomb database.	N
+230	230	00:13:07	00:13:09	No profile.	N
+231	231	00:13:09	00:13:11	So our bomber’s a newbie.	N
+232	232	00:13:11	00:13:13	Does he fit Grissom’s wack job from the bomb site?	N
+233	233	00:13:13	00:13:15	Dominic the security guard?	N
+234	234	00:13:15	00:13:17	Ah, it’s too soon to tell.	N
+235	235	00:13:17	00:13:19	I found something interesting.	N
+236	236	00:13:19	00:13:21	What is it?	N
+237	237	00:13:23	00:13:25	Looks like a balance wheel from a clock.	Y
+238	238	00:13:25	00:13:26	Bomb was time-delayed.	N
+239	239	00:13:26	00:13:28	This is a piece of the timing device.	N
+240	240	00:13:28	00:13:30	What about the orange stuff?	N
+241	241	00:13:30	00:13:34	Heat of the explosion must’ve melted whatever it is all around the wheel.	N
+242	242	00:13:34	00:13:36	So Sara?	N
+243	243	00:13:36	00:13:39	So what’s orange and melts?	N
+244	244	00:13:39	00:13:41	I would have to investigate that.	N
+245	245	00:13:41	00:13:42	Thank you.	N
+246	246	00:13:42	00:13:44	Hey, guys.	N
+247	247	00:13:44	00:13:45	Can I steal you for a minute?	N
+248	248	00:13:45	00:13:46	I thought this was your day off.	N
+249	249	00:13:46	00:13:47	We’re kind of busy here, Nick.	N
+250	250	00:13:47	00:13:50	Yeah, I know, and I’m sorry, but I don’t think this can wait.	N
+251	251	00:13:50	00:13:52	Okay.	N
+252	252	00:13:56	00:13:59	You told me you weren’t dating her.	N
+253	253	00:13:59	00:14:04	I wasn’t till last night after I broke up her fight with this guy, uh... Jack.	N
+254	254	00:14:04	00:14:07	And Ecklie’s at her house now.	N
+255	255	00:14:07	00:14:09	Yeah, and I can tell you what he’s going to find.	N
+256	256	00:14:09	00:14:12	My fingerprints, my DNA.	N
+257	257	00:14:12	00:14:14	What were you thinking, Nicky?	N
+258	258	00:14:14	00:14:17	I wasn’t.	N
+259	259	00:14:17	00:14:21	We had a connection, you know?	N
+260	260	00:14:21	00:14:24	Chemistry thing, I guess.	Y
+261	261	00:14:24	00:14:27	She was irresistible, man.	Y
+262	262	00:14:27	00:14:30	00.	Y
+263	263	00:14:30	00:14:31	Ecklie’s going to be all over this.	N
+264	264	00:14:32	00:14:35	Hey, Nick...	N
+265	265	00:14:35	00:14:37	I’m sorry to hear about your friend.	N
+266	266	00:14:37	00:14:39	Who told you?	N
+267	267	00:14:39	00:14:40	Word travels.	N
+268	268	00:14:40	00:14:42	It was the day shift coroner.	N
+269	269	00:14:42	00:14:44	So people know I was with Kristy last night?	N
+270	270	00:14:44	00:14:46	Not yet.	N
+271	271	00:14:46	00:14:49	Maybe I should just go to Ecklie and tell him I was there.	N
+272	272	00:14:49	00:14:53	When you’re a suspect and you’re innocent, you keep your mouth shut.	N
+273	273	00:14:54	00:14:56	I’ll talk to Ecklie.	N
+274	274	00:14:56	00:14:57	Bad idea. You and Ecklie...	N
+275	275	00:14:57	00:14:58	oil and water.	N
+276	276	00:14:58	00:15:00	Just let me get into it.	N
+277	277	00:15:00	00:15:02	I can’t just sit here.	N
+278	278	00:15:02	00:15:04	Okay, go for a walk.	N
+279	279	00:15:04	00:15:07	Maybe you’ll accidentally bump into your guy, Jack?	N
+280	280	00:15:07	00:15:09	Yeah.	N
+281	281	00:15:09	00:15:12	I.D. him, but don’t approach him.	N
+282	282	00:15:12	00:15:14	Okay.	N
+283	283	00:15:19	00:15:23	If Nick’s arrested it’s not going to matter that he’s cleared later.	N
+284	284	00:15:23	00:15:25	No, it’s an automatic dismissal.	N
+285	285	00:15:30	00:15:33	25-year-old female Caucasian.	N
+286	286	00:15:33	00:15:38	Liver temp’s indicating time of death at 0600.	N
+287	287	00:15:38	00:15:42	Petichial hemorrhaging, cyanotic tongue.	N
+288	288	00:15:44	00:15:45	Can I help you, Catherine?	N
+289	289	00:15:45	00:15:46	I just want to see the body, David.	N
+290	290	00:15:46	00:15:48	Unless I’m mistaken, this is Ecklie’s case.	N
+291	291	00:15:48	00:15:50	Eyes, no hands.	N
+292	292	00:15:52	00:15:54	Look at those ligature marks.	N
+293	293	00:15:54	00:15:56	Petichials...	N
+294	294	00:15:56	00:15:57	blue tongue, the works.	N
+295	295	00:15:57	00:16:00	Raccoon eyes excoriation around the neck.	N
+296	296	00:16:00	00:16:02	She didn’t give up easy.	Y
+297	297	00:16:02	00:16:04	Struggled and strangled.	Y
+298	298	00:16:04	00:16:06	Ecklie find the murder weapon?	N
+299	299	00:16:06	00:16:08	I only deal with bodies.	N
+300	300	00:16:08	00:16:10	Did you check for fingerprints on the body?	N
+301	301	00:16:10	00:16:14	Not yet. Half-life of fingerprints on flesh they’re disappearing as we speak.	N
+302	302	00:16:14	00:16:15	Catherine, I like Nick, too.	N
+303	303	00:16:15	00:16:17	I know you’re here for him.	N
+304	304	00:16:17	00:16:19	But what if I lift his prints from her?	N
+305	305	00:16:19	00:16:21	Then that’s what you report.	N
+306	306	00:16:21	00:16:25	Evidence, Doc... all we got.	N
+307	307	00:16:35	00:16:36	Hey.	N
+308	308	00:16:36	00:16:38	Could you find that and turn it off, please?	Y
+309	309	00:16:46	00:16:48	Find the clock our guy used?	N
+310	310	00:16:48	00:16:49	Not yet.	N
+311	311	00:16:49	00:16:50	This is a good choice.	N
+312	312	00:16:50	00:17:08	According to the Bomb Data Center which has a record of every component used in any bomb-- from Ted Kaczynski to teenage boys playing with fireworks-- the most recent timing device of choice is made by TimeTell Snoozewell, $10.99 at any local drugstore.	N
+313	313	00:17:08	00:17:10	You’ve spoiled all my fun.	N
+314	314	00:17:11	00:17:13	Gris, can I get clear on something here?	N
+315	315	00:17:13	00:17:14	Anything’s possible.	N
+316	316	00:17:14	00:17:21	Catherine gave me this FP which was part of the Hansen bomb and I’m supposed to figure out what tool the bomber used to engrave it.	N
+317	317	00:17:21	00:17:23	You isolate the tool, and then we trace it.	N
+318	318	00:17:23	00:17:27	Yeah, but he could’ve used any number of things to initial it.	N
+319	319	00:17:27	00:17:29	I mean, a screwdriver, a drill bit, a box cutter.	N
+320	320	00:17:29	00:17:30	It’s the same as guns...	N
+321	321	00:17:30	00:17:33	we eliminate them one at a time.	N
+322	322	00:17:33	00:17:34	What are you guys doing?	N
+323	323	00:17:34	00:17:37	We’re going to go blow up some bombs.	N
+324	324	00:17:37	00:17:41	Oh, I definitely got the wrong end of this investigation.	N
+325	325	00:17:41	00:17:44	Alas. Poor Warrick.	N
+326	326	00:18:20	00:18:23	Oh, hey, uh Conrad, Grissom’s in the field.	Y
+327	327	00:18:23	00:18:25	I need to speak with him.	N
+328	328	00:18:25	00:18:27	And I need to speak with you...	N
+329	329	00:18:27	00:18:28	about Nick Stokes.	N
+330	330	00:18:28	00:18:29	Well, let me guess...	N
+331	331	00:18:29	00:18:31	about his involvement with a dead hooker?	N
+332	332	00:18:31	00:18:34	Come on. The hooker was a person.	N
+333	333	00:18:34	00:18:35	Her name was Kristy Hopkins.	N
+334	334	00:18:35	00:18:36	I realize that. Thank you.	N
+335	335	00:18:36	00:18:38	I just came from the lab.	N
+336	336	00:18:38	00:18:40	His prints were all over Kristy Hopkins’ house.	N
+337	337	00:18:40	00:18:43	Let’s see, wine glass...	N
+338	338	00:18:43	00:18:44	oh, bedside table.	N
+339	339	00:18:44	00:18:46	How’s it going, Cath?	N
+340	340	00:18:46	00:18:49	Nick, I don’t think that you guys should be talking.	N
+341	341	00:18:49	00:18:51	It’s no big deal.	N
+342	342	00:18:51	00:18:52	What’s up, Ecklie?	N
+343	343	00:18:52	00:18:55	I need a DNA sample from you, Nick.	N
+344	344	00:18:55	00:18:59	I assume you’re trying to prove Kristy Hopkins and I were sexually active last night.	Y
+345	345	00:18:59	00:19:01	We found a condom, used.	N
+346	346	00:19:01	00:19:04	And my DNA will match, no warrant necessary.	N
+347	347	00:19:04	00:19:06	And I have something else for you.	Y
+348	348	00:19:08	00:19:10	I got this off a valet surveillance tape.	N
+349	349	00:19:10	00:19:12	A license plate number?	N
+350	350	00:19:12	00:19:14	Vehicle belongs to Jack Willman.	N
+351	351	00:19:14	00:19:17	Had a fight with Kristy Hopkins outside the Orpheus last night around midnight.	Y
+352	352	00:19:17	00:19:23	Well, I’ll look into it but come on, your fingerprints, your DNA that’s what’s going into evidence.	N
+353	353	00:19:23	00:19:25	You just love that, don’t you?	N
+354	354	00:19:25	00:19:27	You think I want to believe that a CSI could commit murder?	N
+355	355	00:19:27	00:19:30	Hell, I don’t even want to believe that a CSI could sleep with a hooker.	N
+356	356	00:19:30	00:19:31	You know what? Nick’s private life...	N
+357	357	00:19:31	00:19:32	Is no longer private.	N
+358	358	00:19:32	00:19:36	Catherine, I’m sorry if you guys don’t like where the evidence is pointing.	N
+359	359	00:19:36	00:19:38	But show me otherwise, tell me I’m wrong.	N
+360	360	00:19:38	00:19:40	In the meantime, my hands are tied.	N
+361	361	00:19:40	00:19:42	I have protocol to follow.	N
+362	362	00:19:46	00:19:47	I hate that guy.	N
+363	363	00:19:47	00:19:50	Okay, look, I’m going to get O’Riley to track down this Jack guy for questioning.	N
+364	364	00:19:50	00:19:52	But I am out on a limb for you here, Nick.	N
+365	365	00:19:52	00:19:54	Just don’t make it harder with Ecklie, okay?	N
+366	366	00:19:54	00:19:55	Yeah.	N
+367	367	00:19:57	00:19:59	We find the bomber by understanding the bomb.	N
+368	368	00:19:59	00:20:02	Fortunately, Catherine figured out the exterior container.	N
+369	369	00:20:02	00:20:04	Aluminum briefcase.	N
+370	370	00:20:04	00:20:05	And we know the timing device.	N
+371	371	00:20:05	00:20:06	Snoozewell.	N
+372	372	00:20:06	00:20:07	And the propellant.	N
+373	373	00:20:07	00:20:08	Black gunpowder.	N
+374	374	00:20:08	00:20:10	So the final piece of the bomber’s signature?	N
+375	375	00:20:10	00:20:12	Identify the pipe containing the powder.	N
+376	376	00:20:12	00:20:16	Three bombs, scaled down five-to-one three different metal pipes.	N
+377	377	00:20:16	00:20:20	Different metals fly different distances when the same force is applied.	N
+378	378	00:20:20	00:20:22	Number one is a plumber’s ex-flow pipe.	N
+379	379	00:20:22	00:20:24	Number two is an inflow pipe which is thinner.	N
+380	380	00:20:24	00:20:28	Number three is galvanized steel which is the thinnest metal of them all.	N
+381	381	00:20:35	00:20:36	You ready?	N
+382	382	00:20:38	00:20:40	Let’s do it, Dan.	N
+383	383	00:20:47	00:20:48	Green.	N
+384	384	00:20:48	00:20:49	That’s the ex-flow pipe.	N
+385	385	00:20:51	00:20:54	Inflow pipe, blue.	N
+386	386	00:20:59	00:21:02	Red, the galvanized steel.	N
+387	387	00:21:14	00:21:17	ten feet.	N
+388	388	00:21:32	00:21:36	16 feet.	N
+389	389	00:21:45	00:21:48	20 feet.	N
+390	390	00:21:55	00:21:59	Fragments from the galvanized steel traveled the farthest.	N
+391	391	00:21:59	00:22:03	20 feet. Extrapolating five to one that would be 100 feet.	N
+392	392	00:22:03	00:22:06	That’s the outer limit of visible metal detritus at the Hansen building.	N
+393	393	00:22:06	00:22:11	So the bomb was housed in a thin container of galvanized steel.	N
+394	394	00:22:11	00:22:14	Like a muffler or a tailpipe.	N
+395	395	00:22:14	00:22:16	I’ve seen it before.	N
+396	396	00:22:16	00:22:17	It’s a common container for homemades.	N
+397	397	00:22:17	00:22:20	Don’t you love the smell of sulfur in the afternoon?	N
+398	398	00:22:20	00:22:23	You might want to go and take a tour of Dominic Kretzker’s house.	N
+399	399	00:22:23	00:22:25	I tracked down the sale of Snoozewell clocks.	N
+400	400	00:22:25	00:22:29	926 credit card purchases in the last three months in Clark County.	N
+401	401	00:22:29	00:22:32	Seven to Dominic Kretzker of Prairie Road.	N
+402	402	00:22:59	00:23:01	Hey, hey. That your scanner?	N
+403	403	00:23:01	00:23:04	Yeah, that’s how I knew you were coming.	N
+404	404	00:23:04	00:23:06	Makes me feel like I’m part of things.	N
+405	405	00:23:06	00:23:08	Mr. Grissom.	N
+406	406	00:23:08	00:23:10	What can I do for you guys?	N
+407	407	00:23:10	00:23:15	Dominic... this is the type of device that was used to set off the Hansen bomb.	N
+408	408	00:23:15	00:23:19	We have proof that you purchased the same make of clock.	N
+409	409	00:23:19	00:23:22	Yeah, yeah, I recognize that.	N
+410	410	00:23:22	00:23:24	That houses a nice little detonator.	N
+411	411	00:23:24	00:23:27	Want to show us that clock of yours?	N
+412	412	00:23:27	00:23:29	Oh, sure. Come on in.	N
+413	413	00:23:32	00:23:34	The place is kind of a mess. Sorry.	N
+414	414	00:23:34	00:23:35	Here.	N
+415	415	00:23:35	00:23:38	Here it is.	N
+416	416	00:23:39	00:23:41	TimeTell Snoozewell.	N
+417	417	00:23:41	00:23:43	$10.99.	N
+418	418	00:23:43	00:23:46	Well, you can get it for half price if you’ve got a coupon.	N
+419	419	00:23:46	00:23:48	The timing device is still intact.	N
+420	420	00:23:48	00:23:50	Yeah, ’cause I haven’t made the bomb yet.	N
+421	421	00:23:50	00:23:53	But you have made bombs before, using parts from this make?	N
+422	422	00:23:53	00:23:54	Well, yeah.	N
+423	423	00:23:54	00:23:57	Yeah, I blow them out in back all the time.	N
+424	424	00:23:57	00:23:59	I blasted a few of them a couple months ago.	N
+425	425	00:23:59	00:24:02	Hey, look what I found.	N
+426	426	00:24:02	00:24:02	Sulfur.	N
+427	427	00:24:02	00:24:05	You blow up any bombs recently?	N
+428	428	00:24:10	00:24:11	Is this from the Hansen bomb?	N
+429	429	00:24:11	00:24:13	Sure is.	N
+430	430	00:24:13	00:24:15	You’re keeping a key piece of evidence that could nail you?	N
+431	431	00:24:15	00:24:17	Hey, that’s sentimental.	N
+432	432	00:24:17	00:24:19	Well, that’s cute.	N
+433	433	00:24:19	00:24:20	No, I mean, it is.	N
+434	434	00:24:20	00:24:23	That’s like, you know, Waco and Trade Center.	N
+435	435	00:24:23	00:24:25	I mean, that’s historical.	N
+436	436	00:24:25	00:24:27	I didn’t have a war, all right?	N
+437	437	00:24:27	00:24:28	I’m too flatfooted for the P.D.	N
+438	438	00:24:28	00:24:30	and that’s as close to history as I’m going to get.	N
+439	439	00:24:30	00:24:31	I collect souvenirs.	N
+440	440	00:24:31	00:24:33	I mean, th-that’s my building, you know.	N
+441	441	00:24:33	00:24:37	I mean... that was my place of employment, man.	N
+442	442	00:24:37	00:24:40	You’re going to be sorry, talking to my client.	N
+443	443	00:24:40	00:24:41	We called you. We left word.	N
+444	444	00:24:41	00:24:43	Dominic, don’t speak.	N
+445	445	00:24:43	00:24:45	If I had anything to hide, I’d hide it.	N
+446	446	00:24:45	00:24:48	I’m pretty proud of that container piece, I’ll tell you.	N
+447	447	00:24:48	00:24:51	Well, maybe so but you’re under arrest.	N
+448	448	00:24:51	00:24:53	Put him in the car.	N
+449	449	00:24:53	00:24:55	You-you kidding?	N
+450	450	00:24:56	00:24:57	Oh.	N
+451	451	00:24:59	00:25:00	( siren approaching ) Cuffs?	N
+452	452	00:25:00	00:25:04	Those vultures never sleep, huh?	N
+453	453	00:25:06	00:25:08	Could you do me a favor?	N
+454	454	00:25:08	00:25:10	Can you put the jacket over them?	N
+455	455	00:25:10	00:25:12	I don’t want to be seen like this.	N
+456	456	00:25:12	00:25:13	Not on TV.	N
+457	457	00:25:13	00:25:15	This is not who I am.	N
+458	458	00:25:18	00:25:20	Thanks, partner.	N
+459	459	00:25:23	00:25:29	I can’t tell whether he’s brilliant or... nuts.	N
+460	460	00:25:29	00:25:30	Sound familiar?	N
+461	461	00:25:30	00:25:34	Tell you one thing if he’s guilty he’s putting on one hell of a show.	N
+462	462	00:26:10	00:26:13	Polyethylene? Terephtalete?	N
+463	463	00:26:21	00:26:23	You contact her family?	N
+464	464	00:26:23	00:26:25	No family to speak of.	N
+465	465	00:26:25	00:26:27	Has anyone claimed her?	N
+466	466	00:26:27	00:26:29	For burial? Friend, old roommate?	N
+467	467	00:26:29	00:26:30	There’s no one.	N
+468	468	00:26:30	00:26:31	City’ll be footing the bill.	N
+469	469	00:26:35	00:26:37	No, I’ll pay.	N
+470	470	00:26:37	00:26:39	Sure that’s prudent given the circumstances?	N
+471	471	00:26:39	00:26:43	Doc, I’m giving this girl a proper burial.	N
+472	472	00:26:44	00:26:46	I don’t much care about my career right now.	N
+473	473	00:26:46	00:26:49	Someone wants to throw me in jail for that so be it.	N
+474	474	00:26:56	00:27:01	How you doing? Just kind of using the current experience to understand the other side of law enforcement.	N
+475	475	00:27:01	00:27:03	That’s resourceful.	N
+476	476	00:27:03	00:27:06	You think I’m guilty, don’t you?	N
+477	477	00:27:06	00:27:11	I think the evidence raises some serious questions about your involvement.	N
+478	478	00:27:11	00:27:12	That is crazy.	N
+479	479	00:27:12	00:27:13	I mean, come on.	N
+480	480	00:27:13	00:27:15	I’m one of the good guys.	N
+481	481	00:27:15	00:27:17	The cops went through my things.	N
+482	482	00:27:17	00:27:18	They find anything?	N
+483	483	00:27:18	00:27:19	Dominic, you have an attorney now.	N
+484	484	00:27:19	00:27:21	I can’t really talk to you about the case.	N
+485	485	00:27:21	00:27:26	I was here on another matter and I thought I’d come by.	N
+486	486	00:27:26	00:27:27	You do what I do.	N
+487	487	00:27:27	00:27:28	Excuse me?	N
+488	488	00:27:28	00:27:35	You don’t just like, stop by to see someone, you... make up excuse like I’m in the area, just stopping by.	N
+489	489	00:27:35	00:27:38	Wow, you’re just like me.	N
+490	490	00:27:38	00:27:41	Except better-looking.	Y
+491	491	00:27:41	00:27:44	I’ll come by and see you later, okay?	Y
+492	492	00:27:44	00:27:45	Okay.	N
+493	493	00:27:51	00:27:53	What? Bad news.	N
+494	494	00:27:53	00:27:54	Another Fourth of July.	N
+495	495	00:27:54	00:27:57	Where? Thrift-Right Car Rental on Flamingo.	N
+496	496	00:27:57	00:27:58	Ten minutes ago.	N
+497	497	00:28:08	00:28:12	So, the manager was working the lot when he heard the blast.	N
+498	498	00:28:12	00:28:17	Fatality was on the check-in line and died on the way to the hospital.	N
+499	499	00:28:17	00:28:19	Anybody report hearing a noise? Ticking?	N
+500	500	00:28:19	00:28:20	No, no one heard anything.	N
+501	501	00:28:20	00:28:24	Ah, it’s not the firemen it’s the rain. This crime scene is trashed.	N
+502	502	00:28:30	00:28:32	What do you have?	N
+503	503	00:28:32	00:28:34	Form follows function.	N
+504	504	00:28:34	00:28:36	They’ve never been able to make a better one.	N
+505	505	00:28:36	00:28:38	Mousetrap.	N
+506	506	00:28:38	00:28:40	That orange stuff again.	N
+507	507	00:28:40	00:28:45	Someone picks it up, motion trips the trap, sets off the timer.	N
+508	508	00:28:45	00:28:48	Which sets off the bomb.	N
+509	509	00:28:53	00:28:56	Be right back.	N
+510	510	00:28:56	00:28:57	We say nothing to the media or anybody.	N
+511	511	00:28:57	00:29:00	Our bomber’s signature just got a little more sophisticated.	Y
+512	512	00:29:00	00:29:02	Excuse me.	Y
+513	513	00:29:02	00:29:03	Hi, I’m with the Crime Lab.	N
+514	514	00:29:03	00:29:06	I’m sorry, but I have to take your jacket.	N
+515	515	00:29:06	00:29:09	Um... okay.	Y
+516	516	00:29:09	00:29:10	If it’ll help.	N
+517	517	00:29:10	00:29:12	Thanks.	N
+518	518	00:29:15	00:29:17	What are you doing?	N
+519	519	00:29:17	00:29:20	Polyethylene-terephtalete.	Y
+520	520	00:29:20	00:29:21	Polyester.	Y
+521	521	00:29:21	00:29:23	Orange stuff.	N
+522	522	00:29:25	00:29:28	You’re free to go.	Y
+523	523	00:29:28	00:29:30	I wanted to tell you in person.	Y
+524	524	00:29:30	00:29:32	You mean, you weren’t just in the neighborhood?	Y
+525	525	00:29:32	00:29:35	That second bomb-- it wasn’t remote, was it?	Y
+526	526	00:29:35	00:29:36	Otherwise I’d still be a suspect.	N
+527	527	00:29:36	00:29:38	I can’t discuss it.	Y
+528	528	00:29:38	00:29:42	So I guess you’re not going to be needing my expertise anymore.	Y
+529	529	00:29:42	00:29:44	I mean, investigation-wise.	Y
+530	530	00:29:44	00:29:47	I knew it was too good to be true.	N
+531	531	00:29:47	00:29:51	Well, proud to have worked with you, sir.	Y
+532	532	00:29:51	00:29:53	Dominic... I’m not a police officer.	Y
+533	533	00:29:53	00:29:55	I-I-I’m a crime scene analyst.	N
+534	534	00:29:55	00:29:58	Yeah, but we know who really solves the crimes, don’t we, sir?	Y
+535	535	00:29:58	00:30:01	Good luck.	Y
+536	536	00:30:01	00:30:02	Take care of yourself.	Y
+537	537	00:30:02	00:30:03	Thank you.	Y
+538	538	00:30:06	00:30:08	Hey, Dom?	N
+539	539	00:30:08	00:30:13	Yeah? Next time try not to be quite so trusting.	Y
+540	540	00:30:13	00:30:15	You don’t need to be a hero.	N
+541	541	00:30:24	00:30:26	I ran priors.	Y
+542	542	00:30:26	00:30:30	The guy’s got an ’88 conviction for sexual assault.	Y
+543	543	00:30:30	00:30:33	Boy, if I ever get in trouble, I know which CSI I’m going to.	Y
+544	544	00:30:35	00:30:38	Let’s watch the show.	N
+545	545	00:30:44	00:30:48	How would you characterize your relationship with Kristy Hopkins?	N
+546	546	00:30:48	00:30:50	Oh, sir, we can just cut the crap.	N
+547	547	00:30:50	00:30:52	I saw him kill Kristy.	N
+548	548	00:30:52	00:30:54	I saw everything.	N
+549	549	00:30:54	00:30:55	Go on.	N
+550	550	00:30:55	00:30:58	Well, Kristy and I, we had words.	N
+551	551	00:30:58	00:31:02	I was swinging by her place to tell her I was sorry but, uh...	N
+552	552	00:31:04	00:31:07	I didn’t expect to see her with a guy.	N
+553	553	00:31:07	00:31:08	They were fighting.	N
+554	554	00:31:08	00:31:12	I couldn’t make out what they were saying but he was pushing her around pretty hard.	N
+555	555	00:31:14	00:31:16	Could you I.D. this guy? Yeah.	N
+556	556	00:31:16	00:31:18	It was like, Nick something.	N
+557	557	00:31:18	00:31:22	Kristy and I bumped into him at The Orpheus earlier.	N
+558	558	00:31:22	00:31:23	And you saw him kill her?	N
+559	559	00:31:23	00:31:27	Well, I saw him get violent, but then I took off.	N
+560	560	00:31:27	00:31:29	And you didn’t try to help the girl?	N
+561	561	00:31:29	00:31:31	He’s one of you guys.	N
+562	562	00:31:31	00:31:33	He carries a gun.	N
+563	563	00:31:33	00:31:35	I’m no hero.	N
+564	564	00:31:39	00:31:41	So can I go?	N
+565	565	00:31:43	00:31:46	Yeah.	N
+566	566	00:31:47	00:31:50	The witness sounds believable.	N
+567	567	00:31:50	00:31:52	It’s a load of crap and you know it.	N
+568	568	00:31:52	00:31:54	I was listening.	N
+569	569	00:31:54	00:31:56	He seemed credible to me.	N
+570	570	00:31:56	00:31:59	Sheriff, you arrest Nick now you end his career.	N
+571	571	00:31:59	00:32:01	So what can you offer me?	N
+572	572	00:32:01	00:32:04	Nothing, except my gut and ten years of experience.	N
+573	573	00:32:04	00:32:05	He didn’t do this.	N
+574	574	00:32:05	00:32:10	Ignore the evidence against Stokes it looks like special favors for CSI.	N
+575	575	00:32:10	00:32:11	Well, I can’t have that.	N
+576	576	00:32:11	00:32:12	Not and keep my post.	N
+577	577	00:32:12	00:32:17	So give me 12 hours, access to the crime scene and evidence without filing papers on Nick.	N
+578	578	00:32:17	00:32:20	12 hours.	N
+579	579	00:32:20	00:32:26	But then we arrest Mr. Stokes with all the attendant documentation.	N
+580	580	00:32:40	00:32:42	How you doing, Greg?	N
+581	581	00:32:42	00:32:43	Same as you.	N
+582	582	00:32:43	00:32:44	Yeah. Worried about Nick.	N
+583	583	00:32:44	00:32:47	I need to see his DNA from the crime scene.	N
+584	584	00:32:47	00:32:48	You have it, right?	N
+585	585	00:32:48	00:32:50	A sample from the condom, yeah.	N
+586	586	00:32:50	00:32:52	Popsicled in the freezer.	N
+587	587	00:32:52	00:32:54	But, uh, it’s not your case.	N
+588	588	00:32:54	00:32:57	Much as I want to help, no can do.	N
+589	589	00:32:57	00:32:59	It’s my case for the next 12 hours.	N
+590	590	00:32:59	00:33:02	Ask the Sheriff.	N
+591	591	00:33:02	00:33:04	You know, I would never doubt your word.	Y
+592	592	00:33:04	00:33:06	Smart man.	Y
+593	593	00:33:13	00:33:15	Nick’s little soldiers.	N
+594	594	00:33:15	00:33:17	It’s all you.	N
+595	595	00:33:17	00:33:20	Thanks, Greg.	N
+596	596	00:33:20	00:33:24	When did you say this sample was frozen?	N
+597	597	00:33:24	00:33:25	15 a.m.	N
+598	598	00:33:25	00:33:26	Why?	N
+599	599	00:33:26	00:33:30	These guys are all heads, no tails.	N
+600	600	00:33:30	00:33:33	That’s normal, given the post-ejaculate time frame.	N
+601	601	00:33:33	00:33:35	How is that going to help Nick?	N
+602	602	00:33:35	00:33:40	The sperm found 15 a.m.	N
+603	603	00:33:40	00:33:42	It’s all heads, no tails.	N
+604	604	00:33:42	00:33:44	I’m not quite up to speed on the particulars of...	N
+605	605	00:33:44	00:33:50	It takes about seven hours for bacteria to eat away at the tails 00 a.m.	N
+606	606	00:33:50	00:33:52	00 a.m.	N
+607	607	00:33:52	00:33:59	Well, it suggests a lag between ejaculation and Kristy’s murder but it doesn’t disprove Nick’s presence at the time of the homicide.	Y
+608	608	00:33:59	00:34:01	You could be a little more supportive.	N
+609	609	00:34:03	00:34:05	I have a new favorite color.	N
+610	610	00:34:05	00:34:10	Orange? The orange polyester from the bomb is a match to the Thrift-Right jacket.	N
+611	611	00:34:10	00:34:13	Guess where their regional headquarters is located.	N
+612	612	00:34:13	00:34:14	The Hansen Building. You bet.	N
+613	613	00:34:14	00:34:20	I ran a Lexis search looking for disgruntled employees, irate customers anyone with a grievance against Thrift-Right.	N
+614	614	00:34:20	00:34:22	You get any hits? Norman Stirling.	N
+615	615	00:34:22	00:34:24	Former manager.	N
+616	616	00:34:24	00:34:27	How disgruntled? Let go last year.	N
+617	617	00:34:27	00:34:28	Caused a commotion at H.Q.	N
+618	618	00:34:28	00:34:31	Filed lawsuits against the company.	N
+619	619	00:34:31	00:34:33	Guy’s been out of work ever since.	N
+620	620	00:34:33	00:34:36	Sitting around making bombs.	N
+621	621	00:34:42	00:34:44	Norman Stirling?	N
+622	622	00:34:44	00:34:47	Yes.	N
+623	623	00:34:47	00:34:49	What’s going on?	N
+624	624	00:34:49	00:34:51	FP.	N
+625	625	00:34:51	00:34:53	What?	N
+626	626	00:34:53	00:34:55	You don’t recognize those initials?	N
+627	627	00:34:58	00:35:00	What’s this about?	N
+628	628	00:35:00	00:35:01	The bombing of the Thrift-Right Car Rental.	N
+629	629	00:35:01	00:35:03	The bombing of the Hansen Building.	N
+630	630	00:35:03	00:35:05	A-A bomb? Are you kidding?	N
+631	631	00:35:05	00:35:08	I’ve never even been near a bomb my entire life.	N
+632	632	00:35:08	00:35:14	Well, those orange jackets over there appear to match the materials the bombs were wrapped in.	Y
+633	633	00:35:14	00:35:16	I used to wear those to go to work.	Y
+634	634	00:35:16	00:35:20	You were let go by Thrift-Right last year, and lost a court battle to get your job back.	N
+635	635	00:35:20	00:35:26	In fact, they filed a TRO against you for throwing furniture around their headquarters last July.	N
+636	636	00:35:26	00:35:28	I want to call my lawyer.	N
+637	637	00:35:28	00:35:30	Good, you can call him from the car.	N
+638	638	00:35:30	00:35:31	He can meet us at the PD.	N
+639	639	00:35:31	00:35:32	Take him in. Come on, let’s go.	N
+640	640	00:35:32	00:35:33	Call your mom.	N
+641	641	00:36:47	00:36:50	Kristy Hopkins was strangled with this sash.	N
+642	642	00:36:50	00:36:56	It’s fingerprint-free, but the force of the pull would have scratched off epithelials from the killer’s hands, right?	N
+643	643	00:36:56	00:36:59	Abraded, yeah. And can you extract DNA from epithelials?	N
+644	644	00:36:59	00:37:00	If they’re fresh enough.	N
+645	645	00:37:16	00:37:20	Okay, epithelials are an affirmative.	Y
+646	646	00:37:20	00:37:22	And they’re good to go for DNA profiling.	Y
+647	647	00:37:22	00:37:25	I’m just going to need something to compare it to.	Y
+648	648	00:37:25	00:37:29	Jack Willman has a prior for a sexual assault so his DNA is on file.	Y
+649	649	00:37:40	00:37:42	Well?	N
+650	650	00:37:44	00:37:47	I think that you and I should head over to the police station.	Y
+651	651	00:37:49	00:37:52	DNA didn’t pan out, huh?	Y
+652	652	00:37:52	00:37:55	Never have I seen such a clean match.	N
+653	653	00:37:57	00:37:58	Jack Willman killed her.	N
+654	654	00:38:11	00:38:13	Thank you.	N
+655	655	00:38:13	00:38:14	Hey...	N
+656	656	00:38:14	00:38:17	Hey, I’m just doing my job.	Y
+657	657	00:38:17	00:38:22	Besides, if they’d sent you to jail I’d get stuck with all your cases.	Y
+658	658	00:38:27	00:38:29	Dispatch said you were looking for me?	Y
+659	659	00:38:29	00:38:30	Yeah.	Y
+660	660	00:38:30	00:38:33	I finally matched this FP.	N
+661	661	00:38:33	00:38:35	To this electric etcher.	N
+662	662	00:38:35	00:38:36	Now, I made an exemplar.	N
+663	663	00:38:36	00:38:37	Boom!	N
+664	664	00:38:37	00:38:39	Identical type of striations.	Y
+665	665	00:38:39	00:38:45	The manufacturer says that this etcher is only used for training purposes.	Y
+666	666	00:38:45	00:38:47	And it’s only sold in bulk.	N
+667	667	00:38:47	00:38:50	It was not sold to Norman Stirling.	N
+668	668	00:38:50	00:38:53	So who bought it?	Y
+669	669	00:38:53	00:38:55	Las Vegas School District.	N
+670	670	00:38:55	00:38:58	I called the district and we traced it down to one high school-- Summit High.	N
+671	671	00:38:58	00:39:03	Stirling’s son goes there.	Y
+672	672	00:39:03	00:39:12	Tyler, were you aware of your father’s lawsuits against Thrift-Right Car Rental?	Y
+673	673	00:39:12	00:39:14	Yeah. It was kind of hard not to be.	N
+674	674	00:39:14	00:39:19	I mean, it’s all him and my mom talked about for a year.	N
+675	675	00:39:20	00:39:22	Until she left.	Y
+676	676	00:39:22	00:39:24	Do you miss your mother?	N
+677	677	00:39:26	00:39:28	I miss our old life.	Y
+678	678	00:39:31	00:39:34	Is there something that we should be talking about?	N
+679	679	00:39:34	00:39:35	You know, in private?	N
+680	680	00:39:35	00:39:39	You said that’s how corporations do it--in private.	N
+681	681	00:39:41	00:39:45	See, they treated him great at work, in front of everyone.	N
+682	682	00:39:45	00:39:48	And then they let him go at the end of the day when no one’s around.	N
+683	683	00:39:48	00:39:50	Thirty years of service and then...	N
+684	684	00:39:50	00:39:54	you know, they realized they could hire two young guys at half the price.	N
+685	685	00:39:54	00:39:58	What does FP stand for?	N
+686	686	00:39:59	00:40:02	It was etched into both bombs.	N
+687	687	00:40:02	00:40:06	We think you engraved it with an implement from your high school shop class.	N
+688	688	00:40:10	00:40:12	Fair Play.	N
+689	689	00:40:20	00:40:24	I used to yell that around the house that I was owed fair play.	N
+690	690	00:40:24	00:40:27	I mean, they threw him out like trash.	N
+691	691	00:40:27	00:40:29	And you sent them bombs?	N
+692	692	00:40:29	00:40:34	You said you wanted to kill them.	N
+693	693	00:40:39	00:40:41	How did you even know how to do this?	N
+694	694	00:40:43	00:40:45	Off the Internet.	N
+695	695	00:40:48	00:40:50	Dad, are you mad at me?	N
+696	696	00:40:53	00:40:54	I did it for you.	N
+697	697	00:40:54	00:40:57	Tyler, did you make any more bombs?	N
+698	698	00:40:59	00:41:01	Where are they?	N
+699	699	00:41:01	00:41:03	Where are you keeping them?	N
+700	700	00:41:09	00:41:11	Tyler...	N
+701	701	00:41:11	00:41:15	if you did this for me...	N
+702	702	00:41:15	00:41:17	please tell them where they are.	Y
+703	703	00:41:20	00:41:24	( man over dispatch ) Victor 9, Victor 9, report to Summit High School.	Y
+704	704	00:41:24	00:41:27	Prairie road.	Y
+705	705	00:41:27	00:41:33	Reported bomb outside Classroom 22B in Locker 897.	Y
+706	706	00:41:34	00:41:37	Bomb is trigger-activated and motion-delayed.	N
+707	707	00:41:37	00:41:38	Do not handle.	N
+708	708	00:41:38	00:41:43	Students and faculty and all school personnel please exit the building immediately.	Y
+709	709	00:41:43	00:41:45	Security Detail, let’s go!	Y
+710	710	00:41:45	00:41:47	I need Classroom 22B.	Y
+711	711	00:41:47	00:41:48	Second floor! Where’s 22B?	N
+712	712	00:41:48	00:41:49	Come on, people!	N
+713	713	00:41:55	00:41:57	Come on, people, don’t run.	Y
+714	714	00:42:03	00:42:08	All students and faculty please exit the facilities immediately.	Y
+715	715	00:42:26	00:42:29	Get out of my way, people.	N
+716	716	00:42:29	00:42:34	Come around me.	N
+717	717	00:42:45	00:42:46	Dominic, stop!	N
+718	718	00:42:46	00:42:47	Stop right there. Put it down!	N
+719	719	00:42:47	00:42:49	No, it’s all right. Everyone’s safe.	N
+720	720	00:42:49	00:42:52	No, no, no, drop it. It’s active!	N
+721	721	00:43:13	00:43:15	Hi. Just the guy I wanted to see.	N
+722	722	00:43:15	00:43:17	O’Riley.	N
+723	723	00:43:19	00:43:20	Tell me why you did it.	N
+724	724	00:43:20	00:43:22	I got nothing to say to you, cowboy.	N
+725	725	00:43:24	00:43:29	She was going back to college, turning her life around getting out of the business, and you killed her for it!	N
+726	726	00:43:29	00:43:30	Why?	N
+727	727	00:43:30	00:43:31	Is that what she told you?	N
+728	728	00:43:31	00:43:33	She was getting out of the business?	N
+729	729	00:43:33	00:43:36	She was going to college to recruit more girls.	N
+730	730	00:43:36	00:43:39	Do you think I’m going to believe the john that killed her?	N
+731	731	00:43:39	00:43:41	Oh, and you think I was her client?	N
+732	732	00:43:41	00:43:42	I was her pimp.	N
+733	733	00:43:44	00:43:48	She was leaving me to start her own racket.	N
+734	734	00:43:48	00:43:50	So wake up. This isn’t Pretty Woman.	N
+735	735	00:43:50	00:43:51	She’s not Julia Roberts.	N
+736	736	00:43:51	00:43:53	You’re not Richard Gere.	N
+737	737	00:43:53	00:43:54	Yeah, yeah, yeah.	N
+738	738	00:43:54	00:43:56	I guess you’re right.	N
+739	739	00:43:56	00:44:00	Because there’s no happy ending for you.	N
+740	740	00:44:00	00:44:03	Twenty-five to life.	N
+741	741	00:44:03	00:44:05	Get him out of here.	N
+742	742	00:44:18	00:44:21	Above the fold.	N
