@@ -1,0 +1,603 @@
+	start	end	text	label
+0	00:00:08	00:00:09	Five! Baby, go!	N
+1	00:00:09	00:00:11	Seven. Whoo!	N
+2	00:00:28	00:00:30	Changing $100.	N
+3	00:00:30	00:00:32	Change $100, go ahead.	N
+4	00:00:44	00:00:46	Section G-3, all clear.	N
+5	00:00:46	00:00:49	En route to H-4 then Soft Count.	Y
+6	00:01:17	00:01:18	Section G-4.	N
+7	00:01:18	00:01:20	Security Three intersect at G-5.	Y
+8	00:01:20	00:01:22	Contain! Contain!	Y
+9	00:01:34	00:01:35	And the body count?	Y
+10	00:01:35	00:01:37	Five guards, three civilians wounded.	Y
+11	00:01:37	00:01:38	One dead bad guy.	Y
+12	00:01:38	00:01:44	Armed robbers snatched the lock boxes from the two high-stakes tables right off the rolling cage.	Y
+13	00:01:44	00:01:45	Cash on wheels.	Y
+14	00:01:45	00:01:47	Busiest time of night.	Y
+15	00:01:47	00:01:49	Three women-- organized and muscled.	Y
+16	00:01:49	00:01:50	Small time crooks, Jim.	N
+17	00:01:50	00:01:53	Hey, they got away with 250 K.	N
+18	00:01:53	00:01:56	That's a mere pittance to a Vegas casino.	Y
+19	00:01:56	00:01:59	Cashiers alone are sitting on a million and change.	N
+20	00:01:59	00:02:03	Small time or not these ladies are dangerous.	N
+21	00:02:06	00:02:08	Dangerous, yes.	N
+22	00:02:08	00:02:10	Ladies...	N
+23	00:02:12	00:02:13	no.	N
+24	00:02:58	00:03:02	These guys packed enough .45 caliber ammo for a small army.	N
+25	00:03:02	00:03:05	Security managed to return a few rounds.	N
+26	00:03:05	00:03:06	Nine millimeter.	N
+27	00:03:06	00:03:10	Less than a year ago security couldn't even carry guns.	Y
+28	00:03:10	00:03:12	Times have changed.	N
+29	00:03:12	00:03:13	Yeah.	N
+30	00:03:14	00:03:16	The same M.O. as Laughlin.	N
+31	00:03:16	00:03:20	Last month, Cottage Casino, men dressed as women shot the place to hell.	Y
+32	00:03:20	00:03:21	In and out in under five.	Y
+33	00:03:21	00:03:23	My bet was that that was the practice run.	Y
+34	00:03:23	00:03:25	And the more you practice...	N
+35	00:03:25	00:03:27	I don't know what the hell's going on with the world.	Y
+36	00:03:27	00:03:29	Everything's crazy.	Y
+37	00:03:29	00:03:30	I risk my life just coming into work.	N
+38	00:03:30	00:03:32	Makes you miss the mob days, huh?	N
+39	00:03:32	00:03:34	Back then, this never would've happened.	Y
+40	00:03:34	00:03:40	And if it did, those scumbags, they'd be dead, every last one of them and we would never know about it.	Y
+41	00:03:40	00:03:44	Mister... Mr. Duncan-- take a deep breath and tell us what happened.	N
+42	00:03:44	00:03:48	We'd just made a money transfer to the rolling cages.	Y
+43	00:03:48	00:03:51	Then, bang-- the chandelier comes crashing down.	Y
+44	00:03:51	00:03:53	Sounded like an explosion.	Y
+45	00:03:53	00:03:56	So I dropped to my knees-- took cover.	Y
+46	00:03:56	00:03:57	Anything else?	N
+47	00:03:57	00:04:00	Yeah, I started praying for the gunfire to stop.	N
+48	00:04:00	00:04:01	Okay. Thanks a lot.	N
+49	00:04:01	00:04:05	And check in with triage before you leave.	Y
+50	00:04:06	00:04:08	Well, that was helpful.	N
+51	00:04:08	00:04:11	Actually, it was.	Y
+52	00:04:11	00:04:14	Gives us a starting point.	N
+53	00:04:14	00:04:16	The falling chandelier distracts the guards.	N
+54	00:04:16	00:04:17	Makes them easy targets.	N
+55	00:04:19	00:04:22	The armed robbers load up, head for the exits...	N
+56	00:04:22	00:04:24	Quick escape.	N
+57	00:04:24	00:04:29	Chaos moving in one direction the money moving in the other.	N
+58	00:04:35	00:04:38	Can you imagine living out here?	N
+59	00:04:38	00:04:39	It's peaceful.	N
+60	00:04:39	00:04:41	Peaceful?	N
+61	00:04:41	00:04:43	The town just lost five percent of its population.	N
+62	00:04:43	00:04:47	I thought you said this was a single homicide.	N
+63	00:04:47	00:04:50	Yeah, in a population of 20.	Y
+64	00:04:52	00:04:53	We made it.	N
+65	00:04:53	00:04:54	State trooper.	N
+66	00:05:07	00:05:10	Two hours to drive 75 miles.	N
+67	00:05:10	00:05:13	You guys got lost.	Y
+68	00:05:13	00:05:14	What's the rush?	Y
+69	00:05:14	00:05:17	Crime scene's not going anywhere.	Y
+70	00:05:17	00:05:18	Yeah, but I am.	Y
+71	00:05:18	00:05:20	Body's behind the counter.	Y
+72	00:05:20	00:05:23	Dustin Bale-- store clerk.	Y
+73	00:05:23	00:05:24	Bullet through the chest.	Y
+74	00:05:24	00:05:25	The register's empty.	Y
+75	00:05:25	00:05:28	Officer Spencer... did you touch anything?	N
+76	00:05:28	00:05:29	14 years as a state trooper.	N
+77	00:05:29	00:05:32	I know how to secure a crime scene without contaminating the evidence.	N
+78	00:05:32	00:05:34	Sorry.	N
+79	00:05:34	00:05:36	It's okay.	N
+80	00:05:36	00:05:38	Look, I cover 97.5 square miles.	N
+81	00:05:38	00:05:39	I got to book.	N
+82	00:06:01	00:06:02	Vomit?	N
+83	00:06:08	00:06:10	Not an expectorate.	N
+84	00:06:10	00:06:11	Potato.	N
+85	00:06:11	00:06:12	Blown to smithereens.	N
+86	00:06:12	00:06:15	A poor man's silencer.	N
+87	00:06:18	00:06:23	Now, why would an assailant need a silencer way out here?	N
+88	00:06:41	00:06:45	Last paying customer-- eight hours ago.	N
+89	00:06:45	00:06:47	We just got the call.	N
+90	00:06:47	00:06:49	The place is open 24/seven.	N
+91	00:06:49	00:06:51	Why'd it take so long?	N
+92	00:06:51	00:06:56	The assailant flipped the sign on the way out buying him time to get away.	N
+93	00:06:58	00:07:03	But now without getting his picture taken first.	N
+94	00:07:16	00:07:18	It's plastic.	Y
+95	00:07:18	00:07:20	You're joking.	Y
+96	00:07:21	00:07:24	Nine volt attached to a blinking light.	Y
+97	00:07:24	00:07:29	Real or fake, it didn't work.	Y
+98	00:07:29	00:07:31	There was three of them.	N
+99	00:07:31	00:07:38	They come from around the corner, guns drawn I think they came from over there.	N
+100	00:07:38	00:07:39	There were two of them.	N
+101	00:07:39	00:07:42	I said four.	N
+102	00:07:42	00:07:44	There were four of those lunatics.	N
+103	00:07:44	00:07:45	They were everywhere.	N
+104	00:07:45	00:07:46	Right.	N
+105	00:07:46	00:07:47	Write it down.	N
+106	00:07:47	00:07:48	I got it. Thank you very much.	N
+107	00:07:48	00:07:49	Excuse me.	N
+108	00:07:51	00:07:52	I've interviewed 17 people.	N
+109	00:07:52	00:07:54	No two accounts are alike.	N
+110	00:07:54	00:07:56	A Harvard professor conducted an experiment.	N
+111	00:07:56	00:08:00	Asked a bunch of students to watch a basketball game-- count the number of times the ball was passed.	N
+112	00:08:00	00:08:02	Yeah. Groundbreaking.	N
+113	00:08:02	00:08:06	During the game a person dressed in a gorilla suit ran across the court.	N
+114	00:08:06	00:08:10	Afterwards, the professor asked his students if they noticed the gorilla.	N
+115	00:08:10	00:08:12	50% responded, What gorilla?	N
+116	00:08:12	00:08:13	That's wonderful, Gil.	Y
+117	00:08:13	00:08:15	If I see a gorilla, I'll arrest it.	Y
+118	00:08:17	00:08:20	The car was sitting right here.	N
+119	00:08:20	00:08:21	Did you get a good look at it?	N
+120	00:08:21	00:08:23	Make, model?	N
+121	00:08:23	00:08:25	No. It was beige, beat up.	N
+122	00:08:25	00:08:27	Hazards flashing.	N
+123	00:08:27	00:08:29	People leave their cars here all the time.	N
+124	00:08:29	00:08:31	I wait ten minutes then call for a tow.	N
+125	00:08:31	00:08:33	Car peel out?	N
+126	00:08:33	00:08:35	No. The driver gunned it but I didn't hear a screech.	N
+127	00:08:45	00:08:47	Smells like burnt wood.	Y
+128	00:08:47	00:08:49	Motor oil?	Y
+129	00:08:49	00:08:52	No. No, transmission fluid.	Y
+130	00:08:52	00:08:55	But it's brown, not red.	N
+131	00:08:55	00:08:56	Which means?	N
+132	00:08:56	00:08:59	It's not the right color.	N
+133	00:09:03	00:09:06	Extraction is an art, Albert.	N
+134	00:09:06	00:09:09	I like to think so.	N
+135	00:09:09	00:09:11	So this is our cross-dresser in the blue coat?	Y
+136	00:09:11	00:09:12	I.D.'d as Adam Brower.	Y
+137	00:09:12	00:09:16	Shot in the back with a hollow point-- close range.	N
+138	00:09:16	00:09:20	Mushroomed upon impact maximizing trauma.	N
+139	00:09:23	00:09:24	Caliber?	N
+140	00:09:24	00:09:27	Forty-five.	N
+141	00:09:27	00:09:31	The guards were armed with nine millimeters and they weren't hollow point.	N
+142	00:09:31	00:09:33	so...	N
+143	00:09:33	00:09:36	he was shot in the back by one of his own partners?	N
+144	00:09:36	00:09:38	Someone didn't want to share.	N
+145	00:09:44	00:09:47	Wow. A fumette.	N
+146	00:09:47	00:09:49	Did you get that out of some museum?	N
+147	00:09:49	00:09:50	Hey, don't knock it.	N
+148	00:09:50	00:09:53	It's still the best tool for lifting prints off cardboard.	N
+149	00:09:55	00:09:57	Blow and print.	N
+150	00:09:57	00:10:03	If you were in a hurry how would you get back there?	N
+151	00:10:03	00:10:06	Easy.	N
+152	00:10:06	00:10:07	Jump the counter.	N
+153	00:10:07	00:10:10	Exactly what I'm thinking.	N
+154	00:10:49	00:10:51	Shoe prints.	N
+155	00:10:51	00:10:53	Lay it out.	Y
+156	00:10:53	00:10:55	Suspect entered...	N
+157	00:10:58	00:11:00	shoots the clerk through the potato...	Y
+158	00:11:02	00:11:05	then hops up and over, leaving behind shoe prints...	Y
+159	00:11:05	00:11:07	grabs the cash...	N
+160	00:11:07	00:11:10	flips the sign from open to closed and exits.	N
+161	00:11:10	00:11:12	How old is the killer?	Y
+162	00:11:12	00:11:14	What are you thinking?	Y
+163	00:11:14	00:11:17	Shoe size is five, six tops.	Y
+164	00:11:17	00:11:20	We may be looking for a minor.	Y
+165	00:11:20	00:11:22	You want to see me?	Y
+166	00:11:22	00:11:23	Yeah.	N
+167	00:11:23	00:11:26	This is the video surveillance from the heist.	N
+168	00:11:26	00:11:30	This camera was trained on their entrance.	Y
+169	00:11:30	00:11:33	All the disguises in the world and they dress like women.	Y
+170	00:11:33	00:11:36	Ski masks are played out.	Y
+171	00:11:36	00:11:41	Red and Blue teamed up together and took out the guards in the rolling cage.	Y
+172	00:11:41	00:11:43	Black shot down that chandelier.	N
+173	00:11:43	00:11:47	Well, Blue's the decedent I.D.'d as Adam Brower...	Y
+174	00:11:47	00:11:49	so enlarge Red.	N
+175	00:11:51	00:11:55	No amount of makeup in the world could cover up that chunk of Adam's apple.	N
+176	00:11:55	00:11:58	That must be the one that killed Brower.	N
+177	00:11:58	00:12:00	.45 in the back at close range.	N
+178	00:12:03	00:12:06	No honor among thieves.	N
+179	00:12:06	00:12:08	Photoshop Black.	N
+180	00:12:10	00:12:12	No stubble...	N
+181	00:12:12	00:12:14	no Adam's apple.	N
+182	00:12:14	00:12:19	Dressed as a woman among men dressed as women.	N
+183	00:12:19	00:12:22	Now, see? That's a disguise.	N
+184	00:12:31	00:12:33	Fluorescent powders?	N
+185	00:12:33	00:12:36	Eh, why not? They're in the kit.	N
+186	00:12:36	00:12:38	Protocol's black.	N
+187	00:12:38	00:12:40	Since when do you care about my choice of powders?	N
+188	00:12:40	00:12:46	Assistant coroner is four hours late and we are stuck out here until he transports the body.	N
+189	00:12:46	00:12:48	And I haven't even heard from Grissom.	N
+190	00:12:48	00:12:52	I've never tried green. I should never have been sent to this remote scene in the first place.	N
+191	00:12:52	00:12:57	I've got seniority. I deserve-- no, I've earnedthe right to pick my cases.	N
+192	00:13:06	00:13:08	If I start eating, I will shut up.	N
+193	00:13:11	00:13:12	Do you have a mirror?	N
+194	00:13:12	00:13:15	Since when do you care about your appearance?	N
+195	00:13:18	00:13:20	I mean at a crime scene.	N
+196	00:13:20	00:13:23	It's not for me.	N
+197	00:13:23	00:13:24	Sorry.	N
+198	00:13:27	00:13:29	We can't touch it.	N
+199	00:13:29	00:13:30	I'm just getting a better look.	N
+200	00:13:39	00:13:41	Oh, thank God. It's about time.	N
+201	00:13:41	00:13:44	Nice to see you, too, Catherine.	N
+202	00:13:44	00:13:45	Well, I smell the body.	N
+203	00:13:45	00:13:47	Where is he? Hey, David.	N
+204	00:13:47	00:13:48	I wasn't touching him.	N
+205	00:13:48	00:13:50	I know you better than that.	N
+206	00:13:50	00:13:51	So, uh, what took you so long?	N
+207	00:13:51	00:13:54	I made a wrong turn back at the fork.	N
+208	00:14:04	00:14:06	You're a surfer now?	N
+209	00:14:06	00:14:08	Dude, I rip.	N
+210	00:14:08	00:14:12	We're 300 miles from the nearest beach.	N
+211	00:14:12	00:14:15	Surfing's just a state of mind.	N
+212	00:14:15	00:14:16	I got your page.	N
+213	00:14:16	00:14:17	Where's my report?	N
+214	00:14:17	00:14:18	Oh, relax, bro.	N
+215	00:14:18	00:14:20	The GC Mass Spec's working on it.	N
+216	00:14:20	00:14:21	Should be done, um...	N
+217	00:14:23	00:14:24	now.	N
+218	00:14:25	00:14:27	Transmission fluid.	N
+219	00:14:27	00:14:30	Yeah, thanks.	N
+220	00:14:30	00:14:34	Type F with Dexron.	N
+221	00:14:34	00:14:36	So...	N
+222	00:14:36	00:14:39	you should be reading Car &amp; Driver instead of Sand and Surf.	N
+223	00:14:39	00:14:43	Someone put the wrong type of fluid in the car's transmission.	Y
+224	00:14:43	00:14:47	See, Ford automobiles use a thick, red, Type F transmission fluid.	Y
+225	00:14:47	00:14:51	General Motors uses a thinner, yellow fluid with Dexron.	Y
+226	00:14:51	00:14:54	Now, when Dexron's put into a Ford it thins that Type F fluid.	Y
+227	00:14:54	00:14:56	Friction builds, gears grind.	N
+228	00:14:56	00:14:59	The second gear is usually the first to go.	N
+229	00:14:59	00:15:04	Friction causes the engine to overheat, in turn cooking the transmission fluid turning it brown.	N
+230	00:15:04	00:15:07	Leak on the pavement is the first clue you've got a problem.	N
+231	00:15:07	00:15:10	Congratulations-- you're looking for a Ford with a leak.	Y
+232	00:15:10	00:15:12	Not just a Ford.	N
+233	00:15:12	00:15:15	The getaway vehicle has a stubborn second gear.	N
+234	00:15:15	00:15:17	Which means it can't get very far.	N
+235	00:15:17	00:15:19	My guess is it's already been dumped.	N
+236	00:15:19	00:15:27	Before Mr. Brower dressed up as a woman and heisted a casino he was a janitor at an office park off Flamingo.	Y
+237	00:15:27	00:15:30	Before that, he was out of town.	N
+238	00:15:30	00:15:32	Fours years, grand larceny.	N
+239	00:15:34	00:15:36	Well, the manager's not in?	N
+240	00:15:36	00:15:38	I got a warrant.	Y
+241	00:15:38	00:15:39	I got a key.	Y
+242	00:15:47	00:15:49	Whoo, tidy little camper, isn't he?	N
+243	00:15:49	00:15:52	Yeah.	N
+244	00:15:59	00:16:00	What are we looking for?	N
+245	00:16:00	00:16:03	Anything that links Brower to his co-conspirators.	N
+246	00:16:14	00:16:15	Dirty laundry?	N
+247	00:16:15	00:16:20	I'm thinking trace elements in the clothes could tell us where he was before the heist.	N
+248	00:16:21	00:16:24	I'm going to take it all back to the lab.	N
+249	00:16:24	00:16:26	Okay.	N
+250	00:16:28	00:16:30	Let's see here...	N
+251	00:16:46	00:16:49	Well, while you're at it don't forget his wigs and bras.	N
+252	00:17:17	00:17:19	Anything on the shoe print?	Y
+253	00:17:19	00:17:21	Skechers. Adult size five.	Y
+254	00:17:21	00:17:22	Female.	N
+255	00:17:22	00:17:24	Well, at least we're not chasing a kid.	N
+256	00:17:24	00:17:26	How's the prints coming?	N
+257	00:17:26	00:17:27	You two lifted 82 suspect prints.	Y
+258	00:17:27	00:17:29	43 are partial.	Y
+259	00:17:29	00:17:32	We ID'd one from the open/closed sign.	Y
+260	00:17:32	00:17:33	Great. Not so great.	Y
+261	00:17:33	00:17:35	State trooper.	Y
+262	00:17:35	00:17:36	You got to be kidding me.	Y
+263	00:17:36	00:17:38	Officer Moron contaminated the scene.	Y
+264	00:17:38	00:17:42	Yep. Well, I'll just beef him to his captain.	N
+265	00:17:42	00:17:44	Tough. I like that.	N
+266	00:17:45	00:17:47	Match.	Y
+267	00:17:47	00:17:48	Print off the register.	Y
+268	00:17:48	00:17:49	What have you got?	N
+269	00:17:53	00:17:55	Tammy Felton.	N
+270	00:17:55	00:17:56	Who's Tammy Felton?	N
+271	00:17:56	00:18:02	A fugitive and clinical psychopath that Grissom and I put behind bars.	Y
+272	00:18:02	00:18:04	She tried to play me but I didn't bite.	Y
+273	00:18:10	00:18:14	Her biological parents posted bail and then she bailed on them.	N
+274	00:18:14	00:18:15	Biological parents?	N
+275	00:18:15	00:18:18	Tammy was kidnapped as a child.	N
+276	00:18:18	00:18:20	Raised by her kidnapper.	N
+277	00:18:20	00:18:23	When she found out the truth, she killed him.	N
+278	00:18:27	00:18:29	Hey, finish running the prints.	N
+279	00:18:30	00:18:32	Tammy uses people.	N
+280	00:18:32	00:18:33	She wasn't alone.	N
+281	00:18:34	00:18:36	Grissom!	N
+282	00:18:36	00:18:40	If you're going to badger me about your crime scene location, put it in a memo.	N
+283	00:18:40	00:18:42	You don't read memos.	N
+284	00:18:42	00:18:43	Do you remember Tammy Felton?	N
+285	00:18:43	00:18:45	I always remember the ones that get away.	N
+286	00:18:45	00:18:46	She's back.	N
+287	00:18:47	00:18:49	She's been to Cal Nev Ari.	Y
+288	00:18:49	00:18:52	She's a prime suspect in our convenience store homicide.	Y
+289	00:18:52	00:18:55	Grissom... I need you, ASAP.	N
+290	00:18:55	00:18:57	Please.	Y
+291	00:19:00	00:19:04	So, Ballistics sent me a bullet from the casino.	Y
+292	00:19:04	00:19:08	It's a .45, so we know it came from one of the ladies' guns.	Y
+293	00:19:08	00:19:10	And this is a special bullet?	N
+294	00:19:10	00:19:13	No, but there was a foreign substance adhered to it.	Y
+295	00:19:13	00:19:14	And the substance is special?	Y
+296	00:19:14	00:19:16	Not exactly.	N
+297	00:19:16	00:19:18	Just get to the point, Greg.	N
+298	00:19:18	00:19:20	Tomato, to-mah-to, potato...	Y
+299	00:19:20	00:19:21	Wait a second.	Y
+300	00:19:21	00:19:23	There was potato on the bullet?	Y
+301	00:19:23	00:19:25	You bet.	Y
+302	00:19:25	00:19:27	Strange, huh?	N
+303	00:19:27	00:19:31	There was potato on the bullet because there was potato inside the barrel of the gun.	Y
+304	00:19:31	00:19:33	This bullet is from myinvestigation.	N
+305	00:19:33	00:19:34	Right.	N
+306	00:19:34	00:19:41	One of your armed robbers may have used a potato as a silencer prior to the heist.	N
+307	00:19:45	00:19:47	Tammy Felton?	N
+308	00:19:47	00:19:48	Maybe.	Y
+309	00:19:48	00:19:51	Three armed robbers.	Y
+310	00:19:51	00:19:55	Adam Brower-- killed at the scene Tammy Felton...	N
+311	00:19:55	00:19:58	We're still one suspect short.	N
+312	00:19:58	00:20:01	Cath, got another match from the convenience store.	N
+313	00:20:01	00:20:04	The print on the outside doorknob belongs to an ex-con, Darin Hanson.	Y
+314	00:20:09	00:20:12	You know this guy, too?	N
+315	00:20:12	00:20:14	He ran with Tammy's father.	N
+316	00:20:14	00:20:16	Mostly from the law.	N
+317	00:20:16	00:20:18	So Tammy kills Dad...	N
+318	00:20:18	00:20:21	and she and Darin Hanson run off together.	N
+319	00:20:26	00:20:28	A regular Bonnie and Clyde.	N
+320	00:20:28	00:20:30	Just what Vegas needs.	N
+321	00:20:35	00:20:37	Let me see, Bobby.	N
+322	00:20:37	00:20:38	Yeah.	N
+323	00:20:38	00:20:41	Projectile on the left, .45 hollow point courtesy of Adam Brower's back.	N
+324	00:20:41	00:20:47	On the right a .45 hollow point extracted from Dustin Bale-- dead clerk at the convenience store.	N
+325	00:20:47	00:20:50	Bullets confirm the story told by the potato.	N
+326	00:20:50	00:20:52	Same gun. Two crimes. One case.	N
+327	00:20:52	00:20:54	Three suspects.	N
+328	00:20:54	00:20:55	Adam Brower, deceased.	N
+329	00:20:55	00:20:58	Tammy Felton, Darin Hanson, still at large.	N
+330	00:20:58	00:20:59	Hey, guys.	N
+331	00:20:59	00:21:01	I just got a call from Brass.	N
+332	00:21:01	00:21:04	We got a possible getaway vehicle off I-93.	N
+333	00:21:04	00:21:06	What makes you think it's the right car?	N
+334	00:21:06	00:21:09	It's beige abandoned, '77 Mercury Cougar.	N
+335	00:21:09	00:21:12	Mercury's a division of Ford.	N
+336	00:21:12	00:21:13	I'll drive.	N
+337	00:21:29	00:21:30	A trucker called it in.	N
+338	00:21:30	00:21:35	Well, if that's the getaway car there would have been a secondary vehicle parked nearby.	N
+339	00:21:35	00:21:37	Yeah. Check for treads, Jim?	N
+340	00:21:37	00:21:40	Yeah.	N
+341	00:21:40	00:21:41	Shall we?	N
+342	00:21:41	00:21:43	Let's go.	N
+343	00:21:56	00:21:59	If you were stashing a car, where would you hide it?	Y
+344	00:21:59	00:22:02	All these bushes would provide good cover.	Y
+345	00:22:04	00:22:05	Oh...	N
+346	00:22:05	00:22:08	check out that dirt displacement.	N
+347	00:22:08	00:22:09	Yeah.	N
+348	00:22:09	00:22:12	Skid mark; one tire.	N
+349	00:22:16	00:22:19	Where's the other one?	N
+350	00:22:19	00:22:21	There isn't one.	Y
+351	00:22:26	00:22:31	Dirt to pavement then the trail goes cold.	Y
+352	00:22:33	00:22:35	No damage. This car was barely moving.	N
+353	00:22:35	00:22:37	It was dumped.	N
+354	00:22:38	00:22:39	Detail...	Y
+355	00:22:39	00:22:42	pop the trunk.	Y
+356	00:22:47	00:22:49	Thanks.	Y
+357	00:22:54	00:22:57	It's Tammy.	N
+358	00:23:01	00:23:04	Contusions on the anterior neck.	N
+359	00:23:04	00:23:08	Streaking erythema on the lateral aspect of zone one.	Y
+360	00:23:08	00:23:10	Cartilaginous tracheal rings are crushed.	N
+361	00:23:10	00:23:13	Hey, Doc.	N
+362	00:23:13	00:23:14	Catherine.	N
+363	00:23:16	00:23:19	She didn't put up a fight, did she?	N
+364	00:23:19	00:23:20	How'd you know?	Y
+365	00:23:20	00:23:23	She was killed by the one person in life she trusted.	Y
+366	00:23:34	00:23:39	Darin Hanson stared her in the face and she never saw it coming.	N
+367	00:23:39	00:23:42	Put his thumbs around her air pipe and pushed.	N
+368	00:23:46	00:23:48	I swabbed her neck.	N
+369	00:23:48	00:23:50	Affirmative for epithelials.	N
+370	00:23:50	00:23:54	I'll run them against Darin Hanson's DNA.	N
+371	00:23:54	00:23:56	Parents called. They're on their way in to I.D.	Y
+372	00:23:56	00:23:59	How did they sound?	N
+373	00:23:59	00:24:02	Oddly, relieved.	N
+374	00:24:03	00:24:06	They finally know where she is.	N
+375	00:24:16	00:24:18	I'm not pulling it.	N
+376	00:24:18	00:24:21	I found similar dust on Adam Brower's dirty clothes.	N
+377	00:24:21	00:24:23	Check it out.	N
+378	00:24:30	00:24:32	Real-life fairy dust.	N
+379	00:24:32	00:24:35	Yeah, it turns grown men into criminals.	N
+380	00:24:35	00:24:37	What's the composition?	N
+381	00:24:37	00:24:38	S-I...	N
+382	00:24:38	00:24:41	O-2. Silica dust.	N
+383	00:24:41	00:24:44	Each particle's a hundred times smaller than a grain of sand.	N
+384	00:24:44	00:24:47	I thought you guys were processing the car.	N
+385	00:24:47	00:24:50	Yeah, um... what do you know about silica?	N
+386	00:24:50	00:24:52	It's used to make glass.	N
+387	00:24:52	00:24:53	It's mined in open pits. Why?	N
+388	00:24:53	00:24:57	Silica found both on Adam Brower's clothing and the getaway vehicle.	N
+389	00:24:57	00:25:01	There's an abandoned silica mine outside Cal Nev Ari.	N
+390	00:25:01	00:25:02	What don'tyou know?	N
+391	00:25:44	00:25:46	Come here.	N
+392	00:25:51	00:25:54	Motorcycle tracks at the vehicle dump site.	N
+393	00:26:08	00:26:11	Yeah, that smells nice.	N
+394	00:26:11	00:26:13	Shouldn't smell at all, if this place is abandoned.	Y
+395	00:26:21	00:26:24	Get your guns out.	Y
+396	00:26:39	00:26:42	Say hello to Darin Hanson.	Y
+397	00:26:47	00:26:50	Shot with a .45.	N
+398	00:26:52	00:26:53	Execution style.	N
+399	00:26:53	00:26:55	Adam, Tammy...	N
+400	00:26:55	00:26:57	now Darin... all dead.	N
+401	00:26:57	00:26:59	And we're out of suspects.	N
+402	00:27:01	00:27:05	Three robbers hold up the casino.	N
+403	00:27:05	00:27:10	Tammy was in black, Adam was the one in blue and that leaves us Darin.	N
+404	00:27:10	00:27:13	We found Darin and Tammy's prints at the convenience store.	Y
+405	00:27:13	00:27:15	Hours before the heist, the clerk gets murdered.	N
+406	00:27:17	00:27:21	Shot with the same gun used to kill Adam at the casino.	N
+407	00:27:21	00:27:26	The surveillance video tells us that Darin was the only one in position to shoot Adam.	N
+408	00:27:28	00:27:29	Why did Darin kill Adam?	N
+409	00:27:29	00:27:31	Greed.	N
+410	00:27:31	00:27:33	Fewer slices. Bigger pieces.	N
+411	00:27:33	00:27:36	Which explains why he killed Tammy.	Y
+412	00:27:38	00:27:39	That's confirmed?	N
+413	00:27:39	00:27:43	Epithelials on her neck are a match to Darin's DNA.	Y
+414	00:27:43	00:27:46	So, Darin thought he was getting the whole score.	Y
+415	00:27:46	00:27:47	But now he's dead.	N
+416	00:27:47	00:27:50	So, who killed him, and where's the money?	N
+417	00:27:50	00:27:55	And we still don't know why Darin and Tammy took out the convenience store clerk.	N
+418	00:27:55	00:27:59	Why kill a man for a few hundred bucks when you're about to steal a few hundred thousand?	Y
+419	00:27:59	00:28:01	We've got more questions than answers.	N
+420	00:28:01	00:28:06	I just got off the phone with the Laughlin CSI assigned to last month's Cottage Casino case.	N
+421	00:28:06	00:28:11	He told me the casino's cameras captured four assailants, not three.	N
+422	00:28:11	00:28:14	Maybe Tower Club surveillance missed something.	N
+423	00:28:14	00:28:17	Actually, it didn't. Wedid.	Y
+424	00:28:17	00:28:18	Tower Casino surveillance.	Y
+425	00:28:18	00:28:23	The screen on your left the camera's trained over where Tammy, Darin and Adam entered.	Y
+426	00:28:23	00:28:28	The screen on your right is trained on the gaming tables.	Y
+427	00:28:28	00:28:31	Okay, check it out.	Y
+428	00:28:34	00:28:35	What are we looking for?	Y
+429	00:28:35	00:28:38	What, you missed him? All right...	Y
+430	00:28:38	00:28:40	I'll play it again...	Y
+431	00:28:40	00:28:42	slower, just for you.	Y
+432	00:28:42	00:28:49	Now, keep your eye trained on the pit boss and the chandelier.	Y
+433	00:28:51	00:28:53	He ducked before the chandelier fell.	Y
+434	00:28:53	00:28:55	Yeah, before Tammy drew her gun.	Y
+435	00:28:55	00:28:56	Play it again.	N
+436	00:29:02	00:29:03	Well done, Warrick.	N
+437	00:29:03	00:29:05	You found our mole.	Y
+438	00:29:05	00:29:08	Pit boss' name is Max Duncan.	Y
+439	00:29:08	00:29:11	Started working there about three weeks ago.	Y
+440	00:29:11	00:29:12	Before that...	Y
+441	00:29:12	00:29:13	Let me guess.	Y
+442	00:29:13	00:29:15	Laughlin, Cottage Casino?	Y
+443	00:29:17	00:29:18	I'll call Brass.	Y
+444	00:29:18	00:29:19	He can make the arrest.	Y
+445	00:29:19	00:29:21	I'll meet him at the station.	Y
+446	00:29:21	00:29:23	Call you with an update.	Y
+447	00:29:39	00:29:40	Max Duncan?	N
+448	00:29:40	00:29:42	Yeah. What the hell is going on here?	Y
+449	00:29:42	00:29:44	You going somewhere?	Y
+450	00:29:46	00:29:49	I'll ask the questions; you give the answers downtown.	Y
+451	00:29:49	00:29:51	I'm calling my lawyer.	Y
+452	00:29:53	00:29:54	Good idea.	Y
+453	00:29:56	00:30:00	Max... are you clairvoyant?	Y
+454	00:30:00	00:30:01	Excuse me?	N
+455	00:30:01	00:30:04	Surveillance tape from the Tower Club Casino.	Y
+456	00:30:04	00:30:07	You ducked before there was a reason to cover.	N
+457	00:30:07	00:30:10	I saw a gun; I hit the ground.	N
+458	00:30:10	00:30:12	Okay, let's try this.	Y
+459	00:30:12	00:30:14	Why were you leaving town?	Y
+460	00:30:14	00:30:16	Trying to beat a murder rap?	Y
+461	00:30:16	00:30:19	I didn't kill anyone.	Y
+462	00:30:19	00:30:21	You forget about Darin Hanson?	Y
+463	00:30:21	00:30:26	Your car was covered with gray dust-- silica.	Y
+464	00:30:26	00:30:28	It places you at the murder scene.	N
+465	00:30:28	00:30:30	I didn't kill him.	N
+466	00:30:30	00:30:31	Max... I went there, but ...	N
+467	00:30:31	00:30:33	I'm advising you not to say another word.	N
+468	00:30:33	00:30:35	No, I want to clear this up.	N
+469	00:30:35	00:30:38	All right, I went out to the mine, but I didn't kill Darin.	Y
+470	00:30:38	00:30:40	He was already dead.	Y
+471	00:30:41	00:30:48	All right, look, I... I'll admit I helped him out.	Y
+472	00:30:48	00:30:50	I... I told him when and where to hit.	Y
+473	00:30:50	00:30:52	That's why I ducked.	Y
+474	00:30:52	00:30:54	But that's it.	N
+475	00:30:54	00:30:55	That's a lot.	Y
+476	00:30:55	00:30:59	And it still doesn't explain why you went to see Darin.	Y
+477	00:30:59	00:31:01	Max, that is enough.	Y
+478	00:31:01	00:31:03	Well, I went to collect my share...	N
+479	00:31:03	00:31:07	but the money was gone Darin was dead, and I panicked.	N
+480	00:31:07	00:31:09	But I didn't shoot him.	N
+481	00:31:09	00:31:11	You can't get me for murder on this.	N
+482	00:31:11	00:31:17	When someone is killed during a commission of a felony all the conspirators are liable.	N
+483	00:31:17	00:31:21	Darin Hanson shot Adam Brower but you might as well have pulled the trigger.	N
+484	00:31:24	00:31:26	Let's make a deal.	N
+485	00:31:26	00:31:29	Tell me, who else was involved?	N
+486	00:31:29	00:31:30	Who killed Darin?	N
+487	00:31:30	00:31:35	Look, Darin was the only one that I spoke to.	N
+488	00:31:35	00:31:38	I never even met the other three.	N
+489	00:31:38	00:31:40	Then we got no deal.	N
+490	00:31:40	00:31:42	Officer.	N
+491	00:31:43	00:31:44	Let's go.	N
+492	00:31:55	00:31:58	You know what? I kind of believe him.	Y
+493	00:31:58	00:32:00	Yeah, me, too.	Y
+494	00:32:00	00:32:02	He confirmed a fourth.	Y
+495	00:32:02	00:32:04	Darin plus three.	Y
+496	00:32:04	00:32:05	Just like Laughlin.	Y
+497	00:32:05	00:32:08	So, the last man standing killed Darin.	N
+498	00:32:08	00:32:10	And he's still out there...	N
+499	00:32:10	00:32:15	flushed with cash and a .45 caliber.	N
+500	00:32:15	00:32:17	Surveillance stills from the Laughlin heist.	N
+501	00:32:17	00:32:21	Darin, Tammy and Adam.	N
+502	00:32:21	00:32:22	All deceased.	Y
+503	00:32:22	00:32:24	Yeah. All murdered.	Y
+504	00:32:24	00:32:25	That leaves one.	Y
+505	00:32:25	00:32:30	I.D. the Unknown Laughlin and Vegas.	Y
+506	00:32:30	00:32:32	Except all we got is a guy in drag.	N
+507	00:32:32	00:32:35	Well, that's why I'm here.	N
+508	00:32:36	00:32:43	I've divided the photo into segments removed the disguise and rebuilt the original image based on male physiological norms.	N
+509	00:32:43	00:32:48	Now, it's not exact but you'll have an idea of what your guy looks like.	N
+510	00:32:55	00:32:57	That's Dustin Bale.	N
+511	00:32:57	00:32:59	The clerk from the convenience store.	N
+512	00:32:59	00:33:00	Whoa. Hold on.	N
+513	00:33:00	00:33:03	He was killed hours before the Tower Club heist.	N
+514	00:33:03	00:33:06	In on Laughlin, out on Vegas.	N
+515	00:33:06	00:33:09	So, Darin took him out first.	N
+516	00:33:09	00:33:12	They cleared the register just to make it look like a robbery.	N
+517	00:33:12	00:33:15	But the pit boss said it was Darin plus three.	N
+518	00:33:15	00:33:17	Because he knew there were four at the Laughlin heist.	N
+519	00:33:17	00:33:20	Well, maybe he didn't know that the clerk wasn't there.	N
+520	00:33:20	00:33:22	He wasn't counting wigs.	N
+521	00:33:22	00:33:24	He was hiding under a blackjack table.	N
+522	00:33:24	00:33:27	And we're back to who killed Darin Hanson.	N
+523	00:33:29	00:33:30	Bobby D.	N
+524	00:33:30	00:33:31	Yeah?	N
+525	00:33:31	00:33:33	We need your help.	N
+526	00:33:33	00:33:36	Another round from the casino heist?	N
+527	00:33:36	00:33:38	Indirectly, yeah.	N
+528	00:33:41	00:33:43	Well, tip didn't blossom.	N
+529	00:33:43	00:33:47	Not a hollow point, so it's not from Darin Hanson's gun.	N
+530	00:33:47	00:33:48	No, it's from his head.	N
+531	00:33:50	00:33:55	All right, 230 grains gives us a .45 automatic.	N
+532	00:33:55	00:33:56	What else?	N
+533	00:33:56	00:34:07	Okay, normally, lands and grooves are highly delineated but these are smooth, polished-- which means that your projectile was fired from a polygonal barrel.	N
+534	00:34:07	00:34:09	Be right back.	Y
+535	00:34:14	00:34:18	These are the only types of .45 automatics with polygonal barrels.	Y
+536	00:34:18	00:34:24	So, the gun that fired your bullet was either a Heckler &amp; Koch USP or a Glock.	Y
+537	00:34:28	00:34:31	Narrow it further.	Y
+538	00:34:33	00:34:35	dissecting your bullet.	N
+539	00:34:35	00:34:37	Hey, Nick. Mm-hmm.	N
+540	00:34:37	00:34:40	Count the stripes.	Y
+541	00:34:40	00:34:44	One, two, three four, five, six.	Y
+542	00:34:44	00:34:47	Six lands and grooves Mm-hmm. with a right-hand twist.	Y
+543	00:34:47	00:34:50	Glock's got eight; Heckler and Koch-- six.	Y
+544	00:34:50	00:34:51	You got your gun.	Y
+545	00:34:51	00:34:54	Let's run ATF.	Y
+546	00:34:54	00:34:57	Pretty unique weapon.	N
+547	00:34:57	00:34:58	Expensive.	N
+548	00:34:58	00:35:01	Not exactly what you'd buy out of the back of a van.	Y
+549	00:35:06	00:35:07	Only take a second.	Y
+550	00:35:09	00:35:12	See? Can I call it?	Y
+551	00:35:12	00:35:14	Only 18 registered in-state.	Y
+552	00:35:14	00:35:18	Ten in Clark County; seven of them still in circulation.	Y
+553	00:35:22	00:35:24	Any names jumping off the page?	Y
+554	00:35:24	00:35:25	Just one.	Y
+555	00:35:25	00:35:28	It's out of left field.	N
+556	00:35:28	00:35:31	About 75 miles out.	Y
+557	00:35:39	00:35:41	You're accusing me of murder.	N
+558	00:35:41	00:35:44	And absconding with a quarter of a mil, stolen money.	Y
+559	00:35:44	00:35:45	Where did you stash the cash?	Y
+560	00:35:45	00:35:48	I'm a state trooper.	Y
+561	00:35:48	00:35:50	How does a cop hook up with an ex-con like Darin?	Y
+562	00:35:50	00:35:52	I can answer that.	Y
+563	00:35:52	00:35:54	It's all in a day's work.	Y
+564	00:36:03	00:36:07	A potato silencer muffles a bullet but won't silence it.	Y
+565	00:36:07	00:36:10	You went in your gun drawn.	N
+566	00:36:12	00:36:15	Take it easy, pal.	N
+567	00:36:15	00:36:17	You should have arrested them.	N
+568	00:36:17	00:36:19	But something happened, didn't it?	N
+569	00:36:19	00:36:22	My bet, Tammy made you an offer.	N
+570	00:36:22	00:36:23	Drop the weapon.	N
+571	00:36:23	00:36:27	Hey, uh, let's be smart about this.	N
+572	00:36:27	00:36:31	You can take us in or we can cut you in.	N
+573	00:36:35	00:36:38	They still had pockets full of cash from the Laughlin job.	N
+574	00:36:38	00:36:41	They offered you a finder's fee.	N
+575	00:36:43	00:36:44	This isn't going to do it.	N
+576	00:36:44	00:36:47	It'll hold you over... till tomorrow.	N
+577	00:36:49	00:36:50	Deal?	N
+578	00:37:02	00:37:04	What are you doing?	N
+579	00:37:06	00:37:10	You patrol 97.5 square miles.	Y
+580	00:37:10	00:37:14	Is the Cal Nev Ari Mine a part of your jurisdiction?	Y
+581	00:37:14	00:37:16	No. I'm east of the mine.	N
+582	00:37:16	00:37:19	But you've been there haven't you?	N
+583	00:37:36	00:37:38	Where is the cash?	Y
+584	00:37:38	00:37:40	Jim, hit the overhead, will you?	Y
+585	00:37:45	00:37:47	Silica is a crystal.	N
+586	00:37:47	00:37:48	It reflects the light.	N
+587	00:37:48	00:37:51	Even trace amounts will show up.	Y
+588	00:37:53	00:37:55	How about that?	N
+589	00:39:13	00:39:16	More than I'd make in a lifetime.	N
+590	00:39:16	00:39:18	Was it worth it?	N
+591	00:39:18	00:39:21	You wouldn't understand.	N
+592	00:39:21	00:39:22	That's right.	N
+593	00:39:22	00:39:24	We make the big bucks.	N
+594	00:39:24	00:39:28	Look-- I was never thatguy.	N
+595	00:39:28	00:39:33	You know, that guy that wins the jackpots gets promoted, catches the breaks?	N
+596	00:39:33	00:39:35	It was right there.	N
+597	00:39:35	00:39:37	Yeah, well, you're still not that guy.	N
+598	00:39:37	00:39:38	Get him out of here.	N
+599	00:39:47	00:39:50	$250,000 turned a career cop bad.	N
+600	00:39:50	00:39:51	Yeah, well, he had his price.	N
+601	00:39:53	00:39:56	We all do.	N

@@ -1,0 +1,600 @@
+	start	end	text	label
+0	00:00:41	00:00:43	Boss!	N
+1	00:00:43	00:00:46	We-We got a problem.	N
+2	00:01:15	00:01:18	Well, clean surfaces make for good analysis.	N
+3	00:01:18	00:01:20	Yeah.	N
+4	00:01:20	00:01:22	Well, that may be the only good thing.	N
+5	00:01:22	00:01:25	I checked for a wallet, no ID.	N
+6	00:01:25	00:01:27	Nothing on him.	N
+7	00:01:27	00:01:30	The kid looks like a minor.	N
+8	00:01:30	00:01:33	Coroner's investigator says he's been dead for over 12 hours.	N
+9	00:01:33	00:01:35	Happened sometime this weekend.	N
+10	00:01:43	00:01:46	You going to pry that piece of cloth from his hand?	N
+11	00:01:46	00:01:48	Not just yet.	N
+12	00:01:48	00:01:49	Help me out here.	N
+13	00:01:49	00:01:51	Got any ideas on this one?	N
+14	00:01:53	00:02:01	Well, based on his pants around the knees, I would say a crime of passion.	N
+15	00:02:03	00:02:05	Given the brutality of it...	N
+16	00:02:08	00:02:11	seems to me an act of rage.	N
+17	00:02:43	00:02:47	You know, I lose an hour a day cleaning up their beer bottles and their cigarette butts.	N
+18	00:02:48	00:02:49	Kids use it as a hangout, huh?	N
+19	00:02:49	00:02:52	Oh, sure. They think the house doesn't have a lock, it belongs to them.	N
+20	00:02:52	00:02:56	Well, it's a crime scene, so it belongs to us now.	N
+21	00:02:56	00:02:57	Yeah. How long?	N
+22	00:02:57	00:02:59	As long as it takes.	N
+23	00:02:59	00:03:03	You know, I got two teenagers at home, and they know how to respect other people's property.	N
+24	00:03:03	00:03:06	Now, who's going to feed them when I don't get paid for today, huh?	N
+25	00:03:06	00:03:07	Huh?	N
+26	00:03:07	00:03:08	I can't tell you that.	N
+27	00:03:16	00:03:19	Take a look at his head, tell me what you see.	N
+28	00:03:25	00:03:29	Definitely blunt force.	N
+29	00:03:29	00:03:30	That's a hammerhead.	N
+30	00:03:30	00:03:34	I thought you might say that.	N
+31	00:03:35	00:03:41	Well, we know that people often commit crimes in places they're familiar with.	N
+32	00:03:52	00:03:55	You got to be kidding me.	N
+33	00:04:02	00:04:04	I'll swab the blood and see if it's all his.	N
+34	00:04:16	00:04:17	Grissom?	N
+35	00:04:22	00:04:25	Well, that should help.	N
+36	00:04:27	00:04:30	I'll trade you a hammer for a screw.	N
+37	00:04:30	00:04:32	Name, please.	N
+38	00:04:32	00:04:33	I'll tell you mine, you tell me yours.	N
+39	00:04:34	00:04:36	Oh, come on, baby.	N
+40	00:04:36	00:04:38	I'm stuck with these ugly fools all day.	N
+41	00:04:38	00:04:40	A pretty girl comes by. Just having a little fun.	N
+42	00:04:40	00:04:43	Yeah, murder always makes me feel a little randy, too.	N
+43	00:04:43	00:04:44	Ooh.	N
+44	00:04:55	00:04:56	Fellows.	N
+45	00:04:56	00:05:00	Hey, uh, Mrs. Marlene Mitchell, 32.	N
+46	00:05:00	00:05:03	Apparent gunshot wound to the chest.	N
+47	00:05:03	00:05:05	Entry, no exit.	N
+48	00:05:05	00:05:07	No other apparent injuries.	N
+49	00:05:08	00:05:09	Do we know who shot her?	N
+50	00:05:10	00:05:11	I patted down all her friends.	N
+51	00:05:11	00:05:12	Nobody's carrying.	N
+52	00:05:12	00:05:15	Got a couple officers scanning the neighborhood in case the, uh, weapon got tossed.	N
+53	00:05:15	00:05:18	She was breaking up a fight when she went down.	N
+54	00:05:18	00:05:20	Nobody saw anything? Nobody heard anything?	N
+55	00:05:20	00:05:21	No.	N
+56	00:05:21	00:05:22	Somebody's lying.	N
+57	00:05:24	00:05:25	That the husband?	N
+58	00:05:25	00:05:26	The current one.	N
+59	00:05:27	00:05:29	The other one-- he's the ex.	N
+60	00:05:31	00:05:32	Interesting family reunion.	N
+61	00:05:32	00:05:34	Whose brilliant idea was that?	N
+62	00:05:34	00:05:36	The Mitchells were moving in.	N
+63	00:05:36	00:05:37	The ex stopped by to say hi.	N
+64	00:05:38	00:05:40	Don't you hate it when hello leads to gunfire?	N
+65	00:05:41	00:05:43	I'll need to GSR both.	N
+66	00:05:44	00:05:46	Sir?	N
+67	00:05:46	00:05:49	I'm going to need to test your hands for GSR.	N
+68	00:05:49	00:05:50	What's that?	N
+69	00:05:51	00:05:53	Gunshot residue.	N
+70	00:05:53	00:05:54	Why?	N
+71	00:05:54	00:05:55	To rule you out.	N
+72	00:05:55	00:06:00	You think I shot my wife the day after our honeymoon.	N
+73	00:06:02	00:06:04	We were just moving our stuff.	N
+74	00:06:04	00:06:06	Her ex, Todd, shows up.	N
+75	00:06:06	00:06:10	He knows he's not supposed to come within 100 yards of her.	N
+76	00:06:11	00:06:13	But he did.	N
+77	00:06:14	00:06:16	Please?	N
+78	00:06:16	00:06:17	Marlene?	N
+79	00:06:17	00:06:18	Call 911.	N
+80	00:06:20	00:06:23	I thought it was a heart attack.	N
+81	00:06:25	00:06:27	Then I saw the blood.	N
+82	00:06:28	00:06:29	Yes, but there was a restraining order against you.	N
+83	00:06:29	00:06:30	Why were you here?	N
+84	00:06:31	00:06:33	Thank you.	N
+85	00:06:40	00:06:42	Distinguish!	N
+86	00:06:42	00:06:44	You ready to run?	N
+87	00:06:44	00:06:46	She does all my running.	N
+88	00:06:46	00:06:48	Thanks. Trail!	N
+89	00:07:12	00:07:14	It's a hell of a place to get lost.	N
+90	00:07:14	00:07:16	Yeah. We have five million olfactory sensory receptors.	N
+91	00:07:17	00:07:18	Penny's got 220 million.	N
+92	00:07:18	00:07:20	She sees the world differently.	N
+93	00:07:41	00:07:44	The suspect stopped here.	N
+94	00:07:56	00:07:57	Trail is still strong here.	N
+95	00:08:05	00:08:07	She's got a hit on the Dumpster.	N
+96	00:08:17	00:08:21	She's getting nothing, but Penny will pick up on anything they touched.	N
+97	00:08:28	00:08:30	There's something in the silver bag.	N
+98	00:08:36	00:08:38	What do you think?	N
+99	00:08:38	00:08:40	Bought new clothes, ditched the old ones?	N
+100	00:08:40	00:08:44	What's missing from that sweater's what that dead kid had in his hand.	N
+101	00:08:44	00:08:47	So, we're looking for a girl who bought a new outfit...	N
+102	00:08:49	00:08:52	some earrings and a latte.	N
+103	00:08:52	00:08:55	Oh, an iced cappuccino, actually.	N
+104	00:08:56	00:08:58	Congealed blood in the pericardium.	N
+105	00:08:59	00:09:00	Heart's what took the bullet.	N
+106	00:09:01	00:09:02	Explains why she just dropped.	N
+107	00:09:02	00:09:04	Yeah, she was dead in seconds.	N
+108	00:09:05	00:09:07	Hmm.	N
+109	00:09:07	00:09:08	Bullet's still in the heart.	N
+110	00:09:18	00:09:20	Here we go.	N
+111	00:09:23	00:09:25	There.	N
+112	00:09:28	00:09:32	Well, it looks like a nine millimeter.	N
+113	00:09:32	00:09:33	I'll let Vega know.	N
+114	00:09:34	00:09:35	Fairly intact.	N
+115	00:09:35	00:09:36	Want to do the honors?	N
+116	00:09:36	00:09:38	Sure.	N
+117	00:09:49	00:09:51	That's it.	N
+118	00:09:56	00:09:58	Four inches?	N
+119	00:09:58	00:10:00	That's shallow.	N
+120	00:10:00	00:10:03	Standard handgun bullet penetration's 12.	N
+121	00:10:03	00:10:04	Right.	N
+122	00:10:05	00:10:06	Give me a hand, will you?	N
+123	00:10:06	00:10:08	Sure.	N
+124	00:10:11	00:10:13	85 degree downward angle?	N
+125	00:10:13	00:10:15	Well, that's, uh, fairly standard.	N
+126	00:10:15	00:10:18	Most gunshot wounds are 90 degrees, give or take.	N
+127	00:10:18	00:10:20	Oh. Thanks, Doc.	N
+128	00:10:20	00:10:22	Right.	N
+129	00:11:24	00:11:27	They say in America, you're on camera an average of seven times a day.	Y
+130	00:11:27	00:11:29	Go to a mall, and you can at least triple that.	Y
+131	00:11:29	00:11:31	I guess that's good for us.	N
+132	00:11:31	00:11:33	I'm going to think twice the next time I try on a shirt.	N
+133	00:11:33	00:11:38	Well, legally, they can't put cameras in dressing rooms, but there's legal, and then there's what people do.	N
+134	00:11:38	00:11:41	31.	N
+135	00:11:41	00:11:46	Let's scan the dressing room footage 00 on.	Y
+136	00:11:50	00:11:52	Hold it.	N
+137	00:11:52	00:11:54	That's our sweater.	N
+138	00:11:54	00:11:56	And that's our girl.	N
+139	00:11:56	00:11:57	She did a walk out. A walk out?	N
+140	00:11:57	00:11:59	Yeah, my girlfriend does it all the time.	N
+141	00:11:59	00:12:06	She finds something she likes, rips the tags off in the dressing room, hands them to the clerk, and walks out wearing the new stuff.	Y
+142	00:12:06	00:12:08	You go shopping with your girlfriend?	N
+143	00:12:08	00:12:10	That's nice.	N
+144	00:12:10	00:12:12	Well, you can get her prints from the receipts.	N
+145	00:12:12	00:12:13	DNA from the sweater.	N
+146	00:12:13	00:12:14	And you've got a face.	N
+147	00:12:14	00:12:15	You're close.	N
+148	00:12:15	00:12:16	Well, look at her. She's a minor.	N
+149	00:12:16	00:12:17	She paid in cash.	N
+150	00:12:17	00:12:19	She's not going to be in any database.	N
+151	00:12:19	00:12:21	Without a name, we don't have much.	N
+152	00:12:21	00:12:23	Okay, one of our hammers had blood on it.	N
+153	00:12:23	00:12:24	It matches the victim's.	N
+154	00:12:24	00:12:26	Did Greg analyze the clothes from the Dumpster yet?	N
+155	00:12:26	00:12:28	Yeah. Blood's a match, too.	N
+156	00:12:28	00:12:34	Okay. So, the question is, what is the connection between this girl and a construction worker?	N
+157	00:12:34	00:12:37	Mr. Curtwell, where were you this weekend?	N
+158	00:12:37	00:12:39	I was fishing in Tahoe.	N
+159	00:12:40	00:12:41	Catch anything?	N
+160	00:12:41	00:12:43	No. Nothing was biting.	N
+161	00:12:43	00:12:44	Anyone go with you?	N
+162	00:12:44	00:12:46	No.	N
+163	00:12:46	00:12:48	How long were you gone?	N
+164	00:12:48	00:12:50	Friday to Sunday.	N
+165	00:12:50	00:12:52	Look, I thought I was just here to pick up my hammer.	N
+166	00:12:52	00:12:55	Do you ever leave your tools at the job site?	N
+167	00:12:55	00:12:58	No way. That hammer-- it's perfectly balanced.	N
+168	00:12:58	00:13:01	Then how do you explain the blood on it?	N
+169	00:13:01	00:13:03	And your injuries.	Y
+170	00:13:05	00:13:07	Well, it's a construction site.	N
+171	00:13:07	00:13:09	People get hurt.	N
+172	00:13:09	00:13:13	The blood that we found on your hammer...	Y
+173	00:13:13	00:13:16	matches this kid right here.	Y
+174	00:13:25	00:13:27	Is that the dead kid from the house?	Y
+175	00:13:27	00:13:28	Yeah.	N
+176	00:13:28	00:13:30	I never got a look at him.	Y
+177	00:13:30	00:13:33	I-I I didn't go inside.	Y
+178	00:13:35	00:13:37	What about her?	Y
+179	00:13:41	00:13:44	That's my kid sister, Ashley.	Y
+180	00:13:46	00:13:48	Why? What's she got to do with it?	Y
+181	00:13:49	00:13:51	You tell us.	Y
+182	00:13:57	00:14:01	My parents died in a car accident four years ago.	N
+183	00:14:01	00:14:02	I'm very sorry.	N
+184	00:14:02	00:14:06	Your brother Gregory is your guardian, right?	N
+185	00:14:06	00:14:08	Yeah.	N
+186	00:14:08	00:14:10	And he left you alone all weekend?	Y
+187	00:14:10	00:14:13	He goes away a lot.	N
+188	00:14:13	00:14:14	Okay.	N
+189	00:14:14	00:14:18	Why don't you tell me what happened last night?	Y
+190	00:14:18	00:14:24	I was on my way to the mall to get something to eat.	Y
+191	00:14:24	00:14:25	I always cut through the construction site.	N
+192	00:14:25	00:14:32	My brother tells me not to, but it saves me, like, ten minutes.	Y
+193	00:14:32	00:14:34	That makes sense.	Y
+194	00:14:35	00:14:37	What happened after that?	Y
+195	00:14:37	00:14:44	Well, this guy from school, Brian, comes out of nowhere.	Y
+196	00:14:44	00:14:46	Do you know Brian's last name?	N
+197	00:14:46	00:14:47	Yeah. It's, um...	N
+198	00:14:47	00:14:50	Haddick.	N
+199	00:14:50	00:14:53	We were in homeroom together freshman year.	Y
+200	00:14:53	00:15:00	So, anyway, he says his cat ran away...	Y
+201	00:15:00	00:15:03	and will I help him find it.	Y
+202	00:15:03	00:15:05	And you did?	N
+203	00:15:07	00:15:10	A cat. I'm so stupid.	Y
+204	00:15:10	00:15:13	You're not stupid, Ashley.	N
+205	00:15:15	00:15:18	I know this is hard.	N
+206	00:15:18	00:15:23	If we could just go over it from start to finish just one time.	Y
+207	00:15:28	00:15:31	So, we walked into the house...	N
+208	00:15:37	00:15:39	I think I saw him come in here.	Y
+209	00:15:39	00:15:40	What color is he?	Y
+210	00:15:40	00:15:41	Gray.	N
+211	00:15:42	00:15:43	Here, kitty, kitty.	Y
+212	00:15:45	00:15:47	You're going to like it, you dirty bitch.	N
+213	00:15:47	00:15:49	You're going to like it.	Y
+214	00:15:52	00:15:58	It was like the more I shouted, the more he liked it.	Y
+215	00:16:06	00:16:08	Rape is not about sex.	N
+216	00:16:08	00:16:10	It's about violence.	N
+217	00:16:15	00:16:18	You were against the wall.	N
+218	00:16:18	00:16:20	No!	Y
+219	00:16:27	00:16:30	Did you see who hit Brian?	Y
+220	00:16:33	00:16:38	Ashley, after all that had happened, you went shopping?	N
+221	00:16:38	00:16:40	He was all over me.	N
+222	00:16:40	00:16:43	I just had to get him off me.	Y
+223	00:16:44	00:16:47	And you got some coffee and some earrings.	N
+224	00:16:50	00:16:52	What?	Y
+225	00:16:54	00:16:56	I bought that stuff?	N
+226	00:16:59	00:17:06	All I remember is getting new clothes and going home.	N
+227	00:17:06	00:17:10	Why does all this bad stuff keep happening to my family?	N
+228	00:17:11	00:17:13	She's covering for her brother.	N
+229	00:17:14	00:17:17	He's got a non- confirmable alibi.	N
+230	00:17:17	00:17:20	I'm sure she doesn't want to lose the only guardian she's got.	Y
+231	00:17:28	00:17:32	It's pretty obvious the initial blows were to the head.	N
+232	00:17:32	00:17:34	Well, according to Sara, that's consistent with the girl's story.	N
+233	00:17:35	00:17:37	Whoever attacked him just kept going.	N
+234	00:17:37	00:17:39	Used some real force.	N
+235	00:17:39	00:17:43	Severed his spinal cord at Cl, C2.	N
+236	00:17:43	00:17:45	Well, that would have rendered him immobile.	N
+237	00:17:45	00:17:46	Right, so why keep hitting?	N
+238	00:17:46	00:17:55	The epidermis was disturbed, leaving areas of exposed derma, which we'd normally see as red or purple abrasions.	N
+239	00:17:55	00:17:58	But in this case, no blood rushed to the area.	Y
+240	00:17:59	00:18:00	He was beaten postmortem.	N
+241	00:18:00	00:18:02	Right.	Y
+242	00:18:02	00:18:06	So, Gregory Curtwell sees Brian attacking his sister.	Y
+243	00:18:06	00:18:10	His adrenaline starts going, and he can't stop.	N
+244	00:18:10	00:18:14	Well, Brian may have gotten off a punch of his own.	N
+245	00:18:14	00:18:20	I can't identify the pattern, but I sent blood and skin transfer to Greg.	N
+246	00:18:20	00:18:23	And you're going to need these.	N
+247	00:18:23	00:18:26	Thanks.	N
+248	00:18:32	00:18:34	That's our son.	N
+249	00:18:34	00:18:39	Who could have done this to my baby?	N
+250	00:18:40	00:18:42	Do you recognize this girl?	N
+251	00:18:46	00:18:49	Did Brian ever mention the name Ashley Curtwell?	N
+252	00:18:49	00:18:53	He got a little out of hand for a while.	N
+253	00:18:53	00:18:56	We couldn't keep track of his friends.	N
+254	00:18:56	00:18:58	Out of hand?	N
+255	00:18:58	00:19:01	I found some marijuana in his room.	N
+256	00:19:01	00:19:02	Broke curfew.	N
+257	00:19:02	00:19:05	The nipple piercing was the last straw.	N
+258	00:19:05	00:19:11	I told him he could do anything he wanted to the body God gave him once he moved out.	N
+259	00:19:11	00:19:12	Until then...	N
+260	00:19:12	00:19:14	He was grounded.	N
+261	00:19:14	00:19:17	But he was doing so much better.	N
+262	00:19:17	00:19:20	His grades were up.	N
+263	00:19:20	00:19:21	He got a job.	N
+264	00:19:21	00:19:22	Where did he work?	N
+265	00:19:23	00:19:25	My brother owns a restaurant.	N
+266	00:19:25	00:19:29	Got him a job bussing and waiting tables.	N
+267	00:19:29	00:19:31	500 bucks every two weeks.	N
+268	00:19:31	00:19:34	Cash under the table.	Y
+269	00:19:34	00:19:35	Pretty good for a kid who can't drive.	N
+270	00:19:40	00:19:44	No GSR on either the husband's or ex-husband's hands.	N
+271	00:19:44	00:19:45	That's not definitive.	N
+272	00:19:45	00:19:48	One of them still could have fired the gun and washed his hands.	N
+273	00:19:48	00:19:49	Yeah.	N
+274	00:19:50	00:19:54	Well, you know, you asked me to check Marlene Mitchell's bullet for trace?	N
+275	00:19:54	00:19:55	Well, there isn't any.	N
+276	00:19:55	00:19:56	It's in pristine condition.	N
+277	00:19:57	00:20:00	The only reason for shallow penetration is loss of momentum.	N
+278	00:20:00	00:20:04	Yeah, and it was a standard full metal jacket, not a pre-fragmented.	N
+279	00:20:04	00:20:13	So, assuming that the bullet didn't come in contact with any intervening object, what slowed it down?	Y
+280	00:20:13	00:20:16	Hey, Sanders, you got anything on that knuckle sludge?	Y
+281	00:20:16	00:20:18	Grissom's asking.	N
+282	00:20:18	00:20:25	Yeah, a skin sample taken from Brian Haddick's defensive wounds, hair samples from Ashley Curtwell, and buccal swab collected from Gregory Curtwell.	N
+283	00:20:26	00:20:27	No match to the brother or sister.	N
+284	00:20:28	00:20:29	Construction worker didn't do it.	N
+285	00:20:29	00:20:33	Or he didn't do it alone.	Y
+286	00:20:36	00:20:42	72-degree impact angle puts Brian here for the initial blows.	Y
+287	00:20:46	00:20:48	Width is three millimeters.	N
+288	00:20:48	00:20:51	Length is six.	N
+289	00:20:53	00:20:56	Arcsine gives us 30 degrees.	N
+290	00:20:56	00:21:00	So, Brian was crawling.	N
+291	00:21:01	00:21:04	That must be where his neck was exposed.	N
+292	00:21:07	00:21:12	He ended up here on the floor with his spinal cord severed.	N
+293	00:21:12	00:21:17	Well, if he was laying down, this looks too high to be a spatter.	N
+294	00:21:17	00:21:19	Must be cast-off.	N
+295	00:21:19	00:21:22	On three walls.	N
+296	00:21:22	00:21:28	Assailants tend to move only in reaction to a target, Brian was stationary.	N
+297	00:21:28	00:21:30	Why would the attacker keep moving?	N
+298	00:21:30	00:21:31	It doesn't make sense.	N
+299	00:21:31	00:21:37	It does if there were three hammers and three attackers.	N
+300	00:21:52	00:21:55	Hey, Catherine, feel like doin' some real work?	N
+301	00:21:55	00:21:57	And leave all this?	N
+302	00:21:58	00:22:01	I got a woman who DFO'd in front of her house trying to break up a fight.	N
+303	00:22:01	00:22:04	It's a single gunshot wound to the chest.	N
+304	00:22:04	00:22:06	The penetration is...	N
+305	00:22:06	00:22:07	shallow.	N
+306	00:22:07	00:22:09	I want to know why.	N
+307	00:22:09	00:22:10	And you want me to cook?	N
+308	00:23:42	00:23:44	Okay, boys.	N
+309	00:23:44	00:23:46	There's always room for Jell-O.	N
+310	00:23:46	00:23:50	Oh, yeah. Uh, Catherine, technically, that's just gel.	N
+311	00:23:50	00:23:51	I wasn't planning on eating it.	N
+312	00:23:54	00:23:56	Okay, let's shoot it.	N
+313	00:23:58	00:24:00	Betty Crocker.	N
+314	00:24:12	00:24:14	Firing one at 100%!	N
+315	00:24:19	00:24:24	Standard velocity is 1,100 feet per second.	N
+316	00:24:25	00:24:31	All right, that is a... 12-inch penetration.	N
+317	00:24:32	00:24:34	So...	N
+318	00:24:34	00:24:35	a, um...	N
+319	00:24:35	00:24:38	100% load gives us 12 inches.	N
+320	00:24:38	00:24:42	Firing one at 70%!	N
+321	00:24:45	00:24:48	Seven and three-quarter inches.	N
+322	00:24:48	00:24:50	Firing one at 40%!	N
+323	00:24:59	00:25:00	500 and...	N
+324	00:25:00	00:25:03	50 feet per second.	N
+325	00:25:04	00:25:05	Four inches.	N
+326	00:25:05	00:25:08	Same as Ms. Mitchell.	N
+327	00:25:08	00:25:12	So Mrs. Mitchell was shot by a bullet traveling 550 feet per second.	N
+328	00:25:12	00:25:15	Now that we know the speed, we can calculate the distance.	N
+329	00:25:15	00:25:16	Thanks, Catherine.	N
+330	00:25:18	00:25:23	So standard velocity for a nine millimeter bullet is 1,100 feet per second.	N
+331	00:25:23	00:25:28	How far does a nine millimeter bullet have to travel before it slows down to 550 feet per second?	N
+332	00:25:28	00:25:30	Let's see.	N
+333	00:25:32	00:25:33	1,800 feet.	N
+334	00:25:33	00:25:36	Whoa. We're talking six football fields.	N
+335	00:25:36	00:25:41	Yeah, that would pretty much eliminate anyone that was in the Mitchells' front yard.	N
+336	00:25:41	00:25:45	Can a nine millimeter bullet even travel that far?	N
+337	00:25:45	00:25:46	Hang on.	N
+338	00:25:48	00:25:50	All right.	N
+339	00:25:51	00:25:54	If a nine millimeter were fired straight...	N
+340	00:25:56	00:26:04	it'd go about 600 feet before gravity brought it down, but if a bullet were fired at an angle...	Y
+341	00:26:04	00:26:06	could go a heck of a lot further.	N
+342	00:26:06	00:26:12	That would account for the distance, but Ms. Mitchell was shot at an 85-degree angle.	N
+343	00:26:12	00:26:15	That's basically perpendicular.	N
+344	00:26:15	00:26:16	Um...	N
+345	00:26:16	00:26:19	bullets are predictable.	N
+346	00:26:20	00:26:22	People... aren't.	Y
+347	00:26:26	00:26:27	No, stop it!	N
+348	00:26:29	00:26:34	I assumed she was standing.	Y
+349	00:26:36	00:26:51	Okay, this is the Mitchells' house, and by all eyewitness accounts, she was standing in front the house, facing away north, when she was shot, so this line represents the 1,800 feet our bullet traveled.	N
+350	00:26:51	00:26:54	It had to have come from somewhere...	N
+351	00:26:55	00:26:58	...on that arc.	N
+352	00:26:59	00:27:02	Good luck knocking on doors.	Y
+353	00:27:04	00:27:09	Here I'm looking for three guys, but you only found one hammer with blood on it, so who do you want me to follow?	Y
+354	00:27:09	00:27:10	Me.	Y
+355	00:27:11	00:27:13	What's up?	N
+356	00:27:13	00:27:17	The shoe tread I found at the scene-- it's a World Industries Diablo.	Y
+357	00:27:17	00:27:19	It's a skate shoe.	N
+358	00:27:19	00:27:20	Size 11.	N
+359	00:27:20	00:27:21	On a construction worker?	N
+360	00:27:22	00:27:23	Screams teenager, I know.	N
+361	00:27:23	00:27:26	Why is Gregory Curtwell hanging out with teenage boys?	N
+362	00:27:26	00:27:28	Well, he has a teenage sister.	N
+363	00:27:28	00:27:32	And the sister and Brian Haddick were both students at McKinley High.	Y
+364	00:27:32	00:27:36	I bet the shoe also goes to school there.	N
+365	00:27:43	00:27:45	Nice kicks. I like those.	N
+366	00:27:45	00:27:47	Yeah.	N
+367	00:27:47	00:27:50	Uh-huh.	Y
+368	00:27:50	00:27:52	Thanks.	Y
+369	00:27:52	00:27:55	We're treading a razor-thin line of illegal search and seizure here.	Y
+370	00:27:55	00:28:00	Now, I'm not arguing with you, but shoes are a plain-view item.	Y
+371	00:28:00	00:28:03	Anyway, here's the guy who's going to be investigating...	Y
+372	00:28:03	00:28:05	Tyler, come on, we're going.	N
+373	00:28:05	00:28:07	Are you crazy?	N
+374	00:28:07	00:28:09	Do you know what my law firm does?	N
+375	00:28:09	00:28:11	You can't question these kids without a parent present.	N
+376	00:28:11	00:28:16	We're not questioning them, which is why you're here-- so we can. Oh. And I'm holding you responsible.	Y
+377	00:28:16	00:28:22	Clark County Law Enforcement and I have taken every precaution to make sure that these students' rights were not violated.	Y
+378	00:28:22	00:28:24	You are sequestering these kids without probable cause.	Y
+379	00:28:24	00:28:32	I hate that I've been called out of work to come down here, and I'm going to be so far up your ass, you're not going to be able to sit down straight. You know what I hate?	Y
+380	00:28:32	00:28:34	People who hurt kids.	N
+381	00:28:35	00:28:37	And you know who those people sometimes are?	N
+382	00:28:37	00:28:38	Cops?	N
+383	00:28:38	00:28:40	Other kids.	N
+384	00:28:40	00:28:46	If it had been your son whose skull was smashed in with a hammer, you'd be asking me where I was when I should've been protecting him.	Y
+385	00:28:46	00:28:51	Kids bring guns to school to shoot other kids, so who are you protecting?	Y
+386	00:28:51	00:28:53	Let's discuss it in court.	N
+387	00:28:57	00:28:59	Well, way to clear a room.	Y
+388	00:28:59	00:29:04	Those of you with parents here are dismissed, and the rest of you please wait here.	N
+389	00:29:14	00:29:15	Brass.	N
+390	00:29:19	00:29:21	Check this out.	Y
+391	00:29:23	00:29:24	Hey, bud.	N
+392	00:29:26	00:29:27	What's your name?	N
+393	00:29:27	00:29:29	Benny.	N
+394	00:29:29	00:29:30	Benny, where's your father? Is he around?	N
+395	00:29:30	00:29:33	Uh, he's at home. Probably called in drunk.	N
+396	00:29:33	00:29:36	Well, lucky for you, we make house calls.	N
+397	00:29:38	00:29:40	Dad?	N
+398	00:29:52	00:29:56	You good for nothing little bastard...	N
+399	00:29:56	00:29:58	I knew you stole that game thing.	Y
+400	00:29:58	00:30:00	125 bucks, my ass.	Y
+401	00:30:00	00:30:03	I told you. I bought that with my own money.	Y
+402	00:30:03	00:30:04	You talkin' back to me?	N
+403	00:30:04	00:30:04	Huh?	N
+404	00:30:05	00:30:06	Let's sit down.	N
+405	00:30:06	00:30:07	Let's all sit down.	N
+406	00:30:07	00:30:09	Come on.	Y
+407	00:30:15	00:30:16	Look, I'll take this.	N
+408	00:30:16	00:30:20	Let 'em argue diminished capacity after the fact.	Y
+409	00:30:20	00:30:22	You think they know how a DNA test works?	N
+410	00:30:22	00:30:23	I don't know. Let's find out.	N
+411	00:30:23	00:30:28	Mr. Lizzio, do you mind if we test Benny's sneaker for DNA?	Y
+412	00:30:28	00:30:31	You do what you got to do, officers.	N
+413	00:30:33	00:30:35	Lift your right shoe, please.	N
+414	00:31:01	00:31:02	We got a problem.	N
+415	00:31:02	00:31:06	The blood on your shoe is a match to Brian Haddick's.	N
+416	00:31:07	00:31:10	DNA doesn't lie.	N
+417	00:31:10	00:31:16	So, do you want to tell us how a dead kid's blood ended up on the bottom of your sneaker, Benny?	N
+418	00:31:16	00:31:19	Yeah, Benny. Why don't you tell us that?	N
+419	00:31:22	00:31:26	Sometimes I go to the construction site just to hang out.	N
+420	00:31:36	00:31:40	So, you just, uh... happened upon it?	Y
+421	00:31:40	00:31:42	Didn't report it to anybody?	Y
+422	00:31:42	00:31:44	I was trespassing.	N
+423	00:31:44	00:31:45	I didn't want to get in trouble.	Y
+424	00:31:45	00:31:50	Mr. Lizzio, would you mind if I took a look around?	Y
+425	00:31:50	00:31:53	Be my guest.	Y
+426	00:31:56	00:31:58	Mr. Lizzio, why don't you sit down?	Y
+427	00:31:58	00:32:00	We're going to be a while, okay?	Y
+428	00:32:00	00:32:02	You been drinking today, Mr. Lizzio?	Y
+429	00:32:02	00:32:03	Couple of beers.	N
+430	00:32:49	00:32:51	Practice makes perfect.	Y
+431	00:32:56	00:33:03	So, Benny, for the record, you've waived your right to have your parent or an advocate present.	Y
+432	00:33:03	00:33:04	Yep.	N
+433	00:33:04	00:33:06	So, how do you know Brian?	N
+434	00:33:06	00:33:09	We hung out a few times when we were freshmen.	N
+435	00:33:09	00:33:11	You know Gregory Curtwell?	Y
+436	00:33:11	00:33:12	Ashley's brother? Yeah.	Y
+437	00:33:12	00:33:14	He bought me beer a couple times.	N
+438	00:33:14	00:33:15	Oh, so you know Ashley, too?	N
+439	00:33:15	00:33:17	Yeah.	N
+440	00:33:17	00:33:20	I'm a friendly guy. Well, that's good, Benny, because...	N
+441	00:33:21	00:33:23	...you're looking at murder.	N
+442	00:33:23	00:33:27	And if you're friendly and you cooperate, and you tell me what happened to Brian Haddick, maybe I can cut you a deal.	N
+443	00:33:27	00:33:30	Ain't gonna happen.	N
+444	00:33:30	00:33:31	I'm no snitch.	N
+445	00:33:31	00:33:34	You want to tell me about those melons at your house?	N
+446	00:33:34	00:33:36	You looking to be another Gallagher?	N
+447	00:33:36	00:33:38	You know who that is?	N
+448	00:33:38	00:33:40	Since when is whacking fruit a crime?	N
+449	00:33:40	00:33:42	When it's practice for whacking people.	N
+450	00:33:42	00:33:46	Your hammer had Brian's blood all over it.	N
+451	00:33:46	00:33:53	Understand something, Benny, I'm talking about months versus years of juvenile detention.	Y
+452	00:33:53	00:33:54	It's your call.	Y
+453	00:33:57	00:33:59	They got cable?	N
+454	00:33:59	00:34:01	Food?	Y
+455	00:34:01	00:34:03	My dad locked on the outside?	Y
+456	00:34:05	00:34:09	Sounds good to me.	Y
+457	00:34:09	00:34:12	Besides, I'm a minor.	Y
+458	00:34:12	00:34:17	By the time I'm 21, it's like it never happened.	N
+459	00:34:20	00:34:22	Did he roll?	N
+460	00:34:22	00:34:24	Brass says the kid is looking forward to going to jail.	Y
+461	00:34:24	00:34:25	Hmm.	N
+462	00:34:25	00:34:28	So, what do we got here?	N
+463	00:34:28	00:34:33	It's hard to tell what's relevant and what's trash here.	Y
+464	00:34:33	00:34:37	This is everything we brought back from Benny's party room.	N
+465	00:34:41	00:34:42	Are these...?	N
+466	00:34:42	00:34:43	SpaghettiOs?	N
+467	00:34:43	00:34:45	I don't think so.	Y
+468	00:34:45	00:34:48	Nah. Nah, those would be orthodontic rubber bands.	Y
+469	00:34:48	00:34:50	Hook 'em to your braces, uh, upper to lower.	N
+470	00:34:50	00:34:52	Helps pull the jaw in the right direction.	N
+471	00:34:52	00:34:53	Also great for flinging.	Y
+472	00:34:53	00:34:58	Yeah, I had it all-- palate expander, braces, retainer, head gear.	Y
+473	00:34:59	00:35:02	Ah, five years of misery, but worth every penny, don't you think?	Y
+474	00:35:05	00:35:08	Um, there might be some saliva residue on them.	Y
+475	00:35:08	00:35:11	I can see what I can pull off, if you want.	N
+476	00:35:11	00:35:12	Yeah. Would you?	Y
+477	00:35:12	00:35:14	Well, you're going to need something.	Y
+478	00:35:14	00:35:16	Strike three on the knuckles.	N
+479	00:35:16	00:35:18	Benny's DNA doesn't match. Gregory's doesn't match.	N
+480	00:35:18	00:35:20	Ashley's doesn't match.	N
+481	00:35:20	00:35:22	Who did this guy hit?	N
+482	00:35:22	00:35:23	Greg, test both of these.	N
+483	00:35:23	00:35:28	If a third guy has braces, it may explain the strange pattern on Brian's hand.	Y
+484	00:35:28	00:35:31	It's probably another student, but Benny's not talking.	Y
+485	00:35:31	00:35:32	Benny has a party room, right?	N
+486	00:35:32	00:35:34	You can't have a party without the music.	N
+487	00:35:34	00:35:37	I found some new CDs in his room.	N
+488	00:35:41	00:35:42	What's C &amp; D?	Y
+489	00:35:42	00:35:45	It's like a music club, 12 CDs for the price of one.	Y
+490	00:35:48	00:35:51	And Aaron Gilbert was...?	Y
+491	00:35:53	00:35:54	The deejay maybe?	Y
+492	00:35:54	00:35:58	You know, at this time of year, watermelon isn't cheap, particularly organic.	Y
+493	00:35:58	00:36:02	Maybe the music isn't the only thing that Aaron Gilbert brought to the party.	Y
+494	00:36:08	00:36:12	Yeah, I heard gunfire a couple of days ago.	Y
+495	00:36:12	00:36:15	Johnnie, the idiot behind us, was playing like G.I. Joe in his backyard.	Y
+496	00:36:15	00:36:17	I screamed out my window.	N
+497	00:36:17	00:36:19	I got kids, you know?	Y
+498	00:36:19	00:36:21	Why do you want to know?	Y
+499	00:36:21	00:36:22	Just curious.	Y
+500	00:36:22	00:36:24	She called you guys, right?	Y
+501	00:36:24	00:36:26	It's like having a wife.	Y
+502	00:36:26	00:36:27	Gun's brand-new.	Y
+503	00:36:28	00:36:29	Shot it one time.	Y
+504	00:36:29	00:36:32	She told me to stop, I stopped.	Y
+505	00:36:32	00:36:34	Sir, you're going to have to tell us where that gun is.	Y
+506	00:36:41	00:36:42	And this is the gun that you fired?	N
+507	00:36:42	00:36:43	Yeah.	Y
+508	00:36:50	00:36:53	Empty ten-round magazine.	Y
+509	00:36:53	00:36:54	It was full when you started?	Y
+510	00:36:54	00:36:56	Yeah.	Y
+511	00:37:07	00:37:10	I, uh, only count nine holes in your target.	Y
+512	00:37:10	00:37:13	I must have missed one.	N
+513	00:37:13	00:37:15	Oh, you didn't miss.	N
+514	00:37:21	00:37:24	Hey! You want to kill someone?! ( gunshot )	Y
+515	00:37:24	00:37:26	Put that thing away!	N
+516	00:37:30	00:37:33	Just nice and easy.	N
+517	00:37:33	00:37:37	You see, your neighbor didn't lose her kid, but six blocks away, a guy lost his wife.	Y
+518	00:37:37	00:37:39	It was just a little target practice.	N
+519	00:37:39	00:37:43	And that's why it's illegal to discharge firearms within the city limits, genius.	N
+520	00:37:52	00:37:53	Aaron Gilbert?	Y
+521	00:37:53	00:37:57	Yeah. I'm Detective Brass, Las Vegas Police.	Y
+522	00:37:57	00:37:58	We need to talk.	N
+523	00:37:58	00:38:00	Oh, dude, I got to get home.	Y
+524	00:38:00	00:38:02	My mom's waiting for me and my brother.	Y
+525	00:38:02	00:38:03	Oh, we talked to your mom.	N
+526	00:38:03	00:38:05	Yeah, she gave us your hammer and this.	Y
+527	00:38:08	00:38:10	Yo, dawg, we going or what?	N
+528	00:38:13	00:38:15	Or what... dawg.	N
+529	00:38:17	00:38:19	That's a nice Walkman you had.	N
+530	00:38:19	00:38:21	What'd that cost? 125 bucks?	N
+531	00:38:21	00:38:23	Same as Benny's Gameboy.	N
+532	00:38:23	00:38:26	Same as your brother's secret stash.	N
+533	00:38:29	00:38:33	Speaking of Benny, he's not too smart, is he?	Y
+534	00:38:33	00:38:36	He wouldn't give up you and your brother for a lesser sentence.	Y
+535	00:38:36	00:38:37	You know what?	N
+536	00:38:37	00:38:42	There's an opportunity here, and I think you got more on the ball than Benny.	Y
+537	00:38:42	00:38:45	Tell me what happened.	N
+538	00:38:48	00:38:54	Jared... ain't braces a bitch?	Y
+539	00:38:54	00:38:55	I see that cut on your lip.	N
+540	00:38:56	00:38:57	Is that where Brian hit you?	N
+541	00:39:00	00:39:03	They do make for a good impression though.	Y
+542	00:39:03	00:39:06	See all these grooves here?	N
+543	00:39:06	00:39:09	It's perfect for storing DNA.	Y
+544	00:39:09	00:39:13	That would be your DNA.	Y
+545	00:39:16	00:39:24	Look, Jared, I'm not a cop, but if you tell me what happened, I will put in a good word for you.	Y
+546	00:39:27	00:39:28	We have a problem.	Y
+547	00:39:28	00:39:30	We have three hammers and four suspects.	Y
+548	00:39:30	00:39:34	Well, the Gilbert brothers both seem ready to go down for it.	Y
+549	00:39:34	00:39:36	And Benny can't wait to go to jail.	N
+550	00:39:36	00:39:40	If they were defending Ashley against an attacker, why not say so?	N
+551	00:39:40	00:39:41	They weren't.	Y
+552	00:39:41	00:39:44	The smashed watermelon suggests the whole thing was premeditated.	Y
+553	00:39:44	00:39:46	Making the motive robbery?	Y
+554	00:39:46	00:39:51	Well, Benny, Aaron and Jared each had about $125 worth of cash and assorted prizes.	Y
+555	00:39:51	00:39:54	$375.	N
+556	00:39:54	00:39:59	Brian's parents said that he was being paid $500 every two weeks.	Y
+557	00:39:59	00:40:00	Cash under the table.	Y
+558	00:40:00	00:40:05	It was payday, so who got the other $125?	Y
+559	00:40:05	00:40:07	Well, Gregory Curtwell makes good money.	N
+560	00:40:07	00:40:11	125 bucks is a spit in the ocean for a construction worker.	Y
+561	00:40:11	00:40:14	If he wasn't defending his sister, then he has no motive.	Y
+562	00:40:14	00:40:18	Well, if he didn't do it, how did his hammer end up with Brian's blood on it?	Y
+563	00:40:18	00:40:23	Clothing-- $85; earrings - $30; coffee-- four dollars.	Y
+564	00:40:24	00:40:25	Getting away with murder...	N
+565	00:40:26	00:40:28	Priceless.	Y
+566	00:40:28	00:40:30	That hand that holds the wallet is the hand that rules the world.	Y
+567	00:40:30	00:40:32	Huh, Ashley?	Y
+568	00:40:35	00:40:41	Your fingerprint in Brian's blood on Jared's money.	N
+569	00:40:41	00:40:44	This is what we call completing the triangle.	Y
+570	00:40:44	00:40:49	Okay. So he attacked me, and I did see who defended me.	Y
+571	00:40:49	00:40:55	But I didn't want to get my friends in trouble, and the money was for, like...	Y
+572	00:40:55	00:40:57	like, pain and suffering.	Y
+573	00:40:57	00:40:59	You weren't attacked, Ashley. Brian was.	N
+574	00:40:59	00:41:03	We figured none of the boys wore cotton candy, so we had it tested.	N
+575	00:41:03	00:41:05	Turns out you were at Benny's house, too.	N
+576	00:41:07	00:41:08	Let's do it!	Y
+577	00:41:11	00:41:11	Come on, guys!	N
+578	00:41:11	00:41:13	Whoo!	Y
+579	00:41:19	00:41:24	At the mall, you weren't in shock, you were celebrating.	N
+580	00:41:29	00:41:32	Your brother was up in Tahoe this past weekend, wasn't he?	N
+581	00:41:32	00:41:35	He goes away almost every weekend.	N
+582	00:41:35	00:41:39	You know, I'm done with the Ashley pity party.	N
+583	00:41:39	00:41:45	My guess is Aaron and Jared only had one hammer, but you had access to your brother's tools.	N
+584	00:41:45	00:41:47	Why Brian?	N
+585	00:41:49	00:41:57	Before he went straight, we were buds, but then he got too good for us, but he wasn't too good to want to get with this.	N
+586	00:41:57	00:41:58	Where do you want to do it at?	N
+587	00:41:59	00:42:00	Right here.	N
+588	00:42:00	00:42:02	In here? Yeah.	N
+589	00:42:09	00:42:11	You set me up?	N
+590	00:42:14	00:42:15	They have to do it!	N
+591	00:42:23	00:42:27	You're not a victim, you were a lure.	N
+592	00:42:27	00:42:32	Do you know how many people don't report a rape because they're afraid that no one will believe them?	N
+593	00:42:32	00:42:34	Of course.	N
+594	00:42:34	00:42:36	It's what I was counting on.	N
+595	00:42:36	00:42:42	I'm going to do everything in my power to make sure that you're tried as an adult.	N
+596	00:42:43	00:42:45	Good luck.	N
+597	00:42:47	00:42:56	I dress up real nice-- couple barrettes, little lace collar, two dead parents.	N
+598	00:42:56	00:42:59	I'll be the saddest little girl in the world.	N

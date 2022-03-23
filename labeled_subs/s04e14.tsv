@@ -1,0 +1,588 @@
+	start	end	text	label
+0	00:00:12	00:00:14	What do you need to get?	N
+1	00:00:14	00:00:16	Actually, it's what you need to get, rook.	N
+2	00:00:16	00:00:18	Aw, come on, man. We're off duty.	N
+3	00:00:18	00:00:21	You're off when I say you're off.	N
+4	00:00:28	00:00:29	Don't forget the Ho-Hos.	N
+5	00:00:48	00:00:51	Yeah...	N
+6	00:00:52	00:00:54	I can help you over here, sir.	Y
+7	00:00:54	00:00:57	That's not what your light says.	Y
+8	00:00:58	00:00:59	Slow night?	N
+9	00:00:59	00:01:00	Kind of.	N
+10	00:01:01	00:01:05	Oh... can't forget the Ho-Hos.	Y
+11	00:01:17	00:01:20	What the hell is wrong with you people?	N
+12	00:01:20	00:01:22	My wife is still in there!	N
+13	00:01:23	00:01:25	Why isn't anybody helping my wife?!	N
+14	00:01:28	00:01:30	Body count's five.	N
+15	00:01:47	00:01:50	Officer Clay entered the store unaware of a robbery that was in progress.	Y
+16	00:01:50	00:01:53	Officer Fromansky came in after he heard a shot fired.	N
+17	00:01:53	00:01:55	Engaged two suspects.	N
+18	00:01:55	00:01:57	Lit the place up.	Y
+19	00:02:00	00:02:02	The ski masks are John Does.	N
+20	00:02:02	00:02:05	The rest have wallet IDs.	N
+21	00:02:13	00:02:17	Woman at the back is Julia Reed, cocktail waitress at the Tangiers.	N
+22	00:02:22	00:02:29	Man on Aisle Four is Rufus Sanders, cab driver.	N
+23	00:02:43	00:02:45	How you want us to handle this, Grissom?	N
+24	00:02:46	00:02:49	Same way you'd eat an elephant...	N
+25	00:02:49	00:02:53	one bite at a time.	N
+26	00:02:57	00:02:59	Hey, Jim...	N
+27	00:03:00	00:03:05	did you know that Charles Manson is only 5'2?	N
+28	00:03:05	00:03:07	Yeah, little guys tend to overcompensate.	N
+29	00:03:07	00:03:10	Do you remember the, uh, story about...	N
+30	00:03:10	00:03:14	how and where the marshals found old Charlie when they raided Barker Ranch?	N
+31	00:03:14	00:03:17	Yeah. I always, uh...	N
+32	00:03:17	00:03:20	I always liked that story.	N
+33	00:03:26	00:03:27	We need a medic!	N
+34	00:03:30	00:03:34	and Volkswagen. On the road of life there are passengers and there are drivers.	N
+35	00:04:04	00:04:07	All right, tell me what happened.	Y
+36	00:04:07	00:04:10	I was in my radio car when I heard shots fired.	Y
+37	00:04:10	00:04:12	I called for backup. I went in.	N
+38	00:04:13	00:04:14	Clay, talk to me.	N
+39	00:04:14	00:04:15	Clay!	N
+40	00:04:22	00:04:23	How many shots you fire?	Y
+41	00:04:23	00:04:27	Three. No, four. I fired four.	Y
+42	00:04:27	00:04:30	Then what? I saw my partner on the floor.	Y
+43	00:04:30	00:04:32	I went towards him.	Y
+44	00:04:32	00:04:34	Second gunman came at me.	N
+45	00:04:40	00:04:43	How many shots you fire at the second gunman, total?	N
+46	00:04:44	00:04:46	Maybe-maybe five.	Y
+47	00:04:46	00:04:49	I'd taken a shot in my vest.	N
+48	00:04:49	00:04:51	Hard to count under those conditions. Are you sure?	N
+49	00:04:51	00:04:53	No, I'm not sure. That's why I said maybe...	Y
+50	00:04:55	00:04:57	...but I know I shot four at the third guy.	Y
+51	00:04:57	00:04:59	I was going to check on my partner.	Y
+52	00:04:59	00:05:01	I caught movement in the back.	Y
+53	00:05:01	00:05:03	Black coat, ski mask, gun...	N
+54	00:05:03	00:05:04	I put him down.	N
+55	00:05:09	00:05:10	He fire at you?	N
+56	00:05:10	00:05:12	Didn't give him a chance.	N
+57	00:05:12	00:05:13	All right, that's all we need for now.	N
+58	00:05:13	00:05:16	I need your weapon.	N
+59	00:05:17	00:05:19	My partner...	Y
+60	00:05:19	00:05:20	I want to be the one to tell his wife.	Y
+61	00:05:21	00:05:22	He was my responsibility.	N
+62	00:05:22	00:05:24	All right.	N
+63	00:05:26	00:05:29	All right, look, if you're not going to say it, I will.	N
+64	00:05:30	00:05:34	Fromansky said he killed three, and there are two dead ski masks in there.	N
+65	00:05:34	00:05:38	Now, you cranked him up pretty good on that vigilante case last year.	N
+66	00:05:38	00:05:39	Is that going to be a problem?	N
+67	00:05:40	00:05:42	No.	N
+68	00:05:45	00:05:48	Everybody, could I please have your attention?	N
+69	00:05:48	00:05:51	All right, folks, I know that you've been through an awful lot this evening.	N
+70	00:05:51	00:05:59	If you could just bear with me a little longer, I need to talk with every one of you one at a time, so I promise to get you out of here as quickly as possible.	N
+71	00:06:00	00:06:04	Is the, uh, guy in black the cocktail waitress' husband?	N
+72	00:06:04	00:06:07	Yeah. Do you want him first?	N
+73	00:06:07	00:06:09	I don't think he's ready for me just yet.	N
+74	00:06:09	00:06:11	I'm going to get to him soon enough.	N
+75	00:06:24	00:06:26	What happened to your assault in Henderson?	N
+76	00:06:26	00:06:27	I closed it.	N
+77	00:06:27	00:06:28	Where do you need me?	N
+78	00:06:29	00:06:30	There's two more bodies over by the beer.	N
+79	00:06:30	00:06:33	You got it.	N
+80	00:06:38	00:06:40	Barely cleared the holster.	Y
+81	00:06:40	00:06:42	Reflex, maybe. Pulled the trigger before he had a target.	N
+82	00:06:44	00:06:47	Not quick enough.	Y
+83	00:06:52	00:06:56	Those two guys came out of nowhere... made everybody go to the corner.	Y
+84	00:06:56	00:06:58	Where, specifically?	Y
+85	00:06:58	00:07:01	Uh... dry goods.	Y
+86	00:07:01	00:07:02	Then one guy grabs Celeste...	Y
+87	00:07:06	00:07:07	Which guy?	Y
+88	00:07:07	00:07:10	I was looking at his piece, not his face, okay?	N
+89	00:07:10	00:07:11	Shotgun or handgun?	N
+90	00:07:11	00:07:17	Shotgun. He drags her over to the registers, makes her open 'em up. She does.	Y
+91	00:07:17	00:07:21	They're pulling out the cash, and then he sees the cops roll up.	N
+92	00:07:21	00:07:25	Second guy says, Everybody, get down and don't say a freaking word, so that's what I did.	N
+93	00:07:26	00:07:28	And then...	N
+94	00:07:29	00:07:30	And then?	N
+95	00:07:31	00:07:34	Ankles and flashes and booms.	N
+96	00:07:34	00:07:37	That's all I remember.	N
+97	00:07:37	00:07:39	And you never moved from that spot?	Y
+98	00:07:39	00:07:41	No, I didn't.	Y
+99	00:07:41	00:07:43	Do you have somewhere you need to be?	N
+100	00:07:47	00:07:49	I got to change my pants.	Y
+101	00:07:52	00:07:54	Sorry.	N
+102	00:08:26	00:08:29	Well, you know, we're not the most modern store around.	N
+103	00:08:29	00:08:31	How long is the surveillance loop?	N
+104	00:08:31	00:08:33	About 24 hours.	N
+105	00:08:42	00:08:45	What, uh... what happened to these tapes here?	N
+106	00:08:45	00:08:46	Nothing.	N
+107	00:08:46	00:08:48	These are active cameras, right?	N
+108	00:08:48	00:08:50	Those VCRs are busted.	N
+109	00:08:50	00:08:51	Never got 'em fixed.	N
+110	00:08:51	00:08:53	You know, cutbacks.	N
+111	00:08:53	00:08:54	Over the register and outside works.	N
+112	00:08:54	00:08:56	That's all we really need.	N
+113	00:08:56	00:08:57	Gotta keep an eye on the employees, right?	N
+114	00:08:58	00:09:01	They steal worse than the customers.	N
+115	00:09:14	00:09:16	You know, this guy hit a $75 jackpot.	N
+116	00:09:16	00:09:19	Probably shoving quarters in his pockets when this whole thing went down.	Y
+117	00:09:19	00:09:20	The door was 20 feet away.	N
+118	00:09:20	00:09:21	He probably could've made a run for it.	N
+119	00:09:21	00:09:25	You know, after the MGM Grand fire, they found people fused to slot machines.	N
+120	00:09:26	00:09:27	Never even made it out of their seats.	N
+121	00:09:27	00:09:29	This guy probably thought it was his lucky day.	N
+122	00:09:29	00:09:32	I'm sure he wasn't going to leave without his money.	N
+123	00:09:34	00:09:39	We all just started running when those two psychos started shooting it out with the cop...	N
+124	00:09:48	00:09:58	I took a first aid course about a hundred years ago, so I-I-I tried to keep pressure on the wound, but it just kept bleeding, you know?	N
+125	00:09:58	00:10:02	I couldn't leave Rufus all alone, scared, dying.	N
+126	00:10:02	00:10:04	You were friends?	N
+127	00:10:04	00:10:05	Mm, sort of.	N
+128	00:10:06	00:10:09	He-he'd come in a couple of times a week and play the quarter slots.	N
+129	00:10:09	00:10:13	From where you and Rufus were, could you see Officer Fromansky?	N
+130	00:10:13	00:10:15	Oh, the cop who saved us?	N
+131	00:10:15	00:10:18	No. I couldn't see anything.	N
+132	00:10:18	00:10:22	I just heard all that gunfire just blasting away.	N
+133	00:10:57	00:10:58	Hey.	N
+134	00:10:58	00:11:00	Hey.	N
+135	00:11:00	00:11:03	Entry wound's on the left side.	N
+136	00:11:03	00:11:04	There's no exit wound?	N
+137	00:11:21	00:11:22	Skin's thicker on the back.	N
+138	00:11:22	00:11:23	Captured the bullet.	N
+139	00:11:23	00:11:25	We'll retrieve it at autopsy.	Y
+140	00:11:27	00:11:29	I was, uh...	Y
+141	00:11:29	00:11:32	holding Julia's hand trying to find a place to hide...	N
+142	00:11:32	00:11:33	somewhere safe.	N
+143	00:11:35	00:11:39	It was those stupid heels, you know.	N
+144	00:11:39	00:11:41	She was always forgetting to bring her flats to work.	N
+145	00:11:51	00:11:53	They didn't have to shoot her.	N
+146	00:11:53	00:11:54	They were wearing masks.	N
+147	00:11:54	00:11:56	We didn't even get a good look at them.	N
+148	00:11:56	00:12:00	Mr. Reed, you can't look for reasons here.	N
+149	00:12:02	00:12:04	We'll have it out in a second.	N
+150	00:12:06	00:12:09	The trick is to apply even pressure all around.	N
+151	00:12:11	00:12:13	Is there something wrong with tweezers?	Y
+152	00:12:13	00:12:16	They can mess up the striae.	N
+153	00:12:16	00:12:20	You've got enough to deal with without my toolmarks in the mix.	Y
+154	00:12:20	00:12:22	Here we go.	N
+155	00:12:23	00:12:25	Huh.	N
+156	00:12:25	00:12:27	Paper or plastic?	Y
+157	00:12:34	00:12:38	Officer Clay's already been processed.	Y
+158	00:12:38	00:12:40	We wanted to get him to his family.	Y
+159	00:12:40	00:12:42	Did you get prints off the two suspects?	N
+160	00:12:42	00:12:43	Uh, yeah.	N
+161	00:12:43	00:12:45	They're right here.	N
+162	00:12:45	00:12:48	And we also got bullets from both of them.	Y
+163	00:12:49	00:12:50	Good.	N
+164	00:12:55	00:12:57	Prison tattoos.	N
+165	00:12:57	00:13:00	They weren't virgins.	N
+166	00:13:02	00:13:07	Hi, I was wondering if I might be able to speak with Celeste Turner.	Y
+167	00:13:07	00:13:08	She, uh, has a gunshot wound.	N
+168	00:13:09	00:13:11	She was brought in from the grocery store robbery.	Y
+169	00:13:11	00:13:14	Right. Curtain Three.	N
+170	00:13:14	00:13:17	Just out of surgery. Stable.	Y
+171	00:13:17	00:13:18	She's still pretty doped up, though.	N
+172	00:13:19	00:13:21	You're going to have to come back later.	N
+173	00:13:21	00:13:22	You going to need these?	N
+174	00:13:22	00:13:24	Yes. Thank you.	Y
+175	00:13:24	00:13:31	What can you tell me about the little boy who was also brought in from the robbery incident?	N
+176	00:13:31	00:13:34	Minor injuries. He's fine. Mostly shock.	N
+177	00:13:34	00:13:36	He's with his mom.	Y
+178	00:13:36	00:13:37	Hell of a night, huh?	N
+179	00:13:37	00:13:39	Take your kid to work, both end up shot.	N
+180	00:13:39	00:13:44	Wait a minute. So, the little boy's mother is Celeste Turner?	N
+181	00:13:44	00:13:45	Yeah.	N
+182	00:14:09	00:14:12	Son of a bitch was behind her the whole time.	N
+183	00:14:12	00:14:13	Yeah.	N
+184	00:14:16	00:14:18	Okay, here's what I got so far...	Y
+185	00:14:19	00:14:21	There's our two DOA suspects.	N
+186	00:14:22	00:14:25	Looks like they just walked in off the street.	Y
+187	00:14:27	00:14:31	Is there any sign of Fromansky's mystery gunner?	N
+188	00:14:31	00:14:37	No. All the cars in the parking lot were accounted for, and the loading dock out back was deserted, so...	Y
+189	00:14:38	00:14:40	This is the only view of what went down.	Y
+190	00:14:46	00:14:47	And see here?	N
+191	00:14:47	00:14:49	Here comes our cop.	N
+192	00:14:49	00:14:52	Three, four feet away, doesn't even see him.	N
+193	00:14:52	00:14:59	The thing I hate the most is the bad guys always know if there's going to be a gunfight.	N
+194	00:15:01	00:15:04	Officer Clay's one shot went into the floor.	N
+195	00:15:04	00:15:05	The bullet fragmented.	N
+196	00:15:05	00:15:07	That's probably how that kid got hit.	N
+197	00:15:07	00:15:13	But Officer Fromansky's Beretta and that suspect's TEC-9, they both had hollow .9 millimeters.	N
+198	00:15:13	00:15:16	Between the two of them, they shot off 18 rounds.	N
+199	00:15:16	00:15:18	Shotgun was a Mossberg, model 500.	N
+200	00:15:18	00:15:19	Eight rounds fired.	N
+201	00:15:19	00:15:22	Ammo was double-aught buckshot, nine pellets per shell.	N
+202	00:15:22	00:15:27	18 bullets, a total of 26 shells, 72 pellets. Enjoy.	N
+203	00:15:31	00:15:33	Firing two shots!	N
+204	00:16:56	00:16:58	Warrick.	N
+205	00:17:05	00:17:07	Grissom, we got a problem.	Y
+206	00:17:07	00:17:08	Only one?	N
+207	00:17:08	00:17:11	We've identified all the bullets recovered at the scene.	Y
+208	00:17:11	00:17:14	There's no evidence of a third gunmen.	Y
+209	00:17:14	00:17:15	It gets worse.	N
+210	00:17:15	00:17:19	The bullet that killed the cocktail waitress-- it came from Fromansky's gun.	N
+211	00:17:24	00:17:25	How you feeling, Officer?	Y
+212	00:17:25	00:17:27	Little sore.	Y
+213	00:17:27	00:17:30	Desk duty hurts a lot more.	N
+214	00:17:30	00:17:33	Is there anything you want to add to your statement?	N
+215	00:17:33	00:17:37	What's he saying I did this time?	Y
+216	00:17:37	00:17:39	A bullet from your gun killed a cocktail waitress.	N
+217	00:17:42	00:17:43	A ricochet.	N
+218	00:17:43	00:17:45	No.	N
+219	00:17:45	00:17:46	A clean shot.	N
+220	00:17:46	00:17:48	Not possible.	N
+221	00:17:48	00:17:50	No one at the scene saw a third gunman.	N
+222	00:17:50	00:17:52	I would never shoot at a civilian.	N
+223	00:17:52	00:17:56	I saw a guy wearing a ski mask, dark coat, holding a gun.	N
+224	00:17:56	00:17:59	The girl was wearing a black sweater, carrying a purse.	N
+225	00:17:59	00:18:00	I didn't shoot at that.	N
+226	00:18:01	00:18:02	You'd just took a full load in the chest.	N
+227	00:18:02	00:18:03	Maybe you were confused.	N
+228	00:18:03	00:18:05	Wasn't confused.	N
+229	00:18:06	00:18:11	Your statement says that you fired four shots at this third gunman.	Y
+230	00:18:11	00:18:12	Yeah.	Y
+231	00:18:12	00:18:16	Ballistics evidence shows that you spread five shots over the back wall.	N
+232	00:18:16	00:18:18	So I fired more than I thought. So what.	Y
+233	00:18:18	00:18:22	I was engaged with multiple hostile targets You're not back in the Gulf.	Y
+234	00:18:22	00:18:23	You're a police officer.	N
+235	00:18:23	00:18:24	You're supposed to identify a target.	Y
+236	00:18:24	00:18:26	And that's what I did.	Y
+237	00:18:27	00:18:31	What are you, pissed off because the last time you tried to jam me up didn't work?	Y
+238	00:18:31	00:18:32	Hey, ease up.	Y
+239	00:18:32	00:18:34	What I said in my statement is the truth.	N
+240	00:18:34	00:18:38	The truth is, we have a dead civilian with your bullet in her.	Y
+241	00:18:42	00:18:44	This going to the next step?	N
+242	00:18:44	00:18:47	It has to.	N
+243	00:18:48	00:18:52	You're on administrative leave pending an IAB review.	Y
+244	00:18:54	00:18:58	There was no way I could warn that cop.	Y
+245	00:19:01	00:19:03	I wanted to...	Y
+246	00:19:03	00:19:08	but the guy was right there, under the counter...	Y
+247	00:19:08	00:19:11	pushing his gun right into my stomach.	N
+248	00:19:14	00:19:16	I'm sorry.	Y
+249	00:19:16	00:19:19	You're not the one that pulled the trigger.	Y
+250	00:19:19	00:19:23	Ms. Turner, what was your son doing there with you?	Y
+251	00:19:23	00:19:26	Well, my ex was looking after him that night.	Y
+252	00:19:26	00:19:30	Then the son of a bitch shows up at the store.	Y
+253	00:19:30	00:19:32	Had a party to go to.	N
+254	00:19:32	00:19:35	Practically shoved Henry out of the car.	N
+255	00:19:35	00:19:36	I mean...	N
+256	00:19:36	00:19:40	I'm not allowed to bring kids to work.	N
+257	00:19:40	00:19:46	So I snuck Henry into the office, and I told him to stay there.	N
+258	00:19:47	00:19:48	Then?	Y
+259	00:19:48	00:19:52	Then those two maniacs came in.	N
+260	00:19:52	00:19:54	They shot that poor policeman.	N
+261	00:19:59	00:20:03	And then everything just went crazy.	N
+262	00:20:03	00:20:05	I was running, and I ran to go find Henry...	N
+263	00:20:05	00:20:08	but I couldn't find him anywhere.	N
+264	00:20:09	00:20:10	Henry!	N
+265	00:20:14	00:20:17	That's all I remember.	N
+266	00:20:22	00:20:24	Henry likes his candy, doesn't he?	N
+267	00:20:25	00:20:28	He's got five cavities to prove it.	N
+268	00:20:28	00:20:30	How'd you know?	Y
+269	00:20:30	00:20:34	Well, we found him in a storage cabinet, near the candy rack.	Y
+270	00:20:34	00:20:37	He never listens to me.	Y
+271	00:20:39	00:20:43	Double counts, two people in the room at all times.	Y
+272	00:20:43	00:20:48	When you're done, match the total amounts with the register receipts, okay?	N
+273	00:20:48	00:20:55	So, explain to me what all the money was doing in the registers and not the store safe.	Y
+274	00:20:55	00:20:58	See that light? It's called a halo.	N
+275	00:20:58	00:21:01	It's keyed to the sensor in the cash register.	Y
+276	00:21:01	00:21:07	Now, at a preset amount, that light goes off, letting the store manager know it's time to transfer the cash to the safe.	Y
+277	00:21:07	00:21:09	Now check this out...	N
+278	00:21:14	00:21:16	Most of the halos are lit.	N
+279	00:21:16	00:21:19	Maximum cash, just lying in the drawers.	N
+280	00:21:19	00:21:21	So, those guys did their homework.	N
+281	00:21:21	00:21:24	They picked the perfect time to hit. Mm-hmm.	N
+282	00:21:24	00:21:30	AFIS hits on our suspects, both just recently released from five-year sentences at Lompoc.	N
+283	00:21:30	00:21:32	California boys.	N
+284	00:21:32	00:21:33	Born and raised.	N
+285	00:21:33	00:21:35	Okay. Let's do this.	N
+286	00:21:35	00:21:39	Officer Clay was killed by a single close-range shotgun blast to the back of the head.	N
+287	00:21:39	00:21:42	Excessive penetration and laceration of the brain.	N
+288	00:21:42	00:21:44	Suspect Clyde Tremmel...	N
+289	00:21:44	00:21:47	The TEC-9 guy.	N
+290	00:21:47	00:21:53	Two distant-range, medium-caliber gunshot wounds to the front of the chest, with penetration of the lung and heart.	N
+291	00:21:54	00:21:55	Suspect Jack Delver...	N
+292	00:21:55	00:21:57	Shotgun guy.	N
+293	00:21:57	00:22:05	One distant-range, medium-caliber gunshot wound to the forehead. The bullet penetrated the brain and was recovered in the occipital lobe.	N
+294	00:22:06	00:22:08	Rufus Sanders, bystander...	N
+295	00:22:08	00:22:11	Five scattered buckshot perforations on the outer thigh.	N
+296	00:22:11	00:22:14	One severed the femoral artery, resulting in massive hemorrhage.	N
+297	00:22:14	00:22:18	And Julia Reed, cocktail waitress.	N
+298	00:22:18	00:22:21	Single medium-caliber gunshot wound to the left chest.	N
+299	00:22:21	00:22:28	The bullet perforated the lung and thoracic aorta, then perforated the opposite lung. And that's it.	N
+300	00:22:28	00:22:30	Thanks, Doc.	N
+301	00:22:37	00:22:39	Catherine, something bothering you?	N
+302	00:22:39	00:22:41	A little.	N
+303	00:22:41	00:22:44	Look, I came here to pick up my wife's body.	N
+304	00:22:44	00:22:45	I already gave you my statement.	N
+305	00:22:45	00:22:49	Well, we just need a few more details before we can release the body.	N
+306	00:22:49	00:22:50	I promise this won't be long.	N
+307	00:22:51	00:22:52	What?	N
+308	00:22:52	00:22:57	Well, you said that your wife fell during the gunfight, that that's how you got separated.	N
+309	00:22:57	00:22:58	Yeah.	N
+310	00:22:58	00:23:02	Do you recall exactly how she fell?	N
+311	00:23:02	00:23:03	Well, what do you mean?	N
+312	00:23:03	00:23:04	How did she land?	N
+313	00:23:04	00:23:09	Did she land sideways, backwards...?	N
+314	00:23:09	00:23:12	She fell forward, I think.	N
+315	00:23:12	00:23:13	She fell forward.	N
+316	00:23:13	00:23:17	So her hands broke the fall, landed on her knees?	N
+317	00:23:17	00:23:18	Yeah.	N
+318	00:23:19	00:23:26	Well, there weren't any bruises or scrapes on her knees or elbows, which is leading me to believe that she didn't fall.	Y
+319	00:23:26	00:23:28	Well, what's-what's the difference?	N
+320	00:23:28	00:23:29	She's dead.	Y
+321	00:23:30	00:23:39	Mr. Reed, there were a lot of bullets flying around that store and a lot of victims, and every detail is important, but they don't help if they're not accurate.	N
+322	00:23:41	00:23:43	Well, when we started running...	N
+323	00:23:45	00:23:46	she was right behind me.	Y
+324	00:23:52	00:23:58	She froze up.	N
+325	00:23:58	00:24:02	Just stood there looking right at me...	Y
+326	00:24:02	00:24:05	scared out of her mind.	Y
+327	00:24:05	00:24:09	I... yelled at her to get down, to come over to me.	N
+328	00:24:11	00:24:14	Sh-She wouldn't move.	N
+329	00:24:14	00:24:17	I mean I'm...	N
+330	00:24:17	00:24:20	I'm pretty sure I yelled.	Y
+331	00:24:20	00:24:23	Highlight the shots that killed the TEC-9 shooter.	N
+332	00:24:25	00:24:29	Fromansky said that he fired three or four shots at that target.	N
+333	00:24:29	00:24:31	He fired four.	Y
+334	00:24:31	00:24:32	That accounts for those shots.	N
+335	00:24:40	00:24:44	Okay, the guy with the shotgun was killed with... one bullet.	N
+336	00:24:44	00:24:48	Well, those four shots were definitely meant for him.	N
+337	00:24:48	00:24:53	But this shot is closer to the second gunman than it is to the cocktail waitress.	Y
+338	00:24:53	00:24:58	Well, Fromansky was turning when he fired so his shots were spread out.	N
+339	00:25:14	00:25:16	Okay.	N
+340	00:25:17	00:25:22	Which means Fromansky fired four shots at a target at the back of the store.	N
+341	00:25:23	00:25:24	Just like he said he did.	N
+342	00:25:24	00:25:25	Yeah.	N
+343	00:25:29	00:25:35	At the walk-through you said that you saw a third suspect at the back of the store.	N
+344	00:25:35	00:25:37	Why did you make the decision to shoot?	N
+345	00:25:37	00:25:39	I was in fear for my life.	N
+346	00:25:39	00:25:41	Did you see a weapon?	N
+347	00:25:41	00:25:42	Yes.	N
+348	00:25:42	00:25:44	What kind?	Y
+349	00:25:45	00:25:48	A semiautomatic pistol.	N
+350	00:25:48	00:25:50	So you fired first.	N
+351	00:25:50	00:25:51	Yes.	N
+352	00:25:51	00:25:53	Four times. Yes.	N
+353	00:25:53	00:25:57	Can you explain the lack of evidence for a third suspect at the scene?	N
+354	00:25:57	00:25:59	That's not my job.	N
+355	00:26:02	00:26:06	Right or wrong, there'll be guys on the job who'll think this was personal.	N
+356	00:26:06	00:26:08	They'd be wrong.	N
+357	00:26:08	00:26:12	Did you see Julia Reed in your line of fire?	N
+358	00:26:12	00:26:13	No.	N
+359	00:26:15	00:26:23	According to Supervising Criminalist Grissom's report, you had an unobstructed view of Ms. Reed, so how do you explain the fact that you didn't see her?	N
+360	00:26:25	00:26:27	I can't.	N
+361	00:26:27	00:26:32	You don't deny that a bullet from your weapon killed her?	N
+362	00:26:32	00:26:35	I'm not denying that.	N
+363	00:26:35	00:26:38	But you can't explain it?	N
+364	00:26:39	00:26:42	No.	N
+365	00:26:42	00:26:45	Look, your partner was dead.	N
+366	00:26:46	00:26:47	You'd been shot.	N
+367	00:26:47	00:26:51	You saw someone you thought was a suspect and you fired.	N
+368	00:26:51	00:26:56	Under those circumstances, any one of us could make a mistake.	N
+369	00:26:56	00:26:59	Did you?	N
+370	00:27:02	00:27:06	Officer Fromansky, answer the question.	N
+371	00:27:11	00:27:13	He says yes, he's a bad cop.	N
+372	00:27:13	00:27:17	He says no, he's a liar.	N
+373	00:27:17	00:27:22	Maybe he really doesn't know what happened.	Y
+374	00:27:29	00:27:30	A little over.	N
+375	00:27:30	00:27:33	Perfect.	N
+376	00:27:33	00:27:36	Let's say I'm Fromansky.	Y
+377	00:27:41	00:27:44	There's nothing between Fromansky and the cocktail waitress.	N
+378	00:27:44	00:27:46	I got a clean view and a clear shot.	N
+379	00:27:49	00:27:53	Hey, take a look at this.	N
+380	00:27:53	00:28:01	The cracks in the glass from shot 22 are terminated by the cracks from shot 23.	N
+381	00:28:10	00:28:13	So, shot 23 had to occur before shot 22.	N
+382	00:28:13	00:28:20	Which means that Fromansky was firing from left to right, not right to left.	N
+383	00:28:27	00:28:30	Four shots on a level spread.	N
+384	00:28:30	00:28:32	He was shooting at a moving target.	N
+385	00:28:32	00:28:36	According to Catherine's witness, the cocktail waitress wasn't moving.	N
+386	00:28:36	00:28:38	She was a stationary target.	N
+387	00:28:40	00:28:46	So, if he was shooting at a moving target, where was it moving to?	N
+388	00:29:07	00:29:09	We have the surveillance tape.	N
+389	00:29:09	00:29:15	Shows nothing going on here before, during or after the robbery.	Y
+390	00:29:16	00:29:22	Well, just because it shows nothing doesn't mean it's seeing everything.	Y
+391	00:29:24	00:29:26	You can see me now, right?	N
+392	00:29:26	00:29:28	Keep moving to your right.	N
+393	00:29:28	00:29:30	All right.	N
+394	00:29:30	00:29:32	Keep going.	N
+395	00:29:32	00:29:33	I'm still in?	N
+396	00:29:33	00:29:34	Keep going.	N
+397	00:29:34	00:29:36	Right there.	N
+398	00:29:36	00:29:37	NOW you're out.	N
+399	00:29:54	00:29:55	Tell me what you see.	N
+400	00:29:55	00:29:58	A getaway.	N
+401	00:30:04	00:30:07	We found metal paint scrapings and skid marks.	N
+402	00:30:07	00:30:08	Both recent on that loading dock.	N
+403	00:30:08	00:30:10	These guys definitely had a wheelman.	N
+404	00:30:10	00:30:13	Yeah, guy slips in after everything gets started.	N
+405	00:30:13	00:30:15	During the confusion, nobody sees him.	N
+406	00:30:15	00:30:17	Or no one that was alive to tell anyway.	N
+407	00:30:17	00:30:19	Except Fromansky. Yeah.	N
+408	00:30:19	00:30:20	Well, the suspects knew there was a blind spot.	N
+409	00:30:21	00:30:22	It has to be an inside job.	N
+410	00:30:22	00:30:23	Oh, no doubt.	N
+411	00:30:23	00:30:27	Matched the cash from the garbage bag to the register receipts-- $878 was missing.	N
+412	00:30:27	00:30:29	Somebody came out ahead.	N
+413	00:30:29	00:30:30	Inside guy?	N
+414	00:30:30	00:30:32	Well, I'll run the employees.	N
+415	00:30:32	00:30:35	Maybe somebody's got a record.	N
+416	00:30:46	00:30:49	Ran your paint chips through PPG and DuPont.	N
+417	00:30:49	00:30:50	Got a hit.	N
+418	00:30:50	00:30:52	Aegean blue Honda Accord.	N
+419	00:30:52	00:30:54	Popular color.	N
+420	00:30:54	00:30:55	They carried it over for four years.	N
+421	00:30:55	00:30:56	Go figure.	N
+422	00:30:57	00:30:59	I'm a teal man myself.	N
+423	00:30:59	00:31:01	You?	N
+424	00:31:03	00:31:05	Stupid question.	N
+425	00:31:05	00:31:08	Anyway, model years '84 to '87.	N
+426	00:31:08	00:31:10	I'll put out a broadcast.	N
+427	00:31:10	00:31:11	Thanks, Hodges.	N
+428	00:31:11	00:31:12	Sure.	N
+429	00:31:18	00:31:21	Before this goes any deeper, I want to hear it from you.	N
+430	00:31:22	00:31:24	Are you going to try to screw me on this?	N
+431	00:31:28	00:31:30	Well?	N
+432	00:31:30	00:31:34	I guess it depends on whether I get stuck in traffic on the way to your hearing.	N
+433	00:31:45	00:31:48	So, this car was reported stolen about, uh, oh, about three weeks ago.	N
+434	00:31:49	00:31:50	Why don't you take the front.	N
+435	00:31:50	00:31:53	I'll take the back.	Y
+436	00:32:28	00:32:31	pH 13. Sodium hydroxide.	Y
+437	00:32:42	00:32:45	Got a cell phone.	Y
+438	00:32:45	00:32:47	There's a lot of scung on it.	N
+439	00:32:47	00:32:52	Won't be too good for prints, but let me check the call history.	Y
+440	00:32:55	00:32:57	Same number keeps popping up.	N
+441	00:33:03	00:33:06	Best Bargain is temporarily closed.	Y
+442	00:33:06	00:33:08	Please check back tomorrow.	Y
+443	00:33:08	00:33:11	Well, this is interesting.	Y
+444	00:33:11	00:33:17	Before the robbery went down, somebody at the store was very eager to talk to our suspects.	Y
+445	00:33:18	00:33:19	Same number.	Y
+446	00:33:19	00:33:20	Yeah?	N
+447	00:33:21	00:33:23	Maybe he can tell us who.	Y
+448	00:33:28	00:33:29	Todd Hallickey.	N
+449	00:33:29	00:33:34	Look, I don't know why you guys brought me here, but you got no right tossing my apartment.	Y
+450	00:33:34	00:33:39	We matched your prints from a stolen car off the prints from a prior car theft, and bingo, we had a match.	Y
+451	00:33:39	00:33:41	Got a warrant for your apartment.	N
+452	00:33:42	00:33:44	I don't boost cars no more.	N
+453	00:33:44	00:33:46	Yeah, right.	N
+454	00:33:47	00:33:48	Oh, wait. No, I...	N
+455	00:33:48	00:33:53	I was looking into getting some wheels a couple of weeks ago.	Y
+456	00:33:53	00:33:57	I test-drove this old Honda Accord this guy was trying to unload.	Y
+457	00:33:57	00:34:02	An '86 Aegean blue with matching velour interior?	Y
+458	00:34:02	00:34:03	Yeah, that was it.	Y
+459	00:34:03	00:34:05	Must be how my print got there.	Y
+460	00:34:06	00:34:08	Didn't buy the car.	Y
+461	00:34:08	00:34:10	Guy seemed kind of shady.	Y
+462	00:34:10	00:34:15	You wouldn't happen to remember this shady guy's name, would you?	Y
+463	00:34:15	00:34:16	Come on.	N
+464	00:34:16	00:34:19	No one keeps track of stuff like that.	Y
+465	00:34:19	00:34:21	Right.	N
+466	00:34:22	00:34:25	You own any firearms, Mr. Hallickey?	N
+467	00:34:25	00:34:26	No, sir, I'm on parole.	N
+468	00:34:27	00:34:30	Besides, I don't believe in guns.	N
+469	00:34:30	00:34:32	They're dangerous.	N
+470	00:34:32	00:34:34	You know, that's a nasty injury you got there, Todd.	N
+471	00:34:34	00:34:36	Looks kind of painful.	N
+472	00:34:36	00:34:37	How'd you get it?	N
+473	00:34:37	00:34:38	It's a rash.	N
+474	00:34:38	00:34:41	Looks like a chemical burn to me.	N
+475	00:34:41	00:34:43	You know what sodium hydroxide is?	N
+476	00:34:43	00:34:45	Never heard of it.	N
+477	00:34:45	00:34:47	It's the active ingredient in drain cleaner.	N
+478	00:34:47	00:34:51	It opens up the pipes, dissolves flesh and fabrics.	N
+479	00:34:57	00:35:02	Look, you want to pin that car on me, you go ahead and try.	N
+480	00:35:02	00:35:05	I got this off the jacket from your apartment.	N
+481	00:35:05	00:35:07	What the hell is this?	N
+482	00:35:07	00:35:08	It's a bullet wipe.	N
+483	00:35:08	00:35:11	A test for lead.	N
+484	00:35:14	00:35:16	Congratulations.	N
+485	00:35:16	00:35:18	You passed.	N
+486	00:35:22	00:35:25	Hallickey's got no connection to the grocery store.	N
+487	00:35:25	00:35:26	He was just the wheel man.	N
+488	00:35:26	00:35:28	Still, he's looking at four counts of felony murder.	N
+489	00:35:28	00:35:30	But he's not talking. He lawyered up.	N
+490	00:35:31	00:35:32	We got a bullet hole in a jacket.	N
+491	00:35:32	00:35:34	That's not even enough to prove that he was in the store.	N
+492	00:35:35	00:35:35	What about the cash?	N
+493	00:35:36	00:35:36	It wasn't in his apartment.	N
+494	00:35:37	00:35:38	Maybe somebody else took it.	N
+495	00:35:39	00:35:40	Almost $900 in small bills?	N
+496	00:35:40	00:35:43	We'd have noticed pockets bulging with a wad like that.	N
+497	00:35:43	00:35:46	What about the calls from the grocery store to the suspect's cell?	N
+498	00:35:47	00:35:49	That could have been somebody giving the go signal.	N
+499	00:35:49	00:35:50	There's no way to tell who.	N
+500	00:35:50	00:35:56	The store runs off of an old PBX system, and every call that comes in goes back to the same number.	N
+501	00:35:56	00:35:59	Every employee was near a phone, so, it could have been anybody.	N
+502	00:35:59	00:36:00	Hey, y'all.	N
+503	00:36:00	00:36:02	Ran the criminal records for the employees.	N
+504	00:36:02	00:36:04	Came up with a Raul Valdez.	N
+505	00:36:04	00:36:05	Freight loader.	N
+506	00:36:05	00:36:07	He clocked in for work that night.	N
+507	00:36:07	00:36:09	Never clocked out.	N
+508	00:36:10	00:36:13	No one by that name interviewed at the scene?	N
+509	00:36:14	00:36:15	Here's the kicker.	N
+510	00:36:15	00:36:17	A few years ago, he spent some time in prison.	N
+511	00:36:17	00:36:18	Lompoc.	N
+512	00:36:18	00:36:22	So, Brass is trying to find him now.	N
+513	00:37:06	00:37:07	I got to change my pants.	N
+514	00:37:33	00:37:37	You left something in the store besides a urine stain.	N
+515	00:37:40	00:37:42	Just a little too tempting, huh?	N
+516	00:37:42	00:37:46	All that cash just sitting there right in front of your face...	Y
+517	00:37:52	00:37:57	Look, I go to that store to bag groceries, not to get my ass shot off.	N
+518	00:37:57	00:38:00	I figure I earned the money.	Y
+519	00:38:00	00:38:01	Kind of like working overtime.	Y
+520	00:38:01	00:38:03	Might as well get something for all your trouble, right?	N
+521	00:38:04	00:38:07	Considering the fact that your nice little robbery had gone straight to hell.	Y
+522	00:38:07	00:38:08	Whoa, wait a minute.	N
+523	00:38:08	00:38:09	You think...?	N
+524	00:38:09	00:38:11	No way.	N
+525	00:38:11	00:38:12	It was an inside job.	N
+526	00:38:12	00:38:14	You knew the registers were full.	N
+527	00:38:14	00:38:17	Those gunmen had help from an employee.	N
+528	00:38:17	00:38:18	Not from me, they didn't.	N
+529	00:38:18	00:38:23	Look, you want to bust me for the money, go ahead, I took it.	N
+530	00:38:23	00:38:25	But I did not set the thing up.	N
+531	00:38:37	00:38:41	You know, Hodges already analyzed trace on the bullets.	N
+532	00:38:41	00:38:43	Yeah, I wanted to take a look myself.	N
+533	00:38:43	00:38:45	He'll take it personally.	N
+534	00:38:45	00:38:46	Good.	N
+535	00:38:50	00:38:56	The report says that the cocktail waitress was wearing a black wool sweater.	Y
+536	00:38:56	00:39:00	Was she also wearing something polyester?	Y
+537	00:39:00	00:39:02	No.	Y
+538	00:39:02	00:39:04	Take a look at this.	N
+539	00:39:09	00:39:11	Black fibers.	N
+540	00:39:11	00:39:13	Probably synthetic.	N
+541	00:39:14	00:39:16	Mixed in with the wool.	Y
+542	00:39:18	00:39:23	If their gunman was wearing a black polyester jacket...	Y
+543	00:39:23	00:39:27	Fromansky claims that he was tunnel-visioned on the gunman.	Y
+544	00:39:27	00:39:33	So, it's possible that he never even saw the cocktail waitress.	Y
+545	00:39:49	00:39:52	You may have just saved Fromansky's ass.	Y
+546	00:39:54	00:39:56	Hey, Catherine, how'd it go with the bag boy?	Y
+547	00:39:56	00:40:00	He admitted to swiping the cash, but he wouldn't cop to the robbery.	N
+548	00:40:00	00:40:02	Then I have something you should see.	N
+549	00:40:02	00:40:10	I was going back through the surveillance tapes covering the loading dock, thinking I might find someone scouting a blind spot, you know?	Y
+550	00:40:10	00:40:13	But instead, I found this.	N
+551	00:40:13	00:40:17	Two nights before the robbery.	N
+552	00:40:17	00:40:20	There.	Y
+553	00:40:20	00:40:21	See that?	N
+554	00:40:21	00:40:23	One more time.	N
+555	00:40:26	00:40:30	That camera's stationary, so...	Y
+556	00:40:30	00:40:33	Somebody moved the camera.	N
+557	00:40:35	00:40:38	You used to part-time at the Forum shops.	Y
+558	00:40:38	00:40:40	We got your prints off your work card.	Y
+559	00:40:41	00:40:45	It was the same print that we got off the loading dock surveillance camera.	N
+560	00:40:52	00:40:57	Raul Valdez, an ex-con-- your co-worker.	N
+561	00:40:57	00:41:01	You got him to give you the names of some guys to do the job.	Y
+562	00:41:01	00:41:05	You give them the best time to hit the registers.	N
+563	00:41:05	00:41:08	You tell them where to park.	N
+564	00:41:08	00:41:10	It's a good plan.	N
+565	00:41:10	00:41:14	Until your ex showed up and leaves you with your kid.	N
+566	00:41:14	00:41:19	Then you panic, and you call your guys, try to call it off, but they won't listen.	N
+567	00:41:19	00:41:23	If that's what happened, that could go in your favor.	N
+568	00:41:24	00:41:26	When we find Raul, he'll give you up in a heartbeat.	N
+569	00:41:26	00:41:29	I think I need to get a lawyer.	N
+570	00:41:29	00:41:32	What you need is come clean and cooperate.	N
+571	00:41:32	00:41:38	And you better hope and pray the DA doesn't want to put a needle in your arm for killing five people, including a cop.	N
+572	00:41:43	00:41:48	I have been working at that store for five years.	N
+573	00:41:48	00:41:51	38 hours a week.	N
+574	00:41:51	00:41:56	38... not 40.	N
+575	00:41:56	00:41:58	You know why?	N
+576	00:41:58	00:42:05	Because my manager won't give me enough hours to qualify for benefits.	N
+577	00:42:09	00:42:11	I have a kid...	N
+578	00:42:11	00:42:14	with rotten teeth.	N
+579	00:42:19	00:42:22	I never meant for anybody to get hurt.	N
+580	00:42:31	00:42:35	Officer Fromansky, if you could smile, please?	N
+581	00:42:35	00:42:36	Thank you; right over here.	N
+582	00:42:36	00:42:38	Guy from the mayor's office.	N
+583	00:42:38	00:42:40	Fromansky's getting a commendation.	N
+584	00:42:40	00:42:42	What do you think?	N
+585	00:42:42	00:42:46	Two dead felons, two dead civilians a dead policeman...	N
+586	00:42:46	00:42:48	I don't know what to think.	N

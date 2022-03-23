@@ -1,0 +1,667 @@
+	start	end	text	label
+0	00:00:19	00:00:22	I don't wanna go!	N
+1	00:00:22	00:00:24	Whoa! Ooh!	N
+2	00:00:24	00:00:26	Oh, Mommy.	N
+3	00:00:27	00:00:29	We're all going to die.	N
+4	00:00:30	00:00:32	Joey, put your seat belt on. NOW.	N
+5	00:00:36	00:00:37	Hold on tight, here we go!	N
+6	00:01:02	00:01:04	Okay, guys, come on.	N
+7	00:01:04	00:01:06	That was so fun.	N
+8	00:01:06	00:01:10	All right, ladies and gentlemen, welcome to Pharaoh's Fever.	N
+9	00:01:10	00:01:12	Buckle up. Get ready to scream.	N
+10	00:01:14	00:01:17	That was so awesome.	N
+11	00:01:17	00:01:20	Um, we'll ride it in a minute.	N
+12	00:01:20	00:01:25	Um, four King Tut burgers, uh, two Nile River ice teas and two milks.	N
+13	00:01:25	00:01:28	Milk is nasty. Yeah.	N
+14	00:01:58	00:02:02	So, Dr. Thrillseeker, you ever been on this roller coaster?	N
+15	00:02:02	00:02:04	Pharaoh's Fever, yeah...	N
+16	00:02:05	00:02:08	but my ride ended at the platform.	N
+17	00:02:10	00:02:11	What do you know?	N
+18	00:02:12	00:02:14	Six dead.	N
+19	00:02:14	00:02:20	Park full of eyewitnesses saw the train fly off the tracks. 401B.	N
+20	00:02:20	00:02:21	Accident with injury.	N
+21	00:02:21	00:02:22	Uh-huh.	N
+22	00:02:22	00:02:24	It's also a 418B.	N
+23	00:02:24	00:02:27	A runaway?	N
+24	00:02:28	00:02:30	A runaway train.	N
+25	00:03:08	00:03:09	Hey.	N
+26	00:03:09	00:03:10	Sorry we're late.	N
+27	00:03:10	00:03:13	There was a news van blocking the entrance.	N
+28	00:03:13	00:03:16	This is the first time a roller coaster has derailed in Clark County.	N
+29	00:03:16	00:03:20	Huge criminal and civil liabilities issues, so keep it quiet.	N
+30	00:03:20	00:03:22	Photograph the scene.	N
+31	00:03:22	00:03:24	Bag and tag all the detritus.	N
+32	00:03:25	00:03:26	Forklift anything bigger than Greg.	N
+33	00:03:26	00:03:32	We're going to put up a tent on the other side of the parking lot for accident reconstruction. Questions?	N
+34	00:03:32	00:03:37	Yeah. What's that guy doing so far away from the others?	N
+35	00:03:38	00:03:41	Curious, isn't it?	N
+36	00:03:41	00:03:46	So, when he asks if anybody has any questions, he's not really asking?	N
+37	00:03:46	00:03:54	Well, I don't know much about roller coaster accidents, but in auto collisions, the victims found furthest away from the car usually weren't wearing a seat belt.	N
+38	00:03:54	00:03:56	That'd be my bet.	N
+39	00:04:01	00:04:04	Okay, let's go to work.	N
+40	00:04:04	00:04:05	What should I do?	N
+41	00:04:05	00:04:10	Photo-evidence log-- just record everything we collect, okay?	N
+42	00:04:25	00:04:28	Couple of mountain bikers called in the body.	N
+43	00:04:28	00:04:30	Coroner just arrived.	N
+44	00:04:32	00:04:34	Hi, David.	N
+45	00:04:34	00:04:36	Hey.	N
+46	00:04:37	00:04:38	Tessa Press.	N
+47	00:04:38	00:04:41	School I.D. was in her pocket.	N
+48	00:04:41	00:04:42	She's 13.	N
+49	00:04:42	00:04:45	I hate these cases.	N
+50	00:04:45	00:04:50	Now... the body position is inconsistent with her lividity.	N
+51	00:04:51	00:04:54	After she died, blood settled to her anterior and lividity fixed.	N
+52	00:04:54	00:04:56	So she had been facedown.	N
+53	00:04:56	00:04:57	Yeah.	N
+54	00:04:58	00:05:00	And someone dumped her face up.	N
+55	00:05:00	00:05:02	How long has she been here?	N
+56	00:05:02	00:05:06	I'll defer that question to the insects.	N
+57	00:05:12	00:05:13	Instar maggots.	N
+58	00:05:14	00:05:20	Given the ambient temperature and last night's rain, I'd estimate she's been out here 24 hours.	N
+59	00:05:20	00:05:24	Takes that long for blowfly eggs to hatch.	Y
+60	00:05:28	00:05:30	tire prints, shoe impressions.	N
+61	00:05:30	00:05:32	Let's just hope there's some evidence on her body.	N
+62	00:05:32	00:05:37	If you're going to drive all the way out here to dump a body, why not take another ten minutes and bury her?	N
+63	00:05:37	00:05:41	Guess it wasn't worth the killer's time.	N
+64	00:06:34	00:06:36	So, how long you been operating the roller coaster?	Y
+65	00:06:36	00:06:38	Couple of months. I got a promotion.	Y
+66	00:06:38	00:06:39	I used to work the merry-go-round.	Y
+67	00:06:40	00:06:41	That's a promotion, huh?	N
+68	00:06:41	00:06:44	Yeah. Only little kids go on the merry-go-round.	N
+69	00:06:44	00:06:48	Oh, I see. So you get to meet girls your own age on Pharaoh's Fever.	N
+70	00:06:48	00:06:50	Yeah, something like that.	N
+71	00:06:50	00:06:53	What kind of training do you get to be an operator?	N
+72	00:06:53	00:06:55	Training? I release the brake.	N
+73	00:06:55	00:06:57	I press a button.	N
+74	00:06:57	00:06:58	It's green and marked start.	N
+75	00:06:58	00:07:00	I get the picture.	Y
+76	00:07:00	00:07:01	All right, look, there are six victims.	Y
+77	00:07:01	00:07:04	It'd be helpful to know where each of them was sitting.	N
+78	00:07:04	00:07:06	Um...	N
+79	00:07:06	00:07:08	front bench was a girl.	N
+80	00:07:08	00:07:09	She was blond.	N
+81	00:07:09	00:07:11	Yeah? Cute.	N
+82	00:07:14	00:07:18	Uh, followed by a punk, old folks and some other dude.	N
+83	00:07:20	00:07:21	That's only five.	N
+84	00:07:21	00:07:24	That's all I remember.	N
+85	00:07:26	00:07:28	See yourself scream?	N
+86	00:07:28	00:07:30	What's this about? We got a digital camera.	N
+87	00:07:30	00:07:31	It's mounted right over there.	N
+88	00:07:32	00:07:34	How does that work?	N
+89	00:07:34	00:07:35	Camera's on a trigger.	N
+90	00:07:35	00:07:40	Train passes by, automatically snaps a picture and stores it in the computer's hard drive.	N
+91	00:07:40	00:07:41	The train was airborne.	N
+92	00:07:41	00:07:44	Never even got close to the camera.	N
+93	00:07:44	00:07:47	I'm still going to want to take that computer.	N
+94	00:07:53	00:07:56	I'm the park's chief engineer.	N
+95	00:07:56	00:08:00	Been working on coasters since before I was tall enough to ride 'em.	N
+96	00:08:00	00:08:03	You responsible for maintaining this roller coaster?	N
+97	00:08:03	00:08:04	I keep all the rides up to code.	N
+98	00:08:04	00:08:08	You have any idea what would cause this train to go off the track?	N
+99	00:08:08	00:08:10	Well, in theory, I didn't think it was possible.	N
+100	00:08:10	00:08:12	There's never been an accident like this anywhere.	N
+101	00:08:13	00:08:15	So, you're an expert?	N
+102	00:08:15	00:08:17	On roller coasters? Hell yeah.	N
+103	00:08:17	00:08:21	Ten years of service on Six Flags' American Eagle before moving to Vegas.	N
+104	00:08:21	00:08:23	Do you know what that is?	N
+105	00:08:23	00:08:27	That's a nut. It, uh... secures the wheel to the screw.	N
+106	00:08:27	00:08:29	Well, one loose screw...	N
+107	00:08:29	00:08:33	couldn't cause a train to derail, could it?	N
+108	00:08:33	00:08:36	No, no, there's, uh... eight wheels per train.	N
+109	00:08:36	00:08:38	They-they'd all have to be loose, and, uh...	N
+110	00:08:38	00:08:40	that just doesn't happen.	N
+111	00:08:52	00:08:55	There are three things in human life that are important.	N
+112	00:08:55	00:09:04	The first is to be kind; the second one is to be kind; and the third one is to be kind.	N
+113	00:09:04	00:09:05	Henry James.	N
+114	00:09:05	00:09:10	Very good. Author of one of the greatest horror stories Turn of the Screw.	N
+115	00:09:10	00:09:11	And I'm looking for one.	N
+116	00:09:12	00:09:13	A screw? Yes.	N
+117	00:09:13	00:09:15	Oh, well...	N
+118	00:09:15	00:09:18	technically, these are eccentric shafts, not screws.	N
+119	00:09:18	00:09:22	Well, as long as you can screw a nut on it, it's a screw.	N
+120	00:09:23	00:09:24	Turn of the Screw isn't really a horror story.	N
+121	00:09:25	00:09:26	It's more of a mystery.	N
+122	00:09:26	00:09:28	Did the governess kill the little boy, or did the ghost do it?	N
+123	00:09:28	00:09:31	Well, it's only a mystery if you believe in ghosts.	N
+124	00:09:33	00:09:36	End threads are stripped.	N
+125	00:09:36	00:09:37	Means the nuts were loose.	N
+126	00:09:37	00:09:40	Excessive play on the screws would've worn down the threads.	N
+127	00:09:40	00:09:42	And the nuts would've popped off.	N
+128	00:09:47	00:09:50	Nuts don't just pop off by themselves.	Y
+129	00:09:53	00:09:55	We got tool marks.	N
+130	00:09:55	00:09:59	Vertical striations, evenly spaced.	Y
+131	00:09:59	00:10:01	Could've been a pipe wrench.	Y
+132	00:10:01	00:10:05	Maybe whoever maintains the roller coaster uses a pipe wrench to tighten the nuts.	N
+133	00:10:05	00:10:09	Or whoever loosened the nuts screwed up.	Y
+134	00:10:19	00:10:23	It's Tessa.	Y
+135	00:10:23	00:10:26	I don't understand.	Y
+136	00:10:28	00:10:29	How could this...?	Y
+137	00:10:34	00:10:36	My baby.	N
+138	00:10:39	00:10:42	I'm very sorry.	Y
+139	00:10:43	00:10:46	She's beautiful, isn't she?	Y
+140	00:10:48	00:10:54	Ma'am, the coroner believes that Tessa died over 24 hours ago.	Y
+141	00:10:54	00:10:56	Had you reported her missing?	N
+142	00:10:58	00:11:02	Couple nights a week, she'd sleep at her friend Carrie's.	Y
+143	00:11:02	00:11:06	There's just the two of us.	Y
+144	00:11:06	00:11:09	I'm a waitress. Work nights.	N
+145	00:11:09	00:11:11	That way I can...	N
+146	00:11:11	00:11:16	make her breakfast and be there when she gets home from school.	Y
+147	00:11:17	00:11:20	When was the last time that you saw her?	Y
+148	00:11:20	00:11:22	Yesterday morning.	N
+149	00:11:22	00:11:26	00.	N
+150	00:11:26	00:11:29	We made pancakes.	Y
+151	00:11:30	00:11:33	I packed her lunch and kissed her good-bye.	N
+152	00:11:37	00:11:42	When she didn't come home from school, I just figured she was at Carrie's.	Y
+153	00:11:45	00:11:51	I should have called, but I didn't want to be a nag.	N
+154	00:11:54	00:11:56	I want to see her.	Y
+155	00:11:58	00:12:04	Officer, could you please escort Ms. Press... to the morgue.	Y
+156	00:12:20	00:12:24	When's the last time you went 24 hours without talking to Lindsey?	N
+157	00:12:24	00:12:26	A single mother, working nights.	N
+158	00:12:26	00:12:30	I'm just saying, she didn't check on her own kid, you know?	N
+159	00:12:30	00:12:34	Ah, you do the best you can.	N
+160	00:12:34	00:12:36	Introductions.	N
+161	00:12:38	00:12:39	Shelly Hoffman, 25.	N
+162	00:12:39	00:12:42	Cause of death-- lacerated ventricle.	N
+163	00:12:42	00:12:43	Noah Nuland, 15.	N
+164	00:12:44	00:12:46	C.O.D.-- head contusion.	Y
+165	00:12:46	00:12:49	The swelling of the brain killed him within minutes.	N
+166	00:12:49	00:12:53	Now, Gary Clodfelter died of shock.	N
+167	00:12:53	00:12:55	His wife, May, exsanguinated.	N
+168	00:12:55	00:13:00	And their son, Cameron-- another head contusion.	N
+169	00:13:00	00:13:03	What about this guy?	N
+170	00:13:03	00:13:04	Jim Nevins, 20.	N
+171	00:13:04	00:13:06	Park employee.	N
+172	00:13:06	00:13:09	Died from a temporal herniation.	N
+173	00:13:09	00:13:14	Impact to the head caused the brain to swell, which, in turn, put pressure on the brain stem.	N
+174	00:13:14	00:13:19	According to the ride operator, there were only five passengers on the roller coaster, and no employees.	N
+175	00:13:19	00:13:22	Right. So...	N
+176	00:13:22	00:13:25	maybe Nevins was just an unfortunate bystander.	N
+177	00:13:25	00:13:28	Hit in the head by a falling roller coaster.	N
+178	00:13:28	00:13:30	The Chicken Little theory?	N
+179	00:13:30	00:13:31	But here's the hitch.	N
+180	00:13:32	00:13:34	The others died roughly ten hours ago.	N
+181	00:13:34	00:13:37	Mr. Nevins' rigor mortis is fixed.	N
+182	00:13:37	00:13:43	Body temp puts the time of his death approximately 16 hours before the others-- 00 A.M.	N
+183	00:13:46	00:13:51	Albert... dead men don't ride roller coasters.	N
+184	00:13:56	00:13:59	We're going to need to see the underside of the loading platform.	N
+185	00:13:59	00:14:00	Oh, follow me.	N
+186	00:14:00	00:14:04	Rumor has it the park's going to shut down Pharaoh's Fever for good.	N
+187	00:14:04	00:14:05	You know anything about that?	N
+188	00:14:05	00:14:07	No.	N
+189	00:14:07	00:14:09	Newspaper called it a death trap.	N
+190	00:14:09	00:14:11	An accident waiting to happen.	N
+191	00:14:11	00:14:12	You disagree with that?	N
+192	00:14:12	00:14:16	Well, she's old and wrinkled, but I took good care of her.	N
+193	00:14:20	00:14:21	Uh, Woody?	N
+194	00:14:22	00:14:23	We'd like to be alone.	N
+195	00:14:25	00:14:26	Holler if you need anything.	N
+196	00:14:48	00:14:51	Well, easy access.	N
+197	00:14:51	00:14:54	Wheels are in reach.	N
+198	00:14:54	00:14:57	Anyone could have loosened the nuts from down here.	N
+199	00:14:57	00:15:00	Check this out.	N
+200	00:15:00	00:15:02	Is that lubricant, maybe?	N
+201	00:15:02	00:15:03	It's a funny place for lubricant.	N
+202	00:15:03	00:15:04	It's not even on the track.	N
+203	00:15:04	00:15:06	I'll swab it.	N
+204	00:15:12	00:15:15	Hey, look at that.	N
+205	00:15:17	00:15:19	That's worse than just a wrinkle.	N
+206	00:15:19	00:15:21	It's got a support beam under it.	N
+207	00:15:21	00:15:22	It's just a cosmetic problem.	N
+208	00:15:22	00:15:24	Sir, you need to step away.	N
+209	00:15:24	00:15:26	We need some time.	N
+210	00:15:26	00:15:29	This is an active investigation.	N
+211	00:15:29	00:15:33	Were you aware that that support beam was detached?	N
+212	00:15:33	00:15:34	Well, hell, yeah.	N
+213	00:15:34	00:15:36	Fixed it a half dozen times this year.	N
+214	00:15:36	00:15:37	It's in my maintenance log.	N
+215	00:15:37	00:15:41	But like I said, that cross bar is supported by the metal beam.	N
+216	00:15:41	00:15:45	But since my hours were cut back last November, I've had to prioritize my fix-ums.	N
+217	00:15:45	00:15:47	Hmm.	N
+218	00:15:47	00:15:51	Woody, we'd like to requisition your pipe wrench.	N
+219	00:15:51	00:15:53	It's, uh, not technically mine.	N
+220	00:15:53	00:15:55	Are you the only one that uses it?	N
+221	00:15:55	00:15:58	Yeah, but it's the property of the park.	N
+222	00:15:58	00:16:00	Well, I promise we'll get it back to you.	N
+223	00:16:04	00:16:06	Thank you.	N
+224	00:16:07	00:16:09	Yeah?	N
+225	00:16:09	00:16:12	I'm processing the dead park employee's clothing.	N
+226	00:16:12	00:16:15	The shirt and the pants are covered in red fibers.	N
+227	00:16:15	00:16:17	Anything distinctive?	N
+228	00:16:17	00:16:21	Well, they're trilobal.	N
+229	00:16:21	00:16:22	Very good.	N
+230	00:16:22	00:16:23	Thanks, Nick.	N
+231	00:16:23	00:16:29	Well, we need to find a car with a red interior.	N
+232	00:16:29	00:16:31	Hi.	N
+233	00:16:33	00:16:35	The roller coaster broke into 106 parts.	N
+234	00:16:35	00:16:37	I just logged the final piece.	N
+235	00:16:37	00:16:39	Good work.	N
+236	00:16:39	00:16:42	I found something a little unusual, for a roller coaster.	N
+237	00:16:47	00:16:50	Not a sailor, but a...	N
+238	00:16:50	00:16:52	Semen?	N
+239	00:16:52	00:16:53	Sex on the roller coaster?	N
+240	00:16:54	00:16:56	Or some kid shaking hands with Shorty.	N
+241	00:16:58	00:17:05	The release of epinephrine and adrenaline while riding a roller coaster can produce a stimulatory effect.	N
+242	00:17:05	00:17:07	It enhances ejaculation.	N
+243	00:17:07	00:17:10	Right. But is it probative to our investigation?	N
+244	00:17:10	00:17:15	Well, um, why don't you swab a sample, and you can tell us.	N
+245	00:17:15	00:17:18	Greg, do we know who the R.O. of this T-Bird is?	N
+246	00:17:18	00:17:19	Uh...	N
+247	00:17:19	00:17:21	Jim Nevins.	N
+248	00:17:21	00:17:23	The dead employee.	N
+249	00:17:23	00:17:26	I didn't realize the cars were relevant to our investigation.	N
+250	00:17:26	00:17:30	Everything's relevant Greg, until it's not.	N
+251	00:17:36	00:17:38	Grissom.	N
+252	00:17:43	00:17:45	Take a look at this.	N
+253	00:17:45	00:17:47	A pipe wrench.	Y
+254	00:17:50	00:17:52	Blood.	Y
+255	00:17:52	00:17:54	Greg, may I?	Y
+256	00:18:01	00:18:04	Blood pool.	Y
+257	00:18:04	00:18:07	Camouflaged by the red carpet.	Y
+258	00:18:07	00:18:10	That explains the autopsy findings.	N
+259	00:18:10	00:18:13	Nevins may have never been in the roller coaster.	Y
+260	00:18:13	00:18:17	Possibly killed by that wrench and stuffed in his own trunk.	Y
+261	00:18:17	00:18:18	And, uh, then what?	Y
+262	00:18:18	00:18:24	A renegade roller coaster comes along 16 hours later, and propels Nevin's body from the trunk to the blacktop?	Y
+263	00:18:24	00:18:25	I'm just following the evidence.	N
+264	00:18:26	00:18:31	I'll call Brass, see if he can find an eyewitness that can place the car in the parking lot at the time of Nevin's death.	Y
+265	00:18:35	00:18:38	Uh, so, Woody said that I might be able to help you with your investigation.	Y
+266	00:18:38	00:18:41	Zack, you close up shop at the Sphinx at night.	N
+267	00:18:41	00:18:42	Yeah, Monday to Friday.	N
+268	00:18:42	00:18:43	00.	N
+269	00:18:44	00:18:47	00, and then I head over to the park.	N
+270	00:18:47	00:18:48	00.	N
+271	00:18:48	00:18:54	Did you notice any cars in the parking lot after closing on Thursday night?	N
+272	00:18:54	00:18:57	Jimmy Nevins. His red T-Bird was out there.	N
+273	00:18:57	00:18:58	Oh, you know Jimmy?	N
+274	00:18:58	00:19:00	Yeah, sure; pretty cool guy.	N
+275	00:19:00	00:19:01	Worked the bumper cars.	N
+276	00:19:01	00:19:05	I still can't believe what happened, you know?	N
+277	00:19:05	00:19:09	I mean, I must have rode that coaster, like, 100 times, maybe more.	N
+278	00:19:09	00:19:12	Anyway, sometimes Jimmy stayed after closing.	N
+279	00:19:12	00:19:14	Why?	N
+280	00:19:14	00:19:21	Look, I'm not trying to get anybody in trouble, but occasionally, Jimmy would take his... dates for rides on The Fever, you know?	N
+281	00:19:21	00:19:23	Everybody knew about it. It was really no big deal.	N
+282	00:19:23	00:19:26	Do you happen to know the name of his date on Thursday night?	N
+283	00:19:26	00:19:28	No, sorry.	N
+284	00:19:28	00:19:30	How did Jimmy get access to the park?	N
+285	00:19:30	00:19:33	I mean, all the power is shut down at night.	N
+286	00:19:33	00:19:37	The same key that opens up the men's room door opens up all the power boxes at the park.	N
+287	00:19:37	00:19:38	No kidding.	N
+288	00:19:38	00:19:40	It's just hanging outside Woody's office.	N
+289	00:19:40	00:19:42	What about security?	N
+290	00:19:42	00:19:45	Nope. Night guy got laid off.	N
+291	00:19:45	00:19:46	Budget cuts last winter.	N
+292	00:19:46	00:19:50	It's not like anybody's going break into an amusement park and steal a coaster, you know?	N
+293	00:19:51	00:19:53	X-rayed Tessa's neck.	N
+294	00:19:53	00:19:59	Blade appears to have perforated her fifth cervical intervertebral disc, lacerating the spinal cord.	N
+295	00:20:01	00:20:06	Type of trauma suggests we're looking at asphyxia due to diaphragmatic paralysis.	N
+296	00:20:09	00:20:13	It looks like there's soil inside of her wound.	N
+297	00:20:13	00:20:15	Well, we did find her outside.	N
+298	00:20:15	00:20:18	Right.	N
+299	00:20:18	00:20:21	Should be soil around the wound.	N
+300	00:20:21	00:20:25	And on the wound, but not inside of it.	N
+301	00:21:37	00:21:39	Oh, I am the man.	N
+302	00:21:39	00:21:41	Are you?	N
+303	00:21:41	00:21:45	I microsilled the pipe wrenches you and Sara turned into evidence.	N
+304	00:21:45	00:21:48	I excluded Woody's wrench.	N
+305	00:21:48	00:21:51	Take a look at the tool marks from the wrench found in the T-bird.	N
+306	00:21:51	00:21:52	On the left, the sabotaged nut.	N
+307	00:21:52	00:21:55	On the right, the test marks.	N
+308	00:21:55	00:21:57	Perfect match.	N
+309	00:21:57	00:21:58	I have a theory.	N
+310	00:21:58	00:22:01	Maybe Jim Nevins sabotaged the roller coaster.	N
+311	00:22:06	00:22:11	When he left the park, someone attacked him, grabbed his wrench and hit him over the head with it.	N
+312	00:22:18	00:22:19	Did you any prints off the wrench?	N
+313	00:22:19	00:22:20	I got a partial.	N
+314	00:22:21	00:22:22	And I had a tech print the T-Bird.	N
+315	00:22:22	00:22:25	Found two sets of prints on the trunk's lid.	N
+316	00:22:25	00:22:30	One belonged to the vic, the other unknown, but it did match the partial.	N
+317	00:22:32	00:22:38	That semen from the coaster's cab was just processed in my lab.	N
+318	00:22:38	00:22:40	All I can say is, Nevins was a cad.	N
+319	00:22:41	00:22:43	Semen match the dead guy's?	N
+320	00:22:43	00:22:48	Yup. And Sara spoke to Brass, who says Nevins was known for taking girls on private rides.	N
+321	00:22:48	00:22:50	Pharaoh's Fever was his Spanish fly.	N
+322	00:22:50	00:22:53	Well, there goes my theory.	N
+323	00:22:53	00:22:56	No one tampers with their sex machine.	N
+324	00:23:01	00:23:03	Multitrack digital camera snaps photos of all the passengers.	N
+325	00:23:03	00:23:07	The park finally sent over their computer, so I'm scanning through the day of the accident.	N
+326	00:23:08	00:23:10	Can you go back in time, to the night before?	N
+327	00:23:10	00:23:12	Yeah. Why?	N
+328	00:23:12	00:23:14	Jim Nevins may have been on that coaster.	N
+329	00:23:14	00:23:16	I want to see if anyone was with him.	N
+330	00:23:23	00:23:25	Oh. So much for safe sex.	N
+331	00:23:25	00:23:27	Who's the girl?	N
+332	00:23:27	00:23:28	Reverse one more pic.	N
+333	00:23:32	00:23:35	Now, that picture's worth five bucks.	N
+334	00:23:35	00:23:39	45 a.m.	N
+335	00:23:39	00:23:41	00 a.m.	N
+336	00:23:41	00:23:43	We need to find that girl.	N
+337	00:23:47	00:23:49	Hey.	N
+338	00:23:49	00:23:50	Hey.	N
+339	00:23:50	00:23:52	Got your page. What's up?	N
+340	00:23:52	00:23:55	Tessa Press took the bus to and from school, not far from here. Mm-hmm.	N
+341	00:23:56	00:23:57	I showed her picture to the mini-mart manager.	N
+342	00:23:58	00:24:00	She remembers seeing her the day that she was killed.	N
+343	00:24:00	00:24:02	Wow.	N
+344	00:24:02	00:24:04	This place is crawling with kids.	N
+345	00:24:04	00:24:05	She remembers her?	N
+346	00:24:05	00:24:09	She says she came in every afternoon and bought a Little Debbie and a soda.	N
+347	00:24:09	00:24:11	Have we tracked down her friend, Carrie?	N
+348	00:24:11	00:24:18	Officer Ray did speak with Carrie and her parents, and they confirmed that Tessa spent at least two nights a week over their place.	N
+349	00:24:18	00:24:20	And was she supposed to sleep over the day that she was killed?	N
+350	00:24:20	00:24:21	I don't think they had any kind of a schedule.	N
+351	00:24:22	00:24:25	She would just show up, and when she didn't, they'd assumed that she was at home.	N
+352	00:24:26	00:24:27	Warrick.	N
+353	00:24:27	00:24:29	I've already secured the footage.	N
+354	00:24:43	00:24:46	00.	N
+355	00:24:47	00:24:49	I heard you were looking for someone.	N
+356	00:24:49	00:24:51	Sir, do you recognize this young woman?	N
+357	00:24:53	00:24:55	Oh, sure, it's Cleopatra.	N
+358	00:24:56	00:24:57	She works in food services.	N
+359	00:24:57	00:24:59	Second pyramid on the left.	N
+360	00:24:59	00:25:01	Thank you, Woody.	N
+361	00:25:10	00:25:11	Hey, can I help you?	N
+362	00:25:11	00:25:13	Actually, we're looking for Cleopatra.	N
+363	00:25:13	00:25:14	She's on break.	N
+364	00:25:14	00:25:16	But can I get you anything?	N
+365	00:25:17	00:25:19	No, thanks.	N
+366	00:25:24	00:25:26	Quadratic equations?	N
+367	00:25:26	00:25:29	That's not easy.	N
+368	00:25:29	00:25:31	Glad you think so.	N
+369	00:25:31	00:25:32	I have a D average.	N
+370	00:25:32	00:25:35	If I fail the final, my family's going to Hawaii without me.	N
+371	00:25:35	00:25:36	We're with the crime lab.	N
+372	00:25:40	00:25:42	We have some questions.	N
+373	00:25:45	00:25:49	I had no idea those cameras worked at night.	N
+374	00:25:49	00:25:51	Is your name really Cleopatra?	N
+375	00:25:51	00:25:53	Lisa. Lisa Hunt.	N
+376	00:25:53	00:25:57	Lisa, you know your friend in this photograph is dead, right?	N
+377	00:25:57	00:26:00	Right.	N
+378	00:26:00	00:26:02	You don't seem too upset about that.	N
+379	00:26:04	00:26:09	Four years ago, when I was a frosh and he was a senior, he was my Jordan Catalano.	N
+380	00:26:09	00:26:11	Know what I mean?	N
+381	00:26:11	00:26:13	But he didn't know my name.	N
+382	00:26:13	00:26:24	So four years later, when I started working here, he's still working here-- total loser, but still really hot-- When and where?	N
+383	00:26:24	00:26:26	After hours at the roller coaster.	N
+384	00:26:26	00:26:30	I know, I thought the same thing-- Cheez Whiz.	N
+385	00:26:30	00:26:32	But, I mean, what the hell?	N
+386	00:26:32	00:26:34	I'd never done it on a roller coaster.	N
+387	00:26:35	00:26:36	It was your first date.	N
+388	00:26:37	00:26:39	You sound like my mother.	N
+389	00:26:39	00:26:42	Oh, God, you're not going to tell her, are you?	N
+390	00:26:42	00:26:43	I just turned 18.	N
+391	00:26:43	00:26:45	There is nothing statutory about it, I swear.	N
+392	00:26:45	00:26:50	Lisa, we need to know what the two of you did when you got off the ride.	N
+393	00:26:50	00:26:51	We talked.	N
+394	00:26:51	00:26:54	I mean, not that he had much to say.	N
+395	00:26:55	00:27:01	He offered to drive me home, but I only live a few blocks from here, so I told him I'd huff it.	N
+396	00:27:01	00:27:04	Mm, we kissed-- way too much slobber.	N
+397	00:27:04	00:27:06	And that was it.	N
+398	00:27:06	00:27:08	Was there anyone else around?	N
+399	00:27:08	00:27:11	I-I didn't see anybody, but I wasn't really looking.	N
+400	00:27:19	00:27:22	I found Tessa.	N
+401	00:27:22	00:27:24	Yeah, you're not the only one.	N
+402	00:27:24	00:27:25	Yeah.	N
+403	00:27:25	00:27:27	Can you enlarge it?	N
+404	00:27:37	00:27:39	Yeah, that's me.	N
+405	00:27:39	00:27:40	And who's that with you?	N
+406	00:27:40	00:27:41	Tessa Press.	N
+407	00:27:41	00:27:43	You two were friends?	N
+408	00:27:43	00:27:45	We sat next to each other on the bus.	N
+409	00:27:45	00:27:47	She was 13.	N
+410	00:27:47	00:27:48	How old are you?	N
+411	00:27:48	00:27:49	What's that supposed to mean?	N
+412	00:27:49	00:27:52	No, Mom, it's okay.	N
+413	00:27:52	00:27:54	I-I'm 15.	N
+414	00:27:54	00:27:56	I felt sorry for her.	N
+415	00:27:56	00:27:57	The girls picked on her.	N
+416	00:27:57	00:27:59	Made fun of her frizzy hair, her old clothes.	N
+417	00:27:59	00:28:00	Stuff like that.	N
+418	00:28:01	00:28:05	She'd sit next to me, and they'd leave her alone.	N
+419	00:28:05	00:28:07	In the photo, you're grabbing her arm.	N
+420	00:28:07	00:28:08	It wasn't like that.	N
+421	00:28:08	00:28:10	I just got my learner's permit.	N
+422	00:28:10	00:28:12	My mom was waiting in the car.	N
+423	00:28:12	00:28:14	We were just going to get slushies.	N
+424	00:28:14	00:28:16	I saw Tessa in the parking lot.	N
+425	00:28:16	00:28:17	Hey, Tessa. Hey.	N
+426	00:28:17	00:28:18	Henry.	N
+427	00:28:18	00:28:20	You want a ride, just door to door?	N
+428	00:28:20	00:28:22	No, that's okay.	N
+429	00:28:22	00:28:24	Oh, come on. You're not scared to drive with me, are you?	N
+430	00:28:24	00:28:27	No, it's okay. I got it.	N
+431	00:28:27	00:28:29	She said she was getting a ride from someone else.	N
+432	00:28:29	00:28:31	Did she say who?	N
+433	00:28:32	00:28:33	No.	N
+434	00:28:33	00:28:37	But when we pulled away, I saw her getting into a truck.	N
+435	00:28:37	00:28:39	I didn't see the driver.	N
+436	00:28:44	00:28:46	I've got a question for you.	N
+437	00:28:50	00:28:58	Sorbitol, cetyl alcohol, isopropyl myristate, glyceryl, stearate, PEG-100 stearate, petrolatum, benzylalcohol, titanium dioxide and purified water?	Y
+438	00:28:58	00:29:03	Okay, I assume that you've identified the substance we found on the roller coaster track?	N
+439	00:29:03	00:29:04	Correct.	N
+440	00:29:05	00:29:07	It's doxepin ointment.	N
+441	00:29:07	00:29:09	Sounds Klingon, huh?	N
+442	00:29:11	00:29:19	Anyway, uh, it's prescribed by doctors to treat dermatological inflammations caused by contact with certain types of plants.	Y
+443	00:29:19	00:29:23	Maybe whoever messed with the tracks transferred the ointment when they loosened the wheels.	N
+444	00:29:26	00:29:28	Your killer has a rash.	N
+445	00:29:28	00:29:31	And we need to catch it.	Y
+446	00:29:35	00:29:37	I've been looking for you.	N
+447	00:29:37	00:29:38	What's up?	Y
+448	00:29:38	00:29:41	Hodges analyzed the trace from inside Tessa's wound.	Y
+449	00:29:41	00:29:43	It seems it was ZooDoo.	N
+450	00:29:43	00:29:44	Come again.	N
+451	00:29:44	00:29:45	Hoof stock.	N
+452	00:29:46	00:29:48	It's a combination of feces from rhinos, zebras, and bison.	N
+453	00:29:48	00:29:50	You're kidding?	N
+454	00:29:50	00:29:53	They say that the smell of wild animal crap keeps the deer away.	Y
+455	00:29:53	00:29:55	Who knew?	Y
+456	00:29:55	00:29:57	Uh, so can we track the source of...?	Y
+457	00:29:58	00:30:01	There is a zoo in Auckland that exports it.	N
+458	00:30:01	00:30:05	And there's only one landscaping company in Clark County that imports it-- ADL.	N
+459	00:30:05	00:30:07	I contacted ADL, and guess what they told me?	Y
+460	00:30:07	00:30:12	Couple of months back, they were hired by the victim's mother.	N
+461	00:30:20	00:30:21	Hmm.	N
+462	00:30:21	00:30:22	ADL Landscaping.	Y
+463	00:30:24	00:30:29	Must've been a big job-- she hired them months ago.	Y
+464	00:30:31	00:30:33	ZooDoo.	N
+465	00:30:41	00:30:43	Hello.	N
+466	00:30:43	00:30:44	Hi.	N
+467	00:30:45	00:30:46	I just left you a message.	N
+468	00:30:46	00:30:48	Any news?	Y
+469	00:30:50	00:30:53	Honey, these guys are from the crime lab.	N
+470	00:30:53	00:30:54	Justin Mack, my boyfriend.	N
+471	00:30:55	00:30:57	How you doing?	Y
+472	00:30:57	00:30:58	Hey.	Y
+473	00:30:58	00:31:00	Could I have a word with you outside for a moment?	N
+474	00:31:00	00:31:01	Why?	N
+475	00:31:01	00:31:02	Why not?	N
+476	00:31:10	00:31:13	May I?	Y
+477	00:31:13	00:31:17	How can you be sure it was Justin's truck?	Y
+478	00:31:17	00:31:20	At this point, we're just following a lead.	N
+479	00:31:20	00:31:24	How long have you known Justin?	N
+480	00:31:24	00:31:28	Uh... few months.	N
+481	00:31:29	00:31:31	Hired him to lay sod.	N
+482	00:31:31	00:31:34	Now we're in the midst of an outdoor overhaul.	N
+483	00:31:34	00:31:37	And where's Tessa's father?	N
+484	00:31:37	00:31:38	L.A., maybe. I don't know.	N
+485	00:31:39	00:31:41	I haven't heard from him since the divorce.	N
+486	00:31:42	00:31:44	He'll find a way to blame me for this.	N
+487	00:31:45	00:31:48	You see, Raina said it was important for Tessa to take the bus to school.	N
+488	00:31:48	00:31:50	Said it helps build independence.	N
+489	00:31:50	00:31:56	But sometimes I'd pick her up at the bus stop, buy her an ice-cream cone, and drop her off here.	Y
+490	00:31:56	00:31:58	Did you pick her up that afternoon?	N
+491	00:31:58	00:32:03	Look, I know there are a lot of whack-jobs in the world, and you're just doing your job, but watch it.	Y
+492	00:32:04	00:32:06	You mind if I take a look in the back of your truck?	Y
+493	00:32:07	00:32:10	Don't you need a warrant?	Y
+494	00:32:10	00:32:12	Only if you deny me access.	Y
+495	00:32:12	00:32:13	Go ahead.	N
+496	00:32:13	00:32:15	Thanks.	N
+497	00:32:15	00:32:18	Have you ever left Tessa alone with Justin?	N
+498	00:32:18	00:32:19	Sure.	N
+499	00:32:19	00:32:20	He's over here all the time.	N
+500	00:32:21	00:32:24	He's a good man.	Y
+501	00:32:24	00:32:28	He wouldn't hurt anybody, especially not Tessa.	Y
+502	00:32:30	00:32:35	Damn, I keep expecting her to walk through that door.	N
+503	00:33:09	00:33:14	In 1988, your client was arrested for a drunk and disorderly.	Y
+504	00:33:14	00:33:17	Your fingerprints were then entered into our database.	Y
+505	00:33:17	00:33:20	They match the fingerprints that we found on this shovel.	Y
+506	00:33:22	00:33:29	The blood on the blade matches your daughter's DNA.	Y
+507	00:33:29	00:33:32	My client is landscaping her backyard with her boyfriend.	N
+508	00:33:33	00:33:35	Explains her prints on his shovel.	Y
+509	00:33:35	00:33:38	They were the only prints on the shovel.	Y
+510	00:33:38	00:33:40	Justin wears work gloves.	N
+511	00:33:40	00:33:43	Which explains the absence of his prints.	N
+512	00:33:43	00:33:45	That's possible.	Y
+513	00:33:45	00:33:49	But your client's fingerprints provided a sufficient basis for a warrant to search her vehicle.	Y
+514	00:34:00	00:34:10	The choice of weapon and the manner of disposal suggest that this was not a premeditated murder.	Y
+515	00:34:14	00:34:16	You can help yourself here.	N
+516	00:34:16	00:34:20	You can avoid Murder One by telling us what set you off.	N
+517	00:34:22	00:34:24	You wouldn't understand.	N
+518	00:34:24	00:34:26	Try me.	N
+519	00:34:26	00:34:36	I bought Tessa a bus pass, and that little slut still gets my guy to pick her up after school.	N
+520	00:34:36	00:34:38	Raina... Shut up!	N
+521	00:34:40	00:34:41	We all know why.	Y
+522	00:34:41	00:34:43	Why don't you tell us?	Y
+523	00:34:43	00:34:46	She was trying to steal him from me.	N
+524	00:34:52	00:34:55	Bye, thanks Justin.	N
+525	00:34:57	00:35:00	What the hell were you doing with him?	N
+526	00:35:00	00:35:02	Mom, he just gave me a ride home.	N
+527	00:35:02	00:35:04	You think you got him wrapped around your little finger?	N
+528	00:35:04	00:35:05	He's just being nice, okay?	N
+529	00:35:05	00:35:07	Were you nice back?	N
+530	00:35:07	00:35:09	Don't do this again, please!	N
+531	00:35:09	00:35:11	You don't talk to me like that, you little bitch.	N
+532	00:35:11	00:35:13	Mom, you're being ridiculous.	N
+533	00:35:13	00:35:19	Where the hell do you think you're going? I've given you everything.	N
+534	00:35:23	00:35:26	Justin was the best thing in my life.	N
+535	00:35:27	00:35:29	No.	Y
+536	00:35:29	00:35:35	Your daughter was the best thing in your life.	Y
+537	00:35:37	00:35:39	You didn't know her.	Y
+538	00:35:42	00:35:44	I know she was 13 years old.	Y
+539	00:35:44	00:35:47	A child.	Y
+540	00:35:52	00:35:55	I just got the court order from the pharmaceutical database.	Y
+541	00:35:55	00:35:57	Fortunately, Dioxipin isn't widely prescribed.	N
+542	00:35:57	00:36:02	FDA only approved it two years ago, and most dermatologists don't even know what it is.	Y
+543	00:36:02	00:36:04	How many names on the list?	Y
+544	00:36:04	00:36:07	Well, in Clark County, twelve prescriptions were filled.	Y
+545	00:36:07	00:36:11	I cross-referenced them with the employees from the Park, and I got a hit.	Y
+546	00:36:11	00:36:12	You want a clue?	Y
+547	00:36:12	00:36:18	Her death ended the Ptolemy dynasty's reign in Ancient Egypt, hence making her the last Pharaoh.	Y
+548	00:36:18	00:36:21	Ah, the lovely Cleopatra.	N
+549	00:36:21	00:36:22	I had a rash.	N
+550	00:36:22	00:36:24	So what?	N
+551	00:36:24	00:36:25	That's not a crime.	N
+552	00:36:25	00:36:26	I read the court order.	N
+553	00:36:26	00:36:30	Uh, you found trace amounts of some ointment on the roller coaster tracks?	N
+554	00:36:30	00:36:32	Is that the only reason for this conversation?	N
+555	00:36:32	00:36:35	Your client had a prescription for doxepin.	N
+556	00:36:38	00:36:40	May we see your arms, please?	Y
+557	00:36:40	00:36:41	Rash was on my legs.	N
+558	00:36:41	00:36:43	Went away days ago.	N
+559	00:36:43	00:36:44	You want to see?	N
+560	00:36:45	00:36:46	Uh, that's okay.	N
+561	00:36:46	00:36:51	Unless you want to argue that my client stood on her head and held a wrench in her toes, we're done here.	Y
+562	00:36:51	00:36:53	Do you know how you contracted the rash, Lisa?	N
+563	00:36:53	00:36:57	Best guess, I was getting some help with my homework.	Y
+564	00:36:57	00:36:59	We were studying outside on the grass.	N
+565	00:36:59	00:37:01	Took a break, went for a walk.	Y
+566	00:37:01	00:37:03	I think I brushed up against something.	Y
+567	00:37:03	00:37:05	Who's we?	Y
+568	00:37:05	00:37:06	My math tutor.	N
+569	00:37:06	00:37:08	And what's his name?	N
+570	00:37:08	00:37:10	Zack Lawrence.	N
+571	00:37:14	00:37:16	Do you know if he contracted the rash, as well?	Y
+572	00:37:16	00:37:19	Yeah. Actually, I gave him some of my ointment.	Y
+573	00:37:23	00:37:25	Hey, Zack.	N
+574	00:37:25	00:37:28	Oh, hey, guys.	Y
+575	00:37:28	00:37:29	We spoke with Lisa.	N
+576	00:37:29	00:37:33	She said she gave you some ointment for some nasty rash you have.	N
+577	00:37:33	00:37:36	You know, it's illegal to use someone else's prescription medications.	Y
+578	00:37:36	00:37:38	Is that why you guys are here?	Y
+579	00:37:38	00:37:40	Not exactly.	N
+580	00:37:42	00:37:44	Um, you guys mind if we talk about this somewhere else?	Y
+581	00:37:45	00:37:45	Hey, good idea.	N
+582	00:37:46	00:37:47	Why don't we go downtown?	Y
+583	00:37:47	00:37:48	We can talk there.	Y
+584	00:37:48	00:37:50	Come on. Come on.	N
+585	00:37:50	00:37:52	All right.	N
+586	00:37:52	00:37:54	You coming?	Y
+587	00:37:54	00:37:57	You know, I'm going to catch up.	N
+588	00:37:57	00:37:58	Okay.	N
+589	00:38:24	00:38:27	Yeah, it's, uh, just a little bit of a rash.	Y
+590	00:38:27	00:38:29	It's really no big deal.	N
+591	00:38:29	00:38:31	Zack, what do you have against roller coasters?	Y
+592	00:38:31	00:38:32	What do...?	N
+593	00:38:32	00:38:34	I-I don't understand.	Y
+594	00:38:34	00:38:36	This a fingerprint analysis.	Y
+595	00:38:36	00:38:40	Zack, I lifted some fingerprints off your broom back at the Park.	Y
+596	00:38:40	00:38:45	Turns out, they're a match to prints that we lifted off of Jim Nevins' T-Bird and the wrench that was used to kill him.	Y
+597	00:38:45	00:38:47	Circumstantial evidence at best.	Y
+598	00:38:47	00:38:49	I also talked to your school principal.	Y
+599	00:38:49	00:38:51	You're a straight A student, Mathalete.	Y
+600	00:38:51	00:38:52	Science Team.	N
+601	00:38:52	00:38:54	You had a full ride to Stanford next year.	N
+602	00:38:54	00:38:59	You don't sound like the kind of kid that would mess with a roller coaster just for kicks.	N
+603	00:39:01	00:39:02	You're a smart guy, Zack.	Y
+604	00:39:02	00:39:04	So, uh...	N
+605	00:39:04	00:39:08	let's talk this out, logically.	N
+606	00:39:08	00:39:17	According to your previous statement, when you locked up on Thursday night, Jim Nevins' car was the only one in the parking lot, right?	Y
+607	00:39:17	00:39:19	Yes, sir, that's correct.	Y
+608	00:39:19	00:39:22	And you knew he was staying in the park to ride the roller coaster.	N
+609	00:39:22	00:39:25	I don't care about Jim Nevins.	Y
+610	00:39:25	00:39:28	What about Lisa Hunt?	N
+611	00:39:28	00:39:31	You tutor her, right?	N
+612	00:39:31	00:39:33	Did Lisa tell you that she had a date with Jim?	N
+613	00:39:33	00:39:35	No, she didn't say anything.	N
+614	00:39:35	00:39:37	It was all over the park.	Y
+615	00:39:37	00:39:41	Jim was going to take Lisa on one of his coaster dates.	N
+616	00:39:42	00:39:43	I asked her about it.	Y
+617	00:39:44	00:39:45	She said it was a rumor.	N
+618	00:39:45	00:39:49	It seems to matter to you that she had a date with Jim.	Y
+619	00:39:49	00:39:53	Lady, I make $20 an hour tutoring.	Y
+620	00:39:53	00:39:56	Why do you think I'd take minimum wage at The Sphinx?	N
+621	00:39:56	00:40:00	I'm thinking, you want Lisa to see you away from the textbooks.	N
+622	00:40:01	00:40:03	We started hanging out at breaks.	N
+623	00:40:03	00:40:05	Having dinner.	N
+624	00:40:07	00:40:10	And then last week, after tutoring, we went for a walk.	N
+625	00:40:10	00:40:13	And she grabbed my hand.	N
+626	00:40:13	00:40:16	Did you think that meant something?	N
+627	00:40:16	00:40:18	Of course.	N
+628	00:40:18	00:40:20	But...	N
+629	00:40:20	00:40:23	you didn't trust her.	N
+630	00:40:24	00:40:26	No. I wanted to.	N
+631	00:40:39	00:40:41	You tampered with the screws.	N
+632	00:40:41	00:40:44	If she wasn't lying, she wouldn't be on the roller coaster.	N
+633	00:40:44	00:40:45	No harm, no foul.	N
+634	00:40:45	00:40:48	Oh, but you see, she was lying.	N
+635	00:40:48	00:40:49	Uh-huh.	N
+636	00:40:51	00:40:53	But you didn't loosen the wheels enough, did you?	N
+637	00:40:53	00:40:55	Don't answer that.	N
+638	00:40:55	00:41:02	So when the roller coaster didn't derail, you took things into your own hands.	N
+639	00:41:12	00:41:14	Lisa walked home.	N
+640	00:41:14	00:41:16	Jim walked over to his car.	N
+641	00:41:22	00:41:26	What I don't understand is why you didn't go back and fix the roller coaster.	N
+642	00:41:28	00:41:30	Guess I just didn't think about it.	N
+643	00:41:30	00:41:32	You'll be thinking about it now.	N
+644	00:41:33	00:41:35	And for the rest of your life.	N
+645	00:41:41	00:41:44	I should have caught those loose screws.	N
+646	00:41:44	00:41:48	Used to check 'em every morning, but since management cut back on my hours...	N
+647	00:41:48	00:41:50	You're not to blame for this, Woody.	N
+648	00:41:50	00:41:53	Oh, I just hope they don't blame the coaster.	N
+649	00:41:53	00:41:58	It may not be the Manhattan Express at New York, New York or the Desperado in Primm, but it-it...	N
+650	00:41:58	00:42:00	It still makes grown men scream.	N
+651	00:42:00	00:42:03	My first week in Vegas, I road the Desperado.	N
+652	00:42:03	00:42:05	My first coaster marathon.	N
+653	00:42:05	00:42:07	I rode that monster for a week straight.	N
+654	00:42:07	00:42:08	Hmm.	N
+655	00:42:08	00:42:12	The Steel Phantom, Kennywood Park, Pennsylvania-- I actually hold the marathon record there.	N
+656	00:42:12	00:42:14	Uh, uh.	N
+657	00:42:14	00:42:17	My-My favorite's still the, um, King's Island.	N
+658	00:42:17	00:42:18	The Beast.	N
+659	00:42:18	00:42:19	Mm.	N
+660	00:42:19	00:42:24	I presented a paper at an Entomology convention in Cincinnati just so I could ride Son of Beast.	N
+661	00:42:24	00:42:26	Head over heels on a wooden track.	N
+662	00:42:26	00:42:29	Ah. So, you prefer wood over steel?	N
+663	00:42:29	00:42:32	No. Not really.	N
+664	00:42:32	00:42:34	For me, it's not about the track.	N
+665	00:42:34	00:42:37	It's about the thrill.	N
