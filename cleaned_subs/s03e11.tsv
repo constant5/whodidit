@@ -1,702 +1,702 @@
-	Unnamed: 0	start	end	text	label
-0	0	00:00:10	00:00:12	Back it up. Back it up.	N
-1	1	00:00:13	00:00:16	Whoa, whoa, whoa. You're good. You're good.	N
-2	2	00:00:19	00:00:20	Hey, Harlan.	N
-3	3	00:00:20	00:00:22	Special delivery.	N
-4	4	00:00:22	00:00:24	Fresh shipment in from Nebraska.	N
-5	5	00:00:24	00:00:26	Great. Just stack it in the freezer, will you?	N
-6	6	00:00:26	00:00:27	I got to open up.	N
-7	7	00:00:27	00:00:29	All right, you got it, boss.	N
-8	8	00:00:56	00:00:59	Ever wonder what's in that hot dog?	N
-9	9	00:00:59	00:01:01	Human body in a meat grinder.	N
-10	10	00:01:02	00:01:04	Shop foreman found an arm.	N
-11	11	00:01:04	00:01:07	The rest of him is prime grade A sirloin.	N
-12	12	00:01:07	00:01:09	Body in a meat grinder.	N
-13	13	00:01:09	00:01:12	Sounds kind of Mob-ish except they left town in the '80s.	N
-14	14	00:01:12	00:01:16	The last guy to operate the meat grinder is this guy over here.	N
-15	15	00:01:16	00:01:18	Manny Saldano, age 37.	N
-16	16	00:01:18	00:01:19	Worked for Meteor for 11 years.	N
-17	17	00:01:19	00:01:21	Shop foreman vouches for him.	N
-18	18	00:01:21	00:01:25	Says he inspected all three of his machines before he clocked him out.	N
-19	19	00:01:25	00:01:26	Well, keep him here.	N
-20	20	00:01:26	00:01:27	We're going to need to process him.	N
-21	21	00:01:27	00:01:29	Sure.	N
-22	22	00:01:29	00:01:32	Check out the smorgasbord.	N
-23	23	00:01:32	00:01:33	Go ahead.	N
-24	24	00:01:38	00:01:40	Mike.	N
-25	25	00:01:40	00:01:44	Good God...	N
-26	26	00:01:46	00:01:48	Looks like the elbow got stuck in the blade.	N
-27	27	00:01:51	00:01:53	Yup, the ulna.	N
-28	28	00:01:53	00:01:55	One of the strongest bones in the body.	N
-29	29	00:01:55	00:01:57	Probably what jammed this grinder.	N
-30	30	00:01:57	00:02:00	Possibly why whoever did this didn't finish the job.	N
-31	31	00:02:05	00:02:09	It's like that Morrissey album-- Meat Is Murder.	N
-32	32	00:02:11	00:02:13	I'm going to need a hand.	N
-33	33	00:02:52	00:02:55	The last remains of John Doe.	N
-34	34	00:02:55	00:02:56	We're going to need sifters.	N
-35	35	00:02:56	00:02:58	Blood's everywhere.	N
-36	36	00:02:58	00:03:02	Phenolphthalein and Luminol are useless.	N
-37	37	00:03:02	00:03:05	We're going to have to dismantle this piece by piece.	N
-38	38	00:03:06	00:03:06	Yeah.	N
-39	39	00:03:06	00:03:07	I'll get a foreman.	N
-40	40	00:03:07	00:03:08	I think I can handle this.	N
-41	41	00:03:08	00:03:11	You know about meat grinders?	N
-42	42	00:03:11	00:03:13	Well, everything's pretty much plumbing.	N
-43	43	00:03:13	00:03:14	Male into female parts.	N
-44	44	00:03:14	00:03:18	Righty tighty, lefty loosey.	N
-45	45	00:03:26	00:03:28	Grinder plate.	N
-46	46	00:03:33	00:03:35	Blade.	N
-47	47	00:03:42	00:03:43	The worm.	N
-48	48	00:03:56	00:03:58	Found an ear plug.	N
-49	49	00:03:58	00:04:02	Ear wax is ripe with DNA.	N
-50	50	00:04:02	00:04:03	Except...	N
-51	51	00:04:04	00:04:07	all the employees wear them.	N
-52	52	00:04:07	00:04:10	This one's different than the ones they use.	N
-53	53	00:04:10	00:04:13	Whoever wore this brought it with them.	Y
-54	54	00:04:13	00:04:16	We just have to find out whose ear it fits.	N
-55	55	00:04:18	00:04:22	Girl's name is Linda Damen, 23, apparent suicide.	N
-56	56	00:04:22	00:04:25	Father stopped by with dinner found her dead, called 911.	Y
-57	57	00:04:25	00:04:26	No signs of forced entry?	N
-58	58	00:04:26	00:04:27	Nope.	N
-59	59	00:04:27	00:04:28	Did find her wallet out.	N
-60	60	00:04:28	00:04:30	Empty.	N
-61	61	00:04:30	00:04:31	Empty?	N
-62	62	00:04:31	00:04:34	Maybe she was just broke.	N
-63	63	00:04:38	00:04:40	Hey.	N
-64	64	00:04:40	00:04:41	You guys are fast.	N
-65	65	00:04:41	00:04:43	You pronounce?	N
-66	66	00:04:43	00:04:45	20. Coroner will be able to tell you more.	N
-67	67	00:04:45	00:04:47	Looks like she bled out.	N
-68	68	00:04:47	00:04:48	Her left wrist is transected.	N
-69	69	00:04:48	00:04:50	It's atypical for a female.	Y
-70	70	00:04:50	00:04:52	Women usually commit suicide in the tub.	Y
-71	71	00:04:52	00:04:55	It's easier cleanup for whoever's left behind.	N
-72	72	00:04:55	00:04:56	Yeah.	N
-73	73	00:04:58	00:04:59	Warrick.	N
-74	74	00:05:01	00:05:04	Did her parents say whether she was living with a man?	N
-75	75	00:05:04	00:05:06	Was dating a Brody Jones.	N
-76	76	00:05:06	00:05:09	No idea where he works or lives.	N
-77	77	00:05:09	00:05:11	Did someone move her?	N
-78	78	00:05:11	00:05:13	She was propped up when we got here.	N
-79	79	00:05:13	00:05:15	I checked for vitals.	N
-80	80	00:05:15	00:05:17	You sure with all your life-saving efforts you didn't move her?	N
-81	81	00:05:17	00:05:20	Hey, man, like I said, I checked for vitals.	N
-82	82	00:05:20	00:05:21	It's okay, baby.	N
-83	83	00:05:26	00:05:27	The victim had no response.	N
-84	84	00:05:27	00:05:29	I had no reason to move her.	N
-85	85	00:05:29	00:05:31	Well, someone moved her.	N
-86	86	00:05:31	00:05:33	She bled out here and she's dead there.	N
-87	87	00:05:41	00:05:42	I'm going to hit the road...	N
-88	88	00:05:42	00:05:43	baby.	N
-89	89	00:05:43	00:05:46	I'm sorry.	N
-90	90	00:05:50	00:05:53	There's a stain here.	N
-91	91	00:05:53	00:05:55	So cold stains.	N
-92	92	00:05:55	00:05:56	Is it recent?	N
-93	93	00:05:59	00:06:01	It's cool to the touch, yeah.	N
-94	94	00:06:06	00:06:08	Sara.	N
-95	95	00:06:08	00:06:11	I think our suicide just became suspicious circs.	N
-96	96	00:06:13	00:06:19	Since I'm the one who always seems to state the obvious this arm was dead before it was hacked off.	N
-97	97	00:06:19	00:06:24	What do you make of the, uh scar tissue on the palm?	N
-98	98	00:06:24	00:06:26	Occupational hazard, maybe.	N
-99	99	00:06:26	00:06:32	I see this kind of thing a lot in bricklayers, plumbers, carpenters.	N
-100	100	00:06:32	00:06:34	Looks like it's blistered.	N
-101	101	00:06:34	00:06:39	Gradual denaturation of the proteins in the epithelials.	N
-102	102	00:06:39	00:06:44	resulting in general scarring on the palm or surface.	N
-103	103	00:06:44	00:06:48	We'll take a sample from under the fingernails and send it to trace.	N
-104	104	00:06:49	00:06:53	Tips of the fingers look like they're worn to the bone.	N
-105	105	00:06:53	00:06:54	Can you get a partial?	N
-106	106	00:06:56	00:06:57	Much more than that.	N
-107	107	00:06:57	00:06:59	Lansberry's Ridge Builder.	N
-108	108	00:07:01	00:07:10	One application to the bulbs of the fingers and the ridges plump out temporarily like a Chia Pet on steroids.	N
-109	109	00:07:39	00:07:41	Petrov Samsko.	N
-110	110	00:07:41	00:07:45	Non-gaming sheriff's permit, head chef, DeBreff Restaurant.	N
-111	111	00:07:46	00:07:49	Chef-- that would explain the burn scar tissue on his palm.	Y
-112	112	00:07:49	00:07:50	It's DeBreff.	N
-113	113	00:07:50	00:07:52	It's a five-star restaurant.	N
-114	114	00:07:52	00:07:53	I've eaten there.	N
-115	115	00:07:53	00:07:55	Good, maybe you can get us a table.	N
-116	116	00:07:55	00:07:58	Different sole, different size.	N
-117	117	00:07:58	00:07:59	Thank you.	N
-118	118	00:08:01	00:08:02	Sorry for the inconvenience.	N
-119	119	00:08:02	00:08:04	This is just a standard procedure.	N
-120	120	00:08:04	00:08:07	Do you have any idea where your daughter's boyfriend works?	N
-121	121	00:08:07	00:08:09	Well, a casino.	N
-122	122	00:08:09	00:08:12	Uh, which one?	N
-123	123	00:08:12	00:08:14	All of them.	N
-124	124	00:08:14	00:08:16	He's, uh, he's a gambler.	N
-125	125	00:08:16	00:08:22	Um, used to drag Linda out, keep her up days at a time.	N
-126	126	00:08:22	00:08:27	Ran her health down, her spirit.	N
-127	127	00:08:27	00:08:29	She was getting better, though.	N
-128	128	00:08:29	00:08:36	She had a, uh... rough time after college finding herself but she was getting better.	N
-129	129	00:08:48	00:08:55	The transection of the left wrist is consistent with a self-inflicted wound particularly because she's right-handed.	N
-130	130	00:08:55	00:08:56	There's no hesitation marks.	N
-131	131	00:08:56	00:08:59	Isn't that uncommon for suicide?	N
-132	132	00:08:59	00:09:03	People usually stutter-cut a few times trying to work up the courage.	N
-133	133	00:09:04	00:09:05	This woman cut herself with one smooth motion.	N
-134	134	00:09:05	00:09:08	This DB is all wrong.	N
-135	135	00:09:08	00:09:11	Someone moved her two feet from where she bled out.	N
-136	136	00:09:11	00:09:13	What did the tox screen say?	N
-137	137	00:09:13	00:09:14	Nothing. Not back yet.	N
-138	138	00:09:14	00:09:16	But I'll get it to you soon as it is.	N
-139	139	00:09:16	00:09:18	Thank you.	Y
-140	140	00:09:19	00:09:21	Is that glass in her hair?	Y
-141	141	00:09:23	00:09:25	Minute pieces of it, yeah.	N
-142	142	00:09:26	00:09:28	I tweezed a few for trace.	Y
-143	143	00:09:28	00:09:31	We didn't see any broken glass in her apartment.	Y
-144	144	00:09:31	00:09:34	Round edges, tinted...	Y
-145	145	00:09:34	00:09:36	It looks polarized.	Y
-146	146	00:09:36	00:09:38	Probably safety glass.	Y
-147	147	00:09:38	00:09:39	Yeah.	N
-148	148	00:09:39	00:09:42	Too bad it didn't protect her.	Y
-149	149	00:09:42	00:09:44	Uh, DeBreff, please hold.	Y
-150	150	00:09:44	00:09:45	DeBreff, please hold.	Y
-151	151	00:09:45	00:09:46	DeBreff, please hold.	Y
-152	152	00:09:47	00:09:48	Hi. Last name?	N
-153	153	00:09:48	00:09:50	We don't have reservations. W-We're here...	N
-154	154	00:09:50	00:09:51	Eh, party of four?	N
-155	155	00:09:51	00:09:53	Three weeks from Thursday?	N
-156	156	00:09:53	00:09:54	Let me see.	N
-157	157	00:09:54	00:09:56	Excuse me, but you don't understand.	N
-158	158	00:09:56	00:09:58	No, I'm sorry. You don't understand.	N
-159	159	00:09:58	00:10:00	Your walk-in's on a very busy night.	N
-160	160	00:10:00	00:10:01	We're short a chef.	N
-161	161	00:10:01	00:10:02	We know. He's dead.	N
-162	162	00:10:02	00:10:04	Not just dead.	N
-163	163	00:10:04	00:10:06	Dismembered.	N
-164	164	00:10:07	00:10:09	We're with the crime lab.	N
-165	165	00:10:10	00:10:12	I'll get the owner.	N
-166	166	00:10:15	00:10:17	Are you sure it's Petrov?	N
-167	167	00:10:17	00:10:20	Coroner made a positive identification.	N
-168	168	00:10:20	00:10:22	What makes you think this event happened here?	N
-169	169	00:10:22	00:10:26	We found traces of aspic and olive oil under his fingernails.	N
-170	170	00:10:26	00:10:31	Means that he went into the meat grinder without showering.	N
-171	171	00:10:31	00:10:33	Possibly straight from this kitchen.	N
-172	172	00:10:33	00:10:36	If there was a murder in our kitchen don't you think that, uh...	N
-173	173	00:10:36	00:10:38	I'd know about it?	N
-174	174	00:10:38	00:10:40	I don't know. Would you?	N
-175	175	00:10:45	00:10:47	Hey, Cath?	N
-176	176	00:10:47	00:10:49	Blood spatter.	N
-177	177	00:10:49	00:10:50	It's a kitchen. The chefs use knives.	N
-178	178	00:10:50	00:10:51	That's not uncommon.	N
-179	179	00:10:51	00:10:53	You are...?	N
-180	180	00:10:53	00:10:54	Gil Grissom.	N
-181	181	00:10:54	00:10:55	I'm with her.	N
-182	182	00:10:57	00:11:00	Who's, uh, Stephanie?	N
-183	183	00:11:00	00:11:02	One of my waitresses.	N
-184	184	00:11:02	00:11:12	Oh, I understand how chefs cut their fingers and how the kitchen help could have blood spatter on their uniforms but how does a waitress get blood on the back of her shirt?	N
-185	185	00:11:14	00:11:21	We can shut you down for hours or get a warrant and shut you down for good.	N
-186	186	00:11:23	00:11:25	Give me till after the rush?	N
-187	187	00:11:32	00:11:36	Okay, this rush is taking entirely too long.	N
-188	188	00:11:36	00:11:37	The coquilles St. Jacques.	N
-189	189	00:11:37	00:11:38	Thank you.	N
-190	190	00:11:38	00:11:42	People always think that the show is out front.	N
-191	191	00:11:42	00:11:46	It wasn't till I waitressed I realized it's all in the back.	N
-192	192	00:12:03	00:12:05	What are you looking at?	N
-193	193	00:12:05	00:12:07	Looks like a V-pattern to me.	N
-194	194	00:12:07	00:12:08	What do you think?	N
-195	195	00:12:09	00:12:11	Yeah.	N
-196	196	00:12:11	00:12:12	What, caused by a candle?	N
-197	197	00:12:13	00:12:15	Burn area seems too big for a candle.	N
-198	198	00:12:15	00:12:17	Okay. Kitchen's all yours.	N
-199	199	00:12:17	00:12:21	Mr. Dutton, uh, can I ask you what happened here?	N
-200	200	00:12:21	00:12:22	Oh, geez.	N
-201	201	00:12:22	00:12:25	Uh, waiters probably put the candles too close to the wall.	N
-202	202	00:12:25	00:12:27	I've told them a million times.	Y
-203	203	00:12:31	00:12:33	Ah, excuse me. Stephanie?	N
-204	204	00:12:33	00:12:34	Uh-huh.	N
-205	205	00:12:34	00:12:35	Is this your uniform?	N
-206	206	00:12:35	00:12:37	Don't have to answer that, Steph.	N
-207	207	00:12:37	00:12:39	They don't have a warrant.	N
-208	208	00:12:39	00:12:41	I thought you said the Mafia left town.	N
-209	209	00:12:42	00:12:47	We have the owner's consent so, again, could you explain this blood?	N
-210	210	00:12:48	00:12:49	Order up, Stephanie.	N
-211	211	00:12:49	00:12:50	Hot items.	N
-212	212	00:12:50	00:12:53	Two filet mignon and one coquilles St. Jacques.	N
-213	213	00:12:53	00:12:55	Boogie. Go, go.	N
-214	214	00:12:55	00:12:56	Hey!	N
-215	215	00:12:56	00:13:02	We found blood spatter on the uniforms of several employees who worked the night that Chef Petrov died.	N
-216	216	00:13:02	00:13:05	Ross Halpo-- sous chef.	N
-217	217	00:13:05	00:13:08	Lola Creighton-- saucier.	N
-218	218	00:13:08	00:13:10	You want to tell us how the blood got here?	N
-219	219	00:13:10	00:13:12	It's my blood.	N
-220	220	00:13:14	00:13:16	don't touch my knife; don't touch my johnson.	N
-221	221	00:13:21	00:13:23	Hey, hey, that's my knife!	N
-222	222	00:13:24	00:13:25	Touched his knife.	N
-223	223	00:13:26	00:13:26	I deserved it.	N
-224	224	00:13:27	00:13:28	Okay.	N
-225	225	00:13:28	00:13:32	That still doesn't explain how the blood got on the uniforms.	N
-226	226	00:13:32	00:13:33	They don't get it.	N
-227	227	00:13:33	00:13:35	Chefs here have a ritual.	N
-228	228	00:13:35	00:13:36	Macho thing.	N
-229	229	00:13:36	00:13:41	If you get cut it's tradition that you disburse maximum spillage.	N
-230	230	00:13:41	00:13:42	Oh, hey, watch it.	N
-231	231	00:13:42	00:13:43	Ah, blood!	N
-232	232	00:13:43	00:13:45	Oh, hey, stop... ooh!	N
-233	233	00:13:45	00:13:47	That's how everyone got blood on themselves.	N
-234	234	00:13:47	00:13:48	Macho.	N
-235	235	00:13:48	00:13:51	Haven't these people ever heard of HIV?	N
-236	236	00:13:51	00:13:52	Apparently not.	N
-237	237	00:13:52	00:13:53	Alert all your employees.	N
-238	238	00:13:53	00:13:56	We're going to take over your kitchen, starting now.	N
-239	239	00:13:56	00:13:59	Hey. You got something on that glass?	N
-240	240	00:13:59	00:14:01	Didn't beep you to say hi.	N
-241	241	00:14:01	00:14:05	Glad to see you're settling in, Hodges.	N
-242	242	00:14:05	00:14:07	You were right. It is polarized.	N
-243	243	00:14:07	00:14:09	Ultraviolet quotient is very high.	N
-244	244	00:14:09	00:14:11	Glass is from a car windshield.	N
-245	245	00:14:11	00:14:14	Maybe she was in some kind of car accident.	N
-246	246	00:14:14	00:14:16	Hit-and-run...	N
-247	247	00:14:16	00:14:20	Then she crawls home, gets on her bed and commits hari-kari?	N
-248	248	00:14:20	00:14:22	Stranger things have happened.	N
-249	249	00:14:22	00:14:25	If you weren't such a lab rat, you would know that.	N
-250	250	00:14:25	00:14:27	You got a make of a car for me?	N
-251	251	00:14:27	00:14:29	No.	N
-252	252	00:14:29	00:14:31	But...	N
-253	253	00:14:31	00:14:34	I can narrow it down to the year it was manufactured.	N
-254	254	00:14:34	00:14:40	Car companies add more ultraviolet sealants each season to stay ahead of safety standards.	N
-255	255	00:14:40	00:14:44	Used a comparison study of a car that was made in 2001.	N
-256	256	00:14:46	00:14:49	Your windshield glass is from a 2002 model.	N
-257	257	00:14:49	00:14:50	Thank you.	N
-258	258	00:14:50	00:14:53	Mm-hmm.	N
-259	259	00:14:56	00:14:57	The windshield's intact.	N
-260	260	00:14:57	00:15:02	Yeah. Well, maybe the glass came from another windshield in this lot.	N
-261	261	00:15:02	00:15:04	Yeah. Let's take a look.	N
-262	262	00:15:04	00:15:09	You know, you can tell a lot about a person by what they leave in their car.	N
-263	263	00:15:09	00:15:11	Rotten bananas.	N
-264	264	00:15:12	00:15:14	Business suit.	N
-265	265	00:15:18	00:15:20	I got a paycheck.	N
-266	266	00:15:20	00:15:22	Who would do that?	N
-267	267	00:15:22	00:15:23	Underwear.	N
-268	268	00:15:26	00:15:28	That looks like adhesive.	N
-269	269	00:15:29	00:15:32	Still tacky.	N
-270	270	00:15:32	00:15:33	Hey, hey!	N
-271	271	00:15:33	00:15:34	What are you doing?	N
-272	272	00:15:34	00:15:35	That's my car.	N
-273	273	00:15:35	00:15:37	Crime lab. How are you?	N
-274	274	00:15:37	00:15:39	Cute picture. I'm late for work.	N
-275	275	00:15:39	00:15:41	We noticed you had your windshield replaced recently.	N
-276	276	00:15:41	00:15:42	The adhesive's seeping.	N
-277	277	00:15:42	00:15:43	You get what you pay for.	N
-278	278	00:15:43	00:15:45	So the car shop was having a half-off deal.	N
-279	279	00:15:45	00:15:47	I'm in no position to go to the big guys.	N
-280	280	00:15:47	00:15:52	Did replacing the windshield have anything to do with the tenant in apartment 325?	N
-281	281	00:15:52	00:15:53	Linda? Yeah.	N
-282	282	00:15:53	00:15:55	She did it.	N
-283	283	00:15:55	00:15:58	I'd send her the bill if I thought she'd pay.	N
-284	284	00:15:58	00:16:00	She hasn't paid for anything else she trashed in this complex.	N
-285	285	00:16:00	00:16:01	Like what else?	N
-286	286	00:16:01	00:16:04	Oh, well, that would depend on her mood.	N
-287	287	00:16:04	00:16:06	Um, when she's up, she breaks the mailboxes.	N
-288	288	00:16:09	00:16:12	When she's down she throws the patio furniture into the pool.	N
-289	289	00:16:16	00:16:21	She broke my windshield yesterday because she said she heard me talking on my cell about her.	N
-290	290	00:16:23	00:16:25	You bitch! I heard you!	N
-291	291	00:16:25	00:16:27	We just call her the whack job in 325.	N
-292	292	00:16:27	00:16:29	Well, she died yesterday.	N
-293	293	00:16:29	00:16:31	We think it may have been a suicide.	N
-294	294	00:16:31	00:16:34	Yeah? I'm surprised someone didn't kill her.	N
-295	295	00:16:38	00:16:45	Look, unless you want to call my pit boss and tell him I'm under arrest, I'm going to work.	N
-296	296	00:16:45	00:16:48	Thank you.	N
-297	297	00:16:48	00:16:50	I would like to see Linda Damen's tox report.	N
-298	298	00:16:50	00:16:52	Yeah.	N
-299	299	00:17:09	00:17:14	Fresh off an airplane from a conference, and bam-- I got seminal fluid.	Y
-300	300	00:17:14	00:17:16	Lucky you.	N
-301	301	00:17:30	00:17:33	Some things never change.	N
-302	302	00:17:33	00:17:35	What's that?	N
-303	303	00:17:35	00:17:37	Cocaine.	N
-304	304	00:17:43	00:17:46	Presence of blood on the drain.	N
-305	305	00:17:46	00:17:48	Blood, coke, semen.	N
-306	306	00:17:48	00:17:52	These people were doing everything in this kitchen but cook.	N
-307	307	00:17:53	00:17:55	I'll go have a little chit-chat with the hostess.	N
-308	308	00:17:56	00:17:58	They always seem to know everything.	N
-309	309	00:18:17	00:18:19	Blood clot.	Y
-310	310	00:18:20	00:18:22	What is that, sand around it?	Y
-311	311	00:18:22	00:18:24	Looks like it.	N
-312	312	00:18:24	00:18:26	What would sand be doing in a kitchen?	Y
-313	313	00:18:26	00:18:31	Well, one thing's the blood got there before the sand.	N
-314	314	00:18:31	00:18:34	This was not a little knife nick.	N
-315	315	00:18:34	00:18:36	This guy was stuck.	N
-316	316	00:18:36	00:18:42	I mean, uh, he bled out long enough for his blood to pool and clot.	Y
-317	317	00:18:45	00:18:47	Excuse me.	Y
-318	318	00:18:48	00:18:50	We're going to need all your knives.	N
-319	319	00:18:51	00:18:52	Starting with yours.	N
-320	320	00:18:54	00:18:55	I need them back by the next shift.	N
-321	321	00:18:57	00:18:59	Well, that depends on what we find.	N
-322	322	00:19:07	00:19:12	Oh, uh, this is the clearest picture that we could find of Brody.	N
-323	323	00:19:12	00:19:14	Thank you.	N
-324	324	00:19:14	00:19:15	I'll get it to a detective.	N
-325	325	00:19:15	00:19:18	The shoeprint that you found in Linda's bedroom?	N
-326	326	00:19:18	00:19:20	Are you thinking that Brody might have...?	N
-327	327	00:19:20	00:19:21	Oh, we don't know yet.	Y
-328	328	00:19:21	00:19:23	We're going to wait and see what the evidence tells us.	Y
-329	329	00:19:24	00:19:29	I did meet a tenant at your daughter's apartment complex that described Linda as...	Y
-330	330	00:19:29	00:19:31	troubled.	N
-331	331	00:19:31	00:19:34	Did you ever witness her being violent?	N
-332	332	00:19:34	00:19:38	We like to think of her as normal, as improving.	N
-333	333	00:19:38	00:19:41	She was prescribed lithium her junior year of college.	N
-334	334	00:19:41	00:19:43	She was diagnosed bipolar?	N
-335	335	00:19:43	00:19:45	She's a rapid cycler.	N
-336	336	00:19:45	00:19:47	She shifts into manic in a blink.	N
-337	337	00:19:47	00:19:52	We knew she had been violent around the complex.	N
-338	338	00:19:52	00:19:53	Lithium didn't help?	N
-339	339	00:19:53	00:19:55	Well, it's a catch-22.	N
-340	340	00:19:55	00:20:04	When Linda's in an up phase, she doesn't think she needs the lithium, so she doesn't take it which then makes her more unstable.	N
-341	341	00:20:06	00:20:09	Made.	N
-342	342	00:20:09	00:20:12	I'm sorry for your loss.	N
-343	343	00:20:46	00:20:49	That's a gueridon used for tableside cooking.	N
-344	344	00:20:49	00:20:54	I thought there was a policy against the use of these in Las Vegas restaurants.	N
-345	345	00:20:54	00:20:59	Ever since a television star from the '70s burned his face by one.	N
-346	346	00:20:59	00:21:00	It's changed dining forever.	N
-347	347	00:21:00	00:21:04	You know, those V-marks that we found in the restaurant-- those were made fairly recently.	N
-348	348	00:21:04	00:21:07	Certainly since the '70s.	N
-349	349	00:21:09	00:21:12	I lied about the candles.	N
-350	350	00:21:12	00:21:14	It was an accident.	N
-351	351	00:21:14	00:21:20	According to your owner's log, it was a bad accident.	N
-352	352	00:21:20	00:21:29	Danny Pasqualle Italian male model suffered third-degree burns on his face the night of September 26, 2002.	N
-353	353	00:21:29	00:21:32	We do special requests for special customers.	N
-354	354	00:21:32	00:21:38	Chef Petrov made Mr. Pasqualle a Cafe Diablo.	N
-355	355	00:21:38	00:21:45	Myers Rum, Grand Marnier, Kahlua, and now for the ride.	N
-356	356	00:21:45	00:21:48	Did he ever file formal charges against you?	N
-357	357	00:21:48	00:21:49	No, that's the strange thing.	N
-358	358	00:21:49	00:21:51	He... he never did.	N
-359	359	00:21:52	00:21:55	What am I going to do, sue for a restaurant?	N
-360	360	00:21:55	00:21:57	I used to make five million a year.	N
-361	361	00:21:57	00:21:58	You do the math.	N
-362	362	00:21:58	00:22:02	So after losing all that salary you never filed suit.	N
-363	363	00:22:02	00:22:07	Maybe you didn't file charges to keep it quiet and settle it for yourself.	N
-364	364	00:22:09	00:22:10	Are you accusing me of something?	N
-365	365	00:22:10	00:22:19	No charges will be filed, Mr. Pasqualle if... you'd be willing to fill out a statement to that effect.	N
-366	366	00:22:22	00:22:25	The mark on your hand, Mr. Pasqualle?	N
-367	367	00:22:25	00:22:31	Patterned abrasions over the dorsal of the hand at the metacarpal phalangeal joints.	N
-368	368	00:22:31	00:22:33	We call it a fight bite.	N
-369	369	00:22:33	00:22:35	Human mouths are full of bacteria.	N
-370	370	00:22:35	00:22:40	A wound from a human bite is a tremendous source of infection, unfortunately.	N
-371	371	00:22:40	00:22:41	So, what happened, Mr. Pasqualle?	N
-372	372	00:22:41	00:22:45	You paid the chef a little visit and did your version of Etu, Brute?	N
-373	373	00:22:51	00:22:55	You don't have to say anything, Mr. Pasqualle.	N
-374	374	00:23:00	00:23:04	We just need your hand.	N
-375	375	00:23:26	00:23:30	not human.	N
-376	376	00:23:30	00:23:34	25 knives in, and I'm bust.	N
-377	377	00:23:37	00:23:39	Oh, now we're cooking.	N
-378	378	00:23:44	00:23:46	It's not blood.	N
-379	379	00:23:46	00:23:49	There he is-- dollar slots, wearing the cap.	N
-380	380	00:23:49	00:23:50	How did you track him down?	N
-381	381	00:23:50	00:23:52	We showed his photo around.	N
-382	382	00:23:52	00:23:56	The ATM in the lobby-- he used it 24 hours ago.	N
-383	383	00:23:59	00:24:00	What is he doing?	N
-384	384	00:24:00	00:24:03	We used to call a guy like that a bean counter.	N
-385	385	00:24:03	00:24:06	Degenerates paying 25 cents a pop in hopes of cracking a pattern.	N
-386	386	00:24:07	00:24:08	What are the notebooks for?	N
-387	387	00:24:08	00:24:09	It's his results.	N
-388	388	00:24:09	00:24:13	But that joker doesn't realize that the patterns can end up in the hundreds of millions.	N
-389	389	00:24:15	00:24:18	You know, the more I see of this kind of stuff the less I picture you a gambler.	N
-390	390	00:24:18	00:24:19	This isn't gambling.	N
-391	391	00:24:19	00:24:21	This is the end of the line.	N
-392	392	00:24:26	00:24:28	How long have you been here, sir?	N
-393	393	00:24:30	00:24:31	Las Vegas Police.	N
-394	394	00:24:31	00:24:32	We want a word with you.	N
-395	395	00:24:32	00:24:34	What do you know about the death of Linda Damen?	N
-396	396	00:24:34	00:24:35	Unfortunate.	N
-397	397	00:24:35	00:24:38	I need to... write my results.	N
-398	398	00:24:38	00:24:39	I need to...	N
-399	399	00:24:41	00:24:41	document them.	N
-400	400	00:24:42	00:24:44	How did you get the blood on your shirt?	N
-401	401	00:24:44	00:24:46	What blood?	N
-402	402	00:24:46	00:24:47	We're going to need your shirt.	N
-403	403	00:24:53	00:24:54	Take it.	N
-404	404	00:24:56	00:24:57	You're coming with the shirt.	N
-405	405	00:24:58	00:25:00	We'll need your shoes, too.	N
-406	406	00:25:00	00:25:09	Did you know that some doctors believe that oral bacteria have no other benefits than to make it impossible for other more vicious bacteria to take up residence in our mouths?	N
-407	407	00:25:09	00:25:11	I knew that, Greg.	N
-408	408	00:25:11	00:25:13	So, then I should just stop trying to impress you.	N
-409	409	00:25:13	00:25:15	That would impress me.	N
-410	410	00:25:15	00:25:17	Okay. Well, results from the Fight Bite Boy.	N
-411	411	00:25:17	00:25:22	I had to get it from an outside lab since we're not equipped to do bacterial DNA testing ourselves.	N
-412	412	00:25:22	00:25:23	Hint, hint.	N
-413	413	00:25:23	00:25:27	Bacteria on his knuckles matches the natural bacteria in the chef's mouth.	N
-414	414	00:25:28	00:25:30	I guess he settled out of court.	N
-415	415	00:25:30	00:25:32	I'll never work again!	N
-416	416	00:25:33	00:25:36	Looks like he took a cheek swab of the chef with his own fist.	N
-417	417	00:25:37	00:25:39	Thanks, Greg.	N
-418	418	00:25:39	00:25:40	Mm-hmm.	N
-419	419	00:25:40	00:25:43	You can see why I might have a hard time believing you, right?	N
-420	420	00:25:46	00:25:48	Excuse me.	N
-421	421	00:25:54	00:25:57	So... our male model copping to battery?	N
-422	422	00:25:57	00:25:59	He's denying murder.	N
-423	423	00:25:59	00:26:01	Well, maybe he's telling the truth.	N
-424	424	00:26:01	00:26:05	The earplug from the meat plant-- we got a hit on Codus.	N
-425	425	00:26:05	00:26:09	Kicked out Harold Haskins delivery man from Meteor Meat.	Y
-426	426	00:26:09	00:26:11	Out on parole for extortion.	N
-427	427	00:26:11	00:26:14	He delivers to DeBreff Restaurant.	N
-428	428	00:26:14	00:26:16	So, you snuck in the place to grind up a body?	N
-429	429	00:26:16	00:26:19	No. I didn't even know what it was till it was too late.	N
-430	430	00:26:19	00:26:23	Who exactly gave you the, uh, meat to grind?	N
-431	431	00:26:23	00:26:26	Uh, it was in the restaurant freezer at the DeBreff.	N
-432	432	00:26:27	00:26:28	You see my face?	N
-433	433	00:26:28	00:26:30	This is me almost believing you.	N
-434	434	00:26:30	00:26:33	Now, I've already violated your parole so whatever I say to the judge is up to you.	N
-435	435	00:26:34	00:26:34	So, what is it?	N
-436	436	00:26:36	00:26:37	It was Ross.	N
-437	437	00:26:37	00:26:39	The sous chef.	N
-438	438	00:26:40	00:26:42	I owed him 3,000 for coke.	N
-439	439	00:26:42	00:26:46	He said I could pay him back with the favor.	N
-440	440	00:26:46	00:26:49	You ground up a body as a favor?	N
-441	441	00:26:49	00:26:50	It was already dead.	N
-442	442	00:26:50	00:26:51	It's not like I killed him.	N
-443	443	00:26:51	00:26:54	Well, that's a very tenuous distinction.	N
-444	444	00:26:54	00:26:56	Stay right there.	N
-445	445	00:26:56	00:26:59	That's a filet, not a porterhouse.	N
-446	446	00:26:59	00:27:00	I'm a sous chef.	N
-447	447	00:27:00	00:27:03	20 guys are into me for recreational substances.	N
-448	448	00:27:03	00:27:05	It doesn't mean they'd cut a body up for me.	N
-449	449	00:27:05	00:27:07	Ground it up.	N
-450	450	00:27:07	00:27:09	We're thinking that you did the actual filleting.	N
-451	451	00:27:09	00:27:10	Never happened.	N
-452	452	00:27:10	00:27:12	Ask any of the guys.	N
-453	453	00:27:12	00:27:13	We have.	N
-454	454	00:27:13	00:27:14	They won't talk.	N
-455	455	00:27:15	00:27:17	Military calls it Code Red.	N
-456	456	00:27:17	00:27:20	Fierce loyalty to the top dog.	N
-457	457	00:27:20	00:27:22	I guess Petrov was that until somebody killed him.	N
-458	458	00:27:22	00:27:25	His tragedy is your promotion?	N
-459	459	00:27:26	00:27:27	Excuse me.	N
-460	460	00:27:27	00:27:29	We're in the middle of a rush here.	N
-461	461	00:27:29	00:27:31	Customers don't forgive a cold meal or a late meal.	N
-462	462	00:27:31	00:27:33	I bet they'd forgive a murder, Les.	N
-463	463	00:27:33	00:27:34	Hey, do you guys serve mutton?	N
-464	464	00:27:34	00:27:36	What?	N
-465	465	00:27:36	00:27:37	Mutton.	N
-466	466	00:27:37	00:27:39	It's from the French word for sheep.	N
-467	467	00:27:39	00:27:48	These fibers look like wool and since sheep are sheered before they're butchered I think that somebody was cooking something here, and it wasn't food.	N
-468	468	00:27:50	00:27:52	Code Red?	N
-469	469	00:27:58	00:28:03	Brody, we have your shoeprint in Linda's blood.	N
-470	470	00:28:03	00:28:07	We also have a sample of Linda's blood that we found on your T-shirt.	N
-471	471	00:28:07	00:28:09	Is there anything you'd like to tell us?	N
-472	472	00:28:09	00:28:10	Yes.	N
-473	473	00:28:10	00:28:17	Someone is playing that machine right now and is throwing the entire last 72 hours of calculations out the window.	N
-474	474	00:28:17	00:28:20	Did you kill this girl and try to make it look like a suicide?	N
-475	475	00:28:20	00:28:23	If anything, I tried to save her.	N
-476	476	00:28:23	00:28:25	Save her how?	N
-477	477	00:28:25	00:28:27	I went to her place.	N
-478	478	00:28:27	00:28:29	Borrowed some money from her.	N
-479	479	00:28:31	00:28:33	I looked in her bedroom.	N
-480	480	00:28:33	00:28:35	I thought she fell asleep reading.	N
-481	481	00:28:35	00:28:36	Then I saw blood.	N
-482	482	00:28:38	00:28:40	Linda!	Y
-483	483	00:28:40	00:28:42	Tried to revive her.	N
-484	484	00:28:43	00:28:45	Oh, oh.	N
-485	485	00:28:46	00:28:48	But you left her there, dead.	N
-486	486	00:28:49	00:28:50	You don't get it.	N
-487	487	00:28:51	00:28:55	Even as the son of God I can only do so much.	N
-488	488	00:29:03	00:29:05	Oh, I get it.	N
-489	489	00:29:05	00:29:10	You and Linda are kind of on the same page, huh?	N
-490	490	00:29:11	00:29:14	Did you stop taking your lithium together?	N
-491	491	00:29:14	00:29:15	Is that it?	N
-492	492	00:29:16	00:29:18	It's not a crime.	N
-493	493	00:29:18	00:29:20	Yeah, you're right.	N
-494	494	00:29:20	00:29:21	It's not.	N
-495	495	00:29:29	00:29:33	Bipolar girl meets a bipolar guy.	Y
-496	496	00:29:33	00:29:34	Together, they cut out their medication.	N
-497	497	00:29:34	00:29:36	She ends up committing suicide.	Y
-498	498	00:29:36	00:29:39	It's almost like bipolar boy is too high to even realize what went down.	Y
-499	499	00:29:39	00:29:40	Yeah.	N
-500	500	00:29:41	00:29:42	Hey, Doc.	N
-501	501	00:29:42	00:29:44	I was over here on an exhumation matter.	N
-502	502	00:29:44	00:29:45	I knew you wanted this.	N
-503	503	00:29:45	00:29:47	Tox results for Linda Damen.	N
-504	504	00:29:47	00:29:49	Thank you.	Y
-505	505	00:29:50	00:29:53	No lithium, just like her parents said.	Y
-506	506	00:29:53	00:29:59	She did have a huge dose of Valium, ingested less than an hour before her time of death.	Y
-507	507	00:29:59	00:30:00	Valium?	N
-508	508	00:30:00	00:30:01	That doesn't make any sense.	N
-509	509	00:30:01	00:30:04	I mean, that's the last thing a depressed person would take.	N
-510	510	00:30:04	00:30:06	200 milligrams.	N
-511	511	00:30:06	00:30:09	That's more than five times the normal dosage.	N
-512	512	00:30:10	00:30:12	That much Valium.	N
-513	513	00:30:12	00:30:18	There's no way she could have fought somebody off if they were coming after her with a straight razor.	N
-514	514	00:30:24	00:30:28	Greg, how's the knife coming with that mysterious smudge on it?	N
-515	515	00:30:28	00:30:30	I just got the results.	N
-516	516	00:30:30	00:30:32	Alcohol, acetate and red dye #58.	N
-517	517	00:30:32	00:30:34	Nail polish. Mm-hmm.	N
-518	518	00:30:36	00:30:38	May I see your nails, please?	N
-519	519	00:30:47	00:30:49	Oh.	N
-520	520	00:30:49	00:30:51	Well, I'm going to need a sample of that polish.	N
-521	521	00:30:51	00:30:52	A scraping.	N
-522	522	00:30:52	00:30:54	Uh, is this small enough?	N
-523	523	00:30:56	00:30:57	Yeah. That'll do.	N
-524	524	00:30:59	00:31:01	Okay, the, uh, three of you can go.	N
-525	525	00:31:01	00:31:02	Thank you, ladies.	N
-526	526	00:31:03	00:31:05	And I've got a table for you.	N
-527	527	00:31:05	00:31:06	A five top.	N
-528	528	00:31:06	00:31:08	All by yourself.	N
-529	529	00:31:08	00:31:11	By the window.	N
-530	530	00:31:11	00:31:13	Someone will be with you shortly.	N
-531	531	00:31:15	00:31:17	I looked into that prescription at the pharmacy you asked about.	N
-532	532	00:31:17	00:31:19	Linda Damen, the deceased.	N
-533	533	00:31:19	00:31:20	That was quick.	N
-534	534	00:31:20	00:31:22	She doesn't have a prescription for Valium.	N
-535	535	00:31:22	00:31:23	Her mother does-- Jane Damen.	N
-536	536	00:31:23	00:31:25	25 milligrams as needed.	N
-537	537	00:31:25	00:31:27	I think we better go pay Mom a visit.	N
-538	538	00:31:27	00:31:28	Yeah. Thanks, Sully.	N
-539	539	00:31:28	00:31:29	Okay.	N
-540	540	00:31:32	00:31:34	Wools are worsted. 12-ounce weight.	Y
-541	541	00:31:35	00:31:36	That's heavy?	N
-542	542	00:31:36	00:31:38	Light... weave.	N
-543	543	00:31:38	00:31:41	Mostly for season spanners.	N
-544	544	00:31:41	00:31:43	We're talking about clothes?	N
-545	545	00:31:43	00:31:48	Worsted is predominately used in the manufacturing of suits and light overcoats.	Y
-546	546	00:31:48	00:31:52	The finish on this is a trademark coating in high-end suits.	N
-547	547	00:31:52	00:31:53	Okay, good.	N
-548	548	00:31:53	00:31:54	Thanks.	N
-549	549	00:31:54	00:31:56	Mm. I'm not done.	N
-550	550	00:31:57	00:32:00	There was also blood present on the burnt wool.	Y
-551	551	00:32:00	00:32:03	Did we get a DNA test?	Y
-552	552	00:32:03	00:32:06	It's victim's blood, from your chef.	Y
-553	553	00:32:06	00:32:09	I know what you're thinking.	Y
-554	554	00:32:09	00:32:10	Couldn't possibly be his suit.	Y
-555	555	00:32:10	00:32:12	Chefs wear checks and white shirts.	N
-556	556	00:32:12	00:32:17	But somebody did burn a bloody suit in the restaurant kitchen.	N
-557	557	00:32:17	00:32:18	A high-end suit.	N
-558	558	00:32:22	00:32:24	You have a candidate.	Y
-559	559	00:32:26	00:32:28	You're the new guy.	N
-560	560	00:32:28	00:32:30	Yeah. Uh, David Hodges.	N
-561	561	00:32:30	00:32:31	Transferred from LAPD.	N
-562	562	00:32:33	00:32:35	They said I had an attitude problem.	N
-563	563	00:32:35	00:32:37	Said that I thought I was entitled.	N
-564	564	00:32:45	00:32:52	So that sample I collected matches the polish on this knife.	N
-565	565	00:32:52	00:32:55	You handled this knife.	N
-566	566	00:32:55	00:32:58	So?	N
-567	567	00:32:59	00:33:03	don't touch my knife; don't touch my johnson.	N
-568	568	00:33:05	00:33:07	Did you stab the chef?	N
-569	569	00:33:07	00:33:09	Well, this is the sous chef's knife.	N
-570	570	00:33:09	00:33:10	I'm aware of that.	N
-571	571	00:33:11	00:33:14	But when a transfer is made on a blade it's usually from slippage.	N
-572	572	00:33:14	00:33:17	due to a stabbing motion.	N
-573	573	00:33:20	00:33:22	Ar-Are you charging me with anything?	N
-574	574	00:33:23	00:33:24	No.	N
-575	575	00:33:24	00:33:26	But why don't you have a seat out in reception.	N
-576	576	00:33:26	00:33:29	Things could change.	Y
-577	577	00:33:29	00:33:34	Mrs. Damen, our detective found this prescription in your name for Valium.	N
-578	578	00:33:36	00:33:37	Can you tell us anything about that?	N
-579	579	00:33:41	00:33:43	I take Valium on occasion.	Y
-580	580	00:33:43	00:33:44	Yes.	Y
-581	581	00:33:44	00:33:47	Our lives get pretty frenetic just trying to keep up with Linda.	Y
-582	582	00:33:47	00:33:49	And you last got a prescription...	Y
-583	583	00:33:49	00:33:50	this past Monday.	Y
-584	584	00:33:50	00:33:52	What does that mean?	Y
-585	585	00:33:52	00:33:57	The tox report says Linda had five times the normal dose of Valium in her system.	Y
-586	586	00:33:57	00:34:01	Because there were no hesitation marks on her wrists it suggests that someone else inflicted the wound.	N
-587	587	00:34:01	00:34:03	That much Valium would've been enough to subdue her.	N
-588	588	00:34:03	00:34:08	Hey, I-I think you're a little out of line here.	N
-589	589	00:34:08	00:34:10	I did not drug my daughter.	N
-590	590	00:34:10	00:34:14	May we have your permission to look through the current contents of your prescription?	N
-591	591	00:34:15	00:34:17	Did Linda's boyfriend put you up to this?	N
-592	592	00:34:17	00:34:18	Because he is not stable. ( phone ringing )	N
-593	593	00:34:18	00:34:20	No.	N
-594	594	00:34:20	00:34:21	( phone ringing ) Excuse me.	N
-595	595	00:34:22	00:34:24	We're simply trying to determine... Hello?	Y
-596	596	00:34:24	00:34:27	The blouse from your vic's closet is stained.	Y
-597	597	00:34:27	00:34:29	The substances are biological.	N
-598	598	00:34:29	00:34:31	High salt content.	Y
-599	599	00:34:31	00:34:32	Male or female?	Y
-600	600	00:34:34	00:34:35	Thanks, Greg.	N
-601	601	00:34:39	00:34:48	Mr. and Mrs. Damen, there are five types of tears-- sorrow, regret, joy, fear and allergic reaction.	Y
-602	602	00:34:48	00:34:52	The one thing that they have in common is DNA.	Y
-603	603	00:34:52	00:34:55	We found a blouse in your daughter's closet the night that she died.	Y
-604	604	00:34:55	00:34:57	There was moisture on it.	N
-605	605	00:34:57	00:35:01	The moisture... was tears.	N
-606	606	00:35:01	00:35:04	The DNA... was male.	Y
-607	607	00:35:08	00:35:10	Mr. Damen?	Y
-608	608	00:35:11	00:35:14	Were you waiting in the closet for your daughter?	Y
-609	609	00:35:17	00:35:21	We can get a warrant to test your DNA sample against our sample.	Y
-610	610	00:35:21	00:35:23	John?	N
-611	611	00:35:26	00:35:28	The... ( sighs )	N
-612	612	00:35:28	00:35:35	The-the only way to get an adult committed for psychological help is if they hurt themselves.	N
-613	613	00:35:35	00:35:37	Or someone else.	N
-614	614	00:35:37	00:35:41	Everyone Linda attacked was too afraid to file complaints against her.	N
-615	615	00:35:42	00:35:45	She was out of hand. She was attacking strangers.	N
-616	616	00:35:45	00:35:47	She was vandalizing property.	N
-617	617	00:35:47	00:35:52	She was refusing to take her medication and we were helpless to make her.	N
-618	618	00:35:52	00:35:58	It was supposed to be a suicide attempt...	N
-619	619	00:35:59	00:36:00	but then...	N
-620	620	00:36:00	00:36:03	I heard somebody at the door and I...	N
-621	621	00:36:03	00:36:06	I-I...	N
-622	622	00:36:07	00:36:10	I guess I panicked.	N
-623	623	00:36:13	00:36:15	I hid in the closet.	N
-624	624	00:36:18	00:36:27	And, um, she, uh... when he...	N
-625	625	00:36:29	00:36:30	Linda?	N
-626	626	00:36:30	00:36:32	Linda?!	N
-627	627	00:36:32	00:36:34	By then it was too late.	N
-628	628	00:36:36	00:36:39	I just wanted to get her help.	N
-629	629	00:36:39	00:36:42	I just wa... She needed my help.	N
-630	630	00:36:42	00:36:46	I just...	N
-631	631	00:36:46	00:36:47	She, she needed help.	N
-632	632	00:36:48	00:36:49	Honey, you know...	N
-633	633	00:36:49	00:36:52	she-she wouldn't...	N
-634	634	00:37:00	00:37:03	Reminds of what my grandmother said a long time ago.	N
-635	635	00:37:03	00:37:04	I would never believe her.	N
-636	636	00:37:04	00:37:06	What's that?	N
-637	637	00:37:06	00:37:11	Crazy people make even sane people act crazy.	N
-638	638	00:37:21	00:37:23	( rattling ) What'd you find?	N
-639	639	00:37:23	00:37:24	Come here.	N
-640	640	00:37:24	00:37:26	Do you hear this?	N
-641	641	00:37:29	00:37:31	How did we miss that in Trace?	N
-642	642	00:37:32	00:37:33	I don't know.	N
-643	643	00:37:33	00:37:38	But I've learned that the evidence room is the quietest place in the lab.	N
-644	644	00:37:43	00:37:48	Sand. Right-- for balance and precision.	N
-645	645	00:37:49	00:37:53	Did you know that to a geologist there's no such thing as sand?	N
-646	646	00:37:53	00:37:55	Each grain is its own tiny rock.	N
-647	647	00:37:55	00:37:57	Fine, glassy crystals...	N
-648	648	00:37:57	00:38:00	dark.	N
-649	649	00:38:00	00:38:02	Obsidian, I bet.	N
-650	650	00:38:02	00:38:04	Volcanic sand. Long way from home.	N
-651	651	00:38:04	00:38:06	Japanese call it singing sand.	N
-652	652	00:38:06	00:38:11	If you walk on certain beaches in Japan it'll make a musical sound.	N
-653	653	00:38:11	00:38:15	Never been to Japan but I've seen this sand before...	N
-654	654	00:38:15	00:38:17	on the blood clot.	N
-655	655	00:38:23	00:38:26	Let us carve him as a dish fit for the gods.	N
-656	656	00:38:27	00:38:29	I'm going to guess Shakespeare.	N
-657	657	00:38:29	00:38:31	Julius Caesar.	N
-658	658	00:38:31	00:38:34	That's your knife.	N
-659	659	00:38:34	00:38:38	This is the owner's log.	N
-660	660	00:38:38	00:38:44	The sous chef gets 89% of the meat off of trout filet-- six percent better than any chef on the line.	N
-661	661	00:38:44	00:38:47	I don't think you killed the chef.	N
-662	662	00:38:49	00:38:51	You did fillet him, though.	N
-663	663	00:38:51	00:38:52	Your knife handle slid open...	N
-664	664	00:38:53	00:38:57	...sand went down the drain landing on the victim's clotted blood.	Y
-665	665	00:38:58	00:39:00	It's hard work, carving up a man.	Y
-666	666	00:39:00	00:39:03	I believe that's how you broke your knife handle.	N
-667	667	00:39:04	00:39:07	But you didn't do this alone, did you?	Y
-668	668	00:39:08	00:39:11	A murdered chef in your kitchen.	Y
-669	669	00:39:11	00:39:13	Kiss of death for a restaurant.	Y
-670	670	00:39:14	00:39:16	We'll never get our customers back.	N
-671	671	00:39:16	00:39:18	How am I going to get a body out of here?	N
-672	672	00:39:18	00:39:21	I do for you, you do for me.	Y
-673	673	00:39:22	00:39:25	Code Red, in fact-- protect the kitchen.	Y
-674	674	00:39:28	00:39:33	Some people say the most important part of preparing a meal is the cleanup.	Y
-675	675	00:39:33	00:39:41	While the fillet man disposed of the chef parts you got rid of your bloody suit.	Y
-676	676	00:39:49	00:39:50	How's it going?	Y
-677	677	00:39:50	00:39:52	Well, he's not denying anything.	N
-678	678	00:39:52	00:39:54	He's not admitting anything, either.	Y
-679	679	00:39:54	00:39:55	Yeah.	Y
-680	680	00:39:55	00:39:57	Same as the other two here.	Y
-681	681	00:39:57	00:39:59	They need a little nudge.	Y
-682	682	00:39:59	00:40:01	Such as?	Y
-683	683	00:40:01	00:40:05	While they're in our custody shall we try a little theater?	Y
-684	684	00:40:18	00:40:19	Let's go for a walk.	N
-685	685	00:40:19	00:40:23	Hey, relax. You'll be with a friend.	N
-686	686	00:40:23	00:40:24	Cuff him up.	N
-687	687	00:41:03	00:41:06	Why did you kill him?	N
-688	688	00:41:09	00:41:13	I-I went into the walk-in to, to get some lemons.	N
-689	689	00:41:13	00:41:15	Oh, yeah... ( moans )	N
-690	690	00:41:18	00:41:23	He played around all the time-- waitresses, patrons... nobodies.	N
-691	691	00:41:23	00:41:27	But... she was different.	N
-692	692	00:41:28	00:41:30	She was a chef.	N
-693	693	00:41:31	00:41:33	What does that mean?	N
-694	694	00:41:33	00:41:37	Well, I can't make toast, um... where did I stand?	N
-695	695	00:41:37	00:41:39	Hey, beautiful, I haven't seen you all night.	N
-696	696	00:41:39	00:41:41	Well, I've seen you.	N
-697	697	00:41:54	00:41:57	Officer, would you take her to Booking, please?	N
-698	698	00:42:03	00:42:06	All in a day's work.	N
-699	699	00:42:06	00:42:08	Yeah.	N
-700	700	00:42:09	00:42:11	You up for dinner?	N
+	start	end	text
+0	00:00:10	00:00:12	Back it up. Back it up.
+1	00:00:13	00:00:16	Whoa, whoa, whoa. You're good. You're good.
+2	00:00:19	00:00:20	Hey, Harlan.
+3	00:00:20	00:00:22	Special delivery.
+4	00:00:22	00:00:24	Fresh shipment in from Nebraska.
+5	00:00:24	00:00:26	Great. Just stack it in the freezer, will you?
+6	00:00:26	00:00:27	I got to open up.
+7	00:00:27	00:00:29	All right, you got it, boss.
+8	00:00:56	00:00:59	Ever wonder what's in that hot dog?
+9	00:00:59	00:01:01	Human body in a meat grinder.
+10	00:01:02	00:01:04	Shop foreman found an arm.
+11	00:01:04	00:01:07	The rest of him is prime grade A sirloin.
+12	00:01:07	00:01:09	Body in a meat grinder.
+13	00:01:09	00:01:12	Sounds kind of Mob-ish except they left town in the '80s.
+14	00:01:12	00:01:16	The last guy to operate the meat grinder is this guy over here.
+15	00:01:16	00:01:18	Manny Saldano, age 37.
+16	00:01:18	00:01:19	Worked for Meteor for 11 years.
+17	00:01:19	00:01:21	Shop foreman vouches for him.
+18	00:01:21	00:01:25	Says he inspected all three of his machines before he clocked him out.
+19	00:01:25	00:01:26	Well, keep him here.
+20	00:01:26	00:01:27	We're going to need to process him.
+21	00:01:27	00:01:29	Sure.
+22	00:01:29	00:01:32	Check out the smorgasbord.
+23	00:01:32	00:01:33	Go ahead.
+24	00:01:38	00:01:40	Mike.
+25	00:01:40	00:01:44	Good God...
+26	00:01:46	00:01:48	Looks like the elbow got stuck in the blade.
+27	00:01:51	00:01:53	Yup, the ulna.
+28	00:01:53	00:01:55	One of the strongest bones in the body.
+29	00:01:55	00:01:57	Probably what jammed this grinder.
+30	00:01:57	00:02:00	Possibly why whoever did this didn't finish the job.
+31	00:02:05	00:02:09	It's like that Morrissey album-- Meat Is Murder.
+32	00:02:11	00:02:13	I'm going to need a hand.
+33	00:02:52	00:02:55	The last remains of John Doe.
+34	00:02:55	00:02:56	We're going to need sifters.
+35	00:02:56	00:02:58	Blood's everywhere.
+36	00:02:58	00:03:02	Phenolphthalein and Luminol are useless.
+37	00:03:02	00:03:05	We're going to have to dismantle this piece by piece.
+38	00:03:06	00:03:06	Yeah.
+39	00:03:06	00:03:07	I'll get a foreman.
+40	00:03:07	00:03:08	I think I can handle this.
+41	00:03:08	00:03:11	You know about meat grinders?
+42	00:03:11	00:03:13	Well, everything's pretty much plumbing.
+43	00:03:13	00:03:14	Male into female parts.
+44	00:03:14	00:03:18	Righty tighty, lefty loosey.
+45	00:03:26	00:03:28	Grinder plate.
+46	00:03:33	00:03:35	Blade.
+47	00:03:42	00:03:43	The worm.
+48	00:03:56	00:03:58	Found an ear plug.
+49	00:03:58	00:04:02	Ear wax is ripe with DNA.
+50	00:04:02	00:04:03	Except...
+51	00:04:04	00:04:07	all the employees wear them.
+52	00:04:07	00:04:10	This one's different than the ones they use.
+53	00:04:10	00:04:13	Whoever wore this brought it with them.
+54	00:04:13	00:04:16	We just have to find out whose ear it fits.
+55	00:04:18	00:04:22	Girl's name is Linda Damen, 23, apparent suicide.
+56	00:04:22	00:04:25	Father stopped by with dinner found her dead, called 911.
+57	00:04:25	00:04:26	No signs of forced entry?
+58	00:04:26	00:04:27	Nope.
+59	00:04:27	00:04:28	Did find her wallet out.
+60	00:04:28	00:04:30	Empty.
+61	00:04:30	00:04:31	Empty?
+62	00:04:31	00:04:34	Maybe she was just broke.
+63	00:04:38	00:04:40	Hey.
+64	00:04:40	00:04:41	You guys are fast.
+65	00:04:41	00:04:43	You pronounce?
+66	00:04:43	00:04:45	20. Coroner will be able to tell you more.
+67	00:04:45	00:04:47	Looks like she bled out.
+68	00:04:47	00:04:48	Her left wrist is transected.
+69	00:04:48	00:04:50	It's atypical for a female.
+70	00:04:50	00:04:52	Women usually commit suicide in the tub.
+71	00:04:52	00:04:55	It's easier cleanup for whoever's left behind.
+72	00:04:55	00:04:56	Yeah.
+73	00:04:58	00:04:59	Warrick.
+74	00:05:01	00:05:04	Did her parents say whether she was living with a man?
+75	00:05:04	00:05:06	Was dating a Brody Jones.
+76	00:05:06	00:05:09	No idea where he works or lives.
+77	00:05:09	00:05:11	Did someone move her?
+78	00:05:11	00:05:13	She was propped up when we got here.
+79	00:05:13	00:05:15	I checked for vitals.
+80	00:05:15	00:05:17	You sure with all your life-saving efforts you didn't move her?
+81	00:05:17	00:05:20	Hey, man, like I said, I checked for vitals.
+82	00:05:20	00:05:21	It's okay, baby.
+83	00:05:26	00:05:27	The victim had no response.
+84	00:05:27	00:05:29	I had no reason to move her.
+85	00:05:29	00:05:31	Well, someone moved her.
+86	00:05:31	00:05:33	She bled out here and she's dead there.
+87	00:05:41	00:05:42	I'm going to hit the road...
+88	00:05:42	00:05:43	baby.
+89	00:05:43	00:05:46	I'm sorry.
+90	00:05:50	00:05:53	There's a stain here.
+91	00:05:53	00:05:55	So cold stains.
+92	00:05:55	00:05:56	Is it recent?
+93	00:05:59	00:06:01	It's cool to the touch, yeah.
+94	00:06:06	00:06:08	Sara.
+95	00:06:08	00:06:11	I think our suicide just became suspicious circs.
+96	00:06:13	00:06:19	Since I'm the one who always seems to state the obvious this arm was dead before it was hacked off.
+97	00:06:19	00:06:24	What do you make of the, uh scar tissue on the palm?
+98	00:06:24	00:06:26	Occupational hazard, maybe.
+99	00:06:26	00:06:32	I see this kind of thing a lot in bricklayers, plumbers, carpenters.
+100	00:06:32	00:06:34	Looks like it's blistered.
+101	00:06:34	00:06:39	Gradual denaturation of the proteins in the epithelials.
+102	00:06:39	00:06:44	resulting in general scarring on the palm or surface.
+103	00:06:44	00:06:48	We'll take a sample from under the fingernails and send it to trace.
+104	00:06:49	00:06:53	Tips of the fingers look like they're worn to the bone.
+105	00:06:53	00:06:54	Can you get a partial?
+106	00:06:56	00:06:57	Much more than that.
+107	00:06:57	00:06:59	Lansberry's Ridge Builder.
+108	00:07:01	00:07:10	One application to the bulbs of the fingers and the ridges plump out temporarily like a Chia Pet on steroids.
+109	00:07:39	00:07:41	Petrov Samsko.
+110	00:07:41	00:07:45	Non-gaming sheriff's permit, head chef, DeBreff Restaurant.
+111	00:07:46	00:07:49	Chef-- that would explain the burn scar tissue on his palm.
+112	00:07:49	00:07:50	It's DeBreff.
+113	00:07:50	00:07:52	It's a five-star restaurant.
+114	00:07:52	00:07:53	I've eaten there.
+115	00:07:53	00:07:55	Good, maybe you can get us a table.
+116	00:07:55	00:07:58	Different sole, different size.
+117	00:07:58	00:07:59	Thank you.
+118	00:08:01	00:08:02	Sorry for the inconvenience.
+119	00:08:02	00:08:04	This is just a standard procedure.
+120	00:08:04	00:08:07	Do you have any idea where your daughter's boyfriend works?
+121	00:08:07	00:08:09	Well, a casino.
+122	00:08:09	00:08:12	Uh, which one?
+123	00:08:12	00:08:14	All of them.
+124	00:08:14	00:08:16	He's, uh, he's a gambler.
+125	00:08:16	00:08:22	Um, used to drag Linda out, keep her up days at a time.
+126	00:08:22	00:08:27	Ran her health down, her spirit.
+127	00:08:27	00:08:29	She was getting better, though.
+128	00:08:29	00:08:36	She had a, uh... rough time after college finding herself but she was getting better.
+129	00:08:48	00:08:55	The transection of the left wrist is consistent with a self-inflicted wound particularly because she's right-handed.
+130	00:08:55	00:08:56	There's no hesitation marks.
+131	00:08:56	00:08:59	Isn't that uncommon for suicide?
+132	00:08:59	00:09:03	People usually stutter-cut a few times trying to work up the courage.
+133	00:09:04	00:09:05	This woman cut herself with one smooth motion.
+134	00:09:05	00:09:08	This DB is all wrong.
+135	00:09:08	00:09:11	Someone moved her two feet from where she bled out.
+136	00:09:11	00:09:13	What did the tox screen say?
+137	00:09:13	00:09:14	Nothing. Not back yet.
+138	00:09:14	00:09:16	But I'll get it to you soon as it is.
+139	00:09:16	00:09:18	Thank you.
+140	00:09:19	00:09:21	Is that glass in her hair?
+141	00:09:23	00:09:25	Minute pieces of it, yeah.
+142	00:09:26	00:09:28	I tweezed a few for trace.
+143	00:09:28	00:09:31	We didn't see any broken glass in her apartment.
+144	00:09:31	00:09:34	Round edges, tinted...
+145	00:09:34	00:09:36	It looks polarized.
+146	00:09:36	00:09:38	Probably safety glass.
+147	00:09:38	00:09:39	Yeah.
+148	00:09:39	00:09:42	Too bad it didn't protect her.
+149	00:09:42	00:09:44	Uh, DeBreff, please hold.
+150	00:09:44	00:09:45	DeBreff, please hold.
+151	00:09:45	00:09:46	DeBreff, please hold.
+152	00:09:47	00:09:48	Hi. Last name?
+153	00:09:48	00:09:50	We don't have reservations. W-We're here...
+154	00:09:50	00:09:51	Eh, party of four?
+155	00:09:51	00:09:53	Three weeks from Thursday?
+156	00:09:53	00:09:54	Let me see.
+157	00:09:54	00:09:56	Excuse me, but you don't understand.
+158	00:09:56	00:09:58	No, I'm sorry. You don't understand.
+159	00:09:58	00:10:00	Your walk-in's on a very busy night.
+160	00:10:00	00:10:01	We're short a chef.
+161	00:10:01	00:10:02	We know. He's dead.
+162	00:10:02	00:10:04	Not just dead.
+163	00:10:04	00:10:06	Dismembered.
+164	00:10:07	00:10:09	We're with the crime lab.
+165	00:10:10	00:10:12	I'll get the owner.
+166	00:10:15	00:10:17	Are you sure it's Petrov?
+167	00:10:17	00:10:20	Coroner made a positive identification.
+168	00:10:20	00:10:22	What makes you think this event happened here?
+169	00:10:22	00:10:26	We found traces of aspic and olive oil under his fingernails.
+170	00:10:26	00:10:31	Means that he went into the meat grinder without showering.
+171	00:10:31	00:10:33	Possibly straight from this kitchen.
+172	00:10:33	00:10:36	If there was a murder in our kitchen don't you think that, uh...
+173	00:10:36	00:10:38	I'd know about it?
+174	00:10:38	00:10:40	I don't know. Would you?
+175	00:10:45	00:10:47	Hey, Cath?
+176	00:10:47	00:10:49	Blood spatter.
+177	00:10:49	00:10:50	It's a kitchen. The chefs use knives.
+178	00:10:50	00:10:51	That's not uncommon.
+179	00:10:51	00:10:53	You are...?
+180	00:10:53	00:10:54	Gil Grissom.
+181	00:10:54	00:10:55	I'm with her.
+182	00:10:57	00:11:00	Who's, uh, Stephanie?
+183	00:11:00	00:11:02	One of my waitresses.
+184	00:11:02	00:11:12	Oh, I understand how chefs cut their fingers and how the kitchen help could have blood spatter on their uniforms but how does a waitress get blood on the back of her shirt?
+185	00:11:14	00:11:21	We can shut you down for hours or get a warrant and shut you down for good.
+186	00:11:23	00:11:25	Give me till after the rush?
+187	00:11:32	00:11:36	Okay, this rush is taking entirely too long.
+188	00:11:36	00:11:37	The coquilles St. Jacques.
+189	00:11:37	00:11:38	Thank you.
+190	00:11:38	00:11:42	People always think that the show is out front.
+191	00:11:42	00:11:46	It wasn't till I waitressed I realized it's all in the back.
+192	00:12:03	00:12:05	What are you looking at?
+193	00:12:05	00:12:07	Looks like a V-pattern to me.
+194	00:12:07	00:12:08	What do you think?
+195	00:12:09	00:12:11	Yeah.
+196	00:12:11	00:12:12	What, caused by a candle?
+197	00:12:13	00:12:15	Burn area seems too big for a candle.
+198	00:12:15	00:12:17	Okay. Kitchen's all yours.
+199	00:12:17	00:12:21	Mr. Dutton, uh, can I ask you what happened here?
+200	00:12:21	00:12:22	Oh, geez.
+201	00:12:22	00:12:25	Uh, waiters probably put the candles too close to the wall.
+202	00:12:25	00:12:27	I've told them a million times.
+203	00:12:31	00:12:33	Ah, excuse me. Stephanie?
+204	00:12:33	00:12:34	Uh-huh.
+205	00:12:34	00:12:35	Is this your uniform?
+206	00:12:35	00:12:37	Don't have to answer that, Steph.
+207	00:12:37	00:12:39	They don't have a warrant.
+208	00:12:39	00:12:41	I thought you said the Mafia left town.
+209	00:12:42	00:12:47	We have the owner's consent so, again, could you explain this blood?
+210	00:12:48	00:12:49	Order up, Stephanie.
+211	00:12:49	00:12:50	Hot items.
+212	00:12:50	00:12:53	Two filet mignon and one coquilles St. Jacques.
+213	00:12:53	00:12:55	Boogie. Go, go.
+214	00:12:55	00:12:56	Hey!
+215	00:12:56	00:13:02	We found blood spatter on the uniforms of several employees who worked the night that Chef Petrov died.
+216	00:13:02	00:13:05	Ross Halpo-- sous chef.
+217	00:13:05	00:13:08	Lola Creighton-- saucier.
+218	00:13:08	00:13:10	You want to tell us how the blood got here?
+219	00:13:10	00:13:12	It's my blood.
+220	00:13:14	00:13:16	don't touch my knife; don't touch my johnson.
+221	00:13:21	00:13:23	Hey, hey, that's my knife!
+222	00:13:24	00:13:25	Touched his knife.
+223	00:13:26	00:13:26	I deserved it.
+224	00:13:27	00:13:28	Okay.
+225	00:13:28	00:13:32	That still doesn't explain how the blood got on the uniforms.
+226	00:13:32	00:13:33	They don't get it.
+227	00:13:33	00:13:35	Chefs here have a ritual.
+228	00:13:35	00:13:36	Macho thing.
+229	00:13:36	00:13:41	If you get cut it's tradition that you disburse maximum spillage.
+230	00:13:41	00:13:42	Oh, hey, watch it.
+231	00:13:42	00:13:43	Ah, blood!
+232	00:13:43	00:13:45	Oh, hey, stop... ooh!
+233	00:13:45	00:13:47	That's how everyone got blood on themselves.
+234	00:13:47	00:13:48	Macho.
+235	00:13:48	00:13:51	Haven't these people ever heard of HIV?
+236	00:13:51	00:13:52	Apparently not.
+237	00:13:52	00:13:53	Alert all your employees.
+238	00:13:53	00:13:56	We're going to take over your kitchen, starting now.
+239	00:13:56	00:13:59	Hey. You got something on that glass?
+240	00:13:59	00:14:01	Didn't beep you to say hi.
+241	00:14:01	00:14:05	Glad to see you're settling in, Hodges.
+242	00:14:05	00:14:07	You were right. It is polarized.
+243	00:14:07	00:14:09	Ultraviolet quotient is very high.
+244	00:14:09	00:14:11	Glass is from a car windshield.
+245	00:14:11	00:14:14	Maybe she was in some kind of car accident.
+246	00:14:14	00:14:16	Hit-and-run...
+247	00:14:16	00:14:20	Then she crawls home, gets on her bed and commits hari-kari?
+248	00:14:20	00:14:22	Stranger things have happened.
+249	00:14:22	00:14:25	If you weren't such a lab rat, you would know that.
+250	00:14:25	00:14:27	You got a make of a car for me?
+251	00:14:27	00:14:29	No.
+252	00:14:29	00:14:31	But...
+253	00:14:31	00:14:34	I can narrow it down to the year it was manufactured.
+254	00:14:34	00:14:40	Car companies add more ultraviolet sealants each season to stay ahead of safety standards.
+255	00:14:40	00:14:44	Used a comparison study of a car that was made in 2001.
+256	00:14:46	00:14:49	Your windshield glass is from a 2002 model.
+257	00:14:49	00:14:50	Thank you.
+258	00:14:50	00:14:53	Mm-hmm.
+259	00:14:56	00:14:57	The windshield's intact.
+260	00:14:57	00:15:02	Yeah. Well, maybe the glass came from another windshield in this lot.
+261	00:15:02	00:15:04	Yeah. Let's take a look.
+262	00:15:04	00:15:09	You know, you can tell a lot about a person by what they leave in their car.
+263	00:15:09	00:15:11	Rotten bananas.
+264	00:15:12	00:15:14	Business suit.
+265	00:15:18	00:15:20	I got a paycheck.
+266	00:15:20	00:15:22	Who would do that?
+267	00:15:22	00:15:23	Underwear.
+268	00:15:26	00:15:28	That looks like adhesive.
+269	00:15:29	00:15:32	Still tacky.
+270	00:15:32	00:15:33	Hey, hey!
+271	00:15:33	00:15:34	What are you doing?
+272	00:15:34	00:15:35	That's my car.
+273	00:15:35	00:15:37	Crime lab. How are you?
+274	00:15:37	00:15:39	Cute picture. I'm late for work.
+275	00:15:39	00:15:41	We noticed you had your windshield replaced recently.
+276	00:15:41	00:15:42	The adhesive's seeping.
+277	00:15:42	00:15:43	You get what you pay for.
+278	00:15:43	00:15:45	So the car shop was having a half-off deal.
+279	00:15:45	00:15:47	I'm in no position to go to the big guys.
+280	00:15:47	00:15:52	Did replacing the windshield have anything to do with the tenant in apartment 325?
+281	00:15:52	00:15:53	Linda? Yeah.
+282	00:15:53	00:15:55	She did it.
+283	00:15:55	00:15:58	I'd send her the bill if I thought she'd pay.
+284	00:15:58	00:16:00	She hasn't paid for anything else she trashed in this complex.
+285	00:16:00	00:16:01	Like what else?
+286	00:16:01	00:16:04	Oh, well, that would depend on her mood.
+287	00:16:04	00:16:06	Um, when she's up, she breaks the mailboxes.
+288	00:16:09	00:16:12	When she's down she throws the patio furniture into the pool.
+289	00:16:16	00:16:21	She broke my windshield yesterday because she said she heard me talking on my cell about her.
+290	00:16:23	00:16:25	You bitch! I heard you!
+291	00:16:25	00:16:27	We just call her the whack job in 325.
+292	00:16:27	00:16:29	Well, she died yesterday.
+293	00:16:29	00:16:31	We think it may have been a suicide.
+294	00:16:31	00:16:34	Yeah? I'm surprised someone didn't kill her.
+295	00:16:38	00:16:45	Look, unless you want to call my pit boss and tell him I'm under arrest, I'm going to work.
+296	00:16:45	00:16:48	Thank you.
+297	00:16:48	00:16:50	I would like to see Linda Damen's tox report.
+298	00:16:50	00:16:52	Yeah.
+299	00:17:09	00:17:14	Fresh off an airplane from a conference, and bam-- I got seminal fluid.
+300	00:17:14	00:17:16	Lucky you.
+301	00:17:30	00:17:33	Some things never change.
+302	00:17:33	00:17:35	What's that?
+303	00:17:35	00:17:37	Cocaine.
+304	00:17:43	00:17:46	Presence of blood on the drain.
+305	00:17:46	00:17:48	Blood, coke, semen.
+306	00:17:48	00:17:52	These people were doing everything in this kitchen but cook.
+307	00:17:53	00:17:55	I'll go have a little chit-chat with the hostess.
+308	00:17:56	00:17:58	They always seem to know everything.
+309	00:18:17	00:18:19	Blood clot.
+310	00:18:20	00:18:22	What is that, sand around it?
+311	00:18:22	00:18:24	Looks like it.
+312	00:18:24	00:18:26	What would sand be doing in a kitchen?
+313	00:18:26	00:18:31	Well, one thing's the blood got there before the sand.
+314	00:18:31	00:18:34	This was not a little knife nick.
+315	00:18:34	00:18:36	This guy was stuck.
+316	00:18:36	00:18:42	I mean, uh, he bled out long enough for his blood to pool and clot.
+317	00:18:45	00:18:47	Excuse me.
+318	00:18:48	00:18:50	We're going to need all your knives.
+319	00:18:51	00:18:52	Starting with yours.
+320	00:18:54	00:18:55	I need them back by the next shift.
+321	00:18:57	00:18:59	Well, that depends on what we find.
+322	00:19:07	00:19:12	Oh, uh, this is the clearest picture that we could find of Brody.
+323	00:19:12	00:19:14	Thank you.
+324	00:19:14	00:19:15	I'll get it to a detective.
+325	00:19:15	00:19:18	The shoeprint that you found in Linda's bedroom?
+326	00:19:18	00:19:20	Are you thinking that Brody might have...?
+327	00:19:20	00:19:21	Oh, we don't know yet.
+328	00:19:21	00:19:23	We're going to wait and see what the evidence tells us.
+329	00:19:24	00:19:29	I did meet a tenant at your daughter's apartment complex that described Linda as...
+330	00:19:29	00:19:31	troubled.
+331	00:19:31	00:19:34	Did you ever witness her being violent?
+332	00:19:34	00:19:38	We like to think of her as normal, as improving.
+333	00:19:38	00:19:41	She was prescribed lithium her junior year of college.
+334	00:19:41	00:19:43	She was diagnosed bipolar?
+335	00:19:43	00:19:45	She's a rapid cycler.
+336	00:19:45	00:19:47	She shifts into manic in a blink.
+337	00:19:47	00:19:52	We knew she had been violent around the complex.
+338	00:19:52	00:19:53	Lithium didn't help?
+339	00:19:53	00:19:55	Well, it's a catch-22.
+340	00:19:55	00:20:04	When Linda's in an up phase, she doesn't think she needs the lithium, so she doesn't take it which then makes her more unstable.
+341	00:20:06	00:20:09	Made.
+342	00:20:09	00:20:12	I'm sorry for your loss.
+343	00:20:46	00:20:49	That's a gueridon used for tableside cooking.
+344	00:20:49	00:20:54	I thought there was a policy against the use of these in Las Vegas restaurants.
+345	00:20:54	00:20:59	Ever since a television star from the '70s burned his face by one.
+346	00:20:59	00:21:00	It's changed dining forever.
+347	00:21:00	00:21:04	You know, those V-marks that we found in the restaurant-- those were made fairly recently.
+348	00:21:04	00:21:07	Certainly since the '70s.
+349	00:21:09	00:21:12	I lied about the candles.
+350	00:21:12	00:21:14	It was an accident.
+351	00:21:14	00:21:20	According to your owner's log, it was a bad accident.
+352	00:21:20	00:21:29	Danny Pasqualle Italian male model suffered third-degree burns on his face the night of September 26, 2002.
+353	00:21:29	00:21:32	We do special requests for special customers.
+354	00:21:32	00:21:38	Chef Petrov made Mr. Pasqualle a Cafe Diablo.
+355	00:21:38	00:21:45	Myers Rum, Grand Marnier, Kahlua, and now for the ride.
+356	00:21:45	00:21:48	Did he ever file formal charges against you?
+357	00:21:48	00:21:49	No, that's the strange thing.
+358	00:21:49	00:21:51	He... he never did.
+359	00:21:52	00:21:55	What am I going to do, sue for a restaurant?
+360	00:21:55	00:21:57	I used to make five million a year.
+361	00:21:57	00:21:58	You do the math.
+362	00:21:58	00:22:02	So after losing all that salary you never filed suit.
+363	00:22:02	00:22:07	Maybe you didn't file charges to keep it quiet and settle it for yourself.
+364	00:22:09	00:22:10	Are you accusing me of something?
+365	00:22:10	00:22:19	No charges will be filed, Mr. Pasqualle if... you'd be willing to fill out a statement to that effect.
+366	00:22:22	00:22:25	The mark on your hand, Mr. Pasqualle?
+367	00:22:25	00:22:31	Patterned abrasions over the dorsal of the hand at the metacarpal phalangeal joints.
+368	00:22:31	00:22:33	We call it a fight bite.
+369	00:22:33	00:22:35	Human mouths are full of bacteria.
+370	00:22:35	00:22:40	A wound from a human bite is a tremendous source of infection, unfortunately.
+371	00:22:40	00:22:41	So, what happened, Mr. Pasqualle?
+372	00:22:41	00:22:45	You paid the chef a little visit and did your version of Etu, Brute?
+373	00:22:51	00:22:55	You don't have to say anything, Mr. Pasqualle.
+374	00:23:00	00:23:04	We just need your hand.
+375	00:23:26	00:23:30	not human.
+376	00:23:30	00:23:34	25 knives in, and I'm bust.
+377	00:23:37	00:23:39	Oh, now we're cooking.
+378	00:23:44	00:23:46	It's not blood.
+379	00:23:46	00:23:49	There he is-- dollar slots, wearing the cap.
+380	00:23:49	00:23:50	How did you track him down?
+381	00:23:50	00:23:52	We showed his photo around.
+382	00:23:52	00:23:56	The ATM in the lobby-- he used it 24 hours ago.
+383	00:23:59	00:24:00	What is he doing?
+384	00:24:00	00:24:03	We used to call a guy like that a bean counter.
+385	00:24:03	00:24:06	Degenerates paying 25 cents a pop in hopes of cracking a pattern.
+386	00:24:07	00:24:08	What are the notebooks for?
+387	00:24:08	00:24:09	It's his results.
+388	00:24:09	00:24:13	But that joker doesn't realize that the patterns can end up in the hundreds of millions.
+389	00:24:15	00:24:18	You know, the more I see of this kind of stuff the less I picture you a gambler.
+390	00:24:18	00:24:19	This isn't gambling.
+391	00:24:19	00:24:21	This is the end of the line.
+392	00:24:26	00:24:28	How long have you been here, sir?
+393	00:24:30	00:24:31	Las Vegas Police.
+394	00:24:31	00:24:32	We want a word with you.
+395	00:24:32	00:24:34	What do you know about the death of Linda Damen?
+396	00:24:34	00:24:35	Unfortunate.
+397	00:24:35	00:24:38	I need to... write my results.
+398	00:24:38	00:24:39	I need to...
+399	00:24:41	00:24:41	document them.
+400	00:24:42	00:24:44	How did you get the blood on your shirt?
+401	00:24:44	00:24:46	What blood?
+402	00:24:46	00:24:47	We're going to need your shirt.
+403	00:24:53	00:24:54	Take it.
+404	00:24:56	00:24:57	You're coming with the shirt.
+405	00:24:58	00:25:00	We'll need your shoes, too.
+406	00:25:00	00:25:09	Did you know that some doctors believe that oral bacteria have no other benefits than to make it impossible for other more vicious bacteria to take up residence in our mouths?
+407	00:25:09	00:25:11	I knew that, Greg.
+408	00:25:11	00:25:13	So, then I should just stop trying to impress you.
+409	00:25:13	00:25:15	That would impress me.
+410	00:25:15	00:25:17	Okay. Well, results from the Fight Bite Boy.
+411	00:25:17	00:25:22	I had to get it from an outside lab since we're not equipped to do bacterial DNA testing ourselves.
+412	00:25:22	00:25:23	Hint, hint.
+413	00:25:23	00:25:27	Bacteria on his knuckles matches the natural bacteria in the chef's mouth.
+414	00:25:28	00:25:30	I guess he settled out of court.
+415	00:25:30	00:25:32	I'll never work again!
+416	00:25:33	00:25:36	Looks like he took a cheek swab of the chef with his own fist.
+417	00:25:37	00:25:39	Thanks, Greg.
+418	00:25:39	00:25:40	Mm-hmm.
+419	00:25:40	00:25:43	You can see why I might have a hard time believing you, right?
+420	00:25:46	00:25:48	Excuse me.
+421	00:25:54	00:25:57	So... our male model copping to battery?
+422	00:25:57	00:25:59	He's denying murder.
+423	00:25:59	00:26:01	Well, maybe he's telling the truth.
+424	00:26:01	00:26:05	The earplug from the meat plant-- we got a hit on Codus.
+425	00:26:05	00:26:09	Kicked out Harold Haskins delivery man from Meteor Meat.
+426	00:26:09	00:26:11	Out on parole for extortion.
+427	00:26:11	00:26:14	He delivers to DeBreff Restaurant.
+428	00:26:14	00:26:16	So, you snuck in the place to grind up a body?
+429	00:26:16	00:26:19	No. I didn't even know what it was till it was too late.
+430	00:26:19	00:26:23	Who exactly gave you the, uh, meat to grind?
+431	00:26:23	00:26:26	Uh, it was in the restaurant freezer at the DeBreff.
+432	00:26:27	00:26:28	You see my face?
+433	00:26:28	00:26:30	This is me almost believing you.
+434	00:26:30	00:26:33	Now, I've already violated your parole so whatever I say to the judge is up to you.
+435	00:26:34	00:26:34	So, what is it?
+436	00:26:36	00:26:37	It was Ross.
+437	00:26:37	00:26:39	The sous chef.
+438	00:26:40	00:26:42	I owed him 3,000 for coke.
+439	00:26:42	00:26:46	He said I could pay him back with the favor.
+440	00:26:46	00:26:49	You ground up a body as a favor?
+441	00:26:49	00:26:50	It was already dead.
+442	00:26:50	00:26:51	It's not like I killed him.
+443	00:26:51	00:26:54	Well, that's a very tenuous distinction.
+444	00:26:54	00:26:56	Stay right there.
+445	00:26:56	00:26:59	That's a filet, not a porterhouse.
+446	00:26:59	00:27:00	I'm a sous chef.
+447	00:27:00	00:27:03	20 guys are into me for recreational substances.
+448	00:27:03	00:27:05	It doesn't mean they'd cut a body up for me.
+449	00:27:05	00:27:07	Ground it up.
+450	00:27:07	00:27:09	We're thinking that you did the actual filleting.
+451	00:27:09	00:27:10	Never happened.
+452	00:27:10	00:27:12	Ask any of the guys.
+453	00:27:12	00:27:13	We have.
+454	00:27:13	00:27:14	They won't talk.
+455	00:27:15	00:27:17	Military calls it Code Red.
+456	00:27:17	00:27:20	Fierce loyalty to the top dog.
+457	00:27:20	00:27:22	I guess Petrov was that until somebody killed him.
+458	00:27:22	00:27:25	His tragedy is your promotion?
+459	00:27:26	00:27:27	Excuse me.
+460	00:27:27	00:27:29	We're in the middle of a rush here.
+461	00:27:29	00:27:31	Customers don't forgive a cold meal or a late meal.
+462	00:27:31	00:27:33	I bet they'd forgive a murder, Les.
+463	00:27:33	00:27:34	Hey, do you guys serve mutton?
+464	00:27:34	00:27:36	What?
+465	00:27:36	00:27:37	Mutton.
+466	00:27:37	00:27:39	It's from the French word for sheep.
+467	00:27:39	00:27:48	These fibers look like wool and since sheep are sheered before they're butchered I think that somebody was cooking something here, and it wasn't food.
+468	00:27:50	00:27:52	Code Red?
+469	00:27:58	00:28:03	Brody, we have your shoeprint in Linda's blood.
+470	00:28:03	00:28:07	We also have a sample of Linda's blood that we found on your T-shirt.
+471	00:28:07	00:28:09	Is there anything you'd like to tell us?
+472	00:28:09	00:28:10	Yes.
+473	00:28:10	00:28:17	Someone is playing that machine right now and is throwing the entire last 72 hours of calculations out the window.
+474	00:28:17	00:28:20	Did you kill this girl and try to make it look like a suicide?
+475	00:28:20	00:28:23	If anything, I tried to save her.
+476	00:28:23	00:28:25	Save her how?
+477	00:28:25	00:28:27	I went to her place.
+478	00:28:27	00:28:29	Borrowed some money from her.
+479	00:28:31	00:28:33	I looked in her bedroom.
+480	00:28:33	00:28:35	I thought she fell asleep reading.
+481	00:28:35	00:28:36	Then I saw blood.
+482	00:28:38	00:28:40	Linda!
+483	00:28:40	00:28:42	Tried to revive her.
+484	00:28:43	00:28:45	Oh, oh.
+485	00:28:46	00:28:48	But you left her there, dead.
+486	00:28:49	00:28:50	You don't get it.
+487	00:28:51	00:28:55	Even as the son of God I can only do so much.
+488	00:29:03	00:29:05	Oh, I get it.
+489	00:29:05	00:29:10	You and Linda are kind of on the same page, huh?
+490	00:29:11	00:29:14	Did you stop taking your lithium together?
+491	00:29:14	00:29:15	Is that it?
+492	00:29:16	00:29:18	It's not a crime.
+493	00:29:18	00:29:20	Yeah, you're right.
+494	00:29:20	00:29:21	It's not.
+495	00:29:29	00:29:33	Bipolar girl meets a bipolar guy.
+496	00:29:33	00:29:34	Together, they cut out their medication.
+497	00:29:34	00:29:36	She ends up committing suicide.
+498	00:29:36	00:29:39	It's almost like bipolar boy is too high to even realize what went down.
+499	00:29:39	00:29:40	Yeah.
+500	00:29:41	00:29:42	Hey, Doc.
+501	00:29:42	00:29:44	I was over here on an exhumation matter.
+502	00:29:44	00:29:45	I knew you wanted this.
+503	00:29:45	00:29:47	Tox results for Linda Damen.
+504	00:29:47	00:29:49	Thank you.
+505	00:29:50	00:29:53	No lithium, just like her parents said.
+506	00:29:53	00:29:59	She did have a huge dose of Valium, ingested less than an hour before her time of death.
+507	00:29:59	00:30:00	Valium?
+508	00:30:00	00:30:01	That doesn't make any sense.
+509	00:30:01	00:30:04	I mean, that's the last thing a depressed person would take.
+510	00:30:04	00:30:06	200 milligrams.
+511	00:30:06	00:30:09	That's more than five times the normal dosage.
+512	00:30:10	00:30:12	That much Valium.
+513	00:30:12	00:30:18	There's no way she could have fought somebody off if they were coming after her with a straight razor.
+514	00:30:24	00:30:28	Greg, how's the knife coming with that mysterious smudge on it?
+515	00:30:28	00:30:30	I just got the results.
+516	00:30:30	00:30:32	Alcohol, acetate and red dye #58.
+517	00:30:32	00:30:34	Nail polish. Mm-hmm.
+518	00:30:36	00:30:38	May I see your nails, please?
+519	00:30:47	00:30:49	Oh.
+520	00:30:49	00:30:51	Well, I'm going to need a sample of that polish.
+521	00:30:51	00:30:52	A scraping.
+522	00:30:52	00:30:54	Uh, is this small enough?
+523	00:30:56	00:30:57	Yeah. That'll do.
+524	00:30:59	00:31:01	Okay, the, uh, three of you can go.
+525	00:31:01	00:31:02	Thank you, ladies.
+526	00:31:03	00:31:05	And I've got a table for you.
+527	00:31:05	00:31:06	A five top.
+528	00:31:06	00:31:08	All by yourself.
+529	00:31:08	00:31:11	By the window.
+530	00:31:11	00:31:13	Someone will be with you shortly.
+531	00:31:15	00:31:17	I looked into that prescription at the pharmacy you asked about.
+532	00:31:17	00:31:19	Linda Damen, the deceased.
+533	00:31:19	00:31:20	That was quick.
+534	00:31:20	00:31:22	She doesn't have a prescription for Valium.
+535	00:31:22	00:31:23	Her mother does-- Jane Damen.
+536	00:31:23	00:31:25	25 milligrams as needed.
+537	00:31:25	00:31:27	I think we better go pay Mom a visit.
+538	00:31:27	00:31:28	Yeah. Thanks, Sully.
+539	00:31:28	00:31:29	Okay.
+540	00:31:32	00:31:34	Wools are worsted. 12-ounce weight.
+541	00:31:35	00:31:36	That's heavy?
+542	00:31:36	00:31:38	Light... weave.
+543	00:31:38	00:31:41	Mostly for season spanners.
+544	00:31:41	00:31:43	We're talking about clothes?
+545	00:31:43	00:31:48	Worsted is predominately used in the manufacturing of suits and light overcoats.
+546	00:31:48	00:31:52	The finish on this is a trademark coating in high-end suits.
+547	00:31:52	00:31:53	Okay, good.
+548	00:31:53	00:31:54	Thanks.
+549	00:31:54	00:31:56	Mm. I'm not done.
+550	00:31:57	00:32:00	There was also blood present on the burnt wool.
+551	00:32:00	00:32:03	Did we get a DNA test?
+552	00:32:03	00:32:06	It's victim's blood, from your chef.
+553	00:32:06	00:32:09	I know what you're thinking.
+554	00:32:09	00:32:10	Couldn't possibly be his suit.
+555	00:32:10	00:32:12	Chefs wear checks and white shirts.
+556	00:32:12	00:32:17	But somebody did burn a bloody suit in the restaurant kitchen.
+557	00:32:17	00:32:18	A high-end suit.
+558	00:32:22	00:32:24	You have a candidate.
+559	00:32:26	00:32:28	You're the new guy.
+560	00:32:28	00:32:30	Yeah. Uh, David Hodges.
+561	00:32:30	00:32:31	Transferred from LAPD.
+562	00:32:33	00:32:35	They said I had an attitude problem.
+563	00:32:35	00:32:37	Said that I thought I was entitled.
+564	00:32:45	00:32:52	So that sample I collected matches the polish on this knife.
+565	00:32:52	00:32:55	You handled this knife.
+566	00:32:55	00:32:58	So?
+567	00:32:59	00:33:03	don't touch my knife; don't touch my johnson.
+568	00:33:05	00:33:07	Did you stab the chef?
+569	00:33:07	00:33:09	Well, this is the sous chef's knife.
+570	00:33:09	00:33:10	I'm aware of that.
+571	00:33:11	00:33:14	But when a transfer is made on a blade it's usually from slippage.
+572	00:33:14	00:33:17	due to a stabbing motion.
+573	00:33:20	00:33:22	Ar-Are you charging me with anything?
+574	00:33:23	00:33:24	No.
+575	00:33:24	00:33:26	But why don't you have a seat out in reception.
+576	00:33:26	00:33:29	Things could change.
+577	00:33:29	00:33:34	Mrs. Damen, our detective found this prescription in your name for Valium.
+578	00:33:36	00:33:37	Can you tell us anything about that?
+579	00:33:41	00:33:43	I take Valium on occasion.
+580	00:33:43	00:33:44	Yes.
+581	00:33:44	00:33:47	Our lives get pretty frenetic just trying to keep up with Linda.
+582	00:33:47	00:33:49	And you last got a prescription...
+583	00:33:49	00:33:50	this past Monday.
+584	00:33:50	00:33:52	What does that mean?
+585	00:33:52	00:33:57	The tox report says Linda had five times the normal dose of Valium in her system.
+586	00:33:57	00:34:01	Because there were no hesitation marks on her wrists it suggests that someone else inflicted the wound.
+587	00:34:01	00:34:03	That much Valium would've been enough to subdue her.
+588	00:34:03	00:34:08	Hey, I-I think you're a little out of line here.
+589	00:34:08	00:34:10	I did not drug my daughter.
+590	00:34:10	00:34:14	May we have your permission to look through the current contents of your prescription?
+591	00:34:15	00:34:17	Did Linda's boyfriend put you up to this?
+592	00:34:17	00:34:18	Because he is not stable. ( phone ringing )
+593	00:34:18	00:34:20	No.
+594	00:34:20	00:34:21	( phone ringing ) Excuse me.
+595	00:34:22	00:34:24	We're simply trying to determine... Hello?
+596	00:34:24	00:34:27	The blouse from your vic's closet is stained.
+597	00:34:27	00:34:29	The substances are biological.
+598	00:34:29	00:34:31	High salt content.
+599	00:34:31	00:34:32	Male or female?
+600	00:34:34	00:34:35	Thanks, Greg.
+601	00:34:39	00:34:48	Mr. and Mrs. Damen, there are five types of tears-- sorrow, regret, joy, fear and allergic reaction.
+602	00:34:48	00:34:52	The one thing that they have in common is DNA.
+603	00:34:52	00:34:55	We found a blouse in your daughter's closet the night that she died.
+604	00:34:55	00:34:57	There was moisture on it.
+605	00:34:57	00:35:01	The moisture... was tears.
+606	00:35:01	00:35:04	The DNA... was male.
+607	00:35:08	00:35:10	Mr. Damen?
+608	00:35:11	00:35:14	Were you waiting in the closet for your daughter?
+609	00:35:17	00:35:21	We can get a warrant to test your DNA sample against our sample.
+610	00:35:21	00:35:23	John?
+611	00:35:26	00:35:28	The... ( sighs )
+612	00:35:28	00:35:35	The-the only way to get an adult committed for psychological help is if they hurt themselves.
+613	00:35:35	00:35:37	Or someone else.
+614	00:35:37	00:35:41	Everyone Linda attacked was too afraid to file complaints against her.
+615	00:35:42	00:35:45	She was out of hand. She was attacking strangers.
+616	00:35:45	00:35:47	She was vandalizing property.
+617	00:35:47	00:35:52	She was refusing to take her medication and we were helpless to make her.
+618	00:35:52	00:35:58	It was supposed to be a suicide attempt...
+619	00:35:59	00:36:00	but then...
+620	00:36:00	00:36:03	I heard somebody at the door and I...
+621	00:36:03	00:36:06	I-I...
+622	00:36:07	00:36:10	I guess I panicked.
+623	00:36:13	00:36:15	I hid in the closet.
+624	00:36:18	00:36:27	And, um, she, uh... when he...
+625	00:36:29	00:36:30	Linda?
+626	00:36:30	00:36:32	Linda?!
+627	00:36:32	00:36:34	By then it was too late.
+628	00:36:36	00:36:39	I just wanted to get her help.
+629	00:36:39	00:36:42	I just wa... She needed my help.
+630	00:36:42	00:36:46	I just...
+631	00:36:46	00:36:47	She, she needed help.
+632	00:36:48	00:36:49	Honey, you know...
+633	00:36:49	00:36:52	she-she wouldn't...
+634	00:37:00	00:37:03	Reminds of what my grandmother said a long time ago.
+635	00:37:03	00:37:04	I would never believe her.
+636	00:37:04	00:37:06	What's that?
+637	00:37:06	00:37:11	Crazy people make even sane people act crazy.
+638	00:37:21	00:37:23	( rattling ) What'd you find?
+639	00:37:23	00:37:24	Come here.
+640	00:37:24	00:37:26	Do you hear this?
+641	00:37:29	00:37:31	How did we miss that in Trace?
+642	00:37:32	00:37:33	I don't know.
+643	00:37:33	00:37:38	But I've learned that the evidence room is the quietest place in the lab.
+644	00:37:43	00:37:48	Sand. Right-- for balance and precision.
+645	00:37:49	00:37:53	Did you know that to a geologist there's no such thing as sand?
+646	00:37:53	00:37:55	Each grain is its own tiny rock.
+647	00:37:55	00:37:57	Fine, glassy crystals...
+648	00:37:57	00:38:00	dark.
+649	00:38:00	00:38:02	Obsidian, I bet.
+650	00:38:02	00:38:04	Volcanic sand. Long way from home.
+651	00:38:04	00:38:06	Japanese call it singing sand.
+652	00:38:06	00:38:11	If you walk on certain beaches in Japan it'll make a musical sound.
+653	00:38:11	00:38:15	Never been to Japan but I've seen this sand before...
+654	00:38:15	00:38:17	on the blood clot.
+655	00:38:23	00:38:26	Let us carve him as a dish fit for the gods.
+656	00:38:27	00:38:29	I'm going to guess Shakespeare.
+657	00:38:29	00:38:31	Julius Caesar.
+658	00:38:31	00:38:34	That's your knife.
+659	00:38:34	00:38:38	This is the owner's log.
+660	00:38:38	00:38:44	The sous chef gets 89% of the meat off of trout filet-- six percent better than any chef on the line.
+661	00:38:44	00:38:47	I don't think you killed the chef.
+662	00:38:49	00:38:51	You did fillet him, though.
+663	00:38:51	00:38:52	Your knife handle slid open...
+664	00:38:53	00:38:57	...sand went down the drain landing on the victim's clotted blood.
+665	00:38:58	00:39:00	It's hard work, carving up a man.
+666	00:39:00	00:39:03	I believe that's how you broke your knife handle.
+667	00:39:04	00:39:07	But you didn't do this alone, did you?
+668	00:39:08	00:39:11	A murdered chef in your kitchen.
+669	00:39:11	00:39:13	Kiss of death for a restaurant.
+670	00:39:14	00:39:16	We'll never get our customers back.
+671	00:39:16	00:39:18	How am I going to get a body out of here?
+672	00:39:18	00:39:21	I do for you, you do for me.
+673	00:39:22	00:39:25	Code Red, in fact-- protect the kitchen.
+674	00:39:28	00:39:33	Some people say the most important part of preparing a meal is the cleanup.
+675	00:39:33	00:39:41	While the fillet man disposed of the chef parts you got rid of your bloody suit.
+676	00:39:49	00:39:50	How's it going?
+677	00:39:50	00:39:52	Well, he's not denying anything.
+678	00:39:52	00:39:54	He's not admitting anything, either.
+679	00:39:54	00:39:55	Yeah.
+680	00:39:55	00:39:57	Same as the other two here.
+681	00:39:57	00:39:59	They need a little nudge.
+682	00:39:59	00:40:01	Such as?
+683	00:40:01	00:40:05	While they're in our custody shall we try a little theater?
+684	00:40:18	00:40:19	Let's go for a walk.
+685	00:40:19	00:40:23	Hey, relax. You'll be with a friend.
+686	00:40:23	00:40:24	Cuff him up.
+687	00:41:03	00:41:06	Why did you kill him?
+688	00:41:09	00:41:13	I-I went into the walk-in to, to get some lemons.
+689	00:41:13	00:41:15	Oh, yeah... ( moans )
+690	00:41:18	00:41:23	He played around all the time-- waitresses, patrons... nobodies.
+691	00:41:23	00:41:27	But... she was different.
+692	00:41:28	00:41:30	She was a chef.
+693	00:41:31	00:41:33	What does that mean?
+694	00:41:33	00:41:37	Well, I can't make toast, um... where did I stand?
+695	00:41:37	00:41:39	Hey, beautiful, I haven't seen you all night.
+696	00:41:39	00:41:41	Well, I've seen you.
+697	00:41:54	00:41:57	Officer, would you take her to Booking, please?
+698	00:42:03	00:42:06	All in a day's work.
+699	00:42:06	00:42:08	Yeah.
+700	00:42:09	00:42:11	You up for dinner?
