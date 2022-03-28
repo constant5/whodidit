@@ -1,4 +1,4 @@
-	start	end	text	label
+Unnamed: 0	start	end	text	label
 0	00:00:13	00:00:14	Good afternoon, Mr. McGrath.	N
 1	00:00:14	00:00:15	How’s the golf?	N
 2	00:00:20	00:00:22	Hi.	N
@@ -48,23 +48,23 @@
 46	00:03:09	00:03:10	I’d love to.	N
 47	00:03:12	00:03:14	Seat of the bomb is here.	N
 48	00:03:14	00:03:17	Victim was thrown...	N
-49	00:03:17	00:03:19	three meters.	Y
-50	00:03:19	00:03:24	His clothes are torn but not burnt, indicating a low-velocity propellant.	Y
+49	00:03:17	00:03:19	three meters.	N
+50	00:03:19	00:03:24	His clothes are torn but not burnt, indicating a low-velocity propellant.	N
 51	00:03:24	00:03:25	6,000-7,000 feet per second.	N
-52	00:03:25	00:03:28	Who? Why?	N
-53	00:03:28	00:03:31	Will he do it again?	N
+52	00:03:25	00:03:28	Who? Why?	Y
+53	00:03:28	00:03:31	Will he do it again?	Y
 54	00:03:31	00:03:33	Time will tell.	N
 55	00:04:14	00:04:20	The dirty little secret of bombs is how easy they are to make and use.	N
 56	00:04:20	00:04:24	Our murder weapon’s here someplace in a thousand pieces.	N
 57	00:04:24	00:04:26	We have to find it and put it back together again.	N
 58	00:04:26	00:04:27	Where do we start?	N
 59	00:04:27	00:04:29	If it’s not growing pick it up.	N
-60	00:04:29	00:04:32	We cart everything we find back to the lab. And then what?	Y
+60	00:04:29	00:04:32	We cart everything we find back to the lab. And then what?	N
 61	00:04:32	00:04:35	Stay curious.	N
 62	00:04:36	00:04:38	Can you fill in the blanks?	N
 63	00:04:38	00:04:39	Bombs explode.	N
 64	00:04:39	00:04:42	Weird thing is their components survive the explosion.	N
-65	00:04:42	00:04:45	If we can piece together this bomb we’re closer to finding who did this.	N
+65	00:04:42	00:04:45	If we can piece together this bomb we’re closer to finding who did this.	Y
 66	00:04:45	00:04:49	So, Warrick, when you’re photographing this debris can you, uh...?	N
 67	00:04:49	00:04:52	Uh, I know, looky-loos.	N
 68	00:05:38	00:05:41	Come on, Nick, it’s my last night in Sin City.	N
@@ -75,39 +75,39 @@
 73	00:05:47	00:05:50	You’d have never passed up a wild night back at A&amp;M.	N
 74	00:05:50	00:05:52	Well, I guess I grew up.	N
 75	00:05:52	00:05:53	Too bad, check that out.	N
-76	00:06:00	00:06:01	Enjoy.	Y
-77	00:06:01	00:06:03	You must really love your job, man.	Y
-78	00:06:05	00:06:06	Ladies...	Y
-79	00:06:14	00:06:16	Here you go. Thanks, man.	Y
+76	00:06:00	00:06:01	Enjoy.	N
+77	00:06:01	00:06:03	You must really love your job, man.	N
+78	00:06:05	00:06:06	Ladies...	N
+79	00:06:14	00:06:16	Here you go. Thanks, man.	N
 80	00:06:16	00:06:17	Get your hands off me!	Y
-81	00:06:17	00:06:19	Kristy, you’re not going anywhere.	Y
-82	00:06:19	00:06:21	You got that?	Y
+81	00:06:17	00:06:19	Kristy, you’re not going anywhere.	N
+82	00:06:19	00:06:21	You got that?	N
 83	00:06:21	00:06:23	Come on. Relax a little bit.	N
 84	00:06:23	00:06:24	Settle down.	N
 85	00:06:24	00:06:26	Kristy? Kristy! You don’t own me, Jack.	Y
 86	00:06:26	00:06:27	Nobody does.	N
 87	00:06:27	00:06:28	Hey.	N
-88	00:06:28	00:06:29	Back off.	Y
-89	00:06:29	00:06:30	Hey, just mind your own business. Nick.	Y
-90	00:06:30	00:06:32	I know him. He’s a cop.	Y
+88	00:06:28	00:06:29	Back off.	N
+89	00:06:29	00:06:30	Hey, just mind your own business. Nick.	N
+90	00:06:30	00:06:32	I know him. He’s a cop.	N
 91	00:06:32	00:06:34	A crime scene investigator.	N
-92	00:06:34	00:06:36	Nick, tell him to leave me alone.	N
-93	00:06:36	00:06:39	Nobody tells me to do anything...	N
+92	00:06:34	00:06:36	Nick, tell him to leave me alone.	Y
+93	00:06:36	00:06:39	Nobody tells me to do anything...	Y
 94	00:06:39	00:06:40	Hey, are we going to have a problem?	N
-95	00:06:40	00:06:45	No, officer, we’re not going to have a problem.	N
+95	00:06:40	00:06:45	No, officer, we’re not going to have a problem.	Y
 96	00:06:45	00:06:46	I’ll see you around, baby.	N
 97	00:06:55	00:06:57	You okay?	N
 98	00:06:57	00:06:58	Yeah.	N
 99	00:06:58	00:07:00	Yeah, I’m fine.	N
 100	00:07:00	00:07:02	That was good timing. Thanks.	N
-101	00:07:02	00:07:05	I suppose you need a ride.	Y
+101	00:07:02	00:07:05	I suppose you need a ride.	N
 102	00:07:05	00:07:07	Do you mind?	N
 103	00:07:07	00:07:09	No.	N
 104	00:07:09	00:07:11	Come on.	N
 105	00:07:11	00:07:12	Thanks.	N
 106	00:07:14	00:07:18	Seems like every time we run into each other I’m getting into trouble.	N
 107	00:07:18	00:07:22	Not that it’s any of my business but maybe you should think about changing careers.	N
-108	00:07:22	00:07:25	Not every john is like that guy.	N
+108	00:07:22	00:07:25	Not every john is like that guy.	Y
 109	00:07:25	00:07:28	Besides, I’m making a change.	N
 110	00:07:28	00:07:30	I’m going back to school.	N
 111	00:07:30	00:07:32	Yeah?	N
@@ -163,8 +163,8 @@
 161	00:09:58	00:10:02	But we can’t tell anybody on the day shift, though because they’re going to get real jealous.	N
 162	00:10:02	00:10:04	That’s good thinking.	N
 163	00:10:04	00:10:06	Would you excuse me a minute?	N
-164	00:10:06	00:10:08	Yes.	Y
-165	00:10:10	00:10:12	Keep an eye on that guy.	Y
+164	00:10:06	00:10:08	Yes.	N
+165	00:10:10	00:10:12	Keep an eye on that guy.	N
 166	00:10:13	00:10:15	Oh, yes!	N
 167	00:10:15	00:10:18	Well, we got a live one out there.	N
 168	00:10:18	00:10:20	I got a cop babysitting him.	N
@@ -172,8 +172,8 @@
 170	00:10:22	00:10:25	Well, are his initials FP?	N
 171	00:10:25	00:10:29	No, Dominic Kretzker, why?	N
 172	00:10:29	00:10:32	I found this near the point of origin.	N
-173	00:10:33	00:10:37	Whoever did this is playing with us.	N
-174	00:10:37	00:10:39	Or he wants to get caught.	N
+173	00:10:33	00:10:37	Whoever did this is playing with us.	Y
+174	00:10:37	00:10:39	Or he wants to get caught.	Y
 175	00:10:45	00:10:47	Hey, it’s me.	N
 176	00:10:47	00:10:48	You in the shower? What are you doing?	N
 177	00:10:48	00:10:52	Anyway, if you check your messages I don’t have to work till later.	N
@@ -218,8 +218,8 @@
 216	00:12:27	00:12:28	I’ll see you guys later.	N
 217	00:12:28	00:12:29	Listen, do me a favor.	N
 218	00:12:29	00:12:33	Will you tell Grissom that if he needs me just call me at home, okay? All right.	N
-219	00:12:33	00:12:34	Let’s roll.	Y
-220	00:12:36	00:12:40	So all this stuff is from a five-meter radius of the point of origin?	Y
+219	00:12:33	00:12:34	Let’s roll.	N
+220	00:12:36	00:12:40	So all this stuff is from a five-meter radius of the point of origin?	N
 221	00:12:40	00:12:41	Yep.	N
 222	00:12:41	00:12:44	How could the victim possibly have been in one piece?	N
 223	00:12:44	00:12:46	Vacuum effect.	N
@@ -230,13 +230,13 @@
 228	00:13:02	00:13:04	Did you figure out what this FP stands for?	N
 229	00:13:04	00:13:07	I ran it through ATF’s bomb database.	N
 230	00:13:07	00:13:09	No profile.	N
-231	00:13:09	00:13:11	So our bomber’s a newbie.	N
-232	00:13:11	00:13:13	Does he fit Grissom’s wack job from the bomb site?	N
+231	00:13:09	00:13:11	So our bomber’s a newbie.	Y
+232	00:13:11	00:13:13	Does he fit Grissom’s wack job from the bomb site?	Y
 233	00:13:13	00:13:15	Dominic the security guard?	N
 234	00:13:15	00:13:17	Ah, it’s too soon to tell.	N
 235	00:13:17	00:13:19	I found something interesting.	N
 236	00:13:19	00:13:21	What is it?	N
-237	00:13:23	00:13:25	Looks like a balance wheel from a clock.	Y
+237	00:13:23	00:13:25	Looks like a balance wheel from a clock.	N
 238	00:13:25	00:13:26	Bomb was time-delayed.	N
 239	00:13:26	00:13:28	This is a piece of the timing device.	N
 240	00:13:28	00:13:30	What about the orange stuff?	N
@@ -252,16 +252,16 @@
 250	00:13:47	00:13:50	Yeah, I know, and I’m sorry, but I don’t think this can wait.	N
 251	00:13:50	00:13:52	Okay.	N
 252	00:13:56	00:13:59	You told me you weren’t dating her.	N
-253	00:13:59	00:14:04	I wasn’t till last night after I broke up her fight with this guy, uh... Jack.	N
+253	00:13:59	00:14:04	I wasn’t till last night after I broke up her fight with this guy, uh... Jack.	Y
 254	00:14:04	00:14:07	And Ecklie’s at her house now.	N
 255	00:14:07	00:14:09	Yeah, and I can tell you what he’s going to find.	N
 256	00:14:09	00:14:12	My fingerprints, my DNA.	N
 257	00:14:12	00:14:14	What were you thinking, Nicky?	N
 258	00:14:14	00:14:17	I wasn’t.	N
 259	00:14:17	00:14:21	We had a connection, you know?	N
-260	00:14:21	00:14:24	Chemistry thing, I guess.	Y
-261	00:14:24	00:14:27	She was irresistible, man.	Y
-262	00:14:27	00:14:30	00.	Y
+260	00:14:21	00:14:24	Chemistry thing, I guess.	N
+261	00:14:24	00:14:27	She was irresistible, man.	N
+262	00:14:27	00:14:30	00.	N
 263	00:14:30	00:14:31	Ecklie’s going to be all over this.	N
 264	00:14:32	00:14:35	Hey, Nick...	N
 265	00:14:35	00:14:37	I’m sorry to hear about your friend.	N
@@ -278,9 +278,9 @@
 276	00:14:58	00:15:00	Just let me get into it.	N
 277	00:15:00	00:15:02	I can’t just sit here.	N
 278	00:15:02	00:15:04	Okay, go for a walk.	N
-279	00:15:04	00:15:07	Maybe you’ll accidentally bump into your guy, Jack?	N
+279	00:15:04	00:15:07	Maybe you’ll accidentally bump into your guy, Jack?	Y
 280	00:15:07	00:15:09	Yeah.	N
-281	00:15:09	00:15:12	I.D. him, but don’t approach him.	N
+281	00:15:09	00:15:12	I.D. him, but don’t approach him.	Y
 282	00:15:12	00:15:14	Okay.	N
 283	00:15:19	00:15:23	If Nick’s arrested it’s not going to matter that he’s cleared later.	N
 284	00:15:23	00:15:25	No, it’s an automatic dismissal.	N
@@ -295,8 +295,8 @@
 293	00:15:54	00:15:56	Petichials...	N
 294	00:15:56	00:15:57	blue tongue, the works.	N
 295	00:15:57	00:16:00	Raccoon eyes excoriation around the neck.	N
-296	00:16:00	00:16:02	She didn’t give up easy.	Y
-297	00:16:02	00:16:04	Struggled and strangled.	Y
+296	00:16:00	00:16:02	She didn’t give up easy.	N
+297	00:16:02	00:16:04	Struggled and strangled.	N
 298	00:16:04	00:16:06	Ecklie find the murder weapon?	N
 299	00:16:06	00:16:08	I only deal with bodies.	N
 300	00:16:08	00:16:10	Did you check for fingerprints on the body?	N
@@ -307,15 +307,15 @@
 305	00:16:19	00:16:21	Then that’s what you report.	N
 306	00:16:21	00:16:25	Evidence, Doc... all we got.	N
 307	00:16:35	00:16:36	Hey.	N
-308	00:16:36	00:16:38	Could you find that and turn it off, please?	Y
-309	00:16:46	00:16:48	Find the clock our guy used?	N
+308	00:16:36	00:16:38	Could you find that and turn it off, please?	N
+309	00:16:46	00:16:48	Find the clock our guy used?	Y
 310	00:16:48	00:16:49	Not yet.	N
 311	00:16:49	00:16:50	This is a good choice.	N
 312	00:16:50	00:17:08	According to the Bomb Data Center which has a record of every component used in any bomb-- from Ted Kaczynski to teenage boys playing with fireworks-- the most recent timing device of choice is made by TimeTell Snoozewell, $10.99 at any local drugstore.	N
 313	00:17:08	00:17:10	You’ve spoiled all my fun.	N
 314	00:17:11	00:17:13	Gris, can I get clear on something here?	N
 315	00:17:13	00:17:14	Anything’s possible.	N
-316	00:17:14	00:17:21	Catherine gave me this FP which was part of the Hansen bomb and I’m supposed to figure out what tool the bomber used to engrave it.	N
+316	00:17:14	00:17:21	Catherine gave me this FP which was part of the Hansen bomb and I’m supposed to figure out what tool the bomber used to engrave it.	Y
 317	00:17:21	00:17:23	You isolate the tool, and then we trace it.	N
 318	00:17:23	00:17:27	Yeah, but he could’ve used any number of things to initial it.	N
 319	00:17:27	00:17:29	I mean, a screwdriver, a drill bit, a box cutter.	N
@@ -325,7 +325,7 @@
 323	00:17:34	00:17:37	We’re going to go blow up some bombs.	N
 324	00:17:37	00:17:41	Oh, I definitely got the wrong end of this investigation.	N
 325	00:17:41	00:17:44	Alas. Poor Warrick.	N
-326	00:18:20	00:18:23	Oh, hey, uh Conrad, Grissom’s in the field.	Y
+326	00:18:20	00:18:23	Oh, hey, uh Conrad, Grissom’s in the field.	N
 327	00:18:23	00:18:25	I need to speak with him.	N
 328	00:18:25	00:18:27	And I need to speak with you...	N
 329	00:18:27	00:18:28	about Nick Stokes.	N
@@ -343,14 +343,14 @@
 341	00:18:49	00:18:51	It’s no big deal.	N
 342	00:18:51	00:18:52	What’s up, Ecklie?	N
 343	00:18:52	00:18:55	I need a DNA sample from you, Nick.	N
-344	00:18:55	00:18:59	I assume you’re trying to prove Kristy Hopkins and I were sexually active last night.	Y
+344	00:18:55	00:18:59	I assume you’re trying to prove Kristy Hopkins and I were sexually active last night.	N
 345	00:18:59	00:19:01	We found a condom, used.	N
 346	00:19:01	00:19:04	And my DNA will match, no warrant necessary.	N
-347	00:19:04	00:19:06	And I have something else for you.	Y
+347	00:19:04	00:19:06	And I have something else for you.	N
 348	00:19:08	00:19:10	I got this off a valet surveillance tape.	N
 349	00:19:10	00:19:12	A license plate number?	N
-350	00:19:12	00:19:14	Vehicle belongs to Jack Willman.	N
-351	00:19:14	00:19:17	Had a fight with Kristy Hopkins outside the Orpheus last night around midnight.	Y
+350	00:19:12	00:19:14	Vehicle belongs to Jack Willman.	Y
+351	00:19:14	00:19:17	Had a fight with Kristy Hopkins outside the Orpheus last night around midnight.	N
 352	00:19:17	00:19:23	Well, I’ll look into it but come on, your fingerprints, your DNA that’s what’s going into evidence.	N
 353	00:19:23	00:19:25	You just love that, don’t you?	N
 354	00:19:25	00:19:27	You think I want to believe that a CSI could commit murder?	N
@@ -362,18 +362,18 @@
 360	00:19:38	00:19:40	In the meantime, my hands are tied.	N
 361	00:19:40	00:19:42	I have protocol to follow.	N
 362	00:19:46	00:19:47	I hate that guy.	N
-363	00:19:47	00:19:50	Okay, look, I’m going to get O’Riley to track down this Jack guy for questioning.	N
+363	00:19:47	00:19:50	Okay, look, I’m going to get O’Riley to track down this Jack guy for questioning.	Y
 364	00:19:50	00:19:52	But I am out on a limb for you here, Nick.	N
 365	00:19:52	00:19:54	Just don’t make it harder with Ecklie, okay?	N
 366	00:19:54	00:19:55	Yeah.	N
-367	00:19:57	00:19:59	We find the bomber by understanding the bomb.	N
+367	00:19:57	00:19:59	We find the bomber by understanding the bomb.	Y
 368	00:19:59	00:20:02	Fortunately, Catherine figured out the exterior container.	N
 369	00:20:02	00:20:04	Aluminum briefcase.	N
 370	00:20:04	00:20:05	And we know the timing device.	N
 371	00:20:05	00:20:06	Snoozewell.	N
 372	00:20:06	00:20:07	And the propellant.	N
 373	00:20:07	00:20:08	Black gunpowder.	N
-374	00:20:08	00:20:10	So the final piece of the bomber’s signature?	N
+374	00:20:08	00:20:10	So the final piece of the bomber’s signature?	Y
 375	00:20:10	00:20:12	Identify the pipe containing the powder.	N
 376	00:20:12	00:20:16	Three bombs, scaled down five-to-one three different metal pipes.	N
 377	00:20:16	00:20:20	Different metals fly different distances when the same force is applied.	N
@@ -489,8 +489,8 @@
 487	00:27:27	00:27:28	Excuse me?	N
 488	00:27:28	00:27:35	You don’t just like, stop by to see someone, you... make up excuse like I’m in the area, just stopping by.	N
 489	00:27:35	00:27:38	Wow, you’re just like me.	N
-490	00:27:38	00:27:41	Except better-looking.	Y
-491	00:27:41	00:27:44	I’ll come by and see you later, okay?	Y
+490	00:27:38	00:27:41	Except better-looking.	N
+491	00:27:41	00:27:44	I’ll come by and see you later, okay?	N
 492	00:27:44	00:27:45	Okay.	N
 493	00:27:51	00:27:53	What? Bad news.	N
 494	00:27:53	00:27:54	Another Fourth of July.	N
@@ -511,64 +511,64 @@
 509	00:28:53	00:28:56	Be right back.	N
 510	00:28:56	00:28:57	We say nothing to the media or anybody.	N
 511	00:28:57	00:29:00	Our bomber’s signature just got a little more sophisticated.	Y
-512	00:29:00	00:29:02	Excuse me.	Y
+512	00:29:00	00:29:02	Excuse me.	N
 513	00:29:02	00:29:03	Hi, I’m with the Crime Lab.	N
 514	00:29:03	00:29:06	I’m sorry, but I have to take your jacket.	N
-515	00:29:06	00:29:09	Um... okay.	Y
+515	00:29:06	00:29:09	Um... okay.	N
 516	00:29:09	00:29:10	If it’ll help.	N
 517	00:29:10	00:29:12	Thanks.	N
 518	00:29:15	00:29:17	What are you doing?	N
-519	00:29:17	00:29:20	Polyethylene-terephtalete.	Y
-520	00:29:20	00:29:21	Polyester.	Y
+519	00:29:17	00:29:20	Polyethylene-terephtalete.	N
+520	00:29:20	00:29:21	Polyester.	N
 521	00:29:21	00:29:23	Orange stuff.	N
-522	00:29:25	00:29:28	You’re free to go.	Y
-523	00:29:28	00:29:30	I wanted to tell you in person.	Y
-524	00:29:30	00:29:32	You mean, you weren’t just in the neighborhood?	Y
-525	00:29:32	00:29:35	That second bomb-- it wasn’t remote, was it?	Y
+522	00:29:25	00:29:28	You’re free to go.	N
+523	00:29:28	00:29:30	I wanted to tell you in person.	N
+524	00:29:30	00:29:32	You mean, you weren’t just in the neighborhood?	N
+525	00:29:32	00:29:35	That second bomb-- it wasn’t remote, was it?	N
 526	00:29:35	00:29:36	Otherwise I’d still be a suspect.	N
-527	00:29:36	00:29:38	I can’t discuss it.	Y
-528	00:29:38	00:29:42	So I guess you’re not going to be needing my expertise anymore.	Y
-529	00:29:42	00:29:44	I mean, investigation-wise.	Y
+527	00:29:36	00:29:38	I can’t discuss it.	N
+528	00:29:38	00:29:42	So I guess you’re not going to be needing my expertise anymore.	N
+529	00:29:42	00:29:44	I mean, investigation-wise.	N
 530	00:29:44	00:29:47	I knew it was too good to be true.	N
-531	00:29:47	00:29:51	Well, proud to have worked with you, sir.	Y
-532	00:29:51	00:29:53	Dominic... I’m not a police officer.	Y
+531	00:29:47	00:29:51	Well, proud to have worked with you, sir.	N
+532	00:29:51	00:29:53	Dominic... I’m not a police officer.	N
 533	00:29:53	00:29:55	I-I-I’m a crime scene analyst.	N
-534	00:29:55	00:29:58	Yeah, but we know who really solves the crimes, don’t we, sir?	Y
-535	00:29:58	00:30:01	Good luck.	Y
-536	00:30:01	00:30:02	Take care of yourself.	Y
-537	00:30:02	00:30:03	Thank you.	Y
+534	00:29:55	00:29:58	Yeah, but we know who really solves the crimes, don’t we, sir?	N
+535	00:29:58	00:30:01	Good luck.	N
+536	00:30:01	00:30:02	Take care of yourself.	N
+537	00:30:02	00:30:03	Thank you.	N
 538	00:30:06	00:30:08	Hey, Dom?	N
-539	00:30:08	00:30:13	Yeah? Next time try not to be quite so trusting.	Y
+539	00:30:08	00:30:13	Yeah? Next time try not to be quite so trusting.	N
 540	00:30:13	00:30:15	You don’t need to be a hero.	N
-541	00:30:24	00:30:26	I ran priors.	Y
+541	00:30:24	00:30:26	I ran priors.	N
 542	00:30:26	00:30:30	The guy’s got an ’88 conviction for sexual assault.	Y
-543	00:30:30	00:30:33	Boy, if I ever get in trouble, I know which CSI I’m going to.	Y
+543	00:30:30	00:30:33	Boy, if I ever get in trouble, I know which CSI I’m going to.	N
 544	00:30:35	00:30:38	Let’s watch the show.	N
-545	00:30:44	00:30:48	How would you characterize your relationship with Kristy Hopkins?	N
-546	00:30:48	00:30:50	Oh, sir, we can just cut the crap.	N
-547	00:30:50	00:30:52	I saw him kill Kristy.	N
-548	00:30:52	00:30:54	I saw everything.	N
+545	00:30:44	00:30:48	How would you characterize your relationship with Kristy Hopkins?	Y
+546	00:30:48	00:30:50	Oh, sir, we can just cut the crap.	Y
+547	00:30:50	00:30:52	I saw him kill Kristy.	Y
+548	00:30:52	00:30:54	I saw everything.	Y
 549	00:30:54	00:30:55	Go on.	N
-550	00:30:55	00:30:58	Well, Kristy and I, we had words.	N
-551	00:30:58	00:31:02	I was swinging by her place to tell her I was sorry but, uh...	N
-552	00:31:04	00:31:07	I didn’t expect to see her with a guy.	N
+550	00:30:55	00:30:58	Well, Kristy and I, we had words.	Y
+551	00:30:58	00:31:02	I was swinging by her place to tell her I was sorry but, uh...	Y
+552	00:31:04	00:31:07	I didn’t expect to see her with a guy.	Y
 553	00:31:07	00:31:08	They were fighting.	N
-554	00:31:08	00:31:12	I couldn’t make out what they were saying but he was pushing her around pretty hard.	N
-555	00:31:14	00:31:16	Could you I.D. this guy? Yeah.	N
+554	00:31:08	00:31:12	I couldn’t make out what they were saying but he was pushing her around pretty hard.	Y
+555	00:31:14	00:31:16	Could you I.D. this guy? Yeah.	Y
 556	00:31:16	00:31:18	It was like, Nick something.	N
-557	00:31:18	00:31:22	Kristy and I bumped into him at The Orpheus earlier.	N
-558	00:31:22	00:31:23	And you saw him kill her?	N
-559	00:31:23	00:31:27	Well, I saw him get violent, but then I took off.	N
-560	00:31:27	00:31:29	And you didn’t try to help the girl?	N
+557	00:31:18	00:31:22	Kristy and I bumped into him at The Orpheus earlier.	Y
+558	00:31:22	00:31:23	And you saw him kill her?	Y
+559	00:31:23	00:31:27	Well, I saw him get violent, but then I took off.	Y
+560	00:31:27	00:31:29	And you didn’t try to help the girl?	Y
 561	00:31:29	00:31:31	He’s one of you guys.	N
 562	00:31:31	00:31:33	He carries a gun.	N
-563	00:31:33	00:31:35	I’m no hero.	N
-564	00:31:39	00:31:41	So can I go?	N
+563	00:31:33	00:31:35	I’m no hero.	Y
+564	00:31:39	00:31:41	So can I go?	Y
 565	00:31:43	00:31:46	Yeah.	N
-566	00:31:47	00:31:50	The witness sounds believable.	N
+566	00:31:47	00:31:50	The witness sounds believable.	Y
 567	00:31:50	00:31:52	It’s a load of crap and you know it.	N
 568	00:31:52	00:31:54	I was listening.	N
-569	00:31:54	00:31:56	He seemed credible to me.	N
+569	00:31:54	00:31:56	He seemed credible to me.	Y
 570	00:31:56	00:31:59	Sheriff, you arrest Nick now you end his career.	N
 571	00:31:59	00:32:01	So what can you offer me?	N
 572	00:32:01	00:32:04	Nothing, except my gut and ten years of experience.	N
@@ -590,8 +590,8 @@
 588	00:32:54	00:32:57	Much as I want to help, no can do.	N
 589	00:32:57	00:32:59	It’s my case for the next 12 hours.	N
 590	00:32:59	00:33:02	Ask the Sheriff.	N
-591	00:33:02	00:33:04	You know, I would never doubt your word.	Y
-592	00:33:04	00:33:06	Smart man.	Y
+591	00:33:02	00:33:04	You know, I would never doubt your word.	N
+592	00:33:04	00:33:06	Smart man.	N
 593	00:33:13	00:33:15	Nick’s little soldiers.	N
 594	00:33:15	00:33:17	It’s all you.	N
 595	00:33:17	00:33:20	Thanks, Greg.	N
@@ -606,7 +606,7 @@
 604	00:33:42	00:33:44	I’m not quite up to speed on the particulars of...	N
 605	00:33:44	00:33:50	It takes about seven hours for bacteria to eat away at the tails 00 a.m.	N
 606	00:33:50	00:33:52	00 a.m.	N
-607	00:33:52	00:33:59	Well, it suggests a lag between ejaculation and Kristy’s murder but it doesn’t disprove Nick’s presence at the time of the homicide.	Y
+607	00:33:52	00:33:59	Well, it suggests a lag between ejaculation and Kristy’s murder but it doesn’t disprove Nick’s presence at the time of the homicide.	N
 608	00:33:59	00:34:01	You could be a little more supportive.	N
 609	00:34:03	00:34:05	I have a new favorite color.	N
 610	00:34:05	00:34:10	Orange? The orange polyester from the bomb is a match to the Thrift-Right jacket.	N
@@ -631,54 +631,54 @@
 629	00:35:01	00:35:03	The bombing of the Hansen Building.	N
 630	00:35:03	00:35:05	A-A bomb? Are you kidding?	N
 631	00:35:05	00:35:08	I’ve never even been near a bomb my entire life.	N
-632	00:35:08	00:35:14	Well, those orange jackets over there appear to match the materials the bombs were wrapped in.	Y
-633	00:35:14	00:35:16	I used to wear those to go to work.	Y
+632	00:35:08	00:35:14	Well, those orange jackets over there appear to match the materials the bombs were wrapped in.	N
+633	00:35:14	00:35:16	I used to wear those to go to work.	N
 634	00:35:16	00:35:20	You were let go by Thrift-Right last year, and lost a court battle to get your job back.	N
 635	00:35:20	00:35:26	In fact, they filed a TRO against you for throwing furniture around their headquarters last July.	N
 636	00:35:26	00:35:28	I want to call my lawyer.	N
 637	00:35:28	00:35:30	Good, you can call him from the car.	N
 638	00:35:30	00:35:31	He can meet us at the PD.	N
 639	00:35:31	00:35:32	Take him in. Come on, let’s go.	N
-640	00:35:32	00:35:33	Call your mom.	N
+640	00:35:32	00:35:33	Call your mom.	Y
 641	00:36:47	00:36:50	Kristy Hopkins was strangled with this sash.	N
 642	00:36:50	00:36:56	It’s fingerprint-free, but the force of the pull would have scratched off epithelials from the killer’s hands, right?	N
 643	00:36:56	00:36:59	Abraded, yeah. And can you extract DNA from epithelials?	N
 644	00:36:59	00:37:00	If they’re fresh enough.	N
-645	00:37:16	00:37:20	Okay, epithelials are an affirmative.	Y
-646	00:37:20	00:37:22	And they’re good to go for DNA profiling.	Y
-647	00:37:22	00:37:25	I’m just going to need something to compare it to.	Y
+645	00:37:16	00:37:20	Okay, epithelials are an affirmative.	N
+646	00:37:20	00:37:22	And they’re good to go for DNA profiling.	N
+647	00:37:22	00:37:25	I’m just going to need something to compare it to.	N
 648	00:37:25	00:37:29	Jack Willman has a prior for a sexual assault so his DNA is on file.	Y
 649	00:37:40	00:37:42	Well?	N
-650	00:37:44	00:37:47	I think that you and I should head over to the police station.	Y
-651	00:37:49	00:37:52	DNA didn’t pan out, huh?	Y
+650	00:37:44	00:37:47	I think that you and I should head over to the police station.	N
+651	00:37:49	00:37:52	DNA didn’t pan out, huh?	N
 652	00:37:52	00:37:55	Never have I seen such a clean match.	N
-653	00:37:57	00:37:58	Jack Willman killed her.	N
+653	00:37:57	00:37:58	Jack Willman killed her.	Y
 654	00:38:11	00:38:13	Thank you.	N
 655	00:38:13	00:38:14	Hey...	N
-656	00:38:14	00:38:17	Hey, I’m just doing my job.	Y
-657	00:38:17	00:38:22	Besides, if they’d sent you to jail I’d get stuck with all your cases.	Y
-658	00:38:27	00:38:29	Dispatch said you were looking for me?	Y
-659	00:38:29	00:38:30	Yeah.	Y
+656	00:38:14	00:38:17	Hey, I’m just doing my job.	N
+657	00:38:17	00:38:22	Besides, if they’d sent you to jail I’d get stuck with all your cases.	N
+658	00:38:27	00:38:29	Dispatch said you were looking for me?	N
+659	00:38:29	00:38:30	Yeah.	N
 660	00:38:30	00:38:33	I finally matched this FP.	N
 661	00:38:33	00:38:35	To this electric etcher.	N
 662	00:38:35	00:38:36	Now, I made an exemplar.	N
 663	00:38:36	00:38:37	Boom!	N
-664	00:38:37	00:38:39	Identical type of striations.	Y
-665	00:38:39	00:38:45	The manufacturer says that this etcher is only used for training purposes.	Y
+664	00:38:37	00:38:39	Identical type of striations.	N
+665	00:38:39	00:38:45	The manufacturer says that this etcher is only used for training purposes.	N
 666	00:38:45	00:38:47	And it’s only sold in bulk.	N
 667	00:38:47	00:38:50	It was not sold to Norman Stirling.	N
-668	00:38:50	00:38:53	So who bought it?	Y
+668	00:38:50	00:38:53	So who bought it?	N
 669	00:38:53	00:38:55	Las Vegas School District.	N
 670	00:38:55	00:38:58	I called the district and we traced it down to one high school-- Summit High.	N
 671	00:38:58	00:39:03	Stirling’s son goes there.	Y
 672	00:39:03	00:39:12	Tyler, were you aware of your father’s lawsuits against Thrift-Right Car Rental?	Y
 673	00:39:12	00:39:14	Yeah. It was kind of hard not to be.	N
-674	00:39:14	00:39:19	I mean, it’s all him and my mom talked about for a year.	N
-675	00:39:20	00:39:22	Until she left.	Y
-676	00:39:22	00:39:24	Do you miss your mother?	N
+674	00:39:14	00:39:19	I mean, it’s all him and my mom talked about for a year.	Y
+675	00:39:20	00:39:22	Until she left.	N
+676	00:39:22	00:39:24	Do you miss your mother?	Y
 677	00:39:26	00:39:28	I miss our old life.	Y
-678	00:39:31	00:39:34	Is there something that we should be talking about?	N
-679	00:39:34	00:39:35	You know, in private?	N
+678	00:39:31	00:39:34	Is there something that we should be talking about?	Y
+679	00:39:34	00:39:35	You know, in private?	Y
 680	00:39:35	00:39:39	You said that’s how corporations do it--in private.	N
 681	00:39:41	00:39:45	See, they treated him great at work, in front of everyone.	N
 682	00:39:45	00:39:48	And then they let him go at the end of the day when no one’s around.	N
@@ -686,59 +686,59 @@
 684	00:39:50	00:39:54	you know, they realized they could hire two young guys at half the price.	N
 685	00:39:54	00:39:58	What does FP stand for?	N
 686	00:39:59	00:40:02	It was etched into both bombs.	N
-687	00:40:02	00:40:06	We think you engraved it with an implement from your high school shop class.	N
+687	00:40:02	00:40:06	We think you engraved it with an implement from your high school shop class.	Y
 688	00:40:10	00:40:12	Fair Play.	N
 689	00:40:20	00:40:24	I used to yell that around the house that I was owed fair play.	N
-690	00:40:24	00:40:27	I mean, they threw him out like trash.	N
-691	00:40:27	00:40:29	And you sent them bombs?	N
+690	00:40:24	00:40:27	I mean, they threw him out like trash.	Y
+691	00:40:27	00:40:29	And you sent them bombs?	Y
 692	00:40:29	00:40:34	You said you wanted to kill them.	N
-693	00:40:39	00:40:41	How did you even know how to do this?	N
+693	00:40:39	00:40:41	How did you even know how to do this?	Y
 694	00:40:43	00:40:45	Off the Internet.	N
-695	00:40:48	00:40:50	Dad, are you mad at me?	N
-696	00:40:53	00:40:54	I did it for you.	N
-697	00:40:54	00:40:57	Tyler, did you make any more bombs?	N
+695	00:40:48	00:40:50	Dad, are you mad at me?	Y
+696	00:40:53	00:40:54	I did it for you.	Y
+697	00:40:54	00:40:57	Tyler, did you make any more bombs?	Y
 698	00:40:59	00:41:01	Where are they?	N
 699	00:41:01	00:41:03	Where are you keeping them?	N
-700	00:41:09	00:41:11	Tyler...	N
-701	00:41:11	00:41:15	if you did this for me...	N
-702	00:41:15	00:41:17	please tell them where they are.	Y
-703	00:41:20	00:41:24	( man over dispatch ) Victor 9, Victor 9, report to Summit High School.	Y
-704	00:41:24	00:41:27	Prairie road.	Y
-705	00:41:27	00:41:33	Reported bomb outside Classroom 22B in Locker 897.	Y
+700	00:41:09	00:41:11	Tyler...	Y
+701	00:41:11	00:41:15	if you did this for me...	Y
+702	00:41:15	00:41:17	please tell them where they are.	N
+703	00:41:20	00:41:24	( man over dispatch ) Victor 9, Victor 9, report to Summit High School.	N
+704	00:41:24	00:41:27	Prairie road.	N
+705	00:41:27	00:41:33	Reported bomb outside Classroom 22B in Locker 897.	N
 706	00:41:34	00:41:37	Bomb is trigger-activated and motion-delayed.	N
 707	00:41:37	00:41:38	Do not handle.	N
-708	00:41:38	00:41:43	Students and faculty and all school personnel please exit the building immediately.	Y
-709	00:41:43	00:41:45	Security Detail, let’s go!	Y
-710	00:41:45	00:41:47	I need Classroom 22B.	Y
+708	00:41:38	00:41:43	Students and faculty and all school personnel please exit the building immediately.	N
+709	00:41:43	00:41:45	Security Detail, let’s go!	N
+710	00:41:45	00:41:47	I need Classroom 22B.	N
 711	00:41:47	00:41:48	Second floor! Where’s 22B?	N
 712	00:41:48	00:41:49	Come on, people!	N
-713	00:41:55	00:41:57	Come on, people, don’t run.	Y
-714	00:42:03	00:42:08	All students and faculty please exit the facilities immediately.	Y
+713	00:41:55	00:41:57	Come on, people, don’t run.	N
+714	00:42:03	00:42:08	All students and faculty please exit the facilities immediately.	N
 715	00:42:26	00:42:29	Get out of my way, people.	N
 716	00:42:29	00:42:34	Come around me.	N
 717	00:42:45	00:42:46	Dominic, stop!	N
 718	00:42:46	00:42:47	Stop right there. Put it down!	N
 719	00:42:47	00:42:49	No, it’s all right. Everyone’s safe.	N
 720	00:42:49	00:42:52	No, no, no, drop it. It’s active!	N
-721	00:43:13	00:43:15	Hi. Just the guy I wanted to see.	N
+721	00:43:13	00:43:15	Hi. Just the guy I wanted to see.	Y
 722	00:43:15	00:43:17	O’Riley.	N
-723	00:43:19	00:43:20	Tell me why you did it.	N
-724	00:43:20	00:43:22	I got nothing to say to you, cowboy.	N
+723	00:43:19	00:43:20	Tell me why you did it.	Y
+724	00:43:20	00:43:22	I got nothing to say to you, cowboy.	Y
 725	00:43:24	00:43:29	She was going back to college, turning her life around getting out of the business, and you killed her for it!	N
 726	00:43:29	00:43:30	Why?	N
 727	00:43:30	00:43:31	Is that what she told you?	N
 728	00:43:31	00:43:33	She was getting out of the business?	N
 729	00:43:33	00:43:36	She was going to college to recruit more girls.	N
-730	00:43:36	00:43:39	Do you think I’m going to believe the john that killed her?	N
-731	00:43:39	00:43:41	Oh, and you think I was her client?	N
-732	00:43:41	00:43:42	I was her pimp.	N
-733	00:43:44	00:43:48	She was leaving me to start her own racket.	N
+730	00:43:36	00:43:39	Do you think I’m going to believe the john that killed her?	Y
+731	00:43:39	00:43:41	Oh, and you think I was her client?	Y
+732	00:43:41	00:43:42	I was her pimp.	Y
+733	00:43:44	00:43:48	She was leaving me to start her own racket.	Y
 734	00:43:48	00:43:50	So wake up. This isn’t Pretty Woman.	N
 735	00:43:50	00:43:51	She’s not Julia Roberts.	N
 736	00:43:51	00:43:53	You’re not Richard Gere.	N
 737	00:43:53	00:43:54	Yeah, yeah, yeah.	N
-738	00:43:54	00:43:56	I guess you’re right.	N
-739	00:43:56	00:44:00	Because there’s no happy ending for you.	N
+738	00:43:54	00:43:56	I guess you’re right.	Y
+739	00:43:56	00:44:00	Because there’s no happy ending for you.	Y
 740	00:44:00	00:44:03	Twenty-five to life.	N
-741	00:44:03	00:44:05	Get him out of here.	N
+741	00:44:03	00:44:05	Get him out of here.	Y
 742	00:44:18	00:44:21	Above the fold.	N

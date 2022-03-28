@@ -1,613 +1,613 @@
-	start	end	text	label
-0	00:01:01	00:01:03	I heard you got some head.	N
-1	00:01:03	00:01:04	Just came in.	N
-2	00:01:04	00:01:05	How'd you know?	N
-3	00:01:05	00:01:11	I arranged house seats for David to see Celine, so he pages me the minute you get anything perishable.	N
-4	00:01:11	00:01:12	Sellout.	N
-5	00:01:18	00:01:19	Oh... formaldehyde.	N
-6	00:01:19	00:01:22	Yeah, it fixes tissue, but it destroys DNA.	N
-7	00:01:22	00:01:24	No ID through CODIS.	N
-8	00:01:24	00:01:26	Quite a bit of leaf litter.	N
-9	00:01:26	00:01:29	Puncture wound above the orbital plate.	N
-10	00:01:30	00:01:32	That looks like animal activity.	N
-11	00:01:32	00:01:33	Heavy decomp.	N
-12	00:01:33	00:01:34	It's going to be, uh...	N
-13	00:01:35	00:01:38	virtually impossible to determine time of death.	N
-14	00:01:38	00:01:39	This neck wasn't severed.	N
-15	00:01:39	00:01:40	It was disarticulated.	N
-16	00:01:40	00:01:43	No skill involved.	N
-17	00:01:45	00:01:46	Oh-oh.	N
-18	00:01:46	00:01:47	I take that back.	N
-19	00:01:47	00:01:50	That took skill.	N
-20	00:01:55	00:01:57	The unkindest cut of all.	N
-21	00:02:36	00:02:38	There's more plant material here than geological.	N
-22	00:02:39	00:02:42	Hair roots and scalp are relatively clean.	N
-23	00:02:44	00:02:46	So the vic wasn't buried?	N
-24	00:02:46	00:02:47	You tell me.	N
-25	00:02:47	00:02:48	I will.	N
-26	00:02:48	00:02:53	Leaves and needles and dirt-- that's good as a map.	N
-27	00:03:01	00:03:02	Any idea when Grissom'll be back?	N
-28	00:03:02	00:03:04	Nope.	N
-29	00:03:04	00:03:05	It's going to be a while.	N
-30	00:03:07	00:03:09	Jackpot, Nevada.	N
-31	00:03:09	00:03:11	Where the hell is that?	N
-32	00:04:07	00:04:08	Good morning.	N
-33	00:04:08	00:04:10	I'm with the Las Vegas Crime Lab, and I...	N
-34	00:04:10	00:04:11	Hey, Alan!	N
-35	00:04:11	00:04:12	This guy's here about the head.	N
-36	00:04:14	00:04:16	Bet a wolf got him.	N
-37	00:04:16	00:04:18	There's no wolves around here, dumbass.	N
-38	00:04:18	00:04:19	Bears.	N
-39	00:04:19	00:04:21	Ten bucks says satanic cult.	N
-40	00:04:21	00:04:22	Lieutenant Alan Brooks.	N
-41	00:04:22	00:04:24	This is my brother Leland.	N
-42	00:04:24	00:04:26	How do you do? Gil Grissom, Las Vegas Crime Lab.	N
-43	00:04:26	00:04:28	May I?	N
-44	00:04:28	00:04:29	Have a seat.	N
-45	00:04:29	00:04:33	Things must be pretty slow in Vegas to get one of you guys out here so quick.	N
-46	00:04:33	00:04:35	Well, the Elko County Sheriff made the request.	N
-47	00:04:35	00:04:36	We were happy to respond.	N
-48	00:04:36	00:04:37	It's an interesting case.	N
-49	00:04:37	00:04:40	Mmm, not particularly.	N
-50	00:04:40	00:04:44	It was probably some hiker or transient who got lost, took a bad luck fall.	N
-51	00:04:44	00:04:46	Must have been a heck of a fall.	N
-52	00:04:46	00:04:48	His head's in a plastic jar.	N
-53	00:04:48	00:04:50	Listen, I filed the report.	N
-54	00:04:50	00:04:51	I sent in the head.	N
-55	00:04:51	00:04:54	Five'll get you ten, there's not much left of that body out there but coyote turds.	N
-56	00:04:56	00:04:59	Look, nobody from this community's been reported missing.	N
-57	00:04:59	00:05:03	And I just don't have the resources to go searching for what might be left.	N
-58	00:05:03	00:05:05	Well, you do now.	N
-59	00:05:05	00:05:08	There'd better be a whole lot more of you out there.	N
-60	00:05:10	00:05:12	Have a good one, Marty.	N
-61	00:05:14	00:05:21	Lieutenant, the preliminary autopsy revealed a single, straight, two-inch cut on the victim's jaw.	N
-62	00:05:21	00:05:24	It was a blade mark.	N
-63	00:05:24	00:05:28	So, there's not just a body out there, there's also a killer.	N
-64	00:05:30	00:05:33	Of all the plant life gathered from the head, the conifers are the key.	N
-65	00:05:33	00:05:36	The one on the left-- Abies zasiocarpa.	N
-66	00:05:36	00:05:41	The one on the right is Picea engelmannii, Engelmann spruce.	N
-67	00:05:41	00:05:43	Spruce and fir trees.	N
-68	00:05:44	00:05:45	Typical mountain forest.	N
-69	00:05:46	00:05:48	Typical for 9,000 feet above sea level.	N
-70	00:05:48	00:05:51	The wood fragments are either cottonwood or aspen.	N
-71	00:05:51	00:05:53	And aspens only grow in areas that have been cleared.	N
-72	00:05:53	00:05:57	Fire, roads or... logging.	N
-73	00:05:58	00:06:03	After a major forest fire, manzanita bushes grow like weeds for decades.	N
-74	00:06:03	00:06:06	No manzanita leaves here.	N
-75	00:06:06	00:06:13	Which means that the head was on a damp north-facing slope, at least 9,000 feet up, cleared, but not recently exposed to fire.	N
-76	00:06:14	00:06:15	Grissom.	N
-77	00:06:15	00:06:18	Is the service actually bad out there or are you just keeping your phone off?	N
-78	00:06:18	00:06:20	I'm sorry. I should've called.	N
-79	00:06:20	00:06:24	This trip wouldn't have anything to do with you ducking case reviews, now would it?	N
-80	00:06:24	00:06:25	How can you think that?	N
-81	00:06:25	00:06:27	You wouldn't mind taking care of those for me, would you?	N
-82	00:06:27	00:06:30	Oh, your job, my pay. Why would I care?	N
-83	00:06:30	00:06:31	I'll make it up to you.	N
-84	00:06:31	00:06:32	Yeah, you had better.	N
-85	00:06:40	00:06:43	Hodges ID'd your leaf litter.	N
-86	00:06:44	00:06:47	Good. Thanks. I owe you one.	N
-87	00:06:47	00:06:48	Trouble with the wife?	N
-88	00:06:48	00:06:49	Yeah.	N
-89	00:06:49	00:06:52	She hates it when we're apart.	N
-90	00:06:53	00:06:55	So your dog found the head?	N
-91	00:06:56	00:06:59	Well, Tripper's not exactly a Chihuahua.	N
-92	00:06:59	00:07:01	Goes where he wants, comes back for dinner.	N
-93	00:07:01	00:07:03	Sometimes he brings dinner back.	N
-94	00:07:03	00:07:06	Tripper! Come on, buddy, dinner.	N
-95	00:07:06	00:07:09	Oh, what is it this time, a rabbit or a possum?	N
-96	00:07:09	00:07:10	Is he okay?	N
-97	00:07:10	00:07:12	Well, he got a little lethargic after chewing on that head.	N
-98	00:07:12	00:07:14	Took him to the vet, ran some tests.	N
-99	00:07:14	00:07:15	He got better.	N
-100	00:07:15	00:07:16	I just want to keep him that way.	N
-101	00:07:17	00:07:21	Where there's a head there's got to be hands and feet, and sooner or later, he'll dig 'em up.	N
-102	00:07:21	00:07:22	Or what's left of 'em.	N
-103	00:07:22	00:07:25	No offense, Sylvia, but he's not exactly a scent hound.	N
-104	00:07:25	00:07:28	All animals can smell rotting flesh.	N
-105	00:07:28	00:07:33	Studies have shown that when domestic pets bring back human body parts, usually the remains are within a half-mile radius.	N
-106	00:07:33	00:07:34	They do studies on that?	N
-107	00:07:34	00:07:36	It occurs more than you think.	N
-108	00:07:36	00:07:39	Have you noticed any buzzards or vultures around?	N
-109	00:07:39	00:07:40	All the time.	N
-110	00:07:41	00:07:41	Thanks.	N
-111	00:07:46	00:07:48	So, are we done here?	N
-112	00:07:50	00:07:52	This slope faces north, doesn't it?	N
-113	00:07:53	00:07:54	Yeah.	N
-114	00:07:54	00:07:56	You know that old expression, heads will roll?	N
-115	00:07:56	00:07:59	It's true-- especially downhill.	N
-116	00:08:00	00:08:03	Barry, drop the doughnut.	N
-117	00:08:03	00:08:05	You gotta earn your pay today.	N
-118	00:08:12	00:08:13	Afraid you're going to trip over something?	N
-119	00:08:13	00:08:14	I'm hoping.	N
-120	00:08:14	00:08:16	Bodies make good fertilizer.	N
-121	00:08:17	00:08:20	You often see fresh, green shoots near a gravesite.	N
-122	00:08:20	00:08:23	Must be nice to know the answer to every little thing.	N
-123	00:08:23	00:08:25	I prefer questions, actually.	N
-124	00:08:26	00:08:28	And I don't, I suppose.	N
-125	00:08:28	00:08:31	Remember that waitress, Doris?	N
-126	00:08:31	00:08:35	Well, she's got an ex-husband likes to smack her around every once in a while.	N
-127	00:08:36	00:08:45	High school's got a dozen meth-heads who like boosting motorcycles and then drag racing 'em down Main Street, when they think nobody's watching.	N
-128	00:08:45	00:08:47	Fire chief's a closet pyro, and so forth.	N
-129	00:08:47	00:08:53	See, I don't have a lot of time to ask questions about buzzards and such.	N
-130	00:08:53	00:08:57	That's an aspen tree, in case you were wondering.	N
-131	00:08:57	00:08:58	Lieutenant! Over here.	N
-132	00:09:02	00:09:04	Step away from there, would you please, fellas?	N
-133	00:09:04	00:09:05	Don't disturb the scene.	N
-134	00:09:14	00:09:16	Carabid beetles.	N
-135	00:09:16	00:09:19	Second instar maggots.	N
-136	00:09:25	00:09:26	Formica obscuripes.	N
-137	00:09:27	00:09:28	Let me guess.	N
-138	00:09:28	00:09:30	You like bugs?	N
-139	00:09:30	00:09:32	Yeah, I do. They're perfect.	Y
-140	00:09:32	00:09:35	They always do their jobs.	N
-141	00:09:35	00:09:39	This body's been here four to seven days.	N
-142	00:09:39	00:09:42	How deep would you say this hole is, Lieutenant?	N
-143	00:09:42	00:09:48	I'd say about four feet, depending on...	N
-144	00:09:48	00:09:49	how he's stuffed in there.	N
-145	00:09:49	00:09:54	Takes a fair amount of dedication to dig a hole this deep up here, don't you think?	N
-146	00:09:54	00:09:56	Unless the killer had help.	N
-147	00:09:56	00:09:57	Maybe.	N
-148	00:10:05	00:10:07	It's like you said-- he was cut.	N
-149	00:10:07	00:10:09	This blood's not from a cut.	N
-150	00:10:09	00:10:11	The drops imply directionality.	N
-151	00:10:12	00:10:13	The stellated circles imply...	N
-152	00:10:13	00:10:15	perpendicular impact.	N
-153	00:10:15	00:10:18	This spatter is in direct line with the victim's carotid.	N
-154	00:10:18	00:10:21	It's arterial spurt.	N
-155	00:10:21	00:10:23	Are you saying he was alive when he was buried?	N
-156	00:10:23	00:10:26	I think that the cut we found on his jaw...	N
-157	00:10:26	00:10:29	was a lure to draw predators.	N
-158	00:10:40	00:10:42	This wasn't just murder.	N
-159	00:10:42	00:10:44	It was torture.	N
-160	00:10:49	00:10:53	Hey, Einstein, we going to stand here all day or what?	N
-161	00:10:54	00:10:56	You're going to have to be patient, Lieutenant.	N
-162	00:10:57	00:10:59	The scene hasn't been released yet.	N
-163	00:11:04	00:11:08	You know, this may be a variation on an old Native American form of punishment.	N
-164	00:11:08	00:11:10	The body was bound and buried up to its neck.	N
-165	00:11:10	00:11:15	Tree sap was poured over the head to attract ants.	N
-166	00:11:15	00:11:17	Punishment for what?	N
-167	00:11:17	00:11:18	You see?	N
-168	00:11:18	00:11:20	That's a good question.	N
-169	00:11:22	00:11:24	About time, Dale.	N
-170	00:11:29	00:11:33	You are the coroner, I presume.	N
-171	00:11:33	00:11:34	Mr. Grissom.	N
-172	00:11:34	00:11:35	Dr. Dale Sterling.	N
-173	00:11:35	00:11:36	I sent you the head.	N
-174	00:11:38	00:11:39	How can I help?	N
-175	00:11:39	00:11:43	Well, we can't touch the body until you authorize it.	N
-176	00:11:43	00:11:45	Oh.	N
-177	00:11:52	00:11:54	He's dead.	N
-178	00:11:54	00:11:55	You're authorized.	N
-179	00:11:55	00:11:56	Thanks, Doc. That's nice work.	N
-180	00:11:56	00:11:57	Can we get it out now?	N
-181	00:11:57	00:12:00	There may be evidence in the gravesite.	N
-182	00:12:00	00:12:01	We need to preserve it.	N
-183	00:12:01	00:12:05	Okay, so what do you want to do, call your lab?	N
-184	00:12:05	00:12:07	Have them send the right gear, the right guys, what?	N
-185	00:12:07	00:12:09	The site's already been compromised.	N
-186	00:12:09	00:12:11	We'll make do with what we have here.	N
-187	00:12:11	00:12:14	Now, for each foot of dirt that's removed, go on a separate bag.	N
-188	00:12:14	00:12:16	I'll sift through it later.	N
-189	00:12:16	00:12:18	All right. Out of the way, Doc.	N
-190	00:12:18	00:12:19	Pardon me. Hold on.	N
-191	00:12:19	00:12:22	Make sure your shovels don't get within six inches of that body.	N
-192	00:12:22	00:12:25	Can we please get on with getting him out of there?	N
-193	00:12:25	00:12:26	We're losing light.	N
-194	00:12:42	00:12:45	I was in the 99th percentile on the MCATs.	N
-195	00:12:45	00:12:48	I could have gone to med school.	N
-196	00:12:48	00:12:50	I chose to be a vet.	N
-197	00:12:50	00:12:54	Well, veterinary school's harder to get into than medical school.	N
-198	00:12:54	00:12:57	That's not what I was looking at.	N
-199	00:12:57	00:13:00	This is you and that gal from the diner.	N
-200	00:13:00	00:13:01	Doris.	N
-201	00:13:01	00:13:02	We were married.	N
-202	00:13:02	00:13:04	High school sweethearts.	N
-203	00:13:04	00:13:06	Didn't work out.	N
-204	00:13:09	00:13:12	It's not all just cats and dogs and spays and neuters.	N
-205	00:13:12	00:13:15	I've delivered half a dozen foals by C-section.	N
-206	00:13:15	00:13:17	I know how to cut.	N
-207	00:13:17	00:13:20	I could... I could do the autopsy right here.	N
-208	00:13:20	00:13:24	Only a licensed pathologist can perform an autopsy.	N
-209	00:13:24	00:13:28	All we're allowed to do is search for evidence on the body.	N
-210	00:13:28	00:13:29	And then what?	N
-211	00:13:29	00:13:30	Then we take it to Vegas.	N
-212	00:13:30	00:13:34	Tonight. We'll need someone to drive the body.	N
-213	00:13:34	00:13:36	Barry, it's your lucky day. Get your car.	N
-214	00:13:36	00:13:37	Come on.	N
-215	00:13:37	00:13:39	Our medical examiner will send you his report.	N
-216	00:13:39	00:13:44	You'll need to sign the death certificate as to cause and manner of death.	N
-217	00:13:55	00:13:58	No wallet and no ID.	Y
-218	00:14:05	00:14:07	What have you got there?	N
-219	00:14:07	00:14:09	Well, I'm not sure yet.	N
-220	00:14:22	00:14:24	No ligature marks.	N
-221	00:14:24	00:14:25	Well, he wasn't tied up?	N
-222	00:14:25	00:14:26	Apparently not.	N
-223	00:14:26	00:14:29	Well, no one just lets themselves get buried alive.	N
-224	00:14:29	00:14:31	Well, maybe the killer had a gun on him.	N
-225	00:14:31	00:14:36	Well, you can't dig a hole and hold a gun on an unbound victim all at the same time.	N
-226	00:14:36	00:14:38	Well, maybe the hole was dug earlier?	N
-227	00:14:38	00:14:40	That would imply premeditation.	N
-228	00:14:40	00:14:42	Or more than one killer.	N
-229	00:14:44	00:14:46	Maybe the victim was drugged.	N
-230	00:14:46	00:14:51	Sylvia Rogers's dog got sick after chewing on the victim's head, correct?	N
-231	00:14:52	00:14:53	That's right.	N
-232	00:14:53	00:14:55	Did you do blood work?	N
-233	00:14:55	00:14:56	I sent it off to a lab in Reno.	N
-234	00:14:56	00:14:58	Still waiting for the results.	N
-235	00:14:58	00:14:59	Call the lab.	N
-236	00:14:59	00:15:03	Have them do a full drug and tox panel on the blood.	N
-237	00:15:06	00:15:11	Maybe whatever was in this man's body is also in the dog's.	N
-238	00:15:18	00:15:20	Hold on a second, fellows.	N
-239	00:15:40	00:15:42	Okay.	N
-240	00:15:43	00:15:44	Say cheese.	N
-241	00:15:45	00:15:47	Oh, what the hell was that for?	N
-242	00:15:47	00:15:49	Souvenir.	N
-243	00:15:49	00:15:50	Why, is that French for evidence?	N
-244	00:15:51	00:15:51	Straight drive, Barry.	N
-245	00:15:52	00:15:53	Stay out of the casinos.	N
-246	00:15:53	00:15:55	You got it, boss.	N
-247	00:15:55	00:15:57	You boys have a good night.	N
-248	00:16:02	00:16:04	Man.	N
-249	00:16:04	00:16:07	It was one hell of day.	N
-250	00:16:09	00:16:11	You need a place to sleep?	N
-251	00:16:11	00:16:14	I need a place to work.	N
-252	00:17:09	00:17:11	Did I miss a memo or something?	N
-253	00:17:11	00:17:13	Oh, no.	N
-254	00:17:13	00:17:14	Grissom's on a safari.	N
-255	00:17:14	00:17:17	He's got you pushing his paperwork, huh?	N
-256	00:17:17	00:17:19	Oh, no. I'm trying to avoid that.	N
-257	00:17:19	00:17:24	His headless D.B. had a Western LVU bookstore receipt in his pocket.	Y
-258	00:17:24	00:17:25	Grissom just unraveled it.	Y
-259	00:17:25	00:17:26	Really?	Y
-260	00:17:26	00:17:28	Wow!	Y
-261	00:17:28	00:17:30	Some of these books are 100 bucks a pop.	Y
-262	00:17:30	00:17:33	Tuition, plus room and board-- that's at least another 10K.	Y
-263	00:17:33	00:17:36	You got to have money to go to college these days.	N
-264	00:17:36	00:17:39	Yeah, well, I missed that boat.	N
-265	00:17:39	00:17:42	So, most of these are freshman textbooks.	Y
-266	00:17:42	00:17:44	Core curriculum.	Y
-267	00:17:44	00:17:48	Well, that's at least 2,000 students.	N
-268	00:17:48	00:17:51	Maybe you'll get lucky with the victim's prints.	N
-269	00:17:51	00:17:52	Oh, wait. Hang on.	N
-270	00:17:52	00:17:55	Chiaroscuro Theory and Technique.	N
-271	00:17:55	00:17:57	It's a sophomore-level Fine Arts text.	Y
-272	00:17:57	00:18:00	Freshman in a sophomore course?	Y
-273	00:18:00	00:18:02	Narrows the field.	Y
-274	00:18:04	00:18:08	Actually, we're here about your roommate, Ross Jenson.	N
-275	00:18:08	00:18:10	Do you know where we can find him?	N
-276	00:18:10	00:18:12	Uh, I actually haven't even seen him since last Friday.	Y
-277	00:18:12	00:18:15	I had Wheezer tickets, and we were supposed to go, but he, uh, he blew me off.	Y
-278	00:18:15	00:18:17	Gone almost a week. That normal?	N
-279	00:18:17	00:18:19	Yeah, he's an art student, you know.	N
-280	00:18:19	00:18:21	He goes off a lot, and for days sometimes.	N
-281	00:18:21	00:18:23	Uh-huh.	N
-282	00:18:23	00:18:30	I've been, uh, studying my ass off for this American History midterm, but, uh, feel free to have a look around.	N
-283	00:18:39	00:18:42	That's not mine.	N
-284	00:18:42	00:18:43	I don't know what that is.	N
-285	00:18:43	00:18:44	Relax, buddy.	N
-286	00:18:44	00:18:48	This is a homicide investigation.	N
-287	00:18:55	00:18:57	Are these Ross's shoes?	N
-288	00:19:01	00:19:04	What do you got?	N
-289	00:19:08	00:19:09	Aspen leaf.	N
-290	00:19:09	00:19:11	A little piece of the countryside.	N
-291	00:19:11	00:19:15	Has Ross spent a lot of time up in northern Nevada?	N
-292	00:19:15	00:19:17	Yeah, he liked the scenery up there.	N
-293	00:19:17	00:19:21	We're going to need to take that computer and a few things back to the lab.	N
-294	00:19:21	00:19:23	Okay.	N
-295	00:19:44	00:19:46	Yeah.	N
-296	00:19:46	00:19:48	Came in here last week. Handsome boy.	N
-297	00:19:48	00:19:50	Nice clothes.	N
-298	00:19:50	00:19:52	Just passing through.	N
-299	00:19:52	00:19:55	There's, uh, fried chicken, me...	N
-300	00:19:55	00:19:58	Coffee's about all I can handle right now.	N
-301	00:19:58	00:20:00	Maybe some other time, okay?	N
-302	00:20:00	00:20:02	Guess you weren't his type.	N
-303	00:20:02	00:20:05	Wasn't he the guy driving that gutless little four-banger?	N
-304	00:20:05	00:20:06	What kind of car was it?	Y
-305	00:20:07	00:20:08	I don't know. Kid's car.	N
-306	00:20:08	00:20:10	Something to drive around the city.	N
-307	00:20:10	00:20:12	It's no good for hills.	N
-308	00:20:12	00:20:14	Black, or, what, blue, maybe.	N
-309	00:20:14	00:20:15	Lieutenant?	N
-310	00:20:15	00:20:17	Yeah.	N
-311	00:20:17	00:20:18	The victim was on his way out of town.	N
-312	00:20:18	00:20:20	We know he didn't get very far.	N
-313	00:20:20	00:20:21	So where's his vehicle?	N
-314	00:20:21	00:20:25	Anybody here seen a black or blue mystery vehicle?	N
-315	00:20:25	00:20:27	No. Uh-uh.	N
-316	00:20:27	00:20:28	No.	N
-317	00:20:28	00:20:31	Well, I'd say that car's long gone by now.	N
-318	00:20:31	00:20:35	If the killer was a local, he could have ditched the car somewhere near here.	N
-319	00:20:38	00:20:40	Do you have a local suspect?	N
-320	00:20:40	00:20:41	It's a theory.	N
-321	00:20:41	00:20:42	Oh.	N
-322	00:20:42	00:20:45	And like any theory, it doesn't mean anything unless you can prove it.	N
-323	00:20:45	00:20:46	Yeah.	N
-324	00:20:46	00:20:47	May I borrow this?	N
-325	00:20:49	00:20:50	The victim was last seen here, right?	N
-326	00:20:50	00:20:53	Yeah. We found his body here. Mm-hmm.	N
-327	00:20:53	00:20:55	This is the only way out of town.	N
-328	00:20:55	00:20:58	The killer had to intercept him somewhere along this road.	N
-329	00:20:58	00:21:00	Knock yourself out.	N
-330	00:23:39	00:23:43	Hey, Doc, I need to use some of your medical supplies and make a telephone call.	N
-331	00:23:43	00:23:44	It's local.	N
-332	00:23:44	00:23:45	Uh... okay.	N
-333	00:23:59	00:24:00	Did you tint these windows yourself?	N
-334	00:24:00	00:24:03	M...aybe not the best job in the world, but it does the trick.	N
-335	00:24:04	00:24:06	Do you have any tinting film left?	N
-336	00:24:06	00:24:07	Think so.	N
-337	00:24:07	00:24:08	May I use it?	N
-338	00:24:08	00:24:10	Okay. I'll have to go check.	N
-339	00:24:13	00:24:15	Oh, good, the police.	N
-340	00:24:15	00:24:16	I'd like to report a crime.	N
-341	00:24:16	00:24:17	No kidding?	N
-342	00:24:17	00:24:20	Yeah, my vehicle was broken into and my field kit was stolen.	N
-343	00:24:20	00:24:21	That's going to cramp your style.	N
-344	00:24:21	00:24:24	Not necessarily.	N
-345	00:24:27	00:24:29	Would you keep an eye on this for me?	N
-346	00:24:30	00:24:31	Sure.	N
-347	00:24:31	00:24:32	Thanks.	N
-348	00:24:32	00:24:34	Excuse me.	N
-349	00:24:58	00:25:03	Listen, why don't you come on by and fill out a report about that kit.	N
-350	00:25:03	00:25:04	You think that would help?	N
-351	00:25:06	00:25:08	It wouldn't hurt.	N
-352	00:25:08	00:25:10	I, uh, found the victim's car.	N
-353	00:25:10	00:25:12	Well, I am impressed.	N
-354	00:25:12	00:25:14	Wh... Where was it?	N
-355	00:25:14	00:25:16	It was, uh, ditched in an old barn up in the hills.	N
-356	00:25:17	00:25:18	Uh-huh.	N
-357	00:25:18	00:25:21	I know you don't have any men to spare, so I called the Highway Patrol.	N
-358	00:25:21	00:25:23	They're sending troopers up there to secure the site.	N
-359	00:25:23	00:25:25	Oh, well, nearest station's in Elko.	N
-360	00:25:25	00:25:28	Should take 'em a couple hours to get here.	N
-361	00:25:28	00:25:32	Well, that should, uh, give you enough time to burn down the barn.	N
-362	00:27:06	00:27:10	You going to just stand there, or are you coming in?	N
-363	00:27:10	00:27:12	Oh, I don't want to disturb the scene.	N
-364	00:27:12	00:27:14	You carry on.	N
-365	00:27:14	00:27:18	Shame to see so much work go to waste.	N
-366	00:27:22	00:27:25	What does that mean exactly?	N
-367	00:27:25	00:27:30	Well, unless you've managed to improvise yourself a warrant as well, this is an illegal search.	N
-368	00:27:30	00:27:40	This barn had been broken into, which makes it a crime scene, even without the murder victim's car inside, so I don't need a warrant.	N
-369	00:27:41	00:27:42	Who owns this place?	N
-370	00:27:42	00:27:44	Nobody.	N
-371	00:27:44	00:27:45	Owner died a few years ago.	N
-372	00:27:45	00:27:49	Well, then who's responsible for the property?	N
-373	00:27:49	00:27:51	His nephew.	N
-374	00:27:51	00:27:53	Marty Cooperman.	N
-375	00:27:53	00:27:55	Runs the gas station.	N
-376	00:27:55	00:27:58	Is that who you're protecting?	N
-377	00:28:21	00:28:24	Hey, you think you can fix this window?	N
-378	00:28:28	00:28:30	Yeah, I think I can fix that.	N
-379	00:28:30	00:28:32	You know that kid that got murdered?	N
-380	00:28:32	00:28:35	We found his car up in the hills.	N
-381	00:28:35	00:28:37	In your uncle's old barn.	N
-382	00:28:38	00:28:41	Oh, I haven't been up there for years.	N
-383	00:28:41	00:28:44	That's understandable. It's hard to get to.	N
-384	00:28:44	00:28:46	Not too many gas stations around here.	N
-385	00:28:46	00:28:49	You must do pretty good business.	N
-386	00:28:49	00:28:51	Yeah, I got the only pumps for 23 miles.	N
-387	00:28:51	00:28:53	I do pretty good.	N
-388	00:28:55	00:28:58	You know, uh, the victim's car was full of gas.	N
-389	00:28:59	00:29:02	So you must've seen him, right, even though you said you didn't?	N
-390	00:29:02	00:29:09	I can have your window fixed in a couple hours, Mr. Grissom, and then you can get back home.	N
-391	00:29:09	00:29:12	I think you should do that.	N
-392	00:29:20	00:29:22	Grissom.	N
-393	00:29:22	00:29:25	Everybody in Sleepy Hollow still drawing a blank on the victim?	N
-394	00:29:25	00:29:26	More or less.	N
-395	00:29:26	00:29:28	Well, then somebody's lying.	N
-396	00:29:28	00:29:31	Ross Jenson was having a relationship with someone in Jackpot.	N
-397	00:29:31	00:29:34	Greg traced a series of romantic IMs from your victim's computer.	N
-398	00:29:34	00:29:35	Greg did?	N
-399	00:29:35	00:29:36	Yeah, he knows stuff.	N
-400	00:29:36	00:29:38	Pretty hot stuff, too.	N
-401	00:29:38	00:29:39	Sounds like he was in love.	N
-402	00:29:39	00:29:41	Brass is still working on a court order for the name.	N
-403	00:29:41	00:29:43	You ever coming back?	N
-404	00:29:45	00:29:46	Hopefully.	N
-405	00:29:46	00:29:49	Ms. Willows, this came for you, certified mail.	N
-406	00:29:49	00:29:52	Oh. Thanks, Judy.	N
-407	00:30:20	00:30:24	Just got the blood test results back from Sylvia's dog.	N
-408	00:30:24	00:30:27	There were traces of GHB in his system.	N
-409	00:30:27	00:30:31	I thought GHB was a party drug.	N
-410	00:30:31	00:30:33	It is.	N
-411	00:30:33	00:30:35	It's also a powerful sedative.	N
-412	00:30:35	00:30:37	Could be what was used to subdue him.	N
-413	00:30:37	00:30:39	You know anybody in town that would use this?	N
-414	00:30:40	00:30:43	Uh, weed and speed are the drugs of choice around here.	N
-415	00:30:44	00:30:46	Hey, Doc, take a look at the scope, will you?	N
-416	00:30:48	00:30:52	I found some hairs in Ross Jenson's shirts.	N
-417	00:30:52	00:30:55	That is cat hair.	Y
-418	00:30:55	00:30:57	Tricolored.	Y
-419	00:30:57	00:30:58	Probably...	N
-420	00:30:58	00:31:00	Abyssinian.	N
-421	00:31:00	00:31:04	You wouldn't happen to have any Abyssinian patients?	N
-422	00:31:04	00:31:07	One.	N
-423	00:31:08	00:31:10	Uh... Ah.	N
-424	00:31:10	00:31:12	Here she is.	N
-425	00:31:12	00:31:14	Isis.	N
-426	00:31:14	00:31:17	Her owner has allergies.	N
-427	00:31:17	00:31:23	He needed an aggressive, shorthair mouser.	N
-428	00:31:29	00:31:31	Excuse me, Lieutenant.	N
-429	00:31:31	00:31:33	We need to talk.	N
-430	00:31:33	00:31:34	So talk.	N
-431	00:31:34	00:31:36	Privately, please.	N
-432	00:31:36	00:31:38	Just call them.	N
-433	00:31:41	00:31:42	What?	N
-434	00:31:42	00:31:46	Ross Jenson was having a romantic relationship with someone in this town.	N
-435	00:31:46	00:31:48	And you can you prove that?	N
-436	00:31:48	00:31:49	Yes.	N
-437	00:31:49	00:31:51	I believe he was up here visiting that person.	N
-438	00:31:52	00:31:54	I found cat hairs on his T-shirts.	N
-439	00:31:54	00:31:56	From an Abyssinian cat.	N
-440	00:31:56	00:31:58	The kind your brother owns.	N
-441	00:31:58	00:32:02	Just what the hell are you saying?	N
-442	00:32:02	00:32:04	Does your brother live alone?	N
-443	00:32:04	00:32:05	Yes.	N
-444	00:32:06	00:32:08	Is he gay?	N
-445	00:32:08	00:32:09	That is nobody's business.	N
-446	00:32:09	00:32:12	I realize that, but it's relevant to this investigation.	N
-447	00:32:12	00:32:14	No, he was married. He has a kid.	N
-448	00:32:14	00:32:15	Was married?	N
-449	00:32:15	00:32:16	She left him flat, ten years ago. So, what?	N
-450	00:32:16	00:32:20	Look, whether you like it or not, Leland is a suspect.	N
-451	00:32:20	00:32:22	But you already knew that.	N
-452	00:32:22	00:32:24	I'm giving you an opportunity, Lieutenant.	N
-453	00:32:24	00:32:27	So far, you're only guilty of being a good brother.	N
-454	00:32:28	00:32:30	Get in.	N
-455	00:32:38	00:32:39	What are you worried about?	N
-456	00:32:39	00:32:42	You do have a gun, don't you?	N
-457	00:33:05	00:33:09	Look, um, just give me a minute with him.	N
-458	00:33:14	00:33:16	Hey, Bubba.	N
-459	00:33:16	00:33:18	Leland.	N
-460	00:33:18	00:33:19	We need to ask you a few...	N
-461	00:33:19	00:33:20	What's he doing here?	N
-462	00:33:20	00:33:22	Never mind him.	N
-463	00:33:22	00:33:24	You and I need to have a talk.	N
-464	00:33:58	00:34:00	Put that down! I don't know what you're talking about.	N
-465	00:34:00	00:34:02	Put that down! I don't know what you're talking about!	N
-466	00:34:04	00:34:05	Let me do this! Don't you...!	N
-467	00:34:05	00:34:07	Leland! Let me do this!	N
-468	00:34:07	00:34:09	Leland! Let me do this!	N
-469	00:34:24	00:34:25	You're going to keep Leland in there, right?	N
-470	00:34:26	00:34:30	Yeah, until he's ready to go home.	N
-471	00:34:30	00:34:33	He took at shot at me, and he tried to kill himself.	N
-472	00:34:33	00:34:35	That's not the way I saw it.	N
-473	00:34:35	00:34:38	FYI, Leland's always run pretty hot.	N
-474	00:34:38	00:34:40	That's no secret.	N
-475	00:34:42	00:34:48	Matter of fact, back in high school he and Marty Cooperman played football together.	N
-476	00:34:48	00:34:53	One Friday night, after a couple of beers, Marty started busting on Leland.	N
-477	00:34:53	00:34:56	And Leland just busts him back.	N
-478	00:34:56	00:34:59	And I helped.	N
-479	00:35:00	00:35:03	And we fractured Marty's leg in three places.	N
-480	00:35:03	00:35:06	So I should be grateful that you showed restraint with me.	N
-481	00:35:06	00:35:08	No, I didn't do it for you.	N
-482	00:35:10	00:35:14	A man shouldn't go through life ashamed of who he is.	N
-483	00:35:32	00:35:33	What is this?	N
-484	00:35:33	00:35:35	A way to get you to talk to me.	N
-485	00:35:35	00:35:36	Well, I didn't come here to talk.	N
-486	00:35:36	00:35:37	I came to give it back.	N
-487	00:35:37	00:35:39	Not enough?	N
-488	00:35:42	00:35:45	You're a murderer.	N
-489	00:35:45	00:35:47	Not in the eyes of the law.	N
-490	00:35:48	00:35:49	You look good, Mugs.	N
-491	00:35:49	00:35:52	How's Lindsey?	N
-492	00:35:52	00:35:53	She likes horses, right?	N
-493	00:35:53	00:35:55	Lindsey's none of your business.	N
-494	00:35:55	00:35:56	You keep her out of this.	N
-495	00:35:56	00:35:58	I'm her grandfather.	N
-496	00:35:58	00:36:02	Yeah, well, nothing I can do about that.	N
-497	00:36:02	00:36:04	Catherine, it's just a gift.	N
-498	00:36:04	00:36:05	You need the money.	N
-499	00:36:05	00:36:12	And the next time you stab one of your showgirls and you need CSI to cover it, I'm supposed to help you out, right? Take a good look at me.	N
-500	00:36:12	00:36:15	Plenty of fresh air, sun on my face.	N
-501	00:36:17	00:36:18	You think I need your help?	N
-502	00:36:20	00:36:22	I don't need your charity.	N
-503	00:36:22	00:36:23	You know what your problem is?	N
-504	00:36:24	00:36:27	You enjoy making life hard.	Y
-505	00:36:27	00:36:30	You're lucky Lindsey's too young to understand that.	Y
-506	00:36:30	00:36:33	Cash it, or tear it up.	Y
-507	00:36:33	00:36:34	Do whatever you want.	Y
-508	00:36:34	00:36:37	I have one son in jail...	Y
-509	00:36:37	00:36:40	another in the ground.	Y
-510	00:36:40	00:36:42	I never did right by your mother.	Y
-511	00:36:42	00:36:44	But I'm damn sure going to try to do right by you.	Y
-512	00:37:09	00:37:12	Hey, Catherine...	Y
-513	00:37:12	00:37:13	Hey.	Y
-514	00:37:13	00:37:14	What's up?	Y
-515	00:37:14	00:37:17	A possible inconsistency.	N
-516	00:37:19	00:37:20	Hey...	N
-517	00:37:21	00:37:22	you have a phone call.	Y
-518	00:37:22	00:37:25	Line two. I think it's your wife.	Y
-519	00:37:25	00:37:27	Thanks.	N
-520	00:37:29	00:37:30	Hello, dear.	N
-521	00:37:30	00:37:37	The day Ross Jenson left Vegas, he used MapQuest to get directions from his dorm to Jackpot.	N
-522	00:37:37	00:37:38	Well, that makes sense.	Y
-523	00:37:38	00:37:41	From what I've been able to gather, this was his first and only visit up here.	Y
-524	00:37:41	00:37:43	Well, that doesn't make sense.	Y
-525	00:37:43	00:37:45	He was involved with someone in Jackpot for several months.	Y
-526	00:37:45	00:37:49	There were traces of aspen leaves in his dorm room closet.	N
-527	00:37:49	00:37:51	I just assumed he'd been there before.	Y
-528	00:37:51	00:37:57	Well, if I believe this was his first and only visit, how do we explain the leaves in his closet?	Y
-529	00:37:57	00:37:59	He has a roommate.	Y
-530	00:37:59	00:38:00	Does the roommate have a name?	Y
-531	00:38:00	00:38:04	Yeah, his name is...	N
-532	00:38:04	00:38:05	Eric Brooks.	N
-533	00:38:05	00:38:07	Eric Brooks?	N
-534	00:38:07	00:38:09	Oh, yeah, that's Leland's boy.	N
-535	00:38:09	00:38:11	You guys going to tell him about his dad?	N
-536	00:38:13	00:38:16	Did you know your father was having a sexual relationship with Ross Jenson?	N
-537	00:38:17	00:38:18	My dad's not gay.	N
-538	00:38:18	00:38:20	Was Ross?	N
-539	00:38:20	00:38:22	We never talked about it.	N
-540	00:38:22	00:38:24	Were you in Jackpot, Nevada last weekend?	N
-541	00:38:24	00:38:26	No.	N
-542	00:38:26	00:38:27	Ross Jenson was...	N
-543	00:38:27	00:38:28	visiting your dad.	N
-544	00:38:28	00:38:32	We found his car ditched in a barn outside town.	N
-545	00:38:32	00:38:39	We got your fingerprints from a former ROTC commander of yours, and...	Y
-546	00:38:39	00:38:41	they matched a print that we recovered from the steering wheel.	N
-547	00:38:42	00:38:44	He let me borrow his car all the time.	N
-548	00:38:44	00:38:45	We were roommates.	Y
-549	00:38:45	00:38:47	That's right. You don't own a car.	Y
-550	00:38:47	00:38:49	You ride a motorcycle.	N
-551	00:38:51	00:38:53	Yeah.	Y
-552	00:38:53	00:38:54	So?	Y
-553	00:38:54	00:38:57	Could I see the bottom of your shoes, please?	Y
-554	00:39:07	00:39:09	Well, that's an unusual wear pattern.	Y
-555	00:39:09	00:39:13	Matches the shoe print we recovered from the barn near the vehicle.	Y
-556	00:39:13	00:39:16	Put a lot of miles on your bike. It shows.	Y
-557	00:39:18	00:39:20	You were there.	N
-558	00:39:32	00:39:35	Eric must've known for a while.	N
-559	00:39:35	00:39:38	How did you intend to keep the relationship from your own son?	N
-560	00:39:38	00:39:41	I've been hiding it my whole life.	Y
-561	00:39:43	00:39:45	You knew.	N
-562	00:39:45	00:39:48	Yeah...	Y
-563	00:39:48	00:39:50	I figured you'd tell me when you were ready.	N
-564	00:39:50	00:39:53	I saw you with Ross.	Y
-565	00:39:53	00:39:55	I stopped by here last weekend.	Y
-566	00:39:59	00:40:01	You and he were taking a walk.	Y
-567	00:40:05	00:40:08	I'm sorry. You got nothing to be sorry about.	Y
-568	00:40:08	00:40:10	Nothing.	N
-569	00:40:12	00:40:15	Lee, it turns out Eric...	Y
-570	00:40:15	00:40:18	Mr. Brooks, your son killed Ross Jenson.	Y
-571	00:40:18	00:40:20	That is not possible.	N
-572	00:40:20	00:40:24	According to the evidence, it is.	N
-573	00:40:25	00:40:31	We tested the thermos and found traces of GHB.	N
-574	00:40:31	00:40:35	You used Ross' drugs to subdue him.	N
-575	00:40:35	00:40:38	It's a long drive from Jackpot to Vegas.	N
-576	00:40:38	00:40:41	You knew he'd stop for a refill before he left town.	N
-577	00:40:54	00:40:59	Eric never could deal with the fact that his mother left.	N
-578	00:40:59	00:41:02	She just wanted a husband.	N
-579	00:41:02	00:41:04	All I wanted was a family.	N
-580	00:41:08	00:41:09	People in town...	N
-581	00:41:09	00:41:12	they said my dad was different.	N
-582	00:41:12	00:41:14	But he wasn't. He was just lonely.	N
-583	00:41:14	00:41:18	And Ross, like, totally used that to ruin him.	N
-584	00:41:19	00:41:21	It was all Ross.	N
-585	00:41:21	00:41:22	That why you drugged him?	N
-586	00:41:22	00:41:25	Drove him into the woods?	N
-587	00:41:25	00:41:26	Put him in a hole...	N
-588	00:41:32	00:41:34	buried him up to his neck...	N
-589	00:41:37	00:41:38	cut him...	N
-590	00:41:40	00:41:41	What are you doing?	N
-591	00:41:43	00:41:45	Why didn't you go the distance?	N
-592	00:41:45	00:41:50	Why didn't you finish him off yourself? Because I wanted him to suffer.	N
-593	00:41:51	00:41:54	Because he was in love with your father?	N
-594	00:41:56	00:41:59	Or because he wasn't in love with you?	N
-595	00:42:06	00:42:08	I don't suppose that comes with a warranty?	N
-596	00:42:08	00:42:10	Nothing around here does, Mr. Grissom.	N
-597	00:42:10	00:42:12	Thanks for the business.	N
-598	00:42:12	00:42:13	Hey, Marty.	N
-599	00:42:15	00:42:17	Does he ever talk to you?	N
-600	00:42:17	00:42:19	Not one word since high school.	N
-601	00:42:21	00:42:26	Listen, when we found that torso in the hole, on the crest of that hill...	N
-602	00:42:26	00:42:30	I recognized the kid's shirt, and I knew he'd been with Leland, so...	N
-603	00:42:30	00:42:33	So you assumed your brother was capable of murder.	N
-604	00:42:33	00:42:36	Didn't even ask him what happened.	N
-605	00:42:36	00:42:39	Questions, remember?	N
-606	00:42:39	00:42:43	Not asking them is what got everybody in trouble here in the first place.	N
-607	00:42:43	00:42:46	You don't keep any secrets, Mr. Grissom?	N
-608	00:42:46	00:42:48	Not even from your wife?	N
-609	00:42:52	00:42:55	I used to. I'm trying to change.	N
-610	00:42:57	00:42:58	It's a bitch.	N
-611	00:43:00	00:43:02	Have a good trip.	N
+	Unnamed: 0.1	Unnamed: 0	start	end	text	label
+0	0	0	00:01:01	00:01:03	I heard you got some head.	N
+1	1	1	00:01:03	00:01:04	Just came in.	N
+2	2	2	00:01:04	00:01:05	How'd you know?	N
+3	3	3	00:01:05	00:01:11	I arranged house seats for David to see Celine, so he pages me the minute you get anything perishable.	N
+4	4	4	00:01:11	00:01:12	Sellout.	N
+5	5	5	00:01:18	00:01:19	Oh... formaldehyde.	N
+6	6	6	00:01:19	00:01:22	Yeah, it fixes tissue, but it destroys DNA.	N
+7	7	7	00:01:22	00:01:24	No ID through CODIS.	N
+8	8	8	00:01:24	00:01:26	Quite a bit of leaf litter.	N
+9	9	9	00:01:26	00:01:29	Puncture wound above the orbital plate.	N
+10	10	10	00:01:30	00:01:32	That looks like animal activity.	N
+11	11	11	00:01:32	00:01:33	Heavy decomp.	N
+12	12	12	00:01:33	00:01:34	It's going to be, uh...	N
+13	13	13	00:01:35	00:01:38	virtually impossible to determine time of death.	N
+14	14	14	00:01:38	00:01:39	This neck wasn't severed.	N
+15	15	15	00:01:39	00:01:40	It was disarticulated.	N
+16	16	16	00:01:40	00:01:43	No skill involved.	N
+17	17	17	00:01:45	00:01:46	Oh-oh.	N
+18	18	18	00:01:46	00:01:47	I take that back.	N
+19	19	19	00:01:47	00:01:50	That took skill.	N
+20	20	20	00:01:55	00:01:57	The unkindest cut of all.	N
+21	21	21	00:02:36	00:02:38	There's more plant material here than geological.	N
+22	22	22	00:02:39	00:02:42	Hair roots and scalp are relatively clean.	N
+23	23	23	00:02:44	00:02:46	So the vic wasn't buried?	N
+24	24	24	00:02:46	00:02:47	You tell me.	N
+25	25	25	00:02:47	00:02:48	I will.	N
+26	26	26	00:02:48	00:02:53	Leaves and needles and dirt-- that's good as a map.	N
+27	27	27	00:03:01	00:03:02	Any idea when Grissom'll be back?	N
+28	28	28	00:03:02	00:03:04	Nope.	N
+29	29	29	00:03:04	00:03:05	It's going to be a while.	N
+30	30	30	00:03:07	00:03:09	Jackpot, Nevada.	N
+31	31	31	00:03:09	00:03:11	Where the hell is that?	N
+32	32	32	00:04:07	00:04:08	Good morning.	N
+33	33	33	00:04:08	00:04:10	I'm with the Las Vegas Crime Lab, and I...	N
+34	34	34	00:04:10	00:04:11	Hey, Alan!	N
+35	35	35	00:04:11	00:04:12	This guy's here about the head.	N
+36	36	36	00:04:14	00:04:16	Bet a wolf got him.	N
+37	37	37	00:04:16	00:04:18	There's no wolves around here, dumbass.	N
+38	38	38	00:04:18	00:04:19	Bears.	N
+39	39	39	00:04:19	00:04:21	Ten bucks says satanic cult.	N
+40	40	40	00:04:21	00:04:22	Lieutenant Alan Brooks.	N
+41	41	41	00:04:22	00:04:24	This is my brother Leland.	N
+42	42	42	00:04:24	00:04:26	How do you do? Gil Grissom, Las Vegas Crime Lab.	N
+43	43	43	00:04:26	00:04:28	May I?	N
+44	44	44	00:04:28	00:04:29	Have a seat.	N
+45	45	45	00:04:29	00:04:33	Things must be pretty slow in Vegas to get one of you guys out here so quick.	N
+46	46	46	00:04:33	00:04:35	Well, the Elko County Sheriff made the request.	N
+47	47	47	00:04:35	00:04:36	We were happy to respond.	N
+48	48	48	00:04:36	00:04:37	It's an interesting case.	N
+49	49	49	00:04:37	00:04:40	Mmm, not particularly.	N
+50	50	50	00:04:40	00:04:44	It was probably some hiker or transient who got lost, took a bad luck fall.	N
+51	51	51	00:04:44	00:04:46	Must have been a heck of a fall.	N
+52	52	52	00:04:46	00:04:48	His head's in a plastic jar.	N
+53	53	53	00:04:48	00:04:50	Listen, I filed the report.	N
+54	54	54	00:04:50	00:04:51	I sent in the head.	N
+55	55	55	00:04:51	00:04:54	Five'll get you ten, there's not much left of that body out there but coyote turds.	N
+56	56	56	00:04:56	00:04:59	Look, nobody from this community's been reported missing.	N
+57	57	57	00:04:59	00:05:03	And I just don't have the resources to go searching for what might be left.	N
+58	58	58	00:05:03	00:05:05	Well, you do now.	N
+59	59	59	00:05:05	00:05:08	There'd better be a whole lot more of you out there.	N
+60	60	60	00:05:10	00:05:12	Have a good one, Marty.	N
+61	61	61	00:05:14	00:05:21	Lieutenant, the preliminary autopsy revealed a single, straight, two-inch cut on the victim's jaw.	N
+62	62	62	00:05:21	00:05:24	It was a blade mark.	N
+63	63	63	00:05:24	00:05:28	So, there's not just a body out there, there's also a killer.	N
+64	64	64	00:05:30	00:05:33	Of all the plant life gathered from the head, the conifers are the key.	N
+65	65	65	00:05:33	00:05:36	The one on the left-- Abies zasiocarpa.	N
+66	66	66	00:05:36	00:05:41	The one on the right is Picea engelmannii, Engelmann spruce.	N
+67	67	67	00:05:41	00:05:43	Spruce and fir trees.	N
+68	68	68	00:05:44	00:05:45	Typical mountain forest.	N
+69	69	69	00:05:46	00:05:48	Typical for 9,000 feet above sea level.	N
+70	70	70	00:05:48	00:05:51	The wood fragments are either cottonwood or aspen.	N
+71	71	71	00:05:51	00:05:53	And aspens only grow in areas that have been cleared.	N
+72	72	72	00:05:53	00:05:57	Fire, roads or... logging.	N
+73	73	73	00:05:58	00:06:03	After a major forest fire, manzanita bushes grow like weeds for decades.	N
+74	74	74	00:06:03	00:06:06	No manzanita leaves here.	N
+75	75	75	00:06:06	00:06:13	Which means that the head was on a damp north-facing slope, at least 9,000 feet up, cleared, but not recently exposed to fire.	N
+76	76	76	00:06:14	00:06:15	Grissom.	N
+77	77	77	00:06:15	00:06:18	Is the service actually bad out there or are you just keeping your phone off?	N
+78	78	78	00:06:18	00:06:20	I'm sorry. I should've called.	N
+79	79	79	00:06:20	00:06:24	This trip wouldn't have anything to do with you ducking case reviews, now would it?	N
+80	80	80	00:06:24	00:06:25	How can you think that?	N
+81	81	81	00:06:25	00:06:27	You wouldn't mind taking care of those for me, would you?	N
+82	82	82	00:06:27	00:06:30	Oh, your job, my pay. Why would I care?	N
+83	83	83	00:06:30	00:06:31	I'll make it up to you.	N
+84	84	84	00:06:31	00:06:32	Yeah, you had better.	N
+85	85	85	00:06:40	00:06:43	Hodges ID'd your leaf litter.	N
+86	86	86	00:06:44	00:06:47	Good. Thanks. I owe you one.	N
+87	87	87	00:06:47	00:06:48	Trouble with the wife?	N
+88	88	88	00:06:48	00:06:49	Yeah.	N
+89	89	89	00:06:49	00:06:52	She hates it when we're apart.	N
+90	90	90	00:06:53	00:06:55	So your dog found the head?	N
+91	91	91	00:06:56	00:06:59	Well, Tripper's not exactly a Chihuahua.	N
+92	92	92	00:06:59	00:07:01	Goes where he wants, comes back for dinner.	N
+93	93	93	00:07:01	00:07:03	Sometimes he brings dinner back.	N
+94	94	94	00:07:03	00:07:06	Tripper! Come on, buddy, dinner.	N
+95	95	95	00:07:06	00:07:09	Oh, what is it this time, a rabbit or a possum?	N
+96	96	96	00:07:09	00:07:10	Is he okay?	N
+97	97	97	00:07:10	00:07:12	Well, he got a little lethargic after chewing on that head.	N
+98	98	98	00:07:12	00:07:14	Took him to the vet, ran some tests.	N
+99	99	99	00:07:14	00:07:15	He got better.	N
+100	100	100	00:07:15	00:07:16	I just want to keep him that way.	N
+101	101	101	00:07:17	00:07:21	Where there's a head there's got to be hands and feet, and sooner or later, he'll dig 'em up.	N
+102	102	102	00:07:21	00:07:22	Or what's left of 'em.	N
+103	103	103	00:07:22	00:07:25	No offense, Sylvia, but he's not exactly a scent hound.	N
+104	104	104	00:07:25	00:07:28	All animals can smell rotting flesh.	N
+105	105	105	00:07:28	00:07:33	Studies have shown that when domestic pets bring back human body parts, usually the remains are within a half-mile radius.	N
+106	106	106	00:07:33	00:07:34	They do studies on that?	N
+107	107	107	00:07:34	00:07:36	It occurs more than you think.	N
+108	108	108	00:07:36	00:07:39	Have you noticed any buzzards or vultures around?	N
+109	109	109	00:07:39	00:07:40	All the time.	N
+110	110	110	00:07:41	00:07:41	Thanks.	N
+111	111	111	00:07:46	00:07:48	So, are we done here?	N
+112	112	112	00:07:50	00:07:52	This slope faces north, doesn't it?	N
+113	113	113	00:07:53	00:07:54	Yeah.	N
+114	114	114	00:07:54	00:07:56	You know that old expression, heads will roll?	N
+115	115	115	00:07:56	00:07:59	It's true-- especially downhill.	N
+116	116	116	00:08:00	00:08:03	Barry, drop the doughnut.	N
+117	117	117	00:08:03	00:08:05	You gotta earn your pay today.	N
+118	118	118	00:08:12	00:08:13	Afraid you're going to trip over something?	N
+119	119	119	00:08:13	00:08:14	I'm hoping.	N
+120	120	120	00:08:14	00:08:16	Bodies make good fertilizer.	N
+121	121	121	00:08:17	00:08:20	You often see fresh, green shoots near a gravesite.	N
+122	122	122	00:08:20	00:08:23	Must be nice to know the answer to every little thing.	N
+123	123	123	00:08:23	00:08:25	I prefer questions, actually.	N
+124	124	124	00:08:26	00:08:28	And I don't, I suppose.	N
+125	125	125	00:08:28	00:08:31	Remember that waitress, Doris?	N
+126	126	126	00:08:31	00:08:35	Well, she's got an ex-husband likes to smack her around every once in a while.	N
+127	127	127	00:08:36	00:08:45	High school's got a dozen meth-heads who like boosting motorcycles and then drag racing 'em down Main Street, when they think nobody's watching.	N
+128	128	128	00:08:45	00:08:47	Fire chief's a closet pyro, and so forth.	N
+129	129	129	00:08:47	00:08:53	See, I don't have a lot of time to ask questions about buzzards and such.	N
+130	130	130	00:08:53	00:08:57	That's an aspen tree, in case you were wondering.	N
+131	131	131	00:08:57	00:08:58	Lieutenant! Over here.	N
+132	132	132	00:09:02	00:09:04	Step away from there, would you please, fellas?	N
+133	133	133	00:09:04	00:09:05	Don't disturb the scene.	N
+134	134	134	00:09:14	00:09:16	Carabid beetles.	N
+135	135	135	00:09:16	00:09:19	Second instar maggots.	N
+136	136	136	00:09:25	00:09:26	Formica obscuripes.	N
+137	137	137	00:09:27	00:09:28	Let me guess.	N
+138	138	138	00:09:28	00:09:30	You like bugs?	N
+139	139	139	00:09:30	00:09:32	Yeah, I do. They're perfect.	N
+140	140	140	00:09:32	00:09:35	They always do their jobs.	N
+141	141	141	00:09:35	00:09:39	This body's been here four to seven days.	N
+142	142	142	00:09:39	00:09:42	How deep would you say this hole is, Lieutenant?	N
+143	143	143	00:09:42	00:09:48	I'd say about four feet, depending on...	N
+144	144	144	00:09:48	00:09:49	how he's stuffed in there.	N
+145	145	145	00:09:49	00:09:54	Takes a fair amount of dedication to dig a hole this deep up here, don't you think?	N
+146	146	146	00:09:54	00:09:56	Unless the killer had help.	N
+147	147	147	00:09:56	00:09:57	Maybe.	N
+148	148	148	00:10:05	00:10:07	It's like you said-- he was cut.	N
+149	149	149	00:10:07	00:10:09	This blood's not from a cut.	N
+150	150	150	00:10:09	00:10:11	The drops imply directionality.	N
+151	151	151	00:10:12	00:10:13	The stellated circles imply...	N
+152	152	152	00:10:13	00:10:15	perpendicular impact.	N
+153	153	153	00:10:15	00:10:18	This spatter is in direct line with the victim's carotid.	N
+154	154	154	00:10:18	00:10:21	It's arterial spurt.	N
+155	155	155	00:10:21	00:10:23	Are you saying he was alive when he was buried?	N
+156	156	156	00:10:23	00:10:26	I think that the cut we found on his jaw...	N
+157	157	157	00:10:26	00:10:29	was a lure to draw predators.	N
+158	158	158	00:10:40	00:10:42	This wasn't just murder.	N
+159	159	159	00:10:42	00:10:44	It was torture.	N
+160	160	160	00:10:49	00:10:53	Hey, Einstein, we going to stand here all day or what?	N
+161	161	161	00:10:54	00:10:56	You're going to have to be patient, Lieutenant.	N
+162	162	162	00:10:57	00:10:59	The scene hasn't been released yet.	N
+163	163	163	00:11:04	00:11:08	You know, this may be a variation on an old Native American form of punishment.	N
+164	164	164	00:11:08	00:11:10	The body was bound and buried up to its neck.	N
+165	165	165	00:11:10	00:11:15	Tree sap was poured over the head to attract ants.	N
+166	166	166	00:11:15	00:11:17	Punishment for what?	N
+167	167	167	00:11:17	00:11:18	You see?	N
+168	168	168	00:11:18	00:11:20	That's a good question.	N
+169	169	169	00:11:22	00:11:24	About time, Dale.	N
+170	170	170	00:11:29	00:11:33	You are the coroner, I presume.	N
+171	171	171	00:11:33	00:11:34	Mr. Grissom.	N
+172	172	172	00:11:34	00:11:35	Dr. Dale Sterling.	N
+173	173	173	00:11:35	00:11:36	I sent you the head.	N
+174	174	174	00:11:38	00:11:39	How can I help?	N
+175	175	175	00:11:39	00:11:43	Well, we can't touch the body until you authorize it.	N
+176	176	176	00:11:43	00:11:45	Oh.	N
+177	177	177	00:11:52	00:11:54	He's dead.	N
+178	178	178	00:11:54	00:11:55	You're authorized.	N
+179	179	179	00:11:55	00:11:56	Thanks, Doc. That's nice work.	N
+180	180	180	00:11:56	00:11:57	Can we get it out now?	N
+181	181	181	00:11:57	00:12:00	There may be evidence in the gravesite.	N
+182	182	182	00:12:00	00:12:01	We need to preserve it.	N
+183	183	183	00:12:01	00:12:05	Okay, so what do you want to do, call your lab?	N
+184	184	184	00:12:05	00:12:07	Have them send the right gear, the right guys, what?	N
+185	185	185	00:12:07	00:12:09	The site's already been compromised.	N
+186	186	186	00:12:09	00:12:11	We'll make do with what we have here.	N
+187	187	187	00:12:11	00:12:14	Now, for each foot of dirt that's removed, go on a separate bag.	N
+188	188	188	00:12:14	00:12:16	I'll sift through it later.	N
+189	189	189	00:12:16	00:12:18	All right. Out of the way, Doc.	N
+190	190	190	00:12:18	00:12:19	Pardon me. Hold on.	N
+191	191	191	00:12:19	00:12:22	Make sure your shovels don't get within six inches of that body.	N
+192	192	192	00:12:22	00:12:25	Can we please get on with getting him out of there?	N
+193	193	193	00:12:25	00:12:26	We're losing light.	N
+194	194	194	00:12:42	00:12:45	I was in the 99th percentile on the MCATs.	N
+195	195	195	00:12:45	00:12:48	I could have gone to med school.	N
+196	196	196	00:12:48	00:12:50	I chose to be a vet.	N
+197	197	197	00:12:50	00:12:54	Well, veterinary school's harder to get into than medical school.	N
+198	198	198	00:12:54	00:12:57	That's not what I was looking at.	N
+199	199	199	00:12:57	00:13:00	This is you and that gal from the diner.	N
+200	200	200	00:13:00	00:13:01	Doris.	N
+201	201	201	00:13:01	00:13:02	We were married.	N
+202	202	202	00:13:02	00:13:04	High school sweethearts.	N
+203	203	203	00:13:04	00:13:06	Didn't work out.	N
+204	204	204	00:13:09	00:13:12	It's not all just cats and dogs and spays and neuters.	N
+205	205	205	00:13:12	00:13:15	I've delivered half a dozen foals by C-section.	N
+206	206	206	00:13:15	00:13:17	I know how to cut.	N
+207	207	207	00:13:17	00:13:20	I could... I could do the autopsy right here.	N
+208	208	208	00:13:20	00:13:24	Only a licensed pathologist can perform an autopsy.	N
+209	209	209	00:13:24	00:13:28	All we're allowed to do is search for evidence on the body.	N
+210	210	210	00:13:28	00:13:29	And then what?	N
+211	211	211	00:13:29	00:13:30	Then we take it to Vegas.	N
+212	212	212	00:13:30	00:13:34	Tonight. We'll need someone to drive the body.	N
+213	213	213	00:13:34	00:13:36	Barry, it's your lucky day. Get your car.	N
+214	214	214	00:13:36	00:13:37	Come on.	N
+215	215	215	00:13:37	00:13:39	Our medical examiner will send you his report.	N
+216	216	216	00:13:39	00:13:44	You'll need to sign the death certificate as to cause and manner of death.	N
+217	217	217	00:13:55	00:13:58	No wallet and no ID.	N
+218	218	218	00:14:05	00:14:07	What have you got there?	N
+219	219	219	00:14:07	00:14:09	Well, I'm not sure yet.	N
+220	220	220	00:14:22	00:14:24	No ligature marks.	N
+221	221	221	00:14:24	00:14:25	Well, he wasn't tied up?	N
+222	222	222	00:14:25	00:14:26	Apparently not.	N
+223	223	223	00:14:26	00:14:29	Well, no one just lets themselves get buried alive.	N
+224	224	224	00:14:29	00:14:31	Well, maybe the killer had a gun on him.	N
+225	225	225	00:14:31	00:14:36	Well, you can't dig a hole and hold a gun on an unbound victim all at the same time.	N
+226	226	226	00:14:36	00:14:38	Well, maybe the hole was dug earlier?	N
+227	227	227	00:14:38	00:14:40	That would imply premeditation.	N
+228	228	228	00:14:40	00:14:42	Or more than one killer.	N
+229	229	229	00:14:44	00:14:46	Maybe the victim was drugged.	N
+230	230	230	00:14:46	00:14:51	Sylvia Rogers's dog got sick after chewing on the victim's head, correct?	N
+231	231	231	00:14:52	00:14:53	That's right.	N
+232	232	232	00:14:53	00:14:55	Did you do blood work?	N
+233	233	233	00:14:55	00:14:56	I sent it off to a lab in Reno.	N
+234	234	234	00:14:56	00:14:58	Still waiting for the results.	N
+235	235	235	00:14:58	00:14:59	Call the lab.	N
+236	236	236	00:14:59	00:15:03	Have them do a full drug and tox panel on the blood.	N
+237	237	237	00:15:06	00:15:11	Maybe whatever was in this man's body is also in the dog's.	N
+238	238	238	00:15:18	00:15:20	Hold on a second, fellows.	N
+239	239	239	00:15:40	00:15:42	Okay.	N
+240	240	240	00:15:43	00:15:44	Say cheese.	N
+241	241	241	00:15:45	00:15:47	Oh, what the hell was that for?	N
+242	242	242	00:15:47	00:15:49	Souvenir.	N
+243	243	243	00:15:49	00:15:50	Why, is that French for evidence?	N
+244	244	244	00:15:51	00:15:51	Straight drive, Barry.	N
+245	245	245	00:15:52	00:15:53	Stay out of the casinos.	N
+246	246	246	00:15:53	00:15:55	You got it, boss.	N
+247	247	247	00:15:55	00:15:57	You boys have a good night.	N
+248	248	248	00:16:02	00:16:04	Man.	N
+249	249	249	00:16:04	00:16:07	It was one hell of day.	N
+250	250	250	00:16:09	00:16:11	You need a place to sleep?	N
+251	251	251	00:16:11	00:16:14	I need a place to work.	N
+252	252	252	00:17:09	00:17:11	Did I miss a memo or something?	N
+253	253	253	00:17:11	00:17:13	Oh, no.	N
+254	254	254	00:17:13	00:17:14	Grissom's on a safari.	N
+255	255	255	00:17:14	00:17:17	He's got you pushing his paperwork, huh?	N
+256	256	256	00:17:17	00:17:19	Oh, no. I'm trying to avoid that.	N
+257	257	257	00:17:19	00:17:24	His headless D.B. had a Western LVU bookstore receipt in his pocket.	N
+258	258	258	00:17:24	00:17:25	Grissom just unraveled it.	N
+259	259	259	00:17:25	00:17:26	Really?	N
+260	260	260	00:17:26	00:17:28	Wow!	N
+261	261	261	00:17:28	00:17:30	Some of these books are 100 bucks a pop.	N
+262	262	262	00:17:30	00:17:33	Tuition, plus room and board-- that's at least another 10K.	N
+263	263	263	00:17:33	00:17:36	You got to have money to go to college these days.	N
+264	264	264	00:17:36	00:17:39	Yeah, well, I missed that boat.	N
+265	265	265	00:17:39	00:17:42	So, most of these are freshman textbooks.	N
+266	266	266	00:17:42	00:17:44	Core curriculum.	N
+267	267	267	00:17:44	00:17:48	Well, that's at least 2,000 students.	N
+268	268	268	00:17:48	00:17:51	Maybe you'll get lucky with the victim's prints.	N
+269	269	269	00:17:51	00:17:52	Oh, wait. Hang on.	N
+270	270	270	00:17:52	00:17:55	Chiaroscuro Theory and Technique.	N
+271	271	271	00:17:55	00:17:57	It's a sophomore-level Fine Arts text.	N
+272	272	272	00:17:57	00:18:00	Freshman in a sophomore course?	N
+273	273	273	00:18:00	00:18:02	Narrows the field.	N
+274	274	274	00:18:04	00:18:08	Actually, we're here about your roommate, Ross Jenson.	N
+275	275	275	00:18:08	00:18:10	Do you know where we can find him?	N
+276	276	276	00:18:10	00:18:12	Uh, I actually haven't even seen him since last Friday.	N
+277	277	277	00:18:12	00:18:15	I had Wheezer tickets, and we were supposed to go, but he, uh, he blew me off.	N
+278	278	278	00:18:15	00:18:17	Gone almost a week. That normal?	N
+279	279	279	00:18:17	00:18:19	Yeah, he's an art student, you know.	N
+280	280	280	00:18:19	00:18:21	He goes off a lot, and for days sometimes.	N
+281	281	281	00:18:21	00:18:23	Uh-huh.	N
+282	282	282	00:18:23	00:18:30	I've been, uh, studying my ass off for this American History midterm, but, uh, feel free to have a look around.	N
+283	283	283	00:18:39	00:18:42	That's not mine.	N
+284	284	284	00:18:42	00:18:43	I don't know what that is.	N
+285	285	285	00:18:43	00:18:44	Relax, buddy.	N
+286	286	286	00:18:44	00:18:48	This is a homicide investigation.	N
+287	287	287	00:18:55	00:18:57	Are these Ross's shoes?	N
+288	288	288	00:19:01	00:19:04	What do you got?	N
+289	289	289	00:19:08	00:19:09	Aspen leaf.	N
+290	290	290	00:19:09	00:19:11	A little piece of the countryside.	N
+291	291	291	00:19:11	00:19:15	Has Ross spent a lot of time up in northern Nevada?	N
+292	292	292	00:19:15	00:19:17	Yeah, he liked the scenery up there.	N
+293	293	293	00:19:17	00:19:21	We're going to need to take that computer and a few things back to the lab.	N
+294	294	294	00:19:21	00:19:23	Okay.	N
+295	295	295	00:19:44	00:19:46	Yeah.	N
+296	296	296	00:19:46	00:19:48	Came in here last week. Handsome boy.	N
+297	297	297	00:19:48	00:19:50	Nice clothes.	N
+298	298	298	00:19:50	00:19:52	Just passing through.	N
+299	299	299	00:19:52	00:19:55	There's, uh, fried chicken, me...	N
+300	300	300	00:19:55	00:19:58	Coffee's about all I can handle right now.	N
+301	301	301	00:19:58	00:20:00	Maybe some other time, okay?	N
+302	302	302	00:20:00	00:20:02	Guess you weren't his type.	N
+303	303	303	00:20:02	00:20:05	Wasn't he the guy driving that gutless little four-banger?	N
+304	304	304	00:20:05	00:20:06	What kind of car was it?	N
+305	305	305	00:20:07	00:20:08	I don't know. Kid's car.	N
+306	306	306	00:20:08	00:20:10	Something to drive around the city.	N
+307	307	307	00:20:10	00:20:12	It's no good for hills.	N
+308	308	308	00:20:12	00:20:14	Black, or, what, blue, maybe.	N
+309	309	309	00:20:14	00:20:15	Lieutenant?	N
+310	310	310	00:20:15	00:20:17	Yeah.	N
+311	311	311	00:20:17	00:20:18	The victim was on his way out of town.	N
+312	312	312	00:20:18	00:20:20	We know he didn't get very far.	N
+313	313	313	00:20:20	00:20:21	So where's his vehicle?	N
+314	314	314	00:20:21	00:20:25	Anybody here seen a black or blue mystery vehicle?	N
+315	315	315	00:20:25	00:20:27	No. Uh-uh.	N
+316	316	316	00:20:27	00:20:28	No.	N
+317	317	317	00:20:28	00:20:31	Well, I'd say that car's long gone by now.	N
+318	318	318	00:20:31	00:20:35	If the killer was a local, he could have ditched the car somewhere near here.	N
+319	319	319	00:20:38	00:20:40	Do you have a local suspect?	N
+320	320	320	00:20:40	00:20:41	It's a theory.	N
+321	321	321	00:20:41	00:20:42	Oh.	N
+322	322	322	00:20:42	00:20:45	And like any theory, it doesn't mean anything unless you can prove it.	N
+323	323	323	00:20:45	00:20:46	Yeah.	N
+324	324	324	00:20:46	00:20:47	May I borrow this?	N
+325	325	325	00:20:49	00:20:50	The victim was last seen here, right?	N
+326	326	326	00:20:50	00:20:53	Yeah. We found his body here. Mm-hmm.	N
+327	327	327	00:20:53	00:20:55	This is the only way out of town.	N
+328	328	328	00:20:55	00:20:58	The killer had to intercept him somewhere along this road.	N
+329	329	329	00:20:58	00:21:00	Knock yourself out.	N
+330	330	330	00:23:39	00:23:43	Hey, Doc, I need to use some of your medical supplies and make a telephone call.	N
+331	331	331	00:23:43	00:23:44	It's local.	N
+332	332	332	00:23:44	00:23:45	Uh... okay.	N
+333	333	333	00:23:59	00:24:00	Did you tint these windows yourself?	N
+334	334	334	00:24:00	00:24:03	M...aybe not the best job in the world, but it does the trick.	N
+335	335	335	00:24:04	00:24:06	Do you have any tinting film left?	N
+336	336	336	00:24:06	00:24:07	Think so.	N
+337	337	337	00:24:07	00:24:08	May I use it?	N
+338	338	338	00:24:08	00:24:10	Okay. I'll have to go check.	N
+339	339	339	00:24:13	00:24:15	Oh, good, the police.	N
+340	340	340	00:24:15	00:24:16	I'd like to report a crime.	N
+341	341	341	00:24:16	00:24:17	No kidding?	N
+342	342	342	00:24:17	00:24:20	Yeah, my vehicle was broken into and my field kit was stolen.	N
+343	343	343	00:24:20	00:24:21	That's going to cramp your style.	N
+344	344	344	00:24:21	00:24:24	Not necessarily.	N
+345	345	345	00:24:27	00:24:29	Would you keep an eye on this for me?	N
+346	346	346	00:24:30	00:24:31	Sure.	N
+347	347	347	00:24:31	00:24:32	Thanks.	N
+348	348	348	00:24:32	00:24:34	Excuse me.	N
+349	349	349	00:24:58	00:25:03	Listen, why don't you come on by and fill out a report about that kit.	N
+350	350	350	00:25:03	00:25:04	You think that would help?	N
+351	351	351	00:25:06	00:25:08	It wouldn't hurt.	N
+352	352	352	00:25:08	00:25:10	I, uh, found the victim's car.	N
+353	353	353	00:25:10	00:25:12	Well, I am impressed.	N
+354	354	354	00:25:12	00:25:14	Wh... Where was it?	N
+355	355	355	00:25:14	00:25:16	It was, uh, ditched in an old barn up in the hills.	N
+356	356	356	00:25:17	00:25:18	Uh-huh.	N
+357	357	357	00:25:18	00:25:21	I know you don't have any men to spare, so I called the Highway Patrol.	N
+358	358	358	00:25:21	00:25:23	They're sending troopers up there to secure the site.	N
+359	359	359	00:25:23	00:25:25	Oh, well, nearest station's in Elko.	N
+360	360	360	00:25:25	00:25:28	Should take 'em a couple hours to get here.	N
+361	361	361	00:25:28	00:25:32	Well, that should, uh, give you enough time to burn down the barn.	N
+362	362	362	00:27:06	00:27:10	You going to just stand there, or are you coming in?	N
+363	363	363	00:27:10	00:27:12	Oh, I don't want to disturb the scene.	N
+364	364	364	00:27:12	00:27:14	You carry on.	N
+365	365	365	00:27:14	00:27:18	Shame to see so much work go to waste.	N
+366	366	366	00:27:22	00:27:25	What does that mean exactly?	N
+367	367	367	00:27:25	00:27:30	Well, unless you've managed to improvise yourself a warrant as well, this is an illegal search.	N
+368	368	368	00:27:30	00:27:40	This barn had been broken into, which makes it a crime scene, even without the murder victim's car inside, so I don't need a warrant.	N
+369	369	369	00:27:41	00:27:42	Who owns this place?	N
+370	370	370	00:27:42	00:27:44	Nobody.	N
+371	371	371	00:27:44	00:27:45	Owner died a few years ago.	N
+372	372	372	00:27:45	00:27:49	Well, then who's responsible for the property?	N
+373	373	373	00:27:49	00:27:51	His nephew.	N
+374	374	374	00:27:51	00:27:53	Marty Cooperman.	N
+375	375	375	00:27:53	00:27:55	Runs the gas station.	N
+376	376	376	00:27:55	00:27:58	Is that who you're protecting?	N
+377	377	377	00:28:21	00:28:24	Hey, you think you can fix this window?	N
+378	378	378	00:28:28	00:28:30	Yeah, I think I can fix that.	N
+379	379	379	00:28:30	00:28:32	You know that kid that got murdered?	N
+380	380	380	00:28:32	00:28:35	We found his car up in the hills.	N
+381	381	381	00:28:35	00:28:37	In your uncle's old barn.	N
+382	382	382	00:28:38	00:28:41	Oh, I haven't been up there for years.	N
+383	383	383	00:28:41	00:28:44	That's understandable. It's hard to get to.	N
+384	384	384	00:28:44	00:28:46	Not too many gas stations around here.	N
+385	385	385	00:28:46	00:28:49	You must do pretty good business.	N
+386	386	386	00:28:49	00:28:51	Yeah, I got the only pumps for 23 miles.	N
+387	387	387	00:28:51	00:28:53	I do pretty good.	N
+388	388	388	00:28:55	00:28:58	You know, uh, the victim's car was full of gas.	N
+389	389	389	00:28:59	00:29:02	So you must've seen him, right, even though you said you didn't?	N
+390	390	390	00:29:02	00:29:09	I can have your window fixed in a couple hours, Mr. Grissom, and then you can get back home.	N
+391	391	391	00:29:09	00:29:12	I think you should do that.	N
+392	392	392	00:29:20	00:29:22	Grissom.	N
+393	393	393	00:29:22	00:29:25	Everybody in Sleepy Hollow still drawing a blank on the victim?	N
+394	394	394	00:29:25	00:29:26	More or less.	N
+395	395	395	00:29:26	00:29:28	Well, then somebody's lying.	N
+396	396	396	00:29:28	00:29:31	Ross Jenson was having a relationship with someone in Jackpot.	N
+397	397	397	00:29:31	00:29:34	Greg traced a series of romantic IMs from your victim's computer.	N
+398	398	398	00:29:34	00:29:35	Greg did?	N
+399	399	399	00:29:35	00:29:36	Yeah, he knows stuff.	N
+400	400	400	00:29:36	00:29:38	Pretty hot stuff, too.	N
+401	401	401	00:29:38	00:29:39	Sounds like he was in love.	N
+402	402	402	00:29:39	00:29:41	Brass is still working on a court order for the name.	N
+403	403	403	00:29:41	00:29:43	You ever coming back?	N
+404	404	404	00:29:45	00:29:46	Hopefully.	N
+405	405	405	00:29:46	00:29:49	Ms. Willows, this came for you, certified mail.	N
+406	406	406	00:29:49	00:29:52	Oh. Thanks, Judy.	N
+407	407	407	00:30:20	00:30:24	Just got the blood test results back from Sylvia's dog.	N
+408	408	408	00:30:24	00:30:27	There were traces of GHB in his system.	N
+409	409	409	00:30:27	00:30:31	I thought GHB was a party drug.	N
+410	410	410	00:30:31	00:30:33	It is.	N
+411	411	411	00:30:33	00:30:35	It's also a powerful sedative.	N
+412	412	412	00:30:35	00:30:37	Could be what was used to subdue him.	N
+413	413	413	00:30:37	00:30:39	You know anybody in town that would use this?	N
+414	414	414	00:30:40	00:30:43	Uh, weed and speed are the drugs of choice around here.	N
+415	415	415	00:30:44	00:30:46	Hey, Doc, take a look at the scope, will you?	N
+416	416	416	00:30:48	00:30:52	I found some hairs in Ross Jenson's shirts.	N
+417	417	417	00:30:52	00:30:55	That is cat hair.	N
+418	418	418	00:30:55	00:30:57	Tricolored.	N
+419	419	419	00:30:57	00:30:58	Probably...	N
+420	420	420	00:30:58	00:31:00	Abyssinian.	N
+421	421	421	00:31:00	00:31:04	You wouldn't happen to have any Abyssinian patients?	N
+422	422	422	00:31:04	00:31:07	One.	N
+423	423	423	00:31:08	00:31:10	Uh... Ah.	N
+424	424	424	00:31:10	00:31:12	Here she is.	N
+425	425	425	00:31:12	00:31:14	Isis.	N
+426	426	426	00:31:14	00:31:17	Her owner has allergies.	N
+427	427	427	00:31:17	00:31:23	He needed an aggressive, shorthair mouser.	N
+428	428	428	00:31:29	00:31:31	Excuse me, Lieutenant.	N
+429	429	429	00:31:31	00:31:33	We need to talk.	N
+430	430	430	00:31:33	00:31:34	So talk.	N
+431	431	431	00:31:34	00:31:36	Privately, please.	N
+432	432	432	00:31:36	00:31:38	Just call them.	N
+433	433	433	00:31:41	00:31:42	What?	N
+434	434	434	00:31:42	00:31:46	Ross Jenson was having a romantic relationship with someone in this town.	N
+435	435	435	00:31:46	00:31:48	And you can you prove that?	N
+436	436	436	00:31:48	00:31:49	Yes.	N
+437	437	437	00:31:49	00:31:51	I believe he was up here visiting that person.	N
+438	438	438	00:31:52	00:31:54	I found cat hairs on his T-shirts.	N
+439	439	439	00:31:54	00:31:56	From an Abyssinian cat.	N
+440	440	440	00:31:56	00:31:58	The kind your brother owns.	N
+441	441	441	00:31:58	00:32:02	Just what the hell are you saying?	N
+442	442	442	00:32:02	00:32:04	Does your brother live alone?	N
+443	443	443	00:32:04	00:32:05	Yes.	N
+444	444	444	00:32:06	00:32:08	Is he gay?	N
+445	445	445	00:32:08	00:32:09	That is nobody's business.	N
+446	446	446	00:32:09	00:32:12	I realize that, but it's relevant to this investigation.	N
+447	447	447	00:32:12	00:32:14	No, he was married. He has a kid.	N
+448	448	448	00:32:14	00:32:15	Was married?	N
+449	449	449	00:32:15	00:32:16	She left him flat, ten years ago. So, what?	N
+450	450	450	00:32:16	00:32:20	Look, whether you like it or not, Leland is a suspect.	N
+451	451	451	00:32:20	00:32:22	But you already knew that.	N
+452	452	452	00:32:22	00:32:24	I'm giving you an opportunity, Lieutenant.	N
+453	453	453	00:32:24	00:32:27	So far, you're only guilty of being a good brother.	N
+454	454	454	00:32:28	00:32:30	Get in.	N
+455	455	455	00:32:38	00:32:39	What are you worried about?	N
+456	456	456	00:32:39	00:32:42	You do have a gun, don't you?	N
+457	457	457	00:33:05	00:33:09	Look, um, just give me a minute with him.	N
+458	458	458	00:33:14	00:33:16	Hey, Bubba.	N
+459	459	459	00:33:16	00:33:18	Leland.	N
+460	460	460	00:33:18	00:33:19	We need to ask you a few...	N
+461	461	461	00:33:19	00:33:20	What's he doing here?	N
+462	462	462	00:33:20	00:33:22	Never mind him.	N
+463	463	463	00:33:22	00:33:24	You and I need to have a talk.	N
+464	464	464	00:33:58	00:34:00	Put that down! I don't know what you're talking about.	N
+465	465	465	00:34:00	00:34:02	Put that down! I don't know what you're talking about!	N
+466	466	466	00:34:04	00:34:05	Let me do this! Don't you...!	N
+467	467	467	00:34:05	00:34:07	Leland! Let me do this!	N
+468	468	468	00:34:07	00:34:09	Leland! Let me do this!	N
+469	469	469	00:34:24	00:34:25	You're going to keep Leland in there, right?	N
+470	470	470	00:34:26	00:34:30	Yeah, until he's ready to go home.	N
+471	471	471	00:34:30	00:34:33	He took at shot at me, and he tried to kill himself.	N
+472	472	472	00:34:33	00:34:35	That's not the way I saw it.	N
+473	473	473	00:34:35	00:34:38	FYI, Leland's always run pretty hot.	N
+474	474	474	00:34:38	00:34:40	That's no secret.	N
+475	475	475	00:34:42	00:34:48	Matter of fact, back in high school he and Marty Cooperman played football together.	N
+476	476	476	00:34:48	00:34:53	One Friday night, after a couple of beers, Marty started busting on Leland.	N
+477	477	477	00:34:53	00:34:56	And Leland just busts him back.	N
+478	478	478	00:34:56	00:34:59	And I helped.	N
+479	479	479	00:35:00	00:35:03	And we fractured Marty's leg in three places.	N
+480	480	480	00:35:03	00:35:06	So I should be grateful that you showed restraint with me.	N
+481	481	481	00:35:06	00:35:08	No, I didn't do it for you.	N
+482	482	482	00:35:10	00:35:14	A man shouldn't go through life ashamed of who he is.	N
+483	483	483	00:35:32	00:35:33	What is this?	N
+484	484	484	00:35:33	00:35:35	A way to get you to talk to me.	N
+485	485	485	00:35:35	00:35:36	Well, I didn't come here to talk.	N
+486	486	486	00:35:36	00:35:37	I came to give it back.	N
+487	487	487	00:35:37	00:35:39	Not enough?	N
+488	488	488	00:35:42	00:35:45	You're a murderer.	N
+489	489	489	00:35:45	00:35:47	Not in the eyes of the law.	N
+490	490	490	00:35:48	00:35:49	You look good, Mugs.	N
+491	491	491	00:35:49	00:35:52	How's Lindsey?	N
+492	492	492	00:35:52	00:35:53	She likes horses, right?	N
+493	493	493	00:35:53	00:35:55	Lindsey's none of your business.	N
+494	494	494	00:35:55	00:35:56	You keep her out of this.	N
+495	495	495	00:35:56	00:35:58	I'm her grandfather.	N
+496	496	496	00:35:58	00:36:02	Yeah, well, nothing I can do about that.	N
+497	497	497	00:36:02	00:36:04	Catherine, it's just a gift.	N
+498	498	498	00:36:04	00:36:05	You need the money.	N
+499	499	499	00:36:05	00:36:12	And the next time you stab one of your showgirls and you need CSI to cover it, I'm supposed to help you out, right? Take a good look at me.	N
+500	500	500	00:36:12	00:36:15	Plenty of fresh air, sun on my face.	N
+501	501	501	00:36:17	00:36:18	You think I need your help?	N
+502	502	502	00:36:20	00:36:22	I don't need your charity.	N
+503	503	503	00:36:22	00:36:23	You know what your problem is?	N
+504	504	504	00:36:24	00:36:27	You enjoy making life hard.	N
+505	505	505	00:36:27	00:36:30	You're lucky Lindsey's too young to understand that.	N
+506	506	506	00:36:30	00:36:33	Cash it, or tear it up.	N
+507	507	507	00:36:33	00:36:34	Do whatever you want.	N
+508	508	508	00:36:34	00:36:37	I have one son in jail...	N
+509	509	509	00:36:37	00:36:40	another in the ground.	N
+510	510	510	00:36:40	00:36:42	I never did right by your mother.	N
+511	511	511	00:36:42	00:36:44	But I'm damn sure going to try to do right by you.	N
+512	512	512	00:37:09	00:37:12	Hey, Catherine...	N
+513	513	513	00:37:12	00:37:13	Hey.	N
+514	514	514	00:37:13	00:37:14	What's up?	N
+515	515	515	00:37:14	00:37:17	A possible inconsistency.	N
+516	516	516	00:37:19	00:37:20	Hey...	N
+517	517	517	00:37:21	00:37:22	you have a phone call.	N
+518	518	518	00:37:22	00:37:25	Line two. I think it's your wife.	N
+519	519	519	00:37:25	00:37:27	Thanks.	N
+520	520	520	00:37:29	00:37:30	Hello, dear.	N
+521	521	521	00:37:30	00:37:37	The day Ross Jenson left Vegas, he used MapQuest to get directions from his dorm to Jackpot.	N
+522	522	522	00:37:37	00:37:38	Well, that makes sense.	N
+523	523	523	00:37:38	00:37:41	From what I've been able to gather, this was his first and only visit up here.	N
+524	524	524	00:37:41	00:37:43	Well, that doesn't make sense.	N
+525	525	525	00:37:43	00:37:45	He was involved with someone in Jackpot for several months.	N
+526	526	526	00:37:45	00:37:49	There were traces of aspen leaves in his dorm room closet.	N
+527	527	527	00:37:49	00:37:51	I just assumed he'd been there before.	N
+528	528	528	00:37:51	00:37:57	Well, if I believe this was his first and only visit, how do we explain the leaves in his closet?	N
+529	529	529	00:37:57	00:37:59	He has a roommate.	N
+530	530	530	00:37:59	00:38:00	Does the roommate have a name?	N
+531	531	531	00:38:00	00:38:04	Yeah, his name is...	N
+532	532	532	00:38:04	00:38:05	Eric Brooks.	N
+533	533	533	00:38:05	00:38:07	Eric Brooks?	N
+534	534	534	00:38:07	00:38:09	Oh, yeah, that's Leland's boy.	N
+535	535	535	00:38:09	00:38:11	You guys going to tell him about his dad?	N
+536	536	536	00:38:13	00:38:16	Did you know your father was having a sexual relationship with Ross Jenson?	N
+537	537	537	00:38:17	00:38:18	My dad's not gay.	N
+538	538	538	00:38:18	00:38:20	Was Ross?	N
+539	539	539	00:38:20	00:38:22	We never talked about it.	N
+540	540	540	00:38:22	00:38:24	Were you in Jackpot, Nevada last weekend?	N
+541	541	541	00:38:24	00:38:26	No.	N
+542	542	542	00:38:26	00:38:27	Ross Jenson was...	N
+543	543	543	00:38:27	00:38:28	visiting your dad.	N
+544	544	544	00:38:28	00:38:32	We found his car ditched in a barn outside town.	N
+545	545	545	00:38:32	00:38:39	We got your fingerprints from a former ROTC commander of yours, and...	N
+546	546	546	00:38:39	00:38:41	they matched a print that we recovered from the steering wheel.	N
+547	547	547	00:38:42	00:38:44	He let me borrow his car all the time.	N
+548	548	548	00:38:44	00:38:45	We were roommates.	N
+549	549	549	00:38:45	00:38:47	That's right. You don't own a car.	N
+550	550	550	00:38:47	00:38:49	You ride a motorcycle.	N
+551	551	551	00:38:51	00:38:53	Yeah.	N
+552	552	552	00:38:53	00:38:54	So?	N
+553	553	553	00:38:54	00:38:57	Could I see the bottom of your shoes, please?	N
+554	554	554	00:39:07	00:39:09	Well, that's an unusual wear pattern.	N
+555	555	555	00:39:09	00:39:13	Matches the shoe print we recovered from the barn near the vehicle.	N
+556	556	556	00:39:13	00:39:16	Put a lot of miles on your bike. It shows.	N
+557	557	557	00:39:18	00:39:20	You were there.	N
+558	558	558	00:39:32	00:39:35	Eric must've known for a while.	N
+559	559	559	00:39:35	00:39:38	How did you intend to keep the relationship from your own son?	N
+560	560	560	00:39:38	00:39:41	I've been hiding it my whole life.	N
+561	561	561	00:39:43	00:39:45	You knew.	N
+562	562	562	00:39:45	00:39:48	Yeah...	N
+563	563	563	00:39:48	00:39:50	I figured you'd tell me when you were ready.	N
+564	564	564	00:39:50	00:39:53	I saw you with Ross.	N
+565	565	565	00:39:53	00:39:55	I stopped by here last weekend.	N
+566	566	566	00:39:59	00:40:01	You and he were taking a walk.	N
+567	567	567	00:40:05	00:40:08	I'm sorry. You got nothing to be sorry about.	N
+568	568	568	00:40:08	00:40:10	Nothing.	N
+569	569	569	00:40:12	00:40:15	Lee, it turns out Eric...	N
+570	570	570	00:40:15	00:40:18	Mr. Brooks, your son killed Ross Jenson.	N
+571	571	571	00:40:18	00:40:20	That is not possible.	N
+572	572	572	00:40:20	00:40:24	According to the evidence, it is.	N
+573	573	573	00:40:25	00:40:31	We tested the thermos and found traces of GHB.	N
+574	574	574	00:40:31	00:40:35	You used Ross' drugs to subdue him.	N
+575	575	575	00:40:35	00:40:38	It's a long drive from Jackpot to Vegas.	N
+576	576	576	00:40:38	00:40:41	You knew he'd stop for a refill before he left town.	N
+577	577	577	00:40:54	00:40:59	Eric never could deal with the fact that his mother left.	N
+578	578	578	00:40:59	00:41:02	She just wanted a husband.	N
+579	579	579	00:41:02	00:41:04	All I wanted was a family.	N
+580	580	580	00:41:08	00:41:09	People in town...	N
+581	581	581	00:41:09	00:41:12	they said my dad was different.	N
+582	582	582	00:41:12	00:41:14	But he wasn't. He was just lonely.	N
+583	583	583	00:41:14	00:41:18	And Ross, like, totally used that to ruin him.	N
+584	584	584	00:41:19	00:41:21	It was all Ross.	N
+585	585	585	00:41:21	00:41:22	That why you drugged him?	N
+586	586	586	00:41:22	00:41:25	Drove him into the woods?	N
+587	587	587	00:41:25	00:41:26	Put him in a hole...	N
+588	588	588	00:41:32	00:41:34	buried him up to his neck...	N
+589	589	589	00:41:37	00:41:38	cut him...	N
+590	590	590	00:41:40	00:41:41	What are you doing?	N
+591	591	591	00:41:43	00:41:45	Why didn't you go the distance?	N
+592	592	592	00:41:45	00:41:50	Why didn't you finish him off yourself? Because I wanted him to suffer.	N
+593	593	593	00:41:51	00:41:54	Because he was in love with your father?	N
+594	594	594	00:41:56	00:41:59	Or because he wasn't in love with you?	N
+595	595	595	00:42:06	00:42:08	I don't suppose that comes with a warranty?	N
+596	596	596	00:42:08	00:42:10	Nothing around here does, Mr. Grissom.	N
+597	597	597	00:42:10	00:42:12	Thanks for the business.	N
+598	598	598	00:42:12	00:42:13	Hey, Marty.	N
+599	599	599	00:42:15	00:42:17	Does he ever talk to you?	N
+600	600	600	00:42:17	00:42:19	Not one word since high school.	N
+601	601	601	00:42:21	00:42:26	Listen, when we found that torso in the hole, on the crest of that hill...	N
+602	602	602	00:42:26	00:42:30	I recognized the kid's shirt, and I knew he'd been with Leland, so...	N
+603	603	603	00:42:30	00:42:33	So you assumed your brother was capable of murder.	N
+604	604	604	00:42:33	00:42:36	Didn't even ask him what happened.	N
+605	605	605	00:42:36	00:42:39	Questions, remember?	N
+606	606	606	00:42:39	00:42:43	Not asking them is what got everybody in trouble here in the first place.	N
+607	607	607	00:42:43	00:42:46	You don't keep any secrets, Mr. Grissom?	N
+608	608	608	00:42:46	00:42:48	Not even from your wife?	N
+609	609	609	00:42:52	00:42:55	I used to. I'm trying to change.	N
+610	610	610	00:42:57	00:42:58	It's a bitch.	N
+611	611	611	00:43:00	00:43:02	Have a good trip.	N

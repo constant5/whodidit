@@ -1,703 +1,703 @@
-	start	end	text	label
-0	00:00:14	00:00:17	Wow, I love it already.	N
-1	00:00:18	00:00:22	I can't believe we're doing this. Is that the lockbox?	Y
-2	00:00:22	00:00:24	Broker gave me the combination.	Y
-3	00:00:24	00:00:26	He's doing a walk-through in Seven Hills.	Y
-4	00:00:27	00:00:30	Owners are out.	Y
-5	00:00:41	00:00:44	Wow.	N
-6	00:00:44	00:00:46	Wait till you see the master.	Y
-7	00:00:54	00:00:56	Oh, my God.	N
-8	00:00:56	00:00:58	This is gorgeous.	N
-9	00:00:59	00:01:01	Amazing.	Y
-10	00:01:04	00:01:06	What?	N
-11	00:01:06	00:01:08	Want to snoop around?	Y
-12	00:01:20	00:01:21	Hey.	N
-13	00:01:23	00:01:25	What do you think?	Y
-14	00:01:25	00:01:26	I don't know, yeah. It's nice?	N
-15	00:01:26	00:01:28	Looks good.	N
-16	00:01:28	00:01:29	Cut it out.	N
-17	00:01:29	00:01:31	No, seriously, I think I hear a car.	Y
-18	00:01:31	00:01:32	Will you relax? No, really.	Y
-19	00:01:32	00:01:34	You're paranoid.	Y
-20	00:01:39	00:01:41	Oh, my God.	Y
-21	00:01:41	00:01:42	I could get used to this place.	Y
-22	00:01:42	00:01:43	I bet you could.	N
-23	00:01:43	00:01:44	I could.	N
-24	00:01:45	00:01:46	You're an animal.	Y
-25	00:01:46	00:01:48	The backyard is the best part of the house.	Y
-26	00:01:48	00:01:49	Really? Is there a Jacuzzi?	Y
-27	00:01:54	00:01:57	Oh, my God.	N
-28	00:01:57	00:02:00	Looks like something out of a magazine.	N
-29	00:02:26	00:02:28	Cal and Monica Newman.	N
-30	00:02:28	00:02:31	Owners of the house. My guess, second marriage.	N
-31	00:02:31	00:02:32	'Cause she's a babe and he's...	N
-32	00:02:32	00:02:34	He's, uh...	N
-33	00:02:34	00:02:35	got a good sense of humor.	N
-34	00:02:44	00:02:49	.380 auto caliber.	N
-35	00:02:54	00:02:56	Gunshot, right temple.	N
-36	00:02:56	00:02:59	Women don't usually shoot themselves in the head do they, Catherine?	N
-37	00:02:59	00:03:03	Well, gunshots do a number on your face so typically women prefer pills.	N
-38	00:03:04	00:03:06	So what are we calling this, murder, suicide, what?	N
-39	00:03:06	00:03:09	Is the husband around?	N
-40	00:03:09	00:03:10	No.	N
-41	00:03:12	00:03:15	Dead female spouse plus missing husband...	N
-42	00:03:15	00:03:17	equals murder.	N
-43	00:03:53	00:03:54	Okay, Warrick, hit it.	N
-44	00:04:00	00:04:03	White female, multiple bruising...	N
-45	00:04:03	00:04:06	Bullet hole to the temple doesn't help.	N
-46	00:04:06	00:04:09	.380 auto on the side.	N
-47	00:04:09	00:04:13	Yeah, somebody manhandled her pretty good before they killed her.	N
-48	00:04:33	00:04:35	Reminds me of my daughter.	N
-49	00:04:35	00:04:37	She used throw butts out the window, too.	N
-50	00:04:37	00:04:40	The Newmans have kids?	N
-51	00:04:40	00:04:43	A kid. Son, 15, Max Newman.	N
-52	00:04:43	00:04:45	He's MIA like the father.	N
-53	00:04:45	00:04:49	The secretary said he went out for lunch and never came back.	N
-54	00:04:49	00:04:51	I checked the garage-- three cars.	N
-55	00:04:51	00:04:54	None of the hoods are hot.	N
-56	00:04:54	00:04:56	We're missing something.	N
-57	00:04:56	00:04:58	Grissom. Mr. Grissom.	N
-58	00:04:58	00:05:01	Where would I find Mr. Grissom?	N
-59	00:05:02	00:05:03	Great, great. Thank you very much. Mr. Grissom?	N
-60	00:05:03	00:05:06	Hi, I'm Augie Heitz.	N
-61	00:05:06	00:05:07	This is my listing.	N
-62	00:05:08	00:05:09	Someone died, I know.	N
-63	00:05:09	00:05:11	It's a terrible thing.	N
-64	00:05:11	00:05:14	But we got people knocking down awnings stomping through the flower beds.	N
-65	00:05:14	00:05:17	How am I supposed to sell this house?	N
-66	00:05:17	00:05:18	You're not.	N
-67	00:05:18	00:05:20	It's a crime scene.	N
-68	00:05:20	00:05:23	Mr. Heitz, you're Mr. Newman's broker.	N
-69	00:05:23	00:05:25	Have you seen your client lately?	N
-70	00:05:25	00:05:27	What, you kidding?	N
-71	00:05:27	00:05:30	I mean, this is actually the beauty of the service I provide.	N
-72	00:05:30	00:05:32	My clients never have to see me.	N
-73	00:05:32	00:05:35	They don't even have to be home when I show their house.	N
-74	00:05:35	00:05:36	Do you always give out the combination to your lockboxes?	N
-75	00:05:37	00:05:38	It's illegal.	N
-76	00:05:38	00:05:40	It's a hot market.	Y
-77	00:05:40	00:05:42	Um...	Y
-78	00:05:42	00:05:43	You know, I had a fish on the line.	N
-79	00:05:43	00:05:46	Potential bidding war.	N
-80	00:05:46	00:05:47	Look... ( clears throat )	Y
-81	00:05:47	00:05:51	I only give out the combination to people that I really trust.	Y
-82	00:05:55	00:05:56	All right, look, I read rooms for a living.	N
-83	00:05:57	00:05:59	That closet was tossed. The carpet lit up.	Y
-84	00:05:59	00:06:01	So I'm going to ask you again.	N
-85	00:06:01	00:06:03	What were you doing in there besides copulating?	N
-86	00:06:05	00:06:07	It was my idea.	N
-87	00:06:07	00:06:11	Right. Well, we found this laptop on the vanity still on.	N
-88	00:06:11	00:06:13	You didn't play with it, too, did you?	N
-89	00:06:18	00:06:20	Hey, Warrick.	N
-90	00:06:20	00:06:21	Check this out.	N
-91	00:06:24	00:06:26	It's a little thin for blood, isn't it?	N
-92	00:06:26	00:06:28	Yeah.	N
-93	00:06:31	00:06:34	What do you...?	N
-94	00:06:34	00:06:37	Tastes like sugar water.	N
-95	00:06:37	00:06:38	Erythrosine.	N
-96	00:06:38	00:06:40	Red dye number three.	N
-97	00:06:40	00:06:43	Hummingbirds do love the color red.	N
-98	00:06:43	00:06:46	You've been watching way too much Discovery Channel.	N
-99	00:06:46	00:06:48	This guy needs a girl.	N
-100	00:06:49	00:06:51	I'm going to check out the cabana.	N
-101	00:06:51	00:06:52	No visible footprints.	N
-102	00:06:52	00:06:54	Doesn't mean someone wasn't out here.	N
-103	00:06:55	00:06:56	Grab the LS.	N
-104	00:06:56	00:06:58	Yeah.	N
-105	00:07:00	00:07:01	Hey. Sara.	N
-106	00:07:03	00:07:05	I am so sorry.	N
-107	00:07:05	00:07:08	I paged you two hours ago.	N
-108	00:07:08	00:07:09	Right. Uh, it's my day off.	N
-109	00:07:10	00:07:11	I was up in Pahrump at some vineyard.	N
-110	00:07:12	00:07:13	You told me to get a life, remember?	N
-111	00:07:13	00:07:14	Did I?	N
-112	00:07:17	00:07:18	I'm sorry, but I needed you.	N
-113	00:07:19	00:07:21	Dispatch called in a 419 at Tuscadero High School.	N
-114	00:07:21	00:07:22	You're on your own.	N
-115	00:07:22	00:07:24	On my own?	N
-116	00:07:24	00:07:27	Solo.	N
-117	00:07:31	00:07:33	See you around.	N
-118	00:07:34	00:07:36	Solo?	N
-119	00:07:38	00:07:42	So does this mean when I come in on my day off I get to work solo?	N
-120	00:07:42	00:07:44	Process.	N
-121	00:07:51	00:07:54	Whoa.	N
-122	00:07:54	00:07:58	I got what looks like two sets of prints.	N
-123	00:08:00	00:08:04	Ballpark in a size ten from the house.	N
-124	00:08:04	00:08:07	And what looks like a...	N
-125	00:08:07	00:08:13	size 12, possibly from the pool.	N
-126	00:08:13	00:08:16	There were definitely two guys here, Griss.	N
-127	00:08:16	00:08:19	Now we just need to figure out if one of them was Mr. Newman.	N
-128	00:08:19	00:08:20	Hey, fellas.	N
-129	00:08:20	00:08:24	Looks like the husband pulled a Clark Kent and left all his clothes behind.	N
-130	00:08:24	00:08:26	Couldn't have gone far.	N
-131	00:08:26	00:08:29	I got his wallet, credit card and keys.	N
-132	00:08:31	00:08:32	You hear that?	N
-133	00:08:32	00:08:33	What is that?	N
-134	00:08:33	00:08:35	Oh, yeah, it's the pool.	N
-135	00:08:35	00:08:36	It's been doing it all night.	N
-136	00:08:36	00:08:38	Sounds like it's clogged.	N
-137	00:08:38	00:08:40	Did someone check this pool?	N
-138	00:08:40	00:08:44	First officer said it was clear.	N
-139	00:08:44	00:08:46	Does that pool look clear to you?	N
-140	00:08:47	00:08:49	Uh... no.	N
-141	00:08:51	00:08:54	One of you guys is going in.	N
-142	00:09:05	00:09:06	I'll go in the pool.	N
-143	00:09:44	00:09:46	Oh, man!	N
-144	00:09:46	00:09:48	Male D.B.	N
-145	00:09:55	00:09:56	You have dinner yet?	N
-146	00:09:56	00:09:58	Yeah. Why?	N
-147	00:09:58	00:10:01	You might be seeing it again.	N
-148	00:10:04	00:10:06	Mandy Kirk.	N
-149	00:10:06	00:10:07	Seventeen.	N
-150	00:10:07	00:10:08	Seventeen.	N
-151	00:10:08	00:10:09	Senior.	N
-152	00:10:09	00:10:11	Janitor found her.	N
-153	00:10:11	00:10:13	Hi, David. Hey.	N
-154	00:10:20	00:10:22	Eviscerated.	N
-155	00:10:22	00:10:23	Maybe a wild animal.	N
-156	00:10:23	00:10:26	They picked up a mountain lion last week in Henderson.	N
-157	00:10:26	00:10:28	Suburbs are encroaching on the hinterlands.	N
-158	00:10:28	00:10:31	We'll know more after the autopsy.	N
-159	00:10:31	00:10:35	It's a cheerleader.	N
-160	00:10:35	00:10:37	She had to have good lungs.	N
-161	00:10:37	00:10:40	How come nobody heard her scream?	N
-162	00:10:49	00:10:51	Didn't have to do much of a Y.	N
-163	00:10:51	00:10:53	Attack did it for me.	N
-164	00:10:53	00:10:54	Died of exsanguination.	N
-165	00:10:54	00:10:55	Bled out.	N
-166	00:10:55	00:10:58	Trauma to her internal organs.	N
-167	00:10:58	00:11:01	Spleen, liver, heart they all sustained multiple mastications.	N
-168	00:11:01	00:11:03	Hmm.	N
-169	00:11:03	00:11:04	You able to isolate the species?	N
-170	00:11:04	00:11:07	From the tooth mark on her left ninth rib.	N
-171	00:11:11	00:11:12	Dog maybe?	N
-172	00:11:13	00:11:15	Teeth marks are too small for a mountain cat.	N
-173	00:11:15	00:11:16	They're human.	N
-174	00:11:16	00:11:19	You're lying.	N
-175	00:11:22	00:11:27	You can see the bridgework on this impression of a premolar and an adjoining molar.	N
-176	00:11:27	00:11:31	Can you tell how old the attacker is?	N
-177	00:11:31	00:11:35	Well, I can't give you the exact age but wisdom teeth erupt between 16 and 30.	N
-178	00:11:35	00:11:38	And there's no evidence of a wisdom molar on this impression.	N
-179	00:11:38	00:11:39	Thanks.	N
-180	00:11:42	00:11:43	Oh, one more thing.	N
-181	00:11:43	00:11:47	I found an infection in the mucus overlying the large intestine.	N
-182	00:11:47	00:11:50	This girl suffered from the E-coli bacteria.	N
-183	00:11:50	00:11:52	E-coli?	N
-184	00:11:52	00:11:53	Unsanitary conditions?	N
-185	00:11:53	00:11:55	Or a bad burger.	N
-186	00:11:55	00:12:00	So whoever did this to her also has E-coli.	N
-187	00:12:00	00:12:01	Oh, yeah.	N
-188	00:12:01	00:12:04	Spiked temp, vomiting, lower GI problems, the works.	N
-189	00:12:04	00:12:07	Smoking gun.	N
-190	00:12:46	00:12:49	I mean, I don't get it.	Y
-191	00:12:49	00:12:54	She's not even slated to work she comes in on her day off and she gets to work solo.	N
-192	00:12:54	00:12:57	You still harping on the solo thing?	N
-193	00:12:57	00:13:00	You know every time you work with me you learn something.	Y
-194	00:13:03	00:13:05	Is that right? Yes.	Y
-195	00:13:05	00:13:07	I live here. Why can't I go in?	Y
-196	00:13:07	00:13:09	I want to see my father.	Y
-197	00:13:09	00:13:12	I'm Cal's ex-wife, Jeri Newman and this is our son Max.	N
-198	00:13:12	00:13:14	We have the right to an answer.	N
-199	00:13:14	00:13:16	And we have a right to protect the crime scene.	N
-200	00:13:16	00:13:18	What's going on?	N
-201	00:13:18	00:13:21	I can't tell you anything until I get all the details.	N
-202	00:13:21	00:13:22	I'm sorry.	N
-203	00:13:22	00:13:23	Catherine?	N
-204	00:13:27	00:13:32	We need someone to identify the body.	N
-205	00:13:32	00:13:33	Ms. Newman.	N
-206	00:13:33	00:13:35	Would you come with me, please?	N
-207	00:13:35	00:13:37	What about me?	N
-208	00:13:37	00:13:38	Uh, no, honey.	Y
-209	00:13:38	00:13:40	You stay right here.	Y
-210	00:13:43	00:13:45	No skin separation.	Y
-211	00:13:45	00:13:46	Minimal gaseous buildup.	N
-212	00:13:46	00:13:48	This guy's been in here under 12 hours.	N
-213	00:13:48	00:13:51	00.	N
-214	00:13:51	00:13:52	It's about right.	N
-215	00:13:58	00:14:00	What is that, some kind of filter?	N
-216	00:14:00	00:14:02	It's an anti-vortex filter.	N
-217	00:14:03	00:14:05	Hey, I'm from Jersey, we swim at the shore.	N
-218	00:14:06	00:14:10	It's designed to keep his hand out of that pipe.	N
-219	00:14:10	00:14:12	But it's missing a few screws.	N
-220	00:14:14	00:14:18	Ms. Newman, is this your ex-husband?	N
-221	00:14:20	00:14:21	It's Cal.	N
-222	00:14:35	00:14:36	Virtual tour.	N
-223	00:14:36	00:14:37	Right on, Archie.	N
-224	00:14:37	00:14:41	Before and after photos of the crime scene.	N
-225	00:14:41	00:14:43	Thank you, thank you very much.	N
-226	00:14:43	00:14:47	It was on the hard drive of the computer you got at the crime scene.	N
-227	00:14:47	00:14:50	Looks like a Peter Croft sculpture.	N
-228	00:14:50	00:14:52	You know your art. You a collector?	N
-229	00:14:52	00:14:53	What? On my salary?	N
-230	00:14:53	00:14:56	Guggenheim's as close as I get to something like that.	N
-231	00:14:57	00:14:58	Oh, I haven't been yet.	N
-232	00:14:58	00:14:59	Really?	N
-233	00:14:59	00:15:02	Well, if you want a tour, I know a docent.	N
-234	00:15:02	00:15:04	A docent.	N
-235	00:15:04	00:15:05	So, you think that's legit?	N
-236	00:15:06	00:15:08	House like this, probably not a knock-off.	N
-237	00:15:09	00:15:10	You'd be surprised.	N
-238	00:15:10	00:15:12	The rich go cheap to stay rich, know what I mean?	N
-239	00:15:12	00:15:14	Yeah. Let me show you the after photos.	N
-240	00:15:14	00:15:16	Please.	N
-241	00:15:16	00:15:18	Same spot.	N
-242	00:15:18	00:15:20	And, uh, what happened to the sculpture?	N
-243	00:15:20	00:15:22	Good question.	N
-244	00:15:22	00:15:24	You saying somebody lifted it?	N
-245	00:15:24	00:15:26	Well, they don't call them open houses for nothing.	N
-246	00:15:26	00:15:29	Put your house on the market your privacy's up for grabs, too.	N
-247	00:15:29	00:15:34	The Newmans unlocked their door to anybody with Internet access.	N
-248	00:15:38	00:15:39	Soccer bunnies?	N
-249	00:15:39	00:15:41	What are soccer bunnies?	N
-250	00:15:41	00:15:43	Well, each cheerleader is assigned a soccer player.	N
-251	00:15:43	00:15:44	She's his bunny.	N
-252	00:15:44	00:15:49	Gives him gifts the night before the big game places his wake-up call.	N
-253	00:15:49	00:15:50	Sounds sexual.	N
-254	00:15:50	00:15:53	Yeah, that's what I asked the principal but he said no.	N
-255	00:15:53	00:15:55	He said that, uh it's all good, clean fun.	N
-256	00:15:55	00:16:00	Gifts are inspirational videos like, uh, Rocky and wake-up calls are pep talks, nothing more.	N
-257	00:16:00	00:16:04	Yeah, well, I'm not sure the principal's up to speed on teenagers' sexual habits.	N
-258	00:16:04	00:16:07	Yeah, well, victim Mandy was soccer bunny to a Chuck Darwell.	N
-259	00:16:08	00:16:14	And when I called him on his cell this morning he said that he hooked up with Mandy after every game except last night.	N
-260	00:16:14	00:16:16	Said he hadn't seen her last night.	N
-261	00:16:16	00:16:18	He in class? Hospital.	N
-262	00:16:18	00:16:20	Got rushed there two minutes ago.	N
-263	00:16:24	00:16:26	I bet I know why.	N
-264	00:16:31	00:16:32	No surprise here.	N
-265	00:16:32	00:16:33	He drowned.	N
-266	00:16:33	00:16:37	We found his right hand caught in a pool filter.	N
-267	00:16:37	00:16:40	Lack of bruising, no bleeding wounds.	N
-268	00:16:41	00:16:45	Indicates his circulatory system had stopped.	N
-269	00:16:45	00:16:47	This was postmortem.	N
-270	00:16:53	00:16:57	Any significance to the marks on his chest?	N
-271	00:16:57	00:16:58	Uh, don't know. Not a rash.	N
-272	00:16:58	00:17:00	Some kind of abrasion.	N
-273	00:17:00	00:17:03	Maybe even a friction burn.	N
-274	00:17:03	00:17:04	Definitely peri-mortem.	N
-275	00:17:04	00:17:10	X-rays reveal several broken ribs and he's got a bruise on his forehead.	N
-276	00:17:10	00:17:12	He could have taken a bad fall.	N
-277	00:17:12	00:17:14	Or he could have been beaten.	N
-278	00:17:14	00:17:16	Maybe.	N
-279	00:17:16	00:17:17	How about the new wife?	N
-280	00:17:19	00:17:24	No physical findings for sexual assault though I did send a kit to DNA.	N
-281	00:17:24	00:17:27	Looks like cause of death was a single gunshot to the head.	N
-282	00:17:27	00:17:29	I'll know more later.	N
-283	00:17:29	00:17:31	You always tell me that.	N
-284	00:17:31	00:17:32	Yes, I do.	N
-285	00:17:32	00:17:35	Depth of bruising gives us a timeline.	N
-286	00:17:35	00:17:41	Apparent thumbprint on her neck came first the, uh, prints on her hands second.	N
-287	00:17:41	00:17:43	Major impression on top.	N
-288	00:17:43	00:17:48	It's some kind of recoil bruise on her palm.	N
-289	00:17:49	00:17:51	She didn't shoot herself.	N
-290	00:17:53	00:17:55	She had help.	N
-291	00:17:56	00:18:00	Of course, no house is complete without a pool.	N
-292	00:18:02	00:18:04	Why live in Vegas if you don't have a pool?	N
-293	00:18:06	00:18:10	Mm, water's warm.	N
-294	00:18:10	00:18:14	You want to come by and take a dip?	N
-295	00:18:14	00:18:15	Quite the saleswoman.	N
-296	00:18:15	00:18:20	Come on, take a...	N
-297	00:18:20	00:18:23	It's got to be a fantasy of yours, huh?	N
-298	00:18:23	00:18:25	Huh, double feature.	N
-299	00:18:26	00:18:29	You know you want this.	N
-300	00:18:29	00:18:31	Blam.	N
-301	00:18:32	00:18:33	You can say that again.	N
-302	00:18:33	00:18:34	Blam.	N
-303	00:18:34	00:18:36	Down, boys.	N
-304	00:18:39	00:18:43	I probably should even be saying this, but, uh...	N
-305	00:18:43	00:18:50	sex is on my mind all the time.	N
-306	00:18:50	00:18:53	Hey, Archie, freeze it.	N
-307	00:18:53	00:18:55	And, uh...	N
-308	00:18:55	00:18:56	Who's that in the background?	N
-309	00:18:56	00:18:57	Hmm?	N
-310	00:18:57	00:19:01	Oh, that guy in the mirror. Good.	N
-311	00:19:01	00:19:03	Archie, help us out.	N
-312	00:19:03	00:19:05	Yup, I got him.	N
-313	00:19:05	00:19:06	Nice.	N
-314	00:19:10	00:19:12	Hey this is the broker.	N
-315	00:19:12	00:19:14	I just did a background check on that guy.	N
-316	00:19:14	00:19:17	Half a dozen robberies in the houses he has listed.	N
-317	00:19:17	00:19:19	Art, antiques, stuff like that.	N
-318	00:19:19	00:19:22	Like the Peter Croft sculpture.	N
-319	00:19:22	00:19:23	Exactly.	N
-320	00:19:23	00:19:28	Looks like Augie was helping himself to a little bit more than the artwork.	N
-321	00:19:30	00:19:31	I understand, Mr. Darwell.	N
-322	00:19:31	00:19:33	Have your son's wisdom teeth come in yet?	N
-323	00:19:33	00:19:34	What?	N
-324	00:19:35	00:19:38	Whoever killed Amanda Kirk ingested her organs, Mr. Darwell. Left teeth marks.	N
-325	00:19:38	00:19:40	Excuse me.	N
-326	00:19:40	00:19:42	Hi, uh, Chuck, I'm with the crime lab.	N
-327	00:19:42	00:19:44	I'm going to ask you to show me your back teeth.	N
-328	00:19:44	00:19:47	Give us an odontological impression.	N
-329	00:19:48	00:19:50	I didn't see Mandy last night, I swear.	N
-330	00:19:50	00:19:53	You have no legal right to question or to touch my son.	N
-331	00:19:53	00:19:54	I want you out of here.	N
-332	00:19:54	00:19:56	Now.	N
-333	00:19:56	00:19:57	Is that stomach contents?	N
-334	00:19:57	00:19:59	That's right, officer.	N
-335	00:20:01	00:20:03	Anything he throw up no longer belongs to him.	N
-336	00:20:03	00:20:04	PD, public domain.	N
-337	00:20:05	00:20:07	It's going to tell us everything we need to know.	N
-338	00:20:07	00:20:09	Look, anyone could have lifted that Peter Croft.	N
-339	00:20:09	00:20:11	I thought this was about murder.	N
-340	00:20:11	00:20:12	Oh, it is.	N
-341	00:20:13	00:20:14	Excuse me.	N
-342	00:20:14	00:20:16	Yeah?	N
-343	00:20:16	00:20:17	Hey, yeah...	N
-344	00:20:17	00:20:18	Hey, can I call you back?	N
-345	00:20:19	00:20:21	Okay, then.	N
-346	00:20:21	00:20:22	Bye-bye.	N
-347	00:20:22	00:20:24	I'm sorry, where were we?	N
-348	00:20:24	00:20:25	The tape.	N
-349	00:20:25	00:20:29	It wasn't anybody's face on that tape, it was your face.	N
-350	00:20:29	00:20:31	I recorded their house for the virtual tour.	N
-351	00:20:31	00:20:33	That's what I do to sell houses.	N
-352	00:20:33	00:20:37	Selling house as a front for porno a little blackmail on the side.	N
-353	00:20:37	00:20:38	What are you talking about?	N
-354	00:20:38	00:20:39	I have done nothing wrong.	N
-355	00:20:39	00:20:41	Oh, you're innocent in all this?	N
-356	00:20:41	00:20:45	I admit to having lust in my heart.	N
-357	00:20:45	00:20:47	Lust doesn't live in your heart.	N
-358	00:20:49	00:20:51	I'm going to need that DNA sample.	N
-359	00:20:51	00:20:53	Well, my DNA is your DNA.	N
-360	00:20:53	00:20:54	Great.	N
-361	00:20:54	00:21:00	Look, for what it's worth I can tell you at least one guy other than her husband that saw Monica in the buff on a weekly basis.	N
-362	00:21:00	00:21:01	Say, ah.	N
-363	00:21:01	00:21:02	Ah.	N
-364	00:21:03	00:21:05	You must get a lot of ass on a job like this, huh?	N
-365	00:21:05	00:21:07	I'm the pool guy, it's one of the perks of the job.	N
-366	00:21:07	00:21:10	One minute I'm scooping leaves the next I'm staring at...	N
-367	00:21:10	00:21:11	Yeah, I get it.	N
-368	00:21:12	00:21:16	The last time you were there did you happen to see anything out of the ordinary?	N
-369	00:21:17	00:21:18	What? You mean sexual?	N
-370	00:21:18	00:21:19	Maybe.	N
-371	00:21:19	00:21:21	No.	N
-372	00:21:21	00:21:22	But, uh...	N
-373	00:21:22	00:21:23	Newman had a temper.	N
-374	00:21:23	00:21:26	He and his kid Max were always going at it.	N
-375	00:21:26	00:21:28	What are these, huh?	N
-376	00:21:28	00:21:29	Where did you get these?!	N
-377	00:21:29	00:21:34	I thought the old man was going to beat his ass but... Newman just screamed some more and took off.	N
-378	00:21:34	00:21:37	You mind if I take a look in your cab?	N
-379	00:21:37	00:21:38	Sure.	N
-380	00:21:57	00:21:59	Well, that's a coincidence.	N
-381	00:21:59	00:22:03	Newman's anti-vortex filter was missing three screws.	N
-382	00:22:03	00:22:04	I can explain, okay?	N
-383	00:22:04	00:22:08	I remove them screws from the filter so I'd have an excuse to go back.	N
-384	00:22:09	00:22:10	Oh, you mean, like, a leave-behind?	N
-385	00:22:10	00:22:12	Yeah, I figured the more I was around...	N
-386	00:22:12	00:22:13	The more she'd want you.	N
-387	00:22:13	00:22:14	Oh, yeah.	N
-388	00:22:14	00:22:17	Well, the lab wants more of you, too.	N
-389	00:22:17	00:22:21	We're going to need your fingerprints and a DNA sample.	N
-390	00:22:21	00:22:23	Take whatever you want, I've got nothing to hide.	N
-391	00:22:34	00:22:36	Anything from the pool?	N
-392	00:22:36	00:22:39	Some hairs, I may have found a filling.	N
-393	00:22:41	00:22:44	Tributlyltin oxide, aluminum sulfate quaternary ammonium.	N
-394	00:22:44	00:22:48	Chemicals in the vic's lungs match the chemicals in the pool water.	N
-395	00:22:48	00:22:50	Anything from his head wound?	N
-396	00:22:50	00:22:51	Trace matches the side of the pool.	N
-397	00:22:51	00:22:54	No surprises.	N
-398	00:22:56	00:22:58	Mildew.	N
-399	00:22:58	00:23:00	Hmm?	N
-400	00:23:00	00:23:01	Aureobasidium pullulans.	N
-401	00:23:01	00:23:05	One of the very few fungi that can withstand the desert temperature.	N
-402	00:23:05	00:23:07	Gives us possible transfer.	N
-403	00:23:08	00:23:11	Exactly. and here's the basic chemistry of the transfer.	N
-404	00:23:11	00:23:21	Add sugar water spoiled from the heat mix in some human biofilm you got yourself an all-you-can-eat mildew buffet.	N
-405	00:23:21	00:23:23	Cal Newman wore size tens.	N
-406	00:23:23	00:23:25	So assuming our killer wore the size 12...	N
-407	00:23:25	00:23:29	He may have transferred mildew from the pool to the house.	N
-408	00:23:29	00:23:33	Normally I don't like to speak ill of the dead but, uh, Mr. Newman's sperm had company.	N
-409	00:23:33	00:23:34	Bad company.	N
-410	00:23:34	00:23:36	Look at D7.	N
-411	00:23:36	00:23:37	Three alleles.	N
-412	00:23:37	00:23:40	Genetics only gives you one from each parent.	N
-413	00:23:40	00:23:43	Which can only mean one thing-- Menage d'allele.	N
-414	00:23:43	00:23:45	She was cheating on her husband.	N
-415	00:23:45	00:23:46	What about stutter?	N
-416	00:23:46	00:23:48	Percentage is too high.	N
-417	00:23:48	00:23:51	We're looking at a minor and a major sample.	N
-418	00:23:51	00:23:52	Minor donor?	N
-419	00:23:52	00:23:53	The husband.	N
-420	00:23:53	00:23:54	Major donor?	N
-421	00:23:54	00:23:55	Pool man.	N
-422	00:23:55	00:23:56	Nope.	N
-423	00:23:56	00:23:57	The broker?	N
-424	00:23:58	00:23:58	Ibid.	N
-425	00:23:58	00:24:01	Major donor is still unaccounted for.	N
-426	00:24:08	00:24:10	How's it coming?	N
-427	00:24:10	00:24:12	Good. I'm almost there. Hang on.	N
-428	00:24:12	00:24:14	Sometime this year.	N
-429	00:24:17	00:24:20	Okay, I think that's the angle.	N
-430	00:24:20	00:24:22	All right, where do I stand?	N
-431	00:24:22	00:24:24	Back up.	N
-432	00:24:24	00:24:25	Keep going.	N
-433	00:24:25	00:24:27	Keep going. Big steps?	N
-434	00:24:27	00:24:28	Little steps?	N
-435	00:24:28	00:24:29	Big. Keep going.	N
-436	00:24:29	00:24:30	Keep going.	N
-437	00:24:30	00:24:32	I go any further, I'll be in the closet.	N
-438	00:24:32	00:24:34	Well, go in the closet.	N
-439	00:24:37	00:24:39	Oh, you got to be kidding me.	N
-440	00:24:39	00:24:40	What?	N
-441	00:24:40	00:24:43	How's this?	N
-442	00:24:43	00:24:45	What the hell is that?	N
-443	00:24:53	00:24:56	These slime will do anything to sell a house, huh?	N
-444	00:24:56	00:24:58	Sometimes, reflections beget reflections.	N
-445	00:24:59	00:25:04	I figured if I could get a glimpse of the Augie cutout maybe I could get a glimpse of the cameraman.	N
-446	00:25:05	00:25:06	Check out the lamp.	N
-447	00:25:23	00:25:24	Her stepson, Max.	N
-448	00:25:24	00:25:28	Did you get any DNA off the cigarette butts?	N
-449	00:25:28	00:25:30	Yeah, we did.	N
-450	00:25:30	00:25:35	So, let's get Greg to compare the reference sample and see if we found our major donor.	N
-451	00:25:51	00:25:54	Driving someone else's porcelain bus?	Y
-452	00:25:54	00:25:57	Suspect's dinner from last night.	Y
-453	00:25:57	00:25:59	The coroner left this in your mail slot.	N
-454	00:25:59	00:26:01	Can you read it for me?	N
-455	00:26:04	00:26:06	What's this look like, Greg?	N
-456	00:26:06	00:26:07	Uh, Caesar salad.	N
-457	00:26:07	00:26:12	Oh, and Pele used an interesting dressing.	Y
-458	00:26:12	00:26:13	PCP.	N
-459	00:26:13	00:26:16	Angel dust. Hallucinogen.	N
-460	00:26:16	00:26:17	Well, it acts like one.	N
-461	00:26:21	00:26:22	Disassociative anesthetic.	Y
-462	00:26:22	00:26:24	Brain disassociates from the body.	Y
-463	00:26:24	00:26:26	Yeah, after it takes you through the paces.	N
-464	00:26:26	00:26:27	How many milligrams?	N
-465	00:26:27	00:26:29	Uh... 20.	N
-466	00:26:29	00:26:31	Dude's dose was off the charts.	N
-467	00:26:31	00:26:33	I'm surprised he's still alive.	N
-468	00:26:33	00:26:34	Yeah.	Y
-469	00:26:34	00:26:37	Too bad everybody didn't make it.	Y
-470	00:26:44	00:26:47	Tell me this is raw chicken skin.	Y
-471	00:26:49	00:26:54	Well, it's raw... and it's definitely skin.	N
-472	00:27:00	00:27:02	My son was nowhere near that pool.	N
-473	00:27:02	00:27:03	He was at...	N
-474	00:27:03	00:27:04	Red Rock Canyon. A field trip.	N
-475	00:27:04	00:27:06	Oh, I'm getting that.	N
-476	00:27:06	00:27:08	What I'm not getting is this.	N
-477	00:27:10	00:27:12	Oh, now, this is disgusting.	N
-478	00:27:13	00:27:17	Look, whatever Cal wanted to do behind closed doors, that was his business.	N
-479	00:27:17	00:27:19	This is not for my eyes or for his eyes.	N
-480	00:27:20	00:27:23	This is not the first time, is it, Max?	N
-481	00:27:31	00:27:33	Can I plead the Fifth or something?	N
-482	00:27:33	00:27:39	Max we found two sperm donors on the sample from your stepmother.	N
-483	00:27:39	00:27:41	Your father's and yours.	N
-484	00:27:41	00:27:43	Now I know why you were spending all that time at your father's.	N
-485	00:27:43	00:27:45	Mom, look, I...	N
-486	00:27:48	00:27:49	Mom...	N
-487	00:27:50	00:27:51	I don't want to hear a word from you.	N
-488	00:27:51	00:27:55	Well, let me lay it out for you.	N
-489	00:28:02	00:28:04	So you must've thought you won the lottery.	N
-490	00:28:04	00:28:08	And the only thing standing between you and the winning ticket was your father.	N
-491	00:28:18	00:28:20	What's your shoe size, Max?	N
-492	00:28:20	00:28:22	Twelve.	N
-493	00:28:23	00:28:24	This can't be happening.	N
-494	00:28:25	00:28:26	Yes, it's happening.	N
-495	00:28:26	00:28:27	Okay, this is a fling.	N
-496	00:28:27	00:28:28	Okay, it's not real.	N
-497	00:28:28	00:28:30	You're confused. You're a kid.	N
-498	00:28:30	00:28:34	I killed my father for you.	N
-499	00:28:34	00:28:37	That's not possible.	N
-500	00:28:37	00:28:39	How come?	N
-501	00:28:39	00:28:41	Because I can't swim.	N
-502	00:28:43	00:28:45	He's telling the truth.	N
-503	00:28:45	00:28:50	When Max was a child he had this terrible pool accident.	N
-504	00:28:50	00:28:53	He nearly drowned.	N
-505	00:29:04	00:29:06	We need that report, ASAP.	N
-506	00:29:08	00:29:10	Your temperature is spiking.	N
-507	00:29:10	00:29:16	Of course, you didn't know Mandy had E. coli when you... ate her, did you?	N
-508	00:29:16	00:29:18	No, no, I would never do that.	N
-509	00:29:18	00:29:20	You would on PCP.	N
-510	00:29:21	00:29:25	Normal brain, neurons send a message synapses blink on and off.	N
-511	00:29:25	00:29:29	On PCP, synapses never stop firing.	N
-512	00:29:29	00:29:32	Like your entire brain is on constant DSL.	N
-513	00:29:34	00:29:37	You and Mandy were on the soccer field.	N
-514	00:29:37	00:29:38	You were cranked up.	N
-515	00:29:38	00:29:40	Do you remember anything?	N
-516	00:29:46	00:29:48	Yeah.	N
-517	00:29:49	00:29:52	But I don't remember killing her. I swear to God.	N
-518	00:29:52	00:29:54	Lieutenant Lockwood's going to arrest you.	N
-519	00:29:54	00:29:57	We'll assign you an advocate.	N
-520	00:29:59	00:30:02	So, how does a kid who can't swim drown his father?	N
-521	00:30:02	00:30:03	The kid didn't do it.	N
-522	00:30:03	00:30:06	Look, we found the father's blood on the underside of the pool ledge.	N
-523	00:30:06	00:30:09	And his body at the bottom of the pool with abrasions on his chest.	N
-524	00:30:10	00:30:12	So there was a struggle in the water.	Y
-525	00:30:13	00:30:14	With someone who can swim.	N
-526	00:30:15	00:30:15	Right.	N
-527	00:30:21	00:30:24	You cannot be serious!	Y
-528	00:30:24	00:30:27	Hey, John McEnroe, where's the game?	Y
-529	00:30:27	00:30:33	All the prints are accounted for by people who had a reason to be in the Newman house all the way down to the vortex cover, Warrick.	Y
-530	00:30:33	00:30:34	Prints came back to the pool boy.	N
-531	00:30:34	00:30:43	Yeah. Yeah, so all I've got is an errant blond hair a tooth filling and some detritus from the bottom of the pool.	Y
-532	00:30:43	00:30:46	All right, now, don't get your panties in a bunch.	Y
-533	00:30:46	00:30:51	Uh, so we got the blond hair, the tooth filling...	N
-534	00:30:51	00:30:52	That's it, huh?	N
-535	00:30:52	00:30:53	Yeah.	Y
-536	00:30:53	00:30:58	I mean, I did identify some Neoprene and it was white.	Y
-537	00:30:58	00:30:59	White Neoprene.	N
-538	00:30:59	00:31:00	Yeah.	Y
-539	00:31:00	00:31:02	Like in a wet suit Neoprene?	Y
-540	00:31:03	00:31:05	Was the vic a diver?	Y
-541	00:31:05	00:31:06	Not that I know of.	Y
-542	00:31:06	00:31:09	The son can't even swim.	N
-543	00:31:09	00:31:10	Let's think about that.	Y
-544	00:31:10	00:31:15	Who wears a white wet suit in a pool?	Y
-545	00:31:15	00:31:17	Scuba diver.	N
-546	00:31:17	00:31:18	Or a professional.	Y
-547	00:31:18	00:31:21	A professional.	Y
-548	00:31:21	00:31:24	No, I mean like a hired gun professional.	N
-549	00:31:24	00:31:27	Yeah.	N
-550	00:31:35	00:31:36	Tooth hurt?	N
-551	00:31:38	00:31:46	You might, uh, need your filling which we found at the bottom of the Newmans' pool.	N
-552	00:31:46	00:31:50	We also found your fingerprints and your hair.	N
-553	00:31:50	00:31:54	Look, I'm sure you'll find me all over the house.	N
-554	00:31:54	00:31:55	I wanted to buy it.	N
-555	00:31:55	00:31:57	I was everywhere.	N
-556	00:31:57	00:32:00	Well, you made sure you were everywhere, too, didn't you?	N
-557	00:32:00	00:32:04	I wanted to thoroughly inspect the property.	N
-558	00:32:04	00:32:05	Caveat emptor, right?	N
-559	00:32:05	00:32:08	Or caveat venditor.	N
-560	00:32:08	00:32:09	Let the seller beware.	N
-561	00:32:10	00:32:12	Your prints came back military.	N
-562	00:32:12	00:32:13	Navy Seal.	N
-563	00:32:13	00:32:15	Ex-Navy Seal.	N
-564	00:32:15	00:32:16	Oh, yeah, that's right.	N
-565	00:32:16	00:32:19	You rang the bell.	N
-566	00:32:22	00:32:26	You had the physical tools for the training but not the character.	N
-567	00:32:26	00:32:32	And if you had anything more than a filling and a piece of Neoprene we wouldn't be here.	N
-568	00:32:32	00:32:33	Berglund.	N
-569	00:32:33	00:32:36	That's a Scandinavian name, isn't it?	N
-570	00:32:37	00:32:39	That's what my parents tell me.	N
-571	00:33:02	00:33:05	Hey, heard you nailed soccer boy for the murder.	N
-572	00:33:05	00:33:06	Not exactly.	N
-573	00:33:06	00:33:09	No match on the bite plate.	N
-574	00:33:09	00:33:11	Well, maybe there was someone else with them.	Y
-575	00:33:11	00:33:14	Someone getting sicker by the minute.	Y
-576	00:33:20	00:33:22	Greg.	Y
-577	00:33:22	00:33:23	Yeah?	N
-578	00:33:23	00:33:25	I need you to take off your shoes and socks.	Y
-579	00:33:25	00:33:33	See, now we're getting into this whole strip forensics thing and I'm not so sure I can hang with that even if you are my boss.	Y
-580	00:33:33	00:33:36	Your mother's maiden name is Hojem, correct?	N
-581	00:33:36	00:33:37	Hojem is Norwegian?	N
-582	00:33:37	00:33:39	Yeah.	N
-583	00:33:39	00:33:43	And you know, my grandfather got tossed from Norway for getting my grandmother pregnant before they got married.	Y
-584	00:33:43	00:33:48	To this day, he still tells me Som man reder sa ligger man.	Y
-585	00:33:52	00:33:54	One must lie in the bed one has made.	N
-586	00:33:54	00:33:56	That's true.	N
-587	00:33:56	00:33:57	Right foot first, please.	N
-588	00:34:00	00:34:01	Now, you're sure you want me to do this?	Y
-589	00:34:01	00:34:03	Things could get loud in here.	Y
-590	00:34:08	00:34:09	Left foot.	N
-591	00:34:12	00:34:15	So you want to tell me why we're doing this?	Y
-592	00:34:17	00:34:19	It's an experiment.	N
-593	00:34:20	00:34:21	Put these on.	Y
-594	00:34:21	00:34:23	Come see me in six hours.	N
-595	00:34:34	00:34:35	Nicole Exmoor, 18.	N
-596	00:34:35	00:34:37	School nurse said she couldn't stop throwing up.	N
-597	00:34:37	00:34:39	Teacher found her passed out in the locker room.	N
-598	00:34:39	00:34:40	She have an explanation?	N
-599	00:34:40	00:34:43	Said that she ate something that didn't agree with her.	Y
-600	00:34:44	00:34:46	Nicole, do you know what E. coli is?	Y
-601	00:34:46	00:34:49	Your friend Mandy was infected with it.	Y
-602	00:34:49	00:34:52	We think we know how you got it.	N
-603	00:34:52	00:34:53	We can test your blood for PCP...	N
-604	00:34:53	00:34:56	Chuck brought the weed, not me.	Y
-605	00:34:56	00:34:59	This guy told him it was a really great high.	Y
-606	00:35:01	00:35:04	These photographs are...	Y
-607	00:35:04	00:35:07	of Mandy's ribs.	Y
-608	00:35:07	00:35:09	We believe these are your teeth marks.	Y
-609	00:35:13	00:35:20	Ms. Sidle can make an impression of your teeth or you can help yourself and explain what happened.	Y
-610	00:35:24	00:35:27	When Jack and I went to the field...	Y
-611	00:35:27	00:35:30	we were hooking up behind Mandy's back.	N
-612	00:35:33	00:35:37	She showed up, she was like, He's my player.	Y
-613	00:35:37	00:35:38	Mandy!	N
-614	00:35:39	00:35:44	I don't know what happened. I started to feel weird like my blood was surging through me.	Y
-615	00:35:47	00:35:50	It didn't make any sense.	Y
-616	00:35:53	00:35:56	I think I wanted to be her.	Y
-617	00:36:04	00:36:06	It felt...	N
-618	00:36:06	00:36:09	It felt like somebody else walked over and did it.	N
-619	00:36:09	00:36:12	Like she was split from my body.	N
-620	00:36:17	00:36:21	It's called psychological detachment.	N
-621	00:36:21	00:36:23	It's a function of PCP.	N
-622	00:36:43	00:36:46	It's like out of a really bad dream.	N
-623	00:36:46	00:36:49	Nicole, I was at Mandy's autopsy.	N
-624	00:36:49	00:36:52	It was not a dream.	Y
-625	00:37:03	00:37:08	I'm placing you under arrest for the murder of Amanda Kirk.	Y
-626	00:37:17	00:37:19	What's going to happen to me?	N
-627	00:37:21	00:37:23	That's up to the D.A.	N
-628	00:37:32	00:37:39	Hey, Cyrus, next time somebody says experimenting with drugs is harmless remind me of this.	Y
-629	00:37:46	00:37:49	What did you do to me?	Y
-630	00:37:49	00:37:51	You had a reaction.	Y
-631	00:37:51	00:37:54	I'm Hazmat meat.	N
-632	00:37:54	00:37:56	Quarantine, here I come.	Y
-633	00:37:57	00:38:01	Your right foot, I swabbed with a placebo, regular tap water.	Y
-634	00:38:01	00:38:03	Yeah, well, I'm not worried about the right foot.	N
-635	00:38:03	00:38:06	Left foot... eumycotic dermatitis.	Y
-636	00:38:06	00:38:07	Oh, great.	Y
-637	00:38:07	00:38:09	It's probably fatal.	Y
-638	00:38:09	00:38:11	It's a mildew-induced skin rash.	N
-639	00:38:11	00:38:15	You infected me with mildew?	Y
-640	00:38:19	00:38:20	Here. Hydrocortisone.	N
-641	00:38:20	00:38:23	Follow the directions, clear it right up.	Y
-642	00:38:25	00:38:29	It's called Aureobasidium pullulans.	Y
-643	00:38:29	00:38:32	Is that supposed to mean something to me?	Y
-644	00:38:34	00:38:35	It may.	N
-645	00:38:35	00:38:38	This is a warrant.	Y
-646	00:38:39	00:38:42	To see my feet?	Y
-647	00:38:42	00:38:44	Yes, both of them.	Y
-648	00:38:44	00:38:46	Take off your shoes and socks, please.	Y
-649	00:38:47	00:38:50	Aureobasidium pullulans is a mildew.	N
-650	00:38:50	00:38:52	We found it around the Newmans' pool.	N
-651	00:38:52	00:39:01	It induces rashes in people of Scandinavian descent-- and it does so in a predictable progression which provides us with a valuable timeline.	Y
-652	00:39:06	00:39:07	You have the rash.	Y
-653	00:39:12	00:39:14	And size 12 feet.	Y
-654	00:39:22	00:39:25	Let me tell you how you did this.	Y
-655	00:40:14	00:40:16	And then you went upstairs.	N
-656	00:40:16	00:40:17	Cal?	N
-657	00:40:20	00:40:25	You're still going to have to convince a jury that I killed two strangers for no reason.	Y
-658	00:40:29	00:40:32	You ever been to the theater, Peter?	Y
-659	00:40:32	00:40:35	There's a play called Six Degrees of Separation.	Y
-660	00:40:35	00:40:40	It's about how all the people in the world are connected to each other by no more than six people.	Y
-661	00:40:40	00:40:45	All it takes to connect you to the victims is one degree.	Y
-662	00:40:49	00:40:51	Peter Berglund?	N
-663	00:40:52	00:40:55	No, I don't recall ever having met somebody by that name.	N
-664	00:40:55	00:40:58	Well, do you recall living in San Diego?	N
-665	00:40:58	00:41:01	What does that have to do with anything?	N
-666	00:41:01	00:41:02	Oh, it just might help jog your memory.	N
-667	00:41:02	00:41:04	San Diego's a military town.	N
-668	00:41:04	00:41:06	Your sister married a guy in the Navy, right?	N
-669	00:41:06	00:41:08	Did you really bring me in here just for this?	N
-670	00:41:08	00:41:11	Well, we could go someplace else if you'd like.	N
-671	00:41:11	00:41:14	How about your house?	N
-672	00:41:14	00:41:16	The one you're selling.	N
-673	00:41:16	00:41:18	What's this?	N
-674	00:41:18	00:41:25	Well, you see, we didn't have enough evidence at this point to get a warrant but you put your house on the Internet.	N
-675	00:41:25	00:41:27	I didn't need a warrant.	N
-676	00:41:27	00:41:32	Gave me complete access via this virtual tour.	N
-677	00:41:32	00:41:35	And all with your permission.	N
-678	00:41:42	00:41:45	That's you... that's Peter Berglund...	N
-679	00:41:46	00:41:47	and that's the Pacific.	N
-680	00:41:48	00:41:49	So what?	N
-681	00:41:49	00:41:51	I know Peter.	N
-682	00:41:51	00:41:53	Yeah.	N
-683	00:41:53	00:41:57	You hired him to kill your ex-husband and his new wife.	N
-684	00:41:57	00:41:59	The picture doesn't prove anything.	N
-685	00:41:59	00:42:03	No, but it did give me access to Peter's financial information.	N
-686	00:42:06	00:42:10	Loan application. Two signatures-- Peter Berglund and yours.	N
-687	00:42:10	00:42:13	You cosigned for Peter because he couldn't qualify on his own.	N
-688	00:42:13	00:42:15	Payment for the hit.	N
-689	00:42:15	00:42:18	He gets your house you get your ex-husband's money.	N
-690	00:42:18	00:42:21	The thing about murder for hire...	N
-691	00:42:21	00:42:23	there's always a paper trail.	N
-692	00:42:31	00:42:33	Good night.	N
-693	00:42:34	00:42:36	Good night, Sara.	N
-694	00:42:39	00:42:40	Hey.	N
-695	00:42:42	00:42:45	Nice work on the high school case.	N
-696	00:42:47	00:42:49	I'm, uh...	N
-697	00:42:51	00:42:53	...sorry I missed your page.	N
-698	00:42:53	00:42:56	It's just, um...	N
-699	00:42:56	00:43:00	you tell me to get a life and then I get one, and...	N
-700	00:43:00	00:43:04	then you expect me to be there at a moment's notice.	N
-701	00:43:04	00:43:08	It's, um, confusing.	N
+	Unnamed: 0.1	Unnamed: 0	start	end	text	label
+0	0	0	00:00:14	00:00:17	Wow, I love it already.	N
+1	1	1	00:00:18	00:00:22	I can't believe we're doing this. Is that the lockbox?	N
+2	2	2	00:00:22	00:00:24	Broker gave me the combination.	N
+3	3	3	00:00:24	00:00:26	He's doing a walk-through in Seven Hills.	N
+4	4	4	00:00:27	00:00:30	Owners are out.	N
+5	5	5	00:00:41	00:00:44	Wow.	N
+6	6	6	00:00:44	00:00:46	Wait till you see the master.	N
+7	7	7	00:00:54	00:00:56	Oh, my God.	N
+8	8	8	00:00:56	00:00:58	This is gorgeous.	N
+9	9	9	00:00:59	00:01:01	Amazing.	N
+10	10	10	00:01:04	00:01:06	What?	N
+11	11	11	00:01:06	00:01:08	Want to snoop around?	N
+12	12	12	00:01:20	00:01:21	Hey.	N
+13	13	13	00:01:23	00:01:25	What do you think?	N
+14	14	14	00:01:25	00:01:26	I don't know, yeah. It's nice?	N
+15	15	15	00:01:26	00:01:28	Looks good.	N
+16	16	16	00:01:28	00:01:29	Cut it out.	N
+17	17	17	00:01:29	00:01:31	No, seriously, I think I hear a car.	N
+18	18	18	00:01:31	00:01:32	Will you relax? No, really.	N
+19	19	19	00:01:32	00:01:34	You're paranoid.	N
+20	20	20	00:01:39	00:01:41	Oh, my God.	N
+21	21	21	00:01:41	00:01:42	I could get used to this place.	N
+22	22	22	00:01:42	00:01:43	I bet you could.	N
+23	23	23	00:01:43	00:01:44	I could.	N
+24	24	24	00:01:45	00:01:46	You're an animal.	N
+25	25	25	00:01:46	00:01:48	The backyard is the best part of the house.	N
+26	26	26	00:01:48	00:01:49	Really? Is there a Jacuzzi?	N
+27	27	27	00:01:54	00:01:57	Oh, my God.	N
+28	28	28	00:01:57	00:02:00	Looks like something out of a magazine.	N
+29	29	29	00:02:26	00:02:28	Cal and Monica Newman.	N
+30	30	30	00:02:28	00:02:31	Owners of the house. My guess, second marriage.	N
+31	31	31	00:02:31	00:02:32	'Cause she's a babe and he's...	N
+32	32	32	00:02:32	00:02:34	He's, uh...	N
+33	33	33	00:02:34	00:02:35	got a good sense of humor.	N
+34	34	34	00:02:44	00:02:49	.380 auto caliber.	N
+35	35	35	00:02:54	00:02:56	Gunshot, right temple.	N
+36	36	36	00:02:56	00:02:59	Women don't usually shoot themselves in the head do they, Catherine?	N
+37	37	37	00:02:59	00:03:03	Well, gunshots do a number on your face so typically women prefer pills.	N
+38	38	38	00:03:04	00:03:06	So what are we calling this, murder, suicide, what?	N
+39	39	39	00:03:06	00:03:09	Is the husband around?	N
+40	40	40	00:03:09	00:03:10	No.	N
+41	41	41	00:03:12	00:03:15	Dead female spouse plus missing husband...	N
+42	42	42	00:03:15	00:03:17	equals murder.	N
+43	43	43	00:03:53	00:03:54	Okay, Warrick, hit it.	N
+44	44	44	00:04:00	00:04:03	White female, multiple bruising...	N
+45	45	45	00:04:03	00:04:06	Bullet hole to the temple doesn't help.	N
+46	46	46	00:04:06	00:04:09	.380 auto on the side.	N
+47	47	47	00:04:09	00:04:13	Yeah, somebody manhandled her pretty good before they killed her.	N
+48	48	48	00:04:33	00:04:35	Reminds me of my daughter.	N
+49	49	49	00:04:35	00:04:37	She used throw butts out the window, too.	N
+50	50	50	00:04:37	00:04:40	The Newmans have kids?	N
+51	51	51	00:04:40	00:04:43	A kid. Son, 15, Max Newman.	N
+52	52	52	00:04:43	00:04:45	He's MIA like the father.	N
+53	53	53	00:04:45	00:04:49	The secretary said he went out for lunch and never came back.	N
+54	54	54	00:04:49	00:04:51	I checked the garage-- three cars.	N
+55	55	55	00:04:51	00:04:54	None of the hoods are hot.	N
+56	56	56	00:04:54	00:04:56	We're missing something.	N
+57	57	57	00:04:56	00:04:58	Grissom. Mr. Grissom.	N
+58	58	58	00:04:58	00:05:01	Where would I find Mr. Grissom?	N
+59	59	59	00:05:02	00:05:03	Great, great. Thank you very much. Mr. Grissom?	N
+60	60	60	00:05:03	00:05:06	Hi, I'm Augie Heitz.	N
+61	61	61	00:05:06	00:05:07	This is my listing.	N
+62	62	62	00:05:08	00:05:09	Someone died, I know.	N
+63	63	63	00:05:09	00:05:11	It's a terrible thing.	N
+64	64	64	00:05:11	00:05:14	But we got people knocking down awnings stomping through the flower beds.	N
+65	65	65	00:05:14	00:05:17	How am I supposed to sell this house?	N
+66	66	66	00:05:17	00:05:18	You're not.	N
+67	67	67	00:05:18	00:05:20	It's a crime scene.	N
+68	68	68	00:05:20	00:05:23	Mr. Heitz, you're Mr. Newman's broker.	N
+69	69	69	00:05:23	00:05:25	Have you seen your client lately?	N
+70	70	70	00:05:25	00:05:27	What, you kidding?	N
+71	71	71	00:05:27	00:05:30	I mean, this is actually the beauty of the service I provide.	N
+72	72	72	00:05:30	00:05:32	My clients never have to see me.	N
+73	73	73	00:05:32	00:05:35	They don't even have to be home when I show their house.	N
+74	74	74	00:05:35	00:05:36	Do you always give out the combination to your lockboxes?	N
+75	75	75	00:05:37	00:05:38	It's illegal.	N
+76	76	76	00:05:38	00:05:40	It's a hot market.	N
+77	77	77	00:05:40	00:05:42	Um...	N
+78	78	78	00:05:42	00:05:43	You know, I had a fish on the line.	N
+79	79	79	00:05:43	00:05:46	Potential bidding war.	N
+80	80	80	00:05:46	00:05:47	Look... ( clears throat )	N
+81	81	81	00:05:47	00:05:51	I only give out the combination to people that I really trust.	N
+82	82	82	00:05:55	00:05:56	All right, look, I read rooms for a living.	N
+83	83	83	00:05:57	00:05:59	That closet was tossed. The carpet lit up.	N
+84	84	84	00:05:59	00:06:01	So I'm going to ask you again.	N
+85	85	85	00:06:01	00:06:03	What were you doing in there besides copulating?	N
+86	86	86	00:06:05	00:06:07	It was my idea.	N
+87	87	87	00:06:07	00:06:11	Right. Well, we found this laptop on the vanity still on.	N
+88	88	88	00:06:11	00:06:13	You didn't play with it, too, did you?	N
+89	89	89	00:06:18	00:06:20	Hey, Warrick.	N
+90	90	90	00:06:20	00:06:21	Check this out.	N
+91	91	91	00:06:24	00:06:26	It's a little thin for blood, isn't it?	N
+92	92	92	00:06:26	00:06:28	Yeah.	N
+93	93	93	00:06:31	00:06:34	What do you...?	N
+94	94	94	00:06:34	00:06:37	Tastes like sugar water.	N
+95	95	95	00:06:37	00:06:38	Erythrosine.	N
+96	96	96	00:06:38	00:06:40	Red dye number three.	N
+97	97	97	00:06:40	00:06:43	Hummingbirds do love the color red.	N
+98	98	98	00:06:43	00:06:46	You've been watching way too much Discovery Channel.	N
+99	99	99	00:06:46	00:06:48	This guy needs a girl.	N
+100	100	100	00:06:49	00:06:51	I'm going to check out the cabana.	N
+101	101	101	00:06:51	00:06:52	No visible footprints.	N
+102	102	102	00:06:52	00:06:54	Doesn't mean someone wasn't out here.	N
+103	103	103	00:06:55	00:06:56	Grab the LS.	N
+104	104	104	00:06:56	00:06:58	Yeah.	N
+105	105	105	00:07:00	00:07:01	Hey. Sara.	N
+106	106	106	00:07:03	00:07:05	I am so sorry.	N
+107	107	107	00:07:05	00:07:08	I paged you two hours ago.	N
+108	108	108	00:07:08	00:07:09	Right. Uh, it's my day off.	N
+109	109	109	00:07:10	00:07:11	I was up in Pahrump at some vineyard.	N
+110	110	110	00:07:12	00:07:13	You told me to get a life, remember?	N
+111	111	111	00:07:13	00:07:14	Did I?	N
+112	112	112	00:07:17	00:07:18	I'm sorry, but I needed you.	N
+113	113	113	00:07:19	00:07:21	Dispatch called in a 419 at Tuscadero High School.	N
+114	114	114	00:07:21	00:07:22	You're on your own.	N
+115	115	115	00:07:22	00:07:24	On my own?	N
+116	116	116	00:07:24	00:07:27	Solo.	N
+117	117	117	00:07:31	00:07:33	See you around.	N
+118	118	118	00:07:34	00:07:36	Solo?	N
+119	119	119	00:07:38	00:07:42	So does this mean when I come in on my day off I get to work solo?	N
+120	120	120	00:07:42	00:07:44	Process.	N
+121	121	121	00:07:51	00:07:54	Whoa.	N
+122	122	122	00:07:54	00:07:58	I got what looks like two sets of prints.	N
+123	123	123	00:08:00	00:08:04	Ballpark in a size ten from the house.	N
+124	124	124	00:08:04	00:08:07	And what looks like a...	N
+125	125	125	00:08:07	00:08:13	size 12, possibly from the pool.	N
+126	126	126	00:08:13	00:08:16	There were definitely two guys here, Griss.	N
+127	127	127	00:08:16	00:08:19	Now we just need to figure out if one of them was Mr. Newman.	N
+128	128	128	00:08:19	00:08:20	Hey, fellas.	N
+129	129	129	00:08:20	00:08:24	Looks like the husband pulled a Clark Kent and left all his clothes behind.	N
+130	130	130	00:08:24	00:08:26	Couldn't have gone far.	N
+131	131	131	00:08:26	00:08:29	I got his wallet, credit card and keys.	N
+132	132	132	00:08:31	00:08:32	You hear that?	N
+133	133	133	00:08:32	00:08:33	What is that?	N
+134	134	134	00:08:33	00:08:35	Oh, yeah, it's the pool.	N
+135	135	135	00:08:35	00:08:36	It's been doing it all night.	N
+136	136	136	00:08:36	00:08:38	Sounds like it's clogged.	N
+137	137	137	00:08:38	00:08:40	Did someone check this pool?	N
+138	138	138	00:08:40	00:08:44	First officer said it was clear.	N
+139	139	139	00:08:44	00:08:46	Does that pool look clear to you?	N
+140	140	140	00:08:47	00:08:49	Uh... no.	N
+141	141	141	00:08:51	00:08:54	One of you guys is going in.	N
+142	142	142	00:09:05	00:09:06	I'll go in the pool.	N
+143	143	143	00:09:44	00:09:46	Oh, man!	N
+144	144	144	00:09:46	00:09:48	Male D.B.	N
+145	145	145	00:09:55	00:09:56	You have dinner yet?	N
+146	146	146	00:09:56	00:09:58	Yeah. Why?	N
+147	147	147	00:09:58	00:10:01	You might be seeing it again.	N
+148	148	148	00:10:04	00:10:06	Mandy Kirk.	N
+149	149	149	00:10:06	00:10:07	Seventeen.	N
+150	150	150	00:10:07	00:10:08	Seventeen.	N
+151	151	151	00:10:08	00:10:09	Senior.	N
+152	152	152	00:10:09	00:10:11	Janitor found her.	N
+153	153	153	00:10:11	00:10:13	Hi, David. Hey.	N
+154	154	154	00:10:20	00:10:22	Eviscerated.	N
+155	155	155	00:10:22	00:10:23	Maybe a wild animal.	N
+156	156	156	00:10:23	00:10:26	They picked up a mountain lion last week in Henderson.	N
+157	157	157	00:10:26	00:10:28	Suburbs are encroaching on the hinterlands.	N
+158	158	158	00:10:28	00:10:31	We'll know more after the autopsy.	N
+159	159	159	00:10:31	00:10:35	It's a cheerleader.	N
+160	160	160	00:10:35	00:10:37	She had to have good lungs.	N
+161	161	161	00:10:37	00:10:40	How come nobody heard her scream?	N
+162	162	162	00:10:49	00:10:51	Didn't have to do much of a Y.	N
+163	163	163	00:10:51	00:10:53	Attack did it for me.	N
+164	164	164	00:10:53	00:10:54	Died of exsanguination.	N
+165	165	165	00:10:54	00:10:55	Bled out.	N
+166	166	166	00:10:55	00:10:58	Trauma to her internal organs.	N
+167	167	167	00:10:58	00:11:01	Spleen, liver, heart they all sustained multiple mastications.	N
+168	168	168	00:11:01	00:11:03	Hmm.	N
+169	169	169	00:11:03	00:11:04	You able to isolate the species?	N
+170	170	170	00:11:04	00:11:07	From the tooth mark on her left ninth rib.	N
+171	171	171	00:11:11	00:11:12	Dog maybe?	N
+172	172	172	00:11:13	00:11:15	Teeth marks are too small for a mountain cat.	N
+173	173	173	00:11:15	00:11:16	They're human.	N
+174	174	174	00:11:16	00:11:19	You're lying.	N
+175	175	175	00:11:22	00:11:27	You can see the bridgework on this impression of a premolar and an adjoining molar.	N
+176	176	176	00:11:27	00:11:31	Can you tell how old the attacker is?	N
+177	177	177	00:11:31	00:11:35	Well, I can't give you the exact age but wisdom teeth erupt between 16 and 30.	N
+178	178	178	00:11:35	00:11:38	And there's no evidence of a wisdom molar on this impression.	N
+179	179	179	00:11:38	00:11:39	Thanks.	N
+180	180	180	00:11:42	00:11:43	Oh, one more thing.	N
+181	181	181	00:11:43	00:11:47	I found an infection in the mucus overlying the large intestine.	N
+182	182	182	00:11:47	00:11:50	This girl suffered from the E-coli bacteria.	N
+183	183	183	00:11:50	00:11:52	E-coli?	N
+184	184	184	00:11:52	00:11:53	Unsanitary conditions?	N
+185	185	185	00:11:53	00:11:55	Or a bad burger.	N
+186	186	186	00:11:55	00:12:00	So whoever did this to her also has E-coli.	N
+187	187	187	00:12:00	00:12:01	Oh, yeah.	N
+188	188	188	00:12:01	00:12:04	Spiked temp, vomiting, lower GI problems, the works.	N
+189	189	189	00:12:04	00:12:07	Smoking gun.	N
+190	190	190	00:12:46	00:12:49	I mean, I don't get it.	N
+191	191	191	00:12:49	00:12:54	She's not even slated to work she comes in on her day off and she gets to work solo.	N
+192	192	192	00:12:54	00:12:57	You still harping on the solo thing?	N
+193	193	193	00:12:57	00:13:00	You know every time you work with me you learn something.	N
+194	194	194	00:13:03	00:13:05	Is that right? Yes.	N
+195	195	195	00:13:05	00:13:07	I live here. Why can't I go in?	N
+196	196	196	00:13:07	00:13:09	I want to see my father.	N
+197	197	197	00:13:09	00:13:12	I'm Cal's ex-wife, Jeri Newman and this is our son Max.	N
+198	198	198	00:13:12	00:13:14	We have the right to an answer.	N
+199	199	199	00:13:14	00:13:16	And we have a right to protect the crime scene.	N
+200	200	200	00:13:16	00:13:18	What's going on?	N
+201	201	201	00:13:18	00:13:21	I can't tell you anything until I get all the details.	N
+202	202	202	00:13:21	00:13:22	I'm sorry.	N
+203	203	203	00:13:22	00:13:23	Catherine?	N
+204	204	204	00:13:27	00:13:32	We need someone to identify the body.	N
+205	205	205	00:13:32	00:13:33	Ms. Newman.	N
+206	206	206	00:13:33	00:13:35	Would you come with me, please?	N
+207	207	207	00:13:35	00:13:37	What about me?	N
+208	208	208	00:13:37	00:13:38	Uh, no, honey.	N
+209	209	209	00:13:38	00:13:40	You stay right here.	N
+210	210	210	00:13:43	00:13:45	No skin separation.	N
+211	211	211	00:13:45	00:13:46	Minimal gaseous buildup.	N
+212	212	212	00:13:46	00:13:48	This guy's been in here under 12 hours.	N
+213	213	213	00:13:48	00:13:51	00.	N
+214	214	214	00:13:51	00:13:52	It's about right.	N
+215	215	215	00:13:58	00:14:00	What is that, some kind of filter?	N
+216	216	216	00:14:00	00:14:02	It's an anti-vortex filter.	N
+217	217	217	00:14:03	00:14:05	Hey, I'm from Jersey, we swim at the shore.	N
+218	218	218	00:14:06	00:14:10	It's designed to keep his hand out of that pipe.	N
+219	219	219	00:14:10	00:14:12	But it's missing a few screws.	N
+220	220	220	00:14:14	00:14:18	Ms. Newman, is this your ex-husband?	N
+221	221	221	00:14:20	00:14:21	It's Cal.	N
+222	222	222	00:14:35	00:14:36	Virtual tour.	N
+223	223	223	00:14:36	00:14:37	Right on, Archie.	N
+224	224	224	00:14:37	00:14:41	Before and after photos of the crime scene.	N
+225	225	225	00:14:41	00:14:43	Thank you, thank you very much.	N
+226	226	226	00:14:43	00:14:47	It was on the hard drive of the computer you got at the crime scene.	N
+227	227	227	00:14:47	00:14:50	Looks like a Peter Croft sculpture.	N
+228	228	228	00:14:50	00:14:52	You know your art. You a collector?	N
+229	229	229	00:14:52	00:14:53	What? On my salary?	N
+230	230	230	00:14:53	00:14:56	Guggenheim's as close as I get to something like that.	N
+231	231	231	00:14:57	00:14:58	Oh, I haven't been yet.	N
+232	232	232	00:14:58	00:14:59	Really?	N
+233	233	233	00:14:59	00:15:02	Well, if you want a tour, I know a docent.	N
+234	234	234	00:15:02	00:15:04	A docent.	N
+235	235	235	00:15:04	00:15:05	So, you think that's legit?	N
+236	236	236	00:15:06	00:15:08	House like this, probably not a knock-off.	N
+237	237	237	00:15:09	00:15:10	You'd be surprised.	N
+238	238	238	00:15:10	00:15:12	The rich go cheap to stay rich, know what I mean?	N
+239	239	239	00:15:12	00:15:14	Yeah. Let me show you the after photos.	N
+240	240	240	00:15:14	00:15:16	Please.	N
+241	241	241	00:15:16	00:15:18	Same spot.	N
+242	242	242	00:15:18	00:15:20	And, uh, what happened to the sculpture?	N
+243	243	243	00:15:20	00:15:22	Good question.	N
+244	244	244	00:15:22	00:15:24	You saying somebody lifted it?	N
+245	245	245	00:15:24	00:15:26	Well, they don't call them open houses for nothing.	N
+246	246	246	00:15:26	00:15:29	Put your house on the market your privacy's up for grabs, too.	N
+247	247	247	00:15:29	00:15:34	The Newmans unlocked their door to anybody with Internet access.	N
+248	248	248	00:15:38	00:15:39	Soccer bunnies?	N
+249	249	249	00:15:39	00:15:41	What are soccer bunnies?	N
+250	250	250	00:15:41	00:15:43	Well, each cheerleader is assigned a soccer player.	N
+251	251	251	00:15:43	00:15:44	She's his bunny.	N
+252	252	252	00:15:44	00:15:49	Gives him gifts the night before the big game places his wake-up call.	N
+253	253	253	00:15:49	00:15:50	Sounds sexual.	N
+254	254	254	00:15:50	00:15:53	Yeah, that's what I asked the principal but he said no.	N
+255	255	255	00:15:53	00:15:55	He said that, uh it's all good, clean fun.	N
+256	256	256	00:15:55	00:16:00	Gifts are inspirational videos like, uh, Rocky and wake-up calls are pep talks, nothing more.	N
+257	257	257	00:16:00	00:16:04	Yeah, well, I'm not sure the principal's up to speed on teenagers' sexual habits.	N
+258	258	258	00:16:04	00:16:07	Yeah, well, victim Mandy was soccer bunny to a Chuck Darwell.	N
+259	259	259	00:16:08	00:16:14	And when I called him on his cell this morning he said that he hooked up with Mandy after every game except last night.	N
+260	260	260	00:16:14	00:16:16	Said he hadn't seen her last night.	N
+261	261	261	00:16:16	00:16:18	He in class? Hospital.	N
+262	262	262	00:16:18	00:16:20	Got rushed there two minutes ago.	N
+263	263	263	00:16:24	00:16:26	I bet I know why.	N
+264	264	264	00:16:31	00:16:32	No surprise here.	N
+265	265	265	00:16:32	00:16:33	He drowned.	N
+266	266	266	00:16:33	00:16:37	We found his right hand caught in a pool filter.	N
+267	267	267	00:16:37	00:16:40	Lack of bruising, no bleeding wounds.	N
+268	268	268	00:16:41	00:16:45	Indicates his circulatory system had stopped.	N
+269	269	269	00:16:45	00:16:47	This was postmortem.	N
+270	270	270	00:16:53	00:16:57	Any significance to the marks on his chest?	N
+271	271	271	00:16:57	00:16:58	Uh, don't know. Not a rash.	N
+272	272	272	00:16:58	00:17:00	Some kind of abrasion.	N
+273	273	273	00:17:00	00:17:03	Maybe even a friction burn.	N
+274	274	274	00:17:03	00:17:04	Definitely peri-mortem.	N
+275	275	275	00:17:04	00:17:10	X-rays reveal several broken ribs and he's got a bruise on his forehead.	N
+276	276	276	00:17:10	00:17:12	He could have taken a bad fall.	N
+277	277	277	00:17:12	00:17:14	Or he could have been beaten.	N
+278	278	278	00:17:14	00:17:16	Maybe.	N
+279	279	279	00:17:16	00:17:17	How about the new wife?	N
+280	280	280	00:17:19	00:17:24	No physical findings for sexual assault though I did send a kit to DNA.	N
+281	281	281	00:17:24	00:17:27	Looks like cause of death was a single gunshot to the head.	N
+282	282	282	00:17:27	00:17:29	I'll know more later.	N
+283	283	283	00:17:29	00:17:31	You always tell me that.	N
+284	284	284	00:17:31	00:17:32	Yes, I do.	N
+285	285	285	00:17:32	00:17:35	Depth of bruising gives us a timeline.	N
+286	286	286	00:17:35	00:17:41	Apparent thumbprint on her neck came first the, uh, prints on her hands second.	N
+287	287	287	00:17:41	00:17:43	Major impression on top.	N
+288	288	288	00:17:43	00:17:48	It's some kind of recoil bruise on her palm.	N
+289	289	289	00:17:49	00:17:51	She didn't shoot herself.	N
+290	290	290	00:17:53	00:17:55	She had help.	N
+291	291	291	00:17:56	00:18:00	Of course, no house is complete without a pool.	N
+292	292	292	00:18:02	00:18:04	Why live in Vegas if you don't have a pool?	N
+293	293	293	00:18:06	00:18:10	Mm, water's warm.	N
+294	294	294	00:18:10	00:18:14	You want to come by and take a dip?	N
+295	295	295	00:18:14	00:18:15	Quite the saleswoman.	N
+296	296	296	00:18:15	00:18:20	Come on, take a...	N
+297	297	297	00:18:20	00:18:23	It's got to be a fantasy of yours, huh?	N
+298	298	298	00:18:23	00:18:25	Huh, double feature.	N
+299	299	299	00:18:26	00:18:29	You know you want this.	N
+300	300	300	00:18:29	00:18:31	Blam.	N
+301	301	301	00:18:32	00:18:33	You can say that again.	N
+302	302	302	00:18:33	00:18:34	Blam.	N
+303	303	303	00:18:34	00:18:36	Down, boys.	N
+304	304	304	00:18:39	00:18:43	I probably should even be saying this, but, uh...	N
+305	305	305	00:18:43	00:18:50	sex is on my mind all the time.	N
+306	306	306	00:18:50	00:18:53	Hey, Archie, freeze it.	N
+307	307	307	00:18:53	00:18:55	And, uh...	N
+308	308	308	00:18:55	00:18:56	Who's that in the background?	N
+309	309	309	00:18:56	00:18:57	Hmm?	N
+310	310	310	00:18:57	00:19:01	Oh, that guy in the mirror. Good.	N
+311	311	311	00:19:01	00:19:03	Archie, help us out.	N
+312	312	312	00:19:03	00:19:05	Yup, I got him.	N
+313	313	313	00:19:05	00:19:06	Nice.	N
+314	314	314	00:19:10	00:19:12	Hey this is the broker.	N
+315	315	315	00:19:12	00:19:14	I just did a background check on that guy.	N
+316	316	316	00:19:14	00:19:17	Half a dozen robberies in the houses he has listed.	N
+317	317	317	00:19:17	00:19:19	Art, antiques, stuff like that.	N
+318	318	318	00:19:19	00:19:22	Like the Peter Croft sculpture.	N
+319	319	319	00:19:22	00:19:23	Exactly.	N
+320	320	320	00:19:23	00:19:28	Looks like Augie was helping himself to a little bit more than the artwork.	N
+321	321	321	00:19:30	00:19:31	I understand, Mr. Darwell.	N
+322	322	322	00:19:31	00:19:33	Have your son's wisdom teeth come in yet?	N
+323	323	323	00:19:33	00:19:34	What?	N
+324	324	324	00:19:35	00:19:38	Whoever killed Amanda Kirk ingested her organs, Mr. Darwell. Left teeth marks.	N
+325	325	325	00:19:38	00:19:40	Excuse me.	N
+326	326	326	00:19:40	00:19:42	Hi, uh, Chuck, I'm with the crime lab.	N
+327	327	327	00:19:42	00:19:44	I'm going to ask you to show me your back teeth.	N
+328	328	328	00:19:44	00:19:47	Give us an odontological impression.	N
+329	329	329	00:19:48	00:19:50	I didn't see Mandy last night, I swear.	N
+330	330	330	00:19:50	00:19:53	You have no legal right to question or to touch my son.	N
+331	331	331	00:19:53	00:19:54	I want you out of here.	N
+332	332	332	00:19:54	00:19:56	Now.	N
+333	333	333	00:19:56	00:19:57	Is that stomach contents?	N
+334	334	334	00:19:57	00:19:59	That's right, officer.	N
+335	335	335	00:20:01	00:20:03	Anything he throw up no longer belongs to him.	N
+336	336	336	00:20:03	00:20:04	PD, public domain.	N
+337	337	337	00:20:05	00:20:07	It's going to tell us everything we need to know.	N
+338	338	338	00:20:07	00:20:09	Look, anyone could have lifted that Peter Croft.	N
+339	339	339	00:20:09	00:20:11	I thought this was about murder.	N
+340	340	340	00:20:11	00:20:12	Oh, it is.	N
+341	341	341	00:20:13	00:20:14	Excuse me.	N
+342	342	342	00:20:14	00:20:16	Yeah?	N
+343	343	343	00:20:16	00:20:17	Hey, yeah...	N
+344	344	344	00:20:17	00:20:18	Hey, can I call you back?	N
+345	345	345	00:20:19	00:20:21	Okay, then.	N
+346	346	346	00:20:21	00:20:22	Bye-bye.	N
+347	347	347	00:20:22	00:20:24	I'm sorry, where were we?	N
+348	348	348	00:20:24	00:20:25	The tape.	N
+349	349	349	00:20:25	00:20:29	It wasn't anybody's face on that tape, it was your face.	N
+350	350	350	00:20:29	00:20:31	I recorded their house for the virtual tour.	N
+351	351	351	00:20:31	00:20:33	That's what I do to sell houses.	N
+352	352	352	00:20:33	00:20:37	Selling house as a front for porno a little blackmail on the side.	N
+353	353	353	00:20:37	00:20:38	What are you talking about?	N
+354	354	354	00:20:38	00:20:39	I have done nothing wrong.	N
+355	355	355	00:20:39	00:20:41	Oh, you're innocent in all this?	N
+356	356	356	00:20:41	00:20:45	I admit to having lust in my heart.	N
+357	357	357	00:20:45	00:20:47	Lust doesn't live in your heart.	N
+358	358	358	00:20:49	00:20:51	I'm going to need that DNA sample.	N
+359	359	359	00:20:51	00:20:53	Well, my DNA is your DNA.	N
+360	360	360	00:20:53	00:20:54	Great.	N
+361	361	361	00:20:54	00:21:00	Look, for what it's worth I can tell you at least one guy other than her husband that saw Monica in the buff on a weekly basis.	N
+362	362	362	00:21:00	00:21:01	Say, ah.	N
+363	363	363	00:21:01	00:21:02	Ah.	N
+364	364	364	00:21:03	00:21:05	You must get a lot of ass on a job like this, huh?	N
+365	365	365	00:21:05	00:21:07	I'm the pool guy, it's one of the perks of the job.	N
+366	366	366	00:21:07	00:21:10	One minute I'm scooping leaves the next I'm staring at...	N
+367	367	367	00:21:10	00:21:11	Yeah, I get it.	N
+368	368	368	00:21:12	00:21:16	The last time you were there did you happen to see anything out of the ordinary?	N
+369	369	369	00:21:17	00:21:18	What? You mean sexual?	N
+370	370	370	00:21:18	00:21:19	Maybe.	N
+371	371	371	00:21:19	00:21:21	No.	N
+372	372	372	00:21:21	00:21:22	But, uh...	N
+373	373	373	00:21:22	00:21:23	Newman had a temper.	N
+374	374	374	00:21:23	00:21:26	He and his kid Max were always going at it.	N
+375	375	375	00:21:26	00:21:28	What are these, huh?	N
+376	376	376	00:21:28	00:21:29	Where did you get these?!	N
+377	377	377	00:21:29	00:21:34	I thought the old man was going to beat his ass but... Newman just screamed some more and took off.	N
+378	378	378	00:21:34	00:21:37	You mind if I take a look in your cab?	N
+379	379	379	00:21:37	00:21:38	Sure.	N
+380	380	380	00:21:57	00:21:59	Well, that's a coincidence.	N
+381	381	381	00:21:59	00:22:03	Newman's anti-vortex filter was missing three screws.	N
+382	382	382	00:22:03	00:22:04	I can explain, okay?	N
+383	383	383	00:22:04	00:22:08	I remove them screws from the filter so I'd have an excuse to go back.	N
+384	384	384	00:22:09	00:22:10	Oh, you mean, like, a leave-behind?	N
+385	385	385	00:22:10	00:22:12	Yeah, I figured the more I was around...	N
+386	386	386	00:22:12	00:22:13	The more she'd want you.	N
+387	387	387	00:22:13	00:22:14	Oh, yeah.	N
+388	388	388	00:22:14	00:22:17	Well, the lab wants more of you, too.	N
+389	389	389	00:22:17	00:22:21	We're going to need your fingerprints and a DNA sample.	N
+390	390	390	00:22:21	00:22:23	Take whatever you want, I've got nothing to hide.	N
+391	391	391	00:22:34	00:22:36	Anything from the pool?	N
+392	392	392	00:22:36	00:22:39	Some hairs, I may have found a filling.	N
+393	393	393	00:22:41	00:22:44	Tributlyltin oxide, aluminum sulfate quaternary ammonium.	N
+394	394	394	00:22:44	00:22:48	Chemicals in the vic's lungs match the chemicals in the pool water.	N
+395	395	395	00:22:48	00:22:50	Anything from his head wound?	N
+396	396	396	00:22:50	00:22:51	Trace matches the side of the pool.	N
+397	397	397	00:22:51	00:22:54	No surprises.	N
+398	398	398	00:22:56	00:22:58	Mildew.	N
+399	399	399	00:22:58	00:23:00	Hmm?	N
+400	400	400	00:23:00	00:23:01	Aureobasidium pullulans.	N
+401	401	401	00:23:01	00:23:05	One of the very few fungi that can withstand the desert temperature.	N
+402	402	402	00:23:05	00:23:07	Gives us possible transfer.	N
+403	403	403	00:23:08	00:23:11	Exactly. and here's the basic chemistry of the transfer.	N
+404	404	404	00:23:11	00:23:21	Add sugar water spoiled from the heat mix in some human biofilm you got yourself an all-you-can-eat mildew buffet.	N
+405	405	405	00:23:21	00:23:23	Cal Newman wore size tens.	N
+406	406	406	00:23:23	00:23:25	So assuming our killer wore the size 12...	N
+407	407	407	00:23:25	00:23:29	He may have transferred mildew from the pool to the house.	N
+408	408	408	00:23:29	00:23:33	Normally I don't like to speak ill of the dead but, uh, Mr. Newman's sperm had company.	N
+409	409	409	00:23:33	00:23:34	Bad company.	N
+410	410	410	00:23:34	00:23:36	Look at D7.	N
+411	411	411	00:23:36	00:23:37	Three alleles.	N
+412	412	412	00:23:37	00:23:40	Genetics only gives you one from each parent.	N
+413	413	413	00:23:40	00:23:43	Which can only mean one thing-- Menage d'allele.	N
+414	414	414	00:23:43	00:23:45	She was cheating on her husband.	N
+415	415	415	00:23:45	00:23:46	What about stutter?	N
+416	416	416	00:23:46	00:23:48	Percentage is too high.	N
+417	417	417	00:23:48	00:23:51	We're looking at a minor and a major sample.	N
+418	418	418	00:23:51	00:23:52	Minor donor?	N
+419	419	419	00:23:52	00:23:53	The husband.	N
+420	420	420	00:23:53	00:23:54	Major donor?	N
+421	421	421	00:23:54	00:23:55	Pool man.	N
+422	422	422	00:23:55	00:23:56	Nope.	N
+423	423	423	00:23:56	00:23:57	The broker?	N
+424	424	424	00:23:58	00:23:58	Ibid.	N
+425	425	425	00:23:58	00:24:01	Major donor is still unaccounted for.	N
+426	426	426	00:24:08	00:24:10	How's it coming?	N
+427	427	427	00:24:10	00:24:12	Good. I'm almost there. Hang on.	N
+428	428	428	00:24:12	00:24:14	Sometime this year.	N
+429	429	429	00:24:17	00:24:20	Okay, I think that's the angle.	N
+430	430	430	00:24:20	00:24:22	All right, where do I stand?	N
+431	431	431	00:24:22	00:24:24	Back up.	N
+432	432	432	00:24:24	00:24:25	Keep going.	N
+433	433	433	00:24:25	00:24:27	Keep going. Big steps?	N
+434	434	434	00:24:27	00:24:28	Little steps?	N
+435	435	435	00:24:28	00:24:29	Big. Keep going.	N
+436	436	436	00:24:29	00:24:30	Keep going.	N
+437	437	437	00:24:30	00:24:32	I go any further, I'll be in the closet.	N
+438	438	438	00:24:32	00:24:34	Well, go in the closet.	N
+439	439	439	00:24:37	00:24:39	Oh, you got to be kidding me.	N
+440	440	440	00:24:39	00:24:40	What?	N
+441	441	441	00:24:40	00:24:43	How's this?	N
+442	442	442	00:24:43	00:24:45	What the hell is that?	N
+443	443	443	00:24:53	00:24:56	These slime will do anything to sell a house, huh?	N
+444	444	444	00:24:56	00:24:58	Sometimes, reflections beget reflections.	N
+445	445	445	00:24:59	00:25:04	I figured if I could get a glimpse of the Augie cutout maybe I could get a glimpse of the cameraman.	N
+446	446	446	00:25:05	00:25:06	Check out the lamp.	N
+447	447	447	00:25:23	00:25:24	Her stepson, Max.	N
+448	448	448	00:25:24	00:25:28	Did you get any DNA off the cigarette butts?	N
+449	449	449	00:25:28	00:25:30	Yeah, we did.	N
+450	450	450	00:25:30	00:25:35	So, let's get Greg to compare the reference sample and see if we found our major donor.	N
+451	451	451	00:25:51	00:25:54	Driving someone else's porcelain bus?	N
+452	452	452	00:25:54	00:25:57	Suspect's dinner from last night.	N
+453	453	453	00:25:57	00:25:59	The coroner left this in your mail slot.	N
+454	454	454	00:25:59	00:26:01	Can you read it for me?	N
+455	455	455	00:26:04	00:26:06	What's this look like, Greg?	N
+456	456	456	00:26:06	00:26:07	Uh, Caesar salad.	N
+457	457	457	00:26:07	00:26:12	Oh, and Pele used an interesting dressing.	N
+458	458	458	00:26:12	00:26:13	PCP.	N
+459	459	459	00:26:13	00:26:16	Angel dust. Hallucinogen.	N
+460	460	460	00:26:16	00:26:17	Well, it acts like one.	N
+461	461	461	00:26:21	00:26:22	Disassociative anesthetic.	N
+462	462	462	00:26:22	00:26:24	Brain disassociates from the body.	N
+463	463	463	00:26:24	00:26:26	Yeah, after it takes you through the paces.	N
+464	464	464	00:26:26	00:26:27	How many milligrams?	N
+465	465	465	00:26:27	00:26:29	Uh... 20.	N
+466	466	466	00:26:29	00:26:31	Dude's dose was off the charts.	N
+467	467	467	00:26:31	00:26:33	I'm surprised he's still alive.	N
+468	468	468	00:26:33	00:26:34	Yeah.	N
+469	469	469	00:26:34	00:26:37	Too bad everybody didn't make it.	N
+470	470	470	00:26:44	00:26:47	Tell me this is raw chicken skin.	N
+471	471	471	00:26:49	00:26:54	Well, it's raw... and it's definitely skin.	N
+472	472	472	00:27:00	00:27:02	My son was nowhere near that pool.	N
+473	473	473	00:27:02	00:27:03	He was at...	N
+474	474	474	00:27:03	00:27:04	Red Rock Canyon. A field trip.	N
+475	475	475	00:27:04	00:27:06	Oh, I'm getting that.	N
+476	476	476	00:27:06	00:27:08	What I'm not getting is this.	N
+477	477	477	00:27:10	00:27:12	Oh, now, this is disgusting.	N
+478	478	478	00:27:13	00:27:17	Look, whatever Cal wanted to do behind closed doors, that was his business.	N
+479	479	479	00:27:17	00:27:19	This is not for my eyes or for his eyes.	N
+480	480	480	00:27:20	00:27:23	This is not the first time, is it, Max?	N
+481	481	481	00:27:31	00:27:33	Can I plead the Fifth or something?	N
+482	482	482	00:27:33	00:27:39	Max we found two sperm donors on the sample from your stepmother.	N
+483	483	483	00:27:39	00:27:41	Your father's and yours.	N
+484	484	484	00:27:41	00:27:43	Now I know why you were spending all that time at your father's.	N
+485	485	485	00:27:43	00:27:45	Mom, look, I...	N
+486	486	486	00:27:48	00:27:49	Mom...	N
+487	487	487	00:27:50	00:27:51	I don't want to hear a word from you.	N
+488	488	488	00:27:51	00:27:55	Well, let me lay it out for you.	N
+489	489	489	00:28:02	00:28:04	So you must've thought you won the lottery.	N
+490	490	490	00:28:04	00:28:08	And the only thing standing between you and the winning ticket was your father.	N
+491	491	491	00:28:18	00:28:20	What's your shoe size, Max?	N
+492	492	492	00:28:20	00:28:22	Twelve.	N
+493	493	493	00:28:23	00:28:24	This can't be happening.	N
+494	494	494	00:28:25	00:28:26	Yes, it's happening.	N
+495	495	495	00:28:26	00:28:27	Okay, this is a fling.	N
+496	496	496	00:28:27	00:28:28	Okay, it's not real.	N
+497	497	497	00:28:28	00:28:30	You're confused. You're a kid.	N
+498	498	498	00:28:30	00:28:34	I killed my father for you.	N
+499	499	499	00:28:34	00:28:37	That's not possible.	N
+500	500	500	00:28:37	00:28:39	How come?	N
+501	501	501	00:28:39	00:28:41	Because I can't swim.	N
+502	502	502	00:28:43	00:28:45	He's telling the truth.	N
+503	503	503	00:28:45	00:28:50	When Max was a child he had this terrible pool accident.	N
+504	504	504	00:28:50	00:28:53	He nearly drowned.	N
+505	505	505	00:29:04	00:29:06	We need that report, ASAP.	N
+506	506	506	00:29:08	00:29:10	Your temperature is spiking.	N
+507	507	507	00:29:10	00:29:16	Of course, you didn't know Mandy had E. coli when you... ate her, did you?	N
+508	508	508	00:29:16	00:29:18	No, no, I would never do that.	N
+509	509	509	00:29:18	00:29:20	You would on PCP.	N
+510	510	510	00:29:21	00:29:25	Normal brain, neurons send a message synapses blink on and off.	N
+511	511	511	00:29:25	00:29:29	On PCP, synapses never stop firing.	N
+512	512	512	00:29:29	00:29:32	Like your entire brain is on constant DSL.	N
+513	513	513	00:29:34	00:29:37	You and Mandy were on the soccer field.	N
+514	514	514	00:29:37	00:29:38	You were cranked up.	N
+515	515	515	00:29:38	00:29:40	Do you remember anything?	N
+516	516	516	00:29:46	00:29:48	Yeah.	N
+517	517	517	00:29:49	00:29:52	But I don't remember killing her. I swear to God.	N
+518	518	518	00:29:52	00:29:54	Lieutenant Lockwood's going to arrest you.	N
+519	519	519	00:29:54	00:29:57	We'll assign you an advocate.	N
+520	520	520	00:29:59	00:30:02	So, how does a kid who can't swim drown his father?	N
+521	521	521	00:30:02	00:30:03	The kid didn't do it.	N
+522	522	522	00:30:03	00:30:06	Look, we found the father's blood on the underside of the pool ledge.	N
+523	523	523	00:30:06	00:30:09	And his body at the bottom of the pool with abrasions on his chest.	N
+524	524	524	00:30:10	00:30:12	So there was a struggle in the water.	N
+525	525	525	00:30:13	00:30:14	With someone who can swim.	N
+526	526	526	00:30:15	00:30:15	Right.	N
+527	527	527	00:30:21	00:30:24	You cannot be serious!	N
+528	528	528	00:30:24	00:30:27	Hey, John McEnroe, where's the game?	N
+529	529	529	00:30:27	00:30:33	All the prints are accounted for by people who had a reason to be in the Newman house all the way down to the vortex cover, Warrick.	N
+530	530	530	00:30:33	00:30:34	Prints came back to the pool boy.	N
+531	531	531	00:30:34	00:30:43	Yeah. Yeah, so all I've got is an errant blond hair a tooth filling and some detritus from the bottom of the pool.	N
+532	532	532	00:30:43	00:30:46	All right, now, don't get your panties in a bunch.	N
+533	533	533	00:30:46	00:30:51	Uh, so we got the blond hair, the tooth filling...	N
+534	534	534	00:30:51	00:30:52	That's it, huh?	N
+535	535	535	00:30:52	00:30:53	Yeah.	N
+536	536	536	00:30:53	00:30:58	I mean, I did identify some Neoprene and it was white.	N
+537	537	537	00:30:58	00:30:59	White Neoprene.	N
+538	538	538	00:30:59	00:31:00	Yeah.	N
+539	539	539	00:31:00	00:31:02	Like in a wet suit Neoprene?	N
+540	540	540	00:31:03	00:31:05	Was the vic a diver?	N
+541	541	541	00:31:05	00:31:06	Not that I know of.	N
+542	542	542	00:31:06	00:31:09	The son can't even swim.	N
+543	543	543	00:31:09	00:31:10	Let's think about that.	N
+544	544	544	00:31:10	00:31:15	Who wears a white wet suit in a pool?	N
+545	545	545	00:31:15	00:31:17	Scuba diver.	N
+546	546	546	00:31:17	00:31:18	Or a professional.	N
+547	547	547	00:31:18	00:31:21	A professional.	N
+548	548	548	00:31:21	00:31:24	No, I mean like a hired gun professional.	N
+549	549	549	00:31:24	00:31:27	Yeah.	N
+550	550	550	00:31:35	00:31:36	Tooth hurt?	N
+551	551	551	00:31:38	00:31:46	You might, uh, need your filling which we found at the bottom of the Newmans' pool.	N
+552	552	552	00:31:46	00:31:50	We also found your fingerprints and your hair.	N
+553	553	553	00:31:50	00:31:54	Look, I'm sure you'll find me all over the house.	N
+554	554	554	00:31:54	00:31:55	I wanted to buy it.	N
+555	555	555	00:31:55	00:31:57	I was everywhere.	N
+556	556	556	00:31:57	00:32:00	Well, you made sure you were everywhere, too, didn't you?	N
+557	557	557	00:32:00	00:32:04	I wanted to thoroughly inspect the property.	N
+558	558	558	00:32:04	00:32:05	Caveat emptor, right?	N
+559	559	559	00:32:05	00:32:08	Or caveat venditor.	N
+560	560	560	00:32:08	00:32:09	Let the seller beware.	N
+561	561	561	00:32:10	00:32:12	Your prints came back military.	N
+562	562	562	00:32:12	00:32:13	Navy Seal.	N
+563	563	563	00:32:13	00:32:15	Ex-Navy Seal.	N
+564	564	564	00:32:15	00:32:16	Oh, yeah, that's right.	N
+565	565	565	00:32:16	00:32:19	You rang the bell.	N
+566	566	566	00:32:22	00:32:26	You had the physical tools for the training but not the character.	N
+567	567	567	00:32:26	00:32:32	And if you had anything more than a filling and a piece of Neoprene we wouldn't be here.	N
+568	568	568	00:32:32	00:32:33	Berglund.	N
+569	569	569	00:32:33	00:32:36	That's a Scandinavian name, isn't it?	N
+570	570	570	00:32:37	00:32:39	That's what my parents tell me.	N
+571	571	571	00:33:02	00:33:05	Hey, heard you nailed soccer boy for the murder.	N
+572	572	572	00:33:05	00:33:06	Not exactly.	N
+573	573	573	00:33:06	00:33:09	No match on the bite plate.	N
+574	574	574	00:33:09	00:33:11	Well, maybe there was someone else with them.	N
+575	575	575	00:33:11	00:33:14	Someone getting sicker by the minute.	N
+576	576	576	00:33:20	00:33:22	Greg.	N
+577	577	577	00:33:22	00:33:23	Yeah?	N
+578	578	578	00:33:23	00:33:25	I need you to take off your shoes and socks.	N
+579	579	579	00:33:25	00:33:33	See, now we're getting into this whole strip forensics thing and I'm not so sure I can hang with that even if you are my boss.	N
+580	580	580	00:33:33	00:33:36	Your mother's maiden name is Hojem, correct?	N
+581	581	581	00:33:36	00:33:37	Hojem is Norwegian?	N
+582	582	582	00:33:37	00:33:39	Yeah.	N
+583	583	583	00:33:39	00:33:43	And you know, my grandfather got tossed from Norway for getting my grandmother pregnant before they got married.	N
+584	584	584	00:33:43	00:33:48	To this day, he still tells me Som man reder sa ligger man.	N
+585	585	585	00:33:52	00:33:54	One must lie in the bed one has made.	N
+586	586	586	00:33:54	00:33:56	That's true.	N
+587	587	587	00:33:56	00:33:57	Right foot first, please.	N
+588	588	588	00:34:00	00:34:01	Now, you're sure you want me to do this?	N
+589	589	589	00:34:01	00:34:03	Things could get loud in here.	N
+590	590	590	00:34:08	00:34:09	Left foot.	N
+591	591	591	00:34:12	00:34:15	So you want to tell me why we're doing this?	N
+592	592	592	00:34:17	00:34:19	It's an experiment.	N
+593	593	593	00:34:20	00:34:21	Put these on.	N
+594	594	594	00:34:21	00:34:23	Come see me in six hours.	N
+595	595	595	00:34:34	00:34:35	Nicole Exmoor, 18.	N
+596	596	596	00:34:35	00:34:37	School nurse said she couldn't stop throwing up.	N
+597	597	597	00:34:37	00:34:39	Teacher found her passed out in the locker room.	N
+598	598	598	00:34:39	00:34:40	She have an explanation?	N
+599	599	599	00:34:40	00:34:43	Said that she ate something that didn't agree with her.	N
+600	600	600	00:34:44	00:34:46	Nicole, do you know what E. coli is?	N
+601	601	601	00:34:46	00:34:49	Your friend Mandy was infected with it.	N
+602	602	602	00:34:49	00:34:52	We think we know how you got it.	N
+603	603	603	00:34:52	00:34:53	We can test your blood for PCP...	N
+604	604	604	00:34:53	00:34:56	Chuck brought the weed, not me.	N
+605	605	605	00:34:56	00:34:59	This guy told him it was a really great high.	N
+606	606	606	00:35:01	00:35:04	These photographs are...	N
+607	607	607	00:35:04	00:35:07	of Mandy's ribs.	N
+608	608	608	00:35:07	00:35:09	We believe these are your teeth marks.	N
+609	609	609	00:35:13	00:35:20	Ms. Sidle can make an impression of your teeth or you can help yourself and explain what happened.	N
+610	610	610	00:35:24	00:35:27	When Jack and I went to the field...	N
+611	611	611	00:35:27	00:35:30	we were hooking up behind Mandy's back.	N
+612	612	612	00:35:33	00:35:37	She showed up, she was like, He's my player.	N
+613	613	613	00:35:37	00:35:38	Mandy!	N
+614	614	614	00:35:39	00:35:44	I don't know what happened. I started to feel weird like my blood was surging through me.	N
+615	615	615	00:35:47	00:35:50	It didn't make any sense.	N
+616	616	616	00:35:53	00:35:56	I think I wanted to be her.	N
+617	617	617	00:36:04	00:36:06	It felt...	N
+618	618	618	00:36:06	00:36:09	It felt like somebody else walked over and did it.	N
+619	619	619	00:36:09	00:36:12	Like she was split from my body.	N
+620	620	620	00:36:17	00:36:21	It's called psychological detachment.	N
+621	621	621	00:36:21	00:36:23	It's a function of PCP.	N
+622	622	622	00:36:43	00:36:46	It's like out of a really bad dream.	N
+623	623	623	00:36:46	00:36:49	Nicole, I was at Mandy's autopsy.	N
+624	624	624	00:36:49	00:36:52	It was not a dream.	N
+625	625	625	00:37:03	00:37:08	I'm placing you under arrest for the murder of Amanda Kirk.	N
+626	626	626	00:37:17	00:37:19	What's going to happen to me?	N
+627	627	627	00:37:21	00:37:23	That's up to the D.A.	N
+628	628	628	00:37:32	00:37:39	Hey, Cyrus, next time somebody says experimenting with drugs is harmless remind me of this.	N
+629	629	629	00:37:46	00:37:49	What did you do to me?	N
+630	630	630	00:37:49	00:37:51	You had a reaction.	N
+631	631	631	00:37:51	00:37:54	I'm Hazmat meat.	N
+632	632	632	00:37:54	00:37:56	Quarantine, here I come.	N
+633	633	633	00:37:57	00:38:01	Your right foot, I swabbed with a placebo, regular tap water.	N
+634	634	634	00:38:01	00:38:03	Yeah, well, I'm not worried about the right foot.	N
+635	635	635	00:38:03	00:38:06	Left foot... eumycotic dermatitis.	N
+636	636	636	00:38:06	00:38:07	Oh, great.	N
+637	637	637	00:38:07	00:38:09	It's probably fatal.	N
+638	638	638	00:38:09	00:38:11	It's a mildew-induced skin rash.	N
+639	639	639	00:38:11	00:38:15	You infected me with mildew?	N
+640	640	640	00:38:19	00:38:20	Here. Hydrocortisone.	N
+641	641	641	00:38:20	00:38:23	Follow the directions, clear it right up.	N
+642	642	642	00:38:25	00:38:29	It's called Aureobasidium pullulans.	N
+643	643	643	00:38:29	00:38:32	Is that supposed to mean something to me?	N
+644	644	644	00:38:34	00:38:35	It may.	N
+645	645	645	00:38:35	00:38:38	This is a warrant.	N
+646	646	646	00:38:39	00:38:42	To see my feet?	N
+647	647	647	00:38:42	00:38:44	Yes, both of them.	N
+648	648	648	00:38:44	00:38:46	Take off your shoes and socks, please.	N
+649	649	649	00:38:47	00:38:50	Aureobasidium pullulans is a mildew.	N
+650	650	650	00:38:50	00:38:52	We found it around the Newmans' pool.	N
+651	651	651	00:38:52	00:39:01	It induces rashes in people of Scandinavian descent-- and it does so in a predictable progression which provides us with a valuable timeline.	N
+652	652	652	00:39:06	00:39:07	You have the rash.	N
+653	653	653	00:39:12	00:39:14	And size 12 feet.	N
+654	654	654	00:39:22	00:39:25	Let me tell you how you did this.	N
+655	655	655	00:40:14	00:40:16	And then you went upstairs.	N
+656	656	656	00:40:16	00:40:17	Cal?	N
+657	657	657	00:40:20	00:40:25	You're still going to have to convince a jury that I killed two strangers for no reason.	N
+658	658	658	00:40:29	00:40:32	You ever been to the theater, Peter?	N
+659	659	659	00:40:32	00:40:35	There's a play called Six Degrees of Separation.	N
+660	660	660	00:40:35	00:40:40	It's about how all the people in the world are connected to each other by no more than six people.	N
+661	661	661	00:40:40	00:40:45	All it takes to connect you to the victims is one degree.	N
+662	662	662	00:40:49	00:40:51	Peter Berglund?	N
+663	663	663	00:40:52	00:40:55	No, I don't recall ever having met somebody by that name.	N
+664	664	664	00:40:55	00:40:58	Well, do you recall living in San Diego?	N
+665	665	665	00:40:58	00:41:01	What does that have to do with anything?	N
+666	666	666	00:41:01	00:41:02	Oh, it just might help jog your memory.	N
+667	667	667	00:41:02	00:41:04	San Diego's a military town.	N
+668	668	668	00:41:04	00:41:06	Your sister married a guy in the Navy, right?	N
+669	669	669	00:41:06	00:41:08	Did you really bring me in here just for this?	N
+670	670	670	00:41:08	00:41:11	Well, we could go someplace else if you'd like.	N
+671	671	671	00:41:11	00:41:14	How about your house?	N
+672	672	672	00:41:14	00:41:16	The one you're selling.	N
+673	673	673	00:41:16	00:41:18	What's this?	N
+674	674	674	00:41:18	00:41:25	Well, you see, we didn't have enough evidence at this point to get a warrant but you put your house on the Internet.	N
+675	675	675	00:41:25	00:41:27	I didn't need a warrant.	N
+676	676	676	00:41:27	00:41:32	Gave me complete access via this virtual tour.	N
+677	677	677	00:41:32	00:41:35	And all with your permission.	N
+678	678	678	00:41:42	00:41:45	That's you... that's Peter Berglund...	N
+679	679	679	00:41:46	00:41:47	and that's the Pacific.	N
+680	680	680	00:41:48	00:41:49	So what?	N
+681	681	681	00:41:49	00:41:51	I know Peter.	N
+682	682	682	00:41:51	00:41:53	Yeah.	N
+683	683	683	00:41:53	00:41:57	You hired him to kill your ex-husband and his new wife.	N
+684	684	684	00:41:57	00:41:59	The picture doesn't prove anything.	N
+685	685	685	00:41:59	00:42:03	No, but it did give me access to Peter's financial information.	N
+686	686	686	00:42:06	00:42:10	Loan application. Two signatures-- Peter Berglund and yours.	N
+687	687	687	00:42:10	00:42:13	You cosigned for Peter because he couldn't qualify on his own.	N
+688	688	688	00:42:13	00:42:15	Payment for the hit.	N
+689	689	689	00:42:15	00:42:18	He gets your house you get your ex-husband's money.	N
+690	690	690	00:42:18	00:42:21	The thing about murder for hire...	N
+691	691	691	00:42:21	00:42:23	there's always a paper trail.	N
+692	692	692	00:42:31	00:42:33	Good night.	N
+693	693	693	00:42:34	00:42:36	Good night, Sara.	N
+694	694	694	00:42:39	00:42:40	Hey.	N
+695	695	695	00:42:42	00:42:45	Nice work on the high school case.	N
+696	696	696	00:42:47	00:42:49	I'm, uh...	N
+697	697	697	00:42:51	00:42:53	...sorry I missed your page.	N
+698	698	698	00:42:53	00:42:56	It's just, um...	N
+699	699	699	00:42:56	00:43:00	you tell me to get a life and then I get one, and...	N
+700	700	700	00:43:00	00:43:04	then you expect me to be there at a moment's notice.	N
+701	701	701	00:43:04	00:43:08	It's, um, confusing.	N

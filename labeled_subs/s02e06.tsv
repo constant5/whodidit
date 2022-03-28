@@ -1,648 +1,648 @@
-	start	end	text	label
-0	00:00:52	00:00:56	No! No!	N
-1	00:01:03	00:01:05	Call said one dead body.	N
-2	00:01:05	00:01:06	Caught him red-handed.	N
-3	00:01:06	00:01:08	Ben Jennings.	N
-4	00:01:12	00:01:14	Nick Stokes, Gil Grissom, Las Vegas Crime Lab.	N
-5	00:01:14	00:01:16	You want to tell us what's going on?	N
-6	00:01:16	00:01:18	What happened here?	N
-7	00:01:20	00:01:22	You have anything to say?	N
-8	00:01:24	00:01:27	You don't have to talk to us.	N
-9	00:01:28	00:01:30	He'll talk to us.	N
-10	00:02:07	00:02:09	See that lividity?	N
-11	00:02:09	00:02:12	Blood settled at the time of death.	N
-12	00:02:12	00:02:15	Body's been moved from the murder scene.	N
-13	00:02:15	00:02:16	Impound his car.	N
-14	00:02:16	00:02:19	Sorry, guys. I lost you at the fork.	N
-15	00:02:19	00:02:21	My bad, Sara.	N
-16	00:02:21	00:02:26	Let's process this guy shall we?	N
-17	00:02:26	00:02:29	Officer, would you uncuff him, please?!	N
-18	00:02:37	00:02:39	Okay, make like a scarecrow for me, partner.	N
-19	00:02:41	00:02:42	Arms out, away from your body.	N
-20	00:02:42	00:02:45	That's it. Stay just like that.	N
-21	00:02:52	00:02:53	Give me your right foot.	N
-22	00:02:53	00:02:55	Other right.	N
-23	00:02:56	00:02:56	Put it down.	N
-24	00:02:57	00:02:58	Lift it up.	N
-25	00:02:59	00:03:01	Hold still.	N
-26	00:03:03	00:03:07	Possible secondary transfer.	N
-27	00:03:09	00:03:11	Got some red fibers.	N
-28	00:03:14	00:03:15	Other foot.	N
-29	00:03:15	00:03:16	Lift it up.	N
-30	00:03:16	00:03:17	Put it down.	N
-31	00:03:22	00:03:23	No defensive wounds.	N
-32	00:03:23	00:03:26	No hematomas.	N
-33	00:03:26	00:03:28	Victim didn't fight back.	N
-34	00:03:28	00:03:29	Probably didn't see it coming.	N
-35	00:03:32	00:03:33	Matthew...	N
-36	00:03:34	00:03:36	tag that body for special processing, VIP room.	N
-37	00:03:36	00:03:40	Don't wash it till I get there, and don't touch his fingernails.	N
-38	00:03:50	00:03:54	D.B., Mediterranean Casino, Women's Spa.	N
-39	00:03:56	00:03:58	Body is Shelley Danvers.	N
-40	00:03:58	00:04:01	10/10/81.	N
-41	00:04:01	00:04:03	Employee walked in to get towels...	N
-42	00:04:06	00:04:08	found her here.	N
-43	00:04:15	00:04:21	A young woman, healthy, just reading a magazine and all of a sudden she DFOs?	N
-44	00:04:23	00:04:24	Done fell out.	N
-45	00:04:24	00:04:26	That's what the night manager says.	N
-46	00:04:29	00:04:30	Miss?	N
-47	00:04:34	00:04:36	We're from the Crime Lab.	N
-48	00:04:36	00:04:39	You found the deceased?	N
-49	00:04:39	00:04:42	Yes, I was, um...	N
-50	00:04:42	00:04:45	just getting some towels and I walked in and she was there.	N
-51	00:04:45	00:04:47	Hey, Brass...	N
-52	00:04:47	00:04:48	you touch this body?	N
-53	00:04:48	00:04:50	Yeah, I was born yesterday.	N
-54	00:04:50	00:04:55	Well, it looks as if the sash may have been tied by somebody else.	N
-55	00:04:55	00:04:57	Miss...	N
-56	00:04:57	00:05:00	you know anything about redressing the body?	N
-57	00:05:00	00:05:01	Well, she was naked.	N
-58	00:05:01	00:05:03	I-I-I thought she should be covered.	N
-59	00:05:03	00:05:06	Did you move the body here, too?	N
-60	00:05:06	00:05:08	Guests were looking in.	N
-61	00:05:08	00:05:09	I put a robe on her.	N
-62	00:05:09	00:05:12	It's not like it's a crime or anything.	N
-63	00:05:12	00:05:14	Actually, it is.	N
-64	00:05:14	00:05:17	Makes us doubt the circumstances surrounding the victim's death.	N
-65	00:05:22	00:05:23	Flour, maybe?	N
-66	00:05:23	00:05:25	But what kind?	N
-67	00:05:25	00:05:27	All-purpose?	N
-68	00:05:27	00:05:29	Self-rising?	N
-69	00:05:29	00:05:30	Pastry?	N
-70	00:05:30	00:05:33	Trace will probably have a better idea.	N
-71	00:05:35	00:05:39	I'll get DNA to see if there's bits of Ben under the fingernails.	N
-72	00:05:39	00:05:40	What about the neck?	N
-73	00:05:40	00:05:42	Any fibers in the wound?	N
-74	00:05:42	00:05:43	You told me to wait for you.	N
-75	00:05:43	00:05:45	Well, that hasn't stopped you yet.	N
-76	00:05:45	00:05:47	I did observe some fibers in the wound.	N
-77	00:05:47	00:05:49	I didn't collect them, though.	N
-78	00:05:49	00:05:51	Be my guest.	N
-79	00:05:56	00:05:58	Yellow.	N
-80	00:05:58	00:06:01	Not cotton; satin, maybe.	N
-81	00:06:06	00:06:08	Dress shirt...	N
-82	00:06:08	00:06:09	but no tie.	N
-83	00:06:10	00:06:12	Strangled with his own tie?	N
-84	00:06:14	00:06:16	Find me on the flour.	N
-85	00:06:18	00:06:21	Shelley Danvers-- 00.	N
-86	00:06:21	00:06:26	Ms. Marita, did the deceased use the Jacuzzi facilities this evening?	N
-87	00:06:26	00:06:27	Not that I remember, no.	N
-88	00:06:29	00:06:30	What? You don't believe me?	N
-89	00:06:31	00:06:33	Well, you lied to us before.	N
-90	00:06:33	00:06:36	It's, uh, not uncommon to drown in a Jacuzzi.	N
-91	00:06:36	00:06:38	Hair gets caught in the whirl a person gets dragged under.	N
-92	00:06:39	00:06:40	The hotel wouldn't be considered unsafe.	N
-93	00:06:40	00:06:42	Well, that didn't happen here.	N
-94	00:06:42	00:06:44	She did not drown on these premises.	N
-95	00:06:44	00:06:50	Well, if she did, the coroner would find water in her lungs but it'd be worse hearing it from him than from you.	N
-96	00:06:50	00:06:54	Oliver Dunne; corporate lawyer, father of two.	N
-97	00:06:54	00:06:57	You get all that from his dentals?	N
-98	00:06:57	00:06:58	His wife-- widow.	N
-99	00:06:58	00:07:00	She came down to I.D. his property.	N
-100	00:07:00	00:07:01	.380s?	N
-101	00:07:01	00:07:08	Last one I recovered entered through his abdominals pierced the liver, lodged in the oblique.	N
-102	00:07:08	00:07:11	That's not what killed him, is it?	N
-103	00:07:11	00:07:13	We pulled a yellow fiber out of the neck wound.	N
-104	00:07:14	00:07:15	I think it's from his tie.	N
-105	00:07:15	00:07:17	You might be right.	N
-106	00:07:17	00:07:19	He died of asphyxiation.	N
-107	00:07:19	00:07:22	Tie probably closed the windpipe.	N
-108	00:07:22	00:07:26	Without oxygen, the alveoli capillaries wither and dry up.	N
-109	00:07:26	00:07:29	Whole pulmonary system shut down.	N
-110	00:07:29	00:07:34	What you may have here is the smallest sliver of the murder weapon.	N
-111	00:07:34	00:07:39	Why would a guy shoot a man three times and then strangle him with his own tie?	N
-112	00:07:39	00:07:43	I cannot tell you why but I might be able to tell you where.	N
-113	00:07:43	00:07:44	A pizza shop.	N
-114	00:07:44	00:07:50	The flour on Oliver Dunne has a low gluten content-- seven percent protein-- it's typical of flour used to make cakes, pizzas, that kind of thing.	N
-115	00:07:51	00:07:53	So, why did you rule out bakeries?	N
-116	00:07:53	00:07:55	Well, the subtype of flour is another subtype; double zero.	N
-117	00:07:55	00:07:58	It's a very fine flour used only in pizza-baking ovens.	N
-118	00:07:58	00:08:01	Oh, and Trace picked up some oregano in the sample.	N
-119	00:08:01	00:08:04	When are you set to interview Ben?	N
-120	00:08:04	00:08:07	You're the registered owner of a Lorcin .380.	N
-121	00:08:07	00:08:10	Takes the same caliber bullet as the slugs we took out of the victim.	N
-122	00:08:11	00:08:15	So, I'm going to ask you one more time where's your gun?	N
-123	00:08:15	00:08:16	I lost it.	N
-124	00:08:16	00:08:18	Do you think we believe that?	N
-125	00:08:18	00:08:19	Do you think...	N
-126	00:08:19	00:08:20	Are you employed, Ben?	N
-127	00:08:20	00:08:22	Yeah... yeah, um...	N
-128	00:08:22	00:08:27	it's a place called Dante's Pizzeria.	N
-129	00:08:27	00:08:28	It's behind the Strato'.	N
-130	00:08:28	00:08:30	You make pizzas?	N
-131	00:08:30	00:08:32	Well, I deliver the pizzas.	N
-132	00:08:32	00:08:35	It's too hot back there with all the ovens and stuff.	N
-133	00:08:36	00:08:38	Do you, uh...	N
-134	00:08:38	00:08:42	ever come into contact with the baking flour at Dante's?	N
-135	00:08:42	00:08:46	Mostly pizza boxes.	N
-136	00:08:46	00:08:48	Why?	N
-137	00:08:48	00:08:55	Well, 'cause we found flour on the victim and it's the kind that's used to make pizza.	N
-138	00:08:55	00:08:57	Can you explain that?	N
-139	00:08:57	00:08:59	No.	N
-140	00:08:59	00:09:06	Ben, why don't you earn yourself some points by telling me what the science is going to tell me anyway?	N
-141	00:09:06	00:09:08	Well, I don't have to talk.	N
-142	00:09:08	00:09:13	No... but we're going to figure it out.	N
-143	00:09:13	00:09:16	Look, if you know so much about these murders what do you need me for?	N
-144	00:09:16	00:09:18	Murders?	N
-145	00:09:20	00:09:22	There are more bodies?	N
-146	00:09:29	00:09:31	I feel like I'm mowing a lawn.	N
-147	00:09:31	00:09:33	What is that? A beer can?	N
-148	00:09:33	00:09:35	Soda can?	N
-149	00:09:35	00:09:37	Zilch.	N
-150	00:09:39	00:09:41	Zilch.	N
-151	00:09:41	00:09:43	Don't tell me, more zilch?	N
-152	00:09:43	00:09:45	Whoa... Whoa.	N
-153	00:09:45	00:09:48	Point of disturbance.	N
-154	00:09:48	00:09:49	Hold up.	N
-155	00:09:52	00:09:54	Isolate it.	N
-156	00:10:18	00:10:21	Any more bodies you want to tell me about?	N
-157	00:10:23	00:10:26	No.	N
-158	00:10:26	00:10:29	We're going to radar this whole hillside.	N
-159	00:10:33	00:10:50	Sometimes... when I leave a crime scene where I've been particularly involved with a dead body I sit in my car and it hits me-- how close I was...	N
-160	00:10:50	00:10:55	how heavy the body is...	N
-161	00:10:55	00:10:58	the texture of the body...	N
-162	00:10:58	00:11:01	how it feels... you know?	N
-163	00:11:09	00:11:11	Mr. Grissom...	N
-164	00:11:14	00:11:17	I'm not a bad person.	N
-165	00:11:17	00:11:19	You're not a bad person?	N
-166	00:11:21	00:11:22	Then, what are you?	N
-167	00:11:32	00:11:36	Oh, I hope that's Shelley Danvers the woman from the hotel spa.	N
-168	00:11:36	00:11:37	Yep, she's next.	N
-169	00:11:37	00:11:38	Well, it's about time.	N
-170	00:11:38	00:11:40	You guys finished with day-shift runover, huh?	N
-171	00:11:40	00:11:43	I hate it when you CSI guys get territorial.	N
-172	00:11:43	00:11:46	Yeah, well, the victims' families hate it when we don't.	N
-173	00:11:46	00:11:48	I'll take it from here, David.	N
-174	00:11:48	00:11:50	Good morning.	N
-175	00:11:50	00:11:52	Catherine.	N
-176	00:11:52	00:11:56	No serosanguineous fluid expunged from the mouth or nose.	N
-177	00:11:56	00:11:57	She didn't drown?	N
-178	00:11:57	00:12:00	Rules out your Jacuzzi theory.	N
-179	00:12:00	00:12:02	Anything probative?	Y
-180	00:12:02	00:12:05	Bright red lividity extending down the body.	N
-181	00:12:05	00:12:06	From?	N
-182	00:12:06	00:12:08	Well, heatstroke possibly.	N
-183	00:12:08	00:12:12	Stroke could cause multiple organ failure and if I'm right...	N
-184	00:12:12	00:12:14	Cover-up.	N
-185	00:12:14	00:12:17	Hey, I still have to do the post. Catherine?	N
-186	00:12:17	00:12:21	Brass, I need you to get records from that hotel spa-- a warrant, if we need it.	N
-187	00:12:22	00:12:23	Yep, that's right.	N
-188	00:12:23	00:12:25	Bye.	N
-189	00:12:25	00:12:26	Oh, it's on.	N
-190	00:12:26	00:12:29	Yeah. Was our girl staying with anyone at that hotel?	N
-191	00:12:29	00:12:31	Uh, yeah.	N
-192	00:12:31	00:12:33	Tina... Tina Kolas.	N
-193	00:12:33	00:12:35	Best friends from Terre Haute, Indiana.	N
-194	00:12:35	00:12:36	Flew here in a package. Why?	N
-195	00:12:36	00:12:39	We need someone to give us the truth about last night.	N
-196	00:12:49	00:12:51	Gil Grissom?	N
-197	00:12:51	00:12:53	Father?	N
-198	00:12:53	00:12:55	Benjamin's a member of my parish.	N
-199	00:12:55	00:12:56	The officer won't let me talk to him.	N
-200	00:12:56	00:12:58	He said you were in charge.	N
-201	00:12:58	00:13:00	Of this crime scene.	N
-202	00:13:00	00:13:02	He needs spiritual guidance.	N
-203	00:13:08	00:13:10	Yeah, I imagine he does.	N
-204	00:13:10	00:13:14	Ah... then you'd have no problem with my talking to him.	N
-205	00:13:14	00:13:15	It's the 11th hour.	N
-206	00:13:15	00:13:17	I wouldn't expect anything less. 11th hour?	N
-207	00:13:17	00:13:21	When the reality of their actions set in they usually turn to religion.	N
-208	00:13:21	00:13:23	Can you think of a better time?	N
-209	00:13:31	00:13:33	Okay, hold it.	N
-210	00:13:33	00:13:34	That's enough.	N
-211	00:13:34	00:13:35	Let's dust him.	N
-212	00:13:52	00:13:54	No ligature marks.	N
-213	00:13:54	00:13:56	Different from the first guy.	N
-214	00:13:56	00:14:01	See if this laceration on this guy's forehead is consistent with the kid's shovel.	N
-215	00:14:03	00:14:05	Hey...	N
-216	00:14:05	00:14:06	I feel a wallet here.	N
-217	00:14:12	00:14:15	Ramirez Kenny.	N
-218	00:14:15	00:14:18	A 25-year-old Latino and a 42-year-old white guy?	N
-219	00:14:18	00:14:20	Strangers.	N
-220	00:14:20	00:14:22	Doesn't make sense. There's no connection.	N
-221	00:14:22	00:14:25	Well, it obviously wasn't a robbery.	Y
-222	00:14:25	00:14:27	Hey, O'Riley.	Y
-223	00:14:27	00:14:29	What's the matter, man-- A.C. not working?	Y
-224	00:14:29	00:14:30	I was on with Dispatch.	Y
-225	00:14:30	00:14:36	Oliver Dunne's car was just found by the Highway Patrol abandoned at an AvCon station off 215.	N
-226	00:14:36	00:14:41	They didn't happen to find another car there, did they?	N
-227	00:14:41	00:14:43	Yeah.	N
-228	00:14:43	00:14:46	Registered to a Ramirez.	Y
-229	00:14:46	00:14:49	Yeah... gas station.	N
-230	00:14:58	00:15:05	And you can verify that when Shelley went to the hotel spa last night she was going to use the dry sauna?	Y
-231	00:15:05	00:15:07	We'd been drinking apple martinis for three days straight.	Y
-232	00:15:07	00:15:10	Shelley said the sauna would detox her you know, clean her out.	N
-233	00:15:14	00:15:15	Cath.	Y
-234	00:15:17	00:15:18	Whose shirt is this?	N
-235	00:15:18	00:15:21	Mine. Shelley and I got in a fight over it.	N
-236	00:15:21	00:15:22	When?	N
-237	00:15:22	00:15:23	Yesterday.	N
-238	00:15:23	00:15:31	I caught her trying it on and I said Give it back, and then we started fighting over it, you know, tug of war and the whole thing ripped right in two.	N
-239	00:15:31	00:15:32	We fell back laughing.	N
-240	00:15:35	00:15:37	I'd give anything to have her back.	N
-241	00:15:37	00:15:41	We're going to take this shirt, if you don't mind.	N
-242	00:15:41	00:15:43	No, go ahead, if it'll help.	N
-243	00:15:43	00:15:46	You said you have proof that Shelley used the dry sauna.	N
-244	00:15:46	00:15:48	She called down from this phone.	N
-245	00:15:48	00:15:50	Do they tape phone calls here?	N
-246	00:15:50	00:15:52	Hotel surveillance would love that.	N
-247	00:15:52	00:15:55	You're sure she used that phone to make the appointment?	N
-248	00:15:55	00:15:56	Yeah.	N
-249	00:16:00	00:16:02	We're going to take this as well.	N
-250	00:16:02	00:16:05	Okay... but it doesn't have anything on it.	N
-251	00:16:05	00:16:07	Well, that's okay.	N
-252	00:16:07	00:16:08	We do magic.	N
-253	00:16:10	00:16:13	Two men were shot and killed and you didn't see anything?	N
-254	00:16:13	00:16:14	Sorry.	N
-255	00:16:14	00:16:17	You don't just miss something like that. What was going on?	N
-256	00:16:17	00:16:19	A friend of mine came with his new car.	N
-257	00:16:19	00:16:21	We took it for a drive.	N
-258	00:16:21	00:16:22	I'm afraid my boss will find out.	N
-259	00:16:22	00:16:23	I was only gone five minutes.	N
-260	00:16:24	00:16:25	Okay, all right.	N
-261	00:16:25	00:16:26	Just walk us through it.	N
-262	00:16:26	00:16:28	When did you know there'd been a crime committed?	N
-263	00:16:29	00:16:33	Well, my buddy dropped me back here and I noticed these two cars.	N
-264	00:16:33	00:16:35	I went to check them out.	N
-265	00:16:43	00:16:45	Oh, my God.	N
-266	00:16:49	00:16:50	I don't see any blood.	N
-267	00:16:50	00:16:51	Yeah, I hosed it down.	N
-268	00:16:51	00:16:52	You what?	N
-269	00:16:52	00:16:53	It was freakin' me out.	N
-270	00:17:04	00:17:06	H-Hello?	N
-271	00:17:06	00:17:07	Mr. Grissom?	N
-272	00:17:07	00:17:09	Uh...	N
-273	00:17:11	00:17:14	They told me out front I'd find you here.	N
-274	00:17:18	00:17:20	I don't see your, uh... visitor's badge.	N
-275	00:17:21	00:17:22	Priest's collar.	N
-276	00:17:22	00:17:24	People trust it.	N
-277	00:17:25	00:17:27	Most people.	N
-278	00:17:27	00:17:29	Even lapsed Catholics.	N
-279	00:17:29	00:17:34	What makes you think, uh... I was ever a Catholic?	N
-280	00:17:34	00:17:36	First time we met, you called me Father.	N
-281	00:17:36	00:17:37	Only Romans do that.	N
-282	00:17:38	00:17:41	Everybody else, it's Reverend or Minister.	N
-283	00:17:41	00:17:45	I wanted to know how your investigation against Ben is going.	N
-284	00:17:45	00:17:46	This is his car.	N
-285	00:17:47	00:17:49	You know, you really shouldn't be here.	N
-286	00:17:49	00:17:52	I didn't come here to tamper with your evidence.	N
-287	00:18:03	00:18:06	He was a good kid, all through school.	N
-288	00:18:06	00:18:11	Still comes to Mass every Sunday.	N
-289	00:18:11	00:18:14	If he has a problem...	N
-290	00:18:14	00:18:15	it's trying to please people.	N
-291	00:18:17	00:18:19	Is that a problem?	N
-292	00:18:19	00:18:20	It can be.	N
-293	00:18:31	00:18:34	This Luminol reveals any dried blood spots.	N
-294	00:18:56	00:18:58	He wouldn't do this.	N
-295	00:18:59	00:19:01	I believe the car.	N
-296	00:19:04	00:19:09	To whom much is given, much will be expected.	N
-297	00:19:12	00:19:15	I leave you to your work.	N
-298	00:19:22	00:19:26	I told you we have no record Shelley Danvers specifically used the dry sauna.	N
-299	00:19:26	00:19:28	That's okay, 'cause we do.	N
-300	00:19:28	00:19:33	ESDA can read this blank paper see what's written on it.	N
-301	00:19:33	00:19:34	Up to 14 layers.	N
-302	00:19:34	00:19:37	Sometimes a simple flashlight will do the trick.	N
-303	00:19:39	00:19:41	That's Miss Danvers' handwriting.	N
-304	00:19:41	00:19:42	We confirm that.	N
-305	00:19:42	00:19:43	So she took a dry sauna.	N
-306	00:19:43	00:19:44	What does that prove?	N
-307	00:19:44	00:19:48	She died of a heat stroke.	N
-308	00:19:48	00:19:52	The Coroner just called in with the results of his final post.	N
-309	00:19:52	00:19:56	Your sauna's kept in the optimal condition for heat stroke-- 182 °F.	N
-310	00:19:58	00:20:01	That could kill a person if you left them longer than two straight hours.	N
-311	00:20:01	00:20:03	Especially if no one checks up on them.	N
-312	00:20:03	00:20:07	A hotel employee is supposed to check on the various saunas every 15 minutes.	N
-313	00:20:07	00:20:09	Hotel regulations, right?	N
-314	00:20:10	00:20:16	We, uh, we got a copy of the check-up sheet.	N
-315	00:20:17	00:20:23	30 p.m.	N
-316	00:20:23	00:20:25	00 until...	N
-317	00:20:25	00:20:27	what time did you call 9-1-1?	N
-318	00:20:31	00:20:32	I, um...	N
-319	00:20:32	00:20:33	I came in at closing.	N
-320	00:20:33	00:20:34	00.	N
-321	00:20:34	00:20:37	Miss?	N
-322	00:20:37	00:20:38	Miss?	N
-323	00:20:38	00:20:39	Oh, my God.	N
-324	00:20:39	00:20:41	You moved her into the locker room?	N
-325	00:20:42	00:20:43	Put the robe on her?	N
-326	00:20:43	00:20:46	I was just trying to protect the hotel.	N
-327	00:20:46	00:20:48	From negligent homicide.	N
-328	00:20:48	00:20:53	They drill into us that the reputation of this hotel is everything.	N
-329	00:20:53	00:20:55	Murder scene was compromised.	N
-330	00:20:55	00:21:02	Pump jockey wasn't very helpful but bullets pulled from Victim One and Victim Two.	N
-331	00:21:02	00:21:03	Identical striations.	N
-332	00:21:03	00:21:06	Bullets in both victims were fired by the exact same weapon.	N
-333	00:21:06	00:21:07	A Lorcin .380.	N
-334	00:21:07	00:21:11	The same pistol registered to a Benjamin Jennings.	N
-335	00:21:11	00:21:16	P.D. can prove through credit cards that Ben frequents the AvCon gas stations where both vics were killed.	N
-336	00:21:16	00:21:20	And we can prove he transported those bodies in his vehicle based on the blood you found.	N
-337	00:21:20	00:21:21	And fibers.	N
-338	00:21:23	00:21:27	I recovered a burgundy fiber from the sock of Victim One.	N
-339	00:21:27	00:21:29	Found the same fiber on the sock of Victim Two.	N
-340	00:21:29	00:21:33	We ID'd the fibers using the FTIR.	N
-341	00:21:33	00:21:35	It's a polymer commonly used in vehicle carpeting.	N
-342	00:21:35	00:21:37	So we went back to Ben's car.	N
-343	00:21:40	00:21:42	They're identical.	N
-344	00:21:42	00:21:44	We got the Master Standards from the car manufacturer.	N
-345	00:21:44	00:21:48	The assigned name for the material is 12-ounce Merlot Trialon.	N
-346	00:21:50	00:21:53	Bottom line... he killed them.	N
-347	00:21:53	00:21:56	Good work, you guys.	N
-348	00:21:56	00:22:00	Very good.	N
-349	00:22:00	00:22:02	But you haven't proved murder.	N
-350	00:22:02	00:22:03	You've proved burial.	N
-351	00:22:03	00:22:05	Excuse me?	N
-352	00:22:05	00:22:07	Victim blood on his clothes...	N
-353	00:22:08	00:22:09	under his nails.	N
-354	00:22:09	00:22:11	From burying them.	N
-355	00:22:11	00:22:14	Victim blood in his car?	N
-356	00:22:14	00:22:16	He transported them.	N
-357	00:22:17	00:22:20	Show me the gun with Ben's prints on it.	N
-358	00:22:20	00:22:23	Gun shot residue, the ligature, the...	Y
-359	00:22:23	00:22:26	The holes in Christ's hands, Doubting Thomas?	Y
-360	00:22:26	00:22:28	Yes. Empirical evidence.	Y
-361	00:22:28	00:22:31	St. Thomas was ahead of us all.	N
-362	00:22:31	00:22:36	Does this have anything to do with the priest that's been coming around here?	N
-363	00:22:36	00:22:37	No.	N
-364	00:22:37	00:22:40	It has to do with the evidence.	Y
-365	00:22:40	00:22:43	It's our job to present the D.A. with the best evidence possible.	N
-366	00:22:43	00:22:44	Let a jury decide.	Y
-367	00:22:44	00:22:47	Anything else, we're playing judge.	Y
-368	00:22:47	00:22:51	The evidence doesn't get any better than this.	N
-369	00:23:00	00:23:01	Okay. Ship it.	Y
-370	00:23:01	00:23:02	Show it to the D.A.	Y
-371	00:23:03	00:23:06	Right.	N
-372	00:23:12	00:23:13	Anyone up for breakfast?	Y
-373	00:23:13	00:23:16	I'm up for a shower and tucking my daughter in.	Y
-374	00:23:16	00:23:19	Football-- wide-screen.	N
-375	00:23:19	00:23:21	Well, I guess I'll go see Tina alone.	N
-376	00:23:22	00:23:25	Hotel tells me she's down playing quarter slots.	N
-377	00:23:27	00:23:29	I thought we solved this case.	N
-378	00:23:29	00:23:30	What'd you get?	N
-379	00:23:30	00:23:37	Well, my guy in the hotel lounge tells me that Tina and Shelley were having a catfight over some dude named Jeremy the day she died.	Y
-380	00:23:37	00:23:41	That's probably how the shirt really got ripped.	N
-381	00:23:41	00:23:44	Don't ring her bell till we re-examine our case.	Y
-382	00:23:44	00:23:46	Misunderstood the priest?	Y
-383	00:23:46	00:23:48	How?	N
-384	00:23:48	00:23:50	I looked deeper into the evidence.	N
-385	00:23:50	00:23:52	I should have looked deeper into Ben's character.	N
-386	00:23:52	00:23:55	Benjamin Corey Jennings.	N
-387	00:23:55	00:23:56	Nonviolent crimes.	N
-388	00:23:58	00:24:01	Roger Jennings... armed robbery.	N
-389	00:24:01	00:24:07	Past convictions, breaking and entering assault with great bodily harm.	Y
-390	00:24:07	00:24:10	Paroled 9/27/2000.	N
-391	00:24:10	00:24:12	This guy is hard-core.	N
-392	00:24:12	00:24:14	He's looking at his third strike here.	N
-393	00:24:17	00:24:19	What's going on?	Y
-394	00:24:23	00:24:25	You know how we pushed him to file on Ben?	N
-395	00:24:25	00:24:26	Yeah.	N
-396	00:24:26	00:24:29	We might have been wrong.	N
-397	00:24:29	00:24:31	Tell me about your brother.	Y
-398	00:24:36	00:24:38	We know that you only buried the bodies.	N
-399	00:24:38	00:24:41	So, what happened?	Y
-400	00:24:43	00:24:45	Did he threaten you?	Y
-401	00:24:49	00:24:51	Ben?	N
-402	00:25:11	00:25:13	Did you learn to throw pizzas in prison, Roger?	Y
-403	00:25:16	00:25:19	Who the hell are you guys?	N
-404	00:25:19	00:25:21	Get out of my kitchen.	Y
-405	00:25:21	00:25:25	Roger Jennings-- armed robbery, breaking and entering.	Y
-406	00:25:25	00:25:28	You sound like the kind of guy it wouldn't be a big jump to murder.	Y
-407	00:25:29	00:25:30	What is this?	Y
-408	00:25:32	00:25:34	Your first stop the AvCon gas station.	Y
-409	00:25:34	00:25:35	See these two guys?	Y
-410	00:25:35	00:25:37	Nope.	N
-411	00:25:37	00:25:40	Don't know what you're talking about.	N
-412	00:25:40	00:25:42	My little brother got me this job.	N
-413	00:25:42	00:25:43	I'm staying clean.	N
-414	00:25:43	00:25:46	Suppose I told you your brother said you did these guys.	Y
-415	00:25:49	00:25:51	He wouldn't do that.	Y
-416	00:25:51	00:26:00	You did it directly after work using a .380 pistol and then you strangled one of the victims with his own tie.	Y
-417	00:26:12	00:26:14	Ben did it.	N
-418	00:26:15	00:26:16	Did you witness this?	N
-419	00:26:16	00:26:19	He told me about it.	N
-420	00:26:19	00:26:21	Look what I did-- I just lost my head.	N
-421	00:26:22	00:26:23	What am I supposed to do now?	N
-422	00:26:23	00:26:26	I'm on a short line, all right?	Y
-423	00:26:26	00:26:27	You're on your own, Ben.	N
-424	00:26:28	00:26:29	Roger, you've got to help me.	Y
-425	00:26:29	00:26:30	You know I can't.	Y
-426	00:26:30	00:26:31	What am I going to do?	Y
-427	00:26:31	00:26:32	Huh?	N
-428	00:26:32	00:26:33	It's your mess.	Y
-429	00:26:33	00:26:34	You got to deal with it.	Y
-430	00:26:34	00:26:37	What started the beef with the victims?	Y
-431	00:26:37	00:26:38	I don't know.	N
-432	00:26:38	00:26:40	Tempers, I guess.	N
-433	00:26:42	00:26:43	Hey!	N
-434	00:26:43	00:26:45	Hey, man! I was here first.	N
-435	00:26:45	00:26:46	You want to wait your turn?	N
-436	00:26:46	00:26:48	What are you going to do, huh?	N
-437	00:26:51	00:26:53	Bystander gets a little too nosy...	N
-438	00:26:57	00:26:59	and he gets it, too.	N
-439	00:27:01	00:27:04	The perpetrator's hands left flour on the victim's face.	N
-440	00:27:04	00:27:06	This was not from a gunshot.	N
-441	00:27:06	00:27:09	This was something a little more intimate.	N
-442	00:27:20	00:27:30	When a person changes his mode of murder from pistol to ligature it's for one of two reasons-- entertainment... or necessity.	Y
-443	00:27:30	00:27:32	Which was it for you?	N
-444	00:27:32	00:27:33	Neither.	N
-445	00:27:33	00:27:36	I told you, Ben strangled that guy.	N
-446	00:27:36	00:27:38	The flour said you did.	N
-447	00:27:40	00:27:42	I don't know what you're talking about.	N
-448	00:27:43	00:27:46	Anything on the list besides the tie?	N
-449	00:27:46	00:27:48	Nope.	N
-450	00:27:50	00:27:52	Hey, guys.	N
-451	00:27:52	00:27:53	You can go ahead and take off.	N
-452	00:27:53	00:27:54	I think we got it.	N
-453	00:27:54	00:27:55	Thanks.	N
-454	00:28:02	00:28:03	Whoa.	N
-455	00:28:18	00:28:19	Hey.	N
-456	00:28:19	00:28:21	Dry cleaning.	N
-457	00:28:21	00:28:22	The trailer's low-rent.	N
-458	00:28:22	00:28:24	Dry cleaning's expensive.	N
-459	00:28:36	00:28:38	Sara?	N
-460	00:28:38	00:28:40	This man's not as smart as he thinks.	N
-461	00:28:40	00:28:42	Dry cleaning bakes in blood stains.	N
-462	00:28:44	00:28:45	Could be red sauce.	N
-463	00:28:45	00:28:46	Oh, now you're cautious.	N
-464	00:28:46	00:28:49	I'm just trying to put our mistake to good use.	N
-465	00:28:49	00:28:52	Okay. You wanna...	N
-466	00:28:52	00:28:56	check the perimeter and I'll see if we have blood stains or red sauce.	N
-467	00:28:56	00:28:57	Okay.	N
-468	00:30:10	00:30:11	Hemoglobin.	N
-469	00:30:11	00:30:13	Take a look at this.	N
-470	00:30:19	00:30:20	Nick?	N
-471	00:30:22	00:30:24	Hey, Nick.	N
-472	00:31:07	00:31:09	jammed, huh?	N
-473	00:31:09	00:31:11	Get anything instructive?	Y
-474	00:31:11	00:31:12	Possibly.	Y
-475	00:31:13	00:31:14	Blood from Jennings's denim shirt.	N
-476	00:31:19	00:31:20	Is the printer out of ink?	N
-477	00:31:20	00:31:22	ND, ND, ND.	Y
-478	00:31:22	00:31:23	It means None Detected.	Y
-479	00:31:23	00:31:28	The dry cleaning baked in the blood and it also degraded it to a degree that I can't get a result.	N
-480	00:31:28	00:31:31	Try again. This could be victim blood. Try again.	Y
-481	00:31:31	00:31:32	I have tried.	N
-482	00:31:32	00:31:33	It's chemically impossible, Sara.	Y
-483	00:31:33	00:31:35	Nothing from nothing is nothing.	Y
-484	00:31:42	00:31:45	The striations are different. See?	Y
-485	00:31:47	00:31:52	There's no way I can say that the bullets taken from the victims were fired by Jennings's gun.	Y
-486	00:31:54	00:31:56	So, he altered the barrel somehow.	N
-487	00:31:56	00:32:03	Yeah. Changed how the bullet relates to the barrel so when the bullet emerges, its fine stria are altered.	N
-488	00:32:03	00:32:05	Any idea what he used?	N
-489	00:32:07	00:32:09	Whatever it was...	N
-490	00:32:09	00:32:10	did the job.	N
-491	00:32:10	00:32:11	My evidence is no better.	N
-492	00:32:11	00:32:13	Total wash.	N
-493	00:32:16	00:32:18	We present this to the D.A.	N
-494	00:32:18	00:32:22	Unfortunately, we've had this discussion before.	N
-495	00:32:22	00:32:23	The guilty brother's going to walk.	N
-496	00:32:56	00:32:59	He's never been in any real trouble before.	N
-497	00:33:00	00:33:01	They'll go easy on him.	N
-498	00:33:06	00:33:08	The bullet jammed in the feed, didn't it?	N
-499	00:33:18	00:33:21	So, it was necessity.	Y
-500	00:33:33	00:33:36	Wait, are you saying Shelley didn't die in the sauna?	Y
-501	00:33:36	00:33:37	She died of heat stroke.	N
-502	00:33:37	00:33:41	But the stroke covered up an underlying medical catastrophe.	Y
-503	00:33:41	00:33:42	Like what?	N
-504	00:33:42	00:33:43	Shell was always healthy.	N
-505	00:33:44	00:33:45	She went into anaphylactic shock.	Y
-506	00:33:45	00:33:52	Coroner says some of the indicators renal failure, cerebral edema.	Y
-507	00:33:52	00:33:57	We missed it until Captain Brass brought your room service records to our attention.	N
-508	00:33:57	00:33:59	I don't understand.	N
-509	00:33:59	00:34:03	Well, maybe this will help-- the travel agency contract you and Shelley signed.	N
-510	00:34:03	00:34:07	Under allergic reactions to foods for Shelley Danvers-- shellfish.	Y
-511	00:34:07	00:34:09	As her best friend, you would know that.	Y
-512	00:34:09	00:34:24	And then we have this from the hotel computer for your room 01 p.m., on the day A Taste from the Sea a lovely tureen of mild bisque with pureed bits of Maine lobster.	Y
-513	00:34:24	00:34:27	Pureed, two bowls.	N
-514	00:34:27	00:34:31	She didn't know what she was eating when it arrived, did she?	N
-515	00:34:33	00:34:36	Because she didn't order it; you did.	N
-516	00:34:39	00:34:46	We've got a machine known as the ESDA machine which can read pen imprints.	N
-517	00:34:46	00:34:48	Well, the machine isolated this.	N
-518	00:34:49	00:34:51	00.	N
-519	00:34:51	00:34:53	Shelley made that date.	N
-520	00:34:53	00:34:54	That's her handwriting.	N
-521	00:34:55	00:34:58	Were you in the room when Jeremy called?	N
-522	00:34:58	00:35:00	I answered the phone.	N
-523	00:35:00	00:35:02	He asked for her.	N
-524	00:35:02	00:35:05	You killed her over a guy you two met at a bar?	N
-525	00:35:05	00:35:07	I didn't mean to kill her.	Y
-526	00:35:07	00:35:14	I thought that she would just have an allergic reaction and she wouldn't be able to make her date that night like, get hives or something.	N
-527	00:35:14	00:35:25	Well, her allergy kicked in in the sauna under the worst possible conditions-- trachea... larynx... tongue swelled.	Y
-528	00:35:25	00:35:30	Her pressure got so low her blood quit running through her organs.	Y
-529	00:35:30	00:35:32	They shut down.	N
-530	00:35:37	00:35:39	I didn't even like the guy.	Y
-531	00:35:39	00:35:44	I just... I didn't want to be left out.	N
-532	00:35:48	00:35:52	Miss Kolas, you're under arrest.	N
-533	00:35:52	00:35:55	Hey.	N
-534	00:35:55	00:35:56	D.A.'s looking for you.	N
-535	00:35:56	00:35:59	About? What, you think I read your messages?	N
-536	00:36:00	00:36:03	Top secret and urgent?	Y
-537	00:36:03	00:36:04	It's a gift, reading upside down.	Y
-538	00:36:04	00:36:06	The Las Vegas District Attorney is reportedly...	N
-539	00:36:06	00:36:08	preparing to file homicide charges...	N
-540	00:36:08	00:36:13	against Benjamin Corey Jennings in the so-called Burial Murders case.	Y
-541	00:36:13	00:36:16	Jennings has been in police custody for the last...	N
-542	00:36:16	00:36:18	Guess we know what she was calling about.	N
-543	00:36:18	00:36:23	...since he was caught burying the first victim, Oliver Dunne in the National Forest.	Y
-544	00:36:23	00:36:28	Don't you have enough cases over at CSI now you're going to start telling me which ones I should take to court?	Y
-545	00:36:28	00:36:32	There isn't one piece of evidence that says that kid was even present at the murders.	Y
-546	00:36:32	00:36:34	As a matter of fact this is why I was hunting you.	N
-547	00:36:34	00:36:37	Jennings brought it in about an hour ago.	N
-548	00:36:37	00:36:39	Chain of custody; I can't touch it.	N
-549	00:36:40	00:36:42	The first victim was ligatured, right?	Y
-550	00:36:51	00:36:54	Jennings says his little brother asked him to hide the tie.	N
-551	00:36:54	00:36:55	Well, how convenient.	N
-552	00:36:55	00:37:01	The older brother brings it in explaining why his epithelials are all over the murder weapon.	Y
-553	00:37:01	00:37:04	A jury doesn't understand epi-whatevers, okay?	Y
-554	00:37:04	00:37:09	They understand a twisty tie and blood all over Ben's car seat.	Y
-555	00:37:09	00:37:10	He set up his brother.	N
-556	00:37:10	00:37:14	Oh, come on, Grissom, they're both part of it and if I can get one of them, I will.	N
-557	00:37:14	00:37:15	He's a good kid, Robin.	N
-558	00:37:15	00:37:18	He hero-worships his brother, but he's a good kid.	N
-559	00:37:18	00:37:19	Yeah?	N
-560	00:37:19	00:37:22	Then his epithelials shouldn't be on that tie.	N
-561	00:37:24	00:37:31	Explain how bits of your skin got on the ligature used to strangle that victim.	N
-562	00:37:31	00:37:32	I don't know.	N
-563	00:37:32	00:37:36	Your brother brought this in to the District Attorney.	N
-564	00:37:40	00:37:42	What?	N
-565	00:37:42	00:37:43	He's framing you.	N
-566	00:37:43	00:37:49	Unless you can tell us how your epithelials got on that tie.	N
-567	00:37:49	00:37:52	I don't know.	N
-568	00:37:52	00:37:54	I swear I don't know.	N
-569	00:37:54	00:37:57	I... he... I just picked up the bodies at his place.	N
-570	00:37:59	00:38:00	Grab that guy's tie, little bro.	N
-571	00:38:00	00:38:02	I like that thing.	N
-572	00:38:08	00:38:10	Bury them deep, all right?	N
-573	00:38:10	00:38:14	You get into any trouble you don't have to say anything, all right?	N
-574	00:38:14	00:38:15	I'm counting on you.	N
-575	00:38:15	00:38:18	Yeah, yeah, man, I'm there all the way.	N
-576	00:38:18	00:38:21	Go, get out of here.	N
-577	00:38:21	00:38:23	Go on.	N
-578	00:38:24	00:38:26	I got to ask...	N
-579	00:38:26	00:38:30	how does somebody bury two bodies as a favor?	Y
-580	00:38:30	00:38:32	'Cause he's my brother.	Y
-581	00:38:33	00:38:37	He told... He told me that if I didn't talk...	N
-582	00:38:37	00:38:41	to you guys and if he didn't talk, then this would all just blow over; it'd all just go away.	N
-583	00:38:41	00:38:45	You're looking at two counts of Murder Special Circumstances.	N
-584	00:38:45	00:38:50	The best you can hope for is life without parole.	N
-585	00:38:50	00:38:53	I don't... I don't think I can do that kind of time.	N
-586	00:38:55	00:39:00	Do you have any physical evidence linking your brother to the murders?	N
-587	00:39:00	00:39:01	Anything?	N
-588	00:39:57	00:40:00	I know that we've arrested the wrong brother.	N
-589	00:40:07	00:40:09	He came to see you as soon as Ben was in custody.	N
-590	00:40:12	00:40:16	I tried to help without breaking my vows.	N
-591	00:40:20	00:40:24	We both have jobs that begin after the crime.	N
-592	00:40:24	00:40:27	After the sin.	N
-593	00:40:27	00:40:31	Some people would call that a career in futility.	N
-594	00:40:31	00:40:34	Some call it a vocation.	N
-595	00:40:37	00:40:42	100 years ago we didn't have the technology for fingerprints.	N
-596	00:40:42	00:40:44	15 years ago, we didn't have DNA.	N
-597	00:40:44	00:40:52	Hopefully one day, we'll have foolproof means by which to put the right man in jail in this case.	N
-598	00:40:52	00:40:55	Someday, we won't need jails.	N
-599	00:40:58	00:41:02	00.	N
-600	00:41:04	00:41:07	Thank you...	N
-601	00:41:07	00:41:10	but...	N
-602	00:41:10	00:41:12	no.	N
-603	00:41:12	00:41:15	You don't believe?	N
-604	00:41:15	00:41:18	In religion?	N
-605	00:41:18	00:41:21	I believe in God, in science...	N
-606	00:41:21	00:41:23	in Sunday supper.	N
-607	00:41:23	00:41:27	I don't believe in rules that tell me how I should live.	N
-608	00:41:27	00:41:30	Even if they're handed down by God?	N
-609	00:41:30	00:41:32	How many crusades were fought in the name of God?	N
-610	00:41:32	00:41:36	How many people died because of someone's religion?	N
-611	00:41:36	00:41:39	Fanaticism; not religion.	N
-612	00:41:39	00:41:41	Semantics.	N
-613	00:41:41	00:41:43	They're still dead.	N
-614	00:41:44	00:41:47	I'm sorry about Ben, Father.	N
-615	00:41:50	00:41:53	You still suffer like a Catholic.	N
-616	00:41:56	00:42:00	Light bulb goes out other people fix it, get a new one.	N
-617	00:42:00	00:42:08	Light bulb goes out for the Catholic he stands in the dark says, What did I do wrong?	N
-618	00:42:10	00:42:12	That guilt's not in me anymore.	N
-619	00:42:28	00:42:29	Hey.	N
-620	00:42:29	00:42:30	Oh.	N
-621	00:42:31	00:42:35	You're going to be getting a call from the local papers about spa safety.	N
-622	00:42:35	00:42:38	Spa safety?	N
-623	00:42:38	00:42:42	We had a victim die of an allergic reaction at the Mediterranean.	N
-624	00:42:42	00:42:46	Some foul play; some negligence.	N
-625	00:42:46	00:42:48	So what am I supposed to say?	N
-626	00:42:48	00:42:50	That it was an isolated incident...	N
-627	00:42:50	00:42:55	that in no way should it be a mark against the Strip's other fine hotel-casinos.	N
-628	00:42:55	00:42:58	CSI supports Las Vegas.	N
-629	00:42:58	00:42:59	Bottom line.	N
-630	00:43:07	00:43:09	Need some help in here!	N
-631	00:43:15	00:43:16	Hold his head! Hold his head!	N
-632	00:43:16	00:43:18	I can't stop the bleeding.	N
-633	00:43:18	00:43:20	Oh, no, no, no.	N
-634	00:43:20	00:43:21	How did this happen?!	N
-635	00:43:21	00:43:23	Incisor. He used his teeth.	N
-636	00:43:23	00:43:24	Clamp down.	N
-637	00:43:26	00:43:27	Keep him with us.	N
-638	00:43:27	00:43:28	Get out of the way!	N
-639	00:43:28	00:43:30	Out of the way! Sir, step back.	N
-640	00:43:30	00:43:32	Sir. He's bleeding out.	N
-641	00:43:32	00:43:33	He's bleeding out here.	N
-642	00:43:33	00:43:35	We need to stop this.	N
-643	00:43:35	00:43:37	Compression. Keep him with us.	N
-644	00:43:37	00:43:38	Get the head up.	N
-645	00:43:38	00:43:41	We're losing him, we're losing him.	N
-646	00:43:46	00:43:49	04.	N
+	Unnamed: 0	start	end	text	label
+0	0	00:00:52	00:00:56	No! No!	N
+1	1	00:01:03	00:01:05	Call said one dead body.	N
+2	2	00:01:05	00:01:06	Caught him red-handed.	N
+3	3	00:01:06	00:01:08	Ben Jennings.	N
+4	4	00:01:12	00:01:14	Nick Stokes, Gil Grissom, Las Vegas Crime Lab.	N
+5	5	00:01:14	00:01:16	You want to tell us what's going on?	N
+6	6	00:01:16	00:01:18	What happened here?	N
+7	7	00:01:20	00:01:22	You have anything to say?	N
+8	8	00:01:24	00:01:27	You don't have to talk to us.	N
+9	9	00:01:28	00:01:30	He'll talk to us.	N
+10	10	00:02:07	00:02:09	See that lividity?	N
+11	11	00:02:09	00:02:12	Blood settled at the time of death.	N
+12	12	00:02:12	00:02:15	Body's been moved from the murder scene.	N
+13	13	00:02:15	00:02:16	Impound his car.	N
+14	14	00:02:16	00:02:19	Sorry, guys. I lost you at the fork.	N
+15	15	00:02:19	00:02:21	My bad, Sara.	N
+16	16	00:02:21	00:02:26	Let's process this guy shall we?	N
+17	17	00:02:26	00:02:29	Officer, would you uncuff him, please?!	N
+18	18	00:02:37	00:02:39	Okay, make like a scarecrow for me, partner.	N
+19	19	00:02:41	00:02:42	Arms out, away from your body.	N
+20	20	00:02:42	00:02:45	That's it. Stay just like that.	N
+21	21	00:02:52	00:02:53	Give me your right foot.	N
+22	22	00:02:53	00:02:55	Other right.	N
+23	23	00:02:56	00:02:56	Put it down.	N
+24	24	00:02:57	00:02:58	Lift it up.	N
+25	25	00:02:59	00:03:01	Hold still.	N
+26	26	00:03:03	00:03:07	Possible secondary transfer.	N
+27	27	00:03:09	00:03:11	Got some red fibers.	N
+28	28	00:03:14	00:03:15	Other foot.	N
+29	29	00:03:15	00:03:16	Lift it up.	N
+30	30	00:03:16	00:03:17	Put it down.	N
+31	31	00:03:22	00:03:23	No defensive wounds.	N
+32	32	00:03:23	00:03:26	No hematomas.	N
+33	33	00:03:26	00:03:28	Victim didn't fight back.	N
+34	34	00:03:28	00:03:29	Probably didn't see it coming.	N
+35	35	00:03:32	00:03:33	Matthew...	N
+36	36	00:03:34	00:03:36	tag that body for special processing, VIP room.	N
+37	37	00:03:36	00:03:40	Don't wash it till I get there, and don't touch his fingernails.	N
+38	38	00:03:50	00:03:54	D.B., Mediterranean Casino, Women's Spa.	N
+39	39	00:03:56	00:03:58	Body is Shelley Danvers.	N
+40	40	00:03:58	00:04:01	10/10/81.	N
+41	41	00:04:01	00:04:03	Employee walked in to get towels...	N
+42	42	00:04:06	00:04:08	found her here.	N
+43	43	00:04:15	00:04:21	A young woman, healthy, just reading a magazine and all of a sudden she DFOs?	N
+44	44	00:04:23	00:04:24	Done fell out.	N
+45	45	00:04:24	00:04:26	That's what the night manager says.	N
+46	46	00:04:29	00:04:30	Miss?	N
+47	47	00:04:34	00:04:36	We're from the Crime Lab.	N
+48	48	00:04:36	00:04:39	You found the deceased?	N
+49	49	00:04:39	00:04:42	Yes, I was, um...	N
+50	50	00:04:42	00:04:45	just getting some towels and I walked in and she was there.	N
+51	51	00:04:45	00:04:47	Hey, Brass...	N
+52	52	00:04:47	00:04:48	you touch this body?	N
+53	53	00:04:48	00:04:50	Yeah, I was born yesterday.	N
+54	54	00:04:50	00:04:55	Well, it looks as if the sash may have been tied by somebody else.	N
+55	55	00:04:55	00:04:57	Miss...	N
+56	56	00:04:57	00:05:00	you know anything about redressing the body?	N
+57	57	00:05:00	00:05:01	Well, she was naked.	N
+58	58	00:05:01	00:05:03	I-I-I thought she should be covered.	N
+59	59	00:05:03	00:05:06	Did you move the body here, too?	N
+60	60	00:05:06	00:05:08	Guests were looking in.	N
+61	61	00:05:08	00:05:09	I put a robe on her.	N
+62	62	00:05:09	00:05:12	It's not like it's a crime or anything.	N
+63	63	00:05:12	00:05:14	Actually, it is.	N
+64	64	00:05:14	00:05:17	Makes us doubt the circumstances surrounding the victim's death.	N
+65	65	00:05:22	00:05:23	Flour, maybe?	N
+66	66	00:05:23	00:05:25	But what kind?	N
+67	67	00:05:25	00:05:27	All-purpose?	N
+68	68	00:05:27	00:05:29	Self-rising?	N
+69	69	00:05:29	00:05:30	Pastry?	N
+70	70	00:05:30	00:05:33	Trace will probably have a better idea.	N
+71	71	00:05:35	00:05:39	I'll get DNA to see if there's bits of Ben under the fingernails.	N
+72	72	00:05:39	00:05:40	What about the neck?	N
+73	73	00:05:40	00:05:42	Any fibers in the wound?	N
+74	74	00:05:42	00:05:43	You told me to wait for you.	N
+75	75	00:05:43	00:05:45	Well, that hasn't stopped you yet.	N
+76	76	00:05:45	00:05:47	I did observe some fibers in the wound.	N
+77	77	00:05:47	00:05:49	I didn't collect them, though.	N
+78	78	00:05:49	00:05:51	Be my guest.	N
+79	79	00:05:56	00:05:58	Yellow.	N
+80	80	00:05:58	00:06:01	Not cotton; satin, maybe.	N
+81	81	00:06:06	00:06:08	Dress shirt...	N
+82	82	00:06:08	00:06:09	but no tie.	N
+83	83	00:06:10	00:06:12	Strangled with his own tie?	N
+84	84	00:06:14	00:06:16	Find me on the flour.	N
+85	85	00:06:18	00:06:21	Shelley Danvers-- 00.	N
+86	86	00:06:21	00:06:26	Ms. Marita, did the deceased use the Jacuzzi facilities this evening?	N
+87	87	00:06:26	00:06:27	Not that I remember, no.	N
+88	88	00:06:29	00:06:30	What? You don't believe me?	N
+89	89	00:06:31	00:06:33	Well, you lied to us before.	N
+90	90	00:06:33	00:06:36	It's, uh, not uncommon to drown in a Jacuzzi.	N
+91	91	00:06:36	00:06:38	Hair gets caught in the whirl a person gets dragged under.	N
+92	92	00:06:39	00:06:40	The hotel wouldn't be considered unsafe.	N
+93	93	00:06:40	00:06:42	Well, that didn't happen here.	N
+94	94	00:06:42	00:06:44	She did not drown on these premises.	N
+95	95	00:06:44	00:06:50	Well, if she did, the coroner would find water in her lungs but it'd be worse hearing it from him than from you.	N
+96	96	00:06:50	00:06:54	Oliver Dunne; corporate lawyer, father of two.	N
+97	97	00:06:54	00:06:57	You get all that from his dentals?	N
+98	98	00:06:57	00:06:58	His wife-- widow.	N
+99	99	00:06:58	00:07:00	She came down to I.D. his property.	N
+100	100	00:07:00	00:07:01	.380s?	N
+101	101	00:07:01	00:07:08	Last one I recovered entered through his abdominals pierced the liver, lodged in the oblique.	N
+102	102	00:07:08	00:07:11	That's not what killed him, is it?	N
+103	103	00:07:11	00:07:13	We pulled a yellow fiber out of the neck wound.	N
+104	104	00:07:14	00:07:15	I think it's from his tie.	N
+105	105	00:07:15	00:07:17	You might be right.	N
+106	106	00:07:17	00:07:19	He died of asphyxiation.	N
+107	107	00:07:19	00:07:22	Tie probably closed the windpipe.	N
+108	108	00:07:22	00:07:26	Without oxygen, the alveoli capillaries wither and dry up.	N
+109	109	00:07:26	00:07:29	Whole pulmonary system shut down.	N
+110	110	00:07:29	00:07:34	What you may have here is the smallest sliver of the murder weapon.	N
+111	111	00:07:34	00:07:39	Why would a guy shoot a man three times and then strangle him with his own tie?	N
+112	112	00:07:39	00:07:43	I cannot tell you why but I might be able to tell you where.	N
+113	113	00:07:43	00:07:44	A pizza shop.	N
+114	114	00:07:44	00:07:50	The flour on Oliver Dunne has a low gluten content-- seven percent protein-- it's typical of flour used to make cakes, pizzas, that kind of thing.	N
+115	115	00:07:51	00:07:53	So, why did you rule out bakeries?	N
+116	116	00:07:53	00:07:55	Well, the subtype of flour is another subtype; double zero.	N
+117	117	00:07:55	00:07:58	It's a very fine flour used only in pizza-baking ovens.	N
+118	118	00:07:58	00:08:01	Oh, and Trace picked up some oregano in the sample.	N
+119	119	00:08:01	00:08:04	When are you set to interview Ben?	N
+120	120	00:08:04	00:08:07	You're the registered owner of a Lorcin .380.	N
+121	121	00:08:07	00:08:10	Takes the same caliber bullet as the slugs we took out of the victim.	N
+122	122	00:08:11	00:08:15	So, I'm going to ask you one more time where's your gun?	N
+123	123	00:08:15	00:08:16	I lost it.	N
+124	124	00:08:16	00:08:18	Do you think we believe that?	N
+125	125	00:08:18	00:08:19	Do you think...	N
+126	126	00:08:19	00:08:20	Are you employed, Ben?	N
+127	127	00:08:20	00:08:22	Yeah... yeah, um...	N
+128	128	00:08:22	00:08:27	it's a place called Dante's Pizzeria.	N
+129	129	00:08:27	00:08:28	It's behind the Strato'.	N
+130	130	00:08:28	00:08:30	You make pizzas?	N
+131	131	00:08:30	00:08:32	Well, I deliver the pizzas.	N
+132	132	00:08:32	00:08:35	It's too hot back there with all the ovens and stuff.	N
+133	133	00:08:36	00:08:38	Do you, uh...	N
+134	134	00:08:38	00:08:42	ever come into contact with the baking flour at Dante's?	N
+135	135	00:08:42	00:08:46	Mostly pizza boxes.	N
+136	136	00:08:46	00:08:48	Why?	N
+137	137	00:08:48	00:08:55	Well, 'cause we found flour on the victim and it's the kind that's used to make pizza.	N
+138	138	00:08:55	00:08:57	Can you explain that?	N
+139	139	00:08:57	00:08:59	No.	N
+140	140	00:08:59	00:09:06	Ben, why don't you earn yourself some points by telling me what the science is going to tell me anyway?	N
+141	141	00:09:06	00:09:08	Well, I don't have to talk.	N
+142	142	00:09:08	00:09:13	No... but we're going to figure it out.	N
+143	143	00:09:13	00:09:16	Look, if you know so much about these murders what do you need me for?	N
+144	144	00:09:16	00:09:18	Murders?	N
+145	145	00:09:20	00:09:22	There are more bodies?	N
+146	146	00:09:29	00:09:31	I feel like I'm mowing a lawn.	N
+147	147	00:09:31	00:09:33	What is that? A beer can?	N
+148	148	00:09:33	00:09:35	Soda can?	N
+149	149	00:09:35	00:09:37	Zilch.	N
+150	150	00:09:39	00:09:41	Zilch.	N
+151	151	00:09:41	00:09:43	Don't tell me, more zilch?	N
+152	152	00:09:43	00:09:45	Whoa... Whoa.	N
+153	153	00:09:45	00:09:48	Point of disturbance.	N
+154	154	00:09:48	00:09:49	Hold up.	N
+155	155	00:09:52	00:09:54	Isolate it.	N
+156	156	00:10:18	00:10:21	Any more bodies you want to tell me about?	N
+157	157	00:10:23	00:10:26	No.	N
+158	158	00:10:26	00:10:29	We're going to radar this whole hillside.	N
+159	159	00:10:33	00:10:50	Sometimes... when I leave a crime scene where I've been particularly involved with a dead body I sit in my car and it hits me-- how close I was...	N
+160	160	00:10:50	00:10:55	how heavy the body is...	N
+161	161	00:10:55	00:10:58	the texture of the body...	N
+162	162	00:10:58	00:11:01	how it feels... you know?	N
+163	163	00:11:09	00:11:11	Mr. Grissom...	N
+164	164	00:11:14	00:11:17	I'm not a bad person.	N
+165	165	00:11:17	00:11:19	You're not a bad person?	N
+166	166	00:11:21	00:11:22	Then, what are you?	N
+167	167	00:11:32	00:11:36	Oh, I hope that's Shelley Danvers the woman from the hotel spa.	N
+168	168	00:11:36	00:11:37	Yep, she's next.	N
+169	169	00:11:37	00:11:38	Well, it's about time.	N
+170	170	00:11:38	00:11:40	You guys finished with day-shift runover, huh?	N
+171	171	00:11:40	00:11:43	I hate it when you CSI guys get territorial.	N
+172	172	00:11:43	00:11:46	Yeah, well, the victims' families hate it when we don't.	N
+173	173	00:11:46	00:11:48	I'll take it from here, David.	N
+174	174	00:11:48	00:11:50	Good morning.	N
+175	175	00:11:50	00:11:52	Catherine.	N
+176	176	00:11:52	00:11:56	No serosanguineous fluid expunged from the mouth or nose.	N
+177	177	00:11:56	00:11:57	She didn't drown?	N
+178	178	00:11:57	00:12:00	Rules out your Jacuzzi theory.	N
+179	179	00:12:00	00:12:02	Anything probative?	N
+180	180	00:12:02	00:12:05	Bright red lividity extending down the body.	N
+181	181	00:12:05	00:12:06	From?	N
+182	182	00:12:06	00:12:08	Well, heatstroke possibly.	N
+183	183	00:12:08	00:12:12	Stroke could cause multiple organ failure and if I'm right...	N
+184	184	00:12:12	00:12:14	Cover-up.	N
+185	185	00:12:14	00:12:17	Hey, I still have to do the post. Catherine?	N
+186	186	00:12:17	00:12:21	Brass, I need you to get records from that hotel spa-- a warrant, if we need it.	N
+187	187	00:12:22	00:12:23	Yep, that's right.	N
+188	188	00:12:23	00:12:25	Bye.	N
+189	189	00:12:25	00:12:26	Oh, it's on.	N
+190	190	00:12:26	00:12:29	Yeah. Was our girl staying with anyone at that hotel?	N
+191	191	00:12:29	00:12:31	Uh, yeah.	N
+192	192	00:12:31	00:12:33	Tina... Tina Kolas.	N
+193	193	00:12:33	00:12:35	Best friends from Terre Haute, Indiana.	N
+194	194	00:12:35	00:12:36	Flew here in a package. Why?	N
+195	195	00:12:36	00:12:39	We need someone to give us the truth about last night.	N
+196	196	00:12:49	00:12:51	Gil Grissom?	N
+197	197	00:12:51	00:12:53	Father?	N
+198	198	00:12:53	00:12:55	Benjamin's a member of my parish.	N
+199	199	00:12:55	00:12:56	The officer won't let me talk to him.	N
+200	200	00:12:56	00:12:58	He said you were in charge.	N
+201	201	00:12:58	00:13:00	Of this crime scene.	N
+202	202	00:13:00	00:13:02	He needs spiritual guidance.	N
+203	203	00:13:08	00:13:10	Yeah, I imagine he does.	N
+204	204	00:13:10	00:13:14	Ah... then you'd have no problem with my talking to him.	N
+205	205	00:13:14	00:13:15	It's the 11th hour.	N
+206	206	00:13:15	00:13:17	I wouldn't expect anything less. 11th hour?	N
+207	207	00:13:17	00:13:21	When the reality of their actions set in they usually turn to religion.	N
+208	208	00:13:21	00:13:23	Can you think of a better time?	N
+209	209	00:13:31	00:13:33	Okay, hold it.	N
+210	210	00:13:33	00:13:34	That's enough.	N
+211	211	00:13:34	00:13:35	Let's dust him.	N
+212	212	00:13:52	00:13:54	No ligature marks.	N
+213	213	00:13:54	00:13:56	Different from the first guy.	N
+214	214	00:13:56	00:14:01	See if this laceration on this guy's forehead is consistent with the kid's shovel.	N
+215	215	00:14:03	00:14:05	Hey...	N
+216	216	00:14:05	00:14:06	I feel a wallet here.	N
+217	217	00:14:12	00:14:15	Ramirez Kenny.	N
+218	218	00:14:15	00:14:18	A 25-year-old Latino and a 42-year-old white guy?	N
+219	219	00:14:18	00:14:20	Strangers.	N
+220	220	00:14:20	00:14:22	Doesn't make sense. There's no connection.	N
+221	221	00:14:22	00:14:25	Well, it obviously wasn't a robbery.	N
+222	222	00:14:25	00:14:27	Hey, O'Riley.	N
+223	223	00:14:27	00:14:29	What's the matter, man-- A.C. not working?	N
+224	224	00:14:29	00:14:30	I was on with Dispatch.	N
+225	225	00:14:30	00:14:36	Oliver Dunne's car was just found by the Highway Patrol abandoned at an AvCon station off 215.	N
+226	226	00:14:36	00:14:41	They didn't happen to find another car there, did they?	N
+227	227	00:14:41	00:14:43	Yeah.	N
+228	228	00:14:43	00:14:46	Registered to a Ramirez.	N
+229	229	00:14:46	00:14:49	Yeah... gas station.	N
+230	230	00:14:58	00:15:05	And you can verify that when Shelley went to the hotel spa last night she was going to use the dry sauna?	N
+231	231	00:15:05	00:15:07	We'd been drinking apple martinis for three days straight.	N
+232	232	00:15:07	00:15:10	Shelley said the sauna would detox her you know, clean her out.	N
+233	233	00:15:14	00:15:15	Cath.	N
+234	234	00:15:17	00:15:18	Whose shirt is this?	N
+235	235	00:15:18	00:15:21	Mine. Shelley and I got in a fight over it.	N
+236	236	00:15:21	00:15:22	When?	N
+237	237	00:15:22	00:15:23	Yesterday.	N
+238	238	00:15:23	00:15:31	I caught her trying it on and I said Give it back, and then we started fighting over it, you know, tug of war and the whole thing ripped right in two.	N
+239	239	00:15:31	00:15:32	We fell back laughing.	N
+240	240	00:15:35	00:15:37	I'd give anything to have her back.	N
+241	241	00:15:37	00:15:41	We're going to take this shirt, if you don't mind.	N
+242	242	00:15:41	00:15:43	No, go ahead, if it'll help.	N
+243	243	00:15:43	00:15:46	You said you have proof that Shelley used the dry sauna.	N
+244	244	00:15:46	00:15:48	She called down from this phone.	N
+245	245	00:15:48	00:15:50	Do they tape phone calls here?	N
+246	246	00:15:50	00:15:52	Hotel surveillance would love that.	N
+247	247	00:15:52	00:15:55	You're sure she used that phone to make the appointment?	N
+248	248	00:15:55	00:15:56	Yeah.	N
+249	249	00:16:00	00:16:02	We're going to take this as well.	N
+250	250	00:16:02	00:16:05	Okay... but it doesn't have anything on it.	N
+251	251	00:16:05	00:16:07	Well, that's okay.	N
+252	252	00:16:07	00:16:08	We do magic.	N
+253	253	00:16:10	00:16:13	Two men were shot and killed and you didn't see anything?	N
+254	254	00:16:13	00:16:14	Sorry.	N
+255	255	00:16:14	00:16:17	You don't just miss something like that. What was going on?	N
+256	256	00:16:17	00:16:19	A friend of mine came with his new car.	N
+257	257	00:16:19	00:16:21	We took it for a drive.	N
+258	258	00:16:21	00:16:22	I'm afraid my boss will find out.	N
+259	259	00:16:22	00:16:23	I was only gone five minutes.	N
+260	260	00:16:24	00:16:25	Okay, all right.	N
+261	261	00:16:25	00:16:26	Just walk us through it.	N
+262	262	00:16:26	00:16:28	When did you know there'd been a crime committed?	N
+263	263	00:16:29	00:16:33	Well, my buddy dropped me back here and I noticed these two cars.	N
+264	264	00:16:33	00:16:35	I went to check them out.	N
+265	265	00:16:43	00:16:45	Oh, my God.	N
+266	266	00:16:49	00:16:50	I don't see any blood.	N
+267	267	00:16:50	00:16:51	Yeah, I hosed it down.	N
+268	268	00:16:51	00:16:52	You what?	N
+269	269	00:16:52	00:16:53	It was freakin' me out.	N
+270	270	00:17:04	00:17:06	H-Hello?	N
+271	271	00:17:06	00:17:07	Mr. Grissom?	N
+272	272	00:17:07	00:17:09	Uh...	N
+273	273	00:17:11	00:17:14	They told me out front I'd find you here.	N
+274	274	00:17:18	00:17:20	I don't see your, uh... visitor's badge.	N
+275	275	00:17:21	00:17:22	Priest's collar.	N
+276	276	00:17:22	00:17:24	People trust it.	N
+277	277	00:17:25	00:17:27	Most people.	N
+278	278	00:17:27	00:17:29	Even lapsed Catholics.	N
+279	279	00:17:29	00:17:34	What makes you think, uh... I was ever a Catholic?	N
+280	280	00:17:34	00:17:36	First time we met, you called me Father.	N
+281	281	00:17:36	00:17:37	Only Romans do that.	N
+282	282	00:17:38	00:17:41	Everybody else, it's Reverend or Minister.	N
+283	283	00:17:41	00:17:45	I wanted to know how your investigation against Ben is going.	N
+284	284	00:17:45	00:17:46	This is his car.	N
+285	285	00:17:47	00:17:49	You know, you really shouldn't be here.	N
+286	286	00:17:49	00:17:52	I didn't come here to tamper with your evidence.	N
+287	287	00:18:03	00:18:06	He was a good kid, all through school.	N
+288	288	00:18:06	00:18:11	Still comes to Mass every Sunday.	N
+289	289	00:18:11	00:18:14	If he has a problem...	N
+290	290	00:18:14	00:18:15	it's trying to please people.	N
+291	291	00:18:17	00:18:19	Is that a problem?	N
+292	292	00:18:19	00:18:20	It can be.	N
+293	293	00:18:31	00:18:34	This Luminol reveals any dried blood spots.	N
+294	294	00:18:56	00:18:58	He wouldn't do this.	N
+295	295	00:18:59	00:19:01	I believe the car.	N
+296	296	00:19:04	00:19:09	To whom much is given, much will be expected.	N
+297	297	00:19:12	00:19:15	I leave you to your work.	N
+298	298	00:19:22	00:19:26	I told you we have no record Shelley Danvers specifically used the dry sauna.	N
+299	299	00:19:26	00:19:28	That's okay, 'cause we do.	N
+300	300	00:19:28	00:19:33	ESDA can read this blank paper see what's written on it.	N
+301	301	00:19:33	00:19:34	Up to 14 layers.	N
+302	302	00:19:34	00:19:37	Sometimes a simple flashlight will do the trick.	N
+303	303	00:19:39	00:19:41	That's Miss Danvers' handwriting.	N
+304	304	00:19:41	00:19:42	We confirm that.	N
+305	305	00:19:42	00:19:43	So she took a dry sauna.	N
+306	306	00:19:43	00:19:44	What does that prove?	N
+307	307	00:19:44	00:19:48	She died of a heat stroke.	N
+308	308	00:19:48	00:19:52	The Coroner just called in with the results of his final post.	N
+309	309	00:19:52	00:19:56	Your sauna's kept in the optimal condition for heat stroke-- 182 °F.	N
+310	310	00:19:58	00:20:01	That could kill a person if you left them longer than two straight hours.	N
+311	311	00:20:01	00:20:03	Especially if no one checks up on them.	N
+312	312	00:20:03	00:20:07	A hotel employee is supposed to check on the various saunas every 15 minutes.	N
+313	313	00:20:07	00:20:09	Hotel regulations, right?	N
+314	314	00:20:10	00:20:16	We, uh, we got a copy of the check-up sheet.	N
+315	315	00:20:17	00:20:23	30 p.m.	N
+316	316	00:20:23	00:20:25	00 until...	N
+317	317	00:20:25	00:20:27	what time did you call 9-1-1?	N
+318	318	00:20:31	00:20:32	I, um...	N
+319	319	00:20:32	00:20:33	I came in at closing.	N
+320	320	00:20:33	00:20:34	00.	N
+321	321	00:20:34	00:20:37	Miss?	N
+322	322	00:20:37	00:20:38	Miss?	N
+323	323	00:20:38	00:20:39	Oh, my God.	N
+324	324	00:20:39	00:20:41	You moved her into the locker room?	N
+325	325	00:20:42	00:20:43	Put the robe on her?	N
+326	326	00:20:43	00:20:46	I was just trying to protect the hotel.	N
+327	327	00:20:46	00:20:48	From negligent homicide.	N
+328	328	00:20:48	00:20:53	They drill into us that the reputation of this hotel is everything.	N
+329	329	00:20:53	00:20:55	Murder scene was compromised.	N
+330	330	00:20:55	00:21:02	Pump jockey wasn't very helpful but bullets pulled from Victim One and Victim Two.	N
+331	331	00:21:02	00:21:03	Identical striations.	N
+332	332	00:21:03	00:21:06	Bullets in both victims were fired by the exact same weapon.	N
+333	333	00:21:06	00:21:07	A Lorcin .380.	N
+334	334	00:21:07	00:21:11	The same pistol registered to a Benjamin Jennings.	N
+335	335	00:21:11	00:21:16	P.D. can prove through credit cards that Ben frequents the AvCon gas stations where both vics were killed.	N
+336	336	00:21:16	00:21:20	And we can prove he transported those bodies in his vehicle based on the blood you found.	N
+337	337	00:21:20	00:21:21	And fibers.	N
+338	338	00:21:23	00:21:27	I recovered a burgundy fiber from the sock of Victim One.	N
+339	339	00:21:27	00:21:29	Found the same fiber on the sock of Victim Two.	N
+340	340	00:21:29	00:21:33	We ID'd the fibers using the FTIR.	N
+341	341	00:21:33	00:21:35	It's a polymer commonly used in vehicle carpeting.	N
+342	342	00:21:35	00:21:37	So we went back to Ben's car.	N
+343	343	00:21:40	00:21:42	They're identical.	N
+344	344	00:21:42	00:21:44	We got the Master Standards from the car manufacturer.	N
+345	345	00:21:44	00:21:48	The assigned name for the material is 12-ounce Merlot Trialon.	N
+346	346	00:21:50	00:21:53	Bottom line... he killed them.	N
+347	347	00:21:53	00:21:56	Good work, you guys.	N
+348	348	00:21:56	00:22:00	Very good.	N
+349	349	00:22:00	00:22:02	But you haven't proved murder.	N
+350	350	00:22:02	00:22:03	You've proved burial.	N
+351	351	00:22:03	00:22:05	Excuse me?	N
+352	352	00:22:05	00:22:07	Victim blood on his clothes...	N
+353	353	00:22:08	00:22:09	under his nails.	N
+354	354	00:22:09	00:22:11	From burying them.	N
+355	355	00:22:11	00:22:14	Victim blood in his car?	N
+356	356	00:22:14	00:22:16	He transported them.	N
+357	357	00:22:17	00:22:20	Show me the gun with Ben's prints on it.	N
+358	358	00:22:20	00:22:23	Gun shot residue, the ligature, the...	N
+359	359	00:22:23	00:22:26	The holes in Christ's hands, Doubting Thomas?	N
+360	360	00:22:26	00:22:28	Yes. Empirical evidence.	N
+361	361	00:22:28	00:22:31	St. Thomas was ahead of us all.	N
+362	362	00:22:31	00:22:36	Does this have anything to do with the priest that's been coming around here?	N
+363	363	00:22:36	00:22:37	No.	N
+364	364	00:22:37	00:22:40	It has to do with the evidence.	N
+365	365	00:22:40	00:22:43	It's our job to present the D.A. with the best evidence possible.	N
+366	366	00:22:43	00:22:44	Let a jury decide.	N
+367	367	00:22:44	00:22:47	Anything else, we're playing judge.	N
+368	368	00:22:47	00:22:51	The evidence doesn't get any better than this.	N
+369	369	00:23:00	00:23:01	Okay. Ship it.	N
+370	370	00:23:01	00:23:02	Show it to the D.A.	N
+371	371	00:23:03	00:23:06	Right.	N
+372	372	00:23:12	00:23:13	Anyone up for breakfast?	N
+373	373	00:23:13	00:23:16	I'm up for a shower and tucking my daughter in.	N
+374	374	00:23:16	00:23:19	Football-- wide-screen.	N
+375	375	00:23:19	00:23:21	Well, I guess I'll go see Tina alone.	N
+376	376	00:23:22	00:23:25	Hotel tells me she's down playing quarter slots.	N
+377	377	00:23:27	00:23:29	I thought we solved this case.	N
+378	378	00:23:29	00:23:30	What'd you get?	N
+379	379	00:23:30	00:23:37	Well, my guy in the hotel lounge tells me that Tina and Shelley were having a catfight over some dude named Jeremy the day she died.	N
+380	380	00:23:37	00:23:41	That's probably how the shirt really got ripped.	N
+381	381	00:23:41	00:23:44	Don't ring her bell till we re-examine our case.	N
+382	382	00:23:44	00:23:46	Misunderstood the priest?	N
+383	383	00:23:46	00:23:48	How?	N
+384	384	00:23:48	00:23:50	I looked deeper into the evidence.	N
+385	385	00:23:50	00:23:52	I should have looked deeper into Ben's character.	N
+386	386	00:23:52	00:23:55	Benjamin Corey Jennings.	N
+387	387	00:23:55	00:23:56	Nonviolent crimes.	N
+388	388	00:23:58	00:24:01	Roger Jennings... armed robbery.	N
+389	389	00:24:01	00:24:07	Past convictions, breaking and entering assault with great bodily harm.	N
+390	390	00:24:07	00:24:10	Paroled 9/27/2000.	N
+391	391	00:24:10	00:24:12	This guy is hard-core.	N
+392	392	00:24:12	00:24:14	He's looking at his third strike here.	N
+393	393	00:24:17	00:24:19	What's going on?	N
+394	394	00:24:23	00:24:25	You know how we pushed him to file on Ben?	N
+395	395	00:24:25	00:24:26	Yeah.	N
+396	396	00:24:26	00:24:29	We might have been wrong.	N
+397	397	00:24:29	00:24:31	Tell me about your brother.	N
+398	398	00:24:36	00:24:38	We know that you only buried the bodies.	N
+399	399	00:24:38	00:24:41	So, what happened?	N
+400	400	00:24:43	00:24:45	Did he threaten you?	N
+401	401	00:24:49	00:24:51	Ben?	N
+402	402	00:25:11	00:25:13	Did you learn to throw pizzas in prison, Roger?	N
+403	403	00:25:16	00:25:19	Who the hell are you guys?	N
+404	404	00:25:19	00:25:21	Get out of my kitchen.	N
+405	405	00:25:21	00:25:25	Roger Jennings-- armed robbery, breaking and entering.	N
+406	406	00:25:25	00:25:28	You sound like the kind of guy it wouldn't be a big jump to murder.	N
+407	407	00:25:29	00:25:30	What is this?	N
+408	408	00:25:32	00:25:34	Your first stop the AvCon gas station.	N
+409	409	00:25:34	00:25:35	See these two guys?	N
+410	410	00:25:35	00:25:37	Nope.	N
+411	411	00:25:37	00:25:40	Don't know what you're talking about.	N
+412	412	00:25:40	00:25:42	My little brother got me this job.	N
+413	413	00:25:42	00:25:43	I'm staying clean.	N
+414	414	00:25:43	00:25:46	Suppose I told you your brother said you did these guys.	N
+415	415	00:25:49	00:25:51	He wouldn't do that.	N
+416	416	00:25:51	00:26:00	You did it directly after work using a .380 pistol and then you strangled one of the victims with his own tie.	N
+417	417	00:26:12	00:26:14	Ben did it.	N
+418	418	00:26:15	00:26:16	Did you witness this?	N
+419	419	00:26:16	00:26:19	He told me about it.	N
+420	420	00:26:19	00:26:21	Look what I did-- I just lost my head.	N
+421	421	00:26:22	00:26:23	What am I supposed to do now?	N
+422	422	00:26:23	00:26:26	I'm on a short line, all right?	N
+423	423	00:26:26	00:26:27	You're on your own, Ben.	N
+424	424	00:26:28	00:26:29	Roger, you've got to help me.	N
+425	425	00:26:29	00:26:30	You know I can't.	N
+426	426	00:26:30	00:26:31	What am I going to do?	N
+427	427	00:26:31	00:26:32	Huh?	N
+428	428	00:26:32	00:26:33	It's your mess.	N
+429	429	00:26:33	00:26:34	You got to deal with it.	N
+430	430	00:26:34	00:26:37	What started the beef with the victims?	N
+431	431	00:26:37	00:26:38	I don't know.	N
+432	432	00:26:38	00:26:40	Tempers, I guess.	N
+433	433	00:26:42	00:26:43	Hey!	N
+434	434	00:26:43	00:26:45	Hey, man! I was here first.	N
+435	435	00:26:45	00:26:46	You want to wait your turn?	N
+436	436	00:26:46	00:26:48	What are you going to do, huh?	N
+437	437	00:26:51	00:26:53	Bystander gets a little too nosy...	N
+438	438	00:26:57	00:26:59	and he gets it, too.	N
+439	439	00:27:01	00:27:04	The perpetrator's hands left flour on the victim's face.	N
+440	440	00:27:04	00:27:06	This was not from a gunshot.	N
+441	441	00:27:06	00:27:09	This was something a little more intimate.	N
+442	442	00:27:20	00:27:30	When a person changes his mode of murder from pistol to ligature it's for one of two reasons-- entertainment... or necessity.	N
+443	443	00:27:30	00:27:32	Which was it for you?	N
+444	444	00:27:32	00:27:33	Neither.	N
+445	445	00:27:33	00:27:36	I told you, Ben strangled that guy.	N
+446	446	00:27:36	00:27:38	The flour said you did.	N
+447	447	00:27:40	00:27:42	I don't know what you're talking about.	N
+448	448	00:27:43	00:27:46	Anything on the list besides the tie?	N
+449	449	00:27:46	00:27:48	Nope.	N
+450	450	00:27:50	00:27:52	Hey, guys.	N
+451	451	00:27:52	00:27:53	You can go ahead and take off.	N
+452	452	00:27:53	00:27:54	I think we got it.	N
+453	453	00:27:54	00:27:55	Thanks.	N
+454	454	00:28:02	00:28:03	Whoa.	N
+455	455	00:28:18	00:28:19	Hey.	N
+456	456	00:28:19	00:28:21	Dry cleaning.	N
+457	457	00:28:21	00:28:22	The trailer's low-rent.	N
+458	458	00:28:22	00:28:24	Dry cleaning's expensive.	N
+459	459	00:28:36	00:28:38	Sara?	N
+460	460	00:28:38	00:28:40	This man's not as smart as he thinks.	N
+461	461	00:28:40	00:28:42	Dry cleaning bakes in blood stains.	N
+462	462	00:28:44	00:28:45	Could be red sauce.	N
+463	463	00:28:45	00:28:46	Oh, now you're cautious.	N
+464	464	00:28:46	00:28:49	I'm just trying to put our mistake to good use.	N
+465	465	00:28:49	00:28:52	Okay. You wanna...	N
+466	466	00:28:52	00:28:56	check the perimeter and I'll see if we have blood stains or red sauce.	N
+467	467	00:28:56	00:28:57	Okay.	N
+468	468	00:30:10	00:30:11	Hemoglobin.	N
+469	469	00:30:11	00:30:13	Take a look at this.	N
+470	470	00:30:19	00:30:20	Nick?	N
+471	471	00:30:22	00:30:24	Hey, Nick.	N
+472	472	00:31:07	00:31:09	jammed, huh?	N
+473	473	00:31:09	00:31:11	Get anything instructive?	N
+474	474	00:31:11	00:31:12	Possibly.	N
+475	475	00:31:13	00:31:14	Blood from Jennings's denim shirt.	N
+476	476	00:31:19	00:31:20	Is the printer out of ink?	N
+477	477	00:31:20	00:31:22	ND, ND, ND.	N
+478	478	00:31:22	00:31:23	It means None Detected.	N
+479	479	00:31:23	00:31:28	The dry cleaning baked in the blood and it also degraded it to a degree that I can't get a result.	N
+480	480	00:31:28	00:31:31	Try again. This could be victim blood. Try again.	N
+481	481	00:31:31	00:31:32	I have tried.	N
+482	482	00:31:32	00:31:33	It's chemically impossible, Sara.	N
+483	483	00:31:33	00:31:35	Nothing from nothing is nothing.	N
+484	484	00:31:42	00:31:45	The striations are different. See?	N
+485	485	00:31:47	00:31:52	There's no way I can say that the bullets taken from the victims were fired by Jennings's gun.	N
+486	486	00:31:54	00:31:56	So, he altered the barrel somehow.	N
+487	487	00:31:56	00:32:03	Yeah. Changed how the bullet relates to the barrel so when the bullet emerges, its fine stria are altered.	N
+488	488	00:32:03	00:32:05	Any idea what he used?	N
+489	489	00:32:07	00:32:09	Whatever it was...	N
+490	490	00:32:09	00:32:10	did the job.	N
+491	491	00:32:10	00:32:11	My evidence is no better.	N
+492	492	00:32:11	00:32:13	Total wash.	N
+493	493	00:32:16	00:32:18	We present this to the D.A.	N
+494	494	00:32:18	00:32:22	Unfortunately, we've had this discussion before.	N
+495	495	00:32:22	00:32:23	The guilty brother's going to walk.	N
+496	496	00:32:56	00:32:59	He's never been in any real trouble before.	N
+497	497	00:33:00	00:33:01	They'll go easy on him.	N
+498	498	00:33:06	00:33:08	The bullet jammed in the feed, didn't it?	N
+499	499	00:33:18	00:33:21	So, it was necessity.	N
+500	500	00:33:33	00:33:36	Wait, are you saying Shelley didn't die in the sauna?	N
+501	501	00:33:36	00:33:37	She died of heat stroke.	N
+502	502	00:33:37	00:33:41	But the stroke covered up an underlying medical catastrophe.	N
+503	503	00:33:41	00:33:42	Like what?	N
+504	504	00:33:42	00:33:43	Shell was always healthy.	N
+505	505	00:33:44	00:33:45	She went into anaphylactic shock.	N
+506	506	00:33:45	00:33:52	Coroner says some of the indicators renal failure, cerebral edema.	N
+507	507	00:33:52	00:33:57	We missed it until Captain Brass brought your room service records to our attention.	N
+508	508	00:33:57	00:33:59	I don't understand.	N
+509	509	00:33:59	00:34:03	Well, maybe this will help-- the travel agency contract you and Shelley signed.	N
+510	510	00:34:03	00:34:07	Under allergic reactions to foods for Shelley Danvers-- shellfish.	N
+511	511	00:34:07	00:34:09	As her best friend, you would know that.	N
+512	512	00:34:09	00:34:24	And then we have this from the hotel computer for your room 01 p.m., on the day A Taste from the Sea a lovely tureen of mild bisque with pureed bits of Maine lobster.	N
+513	513	00:34:24	00:34:27	Pureed, two bowls.	N
+514	514	00:34:27	00:34:31	She didn't know what she was eating when it arrived, did she?	N
+515	515	00:34:33	00:34:36	Because she didn't order it; you did.	N
+516	516	00:34:39	00:34:46	We've got a machine known as the ESDA machine which can read pen imprints.	N
+517	517	00:34:46	00:34:48	Well, the machine isolated this.	N
+518	518	00:34:49	00:34:51	00.	N
+519	519	00:34:51	00:34:53	Shelley made that date.	N
+520	520	00:34:53	00:34:54	That's her handwriting.	N
+521	521	00:34:55	00:34:58	Were you in the room when Jeremy called?	N
+522	522	00:34:58	00:35:00	I answered the phone.	N
+523	523	00:35:00	00:35:02	He asked for her.	N
+524	524	00:35:02	00:35:05	You killed her over a guy you two met at a bar?	N
+525	525	00:35:05	00:35:07	I didn't mean to kill her.	N
+526	526	00:35:07	00:35:14	I thought that she would just have an allergic reaction and she wouldn't be able to make her date that night like, get hives or something.	N
+527	527	00:35:14	00:35:25	Well, her allergy kicked in in the sauna under the worst possible conditions-- trachea... larynx... tongue swelled.	N
+528	528	00:35:25	00:35:30	Her pressure got so low her blood quit running through her organs.	N
+529	529	00:35:30	00:35:32	They shut down.	N
+530	530	00:35:37	00:35:39	I didn't even like the guy.	N
+531	531	00:35:39	00:35:44	I just... I didn't want to be left out.	N
+532	532	00:35:48	00:35:52	Miss Kolas, you're under arrest.	N
+533	533	00:35:52	00:35:55	Hey.	N
+534	534	00:35:55	00:35:56	D.A.'s looking for you.	N
+535	535	00:35:56	00:35:59	About? What, you think I read your messages?	N
+536	536	00:36:00	00:36:03	Top secret and urgent?	N
+537	537	00:36:03	00:36:04	It's a gift, reading upside down.	N
+538	538	00:36:04	00:36:06	The Las Vegas District Attorney is reportedly...	N
+539	539	00:36:06	00:36:08	preparing to file homicide charges...	N
+540	540	00:36:08	00:36:13	against Benjamin Corey Jennings in the so-called Burial Murders case.	N
+541	541	00:36:13	00:36:16	Jennings has been in police custody for the last...	N
+542	542	00:36:16	00:36:18	Guess we know what she was calling about.	N
+543	543	00:36:18	00:36:23	...since he was caught burying the first victim, Oliver Dunne in the National Forest.	N
+544	544	00:36:23	00:36:28	Don't you have enough cases over at CSI now you're going to start telling me which ones I should take to court?	N
+545	545	00:36:28	00:36:32	There isn't one piece of evidence that says that kid was even present at the murders.	N
+546	546	00:36:32	00:36:34	As a matter of fact this is why I was hunting you.	N
+547	547	00:36:34	00:36:37	Jennings brought it in about an hour ago.	N
+548	548	00:36:37	00:36:39	Chain of custody; I can't touch it.	N
+549	549	00:36:40	00:36:42	The first victim was ligatured, right?	N
+550	550	00:36:51	00:36:54	Jennings says his little brother asked him to hide the tie.	N
+551	551	00:36:54	00:36:55	Well, how convenient.	N
+552	552	00:36:55	00:37:01	The older brother brings it in explaining why his epithelials are all over the murder weapon.	N
+553	553	00:37:01	00:37:04	A jury doesn't understand epi-whatevers, okay?	N
+554	554	00:37:04	00:37:09	They understand a twisty tie and blood all over Ben's car seat.	N
+555	555	00:37:09	00:37:10	He set up his brother.	N
+556	556	00:37:10	00:37:14	Oh, come on, Grissom, they're both part of it and if I can get one of them, I will.	N
+557	557	00:37:14	00:37:15	He's a good kid, Robin.	N
+558	558	00:37:15	00:37:18	He hero-worships his brother, but he's a good kid.	N
+559	559	00:37:18	00:37:19	Yeah?	N
+560	560	00:37:19	00:37:22	Then his epithelials shouldn't be on that tie.	N
+561	561	00:37:24	00:37:31	Explain how bits of your skin got on the ligature used to strangle that victim.	N
+562	562	00:37:31	00:37:32	I don't know.	N
+563	563	00:37:32	00:37:36	Your brother brought this in to the District Attorney.	N
+564	564	00:37:40	00:37:42	What?	N
+565	565	00:37:42	00:37:43	He's framing you.	N
+566	566	00:37:43	00:37:49	Unless you can tell us how your epithelials got on that tie.	N
+567	567	00:37:49	00:37:52	I don't know.	N
+568	568	00:37:52	00:37:54	I swear I don't know.	N
+569	569	00:37:54	00:37:57	I... he... I just picked up the bodies at his place.	N
+570	570	00:37:59	00:38:00	Grab that guy's tie, little bro.	N
+571	571	00:38:00	00:38:02	I like that thing.	N
+572	572	00:38:08	00:38:10	Bury them deep, all right?	N
+573	573	00:38:10	00:38:14	You get into any trouble you don't have to say anything, all right?	N
+574	574	00:38:14	00:38:15	I'm counting on you.	N
+575	575	00:38:15	00:38:18	Yeah, yeah, man, I'm there all the way.	N
+576	576	00:38:18	00:38:21	Go, get out of here.	N
+577	577	00:38:21	00:38:23	Go on.	N
+578	578	00:38:24	00:38:26	I got to ask...	N
+579	579	00:38:26	00:38:30	how does somebody bury two bodies as a favor?	N
+580	580	00:38:30	00:38:32	'Cause he's my brother.	N
+581	581	00:38:33	00:38:37	He told... He told me that if I didn't talk...	N
+582	582	00:38:37	00:38:41	to you guys and if he didn't talk, then this would all just blow over; it'd all just go away.	N
+583	583	00:38:41	00:38:45	You're looking at two counts of Murder Special Circumstances.	N
+584	584	00:38:45	00:38:50	The best you can hope for is life without parole.	N
+585	585	00:38:50	00:38:53	I don't... I don't think I can do that kind of time.	N
+586	586	00:38:55	00:39:00	Do you have any physical evidence linking your brother to the murders?	N
+587	587	00:39:00	00:39:01	Anything?	N
+588	588	00:39:57	00:40:00	I know that we've arrested the wrong brother.	N
+589	589	00:40:07	00:40:09	He came to see you as soon as Ben was in custody.	N
+590	590	00:40:12	00:40:16	I tried to help without breaking my vows.	N
+591	591	00:40:20	00:40:24	We both have jobs that begin after the crime.	N
+592	592	00:40:24	00:40:27	After the sin.	N
+593	593	00:40:27	00:40:31	Some people would call that a career in futility.	N
+594	594	00:40:31	00:40:34	Some call it a vocation.	N
+595	595	00:40:37	00:40:42	100 years ago we didn't have the technology for fingerprints.	N
+596	596	00:40:42	00:40:44	15 years ago, we didn't have DNA.	N
+597	597	00:40:44	00:40:52	Hopefully one day, we'll have foolproof means by which to put the right man in jail in this case.	N
+598	598	00:40:52	00:40:55	Someday, we won't need jails.	N
+599	599	00:40:58	00:41:02	00.	N
+600	600	00:41:04	00:41:07	Thank you...	N
+601	601	00:41:07	00:41:10	but...	N
+602	602	00:41:10	00:41:12	no.	N
+603	603	00:41:12	00:41:15	You don't believe?	N
+604	604	00:41:15	00:41:18	In religion?	N
+605	605	00:41:18	00:41:21	I believe in God, in science...	N
+606	606	00:41:21	00:41:23	in Sunday supper.	N
+607	607	00:41:23	00:41:27	I don't believe in rules that tell me how I should live.	N
+608	608	00:41:27	00:41:30	Even if they're handed down by God?	N
+609	609	00:41:30	00:41:32	How many crusades were fought in the name of God?	N
+610	610	00:41:32	00:41:36	How many people died because of someone's religion?	N
+611	611	00:41:36	00:41:39	Fanaticism; not religion.	N
+612	612	00:41:39	00:41:41	Semantics.	N
+613	613	00:41:41	00:41:43	They're still dead.	N
+614	614	00:41:44	00:41:47	I'm sorry about Ben, Father.	N
+615	615	00:41:50	00:41:53	You still suffer like a Catholic.	N
+616	616	00:41:56	00:42:00	Light bulb goes out other people fix it, get a new one.	N
+617	617	00:42:00	00:42:08	Light bulb goes out for the Catholic he stands in the dark says, What did I do wrong?	N
+618	618	00:42:10	00:42:12	That guilt's not in me anymore.	N
+619	619	00:42:28	00:42:29	Hey.	N
+620	620	00:42:29	00:42:30	Oh.	N
+621	621	00:42:31	00:42:35	You're going to be getting a call from the local papers about spa safety.	N
+622	622	00:42:35	00:42:38	Spa safety?	N
+623	623	00:42:38	00:42:42	We had a victim die of an allergic reaction at the Mediterranean.	N
+624	624	00:42:42	00:42:46	Some foul play; some negligence.	N
+625	625	00:42:46	00:42:48	So what am I supposed to say?	N
+626	626	00:42:48	00:42:50	That it was an isolated incident...	N
+627	627	00:42:50	00:42:55	that in no way should it be a mark against the Strip's other fine hotel-casinos.	N
+628	628	00:42:55	00:42:58	CSI supports Las Vegas.	N
+629	629	00:42:58	00:42:59	Bottom line.	N
+630	630	00:43:07	00:43:09	Need some help in here!	N
+631	631	00:43:15	00:43:16	Hold his head! Hold his head!	N
+632	632	00:43:16	00:43:18	I can't stop the bleeding.	N
+633	633	00:43:18	00:43:20	Oh, no, no, no.	N
+634	634	00:43:20	00:43:21	How did this happen?!	N
+635	635	00:43:21	00:43:23	Incisor. He used his teeth.	N
+636	636	00:43:23	00:43:24	Clamp down.	N
+637	637	00:43:26	00:43:27	Keep him with us.	N
+638	638	00:43:27	00:43:28	Get out of the way!	N
+639	639	00:43:28	00:43:30	Out of the way! Sir, step back.	N
+640	640	00:43:30	00:43:32	Sir. He's bleeding out.	N
+641	641	00:43:32	00:43:33	He's bleeding out here.	N
+642	642	00:43:33	00:43:35	We need to stop this.	N
+643	643	00:43:35	00:43:37	Compression. Keep him with us.	N
+644	644	00:43:37	00:43:38	Get the head up.	N
+645	645	00:43:38	00:43:41	We're losing him, we're losing him.	N
+646	646	00:43:46	00:43:49	04.	N

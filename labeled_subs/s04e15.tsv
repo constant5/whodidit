@@ -1,743 +1,743 @@
-	start	end	text	label
-0	00:00:17	00:00:18	Ready to go?	N
-1	00:00:18	00:00:19	I'll get the paper. You get the car.	N
-2	00:00:19	00:00:20	Okay.	N
-3	00:00:42	00:00:43	Ooh!	Y
-4	00:00:55	00:00:59	Early morning call-out, the worst.	N
-5	00:00:59	00:01:00	Where did you come from?	N
-6	00:01:00	00:01:01	Home.	N
-7	00:01:01	00:01:03	Did you get any sleep?	N
-8	00:01:03	00:01:04	No. You?	N
-9	00:01:04	00:01:05	About a half an hour.	N
-10	00:01:05	00:01:07	I was watching the World Series of Poker.	N
-11	00:01:07	00:01:10	Waiting for Sam Farha to light his cigarette.	N
-12	00:01:10	00:01:12	Ever been to the Acid Drop?	N
-13	00:01:12	00:01:15	I try to avoid those places.	N
-14	00:01:15	00:01:17	The victims were the owners.	N
-15	00:01:17	00:01:20	Mike Trent and his wife Laurel.	N
-16	00:01:20	00:01:23	Both shot execution-style back of the head.	N
-17	00:01:23	00:01:25	A neighbor walking the dog found 'em.	N
-18	00:01:25	00:01:29	Mike used to own a semi-pro hockey team with some other guy.	N
-19	00:01:29	00:01:34	He made a ton of money, sunk it all into clubs like Acid Drop, uh, Psychedelic Hoe-Down...	N
-20	00:01:34	00:01:35	Captain Brass.	N
-21	00:01:35	00:01:37	Fun joints.	Y
-22	00:01:37	00:01:40	Looks like they never got out of the driveway.	N
-23	00:01:43	00:01:49	She dropped where she was shot, but he looks like he was dragged.	Y
-24	00:01:52	00:01:58	You drag a body away to hide it, not down a driveway for the world to see it.	N
-25	00:01:59	00:02:09	Unless that was the point.	N
-26	00:02:45	00:02:47	Bling-bling.	N
-27	00:02:47	00:02:49	The ol' trophy wife.	N
-28	00:02:49	00:02:51	You think?	N
-29	00:02:51	00:02:54	Classic Vegas.	N
-30	00:02:54	00:03:01	He pays for her boobs, tummy tuck, Prada, weekly spa, French manicure.	N
-31	00:03:01	00:03:06	And she's just hanging on his arm like she belongs.	N
-32	00:03:06	00:03:08	Tell us how you really feel, Catherine.	N
-33	00:03:08	00:03:09	Oh, it's gross.	N
-34	00:03:09	00:03:11	I wouldn't want to be her for the world.	N
-35	00:03:11	00:03:14	I wouldn't mind being her for a day, I guess.	N
-36	00:03:14	00:03:15	Not this day.	N
-37	00:03:15	00:03:16	No.	N
-38	00:03:16	00:03:19	Looks like it was just the two of them.	N
-39	00:03:19	00:03:21	Nobody I know lives like this with kids.	N
-40	00:03:24	00:03:26	Brown.	N
-41	00:03:26	00:03:28	I've been here for 20 minutes.	N
-42	00:03:28	00:03:29	What's the code?	N
-43	00:03:29	00:03:31	You on the East Coast looking for a sunset?	N
-44	00:03:31	00:03:33	I am.	N
-45	00:03:33	00:03:34	You're at the wrong gate.	N
-46	00:03:34	00:03:37	Drive back down the road, make three lefts.	N
-47	00:03:37	00:03:42	When you get to the main gate, speak to Officer Ray and tell her you're with the Crime Lab.	N
-48	00:03:42	00:03:45	When you get to the scene, make sure I'm the first person you speak to.	N
-49	00:03:45	00:03:46	Okay.	N
-50	00:03:51	00:03:51	Mike Trent?	N
-51	00:03:52	00:03:53	Mm-hmm.	N
-52	00:03:53	00:03:56	Boy, he's a big dog in the club world.	N
-53	00:03:56	00:04:01	You know I heard he paid Lil' Kim $10,000 one time just to walk into one of his clubs, turn around and walk back out.	N
-54	00:04:01	00:04:04	Yeah, Jah Rule gets the same fee.	N
-55	00:04:04	00:04:08	He told me.	N
-56	00:04:08	00:04:10	Hey, uh, let me have one of those, Sara.	N
-57	00:04:10	00:04:12	Sorry, last one.	N
-58	00:04:13	00:04:15	You have a cold, Sara?	N
-59	00:04:15	00:04:17	I've been feeling a little run-down lately.	N
-60	00:04:17	00:04:19	Okay, it's a gated community.	N
-61	00:04:19	00:04:21	The main gate has a guard all the time.	N
-62	00:04:21	00:04:25	The resident gate is at the north end, has punch-key access.	N
-63	00:04:25	00:04:28	Those are the only two ways in and out of this place.	N
-64	00:04:28	00:04:31	I thought you moved into communities like this for this not to happen.	N
-65	00:04:32	00:04:35	Hey, Grissom.	Y
-66	00:04:35	00:04:36	What do you got?	N
-67	00:04:36	00:04:39	So far, an empty briefcase and a purse.	N
-68	00:04:39	00:04:41	You want us to take the perimeter?	N
-69	00:04:41	00:04:42	Yeah, please.	N
-70	00:04:42	00:04:44	Catherine and Warwick are inside.	N
-71	00:04:44	00:04:47	The bodies were found on the driveway, so any evidence of the killers is going to be out here.	N
-72	00:04:47	00:04:51	I'll check the rear for any sign of forced entry.	N
-73	00:04:51	00:04:54	I'll take the side door.	N
-74	00:04:54	00:04:56	You just get off a shift?	N
-75	00:04:57	00:04:58	Catherine called me.	N
-76	00:04:58	00:04:59	I'm here to help with the case.	N
-77	00:04:59	00:05:01	You look like a man who just rolled out of bed.	N
-78	00:05:01	00:05:03	You all right? Yeah, why?	N
-79	00:05:03	00:05:04	T-shirt, sneakers.	N
-80	00:05:04	00:05:05	You're already a half hour late.	N
-81	00:05:05	00:05:08	Grissom will rip you a new one he sees you like that.	N
-82	00:05:08	00:05:09	Serious?	N
-83	00:05:09	00:05:12	Yeah, it's not a Rebel game. It's a crime scene.	N
-84	00:05:12	00:05:15	See, this is what I'm talking about right here.	N
-85	00:05:15	00:05:18	The battery's not changed out of your flashlight.	N
-86	00:05:18	00:05:19	Kit's open.	N
-87	00:05:20	00:05:22	It's not stocked; no swabs.	N
-88	00:05:22	00:05:24	Did you sterilize your equipment after your last case?	N
-89	00:05:24	00:05:26	Uh, no.	N
-90	00:05:28	00:05:31	See, you know when I'm on call because my clothes are folded next to my bed.	N
-91	00:05:31	00:05:36	Shoes, jacket, ball cap, bottle of water, pen, paper, Thomas Guide, next to the phone.	N
-92	00:05:36	00:05:39	00 in the morning, I'm not scrambled.	N
-93	00:05:39	00:05:42	Everything's there before the phone rings.	N
-94	00:05:42	00:05:43	My game is tight, like my trunk.	N
-95	00:05:43	00:05:44	Check it out.	N
-96	00:05:50	00:05:53	Camera case, tripod, film is in the fridge.	N
-97	00:05:53	00:05:54	Markers, check.	N
-98	00:05:54	00:05:56	Extra field kit, fully stocked, sterilized.	N
-99	00:05:56	00:06:00	Shoeprint lift kit, wet weather gear.	N
-100	00:06:00	00:06:01	Files mama.	N
-101	00:06:04	00:06:05	Forms for days.	N
-102	00:06:05	00:06:10	First Call form, First Officer form, Consent to Search, Bird's Eye View inside, Bird's Eye View outside.	N
-103	00:06:11	00:06:13	It's down to how I like my lunch.	N
-104	00:06:13	00:06:14	Picking up what I'm putting down?	N
-105	00:06:14	00:06:17	Yeah. See, no one ever told me.	N
-106	00:06:17	00:06:18	You've been told.	N
-107	00:06:18	00:06:20	Yes, sir.	N
-108	00:07:12	00:07:13	No sign of disturbance in the rear.	Y
-109	00:07:14	00:07:17	Cigarette butts.	N
-110	00:07:17	00:07:19	Orange peel, seeds.	N
-111	00:07:19	00:07:22	Lying in wait, maybe.	N
-112	00:07:22	00:07:24	You still sucking on that same cough drop?	N
-113	00:07:24	00:07:26	Yeah.	N
-114	00:07:26	00:07:28	I'm a... a slow sucker.	N
-115	00:07:28	00:07:33	So, assuming the killer didn't live in the community, how did he gain entry?	Y
-116	00:08:19	00:08:20	Crime occurred in the driveway.	N
-117	00:08:20	00:08:23	Nothing to indicate that the suspects were inside the house.	N
-118	00:08:23	00:08:27	Yes, ma'am. I got it.	N
-119	00:08:27	00:08:28	So, then, what are we looking for?	N
-120	00:08:28	00:08:32	Anything inside that'll make the outside make sense.	N
-121	00:08:32	00:08:33	On your hands and knees.	N
-122	00:08:33	00:08:36	Check the carpet for trace.	N
-123	00:09:06	00:09:08	Hey.	N
-124	00:09:08	00:09:10	Greg.	N
-125	00:09:10	00:09:12	I'm going to need you to photograph something.	N
-126	00:09:12	00:09:13	Why, what'd you find?	N
-127	00:09:14	00:09:15	It's what I didn't find.	N
-128	00:09:18	00:09:19	Well, I found something.	N
-129	00:09:19	00:09:21	Blood.	N
-130	00:09:21	00:09:22	Blood?	N
-131	00:09:22	00:09:24	Where?	N
-132	00:09:24	00:09:26	Right here.	N
-133	00:09:31	00:09:34	Ooh, I also found some videos.	N
-134	00:09:34	00:09:37	Looks like amateur porn.	N
-135	00:09:37	00:09:41	Porn. That figures.	N
-136	00:09:41	00:09:44	Sunburn Sin. Ooh.	N
-137	00:09:44	00:09:47	Starring Laurel Lust.	N
-138	00:09:47	00:09:51	That's Laurel Trent.	N
-139	00:09:51	00:09:53	Isn't that the wife?	N
-140	00:09:53	00:09:54	Yeah.	N
-141	00:09:54	00:09:56	A few years back.	N
-142	00:09:56	00:09:58	A Goode/Mike T. Production.	N
-143	00:09:58	00:10:03	Mike T as in Mike Trent?	N
-144	00:10:03	00:10:08	Well, I bet he seduced her, and then he produced her.	N
-145	00:10:08	00:10:11	Laurel Trent definitely had some work done.	N
-146	00:10:11	00:10:13	Implants which she later had removed.	N
-147	00:10:13	00:10:17	She has a four- centimeter-long scar at the edge of the areola.	N
-148	00:10:17	00:10:20	Collapsed fibrous capsules in both breasts.	Y
-149	00:10:20	00:10:21	Fascinating.	Y
-150	00:10:21	00:10:22	Cause of death?	N
-151	00:10:22	00:10:24	I was just getting to that.	N
-152	00:10:24	00:10:27	Two gunshot wounds to the back of the head, just like her husband.	Y
-153	00:10:27	00:10:29	Close range.	Y
-154	00:10:29	00:10:31	Either one immediately debilitating and fatal.	Y
-155	00:10:31	00:10:33	I sent the bullets to the lab.	N
-156	00:10:33	00:10:36	But this is why I sent for you.	N
-157	00:10:42	00:10:44	Stun gun burns?	Y
-158	00:10:48	00:10:51	If you're close enough to stun him, you're close enough to shoot him.	N
-159	00:10:52	00:10:55	And we suspect that there were two assailants.	N
-160	00:10:55	00:10:58	Well, maybe they were trying to buy time.	N
-161	00:10:58	00:11:02	For what?	N
-162	00:11:04	00:11:06	Now, the first order of business is to kill the Trents.	N
-163	00:11:07	00:11:10	Then the suspects go upstairs and rip off Laurel's jewelry.	N
-164	00:11:10	00:11:12	And bail on bikes.	N
-165	00:11:12	00:11:14	That's a little low-rent, don't you think?	N
-166	00:11:14	00:11:19	Yeah, but I'm thinking, in a neighborhood like this, if you burn rubber out of here, it's gonna cause a lot of attention.	N
-167	00:11:19	00:11:21	If you roll quietly away on a bike, though...	N
-168	00:11:21	00:11:24	Ah, no one's the wiser. Okay, I get it.	N
-169	00:11:24	00:11:27	This is the resident gate that Greg called me from; he couldn't get in.	N
-170	00:11:27	00:11:31	He needed a code. Sara did find an orange peel in the side yard.	N
-171	00:11:31	00:11:33	What do you think, sticky fingers?	N
-172	00:11:33	00:11:35	Does citrus illuminate?	N
-173	00:11:35	00:11:37	Sugar will, if it's derivatized.	N
-174	00:11:38	00:11:39	Do you have any fluorescent reagents?	N
-175	00:11:39	00:11:40	I've got ANTS.	N
-176	00:11:41	00:11:44	Not the insect. Amino-naphthalene Trisulfonic acid. trisulfonic acid.	N
-177	00:11:44	00:11:45	You're trying to stump me. I can feel it.	N
-178	00:11:46	00:11:47	Let me check it out.	N
-179	00:11:51	00:11:54	The ANTS should make it light up under the ALS.	N
-180	00:12:07	00:12:11	One, three...	N
-181	00:12:11	00:12:13	five and six.	N
-182	00:12:13	00:12:16	In some configuration.	N
-183	00:12:16	00:12:18	They had the code.	N
-184	00:12:18	00:12:21	We're mid-case. Why do we have to do this now?	N
-185	00:12:21	00:12:25	I have to get this evaluation in, or I'm gonna get written up.	N
-186	00:12:25	00:12:27	Okay.	N
-187	00:12:27	00:12:29	My goals.	N
-188	00:12:29	00:12:31	Mm...	N
-189	00:12:31	00:12:32	Oh, all right, okay.	N
-190	00:12:32	00:12:35	For starters, I'd like two consecutive nights off.	N
-191	00:12:35	00:12:45	I would like to cut my triples down to ten a year instead of the usual 20, and, uh, I would love to find a reliable baby-sitter, so I could have myself some kind of a personal life.	N
-192	00:12:45	00:12:48	You don't have a personal life?	N
-193	00:12:50	00:12:54	I haven't had sex in six-- no-- seven months.	N
-194	00:12:59	00:13:01	How can I help?	N
-195	00:13:03	00:13:05	You. Advance, I mean.	N
-196	00:13:05	00:13:07	Do you...	N
-197	00:13:07	00:13:12	have any interest in changing sections in the lab, for instance? Gil, how do you do this?	N
-198	00:13:12	00:13:16	Honestly, how do you juggle scheduling and vacations and...	N
-199	00:13:16	00:13:21	The goal of any supervisor is to teach someone how to take his place someday.	N
-200	00:13:21	00:13:23	Are you going someplace?	N
-201	00:13:23	00:13:25	You never know.	N
-202	00:13:25	00:13:26	Are you considering me?	N
-203	00:13:26	00:13:28	Why not?	N
-204	00:13:28	00:13:30	You're certainly qualified.	N
-205	00:13:30	00:13:36	But... a CSI who uses the DNA lab to establish her own paternity...	N
-206	00:13:36	00:13:42	calls into question... her judgment, don't you think?	N
-207	00:13:51	00:13:54	You've left that out.	N
-208	00:13:54	00:13:55	Are you covering for me?	N
-209	00:13:55	00:14:00	I believe that we've dealt with this issue, handled it internally.	N
-210	00:14:00	00:14:02	As far as I'm concerned, it's dead.	N
-211	00:14:02	00:14:06	Besides, you'll never do it again.	N
-212	00:14:06	00:14:09	So just sign your name by the red X.	N
-213	00:14:11	00:14:18	Before I sign, um, since we're putting all of our cards on the table, there's something you should know.	N
-214	00:14:18	00:14:25	Sam Braun wrote me a check, and... I cashed it.	N
-215	00:14:27	00:14:30	For how much?	N
-216	00:14:30	00:14:36	Enough to where Lindsay and I can do anything and...	N
-217	00:14:36	00:14:39	not enough to where we can do nothing.	N
-218	00:14:39	00:14:42	Sam Braun was a murder suspect in one of your cases.	N
-219	00:14:42	00:14:44	How does this not look like a payoff?	N
-220	00:14:44	00:14:45	I consulted an attorney.	N
-221	00:14:45	00:14:47	It is a check from a father to a daughter.	N
-222	00:14:47	00:14:49	It is completely out of departmental jurisdiction.	N
-223	00:14:49	00:14:51	What about conflict of interest?	N
-224	00:14:51	00:14:52	Not just for you but for this lab.	N
-225	00:14:52	00:14:55	Gil, I would never compromise you or the lab.	N
-226	00:14:55	00:14:58	Maybe not legally, but ethically?	N
-227	00:15:03	00:15:07	What else should I know, Catherine?	N
-228	00:15:07	00:15:09	That's everything.	N
-229	00:15:24	00:15:25	Talk to me.	N
-230	00:15:25	00:15:27	Orange peels, seeds, cigarette butts.	N
-231	00:15:27	00:15:30	I'm logging them in and moving them to DNA.	N
-232	00:15:30	00:15:34	Okay, so you've gone through her purse, uh, her wallet...	N
-233	00:15:34	00:15:36	Yeah, everything's there-- money, credit cards.	N
-234	00:15:36	00:15:38	Yeah. What about the briefcase?	N
-235	00:15:38	00:15:40	Empty. Stop. I-I got a system here.	N
-236	00:15:40	00:15:43	I found this wadded up in her purse.	N
-237	00:15:43	00:15:46	It's a release form-- permission to film an adult movie at the Acid Drop.	N
-238	00:15:46	00:15:48	From Drake the Snake Productions.	N
-239	00:15:48	00:15:50	Signed by a Drake Snow.	N
-240	00:16:12	00:16:14	I need to see your boss.	N
-241	00:16:14	00:16:16	Follow me.	N
-242	00:16:16	00:16:17	Tonight's for Mike.	N
-243	00:16:17	00:16:21	We pay our respects by ringing the register.	N
-244	00:16:21	00:16:26	Now, I don't mind if you're talking, just as long as they're drinking.	N
-245	00:16:26	00:16:27	Watch the doubles...	N
-246	00:16:27	00:16:30	Uh...	N
-247	00:16:32	00:16:35	Watch the doubles. Be smart.	N
-248	00:16:35	00:16:38	You do that, we're gonna take this party 00 in the morning.	N
-249	00:16:38	00:16:39	And most importantly, have fun.	N
-250	00:16:39	00:16:40	Okay.	N
-251	00:16:40	00:16:43	Go make some money. See you later.	N
-252	00:16:45	00:16:48	You here about Mike?	N
-253	00:16:48	00:16:50	Yes, I am.	N
-254	00:16:50	00:16:52	Let's go somewhere private.	N
-255	00:16:52	00:16:54	Sorry for the inconvenience, everybody.	N
-256	00:16:54	00:16:56	When you come back, next bottle's on me.	N
-257	00:16:56	00:16:58	Go ahead. ( clears throat )	N
-258	00:16:58	00:17:01	Thanks, Chief. We're going to shut her down for about half an hour.	Y
-259	00:17:01	00:17:02	Well...	N
-260	00:17:02	00:17:03	this is private.	Y
-261	00:17:03	00:17:05	It was, um...	Y
-262	00:17:05	00:17:07	It was a real shock, you know?	Y
-263	00:17:07	00:17:09	Mike and Laurel getting killed like that.	Y
-264	00:17:09	00:17:14	But I got to say, if they had a choice how to go out, it would have been together.	N
-265	00:17:14	00:17:17	For him, the sun rose and set with her.	N
-266	00:17:17	00:17:20	He didn't treat her like a trophy wife?	N
-267	00:17:20	00:17:22	No. You kidding?	N
-268	00:17:22	00:17:27	No. He got her off the VHS covers, and she made a home for him.	N
-269	00:17:27	00:17:28	You know?	N
-270	00:17:28	00:17:30	Have a seat.	N
-271	00:17:32	00:17:34	Um, and what was, uh...	N
-272	00:17:34	00:17:37	What was your professional affiliation with him?	N
-273	00:17:37	00:17:40	I run his clubs.	N
-274	00:17:40	00:17:43	Ever since he got out of the partner business with Kyle Goode.	N
-275	00:17:44	00:17:48	Have you seen this Mr. Goode lately?	N
-276	00:17:48	00:17:50	He shows his face every once in a while.	N
-277	00:17:50	00:17:52	I just try to keep him away from Mike, you know?	N
-278	00:17:52	00:17:54	As much as humanly possible.	Y
-279	00:17:55	00:17:57	And...	N
-280	00:17:57	00:18:00	what about this Drake Snow guy?	N
-281	00:18:00	00:18:01	Drake?	N
-282	00:18:01	00:18:02	Drake the Snake.	N
-283	00:18:02	00:18:04	I, uh...	N
-284	00:18:04	00:18:05	I hired him. He's harmless.	N
-285	00:18:05	00:18:07	He saw one Ron Jeremy movie.	Y
-286	00:18:07	00:18:09	Now the guy just sees dollar signs.	Y
-287	00:18:11	00:18:14	Uh, and how did he get along with the Trents?	N
-288	00:18:14	00:18:16	Why don't you go ask him?	N
-289	00:18:16	00:18:18	Reading my mind.	N
-290	00:18:18	00:18:20	Mm.	N
-291	00:18:21	00:18:22	You, uh...	N
-292	00:18:23	00:18:24	You never gave me your name.	N
-293	00:18:24	00:18:25	Oh.	N
-294	00:18:25	00:18:26	Catherine.	N
-295	00:18:26	00:18:28	Catherine.	N
-296	00:18:28	00:18:29	Willows.	N
-297	00:18:30	00:18:32	Chris Bezich.	N
-298	00:18:32	00:18:34	Chris Bezich.	N
-299	00:18:34	00:18:36	Come on.	N
-300	00:18:36	00:18:39	Mike and Kyle-- they made all their money out of Laurel taking it off.	N
-301	00:18:39	00:18:42	She-She was a cash register in panties is what she was.	N
-302	00:18:42	00:18:44	And you wanted in?	N
-303	00:18:44	00:18:45	No. Trust me.	N
-304	00:18:45	00:18:48	The last thing that I wanted was to be partners with Mike.	N
-305	00:18:48	00:18:51	Guy'd... Guy'd chew you up and spit you out soon as look at you.	N
-306	00:18:51	00:18:52	And Kyle-- forget it.	N
-307	00:18:52	00:18:55	Guy'd tell you right to your face he's sticking it to you.	N
-308	00:18:55	00:18:56	Pasadena, baby.	N
-309	00:18:56	00:18:58	I got my own plans.	N
-310	00:18:58	00:18:59	I-I just... I just need a location.	N
-311	00:18:59	00:19:01	One location.	N
-312	00:19:01	00:19:02	And what?	N
-313	00:19:02	00:19:05	Mike didn't agree to it?	N
-314	00:19:05	00:19:06	Didn't ask him.	N
-315	00:19:06	00:19:09	Last time I asked him for something, he took a swing at me.	N
-316	00:19:10	00:19:10	Get the hell out of my...	N
-317	00:19:10	00:19:13	I just want the same shot that you had, Mike.	N
-318	00:19:13	00:19:14	Laurel said that...	N
-319	00:19:14	00:19:15	You two aren't in business anymore.	N
-320	00:19:17	00:19:19	In the kitchen, you said?	N
-321	00:19:20	00:19:21	Yeah.	N
-322	00:19:21	00:19:24	So, I wasn't going to make that mistake again, so I had to try something different.	N
-323	00:19:24	00:19:25	So, I pulled a Geffen.	N
-324	00:19:25	00:19:26	I went straight to Yoko.	N
-325	00:19:26	00:19:30	Oh, you gave Laurel the release form.	N
-326	00:19:30	00:19:32	Yeah. She was going to give it to Mike.	N
-327	00:19:32	00:19:35	He was going to sign it, and they were going to get it back to me.	N
-328	00:19:35	00:19:36	So much for that.	N
-329	00:19:36	00:19:37	All right. So, uh, listen, Drake.	N
-330	00:19:37	00:19:39	I'm going to help you get that dream shot.	N
-331	00:19:39	00:19:44	So that when you do get into the porn biz, you won't have a murder rap hanging over your head.	N
-332	00:19:44	00:19:46	Here.	N
-333	00:19:46	00:19:47	Crime Scene 101.	N
-334	00:19:48	00:19:50	Stick this in your mouth.	N
-335	00:19:50	00:19:52	Hey, you can set 'em right there.	N
-336	00:19:52	00:19:56	Can't believe that there's this many abandoned bikes in Charleston Hills.	N
-337	00:19:56	00:20:01	These were found in the alley behind the Fire Department, so check them out.	N
-338	00:20:14	00:20:16	Sugar on the handlebars of both bikes.	N
-339	00:20:16	00:20:17	Just like the keypad.	N
-340	00:20:18	00:20:19	So we may have our getaway bikes.	N
-341	00:20:19	00:20:22	We could check the serial numbers, but they're usually not recorded.	Y
-342	00:20:26	00:20:28	You know what? I got an idea.	N
-343	00:20:28	00:20:31	Hmm?	Y
-344	00:20:31	00:20:33	What are you doing?	N
-345	00:20:38	00:20:40	Get me a pair of tweezers, will you?	N
-346	00:20:51	00:20:53	Now how did you know that receipt was in there?	N
-347	00:20:53	00:20:54	Well, I used to read point spreads.	N
-348	00:20:55	00:20:55	Now I read books.	N
-349	00:20:56	00:20:57	Good for you.	N
-350	00:20:57	00:21:00	Bad for Ross Davis, though.	N
-351	00:21:02	00:21:04	This is a little intense for getting my bike stolen.	N
-352	00:21:04	00:21:06	I already got a new one.	N
-353	00:21:06	00:21:07	Did you report it?	N
-354	00:21:07	00:21:08	No. You're kidding me, right?	N
-355	00:21:08	00:21:10	I got jumped, man.	N
-356	00:21:10	00:21:11	By whom?	N
-357	00:21:11	00:21:12	By two bucked-ass brothers.	N
-358	00:21:12	00:21:14	They were both yoked as hell.	N
-359	00:21:14	00:21:15	Ripped.	N
-360	00:21:15	00:21:17	I thought for a second they were going to kill me.	N
-361	00:21:19	00:21:20	Hey, hey.	N
-362	00:21:24	00:21:25	Something wrong with your neck?	Y
-363	00:21:25	00:21:26	Man, it's killing me.	Y
-364	00:21:26	00:21:31	I don't know what the hell they hit me with, but my knees was the first to go.	Y
-365	00:21:33	00:21:35	I believe you were hit with a stun gun.	N
-366	00:21:35	00:21:37	Just like Mike Trent.	N
-367	00:21:44	00:21:45	I found something on your butt.	N
-368	00:21:45	00:21:47	Checking out my butt again, Greg?	N
-369	00:21:47	00:21:48	I was.	N
-370	00:21:48	00:21:51	As well as the four butts Sara got at the crime scene.	N
-371	00:21:51	00:21:52	Oh.	N
-372	00:21:52	00:21:55	Found something on them that I can't explain, so I sent them over to Hodges.	N
-373	00:21:55	00:21:57	Your butt's fine.	N
-374	00:21:58	00:21:59	Switching gears.	N
-375	00:21:59	00:22:02	Blood found in the Trents' bedroom is a match to Drake Snow.	N
-376	00:22:02	00:22:06	So he told the truth about the blood and lied about the kitchen.	N
-377	00:22:06	00:22:07	Figures.	N
-378	00:22:07	00:22:11	Three of the four cigarette butts are also a match to Drake.	N
-379	00:22:11	00:22:12	Puts him at the scene.	N
-380	00:22:12	00:22:14	And the fourth butt?	N
-381	00:22:14	00:22:17	Female, not a match to Laurel Trent.	N
-382	00:22:17	00:22:18	Orange seeds?	N
-383	00:22:18	00:22:19	Two additional donors, both male.	N
-384	00:22:19	00:22:21	Not a match to any of our players.	N
-385	00:22:21	00:22:23	No hits on CODIS.	N
-386	00:22:23	00:22:26	So we're looking for two guys and a gal who might know Drake.	N
-387	00:22:26	00:22:28	We already know you lied.	N
-388	00:22:28	00:22:32	We found your blood in the Trents' bedroom, not in the kitchen.	N
-389	00:22:32	00:22:34	So what were you doing in there?	N
-390	00:22:34	00:22:36	You putting the shot in her, or what?	N
-391	00:22:36	00:22:37	Hey, look.	N
-392	00:22:38	00:22:39	I know where you're going with this.	N
-393	00:22:40	00:22:42	Okay, I was in the bedroom.	N
-394	00:22:42	00:22:45	She wasn't on her knees. I was.	N
-395	00:22:45	00:22:47	I was begging. Not for sex.	N
-396	00:22:47	00:22:49	I was begging for my business.	N
-397	00:22:50	00:22:51	Drake the Snake Productions.	N
-398	00:22:51	00:22:55	Mike comes busting in, goes ballistic, smacks me in the nose...	N
-399	00:22:55	00:23:00	I mean, I know I keep coming back to this three-and-out thing, but maybe because you're in bed with his wife.	N
-400	00:23:00	00:23:02	Laurel and I didn't have sex in the bedroom.	N
-401	00:23:02	00:23:06	We had it on the set-- past tense, long time ago.	N
-402	00:23:06	00:23:07	Then along came Mike.	N
-403	00:23:07	00:23:09	Mike was good for Laurel.	N
-404	00:23:09	00:23:11	Mike was not good for me.	N
-405	00:23:11	00:23:13	She got carte blanche-- Laurel.	N
-406	00:23:13	00:23:14	Me, I got a bar back.	N
-407	00:23:14	00:23:18	Now I'm popping blue pills looking for something to bring me down, but I know the business.	N
-408	00:23:18	00:23:21	I just don't have the capital to get behind the camera.	N
-409	00:23:21	00:23:23	So what does killing the Trents get you?	N
-410	00:23:25	00:23:27	Zero.	N
-411	00:23:27	00:23:31	No one was more upset than me.	N
-412	00:23:31	00:23:33	You're still pouring drinks. Boo-hoo.	N
-413	00:23:33	00:23:36	And what are you doing smoking around their place?	N
-414	00:23:38	00:23:39	What?	N
-415	00:23:39	00:23:42	Yeah, we found cigarette butts with your DNA on it on their property.	N
-416	00:23:42	00:23:45	I don't know what you're talking about.	N
-417	00:23:45	00:23:46	I don't.	N
-418	00:23:46	00:23:48	I smoke one place, okay?	N
-419	00:23:48	00:23:50	I smoke at work.	N
-420	00:23:50	00:23:51	I'm down to one a day.	N
-421	00:23:51	00:23:55	Right after happy hour, I have my one cigarette, and it's out back by the service register.	N
-422	00:23:55	00:23:56	You ask anybody.	N
-423	00:23:58	00:24:00	Drake's telling the truth, you know?	N
-424	00:24:00	00:24:01	He smokes one a day.	N
-425	00:24:01	00:24:03	Not on the floor, right here, my rule.	N
-426	00:24:04	00:24:07	Mm-hmm, well, still have to verify it with evidence.	N
-427	00:24:10	00:24:12	You verify everything?	N
-428	00:24:12	00:24:15	Everything.	N
-429	00:24:15	00:24:17	Including you.	N
-430	00:24:17	00:24:20	You're clear.	N
-431	00:24:20	00:24:23	Can you blame Drake, you know?	N
-432	00:24:24	00:24:26	He's trying to give up cigarettes.	N
-433	00:24:26	00:24:28	That's like me trying to give up...	N
-434	00:24:28	00:24:30	Sex?	N
-435	00:24:30	00:24:34	Everybody needs to indulge in a vice at least once a day, right?	N
-436	00:24:34	00:24:40	Yes, well, I did happen to notice those little waitress girlies trying to serve their way into bed with you.	N
-437	00:24:40	00:24:43	That's work.	N
-438	00:24:43	00:24:45	I prefer women.	N
-439	00:24:45	00:24:48	Speaking of work, do you, um...	N
-440	00:24:48	00:24:50	ever get a day off?	N
-441	00:24:54	00:24:55	What?	N
-442	00:24:55	00:24:57	You want to get to know me?	N
-443	00:24:57	00:24:59	Yes.	N
-444	00:25:12	00:25:13	Um...	N
-445	00:25:13	00:25:15	What?	N
-446	00:25:15	00:25:16	Wait. Hang on.	N
-447	00:25:17	00:25:18	I'm on the clock.	N
-448	00:25:21	00:25:23	You started it.	N
-449	00:25:23	00:25:26	Yes, and when the time is right, maybe I'll finish it.	N
-450	00:25:38	00:25:39	How you feeling?	N
-451	00:25:39	00:25:41	Hey. What do you mean?	N
-452	00:25:41	00:25:44	Well, you were popping cough drops at the scene the other day a mile a minute.	N
-453	00:25:44	00:25:46	I thought I was coming down with a cold.	N
-454	00:25:46	00:25:48	Ah.	N
-455	00:25:48	00:25:50	Yeah, I, uh...	N
-456	00:25:50	00:25:53	I understand colds.	N
-457	00:25:53	00:26:00	You know, back in Jersey when I was getting it from both ends, from my wife and my work, things started to get heavy.	N
-458	00:26:00	00:26:03	I started medicating.	N
-459	00:26:03	00:26:05	Cure my cold.	N
-460	00:26:05	00:26:13	And, um, and God forbid I had an early morning roll-out and I had that tell-tale breath, you know what I mean?	N
-461	00:26:13	00:26:19	So I would dodge my supe, and I started popping cough drops.	N
-462	00:26:19	00:26:22	Huh.	N
-463	00:26:22	00:26:25	I mean, what I'm trying to say is that...	Y
-464	00:26:25	00:26:30	there's more problems than answers in the bottom of a bottle, believe me.	N
-465	00:26:31	00:26:33	Yeah. ( sighs )	Y
-466	00:26:33	00:26:40	Actually, I had a couple of beers with breakfast when I got off shift.	N
-467	00:26:40	00:26:43	And then I got called in.	N
-468	00:26:43	00:26:45	Just a couple?	N
-469	00:26:45	00:26:47	Yeah.	N
-470	00:26:49	00:26:50	I'm just looking out for you.	N
-471	00:27:00	00:27:02	Hey, what are you doing after work?	N
-472	00:27:02	00:27:04	More work.	N
-473	00:27:04	00:27:06	You got photos of Laurel Trents' jewelry, huh?	N
-474	00:27:06	00:27:14	Yeah, two-carat diamond earrings, ruby necklace, diamond and sapphire bracelet, lady's gold Rolex.	Y
-475	00:27:14	00:27:16	The insurance company says it's worth somewhere north of two mil.	Y
-476	00:27:17	00:27:20	I got every pawn shop in town on the lookout.	N
-477	00:27:20	00:27:21	What?	Y
-478	00:27:21	00:27:26	You know that feeling you get when you just can't quite put your finger on something?	Y
-479	00:27:26	00:27:29	What can't you put your finger on besides the clock-out button?	Y
-480	00:27:29	00:27:32	Why did they drag his body down the driveway?	Y
-481	00:27:32	00:27:34	Dragging's your racket.	Y
-482	00:27:34	00:27:37	But I can tell you who's dragging Mike Trent into court.	Y
-483	00:27:37	00:27:39	His ex-business partner, Kyle Goode.	Y
-484	00:27:39	00:27:41	Evidence.	Y
-485	00:27:41	00:27:43	Evidence in context.	N
-486	00:27:43	00:27:45	Take a look.	Y
-487	00:27:48	00:27:52	Trace on the cigarette butt is a match to the sand I collected from the ashtray.	Y
-488	00:27:52	00:27:53	At Acid Drop.	N
-489	00:27:53	00:27:56	Now...	Y
-490	00:27:56	00:27:58	take a look at this.	N
-491	00:27:58	00:28:04	I found trace amounts of soil in the orange seeds and the orange peel, but not on any of the butts.	Y
-492	00:28:04	00:28:06	So it's possible that the butts were planted.	Y
-493	00:28:10	00:28:13	May explain why there seems to be so many suspects at the crime scene.	N
-494	00:28:13	00:28:17	Probably clears Drake Snow and your unidentified female smoker.	N
-495	00:28:17	00:28:19	Where does that leave you?	Y
-496	00:28:19	00:28:21	With two guys on bikes.	N
-497	00:28:25	00:28:26	Hit that ninja.	Y
-498	00:28:26	00:28:27	On the bridge.	N
-499	00:28:27	00:28:28	That's it.	N
-500	00:28:29	00:28:30	Kyle Goode?	N
-501	00:28:30	00:28:31	Uh-huh.	N
-502	00:28:31	00:28:33	I'm Detective Jim Brass, Homicide.	N
-503	00:28:33	00:28:36	I was wondering when you guys would get around to me.	Y
-504	00:28:36	00:28:38	Why's that?	Y
-505	00:28:38	00:28:39	My ex-partner's murdered.	N
-506	00:28:39	00:28:42	I got a lawsuit against him. He owes me millions.	Y
-507	00:28:42	00:28:43	I'd like me for it.	N
-508	00:28:43	00:28:46	Great, then we won't have to pull teeth to get to the truth.	N
-509	00:28:46	00:28:48	Where were you yesterday morning?	N
-510	00:28:48	00:28:50	With my son, Alex.	N
-511	00:28:50	00:28:52	Where?	N
-512	00:28:54	00:28:56	You're not going to believe anything I tell you.	N
-513	00:28:56	00:28:57	Why don't you ask him?	N
-514	00:28:57	00:28:59	Okay. Come, Alex.	N
-515	00:28:59	00:29:00	Get off the game.	N
-516	00:29:00	00:29:01	That's enough.	N
-517	00:29:01	00:29:03	You cost me a man.	N
-518	00:29:03	00:29:04	I got more quarters.	N
-519	00:29:07	00:29:09	So, Alex, where were you yesterday morning?	Y
-520	00:29:09	00:29:10	At Grandma's.	Y
-521	00:29:10	00:29:12	All morning?	Y
-522	00:29:12	00:29:13	No.	Y
-523	00:29:13	00:29:15	She lives in Laughlin.	Y
-524	00:29:15	00:29:16	My dad drove me.	Y
-525	00:29:16	00:29:17	What time did you get there?	Y
-526	00:29:18	00:29:19	I don't know. I was sleeping.	Y
-527	00:29:19	00:29:21	00?	Y
-528	00:29:21	00:29:23	You sure about that?	Y
-529	00:29:23	00:29:25	Yeah.	Y
-530	00:29:25	00:29:27	When I woke up, Captain Caveman was on.	Y
-531	00:29:27	00:29:31	Okay, Laughlin's about 21/////2 hours away, 30?	Y
-532	00:29:32	00:29:33	00.	N
-533	00:29:33	00:29:35	Alex likes those breakfast sandwiches.	N
-534	00:29:35	00:29:36	We picked a couple up. Ate them on the way.	N
-535	00:29:36	00:29:37	Where'd you pick them up?	N
-536	00:29:37	00:29:39	Sunny Side's over on Eastern.	N
-537	00:29:39	00:29:41	You looking for an alibi?	N
-538	00:29:41	00:29:42	Something like that, yeah.	N
-539	00:29:42	00:29:45	Come on, Alex. Let's go over to Circus Circus.	N
-540	00:29:45	00:29:47	They got a real arcade.	Y
-541	00:29:59	00:30:00	Thank you for visiting Sunny Side's.	N
-542	00:30:00	00:30:02	Next in line, please. Hi.	N
-543	00:30:02	00:30:03	Would you like to try the Sunny Side's Special?	N
-544	00:30:03	00:30:04	No, I'm Nick Stokes.	N
-545	00:30:04	00:30:06	I'm with the Las Vegas Crime Lab.	N
-546	00:30:06	00:30:07	Can I talk to you for a second?	N
-547	00:30:07	00:30:08	Um...	N
-548	00:30:12	00:30:14	Are you Missy Wilson?	Y
-549	00:30:14	00:30:15	Are you a truant officer?	N
-550	00:30:15	00:30:16	No.	N
-551	00:30:17	00:30:21	Your manager said you were working breakfast the other day at the pick-up window.	N
-552	00:30:21	00:30:22	Yeah.	N
-553	00:30:22	00:30:24	Do you remember this guy?	N
-554	00:30:24	00:30:26	Oh, my God.	N
-555	00:30:26	00:30:29	That's the creep who was hitting on me.	N
-556	00:30:29	00:30:31	He was so repulsive. You know what he said to me?	N
-557	00:30:31	00:30:34	I'd like to bend you over the counter, baby.	N
-558	00:30:36	00:30:38	And he said it in front of his kid.	Y
-559	00:30:38	00:30:39	What kind of father acts like that?	N
-560	00:30:40	00:30:41	Sounds like he wanted to make an impression.	N
-561	00:30:41	00:30:42	Oh, he did.	N
-562	00:30:42	00:30:44	I hope you're going to arrest him.	Y
-563	00:30:44	00:30:45	One thing at a time.	Y
-564	00:30:45	00:30:46	Now this window...	N
-565	00:30:46	00:30:51	I get all the creeps in drive-through-- teenagers, perverts, walk-ups, and those are my favorites.	Y
-566	00:30:51	00:30:52	Hi, I'm on a skateboard.	N
-567	00:30:53	00:30:54	Can I have a burger combo? No, dork.	N
-568	00:30:54	00:30:57	Does this window have a surveillance camera?	N
-569	00:30:57	00:30:59	Oh, yeah, we have cameras all over here.	N
-570	00:30:59	00:31:01	Even in the cooler.	Y
-571	00:31:05	00:31:06	Confirms his alibi.	Y
-572	00:31:06	00:31:09	Every suspect Brass leans on seems to have a case of the airtights.	Y
-573	00:31:09	00:31:12	Hold it. Run that back.	N
-574	00:31:16	00:31:17	Pause it.	N
-575	00:31:19	00:31:21	What is that around the kid's neck?	Y
-576	00:31:21	00:31:22	I don't know.	N
-577	00:31:22	00:31:23	Let's enhance it.	N
-578	00:31:30	00:31:32	Almost looks like a canteen.	N
-579	00:31:33	00:31:38	You bring a canteen up to your lips, not to your eyes.	N
-580	00:31:38	00:31:41	I'll pull some stills, see what I can make of it.	N
-581	00:31:42	00:31:45	AV Lab. Grissom.	N
-582	00:31:47	00:31:49	I'll be right there.	N
-583	00:31:59	00:32:04	Well, he lived by the stun, but I don't think he died by it.	Y
-584	00:32:04	00:32:05	He didn't.	N
-585	00:32:05	00:32:09	Uh, two gunshot wounds to the back of the head.	N
-586	00:32:09	00:32:10	TOD is within the hour.	N
-587	00:32:10	00:32:13	Blood spatter everywhere.	N
-588	00:32:15	00:32:18	Multiple directionalities.	N
-589	00:32:22	00:32:23	You almost done, David?	N
-590	00:32:23	00:32:24	Uh, yes, sir.	N
-591	00:32:24	00:32:26	He's all yours.	N
-592	00:32:26	00:32:27	Thanks.	N
-593	00:32:27	00:32:29	I want to pick his pockets.	N
-594	00:32:37	00:32:38	M...	N
-595	00:32:38	00:32:40	and T.	N
-596	00:32:41	00:32:42	Doesn't look like Michael Trent.	N
-597	00:32:43	00:32:46	If he's one of our bad guys on the bicycle, where's his partner?	N
-598	00:32:46	00:32:48	And where's the rest of the jewelry?	N
-599	00:32:48	00:32:50	That's probably what his partner said before he tossed the room.	N
-600	00:33:55	00:33:57	a knife with blood on it.	N
-601	00:33:59	00:34:00	a dead guy.	N
-602	00:34:04	00:34:08	Nine-millimeter.	N
-603	00:34:08	00:34:10	Pillowcase full of jewelry.	N
-604	00:34:14	00:34:18	Two stacks of $10,000 bricks.	N
-605	00:34:18	00:34:24	Well, either they pawned some diamonds at the US Treasury, or they're on someone's payroll.	N
-606	00:34:26	00:34:28	hit-for-hire.	N
-607	00:34:28	00:34:32	And we're still looking for somebody.	N
-608	00:34:34	00:34:35	him or him?	N
-609	00:34:35	00:34:38	Eh, let's start with Mr. Head Wound.	N
-610	00:34:38	00:34:41	You've seen these before.	N
-611	00:34:41	00:34:42	Stun gun.	N
-612	00:34:42	00:34:44	The debilitator of choice.	N
-613	00:34:50	00:34:53	Heard you found a nine- millimeter at the scene?	N
-614	00:34:53	00:34:55	Mm-hmm. I sent the bullets to ballistics.	N
-615	00:34:55	00:34:58	How about his body? Any lead in him?	N
-616	00:34:58	00:35:00	No, but he took a blade to the stomach.	N
-617	00:35:01	00:35:05	The cut was shallow, five or six centimeters below the sternum.	N
-618	00:35:05	00:35:07	Like the soft spot in a dragon.	N
-619	00:35:14	00:35:16	Sounds like no honor among thieves.	N
-620	00:35:16	00:35:19	Well, I'll tell you what they were fighting over.	N
-621	00:35:19	00:35:20	The jewelry was hot.	N
-622	00:35:20	00:35:22	Either you fence it fast or eat the loss.	N
-623	00:35:22	00:35:25	I'm thinking more and more it was never part of the plan.	N
-624	00:35:25	00:35:26	You know, you could be right.	N
-625	00:35:26	00:35:28	I talked to the Trents' bank.	Y
-626	00:35:28	00:35:33	They were on their way to the safety deposit box that morning and then off to Hawaii at the end of the week.	Y
-627	00:35:33	00:35:36	So it was Laurel Trent who cleaned out her own jewelry box.	Y
-628	00:35:36	00:35:40	Yeah. Murder was their wage, and jewelry was their tip.	N
-629	00:35:48	00:35:51	How's your hands?	N
-630	00:35:51	00:35:53	Sore.	N
-631	00:35:53	00:35:54	Document every single bill. Fun.	N
-632	00:35:54	00:35:56	I got to hand it to these casinos.	N
-633	00:35:56	00:35:58	They got it all figured out.	N
-634	00:35:58	00:36:01	What do you mean?	N
-635	00:36:01	00:36:03	Well, this is a $10,000 brick, right?	N
-636	00:36:03	00:36:04	Mm-hmm.	N
-637	00:36:04	00:36:10	I could either lose this in a hand of blackjack, or I could lose cranberry chip.	N
-638	00:36:10	00:36:12	What's worse?	N
-639	00:36:12	00:36:14	To me, losing's losing.	N
-640	00:36:17	00:36:19	Sara?	N
-641	00:36:19	00:36:23	I got a bloodstain.	N
-642	00:36:23	00:36:28	You know, the last time I checked, defacing government property was a federal offense.	N
-643	00:36:28	00:36:31	Not when it's logged in as property, Greg.	N
-644	00:36:31	00:36:33	The blood might be from a paper cut.	N
-645	00:36:33	00:36:35	Okay, but you're my witness.	N
-646	00:36:40	00:36:41	Run it against all our players.	N
-647	00:36:41	00:36:42	Uh-huh.	N
-648	00:36:42	00:36:45	I finished up on those still photos.	N
-649	00:36:45	00:36:48	The canteen around little Alex's neck...	N
-650	00:36:48	00:36:51	is really a set of binoculars.	N
-651	00:36:53	00:36:57	If you keep flipping, it tells the rest of the story.	N
-652	00:37:02	00:37:09	Now, call me crazy, but it looks like Daddy doesn't like the little man wearing the binoculars around his neck so much.	Y
-653	00:37:09	00:37:12	I wonder why?	N
-654	00:37:40	00:37:42	What are you thinking?	Y
-655	00:37:42	00:37:45	Stay right here until I call you.	Y
-656	00:38:00	00:38:01	Yeah?	N
-657	00:38:01	00:38:05	Nick, would you move about halfway up the driveway?	Y
-658	00:38:05	00:38:07	Back where Mike Trent was shot?	N
-659	00:38:07	00:38:09	Exactly.	N
-660	00:38:13	00:38:15	How's this? Can you see me here?	Y
-661	00:38:16	00:38:18	No, I can't.	Y
-662	00:38:18	00:38:19	Thank you.	N
-663	00:39:05	00:39:08	Jim? Gil.	Y
-664	00:39:08	00:39:10	I'm fine. How are you?	N
-665	00:39:10	00:39:13	Would you put an APB out on Kyle Goode's vehicle, please?	N
-666	00:39:17	00:39:19	You recognize this?	Y
-667	00:39:19	00:39:21	That's my kid.	N
-668	00:39:21	00:39:24	What's that around his neck?	Y
-669	00:39:24	00:39:25	That's his binoculars.	Y
-670	00:39:25	00:39:29	Yeah. Zeiss, 20x60, BSGA.	N
-671	00:39:29	00:39:32	4,500 a pop.	Y
-672	00:39:32	00:39:33	You know how it is.	N
-673	00:39:33	00:39:36	You got your kid in the car, traveling a long distance.	Y
-674	00:39:36	00:39:37	Whatever keeps them occupied.	N
-675	00:39:37	00:39:39	According to your son, he slept all the way to Laughlin.	Y
-676	00:39:39	00:39:42	Kid falling asleep in a car on the way to his Grandma's house?	N
-677	00:39:42	00:39:45	You guys won't even make it through the courthouse door.	Y
-678	00:39:45	00:39:46	Court.	N
-679	00:39:46	00:39:48	That's where the lawyers get fat.	Y
-680	00:39:48	00:39:50	And you know all about that.	Y
-681	00:39:51	00:39:55	I mean, you've got a lawsuit with your ex-business partner, and your ex-wife, who's suing you for past alimony...	Y
-682	00:39:55	00:39:57	That's irrelevant.	Y
-683	00:39:57	00:39:58	Not according to his wife it isn't.	Y
-684	00:39:58	00:40:01	She gave us permission for a hair sample from your son.	Y
-685	00:40:01	00:40:02	For what?	Y
-686	00:40:02	00:40:06	The good thing about drugs-- they work their way through the bloodstream in the urine, but not the hair.	Y
-687	00:40:06	00:40:13	Our lab found trace elements of Ambien, which is a hypnotic sleep sedative, in your son's hair root.	Y
-688	00:40:13	00:40:16	Until we see the test results, we're withholding comment.	Y
-689	00:40:16	00:40:19	No problem, counselor. Okay, moving on.	Y
-690	00:40:19	00:40:23	The buy money, the 20K that we found on the two geniuses you hired?	Y
-691	00:40:23	00:40:29	What geniuses? You know, the brothers, who are so cool and laid back, they're in the morgue.	Y
-692	00:40:29	00:40:31	Oh, what? You didn't know they're dead?	Y
-693	00:40:31	00:40:32	Yeah, they greased each other over the jewelry.	Y
-694	00:40:32	00:40:35	And that wasn't even part of the deal in the first place, was it?	N
-695	00:40:40	00:40:43	Good help is hard to find, huh, Kyle?	Y
-696	00:40:43	00:40:44	He's not answering that.	Y
-697	00:40:44	00:40:47	I hated that son of a bitch.	Y
-698	00:40:47	00:40:51	Mike Trent was a scumbag, worst of the worst.	Y
-699	00:40:51	00:40:53	Use you up and blow right through you.	Y
-700	00:40:53	00:40:55	I brought him in on my nickel.	Y
-701	00:40:55	00:40:57	And he throws me out?	Y
-702	00:40:57	00:41:00	Invests our money in clubs and kicks me out? To do what?	Y
-703	00:41:00	00:41:02	To ride off into the sunset with my piece of sushi?	Y
-704	00:41:02	00:41:04	And it's not just me.	N
-705	00:41:04	00:41:08	There's a lot guys out there got burned by him who wouldn't mind a little revenge.	N
-706	00:41:08	00:41:13	I'll even go so far as to say I'm not sorry he's dead, or rotting somewhere in some box.	N
-707	00:41:20	00:41:22	I didn't kill him.	N
-708	00:41:22	00:41:24	I'm not saying you did.	N
-709	00:41:24	00:41:26	Or his wife.	N
-710	00:41:26	00:41:29	But your $20,000 incentive pulled the trigger.	N
-711	00:41:29	00:41:33	And you know what-- you won't believe this-- a paper cut gave you away.	N
-712	00:41:33	00:41:35	...ten makes 20 large.	N
-713	00:41:37	00:41:40	When you do it, I want to see it.	N
-714	00:41:40	00:41:41	I'll be up here.	N
-715	00:41:41	00:41:45	We did the DNA test for the cigarette butt you left at the arcade.	N
-716	00:41:45	00:41:47	Plain view, right counselor?	N
-717	00:41:47	00:41:49	And we matched it to the blood we found on the money.	N
-718	00:41:49	00:41:51	He didn't hire two killers. He only hired me.	N
-719	00:41:51	00:41:53	Yeah, well, lawsuits take a while.	N
-720	00:41:53	00:41:56	I don't think you cared about a verdict anyway, did you, Kyle?	N
-721	00:41:56	00:41:59	You wanted much more than that.	N
-722	00:42:09	00:42:12	God...	N
-723	00:42:17	00:42:19	No!	N
-724	00:42:22	00:42:26	My client was with his son all day that day.	N
-725	00:42:27	00:42:28	Yeah, that's where he screwed up.	N
-726	00:42:28	00:42:32	Your hatred of Trent was stronger than your love for your own child.	N
-727	00:42:32	00:42:38	You drugged your son so you could use him as an alibi.	N
-728	00:42:38	00:42:42	And that's all a jury's going to need to hear to convict you.	N
-729	00:42:42	00:42:44	Kyle Goode, you've been bad.	N
-730	00:42:44	00:42:47	You're under arrest.	N
-731	00:42:57	00:42:58	Oh... you're still here.	N
-732	00:42:58	00:43:02	Uh... ( clears throat ) so I'm leaving.	N
-733	00:43:02	00:43:03	Need anything?	N
-734	00:43:03	00:43:05	No, I'm good.	N
-735	00:43:06	00:43:07	Are we good?	N
-736	00:43:10	00:43:12	We'll be fine.	N
-737	00:43:12	00:43:14	Okay.	N
-738	00:43:14	00:43:15	I'll see you tomorrow.	N
-739	00:43:15	00:43:17	Going out?	N
-740	00:43:19	00:43:23	I've got some unfinished business to take care of.	N
-741	00:43:23	00:43:26	I'll see you.	N
+	Unnamed: 0.1	Unnamed: 0	start	end	text	label
+0	0	0	00:00:17	00:00:18	Ready to go?	N
+1	1	1	00:00:18	00:00:19	I'll get the paper. You get the car.	N
+2	2	2	00:00:19	00:00:20	Okay.	N
+3	3	3	00:00:42	00:00:43	Ooh!	N
+4	4	4	00:00:55	00:00:59	Early morning call-out, the worst.	N
+5	5	5	00:00:59	00:01:00	Where did you come from?	N
+6	6	6	00:01:00	00:01:01	Home.	N
+7	7	7	00:01:01	00:01:03	Did you get any sleep?	N
+8	8	8	00:01:03	00:01:04	No. You?	N
+9	9	9	00:01:04	00:01:05	About a half an hour.	N
+10	10	10	00:01:05	00:01:07	I was watching the World Series of Poker.	N
+11	11	11	00:01:07	00:01:10	Waiting for Sam Farha to light his cigarette.	N
+12	12	12	00:01:10	00:01:12	Ever been to the Acid Drop?	N
+13	13	13	00:01:12	00:01:15	I try to avoid those places.	N
+14	14	14	00:01:15	00:01:17	The victims were the owners.	N
+15	15	15	00:01:17	00:01:20	Mike Trent and his wife Laurel.	N
+16	16	16	00:01:20	00:01:23	Both shot execution-style back of the head.	N
+17	17	17	00:01:23	00:01:25	A neighbor walking the dog found 'em.	N
+18	18	18	00:01:25	00:01:29	Mike used to own a semi-pro hockey team with some other guy.	N
+19	19	19	00:01:29	00:01:34	He made a ton of money, sunk it all into clubs like Acid Drop, uh, Psychedelic Hoe-Down...	N
+20	20	20	00:01:34	00:01:35	Captain Brass.	N
+21	21	21	00:01:35	00:01:37	Fun joints.	N
+22	22	22	00:01:37	00:01:40	Looks like they never got out of the driveway.	N
+23	23	23	00:01:43	00:01:49	She dropped where she was shot, but he looks like he was dragged.	N
+24	24	24	00:01:52	00:01:58	You drag a body away to hide it, not down a driveway for the world to see it.	N
+25	25	25	00:01:59	00:02:09	Unless that was the point.	N
+26	26	26	00:02:45	00:02:47	Bling-bling.	N
+27	27	27	00:02:47	00:02:49	The ol' trophy wife.	N
+28	28	28	00:02:49	00:02:51	You think?	N
+29	29	29	00:02:51	00:02:54	Classic Vegas.	N
+30	30	30	00:02:54	00:03:01	He pays for her boobs, tummy tuck, Prada, weekly spa, French manicure.	N
+31	31	31	00:03:01	00:03:06	And she's just hanging on his arm like she belongs.	N
+32	32	32	00:03:06	00:03:08	Tell us how you really feel, Catherine.	N
+33	33	33	00:03:08	00:03:09	Oh, it's gross.	N
+34	34	34	00:03:09	00:03:11	I wouldn't want to be her for the world.	N
+35	35	35	00:03:11	00:03:14	I wouldn't mind being her for a day, I guess.	N
+36	36	36	00:03:14	00:03:15	Not this day.	N
+37	37	37	00:03:15	00:03:16	No.	N
+38	38	38	00:03:16	00:03:19	Looks like it was just the two of them.	N
+39	39	39	00:03:19	00:03:21	Nobody I know lives like this with kids.	N
+40	40	40	00:03:24	00:03:26	Brown.	N
+41	41	41	00:03:26	00:03:28	I've been here for 20 minutes.	N
+42	42	42	00:03:28	00:03:29	What's the code?	N
+43	43	43	00:03:29	00:03:31	You on the East Coast looking for a sunset?	N
+44	44	44	00:03:31	00:03:33	I am.	N
+45	45	45	00:03:33	00:03:34	You're at the wrong gate.	N
+46	46	46	00:03:34	00:03:37	Drive back down the road, make three lefts.	N
+47	47	47	00:03:37	00:03:42	When you get to the main gate, speak to Officer Ray and tell her you're with the Crime Lab.	N
+48	48	48	00:03:42	00:03:45	When you get to the scene, make sure I'm the first person you speak to.	N
+49	49	49	00:03:45	00:03:46	Okay.	N
+50	50	50	00:03:51	00:03:51	Mike Trent?	N
+51	51	51	00:03:52	00:03:53	Mm-hmm.	N
+52	52	52	00:03:53	00:03:56	Boy, he's a big dog in the club world.	N
+53	53	53	00:03:56	00:04:01	You know I heard he paid Lil' Kim $10,000 one time just to walk into one of his clubs, turn around and walk back out.	N
+54	54	54	00:04:01	00:04:04	Yeah, Jah Rule gets the same fee.	N
+55	55	55	00:04:04	00:04:08	He told me.	N
+56	56	56	00:04:08	00:04:10	Hey, uh, let me have one of those, Sara.	N
+57	57	57	00:04:10	00:04:12	Sorry, last one.	N
+58	58	58	00:04:13	00:04:15	You have a cold, Sara?	N
+59	59	59	00:04:15	00:04:17	I've been feeling a little run-down lately.	N
+60	60	60	00:04:17	00:04:19	Okay, it's a gated community.	N
+61	61	61	00:04:19	00:04:21	The main gate has a guard all the time.	N
+62	62	62	00:04:21	00:04:25	The resident gate is at the north end, has punch-key access.	N
+63	63	63	00:04:25	00:04:28	Those are the only two ways in and out of this place.	N
+64	64	64	00:04:28	00:04:31	I thought you moved into communities like this for this not to happen.	N
+65	65	65	00:04:32	00:04:35	Hey, Grissom.	N
+66	66	66	00:04:35	00:04:36	What do you got?	N
+67	67	67	00:04:36	00:04:39	So far, an empty briefcase and a purse.	N
+68	68	68	00:04:39	00:04:41	You want us to take the perimeter?	N
+69	69	69	00:04:41	00:04:42	Yeah, please.	N
+70	70	70	00:04:42	00:04:44	Catherine and Warwick are inside.	N
+71	71	71	00:04:44	00:04:47	The bodies were found on the driveway, so any evidence of the killers is going to be out here.	N
+72	72	72	00:04:47	00:04:51	I'll check the rear for any sign of forced entry.	N
+73	73	73	00:04:51	00:04:54	I'll take the side door.	N
+74	74	74	00:04:54	00:04:56	You just get off a shift?	N
+75	75	75	00:04:57	00:04:58	Catherine called me.	N
+76	76	76	00:04:58	00:04:59	I'm here to help with the case.	N
+77	77	77	00:04:59	00:05:01	You look like a man who just rolled out of bed.	N
+78	78	78	00:05:01	00:05:03	You all right? Yeah, why?	N
+79	79	79	00:05:03	00:05:04	T-shirt, sneakers.	N
+80	80	80	00:05:04	00:05:05	You're already a half hour late.	N
+81	81	81	00:05:05	00:05:08	Grissom will rip you a new one he sees you like that.	N
+82	82	82	00:05:08	00:05:09	Serious?	N
+83	83	83	00:05:09	00:05:12	Yeah, it's not a Rebel game. It's a crime scene.	N
+84	84	84	00:05:12	00:05:15	See, this is what I'm talking about right here.	N
+85	85	85	00:05:15	00:05:18	The battery's not changed out of your flashlight.	N
+86	86	86	00:05:18	00:05:19	Kit's open.	N
+87	87	87	00:05:20	00:05:22	It's not stocked; no swabs.	N
+88	88	88	00:05:22	00:05:24	Did you sterilize your equipment after your last case?	N
+89	89	89	00:05:24	00:05:26	Uh, no.	N
+90	90	90	00:05:28	00:05:31	See, you know when I'm on call because my clothes are folded next to my bed.	N
+91	91	91	00:05:31	00:05:36	Shoes, jacket, ball cap, bottle of water, pen, paper, Thomas Guide, next to the phone.	N
+92	92	92	00:05:36	00:05:39	00 in the morning, I'm not scrambled.	N
+93	93	93	00:05:39	00:05:42	Everything's there before the phone rings.	N
+94	94	94	00:05:42	00:05:43	My game is tight, like my trunk.	N
+95	95	95	00:05:43	00:05:44	Check it out.	N
+96	96	96	00:05:50	00:05:53	Camera case, tripod, film is in the fridge.	N
+97	97	97	00:05:53	00:05:54	Markers, check.	N
+98	98	98	00:05:54	00:05:56	Extra field kit, fully stocked, sterilized.	N
+99	99	99	00:05:56	00:06:00	Shoeprint lift kit, wet weather gear.	N
+100	100	100	00:06:00	00:06:01	Files mama.	N
+101	101	101	00:06:04	00:06:05	Forms for days.	N
+102	102	102	00:06:05	00:06:10	First Call form, First Officer form, Consent to Search, Bird's Eye View inside, Bird's Eye View outside.	N
+103	103	103	00:06:11	00:06:13	It's down to how I like my lunch.	N
+104	104	104	00:06:13	00:06:14	Picking up what I'm putting down?	N
+105	105	105	00:06:14	00:06:17	Yeah. See, no one ever told me.	N
+106	106	106	00:06:17	00:06:18	You've been told.	N
+107	107	107	00:06:18	00:06:20	Yes, sir.	N
+108	108	108	00:07:12	00:07:13	No sign of disturbance in the rear.	N
+109	109	109	00:07:14	00:07:17	Cigarette butts.	N
+110	110	110	00:07:17	00:07:19	Orange peel, seeds.	N
+111	111	111	00:07:19	00:07:22	Lying in wait, maybe.	N
+112	112	112	00:07:22	00:07:24	You still sucking on that same cough drop?	N
+113	113	113	00:07:24	00:07:26	Yeah.	N
+114	114	114	00:07:26	00:07:28	I'm a... a slow sucker.	N
+115	115	115	00:07:28	00:07:33	So, assuming the killer didn't live in the community, how did he gain entry?	N
+116	116	116	00:08:19	00:08:20	Crime occurred in the driveway.	N
+117	117	117	00:08:20	00:08:23	Nothing to indicate that the suspects were inside the house.	N
+118	118	118	00:08:23	00:08:27	Yes, ma'am. I got it.	N
+119	119	119	00:08:27	00:08:28	So, then, what are we looking for?	N
+120	120	120	00:08:28	00:08:32	Anything inside that'll make the outside make sense.	N
+121	121	121	00:08:32	00:08:33	On your hands and knees.	N
+122	122	122	00:08:33	00:08:36	Check the carpet for trace.	N
+123	123	123	00:09:06	00:09:08	Hey.	N
+124	124	124	00:09:08	00:09:10	Greg.	N
+125	125	125	00:09:10	00:09:12	I'm going to need you to photograph something.	N
+126	126	126	00:09:12	00:09:13	Why, what'd you find?	N
+127	127	127	00:09:14	00:09:15	It's what I didn't find.	N
+128	128	128	00:09:18	00:09:19	Well, I found something.	N
+129	129	129	00:09:19	00:09:21	Blood.	N
+130	130	130	00:09:21	00:09:22	Blood?	N
+131	131	131	00:09:22	00:09:24	Where?	N
+132	132	132	00:09:24	00:09:26	Right here.	N
+133	133	133	00:09:31	00:09:34	Ooh, I also found some videos.	N
+134	134	134	00:09:34	00:09:37	Looks like amateur porn.	N
+135	135	135	00:09:37	00:09:41	Porn. That figures.	N
+136	136	136	00:09:41	00:09:44	Sunburn Sin. Ooh.	N
+137	137	137	00:09:44	00:09:47	Starring Laurel Lust.	N
+138	138	138	00:09:47	00:09:51	That's Laurel Trent.	N
+139	139	139	00:09:51	00:09:53	Isn't that the wife?	N
+140	140	140	00:09:53	00:09:54	Yeah.	N
+141	141	141	00:09:54	00:09:56	A few years back.	N
+142	142	142	00:09:56	00:09:58	A Goode/Mike T. Production.	N
+143	143	143	00:09:58	00:10:03	Mike T as in Mike Trent?	N
+144	144	144	00:10:03	00:10:08	Well, I bet he seduced her, and then he produced her.	N
+145	145	145	00:10:08	00:10:11	Laurel Trent definitely had some work done.	N
+146	146	146	00:10:11	00:10:13	Implants which she later had removed.	N
+147	147	147	00:10:13	00:10:17	She has a four- centimeter-long scar at the edge of the areola.	N
+148	148	148	00:10:17	00:10:20	Collapsed fibrous capsules in both breasts.	N
+149	149	149	00:10:20	00:10:21	Fascinating.	N
+150	150	150	00:10:21	00:10:22	Cause of death?	N
+151	151	151	00:10:22	00:10:24	I was just getting to that.	N
+152	152	152	00:10:24	00:10:27	Two gunshot wounds to the back of the head, just like her husband.	N
+153	153	153	00:10:27	00:10:29	Close range.	N
+154	154	154	00:10:29	00:10:31	Either one immediately debilitating and fatal.	N
+155	155	155	00:10:31	00:10:33	I sent the bullets to the lab.	N
+156	156	156	00:10:33	00:10:36	But this is why I sent for you.	N
+157	157	157	00:10:42	00:10:44	Stun gun burns?	N
+158	158	158	00:10:48	00:10:51	If you're close enough to stun him, you're close enough to shoot him.	N
+159	159	159	00:10:52	00:10:55	And we suspect that there were two assailants.	N
+160	160	160	00:10:55	00:10:58	Well, maybe they were trying to buy time.	N
+161	161	161	00:10:58	00:11:02	For what?	N
+162	162	162	00:11:04	00:11:06	Now, the first order of business is to kill the Trents.	N
+163	163	163	00:11:07	00:11:10	Then the suspects go upstairs and rip off Laurel's jewelry.	N
+164	164	164	00:11:10	00:11:12	And bail on bikes.	N
+165	165	165	00:11:12	00:11:14	That's a little low-rent, don't you think?	N
+166	166	166	00:11:14	00:11:19	Yeah, but I'm thinking, in a neighborhood like this, if you burn rubber out of here, it's gonna cause a lot of attention.	N
+167	167	167	00:11:19	00:11:21	If you roll quietly away on a bike, though...	N
+168	168	168	00:11:21	00:11:24	Ah, no one's the wiser. Okay, I get it.	N
+169	169	169	00:11:24	00:11:27	This is the resident gate that Greg called me from; he couldn't get in.	N
+170	170	170	00:11:27	00:11:31	He needed a code. Sara did find an orange peel in the side yard.	N
+171	171	171	00:11:31	00:11:33	What do you think, sticky fingers?	N
+172	172	172	00:11:33	00:11:35	Does citrus illuminate?	N
+173	173	173	00:11:35	00:11:37	Sugar will, if it's derivatized.	N
+174	174	174	00:11:38	00:11:39	Do you have any fluorescent reagents?	N
+175	175	175	00:11:39	00:11:40	I've got ANTS.	N
+176	176	176	00:11:41	00:11:44	Not the insect. Amino-naphthalene Trisulfonic acid. trisulfonic acid.	N
+177	177	177	00:11:44	00:11:45	You're trying to stump me. I can feel it.	N
+178	178	178	00:11:46	00:11:47	Let me check it out.	N
+179	179	179	00:11:51	00:11:54	The ANTS should make it light up under the ALS.	N
+180	180	180	00:12:07	00:12:11	One, three...	N
+181	181	181	00:12:11	00:12:13	five and six.	N
+182	182	182	00:12:13	00:12:16	In some configuration.	N
+183	183	183	00:12:16	00:12:18	They had the code.	N
+184	184	184	00:12:18	00:12:21	We're mid-case. Why do we have to do this now?	N
+185	185	185	00:12:21	00:12:25	I have to get this evaluation in, or I'm gonna get written up.	N
+186	186	186	00:12:25	00:12:27	Okay.	N
+187	187	187	00:12:27	00:12:29	My goals.	N
+188	188	188	00:12:29	00:12:31	Mm...	N
+189	189	189	00:12:31	00:12:32	Oh, all right, okay.	N
+190	190	190	00:12:32	00:12:35	For starters, I'd like two consecutive nights off.	N
+191	191	191	00:12:35	00:12:45	I would like to cut my triples down to ten a year instead of the usual 20, and, uh, I would love to find a reliable baby-sitter, so I could have myself some kind of a personal life.	N
+192	192	192	00:12:45	00:12:48	You don't have a personal life?	N
+193	193	193	00:12:50	00:12:54	I haven't had sex in six-- no-- seven months.	N
+194	194	194	00:12:59	00:13:01	How can I help?	N
+195	195	195	00:13:03	00:13:05	You. Advance, I mean.	N
+196	196	196	00:13:05	00:13:07	Do you...	N
+197	197	197	00:13:07	00:13:12	have any interest in changing sections in the lab, for instance? Gil, how do you do this?	N
+198	198	198	00:13:12	00:13:16	Honestly, how do you juggle scheduling and vacations and...	N
+199	199	199	00:13:16	00:13:21	The goal of any supervisor is to teach someone how to take his place someday.	N
+200	200	200	00:13:21	00:13:23	Are you going someplace?	N
+201	201	201	00:13:23	00:13:25	You never know.	N
+202	202	202	00:13:25	00:13:26	Are you considering me?	N
+203	203	203	00:13:26	00:13:28	Why not?	N
+204	204	204	00:13:28	00:13:30	You're certainly qualified.	N
+205	205	205	00:13:30	00:13:36	But... a CSI who uses the DNA lab to establish her own paternity...	N
+206	206	206	00:13:36	00:13:42	calls into question... her judgment, don't you think?	N
+207	207	207	00:13:51	00:13:54	You've left that out.	N
+208	208	208	00:13:54	00:13:55	Are you covering for me?	N
+209	209	209	00:13:55	00:14:00	I believe that we've dealt with this issue, handled it internally.	N
+210	210	210	00:14:00	00:14:02	As far as I'm concerned, it's dead.	N
+211	211	211	00:14:02	00:14:06	Besides, you'll never do it again.	N
+212	212	212	00:14:06	00:14:09	So just sign your name by the red X.	N
+213	213	213	00:14:11	00:14:18	Before I sign, um, since we're putting all of our cards on the table, there's something you should know.	N
+214	214	214	00:14:18	00:14:25	Sam Braun wrote me a check, and... I cashed it.	N
+215	215	215	00:14:27	00:14:30	For how much?	N
+216	216	216	00:14:30	00:14:36	Enough to where Lindsay and I can do anything and...	N
+217	217	217	00:14:36	00:14:39	not enough to where we can do nothing.	N
+218	218	218	00:14:39	00:14:42	Sam Braun was a murder suspect in one of your cases.	N
+219	219	219	00:14:42	00:14:44	How does this not look like a payoff?	N
+220	220	220	00:14:44	00:14:45	I consulted an attorney.	N
+221	221	221	00:14:45	00:14:47	It is a check from a father to a daughter.	N
+222	222	222	00:14:47	00:14:49	It is completely out of departmental jurisdiction.	N
+223	223	223	00:14:49	00:14:51	What about conflict of interest?	N
+224	224	224	00:14:51	00:14:52	Not just for you but for this lab.	N
+225	225	225	00:14:52	00:14:55	Gil, I would never compromise you or the lab.	N
+226	226	226	00:14:55	00:14:58	Maybe not legally, but ethically?	N
+227	227	227	00:15:03	00:15:07	What else should I know, Catherine?	N
+228	228	228	00:15:07	00:15:09	That's everything.	N
+229	229	229	00:15:24	00:15:25	Talk to me.	N
+230	230	230	00:15:25	00:15:27	Orange peels, seeds, cigarette butts.	N
+231	231	231	00:15:27	00:15:30	I'm logging them in and moving them to DNA.	N
+232	232	232	00:15:30	00:15:34	Okay, so you've gone through her purse, uh, her wallet...	N
+233	233	233	00:15:34	00:15:36	Yeah, everything's there-- money, credit cards.	N
+234	234	234	00:15:36	00:15:38	Yeah. What about the briefcase?	N
+235	235	235	00:15:38	00:15:40	Empty. Stop. I-I got a system here.	N
+236	236	236	00:15:40	00:15:43	I found this wadded up in her purse.	N
+237	237	237	00:15:43	00:15:46	It's a release form-- permission to film an adult movie at the Acid Drop.	N
+238	238	238	00:15:46	00:15:48	From Drake the Snake Productions.	N
+239	239	239	00:15:48	00:15:50	Signed by a Drake Snow.	N
+240	240	240	00:16:12	00:16:14	I need to see your boss.	N
+241	241	241	00:16:14	00:16:16	Follow me.	N
+242	242	242	00:16:16	00:16:17	Tonight's for Mike.	N
+243	243	243	00:16:17	00:16:21	We pay our respects by ringing the register.	N
+244	244	244	00:16:21	00:16:26	Now, I don't mind if you're talking, just as long as they're drinking.	N
+245	245	245	00:16:26	00:16:27	Watch the doubles...	N
+246	246	246	00:16:27	00:16:30	Uh...	N
+247	247	247	00:16:32	00:16:35	Watch the doubles. Be smart.	N
+248	248	248	00:16:35	00:16:38	You do that, we're gonna take this party 00 in the morning.	N
+249	249	249	00:16:38	00:16:39	And most importantly, have fun.	N
+250	250	250	00:16:39	00:16:40	Okay.	N
+251	251	251	00:16:40	00:16:43	Go make some money. See you later.	N
+252	252	252	00:16:45	00:16:48	You here about Mike?	N
+253	253	253	00:16:48	00:16:50	Yes, I am.	N
+254	254	254	00:16:50	00:16:52	Let's go somewhere private.	N
+255	255	255	00:16:52	00:16:54	Sorry for the inconvenience, everybody.	N
+256	256	256	00:16:54	00:16:56	When you come back, next bottle's on me.	N
+257	257	257	00:16:56	00:16:58	Go ahead. ( clears throat )	N
+258	258	258	00:16:58	00:17:01	Thanks, Chief. We're going to shut her down for about half an hour.	N
+259	259	259	00:17:01	00:17:02	Well...	N
+260	260	260	00:17:02	00:17:03	this is private.	N
+261	261	261	00:17:03	00:17:05	It was, um...	N
+262	262	262	00:17:05	00:17:07	It was a real shock, you know?	N
+263	263	263	00:17:07	00:17:09	Mike and Laurel getting killed like that.	N
+264	264	264	00:17:09	00:17:14	But I got to say, if they had a choice how to go out, it would have been together.	N
+265	265	265	00:17:14	00:17:17	For him, the sun rose and set with her.	N
+266	266	266	00:17:17	00:17:20	He didn't treat her like a trophy wife?	N
+267	267	267	00:17:20	00:17:22	No. You kidding?	N
+268	268	268	00:17:22	00:17:27	No. He got her off the VHS covers, and she made a home for him.	N
+269	269	269	00:17:27	00:17:28	You know?	N
+270	270	270	00:17:28	00:17:30	Have a seat.	N
+271	271	271	00:17:32	00:17:34	Um, and what was, uh...	N
+272	272	272	00:17:34	00:17:37	What was your professional affiliation with him?	N
+273	273	273	00:17:37	00:17:40	I run his clubs.	N
+274	274	274	00:17:40	00:17:43	Ever since he got out of the partner business with Kyle Goode.	N
+275	275	275	00:17:44	00:17:48	Have you seen this Mr. Goode lately?	N
+276	276	276	00:17:48	00:17:50	He shows his face every once in a while.	N
+277	277	277	00:17:50	00:17:52	I just try to keep him away from Mike, you know?	N
+278	278	278	00:17:52	00:17:54	As much as humanly possible.	N
+279	279	279	00:17:55	00:17:57	And...	N
+280	280	280	00:17:57	00:18:00	what about this Drake Snow guy?	N
+281	281	281	00:18:00	00:18:01	Drake?	N
+282	282	282	00:18:01	00:18:02	Drake the Snake.	N
+283	283	283	00:18:02	00:18:04	I, uh...	N
+284	284	284	00:18:04	00:18:05	I hired him. He's harmless.	N
+285	285	285	00:18:05	00:18:07	He saw one Ron Jeremy movie.	N
+286	286	286	00:18:07	00:18:09	Now the guy just sees dollar signs.	N
+287	287	287	00:18:11	00:18:14	Uh, and how did he get along with the Trents?	N
+288	288	288	00:18:14	00:18:16	Why don't you go ask him?	N
+289	289	289	00:18:16	00:18:18	Reading my mind.	N
+290	290	290	00:18:18	00:18:20	Mm.	N
+291	291	291	00:18:21	00:18:22	You, uh...	N
+292	292	292	00:18:23	00:18:24	You never gave me your name.	N
+293	293	293	00:18:24	00:18:25	Oh.	N
+294	294	294	00:18:25	00:18:26	Catherine.	N
+295	295	295	00:18:26	00:18:28	Catherine.	N
+296	296	296	00:18:28	00:18:29	Willows.	N
+297	297	297	00:18:30	00:18:32	Chris Bezich.	N
+298	298	298	00:18:32	00:18:34	Chris Bezich.	N
+299	299	299	00:18:34	00:18:36	Come on.	N
+300	300	300	00:18:36	00:18:39	Mike and Kyle-- they made all their money out of Laurel taking it off.	N
+301	301	301	00:18:39	00:18:42	She-She was a cash register in panties is what she was.	N
+302	302	302	00:18:42	00:18:44	And you wanted in?	N
+303	303	303	00:18:44	00:18:45	No. Trust me.	N
+304	304	304	00:18:45	00:18:48	The last thing that I wanted was to be partners with Mike.	N
+305	305	305	00:18:48	00:18:51	Guy'd... Guy'd chew you up and spit you out soon as look at you.	N
+306	306	306	00:18:51	00:18:52	And Kyle-- forget it.	N
+307	307	307	00:18:52	00:18:55	Guy'd tell you right to your face he's sticking it to you.	N
+308	308	308	00:18:55	00:18:56	Pasadena, baby.	N
+309	309	309	00:18:56	00:18:58	I got my own plans.	N
+310	310	310	00:18:58	00:18:59	I-I just... I just need a location.	N
+311	311	311	00:18:59	00:19:01	One location.	N
+312	312	312	00:19:01	00:19:02	And what?	N
+313	313	313	00:19:02	00:19:05	Mike didn't agree to it?	N
+314	314	314	00:19:05	00:19:06	Didn't ask him.	N
+315	315	315	00:19:06	00:19:09	Last time I asked him for something, he took a swing at me.	N
+316	316	316	00:19:10	00:19:10	Get the hell out of my...	N
+317	317	317	00:19:10	00:19:13	I just want the same shot that you had, Mike.	N
+318	318	318	00:19:13	00:19:14	Laurel said that...	N
+319	319	319	00:19:14	00:19:15	You two aren't in business anymore.	N
+320	320	320	00:19:17	00:19:19	In the kitchen, you said?	N
+321	321	321	00:19:20	00:19:21	Yeah.	N
+322	322	322	00:19:21	00:19:24	So, I wasn't going to make that mistake again, so I had to try something different.	N
+323	323	323	00:19:24	00:19:25	So, I pulled a Geffen.	N
+324	324	324	00:19:25	00:19:26	I went straight to Yoko.	N
+325	325	325	00:19:26	00:19:30	Oh, you gave Laurel the release form.	N
+326	326	326	00:19:30	00:19:32	Yeah. She was going to give it to Mike.	N
+327	327	327	00:19:32	00:19:35	He was going to sign it, and they were going to get it back to me.	N
+328	328	328	00:19:35	00:19:36	So much for that.	N
+329	329	329	00:19:36	00:19:37	All right. So, uh, listen, Drake.	N
+330	330	330	00:19:37	00:19:39	I'm going to help you get that dream shot.	N
+331	331	331	00:19:39	00:19:44	So that when you do get into the porn biz, you won't have a murder rap hanging over your head.	N
+332	332	332	00:19:44	00:19:46	Here.	N
+333	333	333	00:19:46	00:19:47	Crime Scene 101.	N
+334	334	334	00:19:48	00:19:50	Stick this in your mouth.	N
+335	335	335	00:19:50	00:19:52	Hey, you can set 'em right there.	N
+336	336	336	00:19:52	00:19:56	Can't believe that there's this many abandoned bikes in Charleston Hills.	N
+337	337	337	00:19:56	00:20:01	These were found in the alley behind the Fire Department, so check them out.	N
+338	338	338	00:20:14	00:20:16	Sugar on the handlebars of both bikes.	N
+339	339	339	00:20:16	00:20:17	Just like the keypad.	N
+340	340	340	00:20:18	00:20:19	So we may have our getaway bikes.	N
+341	341	341	00:20:19	00:20:22	We could check the serial numbers, but they're usually not recorded.	N
+342	342	342	00:20:26	00:20:28	You know what? I got an idea.	N
+343	343	343	00:20:28	00:20:31	Hmm?	N
+344	344	344	00:20:31	00:20:33	What are you doing?	N
+345	345	345	00:20:38	00:20:40	Get me a pair of tweezers, will you?	N
+346	346	346	00:20:51	00:20:53	Now how did you know that receipt was in there?	N
+347	347	347	00:20:53	00:20:54	Well, I used to read point spreads.	N
+348	348	348	00:20:55	00:20:55	Now I read books.	N
+349	349	349	00:20:56	00:20:57	Good for you.	N
+350	350	350	00:20:57	00:21:00	Bad for Ross Davis, though.	N
+351	351	351	00:21:02	00:21:04	This is a little intense for getting my bike stolen.	N
+352	352	352	00:21:04	00:21:06	I already got a new one.	N
+353	353	353	00:21:06	00:21:07	Did you report it?	N
+354	354	354	00:21:07	00:21:08	No. You're kidding me, right?	N
+355	355	355	00:21:08	00:21:10	I got jumped, man.	N
+356	356	356	00:21:10	00:21:11	By whom?	N
+357	357	357	00:21:11	00:21:12	By two bucked-ass brothers.	N
+358	358	358	00:21:12	00:21:14	They were both yoked as hell.	N
+359	359	359	00:21:14	00:21:15	Ripped.	N
+360	360	360	00:21:15	00:21:17	I thought for a second they were going to kill me.	N
+361	361	361	00:21:19	00:21:20	Hey, hey.	N
+362	362	362	00:21:24	00:21:25	Something wrong with your neck?	N
+363	363	363	00:21:25	00:21:26	Man, it's killing me.	N
+364	364	364	00:21:26	00:21:31	I don't know what the hell they hit me with, but my knees was the first to go.	N
+365	365	365	00:21:33	00:21:35	I believe you were hit with a stun gun.	N
+366	366	366	00:21:35	00:21:37	Just like Mike Trent.	N
+367	367	367	00:21:44	00:21:45	I found something on your butt.	N
+368	368	368	00:21:45	00:21:47	Checking out my butt again, Greg?	N
+369	369	369	00:21:47	00:21:48	I was.	N
+370	370	370	00:21:48	00:21:51	As well as the four butts Sara got at the crime scene.	N
+371	371	371	00:21:51	00:21:52	Oh.	N
+372	372	372	00:21:52	00:21:55	Found something on them that I can't explain, so I sent them over to Hodges.	N
+373	373	373	00:21:55	00:21:57	Your butt's fine.	N
+374	374	374	00:21:58	00:21:59	Switching gears.	N
+375	375	375	00:21:59	00:22:02	Blood found in the Trents' bedroom is a match to Drake Snow.	N
+376	376	376	00:22:02	00:22:06	So he told the truth about the blood and lied about the kitchen.	N
+377	377	377	00:22:06	00:22:07	Figures.	N
+378	378	378	00:22:07	00:22:11	Three of the four cigarette butts are also a match to Drake.	N
+379	379	379	00:22:11	00:22:12	Puts him at the scene.	N
+380	380	380	00:22:12	00:22:14	And the fourth butt?	N
+381	381	381	00:22:14	00:22:17	Female, not a match to Laurel Trent.	N
+382	382	382	00:22:17	00:22:18	Orange seeds?	N
+383	383	383	00:22:18	00:22:19	Two additional donors, both male.	N
+384	384	384	00:22:19	00:22:21	Not a match to any of our players.	N
+385	385	385	00:22:21	00:22:23	No hits on CODIS.	N
+386	386	386	00:22:23	00:22:26	So we're looking for two guys and a gal who might know Drake.	N
+387	387	387	00:22:26	00:22:28	We already know you lied.	N
+388	388	388	00:22:28	00:22:32	We found your blood in the Trents' bedroom, not in the kitchen.	N
+389	389	389	00:22:32	00:22:34	So what were you doing in there?	N
+390	390	390	00:22:34	00:22:36	You putting the shot in her, or what?	N
+391	391	391	00:22:36	00:22:37	Hey, look.	N
+392	392	392	00:22:38	00:22:39	I know where you're going with this.	N
+393	393	393	00:22:40	00:22:42	Okay, I was in the bedroom.	N
+394	394	394	00:22:42	00:22:45	She wasn't on her knees. I was.	N
+395	395	395	00:22:45	00:22:47	I was begging. Not for sex.	N
+396	396	396	00:22:47	00:22:49	I was begging for my business.	N
+397	397	397	00:22:50	00:22:51	Drake the Snake Productions.	N
+398	398	398	00:22:51	00:22:55	Mike comes busting in, goes ballistic, smacks me in the nose...	N
+399	399	399	00:22:55	00:23:00	I mean, I know I keep coming back to this three-and-out thing, but maybe because you're in bed with his wife.	N
+400	400	400	00:23:00	00:23:02	Laurel and I didn't have sex in the bedroom.	N
+401	401	401	00:23:02	00:23:06	We had it on the set-- past tense, long time ago.	N
+402	402	402	00:23:06	00:23:07	Then along came Mike.	N
+403	403	403	00:23:07	00:23:09	Mike was good for Laurel.	N
+404	404	404	00:23:09	00:23:11	Mike was not good for me.	N
+405	405	405	00:23:11	00:23:13	She got carte blanche-- Laurel.	N
+406	406	406	00:23:13	00:23:14	Me, I got a bar back.	N
+407	407	407	00:23:14	00:23:18	Now I'm popping blue pills looking for something to bring me down, but I know the business.	N
+408	408	408	00:23:18	00:23:21	I just don't have the capital to get behind the camera.	N
+409	409	409	00:23:21	00:23:23	So what does killing the Trents get you?	N
+410	410	410	00:23:25	00:23:27	Zero.	N
+411	411	411	00:23:27	00:23:31	No one was more upset than me.	N
+412	412	412	00:23:31	00:23:33	You're still pouring drinks. Boo-hoo.	N
+413	413	413	00:23:33	00:23:36	And what are you doing smoking around their place?	N
+414	414	414	00:23:38	00:23:39	What?	N
+415	415	415	00:23:39	00:23:42	Yeah, we found cigarette butts with your DNA on it on their property.	N
+416	416	416	00:23:42	00:23:45	I don't know what you're talking about.	N
+417	417	417	00:23:45	00:23:46	I don't.	N
+418	418	418	00:23:46	00:23:48	I smoke one place, okay?	N
+419	419	419	00:23:48	00:23:50	I smoke at work.	N
+420	420	420	00:23:50	00:23:51	I'm down to one a day.	N
+421	421	421	00:23:51	00:23:55	Right after happy hour, I have my one cigarette, and it's out back by the service register.	N
+422	422	422	00:23:55	00:23:56	You ask anybody.	N
+423	423	423	00:23:58	00:24:00	Drake's telling the truth, you know?	N
+424	424	424	00:24:00	00:24:01	He smokes one a day.	N
+425	425	425	00:24:01	00:24:03	Not on the floor, right here, my rule.	N
+426	426	426	00:24:04	00:24:07	Mm-hmm, well, still have to verify it with evidence.	N
+427	427	427	00:24:10	00:24:12	You verify everything?	N
+428	428	428	00:24:12	00:24:15	Everything.	N
+429	429	429	00:24:15	00:24:17	Including you.	N
+430	430	430	00:24:17	00:24:20	You're clear.	N
+431	431	431	00:24:20	00:24:23	Can you blame Drake, you know?	N
+432	432	432	00:24:24	00:24:26	He's trying to give up cigarettes.	N
+433	433	433	00:24:26	00:24:28	That's like me trying to give up...	N
+434	434	434	00:24:28	00:24:30	Sex?	N
+435	435	435	00:24:30	00:24:34	Everybody needs to indulge in a vice at least once a day, right?	N
+436	436	436	00:24:34	00:24:40	Yes, well, I did happen to notice those little waitress girlies trying to serve their way into bed with you.	N
+437	437	437	00:24:40	00:24:43	That's work.	N
+438	438	438	00:24:43	00:24:45	I prefer women.	N
+439	439	439	00:24:45	00:24:48	Speaking of work, do you, um...	N
+440	440	440	00:24:48	00:24:50	ever get a day off?	N
+441	441	441	00:24:54	00:24:55	What?	N
+442	442	442	00:24:55	00:24:57	You want to get to know me?	N
+443	443	443	00:24:57	00:24:59	Yes.	N
+444	444	444	00:25:12	00:25:13	Um...	N
+445	445	445	00:25:13	00:25:15	What?	N
+446	446	446	00:25:15	00:25:16	Wait. Hang on.	N
+447	447	447	00:25:17	00:25:18	I'm on the clock.	N
+448	448	448	00:25:21	00:25:23	You started it.	N
+449	449	449	00:25:23	00:25:26	Yes, and when the time is right, maybe I'll finish it.	N
+450	450	450	00:25:38	00:25:39	How you feeling?	N
+451	451	451	00:25:39	00:25:41	Hey. What do you mean?	N
+452	452	452	00:25:41	00:25:44	Well, you were popping cough drops at the scene the other day a mile a minute.	N
+453	453	453	00:25:44	00:25:46	I thought I was coming down with a cold.	N
+454	454	454	00:25:46	00:25:48	Ah.	N
+455	455	455	00:25:48	00:25:50	Yeah, I, uh...	N
+456	456	456	00:25:50	00:25:53	I understand colds.	N
+457	457	457	00:25:53	00:26:00	You know, back in Jersey when I was getting it from both ends, from my wife and my work, things started to get heavy.	N
+458	458	458	00:26:00	00:26:03	I started medicating.	N
+459	459	459	00:26:03	00:26:05	Cure my cold.	N
+460	460	460	00:26:05	00:26:13	And, um, and God forbid I had an early morning roll-out and I had that tell-tale breath, you know what I mean?	N
+461	461	461	00:26:13	00:26:19	So I would dodge my supe, and I started popping cough drops.	N
+462	462	462	00:26:19	00:26:22	Huh.	N
+463	463	463	00:26:22	00:26:25	I mean, what I'm trying to say is that...	N
+464	464	464	00:26:25	00:26:30	there's more problems than answers in the bottom of a bottle, believe me.	N
+465	465	465	00:26:31	00:26:33	Yeah. ( sighs )	N
+466	466	466	00:26:33	00:26:40	Actually, I had a couple of beers with breakfast when I got off shift.	N
+467	467	467	00:26:40	00:26:43	And then I got called in.	N
+468	468	468	00:26:43	00:26:45	Just a couple?	N
+469	469	469	00:26:45	00:26:47	Yeah.	N
+470	470	470	00:26:49	00:26:50	I'm just looking out for you.	N
+471	471	471	00:27:00	00:27:02	Hey, what are you doing after work?	N
+472	472	472	00:27:02	00:27:04	More work.	N
+473	473	473	00:27:04	00:27:06	You got photos of Laurel Trents' jewelry, huh?	N
+474	474	474	00:27:06	00:27:14	Yeah, two-carat diamond earrings, ruby necklace, diamond and sapphire bracelet, lady's gold Rolex.	N
+475	475	475	00:27:14	00:27:16	The insurance company says it's worth somewhere north of two mil.	N
+476	476	476	00:27:17	00:27:20	I got every pawn shop in town on the lookout.	N
+477	477	477	00:27:20	00:27:21	What?	N
+478	478	478	00:27:21	00:27:26	You know that feeling you get when you just can't quite put your finger on something?	N
+479	479	479	00:27:26	00:27:29	What can't you put your finger on besides the clock-out button?	N
+480	480	480	00:27:29	00:27:32	Why did they drag his body down the driveway?	N
+481	481	481	00:27:32	00:27:34	Dragging's your racket.	N
+482	482	482	00:27:34	00:27:37	But I can tell you who's dragging Mike Trent into court.	N
+483	483	483	00:27:37	00:27:39	His ex-business partner, Kyle Goode.	N
+484	484	484	00:27:39	00:27:41	Evidence.	N
+485	485	485	00:27:41	00:27:43	Evidence in context.	N
+486	486	486	00:27:43	00:27:45	Take a look.	N
+487	487	487	00:27:48	00:27:52	Trace on the cigarette butt is a match to the sand I collected from the ashtray.	N
+488	488	488	00:27:52	00:27:53	At Acid Drop.	N
+489	489	489	00:27:53	00:27:56	Now...	N
+490	490	490	00:27:56	00:27:58	take a look at this.	N
+491	491	491	00:27:58	00:28:04	I found trace amounts of soil in the orange seeds and the orange peel, but not on any of the butts.	N
+492	492	492	00:28:04	00:28:06	So it's possible that the butts were planted.	N
+493	493	493	00:28:10	00:28:13	May explain why there seems to be so many suspects at the crime scene.	N
+494	494	494	00:28:13	00:28:17	Probably clears Drake Snow and your unidentified female smoker.	N
+495	495	495	00:28:17	00:28:19	Where does that leave you?	N
+496	496	496	00:28:19	00:28:21	With two guys on bikes.	N
+497	497	497	00:28:25	00:28:26	Hit that ninja.	N
+498	498	498	00:28:26	00:28:27	On the bridge.	N
+499	499	499	00:28:27	00:28:28	That's it.	N
+500	500	500	00:28:29	00:28:30	Kyle Goode?	N
+501	501	501	00:28:30	00:28:31	Uh-huh.	N
+502	502	502	00:28:31	00:28:33	I'm Detective Jim Brass, Homicide.	N
+503	503	503	00:28:33	00:28:36	I was wondering when you guys would get around to me.	N
+504	504	504	00:28:36	00:28:38	Why's that?	N
+505	505	505	00:28:38	00:28:39	My ex-partner's murdered.	N
+506	506	506	00:28:39	00:28:42	I got a lawsuit against him. He owes me millions.	N
+507	507	507	00:28:42	00:28:43	I'd like me for it.	N
+508	508	508	00:28:43	00:28:46	Great, then we won't have to pull teeth to get to the truth.	N
+509	509	509	00:28:46	00:28:48	Where were you yesterday morning?	N
+510	510	510	00:28:48	00:28:50	With my son, Alex.	N
+511	511	511	00:28:50	00:28:52	Where?	N
+512	512	512	00:28:54	00:28:56	You're not going to believe anything I tell you.	N
+513	513	513	00:28:56	00:28:57	Why don't you ask him?	N
+514	514	514	00:28:57	00:28:59	Okay. Come, Alex.	N
+515	515	515	00:28:59	00:29:00	Get off the game.	N
+516	516	516	00:29:00	00:29:01	That's enough.	N
+517	517	517	00:29:01	00:29:03	You cost me a man.	N
+518	518	518	00:29:03	00:29:04	I got more quarters.	N
+519	519	519	00:29:07	00:29:09	So, Alex, where were you yesterday morning?	N
+520	520	520	00:29:09	00:29:10	At Grandma's.	N
+521	521	521	00:29:10	00:29:12	All morning?	N
+522	522	522	00:29:12	00:29:13	No.	N
+523	523	523	00:29:13	00:29:15	She lives in Laughlin.	N
+524	524	524	00:29:15	00:29:16	My dad drove me.	N
+525	525	525	00:29:16	00:29:17	What time did you get there?	N
+526	526	526	00:29:18	00:29:19	I don't know. I was sleeping.	N
+527	527	527	00:29:19	00:29:21	00?	N
+528	528	528	00:29:21	00:29:23	You sure about that?	N
+529	529	529	00:29:23	00:29:25	Yeah.	N
+530	530	530	00:29:25	00:29:27	When I woke up, Captain Caveman was on.	N
+531	531	531	00:29:27	00:29:31	Okay, Laughlin's about 21/////2 hours away, 30?	N
+532	532	532	00:29:32	00:29:33	00.	N
+533	533	533	00:29:33	00:29:35	Alex likes those breakfast sandwiches.	N
+534	534	534	00:29:35	00:29:36	We picked a couple up. Ate them on the way.	N
+535	535	535	00:29:36	00:29:37	Where'd you pick them up?	N
+536	536	536	00:29:37	00:29:39	Sunny Side's over on Eastern.	N
+537	537	537	00:29:39	00:29:41	You looking for an alibi?	N
+538	538	538	00:29:41	00:29:42	Something like that, yeah.	N
+539	539	539	00:29:42	00:29:45	Come on, Alex. Let's go over to Circus Circus.	N
+540	540	540	00:29:45	00:29:47	They got a real arcade.	N
+541	541	541	00:29:59	00:30:00	Thank you for visiting Sunny Side's.	N
+542	542	542	00:30:00	00:30:02	Next in line, please. Hi.	N
+543	543	543	00:30:02	00:30:03	Would you like to try the Sunny Side's Special?	N
+544	544	544	00:30:03	00:30:04	No, I'm Nick Stokes.	N
+545	545	545	00:30:04	00:30:06	I'm with the Las Vegas Crime Lab.	N
+546	546	546	00:30:06	00:30:07	Can I talk to you for a second?	N
+547	547	547	00:30:07	00:30:08	Um...	N
+548	548	548	00:30:12	00:30:14	Are you Missy Wilson?	N
+549	549	549	00:30:14	00:30:15	Are you a truant officer?	N
+550	550	550	00:30:15	00:30:16	No.	N
+551	551	551	00:30:17	00:30:21	Your manager said you were working breakfast the other day at the pick-up window.	N
+552	552	552	00:30:21	00:30:22	Yeah.	N
+553	553	553	00:30:22	00:30:24	Do you remember this guy?	N
+554	554	554	00:30:24	00:30:26	Oh, my God.	N
+555	555	555	00:30:26	00:30:29	That's the creep who was hitting on me.	N
+556	556	556	00:30:29	00:30:31	He was so repulsive. You know what he said to me?	N
+557	557	557	00:30:31	00:30:34	I'd like to bend you over the counter, baby.	N
+558	558	558	00:30:36	00:30:38	And he said it in front of his kid.	N
+559	559	559	00:30:38	00:30:39	What kind of father acts like that?	N
+560	560	560	00:30:40	00:30:41	Sounds like he wanted to make an impression.	N
+561	561	561	00:30:41	00:30:42	Oh, he did.	N
+562	562	562	00:30:42	00:30:44	I hope you're going to arrest him.	N
+563	563	563	00:30:44	00:30:45	One thing at a time.	N
+564	564	564	00:30:45	00:30:46	Now this window...	N
+565	565	565	00:30:46	00:30:51	I get all the creeps in drive-through-- teenagers, perverts, walk-ups, and those are my favorites.	N
+566	566	566	00:30:51	00:30:52	Hi, I'm on a skateboard.	N
+567	567	567	00:30:53	00:30:54	Can I have a burger combo? No, dork.	N
+568	568	568	00:30:54	00:30:57	Does this window have a surveillance camera?	N
+569	569	569	00:30:57	00:30:59	Oh, yeah, we have cameras all over here.	N
+570	570	570	00:30:59	00:31:01	Even in the cooler.	N
+571	571	571	00:31:05	00:31:06	Confirms his alibi.	N
+572	572	572	00:31:06	00:31:09	Every suspect Brass leans on seems to have a case of the airtights.	N
+573	573	573	00:31:09	00:31:12	Hold it. Run that back.	N
+574	574	574	00:31:16	00:31:17	Pause it.	N
+575	575	575	00:31:19	00:31:21	What is that around the kid's neck?	N
+576	576	576	00:31:21	00:31:22	I don't know.	N
+577	577	577	00:31:22	00:31:23	Let's enhance it.	N
+578	578	578	00:31:30	00:31:32	Almost looks like a canteen.	N
+579	579	579	00:31:33	00:31:38	You bring a canteen up to your lips, not to your eyes.	N
+580	580	580	00:31:38	00:31:41	I'll pull some stills, see what I can make of it.	N
+581	581	581	00:31:42	00:31:45	AV Lab. Grissom.	N
+582	582	582	00:31:47	00:31:49	I'll be right there.	N
+583	583	583	00:31:59	00:32:04	Well, he lived by the stun, but I don't think he died by it.	N
+584	584	584	00:32:04	00:32:05	He didn't.	N
+585	585	585	00:32:05	00:32:09	Uh, two gunshot wounds to the back of the head.	N
+586	586	586	00:32:09	00:32:10	TOD is within the hour.	N
+587	587	587	00:32:10	00:32:13	Blood spatter everywhere.	N
+588	588	588	00:32:15	00:32:18	Multiple directionalities.	N
+589	589	589	00:32:22	00:32:23	You almost done, David?	N
+590	590	590	00:32:23	00:32:24	Uh, yes, sir.	N
+591	591	591	00:32:24	00:32:26	He's all yours.	N
+592	592	592	00:32:26	00:32:27	Thanks.	N
+593	593	593	00:32:27	00:32:29	I want to pick his pockets.	N
+594	594	594	00:32:37	00:32:38	M...	N
+595	595	595	00:32:38	00:32:40	and T.	N
+596	596	596	00:32:41	00:32:42	Doesn't look like Michael Trent.	N
+597	597	597	00:32:43	00:32:46	If he's one of our bad guys on the bicycle, where's his partner?	N
+598	598	598	00:32:46	00:32:48	And where's the rest of the jewelry?	N
+599	599	599	00:32:48	00:32:50	That's probably what his partner said before he tossed the room.	N
+600	600	600	00:33:55	00:33:57	a knife with blood on it.	N
+601	601	601	00:33:59	00:34:00	a dead guy.	N
+602	602	602	00:34:04	00:34:08	Nine-millimeter.	N
+603	603	603	00:34:08	00:34:10	Pillowcase full of jewelry.	N
+604	604	604	00:34:14	00:34:18	Two stacks of $10,000 bricks.	N
+605	605	605	00:34:18	00:34:24	Well, either they pawned some diamonds at the US Treasury, or they're on someone's payroll.	N
+606	606	606	00:34:26	00:34:28	hit-for-hire.	N
+607	607	607	00:34:28	00:34:32	And we're still looking for somebody.	N
+608	608	608	00:34:34	00:34:35	him or him?	N
+609	609	609	00:34:35	00:34:38	Eh, let's start with Mr. Head Wound.	N
+610	610	610	00:34:38	00:34:41	You've seen these before.	N
+611	611	611	00:34:41	00:34:42	Stun gun.	N
+612	612	612	00:34:42	00:34:44	The debilitator of choice.	N
+613	613	613	00:34:50	00:34:53	Heard you found a nine- millimeter at the scene?	N
+614	614	614	00:34:53	00:34:55	Mm-hmm. I sent the bullets to ballistics.	N
+615	615	615	00:34:55	00:34:58	How about his body? Any lead in him?	N
+616	616	616	00:34:58	00:35:00	No, but he took a blade to the stomach.	N
+617	617	617	00:35:01	00:35:05	The cut was shallow, five or six centimeters below the sternum.	N
+618	618	618	00:35:05	00:35:07	Like the soft spot in a dragon.	N
+619	619	619	00:35:14	00:35:16	Sounds like no honor among thieves.	N
+620	620	620	00:35:16	00:35:19	Well, I'll tell you what they were fighting over.	N
+621	621	621	00:35:19	00:35:20	The jewelry was hot.	N
+622	622	622	00:35:20	00:35:22	Either you fence it fast or eat the loss.	N
+623	623	623	00:35:22	00:35:25	I'm thinking more and more it was never part of the plan.	N
+624	624	624	00:35:25	00:35:26	You know, you could be right.	N
+625	625	625	00:35:26	00:35:28	I talked to the Trents' bank.	N
+626	626	626	00:35:28	00:35:33	They were on their way to the safety deposit box that morning and then off to Hawaii at the end of the week.	N
+627	627	627	00:35:33	00:35:36	So it was Laurel Trent who cleaned out her own jewelry box.	N
+628	628	628	00:35:36	00:35:40	Yeah. Murder was their wage, and jewelry was their tip.	N
+629	629	629	00:35:48	00:35:51	How's your hands?	N
+630	630	630	00:35:51	00:35:53	Sore.	N
+631	631	631	00:35:53	00:35:54	Document every single bill. Fun.	N
+632	632	632	00:35:54	00:35:56	I got to hand it to these casinos.	N
+633	633	633	00:35:56	00:35:58	They got it all figured out.	N
+634	634	634	00:35:58	00:36:01	What do you mean?	N
+635	635	635	00:36:01	00:36:03	Well, this is a $10,000 brick, right?	N
+636	636	636	00:36:03	00:36:04	Mm-hmm.	N
+637	637	637	00:36:04	00:36:10	I could either lose this in a hand of blackjack, or I could lose cranberry chip.	N
+638	638	638	00:36:10	00:36:12	What's worse?	N
+639	639	639	00:36:12	00:36:14	To me, losing's losing.	N
+640	640	640	00:36:17	00:36:19	Sara?	N
+641	641	641	00:36:19	00:36:23	I got a bloodstain.	N
+642	642	642	00:36:23	00:36:28	You know, the last time I checked, defacing government property was a federal offense.	N
+643	643	643	00:36:28	00:36:31	Not when it's logged in as property, Greg.	N
+644	644	644	00:36:31	00:36:33	The blood might be from a paper cut.	N
+645	645	645	00:36:33	00:36:35	Okay, but you're my witness.	N
+646	646	646	00:36:40	00:36:41	Run it against all our players.	N
+647	647	647	00:36:41	00:36:42	Uh-huh.	N
+648	648	648	00:36:42	00:36:45	I finished up on those still photos.	N
+649	649	649	00:36:45	00:36:48	The canteen around little Alex's neck...	N
+650	650	650	00:36:48	00:36:51	is really a set of binoculars.	N
+651	651	651	00:36:53	00:36:57	If you keep flipping, it tells the rest of the story.	N
+652	652	652	00:37:02	00:37:09	Now, call me crazy, but it looks like Daddy doesn't like the little man wearing the binoculars around his neck so much.	N
+653	653	653	00:37:09	00:37:12	I wonder why?	N
+654	654	654	00:37:40	00:37:42	What are you thinking?	N
+655	655	655	00:37:42	00:37:45	Stay right here until I call you.	N
+656	656	656	00:38:00	00:38:01	Yeah?	N
+657	657	657	00:38:01	00:38:05	Nick, would you move about halfway up the driveway?	N
+658	658	658	00:38:05	00:38:07	Back where Mike Trent was shot?	N
+659	659	659	00:38:07	00:38:09	Exactly.	N
+660	660	660	00:38:13	00:38:15	How's this? Can you see me here?	N
+661	661	661	00:38:16	00:38:18	No, I can't.	N
+662	662	662	00:38:18	00:38:19	Thank you.	N
+663	663	663	00:39:05	00:39:08	Jim? Gil.	N
+664	664	664	00:39:08	00:39:10	I'm fine. How are you?	N
+665	665	665	00:39:10	00:39:13	Would you put an APB out on Kyle Goode's vehicle, please?	N
+666	666	666	00:39:17	00:39:19	You recognize this?	N
+667	667	667	00:39:19	00:39:21	That's my kid.	N
+668	668	668	00:39:21	00:39:24	What's that around his neck?	N
+669	669	669	00:39:24	00:39:25	That's his binoculars.	N
+670	670	670	00:39:25	00:39:29	Yeah. Zeiss, 20x60, BSGA.	N
+671	671	671	00:39:29	00:39:32	4,500 a pop.	N
+672	672	672	00:39:32	00:39:33	You know how it is.	N
+673	673	673	00:39:33	00:39:36	You got your kid in the car, traveling a long distance.	N
+674	674	674	00:39:36	00:39:37	Whatever keeps them occupied.	N
+675	675	675	00:39:37	00:39:39	According to your son, he slept all the way to Laughlin.	N
+676	676	676	00:39:39	00:39:42	Kid falling asleep in a car on the way to his Grandma's house?	N
+677	677	677	00:39:42	00:39:45	You guys won't even make it through the courthouse door.	N
+678	678	678	00:39:45	00:39:46	Court.	N
+679	679	679	00:39:46	00:39:48	That's where the lawyers get fat.	N
+680	680	680	00:39:48	00:39:50	And you know all about that.	N
+681	681	681	00:39:51	00:39:55	I mean, you've got a lawsuit with your ex-business partner, and your ex-wife, who's suing you for past alimony...	N
+682	682	682	00:39:55	00:39:57	That's irrelevant.	N
+683	683	683	00:39:57	00:39:58	Not according to his wife it isn't.	N
+684	684	684	00:39:58	00:40:01	She gave us permission for a hair sample from your son.	N
+685	685	685	00:40:01	00:40:02	For what?	N
+686	686	686	00:40:02	00:40:06	The good thing about drugs-- they work their way through the bloodstream in the urine, but not the hair.	N
+687	687	687	00:40:06	00:40:13	Our lab found trace elements of Ambien, which is a hypnotic sleep sedative, in your son's hair root.	N
+688	688	688	00:40:13	00:40:16	Until we see the test results, we're withholding comment.	N
+689	689	689	00:40:16	00:40:19	No problem, counselor. Okay, moving on.	N
+690	690	690	00:40:19	00:40:23	The buy money, the 20K that we found on the two geniuses you hired?	N
+691	691	691	00:40:23	00:40:29	What geniuses? You know, the brothers, who are so cool and laid back, they're in the morgue.	N
+692	692	692	00:40:29	00:40:31	Oh, what? You didn't know they're dead?	N
+693	693	693	00:40:31	00:40:32	Yeah, they greased each other over the jewelry.	N
+694	694	694	00:40:32	00:40:35	And that wasn't even part of the deal in the first place, was it?	N
+695	695	695	00:40:40	00:40:43	Good help is hard to find, huh, Kyle?	N
+696	696	696	00:40:43	00:40:44	He's not answering that.	N
+697	697	697	00:40:44	00:40:47	I hated that son of a bitch.	N
+698	698	698	00:40:47	00:40:51	Mike Trent was a scumbag, worst of the worst.	N
+699	699	699	00:40:51	00:40:53	Use you up and blow right through you.	N
+700	700	700	00:40:53	00:40:55	I brought him in on my nickel.	N
+701	701	701	00:40:55	00:40:57	And he throws me out?	N
+702	702	702	00:40:57	00:41:00	Invests our money in clubs and kicks me out? To do what?	N
+703	703	703	00:41:00	00:41:02	To ride off into the sunset with my piece of sushi?	N
+704	704	704	00:41:02	00:41:04	And it's not just me.	N
+705	705	705	00:41:04	00:41:08	There's a lot guys out there got burned by him who wouldn't mind a little revenge.	N
+706	706	706	00:41:08	00:41:13	I'll even go so far as to say I'm not sorry he's dead, or rotting somewhere in some box.	N
+707	707	707	00:41:20	00:41:22	I didn't kill him.	N
+708	708	708	00:41:22	00:41:24	I'm not saying you did.	N
+709	709	709	00:41:24	00:41:26	Or his wife.	N
+710	710	710	00:41:26	00:41:29	But your $20,000 incentive pulled the trigger.	N
+711	711	711	00:41:29	00:41:33	And you know what-- you won't believe this-- a paper cut gave you away.	N
+712	712	712	00:41:33	00:41:35	...ten makes 20 large.	N
+713	713	713	00:41:37	00:41:40	When you do it, I want to see it.	N
+714	714	714	00:41:40	00:41:41	I'll be up here.	N
+715	715	715	00:41:41	00:41:45	We did the DNA test for the cigarette butt you left at the arcade.	N
+716	716	716	00:41:45	00:41:47	Plain view, right counselor?	N
+717	717	717	00:41:47	00:41:49	And we matched it to the blood we found on the money.	N
+718	718	718	00:41:49	00:41:51	He didn't hire two killers. He only hired me.	N
+719	719	719	00:41:51	00:41:53	Yeah, well, lawsuits take a while.	N
+720	720	720	00:41:53	00:41:56	I don't think you cared about a verdict anyway, did you, Kyle?	N
+721	721	721	00:41:56	00:41:59	You wanted much more than that.	N
+722	722	722	00:42:09	00:42:12	God...	N
+723	723	723	00:42:17	00:42:19	No!	N
+724	724	724	00:42:22	00:42:26	My client was with his son all day that day.	N
+725	725	725	00:42:27	00:42:28	Yeah, that's where he screwed up.	N
+726	726	726	00:42:28	00:42:32	Your hatred of Trent was stronger than your love for your own child.	N
+727	727	727	00:42:32	00:42:38	You drugged your son so you could use him as an alibi.	N
+728	728	728	00:42:38	00:42:42	And that's all a jury's going to need to hear to convict you.	N
+729	729	729	00:42:42	00:42:44	Kyle Goode, you've been bad.	N
+730	730	730	00:42:44	00:42:47	You're under arrest.	N
+731	731	731	00:42:57	00:42:58	Oh... you're still here.	N
+732	732	732	00:42:58	00:43:02	Uh... ( clears throat ) so I'm leaving.	N
+733	733	733	00:43:02	00:43:03	Need anything?	N
+734	734	734	00:43:03	00:43:05	No, I'm good.	N
+735	735	735	00:43:06	00:43:07	Are we good?	N
+736	736	736	00:43:10	00:43:12	We'll be fine.	N
+737	737	737	00:43:12	00:43:14	Okay.	N
+738	738	738	00:43:14	00:43:15	I'll see you tomorrow.	N
+739	739	739	00:43:15	00:43:17	Going out?	N
+740	740	740	00:43:19	00:43:23	I've got some unfinished business to take care of.	N
+741	741	741	00:43:23	00:43:26	I'll see you.	N
