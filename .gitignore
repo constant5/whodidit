@@ -2,5 +2,9 @@ hulusubs_dl.exe
 venv/
 .config
 .cookie
+<<<<<<< HEAD
 .vscode/
 model/
+=======
+.vscode/
+>>>>>>> 1993aad06c7d2ce60666f1af439636fe1ac65adf

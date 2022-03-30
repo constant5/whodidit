@@ -22,6 +22,10 @@ next steps
 
 Resources
 1. https://www.tensorflow.org/text/tutorials/fine_tune_bert
+<<<<<<< HEAD
 2. testing body commit
+=======
+2. testting body commit
+>>>>>>> 1993aad06c7d2ce60666f1af439636fe1ac65adf
 
 
