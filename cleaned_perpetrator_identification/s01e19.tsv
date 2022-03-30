@@ -1,0 +1,710 @@
+	sentence	killer_gold	medion_time
+0	no	N	00:01:14.618
+1	excuse me	N	00:01:36.636
+2	my name 's gilgrissom	N	00:01:37.888
+3	i 'm with the lasvegas crime lab	N	00:01:39.264
+4	please help us	N	00:01:40.748
+5	i 'll certainly try	N	00:01:42.164
+6	is that the ransom note	N	00:01:47.339
+7	yeah	N	00:01:49.167
+8	they do n't even say how much money they want	N	00:01:50.941
+9	they just say that they 'll call us in six hours	N	00:01:53.495
+10	have you let anyone else touch this note	N	00:01:55.089
+11	i have your son	N	00:01:55.102
+12	i do n't want to harm him	N	00:01:55.114
+13	do n't make me	N	00:01:55.127
+14	i 'll call in six hours with instructions	N	00:01:55.139
+15	i advise you not to call the police	N	00:01:55.152
+16	police a relative anyone	Y	00:01:56.655
+17	n-no just us	N	00:01:58.716
+18	why	N	00:02:09.757
+19	well because the person who touched it before you has your son and he 's just left us the first piece of the puzzle	N	00:02:30.712
+20	jim dispatch said this is a kidnapping	N	00:02:41.268
+21	divorce situation	N	00:02:41.908
+22	no papers filed	N	00:02:43.165
+23	college sweethearts	N	00:02:44.698
+24	neighbors say they 're the salt of the earth	N	00:02:46.336
+25	so this could have been legitimate	N	00:02:47.765
+26	they have a security system	N	00:02:48.815
+27	but they never put it on	N	00:02:49.865
+28	they say how come	N	00:02:51.093
+29	they feel safe in the neighborhood	N	00:02:52.818
+30	check the premises	N	00:02:54.618
+31	attic wine cellar crawl space	N	00:02:56.239
+32	no four-month-old baby	N	00:02:57.917
+33	nice digs	N	00:03:02.396
+34	yeah guy got rich off some dot-com outfit	N	00:03:03.659
+35	moved here from oregon two years ago	N	00:03:05.058
+36	bet they wished they had n't today	N	00:03:06.898
+37	are you sure he wo n't hear a click or something	N	00:03:09.057
+38	he wo n't	N	00:03:10.946
+39	and if he asks you and your wife are alone	N	00:03:12.522
+40	question him about your son	N	00:03:14.128
+41	ask to hear him breathing	N	00:03:15.584
+42	anything to keep the guy talking	N	00:03:17.298
+43	understood	N	00:03:19.218
+44	i do n't know	N	00:03:20.226
+45	yeah yeah	N	00:03:21.195
+46	okay	N	00:03:22.967
+47	built my own business	N	00:03:23.899
+48	i can handle any kind of pressure	N	00:03:25.219
+49	was this yours	N	00:03:30.597
+50	yeah	N	00:03:33.137
+51	may i ask when you opened it	N	00:03:35.114
+52	i do n't know	N	00:03:36.959
+53	um sometime after we called 911	N	00:03:38.637
+54	you mind if i uh	N	00:03:43.208
+55	no	N	00:03:44.186
+56	go ahead	N	00:03:45.737
+57	you have any more of these	N	00:04:01.356
+58	in the fridge	N	00:04:03.035
+59	thanks	N	00:04:05.017
+60	do my boys have to be here	Y	00:04:08.996
+61	i think this is hard enough for them without having to hear the facts	Y	00:04:11.232
+62	i understand but it 's best for our investigation if we keep the whole family together	Y	00:04:13.696
+63	it 's okay mom	N	00:04:16.034
+64	you were saying mrs anderson	N	00:04:17.899
+65	um	N	00:04:19.236
+66	i got up at 4:30 like i usually do to feed zack	N	00:04:21.375
+67	i 'm still breast-feeding	N	00:04:25.855
+68	and i went down to zacky 's room	N	00:04:28.377
+69	i looked in his crib and he was gone	N	00:04:29.973
+70	he was n't there	N	00:04:32.118
+71	and i felt around for him and that 's when i found the letter saying that he had been taken and i	N	00:04:35.997
+72	i do n't know	N	00:04:38.849
+73	i-i think i screamed	N	00:04:39.827
+74	you screamed mom	N	00:04:42.298
+75	i jumped out of bed and i went to her and that 's when we called 9-1-1 from the upstairs hallway	N	00:04:46.675
+76	nine-1-1-1	N	00:04:50.978
+77	give me the phone robbie	Y	00:04:53.208
+78	give me the phone	N	00:04:53.948
+79	we 're going to need a piece of the baby 's clothing	N	00:04:55.496
+80	something from his hamper if possible	N	00:04:57.738
+81	we 're going to use scent dogs throughout the neighborhood	N	00:05:00.136
+82	i 'll go see what i can find	N	00:05:02.538
+83	no i know what he wears	N	00:05:04.339
+84	i 'll go with you	N	00:05:06.176
+85	i 'd also like to get blood samples from each family member	Y	00:05:12.656
+86	why	N	00:05:14.757
+87	well the sooner we can eliminate the expected hairs and fibers from within the household we can begin looking for outsiders	N	00:05:19.036
+88	is it going to hurt	N	00:05:22.036
+89	i hope not	N	00:05:24.795
+90	sara	N	00:05:27.096
+91	yeah	N	00:05:37.348
+92	take this ransom note to q.d	N	00:05:38.366
+93	typewritten ransom note	N	00:05:39.727
+94	kidnapper was organized	N	00:05:41.263
+95	i think it 's ink-jet not typewriter	N	00:05:43.337
+96	i 'll get it to questioned documents check for origination prints the works	N	00:05:45.771
+97	take every computer and printer from the anderson house with you	N	00:05:48.455
+98	you think the suspect printed the ransom note from inside the house while they were sleeping	Y	00:05:51.478
+99	i 'm not thinking anything yet	N	00:05:54.098
+100	nick	N	00:05:57.037
+101	yo	N	00:05:58.276
+102	no thanks i 'm an iced tea man	N	00:05:59.916
+103	it 's not a refreshment	N	00:06:01.555
+104	it 's an experiment	N	00:06:03.648
+105	take this to the lab in a controlled space 72 degrees fahrenheit and open it	N	00:06:06.306
+106	keep this in the same room-temp space	N	00:06:08.914
+107	okay then what	N	00:06:11.075
+108	process nick	N	00:06:13.018
+109	process	N	00:06:18.055
+110	baby 's bedroom window is open and the ladder 's still out there	N	00:06:19.657
+111	so canvass the whole grounds from outside to in	N	00:06:20.897
+112	i 'm all over it like a cheap suit	N	00:06:23.177
+113	hey grissom	N	00:06:26.259
+114	we have the smell dogs set up for you	N	00:06:27.579
+115	you see this spiderweb	N	00:07:11.796
+116	damn warrick	N	00:07:13.099
+117	i 'm sorry	N	00:07:14.488
+118	your ticker okay	N	00:07:15.626
+119	what spiderweb	N	00:07:19.157
+120	right here	N	00:07:20.897
+121	kind of hard to get a baby out of a window climb onto a ladder without messing up this web do n't you think	N	00:07:25.077
+122	well it could have happened after the abduction	N	00:07:29.296
+123	spiders can build one of these things in a few hours	N	00:07:32.039
+124	warrick	N	00:07:44.436
+125	what are you doing	N	00:07:45.756
+126	go around	N	00:07:48.214
+127	oh you 're right on the golf course	N	00:08:04.297
+128	that must be nice	N	00:08:06.338
+129	steve likes it	N	00:08:08.536
+130	i never cared for the game	N	00:08:13.876
+131	that one 's my favorite but zacky he uh he liked another one	N	00:08:16.417
+132	here it is	N	00:08:20.178
+133	there 's a little spit-up on it	N	00:08:24.937
+134	he liked the way the fabric felt on his skin	N	00:08:28.136
+135	oh god	N	00:08:37.657
+136	it 's okay	N	00:08:39.977
+137	it used to happen to me with my daughter if i did n't get to her right on time	N	00:08:42.491
+138	i ca n't believe this is happening to us	Y	00:08:45.159
+139	i 'll get this to our guys	N	00:08:50.136
+140	what you got	N	00:09:04.617
+141	two hairs separate and distinctive	N	00:09:07.453
+142	ah	N	00:09:09.809
+143	the plot thickens	N	00:09:10.787
+144	you smell something	N	00:09:21.818
+145	i smell these dirty diapers over here	N	00:09:25.314
+146	it 's like a household cleanser	N	00:09:31.388
+147	there 's a pine smell	N	00:09:32.724
+148	probably used to clean that diaper pail	N	00:09:34.498
+149	no it 's stronger than that	N	00:09:36.578
+150	it 's emanating from this specific spot	N	00:09:40.674
+151	baby was killed before it even left the house	N	00:10:10.536
+152	guy tried to cover his tracks	N	00:10:12.898
+153	what do you mean you have n't checked for prints	N	00:10:17.167
+154	it 's a ransom letter	N	00:10:18.783
+155	everything in the proper order	N	00:10:20.418
+156	you know that	N	00:10:21.948
+157	i got five other tests i got to run on this paper before i try to isolate prints	N	00:10:23.364
+158	you got anything for me	N	00:10:24.437
+159	yeah	N	00:10:24.995
+160	the paper 's expensive	N	00:10:26.000
+161	high rag count	N	00:10:27.280
+162	i could have told you that	N	00:10:28.659
+163	can you explain these three small vertical dots	N	00:10:30.576
+164	what	N	00:10:32.357
+165	where	N	00:10:34.167
+166	the printer that emitted this letter has a spot on the drum	N	00:10:36.582
+167	a drum goes around three times to print one page	N	00:10:40.278
+168	so if the andersons printer was used	Y	00:10:46.577
+169	there 'd be three small dots on any paper that comes out	N	00:10:51.476
+170	no vertical dots	N	00:10:55.178
+171	and different paper than the ransom letter f.y.i	N	00:10:56.795
+172	yeah this mold i made of that shoe print matches the gardener 's boot that i found in the shed over there	N	00:11:03.117
+173	yeah well we need to look for what 's out of place	N	00:11:06.998
+174	and a gardener 's boot in a garden is not out of place	N	00:11:10.935
+175	well the andersons did say the guy 's been out of town on vacation for the last three days	N	00:11:14.778
+176	grissom	N	00:11:18.477
+177	ransom note 's not from the anderson 's printer or paper supply	Y	00:11:20.455
+178	you 're breaking up	N	00:11:22.600
+179	the andersons are clear	Y	00:11:23.880
+180	whoever wrote the letter did it from a different location and brought it with them	N	00:11:26.596
+181	are you standing next to the copy machine outside ballistics	N	00:11:30.078
+182	you want me to check ballistics	N	00:11:31.928
+183	no	N	00:11:32.668
+184	i want you to move away from that machine	N	00:11:34.576
+185	look check all the printers at steveanderson 's company	N	00:11:38.179
+186	get q.d	N	00:11:40.305
+187	to help you with a warrant	N	00:11:41.474
+188	target all immediate coworkers and disgruntled employees first	N	00:11:45.177
+189	are those our dogs	N	00:11:49.835
+190	grissom	N	00:11:51.294
+191	grissom	N	00:11:51.294
+192	get those dogs back	N	00:12:07.893
+193	get them back	N	00:12:09.339
+194	stand back	N	00:12:23.156
+195	we got to have pictures	N	00:12:24.366
+196	the coroner will be all over us	N	00:12:25.659
+197	i 'll get the pictures	N	00:12:26.952
+198	i 'm going to take him	N	00:12:50.276
+199	my baby	N	00:13:06.075
+200	oh my god	N	00:13:08.137
+201	it 's my baby	N	00:13:10.059
+202	my baby	N	00:13:18.257
+203	my baby	N	00:13:18.257
+204	the andersons who own a profitable internet company in lasvegas are said to be devastated by the death of little zachary	Y	00:13:39.396
+205	as for leads the police will only say they have widened the investigation to include employees of steveanderson 's company	N	00:13:43.698
+206	immediate coworkers are being asked to give dna samples	N	00:13:51.317
+207	by all accounts the employees are complying voluntarily	N	00:13:54.597
+208	one of them is quoted as saying anything to help mr and mrs anderson in their time of grief	N	00:13:59.498
+209	i ca n't give you exact time of death but i do know cause of death was asphyxiation	N	00:14:06.417
+210	he was smothered	N	00:14:10.677
+211	the retinal hemorrhages are the result of intercranial pressure from an edema	N	00:14:13.299
+212	the edema was caused by an acute lack of oxygen	N	00:14:17.436
+213	smothered how	N	00:14:20.315
+214	did you find hand marks	N	00:14:21.996
+215	trauma around the mouth or nose	N	00:14:23.857
+216	no	N	00:14:25.897
+217	he was in a blanket when i found him wrapped pretty tight	N	00:14:29.835
+218	positional asphyxiation	N	00:14:33.159
+219	maybe	N	00:14:35.218
+220	abductor might 've tried to protect him from the cold	N	00:14:36.538
+221	suffocated him by mistake	N	00:14:38.638
+222	i 'm going to run tests on a microscopic fiber i found in his throat	N	00:14:41.777
+223	but i do n't think his death was benign gil	N	00:14:46.717
+224	or accidental	N	00:14:48.555
+225	sternum was cracked	N	00:14:50.517
+226	x rays say the fracture is fresh	N	00:14:52.434
+227	manhandled and suffocated	N	00:14:54.555
+228	this little guy did n't have a chance	N	00:14:58.257
+229	are those from anderson 's company	N	00:15:05.475
+230	yeah	N	00:15:06.999
+231	there 's like 200 of them in that place	N	00:15:08.277
+232	i 'm going to test them against the ransom note one by one	N	00:15:09.555
+233	you got homicide 's list of disgruntled employees	N	00:15:11.433
+234	not yet	N	00:15:14.117
+235	they 're still working on it	N	00:15:16.993
+236	you call homicide back and tell them to get us that list now	N	00:15:19.869
+237	hey	N	00:15:21.345
+238	hey	N	00:15:21.375
+239	where are we on those dna samples	N	00:15:21.391
+240	i got the hair samples from the baby 's crib ready for comparison	N	00:15:23.236
+241	yeah	N	00:15:25.707
+242	so answer my question	N	00:15:26.805
+243	well dna 's jammed	N	00:15:28.418
+244	sanders says he 'll get to the blood comparisons	N	00:15:31.158
+245	as soon as	N	00:15:34.978
+246	i hear you 're backlogged	N	00:15:37.819
+247	twenty unknowns from some drug shoot-out	N	00:15:40.198
+248	fbi special request	N	00:15:42.837
+249	sheriff told me to clear it off my counter before i do anything else	N	00:15:44.754
+250	these	N	00:15:47.356
+251	yeah	N	00:15:48.548
+252	you can almost smell quantico you know	N	00:15:49.646
+253	there	N	00:15:59.468
+254	now they 're off your counter	N	00:16:00.725
+255	zacharyanderson dob 01-23-01	N	00:16:04.718
+256	date of death three hours ago	N	00:16:07.799
+257	until we find out how and why	N	00:16:10.074
+258	this is the only case you work on	N	00:16:15.018
+259	yes sir	N	00:16:16.334
+260	never seen him like this before	N	00:16:19.375
+261	grissom	N	00:16:21.458
+262	what	N	00:16:22.837
+263	you told me a few weeks ago that nothing is personal	N	00:16:25.658
+264	no victim should be special	N	00:16:28.357
+265	everyone follows your lead	N	00:16:31.056
+266	everyone did n't find that baby	N	00:16:34.433
+267	i did	N	00:16:36.307
+268	and that little boy is dead because someone lost their temper or screwed up or god knows what	N	00:16:37.564
+269	so excuse me but this victim is special	N	00:16:40.554
+270	mr and mrs anderson are calling	N	00:16:45.758
+271	they want to know why you refuse to release the body for burial	N	00:16:47.834
+272	they said that you gave the coroner strict instructions	N	00:16:50.575
+273	you better drive	N	00:16:53.877
+274	sure	N	00:16:55.515
+275	i 'm very sorry but we have to preserve the evidence in a case like this	N	00:17:00.798
+276	and as difficult as this sounds zachary is evidence	N	00:17:03.595
+277	we need to refer to him as the case unfolds	N	00:17:07.479
+278	well do you have any leads	N	00:17:08.997
+279	any idea who did this	N	00:17:11.016
+280	your child was found five hundred yards from your back door in clean clothes wrapped in a white blanket laid carefully under a statuary	N	00:17:15.918
+281	a stranger would n't treat a victim like that	N	00:17:21.318
+282	you think we had something to do with this	Y	00:17:24.216
+283	the fbi tells us that you never received a call from the abductor	N	00:17:26.116
+284	what kind of a kidnapper forgets to call the family	Y	00:17:30.598
+285	a wealthy family	Y	00:17:34.268
+286	my lawyer warned me that you were going to try this	N	00:17:35.366
+287	you do n't have a suspect so now you 're going to come after us	Y	00:17:37.854
+288	but you have nothing to hide	N	00:17:40.396
+289	you 're damn right we do n't	Y	00:17:41.590
+290	i thought i 'd deliver this in person	N	00:17:45.319
+291	dna came back on the entire family	Y	00:17:47.675
+292	the blood we found in the baby 's room	N	00:17:57.117
+293	it belongs to your son tyler	N	00:17:59.458
+294	i was playing ball in the backyard and i cracked zacky 's window	N	00:18:06.093
+295	dad had told me not to hit the ball towards the house	N	00:18:10.753
+296	so i went up and replaced the window before anyone got home and i cut my finger on the glass	N	00:18:14.957
+297	and you wiped up the blood with some type of pine cleanser	N	00:18:20.156
+298	i thought i got it all	N	00:18:23.315
+299	let 's go back a second tyler	N	00:18:25.297
+300	you said that you baby-sat for robbie and zack last night right	Y	00:18:28.196
+301	i told the police that this morning	N	00:18:31.438
+302	we had a homeowner 's association vote meeting	N	00:18:33.914
+303	it was just five doors up from our house	N	00:18:36.296
+304	i had uh	N	00:18:38.568
+305	i had made dinner and then steve and i walked up to the clubhouse	N	00:18:40.508
+306	we were gone maybe 30 minutes until 9:00	N	00:18:42.895
+307	we contacted the association	N	00:18:44.987
+308	the story checks out	N	00:18:46.323
+309	i also did a background search	N	00:18:48.128
+310	tyler has quite a temper on him do n't you ty	N	00:18:50.227
+311	what	N	00:18:51.836
+312	you were expelled from school twice last year for physical altercation	N	00:18:54.038
+313	that was schoolyard stuff	N	00:18:56.817
+314	beat up a 12-year-old in the school stairwell	N	00:18:59.717
+315	he made fun of my mother	N	00:19:02.235
+316	i was n't going to let him get away with that	N	00:19:05.635
+317	your brother zack say something you did n't like you were n't going to let him get away with either	N	00:19:09.295
+318	do n't talk about my brother that way you bastard	N	00:19:12.104
+319	sit down	N	00:19:12.148
+320	now	N	00:19:12.939
+321	he 's uh he 's upset	N	00:19:15.527
+322	he is not usually like this	N	00:19:17.063
+323	people are calling us killers	Y	00:19:21.739
+324	and i miss my little brother	N	00:19:26.657
+325	that still does n't mean you did n't kill him	N	00:19:29.319
+326	so what are we looking for	N	00:19:40.858
+327	i do n't know	N	00:19:43.858
+328	well let 's start up and work our way down	N	00:19:46.097
+329	here 's the father 's bottle of cola here 's the unknown	N	00:21:16.973
+330	i duplicated conditions and monitored the pressure that escaped from the father 's bottle which he told you had been open two hours against one i know was open two hours	N	00:21:23.015
+331	kept this log	N	00:21:27.694
+332	pressure released every quarter hour	N	00:21:29.775
+333	good nick	N	00:21:35.636
+334	did you find any ethanol on the lip of that bottle	N	00:21:41.378
+335	well i 've got trace running tests now but i did an unscientific whiff test	N	00:21:44.696
+336	picked up a hint of some kind of booze	N	00:21:48.248
+337	call me when you get the results	N	00:21:49.619
+338	see if they can find out what this green substance is on these nylons i found in mr anderson 's closet	N	00:21:53.034
+339	i 'll take a swatch get it back to you asap	N	00:21:56.795
+340	the mother 's prints the father 's prints and a set of unknowns	N	00:22:04.178
+341	they 're not unknown	N	00:22:08.858
+342	i ran them against the employees of steveanderson 's computer company disgruntled and otherwise	N	00:22:11.837
+343	they belong to a needrafenway	N	00:22:16.074
+344	and who is needrafenway	N	00:22:20.458
+345	steve 's secretary	N	00:22:22.753
+346	so of course i checked out her printer	N	00:22:27.195
+347	as i 'm sure you know all printers have their own unique signature	N	00:22:30.857
+348	these three tiny vertical dots from needra 's printer match the ransom note perfectly	N	00:22:42.797
+349	thank you	N	00:22:54.397
+350	thank you for coming in	N	00:22:55.432
+351	anything i can do to help	N	00:22:58.037
+352	you know it 's it 's just terrible what happened	N	00:22:59.954
+353	maybe you can explain why your printer was used to create the ransom note found in the anderson home	N	00:23:03.596
+354	what	N	00:23:06.813
+355	we have evidence that this came from your printer	N	00:23:08.816
+356	there are 500 people who work in that office	N	00:23:11.388
+357	anyone could have used my printer	N	00:23:13.606
+358	we also found a strand of hair	N	00:23:16.118
+359	our lab has matched it to you	N	00:23:19.055
+360	from the anderson home	N	00:23:21.339
+361	i 'm steven 's secretary	N	00:23:22.994
+362	i go there	N	00:23:24.509
+363	do you go upstairs	N	00:23:25.527
+364	cause that 's where we found this particular hair	N	00:23:27.535
+365	you two were having an affair	N	00:23:31.995
+366	we ended it	N	00:23:33.898
+367	because his wife got pregnant	N	00:23:35.515
+368	i 'm not going down this road	N	00:23:37.037
+369	what	N	00:23:38.395
+370	a new baby screw up the office romance	N	00:23:39.753
+371	it was more than just an office romance okay	N	00:23:40.991
+372	much more	N	00:23:41.935
+373	yeah	N	00:23:42.879
+374	well a lot of women would understand if you went over there and got rid of that baby	N	00:23:46.515
+375	sure	N	00:23:49.213
+376	quickest way to end a guy 's marriage	N	00:23:51.279
+377	okay i need a lawyer	N	00:23:53.285
+378	is that it	N	00:23:54.415
+379	is that what you 're saying here	N	00:23:55.545
+380	are these your nylons	N	00:24:02.737
+381	i found these hidden in the back of mr anderson 's closet	N	00:24:05.993
+382	so did you come to him after you disposed of the baby and ask him to hide them for you	N	00:24:09.133
+383	talk to steve	N	00:24:12.193
+384	steve asked her to get out from underneath the obligation of a newborn	N	00:24:17.775
+385	geez	N	00:24:20.473
+386	have n't these people ever heard of divorce	N	00:24:26.496
+387	needra did n't kill zack any more than i did	N	00:24:27.905
+388	how do you explain her hair in the baby 's crib	N	00:24:29.154
+389	we broke up the day that i learned that gwen was pregnant with zack	N	00:24:39.295
+390	i love needra but i love my family more	Y	00:24:43.196
+391	needra asked if she could see zack after he was born to help her kind of accept the reality	N	00:24:47.633
+392	so i had her in last saturday to watch him sleep	N	00:24:52.337
+393	gwen had the kids at skating	Y	00:24:59.838
+394	needra was out of the house in 15 minutes	N	00:25:01.277
+395	you do n't believe me	N	00:25:06.813
+396	you 've lied to me before	N	00:25:08.014
+397	about what	N	00:25:09.396
+398	you told me that you opened that cola bottle the morning you reported zack missing	N	00:25:11.616
+399	we had a test done	N	00:25:14.058
+400	you opened that bottle six hours before you said you did the night before somewhere around 11:00 p.m	N	00:25:18.118
+401	the lab is still testing it	N	00:25:22.146
+402	i also believe that you cut it with alcohol	N	00:25:23.881
+403	rum and cola	N	00:25:25.387
+404	what does that prove	N	00:25:26.485
+405	was needrafenway in your house that night	N	00:25:28.097
+406	did you catch her suffocating your son	N	00:25:30.053
+407	what are you doing	N	00:25:32.456
+408	what have you done	N	00:25:34.336
+409	that 's not how it happened	N	00:25:36.154
+410	well why do n't you tell me how it happened	N	00:25:38.394
+411	robbie what did you do	Y	00:25:41.435
+412	i 'm sorry i 'm sorry	Y	00:25:43.147
+413	all right i heard you	Y	00:25:44.325
+414	do we have to have this conversation right now	N	00:25:47.319
+415	mr anderson	N	00:25:49.091
+416	what	N	00:25:49.834
+417	yeah	N	00:25:50.577
+418	i 'm from the lasvegas post	N	00:25:53.546
+419	how do you feel about these pictures your secretary sold to the midnight informer this afternoon	N	00:25:58.562
+420	where did you get these	N	00:26:01.115
+421	the tabloid 's web site	N	00:26:01.145
+422	needra sold them to pay for her legal fees	N	00:26:02.559
+423	mr anderson	N	00:26:08.957
+424	my only comment is that i love my wife very much	N	00:26:16.157
+425	excuse me	N	00:26:23.528
+426	i 'm from the lasvegas post	N	00:26:25.593
+427	can i ask you a few questions	N	00:26:28.154
+428	no	N	00:26:34.673
+429	a wife kills her baby to get back at her husband over his affair	N	00:26:41.678
+430	come on	N	00:26:44.279
+431	any woman would go after the husband not the baby	N	00:26:45.877
+432	true	N	00:26:48.188
+433	but in some instances women have been known to kill their children as a way to pay back a spouse	N	00:26:51.046
+434	particularly if it 's over an affair and particularly if the child was a male child	N	00:26:55.215
+435	well i do n't buy it	N	00:26:58.638
+436	i just do n't buy it doctor	N	00:26:59.996
+437	she really loved that baby	N	00:27:01.354
+438	well catherine that 's why she 's in this much pain now	N	00:27:03.655
+439	a guy cheats but the wife commits murder	N	00:27:06.513
+440	how come moms always end up the bad guy with you freud types	N	00:27:09.733
+441	that 's because this mother is the bad guy	N	00:27:13.096
+442	cnn just dug up a 13-year-old charge against gwenanderson	N	00:27:15.577
+443	i heard it on the car radio	N	00:27:17.613
+444	what kind of charge	N	00:27:19.519
+445	it 's called shaken baby syndrome	N	00:27:21.117
+446	the oldest boy tyler	N	00:27:22.756
+447	when he was a newborn she shook him so hard they had to go to the hospital	N	00:27:25.334
+448	she shook the kid unconscious	N	00:27:28.138
+449	is this authentic	N	00:27:29.657
+450	yeah	N	00:27:30.573
+451	they were on the phone with the arresting officer from oregon	N	00:27:32.197
+452	he faxed me this report	N	00:27:34.353
+453	our grieving mother her record for child abuse	N	00:27:36.838
+454	baby killer	N	00:27:41.225
+455	you should die	N	00:27:41.634
+456	female parent you call yourself a mother	N	00:27:43.437
+457	female parent you 're the worst	N	00:27:57.536
+458	male parent someone should take those other kids from you	Y	00:28:00.932
+459	did you kill zachary over your husband 's affair	N	00:28:03.308
+460	did you act alone or did tyler help	N	00:28:03.761
+461	baby killer	N	00:28:04.213
+462	bitch	N	00:28:04.625
+463	killer	N	00:28:04.997
+464	you deserve to die	N	00:28:05.369
+465	gilgrissom	N	00:28:05.607
+466	you found the baby	N	00:28:06.459
+467	how hard is it for you to look at gwenanderson	N	00:28:08.097
+468	let me tell you something	N	00:28:09.807
+469	people are presumed innocent innocent until a court of law can examine all the evidence and prove otherwise	N	00:28:11.423
+470	until then everything else is gossip	N	00:28:14.617
+471	she deserves to be put in jail	N	00:28:17.978
+472	reporter gilgrissom	N	00:28:21.257
+473	gilgrissom	N	00:28:23.435
+474	ice	N	00:28:25.756
+475	i do n't need this	N	00:28:27.297
+476	just do it	N	00:28:30.452
+477	that was quite a speech you made out there but between you me and the water fountain you think that gwenanderson 's innocent	N	00:28:35.115
+478	what	N	00:28:40.211
+479	are you changing teams now	N	00:28:41.515
+480	you 've been her biggest supporter	N	00:28:42.819
+481	i still am	N	00:28:44.537
+482	i 'm just taking your temperature	N	00:28:46.577
+483	hey	N	00:28:50.555
+484	we 're up	N	00:28:52.058
+485	you did n't answer my question	N	00:28:55.697
+486	you 're right	N	00:28:57.169
+487	i did n't	N	00:28:58.147
+488	i never meant to hurt tyler	N	00:29:00.547
+489	you have to understand	N	00:29:01.963
+490	you shook him unconscious	N	00:29:03.578
+491	he was choking	N	00:29:04.957
+492	all on his own	N	00:29:06.093
+493	change your tone or i 'll end this right now	N	00:29:08.056
+494	well it 's a legitimate question	N	00:29:10.418
+495	but i have to work on my tone	N	00:29:12.919
+496	you 're right	N	00:29:15.116
+497	i 'll try again all on his own	N	00:29:17.917
+498	go ahead mrs anderson	N	00:29:20.994
+499	he had gotten food in his windpipe	N	00:29:23.558
+500	his face was turning red	N	00:29:26.679
+501	steve was at work	N	00:29:29.537
+502	so i i patted him on his back and-and on and on his stomach	N	00:29:35.374
+503	and finally i turned him upside down and i started shaking him to get the food out to to dislodge it and i did	N	00:29:37.374
+504	but i realized that i had hurt him so i called 911	N	00:29:41.837
+505	she was a new mother 23 years old	N	00:29:44.857
+506	if she 'd meant to harm her son why would she call 911	N	00:29:47.598
+507	did the e.r	N	00:29:50.226
+508	find proof that there was food lodged in tyler 's throat	N	00:29:52.040
+509	no	N	00:29:54.438
+510	that 's why the police were called in and by the time my client went home and found the chewed food on the kitchen floor it was all too late	N	00:29:58.674
+511	she was branded	N	00:30:02.156
+512	it was a french fry	N	00:30:03.508
+513	he 'd grabbed it from my plate	N	00:30:04.765
+514	as for the death of little zachary my client categorically denies any involvement	N	00:30:08.654
+515	she 's a victim of an intruder who entered her home and abducted and killed her child	N	00:30:14.838
+516	thank you all for your continued efforts to find the real killer	N	00:30:21.095
+517	did you know that your golf course paints its grass	N	00:30:23.656
+518	excuse me	N	00:30:26.017
+519	it 's actually a vegetable dye	N	00:30:27.939
+520	biodegradable	N	00:30:29.338
+521	they 've been using green dye on television tournaments for several years	N	00:30:33.055
+522	what 's your point	N	00:30:35.133
+523	i found a pair of nylons in the back of your husband 's closet	N	00:30:37.374
+524	we uh we have a receipt that links them to your client	N	00:30:42.557
+525	the exact same dye from the golf course where zachary was laid to rest is on your nylons	N	00:30:47.495
+526	she belongs to the club	N	00:30:53.179
+527	grass stains	N	00:30:54.578
+528	but she does n't play golf	N	00:30:56.155
+529	remember our conversation mrs anderson	N	00:30:57.977
+530	it 's not your game	N	00:30:59.854
+531	if you arrest her now you have 48 hours to charge her	N	00:31:05.159
+532	you really want to show your hand at the arraignment	N	00:31:06.598
+533	we 'll be in touch	N	00:31:08.458
+534	look	N	00:31:10.227
+535	robbieanderson mommy i want my mommy	Y	00:31:11.484
+536	hey	N	00:31:17.418
+537	can we just go please	Y	00:31:19.138
+538	tyleranderson what 's going on	N	00:31:21.616
+539	did you see that	N	00:31:23.955
+540	a mother repelled by her young	Y	00:31:26.199
+541	she did n't seem like that type to me	N	00:31:28.577
+542	all right okay	N	00:31:32.057
+543	here go to your brother	Y	00:31:33.793
+544	i 'll catch you later	N	00:31:35.342
+545	i want to hear that 911 tape	N	00:31:35.552
+546	hi	N	00:31:36.568
+547	hey	N	00:31:37.546
+548	grissom	N	00:31:39.296
+549	the coroner 's been trying to reach you	N	00:31:40.537
+550	did he nail time of death	N	00:31:41.497
+551	9:00 p.m but uh there 's something else	N	00:31:43.374
+552	he isolated the fiber found in zacharyanderson 's throat	N	00:31:45.998
+553	it 's a flame-retardant material generic name 's metaramid	N	00:31:48.857
+554	from the baby 's clothes	N	00:31:50.756
+555	fire-retardant infant 's clothes are made out of vinyon	N	00:31:53.055
+556	the fiber found in zack 's throat is a stronger chemical treatment	N	00:31:56.176
+557	it 's found in things that are made to be near fire and flames	N	00:32:01.314
+558	hey can i go with you	N	00:32:11.785
+559	same color as the fiber in zack 's throat	N	00:32:38.779
+560	okay this is the 911 call from the anderson house at 4:30 a.m	N	00:32:45.134
+561	our baby has been kidnapped	N	00:32:48.936
+562	493 fairmark	N	00:32:50.848
+563	please hurry	N	00:32:52.224
+564	mrs anderson was n't there	N	00:32:54.519
+565	you would n't think so but i went ahead and separated out any underlying voices	N	00:32:57.557
+566	what are we going to do	N	00:33:00.744
+567	she was standing like two meters from the phone	N	00:33:03.246
+568	yeah well it 's a legitimate comment	N	00:33:04.747
+569	does n't make her guilty of anything	N	00:33:06.323
+570	i know so i checked to see if she was like faking her concern	N	00:33:07.774
+571	this program measures the stress level of the speakers	N	00:33:09.594
+572	oh god what are we going to do	N	00:33:12.955
+573	the stress is real	N	00:33:19.515
+574	are you familiar with the jonbenet case	N	00:33:21.874
+575	a little	N	00:33:24.076
+576	well the police went back and they found an earlier call that was placed from the home to 911 and the audio tests separated out the son 's voice	N	00:33:28.856
+577	now i 'm not saying that tyler 's our guy but we need to check into every avenue	N	00:33:36.997
+578	well i did backtrack and there were no other calls that night from the anderson house from the land line or from the cell phone	N	00:33:42.678
+579	in the parents name but did you look under tyler s	N	00:33:46.718
+580	i mean a rich kid like that 's probably got a cell phone	N	00:33:49.576
+581	yeah	N	00:33:51.978
+582	all right i 'll get into it	N	00:33:53.755
+583	hello	N	00:33:56.592
+584	anderson 's attorney	N	00:33:57.297
+585	seven a.m	N	00:33:58.002
+586	7:00 a.m	N	00:33:58.889
+587	i 'll be there	N	00:33:59.787
+588	bring all the evidence	N	00:34:00.772
+589	yeah	N	00:34:01.678
+590	i 'll bring it all	N	00:34:02.584
+591	thanks	N	00:34:04.097
+592	my colleagues messrs landry and frank are representing steve and tyleranderson respectively	N	00:34:20.858
+593	although we 're not co-counsel in the strictest sense we 've agreed the authorities should have no more than three questions to put to our clients each	N	00:34:27.236
+594	after that we 'll accept written submissions only	N	00:34:32.217
+595	nice what money can buy	N	00:34:34.696
+596	my family is done being railroaded by you people so just ask your questions and let 's go	Y	00:34:38.178
+597	i do n't have any questions	N	00:34:41.378
+598	we know what happened in your house the night zachary died	N	00:34:44.316
+599	we 've interpreted the evidence	N	00:34:47.139
+600	all right let 's work backwards starting with the cover-up	N	00:34:49.638
+601	sometime around 11:00 p.m the night of the kidnapping you and mr anderson had a drink rum and cola	N	00:34:54.816
+602	and decided what to do with the body of zachary	N	00:35:02.776
+603	we have yet to determine whether or not his death was accidental or intentional	N	00:35:09.618
+604	the question documents lab thinks that a parent wrote the ransom note because there 's no money amount	N	00:35:15.355
+605	too hard to put a price on your own son	N	00:35:22.216
+606	mrs anderson while your husband was writing the ransom note you wrapped zachary 's body in a blanket that you got from the upstairs linen closet	N	00:35:28.296
+607	you then laid his body to rest near a statue on the golf course	N	00:35:38.797
+608	that 's how you got the grass stains on your nylons	N	00:35:53.478
+609	you put down a plastic bag from the pantry so that he 'd remain dry	N	00:35:59.535
+610	evidence of genuine care and concern	N	00:36:04.116
+611	and mr anderson you put up a ladder outside the window	N	00:36:07.399
+612	the only shoe prints we found were yours and the gardener 's and the gardener has been out of town	N	00:36:11.876
+613	you then drove over to your office and cranked off a ransom note on the first available printer	N	00:36:18.516
+614	possibly thinking that if you used a printer from outside your house we would n't be able to trace it	N	00:36:24.416
+615	but these three dots have given you away	N	00:36:27.517
+616	this may prove cover-up	N	00:36:33.697
+617	none of it proves they killed zachary	N	00:36:37.177
+618	you 're right counselor	N	00:36:38.716
+619	zachary 's life was taken much earlier in the evening	N	00:36:40.798
+620	the coroner estimated time of death at 9:00 p.m	N	00:36:43.958
+621	estimated	N	00:36:46.435
+622	it could be 8:30	N	00:36:48.435
+623	yes	N	00:36:50.577
+624	while robbie and zachary were in tyler 's care	Y	00:36:53.618
+625	you said that we could ask three questions each	N	00:36:59.159
+626	am i right	N	00:37:00.837
+627	stop	N	00:37:02.374
+628	ty did n't do this	N	00:37:03.556
+629	do n't give them anything	N	00:37:04.498
+630	no no	N	00:37:05.257
+631	it does n't matter	N	00:37:06.016
+632	we 're already ruined	Y	00:37:06.776
+633	look they 're just they 're just trying to protect me all right	N	00:37:09.197
+634	please	N	00:37:11.847
+635	and i ca n't go on	N	00:37:13.064
+636	mrs anderson	N	00:37:14.249
+637	i killed him	N	00:37:15.227
+638	i came home	N	00:37:17.438
+639	tyler h-h-had n't put zachary to bed because he he was crying and i wanted to hush him up and and i just	N	00:37:21.777
+640	i went too far	N	00:37:25.714
+641	for the record my client made this statement against legal counsel	N	00:37:28.958
+642	would you tell us how you killed him	N	00:37:34.036
+643	i smothered him with a pot holder	N	00:37:38.735
+644	and that 's when steve and i came up with the kidnap story	N	00:37:41.736
+645	it was the longest night of our lives	N	00:37:45.757
+646	you had to wait till morning to report him missing	N	00:37:51.998
+647	so that it would n't look suspicious	N	00:37:54.418
+648	and you may not believe me but i loved him	N	00:37:58.776
+649	i loved him very very much	N	00:38:00.972
+650	we 're going to have to have them both arrested	N	00:38:07.814
+651	i was just coming to meet you guys	N	00:38:23.048
+652	i thought you were at the andersons	Y	00:38:23.708
+653	we 're done	N	00:38:24.368
+654	she copped	N	00:38:25.028
+655	what	N	00:38:27.566
+656	guilty people do that when you corner them with evidence	N	00:38:29.340
+657	guys the mother did n't do it	N	00:38:31.275
+658	listen	N	00:38:35.154
+659	what did you do robbie	Y	00:38:41.577
+660	what did you do	Y	00:38:43.267
+661	i was watching the boys	Y	00:38:47.818
+662	i had my eye on them i did	Y	00:38:51.057
+663	yeah	N	00:38:58.034
+664	but then you called your girlfriend	N	00:39:00.338
+665	and we got to talking	N	00:39:02.315
+666	and i was kind of ignoring zack and robbie	Y	00:39:06.736
+667	they were being quiet	Y	00:39:10.875
+668	they were behaving	Y	00:39:13.313
+669	i turned around and i saw how still he was	N	00:39:16.357
+670	i ran to him and he was dead	N	00:39:22.314
+671	and that 's when you called 911	N	00:39:27.034
+672	but you must have dropped the phone to tend to zack	N	00:39:35.537
+673	911	N	00:39:37.457
+674	what did you do robbie	Y	00:39:42.819
+675	what did you do	Y	00:39:46.716
+676	and i guess somewhere in the chaos you got disconnected	N	00:39:48.657
+677	soon after that your parents arrived	N	00:39:55.678
+678	oh my god	N	00:39:59.494
+679	what happened	N	00:40:04.694
+680	one of you worked on him so hard that you cracked his sternum	N	00:40:08.240
+681	he was already blue	N	00:40:09.477
+682	i pushed	N	00:40:14.017
+683	i tried to breathe air into him but he was gone	N	00:40:18.118
+684	we did everything that we could	N	00:40:20.696
+685	why did n't you just tell the truth	N	00:40:23.216
+686	we wanted to protect robbie	Y	00:40:25.697
+687	we did n't want him to grow up with the stigma of the boy who killed his brother	Y	00:40:34.753
+688	he 's three	Y	00:40:40.477
+689	he 's clinically unaware of his actions	Y	00:40:42.276
+690	no court would hold him accountable for that	Y	00:40:44.750
+691	but everybody else would know	N	00:40:47.336
+692	it would follow him the rest of his life	Y	00:40:49.794
+693	and my wife would rather go to prison than to have anybody know what robbie did	Y	00:40:55.875
+694	mr anderson we wo n't let that happen	N	00:41:03.833
+695	now i know why you did n't want to hold robbie when your husband handed him to you outside the police department	Y	00:41:32.196
+696	i 'm very sorry	N	00:41:39.617
+697	i always uh	N	00:41:44.017
+698	i always tell them gentle gentle	Y	00:41:46.876
+699	he did n't mean it	Y	00:41:50.849
+700	i know he did n't mean it	Y	00:41:51.907
+701	of course he did n't	Y	00:41:53.537
+702	you must think that we are awful people all this stuff that 's come out	N	00:42:08.174
+703	you 're an average family burdened with a tragedy that put you under a microscope	N	00:42:12.598
+704	that close nobody can look good	N	00:42:17.577
+705	your family 's waiting for you	Y	00:42:29.055
+706	you ready	N	00:42:31.497
+707	will the family be moving	Y	00:42:45.855
+708	will you make any statements	N	00:42:48.091

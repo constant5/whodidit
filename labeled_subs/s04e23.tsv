@@ -1,0 +1,499 @@
+	Unnamed: 0.1	Unnamed: 0	start	end	text	label
+0	0	0	00:01:00	00:01:01	Help!	N
+1	1	1	00:01:04	00:01:07	Help me!	N
+2	2	2	00:01:07	00:01:08	Somebody help me!	N
+3	3	3	00:01:12	00:01:14	Somebody help me!	N
+4	4	4	00:01:32	00:01:34	Nobody knows who she is.	N
+5	5	5	00:01:34	00:01:38	The Andersons, they called the security company.	N
+6	6	6	00:01:38	00:01:41	They thought somebody was trying to break in their back door.	N
+7	7	7	00:01:41	00:01:43	Southern Highlands is a new development.	N
+8	8	8	00:01:43	00:01:45	There's really not much around here.	N
+9	9	9	00:01:45	00:01:49	Some of my guys are talking to everybody, trying to find out what's going on.	N
+10	10	10	00:01:49	00:01:51	She has severe lacerations on her feet.	N
+11	11	11	00:01:51	00:01:54	She was running hard from somewhere.	N
+12	12	12	00:04:49	00:04:52	No skid marks, no signs of another vehicle.	N
+13	13	13	00:04:52	00:04:56	The engine's running, no flat tires.	N
+14	14	14	00:04:56	00:04:58	Why'd she stop?	N
+15	15	15	00:05:29	00:05:31	If you could just push.	N
+16	16	16	00:05:45	00:05:50	I'm going to take the SAE kit to Greg.	N
+17	17	17	00:05:50	00:05:52	You don't want to take the statement?	N
+18	18	18	00:05:52	00:05:54	Do you mind?	N
+19	19	19	00:05:54	00:05:55	No.	N
+20	20	20	00:05:58	00:05:59	She's ready.	N
+21	21	21	00:06:00	00:06:01	Thanks.	N
+22	22	22	00:06:07	00:06:11	Lily Barker, I'm Catherine Willows.	N
+23	23	23	00:06:11	00:06:14	I'm with the Las Vegas crime lab.	N
+24	24	24	00:06:14	00:06:17	I know that you've been through a horrific ordeal.	N
+25	25	25	00:06:19	00:06:20	4-4-6.	N
+26	26	26	00:06:22	00:06:24	That's all I got.	N
+27	27	27	00:06:24	00:06:26	Nevada plates.	N
+28	28	28	00:06:26	00:06:28	Some kind of SUV.	N
+29	29	29	00:06:28	00:06:29	Black, I think.	N
+30	30	30	00:06:29	00:06:33	Can you start from the beginning?	N
+31	31	31	00:06:36	00:06:39	I was, um, driving home from work.	N
+32	32	32	00:06:39	00:06:46	There's hardly any traffic once you cross Horizon Ranch.	N
+33	33	33	00:06:46	00:06:49	He was tailgating.	N
+34	34	34	00:06:49	00:06:54	I slowed down to let him pass and he hit me.	N
+35	35	35	00:06:54	00:07:01	I wasn't going to stop, but he did, so I pulled over.	N
+36	36	36	00:07:03	00:07:06	You're not supposed to leave the scene of an accident.	N
+37	37	37	00:07:08	00:07:10	He looked like a normal guy.	N
+38	38	38	00:07:10	00:07:12	He asked if I was okay.	N
+39	39	39	00:07:12	00:07:14	Apologized.	N
+40	40	40	00:07:14	00:07:17	He went to his car to get his insurance information.	N
+41	41	41	00:07:17	00:07:20	I was looking at my bumper.	N
+42	42	42	00:07:20	00:07:25	He punched me in the face, threw me over his shoulder.	N
+43	43	43	00:07:25	00:07:28	I lost my shoes.	N
+44	44	44	00:07:29	00:07:35	He threw me on the ground, took off my jacket, ripped open my shirt.	N
+45	45	45	00:07:35	00:07:40	He kept trying to kiss me on the mouth, and I kept turning away.	N
+46	46	46	00:07:40	00:07:41	So he bit my ear.	N
+47	47	47	00:07:47	00:07:50	He wanted me to look at him.	N
+48	48	48	00:07:50	00:07:51	He was going to kill me.	N
+49	49	49	00:07:52	00:07:56	He ripped off my skirt.	N
+50	50	50	00:07:56	00:07:59	He raped me.	N
+51	51	51	00:07:59	00:08:01	He didn't use a condom.	N
+52	52	52	00:08:01	00:08:08	He got up to zip, and I kicked him in the groin and I ran.	N
+53	53	53	00:08:08	00:08:10	And the rest, I guess you know.	N
+54	54	54	00:08:12	00:08:15	Thank you.	N
+55	55	55	00:08:15	00:08:18	That was very specific.	N
+56	56	56	00:08:18	00:08:21	You said that you looked at him.	N
+57	57	57	00:08:21	00:08:23	Could you describe him to a forensic artist?	N
+58	58	58	00:08:23	00:08:26	Yes.	N
+59	59	59	00:08:29	00:08:32	What do you remember most about the face?	N
+60	60	60	00:08:35	00:08:38	He had bright eyes.	N
+61	61	61	00:08:38	00:08:40	What about the shape of the eyes?	N
+62	62	62	00:08:40	00:08:44	Almond.	N
+63	63	63	00:08:44	00:08:46	Tiny pupils.	N
+64	64	64	00:08:46	00:08:48	What about the rest of the face?	N
+65	65	65	00:08:48	00:08:52	He had a baby face.	N
+66	66	66	00:08:52	00:08:58	High forehead, thin lips, clean-shaven.	N
+67	67	67	00:08:58	00:09:01	Like a crewcut?	N
+68	68	68	00:09:01	00:09:04	No, like he had a regular haircut.	N
+69	69	69	00:09:09	00:09:10	What?	N
+70	70	70	00:09:10	00:09:14	How many vacation days do you have on the books?	N
+71	71	71	00:09:14	00:09:18	About ten weeks, I guess.	N
+72	72	72	00:09:18	00:09:19	Why?	N
+73	73	73	00:09:19	00:09:22	I think you should take a week or two.	N
+74	74	74	00:09:22	00:09:25	I'm still on the case.	N
+75	75	75	00:09:25	00:09:28	I just didn't do the interview for once in my life.	N
+76	76	76	00:09:32	00:09:34	When was the last time you took vacation?	N
+77	77	77	00:09:34	00:09:36	Never, right?	N
+78	78	78	00:09:40	00:09:41	Okay.	N
+79	79	79	00:10:18	00:10:22	Grissom, I have some information that will be of use to you.	N
+80	80	80	00:10:22	00:10:25	But before you get it, I need a decision.	N
+81	81	81	00:10:25	00:10:26	What?	N
+82	82	82	00:10:26	00:10:28	I'm tired of being on the fence here.	N
+83	83	83	00:10:28	00:10:31	Either I'm in the lab or I'm in the field.	N
+84	84	84	00:10:33	00:10:34	Which is it?	N
+85	85	85	00:10:34	00:10:39	Well, as soon as you can find and train a replacement, you can be in the field.	N
+86	86	86	00:10:39	00:10:40	Until then, I need you in the lab.	N
+87	87	87	00:10:41	00:10:42	Now give.	N
+88	88	88	00:10:42	00:10:45	I got a CODIS hit off the semen from your victim.	N
+89	89	89	00:10:45	00:10:49	DNA matches a rape-murder case from a year ago.	N
+90	90	90	00:10:49	00:10:50	Still open?	N
+91	91	91	00:10:50	00:10:51	Warrick's pulling the file.	N
+92	92	92	00:10:51	00:10:53	Thanks.	N
+93	93	93	00:10:53	00:10:55	No, thank you.	N
+94	94	94	00:10:57	00:11:01	Victim was a 32- year-old Caucasian female, Emma Dobbins.	N
+95	95	95	00:11:02	00:11:03	Sexually assaulted.	N
+96	96	96	00:11:03	00:11:05	Cause of death, strangulation.	N
+97	97	97	00:11:05	00:11:08	They used her pantyhose.	N
+98	98	98	00:11:08	00:11:09	Where'd they find the body?	N
+99	99	99	00:11:09	00:11:12	Off of Blue Diamond Road, southern highlands.	N
+100	100	100	00:11:12	00:11:15	That's not far from where Linley Parker was assaulted.	N
+101	101	101	00:11:16	00:11:20	Other than the semen, the only evidence at the scene was a shoe print-- man's size nine.	N
+102	102	102	00:11:20	00:11:21	I talked to Nick.	N
+103	103	103	00:11:21	00:11:23	They also found a print-- size nine.	N
+104	104	104	00:11:23	00:11:25	Did she have a car?	N
+105	105	105	00:11:25	00:11:28	A vintage Pontiac.	N
+106	106	106	00:11:28	00:11:29	Registered in her name, never recovered.	N
+107	107	107	00:11:30	00:11:35	So apart from geography and age, what else did they have in common?	N
+108	108	108	00:11:35	00:11:39	Emma Dobbins ran a movie memorabilia place downtown.	N
+109	109	109	00:11:39	00:11:42	My vic was a pit boss at the Monaco.	N
+110	110	110	00:11:42	00:11:43	Emma was married.	N
+111	111	111	00:11:43	00:11:45	Linley Parker was single.	N
+112	112	112	00:11:45	00:11:47	Blonde. She was brunette.	N
+113	113	113	00:11:47	00:11:50	The only thing in common, the guy who raped them.	N
+114	114	114	00:12:00	00:12:03	There's something wrong with the nose.	N
+115	115	115	00:12:05	00:12:07	Which one looks right.	N
+116	116	116	00:12:07	00:12:09	That one.	N
+117	117	117	00:12:09	00:12:11	This one?	N
+118	118	118	00:12:17	00:12:24	Now, close your eyes, and tell me everything that happened up until the point that he raped you.	N
+119	119	119	00:12:34	00:12:36	Yeah, look at me.	N
+120	120	120	00:12:37	00:12:40	Open your eyes.	N
+121	121	121	00:12:51	00:12:55	My husband keeps dropping hints about my anniversary present.	N
+122	122	122	00:12:55	00:12:58	Says he hopes I like calypso music.	N
+123	123	123	00:12:58	00:13:01	I think it's a cruise.	N
+124	124	124	00:13:01	00:13:03	You don't like cruises?	N
+125	125	125	00:13:03	00:13:05	I feel guilty.	N
+126	126	126	00:13:05	00:13:11	Because you don't love him anymore, or because you think he can't handle knowing?	N
+127	127	127	00:13:11	00:13:13	Dr. Todd Coombs.	N
+128	128	128	00:13:13	00:13:15	Excuse me, I'm with a patient.	N
+129	129	129	00:13:15	00:13:16	Honey, I told him...	N
+130	130	130	00:13:16	00:13:17	Crystal, what's going on here?	N
+131	131	131	00:13:17	00:13:19	Las Vegas Police.	N
+132	132	132	00:13:19	00:13:21	Sir, we need to talk.	N
+133	133	133	00:13:22	00:13:25	This is insane-- you've got the wrong guy.	N
+134	134	134	00:13:25	00:13:28	Well, if that's true, you got nothing to worry about.	N
+135	135	135	00:13:28	00:13:30	I-I'm going with him.	N
+136	136	136	00:13:30	00:13:31	No, you're not.	N
+137	137	137	00:13:31	00:13:33	This is where he'll be.	N
+138	138	138	00:13:33	00:13:36	I'm gonna need a lawyer.	N
+139	139	139	00:13:36	00:13:40	Who do I call? I don't know, call Roger-- he'll know what to do.	N
+140	140	140	00:13:42	00:13:45	The victim said the car was black.	N
+141	141	141	00:13:45	00:13:47	Well, blue looks black at night.	N
+142	142	142	00:14:00	00:14:03	Single file, stop at your number on the floor.	N
+143	143	143	00:14:03	00:14:06	When I tell you to turn, you're gonna face the mirror.	N
+144	144	144	00:14:07	00:14:10	When you hear your number called, step forward.	N
+145	145	145	00:14:10	00:14:11	Turn.	N
+146	146	146	00:14:11	00:14:14	Number one, step forward.	N
+147	147	147	00:14:17	00:14:19	Step back.	N
+148	148	148	00:14:19	00:14:22	Number two, step forward.	N
+149	149	149	00:14:24	00:14:26	Step back.	N
+150	150	150	00:14:26	00:14:30	Number three, step forward.	N
+151	151	151	00:14:36	00:14:38	It's number three.	N
+152	152	152	00:14:42	00:14:45	That's the guy who raped me.	N
+153	153	153	00:14:56	00:14:58	He's been like that since the lineup.	N
+154	154	154	00:14:59	00:15:01	You know, the guilty ones always fall asleep.	N
+155	155	155	00:15:07	00:15:09	Dr. Coombs, my name's Gil Grissom.	N
+156	156	156	00:15:09	00:15:11	I'm with the crime lab.	N
+157	157	157	00:15:11	00:15:14	I'm here to collect a DNA sample, so if you'd open your mouth?	N
+158	158	158	00:15:14	00:15:17	DNA?	N
+159	159	159	00:15:17	00:15:19	I-I think I should talk to my lawyer.	N
+160	160	160	00:15:19	00:15:21	Well, we have a warrant, so we can compel a sample.	N
+161	161	161	00:15:21	00:15:22	Either way I'm gonna get it.	N
+162	162	162	00:15:22	00:15:24	I haven't done anything.	N
+163	163	163	00:15:24	00:15:26	if you're innocent, this'll prove it.	N
+164	164	164	00:15:33	00:15:35	Thank you.	N
+165	165	165	00:17:18	00:17:25	I compared the eight pairs of shoes we collected at Todd Coombs' house to the shoe print at the crime scene.	N
+166	166	166	00:17:25	00:17:26	Mm-hmm. No matches.	N
+167	167	167	00:17:26	00:17:29	Well, he could've ditched the shoes anywhere.	N
+168	168	168	00:17:29	00:17:30	Yeah, true.	N
+169	169	169	00:17:30	00:17:33	So, uh, what do you got, Greg?	N
+170	170	170	00:17:33	00:17:37	Well, according to the DNA results, Todd Coombs is not your rapist.	N
+171	171	171	00:17:37	00:17:42	You're kidding. There's only seven out of 13, which means we're looking for a sibling.	N
+172	172	172	00:17:42	00:17:44	I believe the semen would indicate a brother.	N
+173	173	173	00:17:44	00:17:48	Could explain why she picked Todd out of a lineup-- strong family resemblance.	N
+174	174	174	00:17:49	00:17:51	She was so sure.	N
+175	175	175	00:17:54	00:17:56	Dr. Coombs.	N
+176	176	176	00:17:56	00:17:57	You're free to go.	N
+177	177	177	00:17:57	00:17:58	So that's it?	N
+178	178	178	00:17:59	00:18:00	Yeah.	N
+179	179	179	00:18:00	00:18:05	You people think you can do whatever you want-- come into our homes, turn our lives upside down.	N
+180	180	180	00:18:05	00:18:09	Who's gonna explain this to our neighbors, our friends?	N
+181	181	181	00:18:09	00:18:12	Come on, honey, let's get out of here.	N
+182	182	182	00:18:15	00:18:16	You're letting him go? Why?	N
+183	183	183	00:18:16	00:18:18	He's not the man that assaulted you.	N
+184	184	184	00:18:18	00:18:20	Yes, he is. I identified him.	N
+185	185	185	00:18:20	00:18:22	DNA ruled him out.	N
+186	186	186	00:18:22	00:18:24	Then you made a mistake.	N
+187	187	187	00:18:24	00:18:25	That man raped me.	N
+188	188	188	00:18:25	00:18:29	We have some additional leads, and we're working on them.	N
+189	189	189	00:18:29	00:18:31	I promise to keep you informed.	N
+190	190	190	00:18:31	00:18:32	I saw him.	N
+191	191	191	00:18:32	00:18:35	He wanted me to see his face.	N
+192	192	192	00:18:35	00:18:37	Linley, it was dark.	N
+193	193	193	00:18:37	00:18:41	You were under attack.	N
+194	194	194	00:18:41	00:18:43	Under those conditions...	N
+195	195	195	00:18:43	00:18:47	pupils dilate, it's hard to focus.	N
+196	196	196	00:18:47	00:18:49	You can't always trust your eyes.	N
+197	197	197	00:18:49	00:18:55	He wanted me to see his face because he was going to kill me, and now you're letting him go?	N
+198	198	198	00:18:55	00:18:57	This is my cell phone number.	N
+199	199	199	00:18:57	00:18:59	Call me if you need anything.	N
+200	200	200	00:18:59	00:19:01	This isn't gonna keep him away from me.	N
+201	201	201	00:19:01	00:19:03	What I need is protection.	N
+202	202	202	00:19:03	00:19:05	I need a gun.	N
+203	203	203	00:19:05	00:19:09	If you don't feel safe in your home, stay with a friend.	N
+204	204	204	00:19:16	00:19:20	I hear you're looking for Todd Coombs' brother.	N
+205	205	205	00:19:20	00:19:22	Or brothers.	N
+206	206	206	00:19:22	00:19:25	I'll work out the family tree.	N
+207	207	207	00:20:21	00:20:24	Yeah, I read all about it in the paper.	N
+208	208	208	00:20:24	00:20:30	I'm just sorry our parents weren't alive to see it. Hey, your brother's being hauled in on a rape charge.	N
+209	209	209	00:20:30	00:20:31	Does that seem funny to you?	N
+210	210	210	00:20:31	00:20:32	A little.	N
+211	211	211	00:20:32	00:20:34	Todd was due.	N
+212	212	212	00:20:34	00:20:35	Due for what? A reality check.	N
+213	213	213	00:20:35	00:20:39	Most people go through life, suffer the ups and downs.	N
+214	214	214	00:20:39	00:20:41	Todd only got the ups till now.	N
+215	215	215	00:20:41	00:20:44	I'm Roger Coombs. What's going on here?	N
+216	216	216	00:20:44	00:20:46	They're cops-- they want our DNA.	N
+217	217	217	00:20:46	00:20:49	I'm gonna need the May Hustler and a cup.	N
+218	218	218	00:20:49	00:20:50	That won't be necessary.	N
+219	219	219	00:20:50	00:20:54	We're not giving you anything until our lawyer looks this over.	N
+220	220	220	00:20:54	00:20:56	Let me tell you how this works.	N
+221	221	221	00:20:56	00:20:57	First things first.	N
+222	222	222	00:20:57	00:21:00	We do the test, and then the lawyers come in.	N
+223	223	223	00:21:05	00:21:07	So you two are fraternal twins, huh?	N
+224	224	224	00:21:08	00:21:10	Accident of birth.	N
+225	225	225	00:21:14	00:21:15	You want a sample of my DNA?	N
+226	226	226	00:21:15	00:21:18	What for? It's an ongoing investigation, sir-- a rape.	N
+227	227	227	00:21:19	00:21:21	Can't discuss it any further than that.	N
+228	228	228	00:21:21	00:21:23	Does your route include the southern highlands?	N
+229	229	229	00:21:23	00:21:25	No, I work this side of the 15, Seven Hills.	N
+230	230	230	00:21:25	00:21:26	Were you working two nights ago?	N
+231	231	231	00:21:26	00:21:28	You talked to my supervisor-- you know I was.	N
+232	232	232	00:21:28	00:21:33	Look, I heard about what happened to that lady, and I know what you guys put Todd and Crystal through.	N
+233	233	233	00:21:34	00:21:35	You got something against my family?	N
+234	234	234	00:21:35	00:21:37	You got something against cooperating?	N
+235	235	235	00:21:50	00:21:53	Hey, how'd it go with brother number four?	N
+236	236	236	00:21:53	00:21:57	Nowhere. No Kevin Coombs at the address you gave me; no forwarding address.	N
+237	237	237	00:21:57	00:21:59	PD's following up.	N
+238	238	238	00:22:11	00:22:12	Willows.	N
+239	239	239	00:22:12	00:22:14	I can't wait 72 hours for a gun.	N
+240	240	240	00:22:14	00:22:16	I need it today! I need it now!	N
+241	241	241	00:22:16	00:22:17	Linley?	N
+242	242	242	00:22:17	00:22:19	Hold on.	N
+243	243	243	00:22:21	00:22:23	Linley, I can barely hear you. Where are you?	N
+244	244	244	00:22:23	00:22:25	Fremont Street. I-I know you can help me.	N
+245	245	245	00:22:25	00:22:28	Just-just give me a name. Tell me where to go.	N
+246	246	246	00:22:31	00:22:33	Linley?	N
+247	247	247	00:22:33	00:22:34	Linley?!	N
+248	248	248	00:22:54	00:22:55	Where is she?	N
+249	249	249	00:22:55	00:22:57	We just rolled up.	N
+250	250	250	00:23:10	00:23:12	Hey.	N
+251	251	251	00:23:13	00:23:16	There's no new damage except for the window.	N
+252	252	252	00:23:16	00:23:19	Blood is probably from whoever broke the glass, not the victim.	N
+253	253	253	00:23:23	00:23:29	Okay, the pawn shop owner ID'd her, she was looking to buy a gun, and she wasn't in the mood to wait.	N
+254	254	254	00:23:29	00:23:31	Anybody see what happened here?	N
+255	255	255	00:23:31	00:23:35	Well, the problem is that when the light show starts, everyone's looking up.	N
+256	256	256	00:23:36	00:23:40	I mean, what's the chance that this crime is unrelated to the first attack?	N
+257	257	257	00:23:40	00:23:40	It's the same guy.	N
+258	258	258	00:23:40	00:23:42	He's getting rid of the witness.	N
+259	259	259	00:23:42	00:23:43	Who identified the wrong man.	N
+260	260	260	00:23:44	00:23:46	Soon as the DNA comes back, we'll know which brother it is.	N
+261	261	261	00:23:46	00:23:47	And until then we wait?	N
+262	262	262	00:23:47	00:23:50	Well, I got every police officer downtown looking for her.	N
+263	263	263	00:23:50	00:23:51	Shoulda had eyes on the brothers.	N
+264	264	264	00:23:51	00:23:53	Yeah, in a perfect world, yeah.	N
+265	265	265	00:23:53	00:23:57	Didn't you say that you were on the phone with her and you heard the window break?	N
+266	266	266	00:23:57	00:23:58	Yes.	N
+267	267	267	00:23:58	00:23:59	Did you find her phone?	N
+268	268	268	00:23:59	00:24:01	I looked everywhere.	N
+269	269	269	00:24:04	00:24:06	So where's her phone?	N
+270	270	270	00:24:07	00:24:08	The is Dispatch.	N
+271	271	271	00:24:08	00:24:11	We have 20's confirmed on Roger Coombs.	N
+272	272	272	00:24:11	00:24:13	Monaco Casino, last four hours.	N
+273	273	273	00:24:13	00:24:18	Larry Coombs at his place of employment.	N
+274	274	274	00:24:18	00:24:23	And Bailey Coombs, on shift, Seven Hills.	N
+275	275	275	00:24:23	00:24:24	All right, fine, fine.	N
+276	276	276	00:24:24	00:24:26	Search the whole house if you want to.	N
+277	277	277	00:24:26	00:24:28	I'm telling you, Todd's not here.	N
+278	278	278	00:24:28	00:24:30	His car was in the driveway.	N
+279	279	279	00:24:30	00:24:31	That's because he took my car to The House Company.	N
+280	280	280	00:24:31	00:24:33	You going to arrest him for that, too?	N
+281	281	281	00:24:33	00:24:36	I'm going to need your license number and a full description of your vehicle.	N
+282	282	282	00:24:36	00:24:40	How'd you guys know Linley Parker's cell was E-911 capable?	N
+283	283	283	00:24:40	00:24:42	We just took a shot.	N
+284	284	284	00:24:42	00:24:46	She's got a lot of new gadgets in her car, most new cell phones are imbedded with a GPS chip.	N
+285	285	285	00:24:46	00:24:49	Her carrier accepted the Attorney General waiver.	N
+286	286	286	00:24:49	00:24:51	I'm accessing her site now.	N
+287	287	287	00:24:51	00:24:54	If her phone's on, it should show up.	N
+288	288	288	00:24:54	00:24:55	Okay.	N
+289	289	289	00:25:00	00:25:02	Okay, got it.	N
+290	290	290	00:25:02	00:25:06	Nearest cross streets, uh, Warm Springs and Durango.	N
+291	291	291	00:25:07	00:25:08	That's the middle of nowhere.	N
+292	292	292	00:25:08	00:25:10	Hey, Catherine.	N
+293	293	293	00:25:10	00:25:12	She's moving.	N
+294	294	294	00:25:12	00:25:14	We got a location!	N
+295	295	295	00:25:14	00:25:18	Put out a BOLLO on a beige, 2004 Ford Taurus.	N
+296	296	296	00:25:18	00:25:24	Registration, Nevada, 3-9-6-R-G-F.	N
+297	297	297	00:25:24	00:25:26	The driver's name is Todd Coombs.	N
+298	298	298	00:25:26	00:25:29	He's a white male, 38 years old.	N
+299	299	299	00:25:29	00:25:33	I'm on my way to The House Company in Green Valley.	N
+300	300	300	00:25:33	00:25:34	Yeah.	N
+301	301	301	00:26:02	00:26:04	You make a mess?	N
+302	302	302	00:26:04	00:26:06	That's your job.	N
+303	303	303	00:26:07	00:26:10	Unless you've got a warrant, you can't even touch this car.	N
+304	304	304	00:26:10	00:26:12	I'm just looking.	N
+305	305	305	00:26:12	00:26:14	For what?	N
+306	306	306	00:26:15	00:26:17	So how was Wal-Mart?	N
+307	307	307	00:26:17	00:26:21	I was at The House Company buying some plants for my wife, to cheer her up.	N
+308	308	308	00:26:21	00:26:23	Oh, you think that's going to work?	N
+309	309	309	00:26:24	00:26:25	A gesture goes a long way.	N
+310	310	310	00:26:25	00:26:27	Never worked for me.	N
+311	311	311	00:26:27	00:26:28	Hey, do you mind turning that thing off?	N
+312	312	312	00:26:28	00:26:30	When the quarters run out.	N
+313	313	313	00:26:30	00:26:32	So when were you at the store?	N
+314	314	314	00:26:32	00:26:34	Why don't you ask my brothers?	N
+315	315	315	00:26:34	00:26:38	I've got a cousin in Phoenix, maybe he knows.	N
+316	316	316	00:26:41	00:26:47	Last time I cooperated with you guys, you put me in a lineup and I spent the night in jail.	N
+317	317	317	00:26:47	00:26:48	That's right, that's right.	N
+318	318	318	00:26:50	00:26:51	Hey, let me tell you something.	N
+319	319	319	00:26:51	00:26:56	12 hours after Linley Parker ID'd you as her rapist, she gets dragged out of her car on Fremont Street.	N
+320	320	320	00:26:56	00:26:57	Now she's missing.	N
+321	321	321	00:26:57	00:27:01	Then why are you wasting time talking to me?	N
+322	322	322	00:27:06	00:27:08	Drive safely.	N
+323	323	323	00:27:23	00:27:24	Crime lab.	N
+324	324	324	00:27:24	00:27:25	Yeah, this is Jim Brass.	N
+325	325	325	00:27:25	00:27:30	Can you send a CSI to my location for evidence recovery.	N
+326	326	326	00:27:30	00:27:33	250 feet.	N
+327	327	327	00:27:33	00:27:36	200, still moving.	N
+328	328	328	00:27:36	00:27:37	Linley!	N
+329	329	329	00:27:37	00:27:40	150 feet.	N
+330	330	330	00:27:40	00:27:43	Linley!	N
+331	331	331	00:27:43	00:27:45	Eighty.	N
+332	332	332	00:27:45	00:27:48	70, 60, still moving.	N
+333	333	333	00:27:48	00:27:50	Fifty.	N
+334	334	334	00:27:51	00:27:53	Okay, okay, she stopped.	N
+335	335	335	00:27:53	00:27:54	30 feet, she's right here.	N
+336	336	336	00:27:54	00:27:56	30 feet.	N
+337	337	337	00:28:15	00:28:16	Over here!	N
+338	338	338	00:29:54	00:29:55	Checked with county records.	N
+339	339	339	00:29:55	00:29:57	Crime scenes on a 20-acre plot.	N
+340	340	340	00:29:57	00:30:00	Guess who owns the property.	N
+341	341	341	00:30:00	00:30:01	One of the Coombs brothers.	N
+342	342	342	00:30:01	00:30:03	Coombs brother's company.	N
+343	343	343	00:30:06	00:30:07	Guy's an artist.	N
+344	344	344	00:30:07	00:30:09	You call that art?	N
+345	345	345	00:30:12	00:30:14	Black SUV.	N
+346	346	346	00:30:15	00:30:17	You're on my property!	N
+347	347	347	00:30:18	00:30:19	Put the weapon down.	N
+348	348	348	00:30:19	00:30:20	You're on my property!	N
+349	349	349	00:30:20	00:30:23	Las Vegas Police, drop it or we shoot.	N
+350	350	350	00:30:23	00:30:24	Turn around.	N
+351	351	351	00:30:30	00:30:31	Are you Kevin Coombs?	N
+352	352	352	00:30:31	00:30:33	I can see the family resemblance.	N
+353	353	353	00:30:33	00:30:34	Come on.	N
+354	354	354	00:30:38	00:30:42	'Cause of death, asphyxia due to strangulation.	N
+355	355	355	00:30:42	00:30:48	Victim has a hairline fracture of the right third metacarpal with some soft tissue swelling.	N
+356	356	356	00:30:49	00:30:51	Defensive wounds.	N
+357	357	357	00:30:51	00:30:52	She was a fighter.	N
+358	358	358	00:30:52	00:30:55	There's also fresh contusions of the right labia.	N
+359	359	359	00:30:56	00:30:58	She was raped again?	N
+360	360	360	00:30:58	00:31:02	I did a wet mount of the vaginal secretion with a Christmas tree stain.	N
+361	361	361	00:31:02	00:31:04	Slide's under the scope.	N
+362	362	362	00:31:10	00:31:11	Sperm.	N
+363	363	363	00:31:11	00:31:15	If he was trying to silence a witness, why not just kill her, why rape her again?	N
+364	364	364	00:31:15	00:31:18	Maybe rape was just foreplay for this guy.	N
+365	365	365	00:31:18	00:31:21	Maybe what he really gets off on is killing.	N
+366	366	366	00:31:30	00:31:32	What do you got?	N
+367	367	367	00:31:32	00:31:35	Maybe a missing Pontiac Tempest.	N
+368	368	368	00:31:46	00:31:48	So, you were home last night?	N
+369	369	369	00:31:51	00:31:53	Okay, well, doesn't really matter.	N
+370	370	370	00:31:53	00:31:55	Your DNA will do the talking.	N
+371	371	371	00:31:58	00:32:01	You know what happens when the government gets your DNA?	N
+372	372	372	00:32:01	00:32:02	Enlighten me.	N
+373	373	373	00:32:02	00:32:04	They put it in the database.	N
+374	374	374	00:32:04	00:32:11	Then they look at your driver's license picture and then all those cameras-- traffic lights, parking lots, grocery stores...	N
+375	375	375	00:32:11	00:32:14	They can find you.	N
+376	376	376	00:32:14	00:32:16	Whenever they want.	N
+377	377	377	00:32:24	00:32:25	Dr. Coombs.	N
+378	378	378	00:32:25	00:32:27	Mr. Grissom.	N
+379	379	379	00:32:27	00:32:31	I suppose you're compelling a DNA sample from my brother now.	N
+380	380	380	00:32:31	00:32:32	We are.	N
+381	381	381	00:32:34	00:32:35	Why are you here?	N
+382	382	382	00:32:35	00:32:38	Are you an only child?	N
+383	383	383	00:32:38	00:32:39	I am. Why?	N
+384	384	384	00:32:39	00:32:41	You've got my brother in that room, he's family.	N
+385	385	385	00:32:41	00:32:43	I didn't want him to be alone.	N
+386	386	386	00:32:43	00:32:46	Well, what about your other brothers?	N
+387	387	387	00:32:46	00:32:49	Bailey only looks out for number one.	N
+388	388	388	00:32:49	00:32:52	Roger and Larry, they do their best to avoid Kevin.	N
+389	389	389	00:32:52	00:32:53	They don't understand him.	N
+390	390	390	00:32:53	00:32:54	And you do?	N
+391	391	391	00:32:54	00:32:55	He's harmless.	N
+392	392	392	00:32:55	00:32:56	He chooses to live alone.	N
+393	393	393	00:32:56	00:32:57	He lives off the grid.	N
+394	394	394	00:32:57	00:33:00	He spends all his time turning junk into art.	N
+395	395	395	00:33:00	00:33:01	Where does he get his junk?	N
+396	396	396	00:33:01	00:33:04	Mostly from my brother's garage.	N
+397	397	397	00:33:04	00:33:09	Every once in a while, Roger lets Kevin take his pick of the wrecks.	N
+398	398	398	00:33:09	00:33:12	Beats inviting him over for Thanksgiving, you know?	N
+399	399	399	00:33:12	00:33:18	Dr. Coombs, we found a 1968 Pontiac outside your brother's house.	N
+400	400	400	00:33:18	00:33:24	The VIN matched a car belonging to a victim who was raped and murdered by the same person who raped Linley Parker.	N
+401	401	401	00:33:24	00:33:29	And we found Linley Parker's dead body on your brother's property.	N
+402	402	402	00:33:29	00:33:33	You guys have been wrong before.	N
+403	403	403	00:34:19	00:34:20	Whew, man.	N
+404	404	404	00:34:21	00:34:23	Guys like Brass have it easy.	N
+405	405	405	00:34:23	00:34:26	All they got to do is call it in.	N
+406	406	406	00:34:26	00:34:28	Check this out. I just found it in the hose.	N
+407	407	407	00:34:28	00:34:31	It's from a potted plant purchased at the House Company.	N
+408	408	408	00:34:31	00:34:35	Confirms Todd Coombs' alibi.	N
+409	409	409	00:34:35	00:34:38	You saw this?	N
+410	410	410	00:34:38	00:34:39	A pin from the Palms.	N
+411	411	411	00:34:39	00:34:41	Linley Parker worked at the Palms.	N
+412	412	412	00:34:44	00:34:47	A lot of people work at the Palms.	N
+413	413	413	00:34:47	00:34:49	And it doesn't nail Todd Coombs.	N
+414	414	414	00:34:49	00:34:56	According to the DNA, the blood from Linley Parker's smashed window matches the semen from all the rapes.	N
+415	415	415	00:34:56	00:34:59	Which means it doesn't match Todd Coombs.	N
+416	416	416	00:34:59	00:35:00	Or Kevin Coombs.	N
+417	417	417	00:35:00	00:35:03	Or any of the rest of the Brothers Grimm.	N
+418	418	418	00:35:03	00:35:07	Linley was absolutely certain that Todd Coombs raped her.	N
+419	419	419	00:35:07	00:35:08	That's not what the evidence says.	N
+420	420	420	00:35:09	00:35:10	Well, maybe the evidence is wrong.	N
+421	421	421	00:35:10	00:35:14	You can be wrong, I can be wrong, the evidence is just the evidence.	N
+422	422	422	00:35:14	00:35:16	Deep down, tell me you don't think this guy is good for this.	N
+423	423	423	00:35:18	00:35:22	I got the DNA on the hair you lifted off Linley Parker's body.	N
+424	424	424	00:35:22	00:35:24	Get this. It's Todd Coombs.	N
+425	425	425	00:35:24	00:35:26	Puts him with the body.	N
+426	426	426	00:35:26	00:35:27	It doesn't prove rape.	N
+427	427	427	00:35:27	00:35:30	I'll have Brass bring him in.	N
+428	428	428	00:35:43	00:35:46	Would you strip down to your shorts, please, Doctor?	N
+429	429	429	00:35:46	00:35:47	Why?	N
+430	430	430	00:35:47	00:35:55	I'm going to examine your clothing for any trace evidence, and we're going to document your body for any injuries that may have been sustained during a recent struggle.	N
+431	431	431	00:35:55	00:35:57	I don't have any injuries.	N
+432	432	432	00:35:57	00:36:00	If you'd like, this officer will assist you.	N
+433	433	433	00:36:01	00:36:02	I did not rape that women.	N
+434	434	434	00:36:02	00:36:03	I did not kill her.	N
+435	435	435	00:36:03	00:36:06	You guys proved that and you let me go.	N
+436	436	436	00:36:26	00:36:28	Thank you. Turn around, please.	N
+437	437	437	00:36:33	00:36:35	That's an old scar.	N
+438	438	438	00:36:35	00:36:37	I was a bone marrow donor.	N
+439	439	439	00:36:37	00:36:40	My youngest brother Joss had leukemia.	N
+440	440	440	00:36:43	00:36:44	Hold still please.	N
+441	441	441	00:37:02	00:37:04	Turn off the lights, would you, please, officer?	N
+442	442	442	00:37:22	00:37:24	What are you looking at?	N
+443	443	443	00:38:37	00:38:37	This is harassment.	N
+444	444	444	00:38:38	00:38:40	I've already given you guys a DNA sample.	N
+445	445	445	00:38:42	00:38:46	You know that bone marrow donation you gave your brother?	N
+446	446	446	00:38:48	00:38:50	I checked your medical records.	N
+447	447	447	00:38:50	00:38:54	His body rejected it and he died.	N
+448	448	448	00:38:55	00:39:00	My guess is that's when you first found out about your unique condition.	N
+449	449	449	00:39:10	00:39:14	The doctors explained it.	N
+450	450	450	00:39:14	00:39:17	I'm a creature of myth.	N
+451	451	451	00:39:17	00:39:20	A chimera.	N
+452	452	452	00:39:20	00:39:24	Head of a lion, body of a goat, tail of a dragon.	N
+453	453	453	00:39:30	00:39:31	You're a genetic anomaly.	N
+454	454	454	00:39:31	00:39:38	One person, two completely different sets of DNA.	N
+455	455	455	00:39:42	00:39:44	State your name for the record.	N
+456	456	456	00:39:46	00:39:48	My name is Todd Coombs.	N
+457	457	457	00:39:48	00:39:53	I raped and murdered Emma Dobbins and Linley Parker.	N
+458	458	458	00:39:53	00:39:56	There are more, but we'll talk about those later.	N
+459	459	459	00:39:56	00:39:59	How'd you pick your victims?	N
+460	460	460	00:39:59	00:40:01	They picked me.	N
+461	461	461	00:40:01	00:40:06	Sometimes fraternal twins, two separately fertilized eggs, develop into only one person.	N
+462	462	462	00:40:06	00:40:14	In effect, one twin dies in embryo, but its DNA survives in the other.	N
+463	463	463	00:40:14	00:40:20	That's why the DNA from his buccal swab matched his hair but not his semen.	N
+464	464	464	00:40:20	00:40:23	So he had two strains of DNA in his body.	N
+465	465	465	00:40:23	00:40:27	Yeah, and the DNA in his semen, was evidently from his dead twin brother.	N
+466	466	466	00:40:27	00:40:30	You never met Emma Dobbins or Linley Parker.	N
+467	467	467	00:40:30	00:40:33	I didn't have to meet 'em.	N
+468	468	468	00:40:33	00:40:37	You go to a bar, you see an attractive woman, make your move, she shoots you down.	N
+469	469	469	00:40:37	00:40:39	You go home, you masturbate.	N
+470	470	470	00:40:39	00:40:40	You get on with it.	N
+471	471	471	00:40:43	00:40:46	But when I see a woman who arouses me...	N
+472	472	472	00:40:50	00:40:53	the whole world disappears...	N
+473	473	473	00:40:53	00:40:56	except for her.	N
+474	474	474	00:40:57	00:40:59	She can't say no.	N
+475	475	475	00:41:00	00:41:01	What a night.	N
+476	476	476	00:41:01	00:41:03	You guys hungry?	N
+477	477	477	00:41:03	00:41:04	Want to get something to eat?	N
+478	478	478	00:41:04	00:41:06	No, I think I'm going to call it a night.	N
+479	479	479	00:41:06	00:41:07	Yeah, me, too.	N
+480	480	480	00:41:07	00:41:09	I feel ya. Get some rest.	N
+481	481	481	00:41:09	00:41:10	All right, I'll see you.	N
+482	482	482	00:41:10	00:41:15	Hey, hey, Nick, congratulations on your almost promotion.	N
+483	483	483	00:41:15	00:41:18	Seriously, you deserve it.	N
+484	484	484	00:41:18	00:41:23	Wow. That's really hard for you, isn't it?	N
+485	485	485	00:41:23	00:41:24	Yeah, it is.	N
+486	486	486	00:41:34	00:41:36	Grissom.	N
+487	487	487	00:41:37	00:41:40	Yes.	N
+488	488	488	00:41:44	00:41:45	Is she all right?	N
+489	489	489	00:41:48	00:41:51	She was lucky she wasn't on the strip.	N
+490	490	490	00:41:51	00:41:53	That's Highway Patrol's jurisdiction.	N
+491	491	491	00:41:53	00:41:59	She blew .09.	N
+492	492	492	00:41:59	00:42:06	Technically, she's over, but they just lowered the limit, so we cut her a break and didn't book her.	N
+493	493	493	00:42:06	00:42:09	But we did have to call the supervisor.	N
+494	494	494	00:42:09	00:42:10	Well, thank you.	N
+495	495	495	00:42:10	00:42:12	I appreciate the courtesy.	N
+496	496	496	00:42:12	00:42:14	No problem.	N
+497	497	497	00:42:33	00:42:35	Come on. I'll take you home.	N

@@ -1,0 +1,514 @@
+	Unnamed: 0.1	Unnamed: 0	start	end	text	label
+0	0	0	00:02:34	00:02:36	Ready for us?	N
+1	1	1	00:02:36	00:02:40	For now, no one enters this house except CSI.	N
+2	2	2	00:03:17	00:03:18	Warrick, you got the car.	N
+3	3	3	00:03:20	00:03:21	Which one?	N
+4	4	4	00:03:21	00:03:22	Both.	N
+5	5	5	00:03:22	00:03:23	Uh, take the Honda.	N
+6	6	6	00:03:23	00:03:27	The VW belongs to the victim's friend, over there.	N
+7	7	7	00:03:27	00:03:28	She called it in.	N
+8	8	8	00:03:28	00:03:30	Aw, that's too bad.	N
+9	9	9	00:03:30	00:03:32	This will be a day she'll never forget.	N
+10	10	10	00:03:32	00:03:33	Sara, you take the perimeter.	N
+11	11	11	00:03:33	00:03:34	What?	N
+12	12	12	00:03:34	00:03:36	You just did a one-hour walk-through.	N
+13	13	13	00:03:36	00:03:37	The perimeter cannot be a priority.	N
+14	14	14	00:03:37	00:03:39	I need you to work the outside.	N
+15	15	15	00:03:39	00:03:40	Catherine and I will be inside.	N
+16	16	16	00:03:43	00:03:44	I'll go talk to the friend.	N
+17	17	17	00:03:44	00:03:47	Find out where she walked and what she might have touched in there.	N
+18	18	18	00:03:50	00:03:53	Hey, Jim.	N
+19	19	19	00:03:53	00:03:54	Hmm?	N
+20	20	20	00:03:54	00:03:57	Did you talk to that guy across the street?	N
+21	21	21	00:03:57	00:03:59	The neighbor? He's on my list.	N
+22	22	22	00:03:59	00:04:01	Yeah, he looks like he has something to say.	N
+23	23	23	00:04:05	00:04:07	Hi, I'm Catherine Willows. I'm with the crime lab.	N
+24	24	24	00:04:07	00:04:08	What is your name, miss?	N
+25	25	25	00:04:08	00:04:11	Kelly McNeil.	N
+26	26	26	00:04:11	00:04:13	Deb and I are best friends.	N
+27	27	27	00:04:13	00:04:16	We were supposed to get together yesterday.	N
+28	28	28	00:04:16	00:04:18	It was our day off.	N
+29	29	29	00:04:18	00:04:19	You're a nurse?	N
+30	30	30	00:04:19	00:04:21	Yeah. Both of us.	N
+31	31	31	00:04:21	00:04:23	Desert Palm Hospital.	N
+32	32	32	00:04:23	00:04:27	We made lunch plans, but she canceled.	N
+33	33	33	00:04:27	00:04:29	She give a reason why?	N
+34	34	34	00:04:29	00:04:30	Michael. ! Michael?	N
+35	35	35	00:04:30	00:04:31	Michael Clark.	N
+36	36	36	00:04:31	00:04:34	Um, she's been seeing him for a month or so.	N
+37	37	37	00:04:34	00:04:35	He's a surgical intern.	N
+38	38	38	00:04:35	00:04:39	When she didn't show up for work today, I called the house.	N
+39	39	39	00:04:39	00:04:43	Her cell... no answer, so I drove by after shift.	N
+40	40	40	00:04:43	00:04:45	And how did you get in?	N
+41	41	41	00:04:45	00:04:48	We have each other's keys.	N
+42	42	42	00:04:48	00:04:50	Did you touch anything inside?	N
+43	43	43	00:04:50	00:04:52	No.	N
+44	44	44	00:04:52	00:04:55	I walked in and...	N
+45	45	45	00:04:55	00:04:57	I saw her and I ran out.	N
+46	46	46	00:05:04	00:05:11	Kelly, this, uh, Michael-- is he just a guy, or is he somebody special?	N
+47	47	47	00:05:11	00:05:15	He was the first guy that Debbie ever blew me off for.	N
+48	48	48	00:05:15	00:05:17	And did you see him today, at the hospital?	N
+49	49	49	00:05:17	00:05:22	No. I figured they were both playing hooky.	N
+50	50	50	00:05:44	00:05:46	Moved in about two months ago.	N
+51	51	51	00:05:46	00:05:47	Single girl. Alone in the house.	N
+52	52	52	00:05:47	00:05:48	Got my attention.	N
+53	53	53	00:05:48	00:05:50	I'm running for captain of the Neighborhood Watch.	N
+54	54	54	00:05:50	00:05:56	I'll probably have to self-appoint myself, but I'm going to put out a flyer, you know, about shutting doors, locking windows, I mean, the thing is...	N
+55	55	55	00:05:56	00:05:58	you just don't think it's going to happen to you.	N
+56	56	56	00:05:58	00:05:59	You know what I'm saying?	N
+57	57	57	00:05:59	00:06:01	On your block... Listen, Pike. Stop talking.	N
+58	58	58	00:06:01	00:06:05	I never seen somebody so excited about their neighbor being killed.	N
+59	59	59	00:06:05	00:06:09	I know the business of everyone up and down this block, all right?	N
+60	60	60	00:06:09	00:06:12	Who's cheating on his wife, who's behind on his bills, whose kid's going to become the next Manson.	N
+61	61	61	00:06:12	00:06:14	Let's talk about Debbie Marlin.	N
+62	62	62	00:06:14	00:06:16	You know what they say about nurses.	N
+63	63	63	00:06:16	00:06:17	What's that?	N
+64	64	64	00:06:17	00:06:18	That-that they like to party.	N
+65	65	65	00:06:20	00:06:22	Hey, look. You see a stethoscope around this chest?	N
+66	66	66	00:06:22	00:06:24	No. You want to know why? I'm not a doctor.	N
+67	67	67	00:06:24	00:06:26	So I couldn't even get close to her.	N
+68	68	68	00:06:26	00:06:28	Well, who is getting close?	N
+69	69	69	00:06:28	00:06:30	It's like a fricking doctor auto mall over there.	N
+70	70	70	00:06:30	00:06:33	You know, hunky surgeons, board certified, lots of dough.	N
+71	71	71	00:06:33	00:06:35	And if you want my opinion, I think they were dropping quarts.	N
+72	72	72	00:06:36	00:06:41	Okay, did you notice any automobiles, any cars out front?	N
+73	73	73	00:06:41	00:06:43	You know, as a matter of fact, sir, yes.	N
+74	74	74	00:06:43	00:06:45	Black Mercedes, E320.	N
+75	75	75	00:06:45	00:06:48	2004 model, been there about a month.	N
+76	76	76	00:06:48	00:06:49	Rolls in all hours.	N
+77	77	77	00:06:49	00:06:52	I'm figuring on call, booty call.	N
+78	78	78	00:06:52	00:06:53	That kind of thing.	N
+79	79	79	00:06:53	00:06:54	When's the last time you saw the Mercedes?	N
+80	80	80	00:06:54	00:06:56	Two days ago. Around lunch.	N
+81	81	81	00:06:56	00:06:58	And, uh, I think he stayed for a little bit of dinner, too.	N
+82	82	82	00:06:58	00:07:00	Thanks a lot.	N
+83	83	83	00:07:00	00:07:02	Yeah, this is Detective Jim Brass.	N
+84	84	84	00:07:02	00:07:08	See if you can find a 2004 Mercedes, black, registered to a Michael Clark, M.D.	N
+85	85	85	00:07:08	00:07:10	Thanks.	N
+86	86	86	00:07:10	00:07:13	I have absolutely nothing. How are you doing?	N
+87	87	87	00:07:13	00:07:14	I got a lot.	N
+88	88	88	00:07:15	00:07:16	Check out the backseat.	N
+89	89	89	00:07:16	00:07:18	Bananas.	N
+90	90	90	00:07:18	00:07:20	Stuffed Mushrooms.	N
+91	91	91	00:07:20	00:07:23	Chocolate syrup, a six-pack of soda, a box of condoms.	N
+92	92	92	00:07:23	00:07:25	No surprises there.	N
+93	93	93	00:07:25	00:07:27	Fresh bag of groceries in an unlocked car?	N
+94	94	94	00:07:27	00:07:31	Maybe she was interrupted.	N
+95	95	95	00:07:44	00:07:51	One thing I can never anything can happen to anybody.	N
+96	96	96	00:07:53	00:07:55	That's why we're here.	N
+97	97	97	00:08:04	00:08:09	I bet this bathroom was the reason she bought this place.	N
+98	98	98	00:08:14	00:08:15	What am I smelling?	N
+99	99	99	00:08:16	00:08:18	Cleanser.	N
+100	100	100	00:08:18	00:08:20	Bleach maybe.	N
+101	101	101	00:08:23	00:08:26	Arterial spray is neck high.	N
+102	102	102	00:08:26	00:08:30	Indicates she was standing when she was attacked.	N
+103	103	103	00:08:32	00:08:36	And the highest gush of blood has the most volume.	N
+104	104	104	00:08:36	00:08:38	Definite lack of lividity. She must have bled out.	N
+105	105	105	00:08:38	00:08:41	The killer had to get something on him.	N
+106	106	106	00:08:41	00:08:43	Had to be a bloody mess, but there's no...	N
+107	107	107	00:08:45	00:08:49	footprints, there's no handprints, no smears.	N
+108	108	108	00:08:49	00:08:54	She looks like she was placed in this position.	N
+109	109	109	00:08:55	00:08:56	What's the message?	N
+110	110	110	00:09:03	00:09:04	What do we got here?	N
+111	111	111	00:09:04	00:09:06	Pendale's Milk.	N
+112	112	112	00:09:06	00:09:10	Non-fat. Half a gallon. Unopened.	N
+113	113	113	00:09:10	00:09:13	Groceries that made it inside.	N
+114	114	114	00:09:13	00:09:17	Fancy crackers...	N
+115	115	115	00:09:17	00:09:18	brie.	N
+116	116	116	00:09:21	00:09:23	Coupons with no receipt.	N
+117	117	117	00:09:23	00:09:26	No receipt?	N
+118	118	118	00:09:26	00:09:28	This milk expires on the 23rd.	N
+119	119	119	00:09:28	00:09:31	Eight days from now.	N
+120	120	120	00:09:31	00:09:33	Milk is delivered daily to the supermarket.	N
+121	121	121	00:09:33	00:09:34	That's a ten-day window.	N
+122	122	122	00:09:34	00:09:36	People usually reach back for a fresh one.	N
+123	123	123	00:09:36	00:09:38	Hmm...	N
+124	124	124	00:09:39	00:09:40	Subtract ten from the 23rd?	N
+125	125	125	00:09:40	00:09:43	She was at Pendale's two days ago.	N
+126	126	126	00:09:43	00:09:47	Well, according to Brass, that was the last time her boyfriend's car was seen out front.	N
+127	127	127	00:10:25	00:10:27	Positive for both.	N
+128	128	128	00:10:27	00:10:30	Same here.	N
+129	129	129	00:10:30	00:10:33	So there's blood in all four drains, followed by bleach.	N
+130	130	130	00:10:33	00:10:36	He kills Debbie in the shower.	N
+131	131	131	00:10:36	00:10:40	Then he washes up in both sinks and in the tub?	N
+132	132	132	00:10:40	00:10:42	Why?	N
+133	133	133	00:10:42	00:10:46	The answer is in the drains.	N
+134	134	134	00:11:52	00:11:55	He cleaned everywhere but inside the shower.	N
+135	135	135	00:11:55	00:12:01	We're never going to know where the blood ends and the bleach begins.	N
+136	136	136	00:12:01	00:12:03	Where's all this blood coming from?	N
+137	137	137	00:12:07	00:12:09	Dr. Clark is on my surgical rotation.	N
+138	138	138	00:12:09	00:12:12	He was scheduled to assist this morning.	N
+139	139	139	00:12:12	00:12:13	No show.	N
+140	140	140	00:12:13	00:12:14	Oh.	N
+141	141	141	00:12:14	00:12:16	Was that like him?	N
+142	142	142	00:12:16	00:12:18	No. It's completely out of character.	N
+143	143	143	00:12:18	00:12:22	See, half of these interns come in here so scared, they couldn't carve a turkey.	N
+144	144	144	00:12:22	00:12:25	I have to give them scalpels with training wheels.	N
+145	145	145	00:12:25	00:12:26	Clark was different.	N
+146	146	146	00:12:26	00:12:30	He, uh, he's a real artist, a steady hand.	N
+147	147	147	00:12:30	00:12:32	Yeah, he has a gift.	N
+148	148	148	00:12:32	00:12:35	How about outside the O.R.?	N
+149	149	149	00:12:35	00:12:36	Was he socially gifted?	N
+150	150	150	00:12:36	00:12:41	He turned a lot of nurses' heads, but it never interfered with his work.	N
+151	151	151	00:12:41	00:12:42	Why the questions?	N
+152	152	152	00:12:42	00:12:44	Debbie Marlin, one of your nurses, was murdered.	N
+153	153	153	00:12:44	00:12:45	Throat slashed.	N
+154	154	154	00:12:45	00:12:47	You didn't know this?	N
+155	155	155	00:12:47	00:12:53	Dr. Clark and his steady hand haven't been seen or heard from since, so you don't have to be a brain surgeon to guess what I'm thinking.	N
+156	156	156	00:12:53	00:12:57	( pager beeping ) Uh... all I can ask is that I...	N
+157	157	157	00:12:57	00:12:59	I hope that you're wrong about Dr. Clark.	N
+158	158	158	00:12:59	00:13:00	Excuse me.	N
+159	159	159	00:13:09	00:13:10	No cleansers.	N
+160	160	160	00:13:10	00:13:16	No rags, no sponges, no paper towels...	N
+161	161	161	00:13:16	00:13:19	You'd think that she restocked when she went shopping.	N
+162	162	162	00:13:19	00:13:22	Well, I'm thinking the killer used everything the victim had.	N
+163	163	163	00:13:26	00:13:29	And then disposed of it.	N
+164	164	164	00:13:44	00:13:47	Nothing.	N
+165	165	165	00:13:58	00:14:00	Nothing here.	N
+166	166	166	00:15:09	00:15:12	I think I found the victim's internal organs.	N
+167	167	167	00:15:14	00:15:16	This guy meant business.	N
+168	168	168	00:15:19	00:15:22	I think I can confirm the victim's male.	N
+169	169	169	00:15:25	00:15:29	It seems he vacuumed to remove any trace from the house.	N
+170	170	170	00:15:31	00:15:34	City picks up the evidence and spreads it all over the dump.	N
+171	171	171	00:15:34	00:15:38	We have the victim's clothes.	N
+172	172	172	00:15:38	00:15:39	Very neatly folded.	N
+173	173	173	00:15:42	00:15:44	Well, if this is our boyfriend, then...	N
+174	174	174	00:15:46	00:15:48	...Brass is looking for a ghost.	N
+175	175	175	00:16:32	00:16:33	Heard about the shower.	N
+176	176	176	00:16:34	00:16:35	Nurse, huh?	N
+177	177	177	00:16:35	00:16:38	Multiple hairs, multiple donors.	N
+178	178	178	00:16:38	00:16:40	Looks like she had a few friends over.	N
+179	179	179	00:16:40	00:16:43	A little Nurses Gone Wild.	N
+180	180	180	00:16:48	00:16:49	Blanched.	N
+181	181	181	00:16:49	00:16:53	Killer poured bleach down all the drains.	N
+182	182	182	00:16:53	00:16:56	Talk about sucking all the life out of DNA.	N
+183	183	183	00:16:56	00:16:58	If there's anything left, it's probably denatured.	N
+184	184	184	00:17:09	00:17:12	Wait a minute.	N
+185	185	185	00:17:14	00:17:16	Wait, wait, wait...	N
+186	186	186	00:17:16	00:17:19	Bleach might have missed this one.	N
+187	187	187	00:17:23	00:17:25	Lucky for us...	N
+188	188	188	00:17:25	00:17:28	we got a skin tag.	N
+189	189	189	00:17:32	00:17:35	She's exsanguinated Time of death is anybody's guess.	N
+190	190	190	00:17:36	00:17:38	Rigor's past, so it's over 24 hours.	N
+191	191	191	00:17:38	00:17:45	Deep incised wound of the anterior and lateral neck, transecting both carotids and the anterior trachea.	N
+192	192	192	00:17:45	00:17:47	Cut's clean.	N
+193	193	193	00:17:47	00:17:50	Extremely sharp, short instrument.	N
+194	194	194	00:17:50	00:17:51	Scalpel?	N
+195	195	195	00:17:51	00:17:53	That's what I'm thinking.	N
+196	196	196	00:17:54	00:18:01	You know, I caught a 25-pound yellowtail last year off the coast of Mexico, and it took me half an hour to filet.	N
+197	197	197	00:18:01	00:18:10	Dismembering an adult male with this precision and without cutting through the bone, 12 hours minimum.	N
+198	198	198	00:18:10	00:18:11	Half a day.	N
+199	199	199	00:18:11	00:18:13	That's patience.	N
+200	200	200	00:18:13	00:18:17	The, uh, patella was cleanly removed.	N
+201	201	201	00:18:18	00:18:22	And with one slice, the femur was separated from the tibia and the fibula.	N
+202	202	202	00:18:22	00:18:25	There's a perverse elegance to this butchery.	N
+203	203	203	00:18:25	00:18:28	Oh, I'm not so sure I see it that way.	N
+204	204	204	00:18:28	00:18:32	A killer with knowledge of anatomy whose tool is a scalpel.	N
+205	205	205	00:18:32	00:18:35	I think the butcher was a doctor.	N
+206	206	206	00:18:36	00:18:41	So David, isolate all ten fingers, ink them, give Jacqui the ten-card.	N
+207	207	207	00:18:42	00:18:43	We need to know who he is.	N
+208	208	208	00:19:40	00:19:41	Grissom.	N
+209	209	209	00:19:41	00:19:43	Hey.	N
+210	210	210	00:19:43	00:19:47	Sara, uh, listen, I'm in a bad area.	N
+211	211	211	00:19:47	00:19:48	I'll call you back.	N
+212	212	212	00:19:48	00:19:51	I got a skin tag off the bathtub drain pipe.	N
+213	213	213	00:19:51	00:19:52	Skin tag? That's great. Uh, give it to Greg.	N
+214	214	214	00:19:53	00:19:54	Yeah, I did.	N
+215	215	215	00:19:54	00:19:56	Hey, do you want me to come over there and give you a hand?	N
+216	216	216	00:19:56	00:19:58	No, I-I'm fine.	N
+217	217	217	00:19:58	00:20:00	I'll-I'll, uh...	N
+218	218	218	00:20:00	00:20:02	I'll talk to you back at the lab.	N
+219	219	219	00:20:12	00:20:15	Hey, where'd Brass find the car?	N
+220	220	220	00:20:15	00:20:19	Long-term parking at McCarran.	N
+221	221	221	00:20:19	00:20:20	Ran the plates.	N
+222	222	222	00:20:20	00:20:22	R.O.-- Dr. Michael Clark.	N
+223	223	223	00:20:22	00:20:25	The head of security is giving us a copy of the surveillance tape.	N
+224	224	224	00:20:25	00:20:30	So, he kills her and whoever she was with, and then he hops a plane?	N
+225	225	225	00:20:30	00:20:31	Well, it seems like that.	N
+226	226	226	00:20:31	00:20:33	You know what they say down at P.D.	N
+227	227	227	00:20:33	00:20:36	The quickest way to get a car stolen is to leave it at the airport unlocked.	N
+228	228	228	00:20:36	00:20:38	( door clunks open ) See what I mean?	N
+229	229	229	00:20:38	00:20:40	Who doesn't know that?	N
+230	230	230	00:20:47	00:20:49	Black powder on a black dash.	N
+231	231	231	00:20:49	00:20:50	I know.	N
+232	232	232	00:20:50	00:20:53	Let's just superglue it, huh?	N
+233	233	233	00:21:33	00:21:35	Wipes and swirls.	N
+234	234	234	00:21:35	00:21:38	He cleaned everything but the driver's seat.	N
+235	235	235	00:21:38	00:21:41	Well, he had to drive himself to the airport, right?	N
+236	236	236	00:21:42	00:21:43	He put something on the seat.	N
+237	237	237	00:21:43	00:21:46	Whatever he put, he took it with him.	N
+238	238	238	00:21:48	00:21:50	The black, plastic bag.	N
+239	239	239	00:21:53	00:21:55	He missed a piece.	N
+240	240	240	00:21:55	00:22:00	He puts a bag on the seat, and then he adjusts it.	N
+241	241	241	00:22:01	00:22:05	How tall was he? Five-nine, according to the DMV report?	N
+242	242	242	00:22:08	00:22:13	Wow. I'm six-two, and this is more than enough room for me.	N
+243	243	243	00:22:13	00:22:17	So, whoever was driving this car, was way taller than five-nine.	N
+244	244	244	00:22:17	00:22:20	Two days ago, Debbie Marlin is off work.	N
+245	245	245	00:22:20	00:22:22	Sometime in the morning, she buys groceries.	N
+246	246	246	00:22:22	00:22:24	It's from Pendale's, the closest store in West Charleston.	N
+247	247	247	00:22:25	00:22:29	Brass talks to the box boy, remembered her, 15.	N
+248	248	248	00:22:30	00:22:33	Pendale's is about 20 minutes from her house.	N
+249	249	249	00:22:33	00:22:34	Where's Nick?	N
+250	250	250	00:22:34	00:22:37	American Academy of Forensics Science convention.	N
+251	251	251	00:22:37	00:22:39	Hey, guys, can we continue, please?	N
+252	252	252	00:22:39	00:22:42	She comes home from the grocery store.	N
+253	253	253	00:22:42	00:22:45	She parks in the driveway, and she begins to unload.	N
+254	254	254	00:22:47	00:22:48	Puts down her perishables first.	N
+255	255	255	00:22:48	00:22:52	She has to go back for second shifts, so she probably leaves the front door open.	N
+256	256	256	00:22:52	00:22:55	Explains why there was no forced entry.	N
+257	257	257	00:22:55	00:22:57	Getting ready for a date.	N
+258	258	258	00:22:57	00:22:58	Lighting candles.	N
+259	259	259	00:22:58	00:23:00	Multitasking.	N
+260	260	260	00:23:00	00:23:04	She opens up a bottle of wine, two glasses.	N
+261	261	261	00:23:04	00:23:10	Her girlfriend said that she was locking down for the afternoon with Michael Clark.	N
+262	262	262	00:23:10	00:23:13	Nosy neighbor puts the Mercedes in the driveway sometime around noon.	N
+263	263	263	00:23:13	00:23:14	Thought you guys would want to know.	N
+264	264	264	00:23:15	00:23:18	The hair Sara found is a match to the bags of human tissue.	N
+265	265	265	00:23:18	00:23:19	Prints confirm it.	N
+266	266	266	00:23:19	00:23:20	Per Jacqui, it's Michael Clark.	N
+267	267	267	00:23:20	00:23:26	So, um, most of our efforts have been towards identifying another victim.	N
+268	268	268	00:23:26	00:23:28	Michael Clark.	N
+269	269	269	00:23:28	00:23:30	But can we place him dead at the house?	N
+270	270	270	00:23:30	00:23:33	Greg, what else can you tell us about that hair?	N
+271	271	271	00:23:33	00:23:34	You mean hairs?	N
+272	272	272	00:23:34	00:23:35	There were two.	N
+273	273	273	00:23:35	00:23:38	Ancillary, maybe arm or leg hair.	N
+274	274	274	00:23:38	00:23:40	Found it in the tub drain.	N
+275	275	275	00:23:40	00:23:41	The abattoir of choice...	N
+276	276	276	00:23:41	00:23:44	for dismemberments.	N
+277	277	277	00:23:44	00:23:49	According to Jacqui, there were no prints found on the scalpel blades or handle, but the blood's a match to both victims.	N
+278	278	278	00:23:49	00:23:51	So Michael Clark was dead in the tub.	N
+279	279	279	00:23:51	00:23:53	We just don't know how he got there.	N
+280	280	280	00:23:53	00:23:56	Well, I KM'd the carpet at the threshold of the bathroom.	N
+281	281	281	00:23:56	00:23:57	It's negative for blood.	N
+282	282	282	00:23:57	00:24:01	So all the violence took place in the bathroom, at least anything that had to do with blood.	N
+283	283	283	00:24:01	00:24:06	The bathroom is big, but it's not big enough to kill two at the same time.	N
+284	284	284	00:24:06	00:24:08	She lights the candles in the shower.	N
+285	285	285	00:24:08	00:24:11	Her back is to the door.	N
+286	286	286	00:24:11	00:24:14	He grabs her from behind...	N
+287	287	287	00:24:15	00:24:17	...and slits her throat.	N
+288	288	288	00:24:20	00:24:28	Then he positions her body so that her face is the first thing the boyfriend sees when he walks in.	N
+289	289	289	00:24:28	00:24:30	So he takes seconds to kill Debbie.	N
+290	290	290	00:24:30	00:24:33	So why does he spend so much time cutting up Michael Clark?	N
+291	291	291	00:24:33	00:24:37	Most likely because Michael Clark was the real focus of his rage.	N
+292	292	292	00:25:23	00:25:25	Don't tell me you never went home?	N
+293	293	293	00:25:26	00:25:28	Okay.	N
+294	294	294	00:25:28	00:25:30	I just got started in here.	N
+295	295	295	00:25:30	00:25:33	I haven't even gotten to the other rooms yet.	N
+296	296	296	00:25:33	00:25:35	You know you lose your edge after 16 hours.	N
+297	297	297	00:25:35	00:25:36	You're into your third shift.	N
+298	298	298	00:25:36	00:25:40	I mean, I'm all for overtime, but this is just plain greedy.	N
+299	299	299	00:25:40	00:25:43	My knees can't take this anymore.	N
+300	300	300	00:25:43	00:25:44	Have you eaten anything?	N
+301	301	301	00:25:45	00:25:46	What did you bring?	N
+302	302	302	00:25:47	00:25:49	I'll see what's in the fridge.	N
+303	303	303	00:25:52	00:25:55	We have to replace that, you know.	N
+304	304	304	00:26:28	00:26:30	Hey... black lung.	N
+305	305	305	00:26:30	00:26:31	Ha, ha.	N
+306	306	306	00:26:31	00:26:34	I've been sifting through this trash for about six hours.	N
+307	307	307	00:26:34	00:26:37	You coming to rescue me or make fun of me?	N
+308	308	308	00:26:37	00:26:39	I am just looking. Relax.	N
+309	309	309	00:26:39	00:26:41	What are these white fibers here?	N
+310	310	310	00:26:41	00:26:45	They must be from the spare bedroom because all the other carpets are green.	N
+311	311	311	00:26:45	00:26:49	Spare bedroom wasn't on his entrance or exit path.	N
+312	312	312	00:26:49	00:26:54	Look, all I know is that they were near the top of the bag, so it must have been one of the last things he vacuumed.	N
+313	313	313	00:26:56	00:27:01	I did happen to find this butterfly pendant, with some white fibers on it.	N
+314	314	314	00:27:01	00:27:09	It looks like it's from a necklace or a bracelet and it has this link that snaps, so I'm thinking... sign of struggle?	N
+315	315	315	00:27:09	00:27:12	The killer was in that spare bedroom.	N
+316	316	316	00:27:20	00:27:22	Feel better?	N
+317	317	317	00:27:24	00:27:29	Well, now that we fed you, we should probably talk about a shower.	N
+318	318	318	00:27:30	00:27:32	I mean at your place.	N
+319	319	319	00:27:32	00:27:33	You need to go home.	N
+320	320	320	00:27:33	00:27:36	As soon as we find some evidence, I promise.	N
+321	321	321	00:27:36	00:27:38	With fresh eyes, you won't miss it.	N
+322	322	322	00:27:42	00:27:44	Just talk it through with me, will you?	N
+323	323	323	00:27:44	00:27:45	What do we know?	N
+324	324	324	00:27:45	00:27:48	All right.	N
+325	325	325	00:27:48	00:28:02	The bathroom is where things got started-- candles, oils, steam shower, cleaned up, oiled up, sexed up.	N
+326	326	326	00:28:02	00:28:04	Let's go back to the bedroom.	N
+327	327	327	00:28:10	00:28:12	No, nothing on this sheet.	N
+328	328	328	00:28:25	00:28:29	She changed her sheets for her date-- I would.	N
+329	329	329	00:28:35	00:28:37	Hey, Cath?	N
+330	330	330	00:28:39	00:28:42	Got silk?	N
+331	331	331	00:28:48	00:28:51	Why, yes, I do.	N
+332	332	332	00:28:55	00:28:57	I don't mean to embarrass you, but, um...	N
+333	333	333	00:28:59	00:29:01	...some guys need leverage.	N
+334	334	334	00:29:03	00:29:05	They do?	N
+335	335	335	00:29:05	00:29:06	I'll dust for prints.	N
+336	336	336	00:29:11	00:29:14	Grissom.	N
+337	337	337	00:29:14	00:29:17	Hey, Warrick.	N
+338	338	338	00:29:18	00:29:20	Butterfly? Where?	N
+339	339	339	00:29:22	00:29:24	I haven't checked the spare bedroom.	N
+340	340	340	00:29:24	00:29:26	I'll call you back.	N
+341	341	341	00:30:32	00:30:34	Hang one.	N
+342	342	342	00:30:34	00:30:35	Toe print.	N
+343	343	343	00:30:35	00:30:38	I'll have Sara compare it against both victims.	N
+344	344	344	00:30:38	00:30:39	Good.	N
+345	345	345	00:30:39	00:30:43	Warrick found a butterfly charm in the vacuum bag.	N
+346	346	346	00:30:44	00:30:47	I think I just found a piece from the same chain in this box.	N
+347	347	347	00:30:48	00:30:50	Butterfly, huh?	N
+348	348	348	00:30:50	00:30:52	She had a collection.	N
+349	349	349	00:30:52	00:30:56	Gifts from her... gentlemen callers?	N
+350	350	350	00:30:56	00:31:00	Maybe the killer was taking his gift back, as in leave no trace.	N
+351	351	351	00:31:00	00:31:05	Maybe he finally ran out of patience and got sloppy.	N
+352	352	352	00:31:21	00:31:23	And this is why I didn't leave.	N
+353	353	353	00:32:27	00:32:28	Hey, you seen Grissom?	N
+354	354	354	00:32:28	00:32:30	He's still at the crime scene.	N
+355	355	355	00:32:30	00:32:34	I eliminated both victims from the print you pulled off the bed.	N
+356	356	356	00:32:34	00:32:37	Well, we know she was fishing off the company pier.	N
+357	357	357	00:32:39	00:32:40	You, uh, seen Debbie?	N
+358	358	358	00:32:41	00:32:42	Yeah.	N
+359	359	359	00:32:42	00:32:43	And?	N
+360	360	360	00:32:43	00:32:46	Yeah, I compared her toe prints.	N
+361	361	361	00:32:46	00:32:48	If I didn't know better I'd think that was you on that table.	N
+362	362	362	00:32:49	00:32:51	I didn't really look at her face.	N
+363	363	363	00:32:54	00:32:56	When you see Grissom, will you tell him?	N
+364	364	364	00:33:02	00:33:03	Oh, that feels nice.	N
+365	365	365	00:33:03	00:33:05	Do you have something to take this off?	N
+366	366	366	00:33:05	00:33:06	Just step on the card, please.	N
+367	367	367	00:33:07	00:33:09	Good thing you caught me early in the shift.	N
+368	368	368	00:33:09	00:33:11	Yeah, lucky for me.	N
+369	369	369	00:33:11	00:33:14	I think I could probably tell who pulled a double.	N
+370	370	370	00:33:14	00:33:16	Listen, I've got a patient waiting in pre-op.	N
+371	371	371	00:33:17	00:33:18	We'll have you out in a minute.	N
+372	372	372	00:33:18	00:33:22	We appreciate you providing your prints voluntarily.	N
+373	373	373	00:33:25	00:33:28	Well, there's probably a little bit of a lot of us in Debbie's house.	N
+374	374	374	00:33:28	00:33:31	Oh, we'll know soon enough.	N
+375	375	375	00:33:33	00:33:34	Thank you.	N
+376	376	376	00:33:34	00:33:36	You understand, right?	N
+377	377	377	00:33:36	00:33:38	The police aren't the only ones with a code of honor.	N
+378	378	378	00:33:38	00:33:43	Now, some of these men are married, and if this gets out...	N
+379	379	379	00:33:43	00:33:46	Nothing gets out unless it needs to get out.	N
+380	380	380	00:33:46	00:33:48	Got a match.	N
+381	381	381	00:33:52	00:33:54	Dr. Tripton.	N
+382	382	382	00:33:54	00:33:59	I'm afraid your patient in pre-op is going to have to wait a little while longer.	N
+383	383	383	00:34:07	00:34:09	Don't really know why I'm here.	N
+384	384	384	00:34:09	00:34:12	Your toe print was found in Debbie Marlin's house.	N
+385	385	385	00:34:12	00:34:16	Same house she was murdered in.	N
+386	386	386	00:34:16	00:34:21	Her car was in the shop, and I gave her a ride home one night, and she invited me in for a cup of coffee.	N
+387	387	387	00:34:21	00:34:24	She didn't like anyone wearing shoes in the house.	N
+388	388	388	00:34:25	00:34:26	Some Feng Shui thing.	N
+389	389	389	00:34:26	00:34:29	So, you Feng Shuied your way to the bed?	N
+390	390	390	00:34:30	00:34:32	She was provocative.	N
+391	391	391	00:34:32	00:34:36	You take your coat off, she has her clothes off.	N
+392	392	392	00:34:37	00:34:39	She came on to me.	N
+393	393	393	00:34:39	00:34:42	Come on, Doc, let's do it.	N
+394	394	394	00:34:45	00:34:47	Take a look.	N
+395	395	395	00:34:53	00:34:56	All right, well, let's talk about what's not open to interpretation.	N
+396	396	396	00:34:56	00:34:59	Yours were the only prints found in the house.	N
+397	397	397	00:34:59	00:35:04	Michael Clark was on your rotation-- he was on your surgical team the day he was killed.	N
+398	398	398	00:35:04	00:35:07	You called in sick. Surgery was canceled.	N
+399	399	399	00:35:07	00:35:11	Freed him up to be with Debbie, who also had the day off. What luck.	N
+400	400	400	00:35:11	00:35:13	My son had a ball game.	N
+401	401	401	00:35:13	00:35:14	My daughter was at a swim meet.	N
+402	402	402	00:35:14	00:35:17	My wife was at a conference, and the surgery was elective.	N
+403	403	403	00:35:17	00:35:19	Not a stretch.	N
+404	404	404	00:35:19	00:35:20	Your wife know about you and Debbie?	N
+405	405	405	00:35:20	00:35:22	No.	N
+406	406	406	00:35:22	00:35:23	She asked for sex, right?	N
+407	407	407	00:35:23	00:35:25	She also asked for the bracelet, too, huh?	N
+408	408	408	00:35:27	00:35:30	No, but... I gave it to her.	N
+409	409	409	00:35:30	00:35:32	This one.	N
+410	410	410	00:35:32	00:35:34	She loved butterflies.	N
+411	411	411	00:35:34	00:35:39	Uh, I figured if I gave something special to her, she'd give something special to me.	N
+412	412	412	00:35:40	00:35:41	Hmm.	N
+413	413	413	00:35:42	00:35:43	So it was a long-term relationship?	N
+414	414	414	00:35:47	00:35:50	That's the spare bedroom hair.	N
+415	415	415	00:35:52	00:35:55	There's an oily film on the surface of the hair.	N
+416	416	416	00:35:55	00:35:56	Propylene glycol.	N
+417	417	417	00:35:57	00:36:00	Active ingredient in Rogaine for male pattern baldness.	N
+418	418	418	00:36:00	00:36:06	Personally, I don't use the stuff, but my grandfather, Papa Olaf-- he was Bruce Willis at age 16.	N
+419	419	419	00:36:07	00:36:12	Lucky for me, baldness comes from the mother's side, so I'm safe... Greg, please, I'm very tired.	N
+420	420	420	00:36:12	00:36:15	Well, maybe the guy we're looking for is going bald...	N
+421	421	421	00:36:15	00:36:16	or trying not to.	N
+422	422	422	00:36:16	00:36:22	According to Papa Olaf, a lot of guys who use Rogaine also use Propecia, kind of like a cocktail.	N
+423	423	423	00:36:22	00:36:23	I ran the hair through MassSpec.	N
+424	424	424	00:36:24	00:36:30	ethyl alcohol, propylene glycol, minoxidil, and finasteride.	N
+425	425	425	00:36:30	00:36:34	Finasteride, the chemical name for Propecia.	N
+426	426	426	00:36:34	00:36:37	But wait, there's more, and it's a family secret.	N
+427	427	427	00:36:37	00:36:40	Sexual. Happens in less than two percent of users.	N
+428	428	428	00:36:40	00:36:43	Papa Olaf was one of those guys that needed hydraulics.	N
+429	429	429	00:36:51	00:36:53	Oh.	N
+430	430	430	00:36:53	00:36:55	The prodigal CSI returns.	N
+431	431	431	00:36:55	00:36:56	You get any sleep?	N
+432	432	432	00:36:56	00:36:58	Not yet.	N
+433	433	433	00:36:59	00:37:01	So, uh, Brass had to let Dr. Tripton go.	N
+434	434	434	00:37:01	00:37:02	The old sex alibi.	N
+435	435	435	00:37:03	00:37:06	Too bad he didn't leave a toe print on a scalpel blade.	N
+436	436	436	00:37:06	00:37:07	You got a take on him?	N
+437	437	437	00:37:07	00:37:11	Balloon head, but credible... like most adulterers.	N
+438	438	438	00:37:11	00:37:12	Is he going bald?	N
+439	439	439	00:37:12	00:37:13	Not really.	N
+440	440	440	00:37:13	00:37:15	Grey hair?	N
+441	441	441	00:37:15	00:37:17	No.	N
+442	442	442	00:37:17	00:37:19	Anything else?	N
+443	443	443	00:37:19	00:37:21	He's a lefty.	N
+444	444	444	00:37:21	00:37:23	Okay, keep in mind, this is just a theory.	N
+445	445	445	00:37:23	00:37:27	It's a hot button issue among forensic pathologists.	N
+446	446	446	00:37:27	00:37:34	What's the consensus? Most doctors say it's impossible to prove handedness based on the wounds inflicted on a victim.	N
+447	447	447	00:37:34	00:37:36	Forget hard science. What's your hypothesis?	N
+448	448	448	00:37:36	00:37:42	Based on micro-incisions and hesitation marks, the victim was lying face up when he was killed.	N
+449	449	449	00:37:42	00:37:46	Take a look at the right knee.	N
+450	450	450	00:37:46	00:37:53	The cut on the cartilage of the right distal femur has slight angulations from the, uh...	N
+451	451	451	00:37:53	00:37:57	left distal to the right proximal, which suggests the killer was left-handed.	N
+452	452	452	00:37:57	00:38:05	This angulation is consistent with cuts made to the acetabulum and to the wrist, but bear in mind, it's not going to be admissible in court.	N
+453	453	453	00:38:05	00:38:08	I don't care about court.	N
+454	454	454	00:38:08	00:38:14	My mind's on a left-handed, Propecia-using surgeon who's probably on staff at Desert Palm.	N
+455	455	455	00:38:46	00:38:48	There was no need for the light show.	N
+456	456	456	00:38:48	00:38:50	All you had to do was ask.	N
+457	457	457	00:38:50	00:38:52	Good.	N
+458	458	458	00:38:52	00:38:54	Since we're being completely honest...	N
+459	459	459	00:38:54	00:38:56	are you losing your hair?	N
+460	460	460	00:38:56	00:38:59	I'm a 48-year-old man. I'm not unique.	N
+461	461	461	00:39:00	00:39:01	Your hair is, though.	N
+462	462	462	00:39:02	00:39:05	We found it at the crime scene.	N
+463	463	463	00:39:05	00:39:08	Minoxidil absorbs infrared light.	N
+464	464	464	00:39:10	00:39:13	I-I take Rogaine and Propecia.	N
+465	465	465	00:39:13	00:39:26	Again, not unique. Well, we think that Debbie Marlin and Michael Clark were killed by a surgeon who is left-handed, Dr. Tripton, who has an alibi, and you.	N
+466	466	466	00:39:26	00:39:31	Well, if you're going to make accusations, you should really do your homework.	N
+467	467	467	00:39:31	00:39:34	Howard and I are the only lefties on staff.	N
+468	468	468	00:39:34	00:39:37	Dr. Randolph, who has privileges at the hospital, he's also a lefty.	N
+469	469	469	00:39:37	00:39:39	We play tennis every Wednesday.	N
+470	470	470	00:39:39	00:39:41	He's got a heck of a back-hand.	N
+471	471	471	00:39:42	00:39:48	If you want me to name more names, I could, but you don't want me to do your job for you, do you?	N
+472	472	472	00:39:48	00:39:49	Gentlemen...	N
+473	473	473	00:39:49	00:39:57	we're here as a courtesy, so if you're quite through wasting our time, I think that the doctor would like to get back to the business of saving lives.	N
+474	474	474	00:39:57	00:39:58	Not so fast.	N
+475	475	475	00:39:58	00:40:02	Is this a link from a bracelet you gave Debbie?	N
+476	476	476	00:40:04	00:40:06	Mm-hmm. It looks like it.	N
+477	477	477	00:40:06	00:40:08	Where's the rest of it?	N
+478	478	478	00:40:08	00:40:11	This link was vacuumed from the floor of the spare bedroom after the murder.	N
+479	479	479	00:40:11	00:40:12	The other link was in her jewelry box.	N
+480	480	480	00:40:12	00:40:19	The funny thing is that all the bracelets from the other guys she slept with are intact.	N
+481	481	481	00:40:19	00:40:25	Well, all I can tell you is when I gave it to her, it was in one piece.	N
+482	482	482	00:40:33	00:40:35	Do you have any other evidence?	N
+483	483	483	00:40:36	00:40:39	No, we don't.	N
+484	484	484	00:40:39	00:40:42	We might not have any other evidence, but we have a theory.	N
+485	485	485	00:40:42	00:40:44	That's not admissible in court.	N
+486	486	486	00:40:44	00:40:46	Oh, no, no, it's worth a listen.	N
+487	487	487	00:40:51	00:40:57	We think you killed Debbie Marlin because she rejected you, and Michael Clark paid the price.	N
+488	488	488	00:41:02	00:41:09	Thank you for your time and your theories, you don't have a case.	N
+489	489	489	00:41:09	00:41:11	Doctor.	N
+490	490	490	00:41:16	00:41:18	It's sad, isn't it, Doc?	N
+491	491	491	00:41:19	00:41:21	Guys like us.	N
+492	492	492	00:41:23	00:41:27	Couple of middle-aged men who've allowed their work to consume their lives.	N
+493	493	493	00:41:29	00:41:34	The only time we ever touch other people is when we're wearing our latex gloves.	N
+494	494	494	00:41:36	00:41:41	We wake up one day and realize that for 50 years we haven't really lived at all.	N
+495	495	495	00:41:43	00:41:47	But then, all of a sudden...	N
+496	496	496	00:41:47	00:41:49	we get a second chance.	N
+497	497	497	00:41:52	00:41:54	Somebody young and beautiful shows up.	N
+498	498	498	00:41:54	00:41:55	Somebody...	N
+499	499	499	00:41:55	00:41:58	we could care about.	N
+500	500	500	00:41:58	00:42:01	She offers us a new life with her...	N
+501	501	501	00:42:03	00:42:06	...but we have a big decision to make, right?	N
+502	502	502	00:42:06	00:42:11	Because we have to risk everything we've worked for in order to have her.	N
+503	503	503	00:42:15	00:42:19	I couldn't do it...	N
+504	504	504	00:42:19	00:42:21	but you did.	N
+505	505	505	00:42:23	00:42:26	You risked it all...	N
+506	506	506	00:42:26	00:42:30	and she showed you a wonderful life, didn't she?	N
+507	507	507	00:42:34	00:42:40	But then she took it away and gave it to somebody else, and you were lost.	N
+508	508	508	00:42:43	00:42:45	So you took her life.	N
+509	509	509	00:42:51	00:42:54	Debbie, it's me, Michael.	N
+510	510	510	00:42:58	00:43:03	You killed them both, and now you have nothing.	N
+511	511	511	00:43:05	00:43:07	I'm still here.	N
+512	512	512	00:43:08	00:43:10	Are you?	N
