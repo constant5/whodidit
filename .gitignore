@@ -3,3 +3,5 @@ venv/
 .config
 .cookie
 .vscode/
+model/bert-base-uncased-csi-trained/config.json
+model/
