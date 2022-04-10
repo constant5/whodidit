@@ -28,6 +28,7 @@ Resources
 4. https://medium.com/@vishwajeetkumar_85368/news-classification-using-bidirectional-lstm-and-attention-a67aa803ca74
 5. https://github.com/vishwajeetkr/Deep_News_Classifier
 6. https://huggingface.co/flax-sentence-embeddings/all_datasets_v3_mpnet-base
+7. https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e
 
 
 
