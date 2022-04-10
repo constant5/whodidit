@@ -5,3 +5,4 @@ venv/
 .vscode/
 model/bert-base-uncased-csi-trained/config.json
 model/
+labeled_subs/*.bin
